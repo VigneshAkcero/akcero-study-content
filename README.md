@@ -37,8 +37,8 @@ Each feature JSON carries a `chapter_info` block:
 
 ## How it reaches the app
 
-Publishing is done by `tooling/publish_study_content.py` in the AlphaBuddy app
-repo. For each chapter-feature file it:
+Publishing is done by [`publish_study_content.py`](publish_study_content.py) in
+this repo. For each chapter-feature file it:
 
 1. computes a **SHA-256 content hash**,
 2. uploads the file to Firebase Storage at
@@ -59,14 +59,15 @@ changed** — silently, in the background. Unchanged files are skipped.
 ## Editing content
 
 1. Add or edit a JSON file under the appropriate `class<N>/<subject>/<Chapter>/`.
-2. From the app repo, run:
+2. From this repo's root, run:
    ```bash
-   python3 tooling/publish_study_content.py            # all classes
-   python3 tooling/publish_study_content.py --grade 08 # one class
-   python3 tooling/publish_study_content.py --dry-run   # preview, no writes
+   python3 publish_study_content.py            # all classes
+   python3 publish_study_content.py --grade 08 # one class
+   python3 publish_study_content.py --dry-run  # preview, no writes
    ```
-   (The publisher defaults its content source to `~/Desktop/akcero-study-content`;
-   use `--source <path>` to point elsewhere.)
+   The publisher defaults its content source to this repo's own folder; use
+   `--source <path>` to point elsewhere. It requires `gcloud` to be installed and
+   authenticated (`gcloud auth login`) with access to the Firebase project.
 3. Students receive the change on their next app launch.
 
 ## Notes
