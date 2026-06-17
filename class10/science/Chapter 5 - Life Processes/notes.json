@@ -1,0 +1,244 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Life Processes",
+    "chapter_number": 5
+  },
+  "notes": [
+    {
+      "section_title": "5.1 Introduction to Life Processes",
+      "topics": [
+        {
+          "topic_name": "Definition and Importance",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Life processes are the collective maintenance functions that keep living organisms alive and ensure their survival even when they are not performing active movements. These include nutrition, respiration, transportation, and excretion."
+            },
+            {
+              "type": "paragraph",
+              "text": "Molecular movement is essential for life because organized biological structures tend to break down over time due to environmental effects; constant repair and maintenance are required."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.2 Nutrition",
+      "topics": [
+        {
+          "topic_name": "Autotrophic Nutrition",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Autotrophs like green plants use photosynthesis to convert inorganic CO₂ and water into high-energy carbohydrates (starch) using sunlight and chlorophyll."
+            },
+            {
+              "type": "list",
+              "title": "Steps of Photosynthesis",
+              "items": [
+                "Absorption of light energy by chlorophyll.",
+                "Conversion of light energy to chemical energy and splitting of water into hydrogen and oxygen.",
+                "Reduction of carbon dioxide to carbohydrates."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Stomatal Function",
+              "text": "Stomata are tiny pores on leaf surfaces that facilitate gas exchange. Guard cells regulate their opening and closing by swelling (when water enters) or shrinking."
+            }
+          ]
+        },
+        {
+          "topic_name": "Heterotrophic Nutrition",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Heterotrophs depend on complex organic substances for energy. Strategies include saprotrophic (fungi), parasitic (cuscuta, ticks), and holozoic (amoeba, humans) nutrition."
+            },
+            {
+              "type": "paragraph",
+              "text": "Amoeba captures food using pseudopodia (finger-like extensions) to form a food vacuole, where digestion and diffusion occur."
+            }
+          ]
+        },
+        {
+          "topic_name": "Human Alimentary Canal",
+          "content": [
+            {
+              "type": "list",
+              "title": "Digestive Organs and Functions",
+              "items": [
+                "Mouth: Salivary amylase breaks starch into sugar; teeth crush food.",
+                "Stomach: Gastric glands release HCl (acidic medium), Pepsin (protein digestion), and mucus (lining protection).",
+                "Small Intestine: Site of complete digestion. Receives bile (fats emulsification) from liver and pancreatic juice (trypsin for proteins, lipase for fats) from pancreas.",
+                "Villi: Finger-like projections in the small intestine that increase surface area for nutrient absorption into the blood."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.3 Respiration",
+      "topics": [
+        {
+          "topic_name": "Cellular Respiration Pathways",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Respiration breaks down glucose (6-carbon) into pyruvate (3-carbon) in the cytoplasm, followed by different pathways depending on oxygen availability."
+            },
+            {
+              "type": "list",
+              "title": "Pathways of Pyruvate Breakdown",
+              "items": [
+                "Aerobic: In mitochondria, pyruvate breaks into CO₂ and water, releasing high energy.",
+                "Anaerobic (Yeast): Pyruvate converts to ethanol and CO₂ (Fermentation).",
+                "Anaerobic (Muscles): Lack of oxygen converts pyruvate to lactic acid, causing cramps."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "ATP - Energy Currency",
+              "text": "Energy from respiration is stored in ATP (Adenosine Triphosphate). Breaking its terminal phosphate bond releases 30.5 kJ/mol for cellular activities."
+            }
+          ]
+        },
+        {
+          "topic_name": "Human Respiratory System",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Air enters through nostrils (filtered by hair and mucus), passes through rings of cartilage in the throat to prevent collapse, and reaches the lungs."
+            },
+            {
+              "type": "paragraph",
+              "text": "Alveoli are balloon-like structures that provide a massive surface area for gas exchange. Oxygen is captured by haemoglobin in Red Blood Cells, while CO₂ is transported in dissolved form in plasma."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.4 Transportation",
+      "topics": [
+        {
+          "topic_name": "Human Circulatory System",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The heart acts as a pump with four chambers to prevent mixing of oxygenated and deoxygenated blood. It performs double circulation: blood passes through the heart twice in one cycle."
+            },
+            {
+              "type": "list",
+              "title": "Blood Vessels",
+              "items": [
+                "Arteries: Thick-walled, carry oxygenated blood away from the heart under high pressure.",
+                "Veins: Thin-walled with valves, carry deoxygenated blood back to the heart.",
+                "Capillaries: Single-cell thick vessels where actual exchange of materials occurs."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Lymph",
+              "text": "A colourless fluid that escapes from capillaries into intercellular spaces. It drains excess tissue fluid back into blood and transports digested fats."
+            }
+          ]
+        },
+        {
+          "topic_name": "Transportation in Plants",
+          "content": [
+            {
+              "type": "list",
+              "title": "Vascular Tissues",
+              "items": [
+                "Xylem: Transports water and minerals from roots to leaves using root pressure (at night) and transpiration pull (during day).",
+                "Phloem: Transports products of photosynthesis (translocation) from leaves to storage organs and growing parts using energy from ATP."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.5 Excretion",
+      "topics": [
+        {
+          "topic_name": "Human Excretory System",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The system includes kidneys, ureters, urinary bladder, and urethra. Kidneys filter nitrogenous wastes like urea from the blood."
+            },
+            {
+              "type": "paragraph",
+              "text": "Nephrons are the functional units of filtration. Each nephron consists of a Bowman’s capsule (collecting filtrate) and a cluster of capillaries called glomerulus. Reabsorption of glucose, salts, and water occurs along the tubule."
+            }
+          ]
+        },
+        {
+          "topic_name": "Excretion in Plants",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Plants use diverse strategies: Oxygen is released as waste, excess water is lost via transpiration, and metabolic wastes are stored in cellular vacuoles, dead tissues, or old xylem (resins/gums)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Autotrophs",
+      "definition": "Organisms that synthesize their own food from inorganic sources like CO₂ and water."
+    },
+    {
+      "term": "Heterotrophs",
+      "definition": "Organisms that depend on complex substances prepared by other living things."
+    },
+    {
+      "term": "Peristalsis",
+      "definition": "The rhythmic contraction and relaxation of muscles in the alimentary canal to push food forward."
+    },
+    {
+      "term": "Bile Juice",
+      "definition": "A secretion from the liver that emulsifies fats and makes the acidic food from the stomach alkaline."
+    },
+    {
+      "term": "Villi",
+      "definition": "Small finger-like projections in the small intestine that increase surface area for nutrient absorption."
+    },
+    {
+      "term": "ATP",
+      "definition": "Adenosine Triphosphate, the energy currency for most cellular processes."
+    },
+    {
+      "term": "Double Circulation",
+      "definition": "A circulatory system where blood travels through the heart twice during a single complete cycle through the body."
+    },
+    {
+      "term": "Transpiration Pull",
+      "definition": "The suction force created by evaporation of water from leaves that pulls water upward from the roots."
+    },
+    {
+      "term": "Translocation",
+      "definition": "The transport of soluble products of photosynthesis through the phloem."
+    },
+    {
+      "term": "Nephron",
+      "definition": "The structural and functional unit of the kidney responsible for filtration and urine formation."
+    }
+  ],
+  "summary_points": [
+    "Life processes like nutrition, respiration, transportation, and excretion are essential for the maintenance and repair of biological structures.",
+    "Photosynthesis in autotrophs converts solar energy into chemical energy stored as carbohydrates.",
+    "Human digestion involves specialized organs and enzymes like amylase, pepsin, trypsin, and lipase to break down complex food.",
+    "Respiration can be aerobic (efficient) or anaerobic, with ATP serving as the universal energy currency for cells.",
+    "The human heart and blood vessels ensure efficient transport of oxygen and nutrients while removing metabolic wastes.",
+    "Plants utilize xylem and phloem for the transport of water and food respectively, driven by processes like transpiration and osmotic pressure.",
+    "Excretion removes harmful nitrogenous wastes from the body through kidneys and nephrons in humans, and through various mechanisms in plants."
+  ]
+}

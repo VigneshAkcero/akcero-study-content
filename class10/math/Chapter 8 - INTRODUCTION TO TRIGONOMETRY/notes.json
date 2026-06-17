@@ -1,0 +1,470 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Introduction to Trigonometry",
+    "chapter_number": 8
+  },
+  "notes": [
+    {
+      "section_title": "8.1 Introduction and Real-World Applications",
+      "topics": [
+        {
+          "topic_name": "Why Trigonometry Matters",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Trigonometry is the study of relationships between the sides and angles of a triangle. The word is derived from Greek: 'tri' (three), 'gon' (sides), and 'metron' (measure). It provides mathematical techniques to solve practical problems involving distances and heights that cannot be measured directly."
+            },
+            {
+              "type": "paragraph",
+              "text": "Early astronomers used trigonometry to find distances of stars and planets from Earth. Today, it is fundamental in engineering, physics, navigation, surveying, and architecture. For example, determining the height of a building from ground level, finding the altitude of a flying object, or measuring the width of a river can all be solved using trigonometric concepts."
+            },
+            {
+              "type": "note",
+              "title": "Practical Examples",
+              "text": "Consider a student looking up at the top of a tower. By knowing the distance from the tower (horizontal distance) and the angle of elevation, trigonometry can determine the height. Similarly, from a ship at sea, the angle of elevation to a lighthouse can help determine distance to shore."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "8.2 Trigonometric Ratios in Right Triangles",
+      "topics": [
+        {
+          "topic_name": "Understanding Right Triangle Components",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In a right triangle ABC with the right angle at B, consider an acute angle A. The three sides are defined relative to angle A: (1) The side opposite to angle A is BC. (2) The side adjacent to angle A is AB. (3) The hypotenuse AC is the longest side opposite the right angle."
+            },
+            {
+              "type": "paragraph",
+              "text": "These three sides form the foundation of trigonometric ratios. The position and naming of sides change when we consider a different acute angle in the same triangle. For example, if we focus on angle C instead of angle A, the opposite and adjacent sides swap positions."
+            },
+            {
+              "type": "note",
+              "title": "Key Terminology",
+              "text": "Opposite side: The side across from the angle being considered. Adjacent side: The side next to the angle being considered (excluding the hypotenuse). Hypotenuse: Always the longest side, opposite the right angle."
+            }
+          ]
+        },
+        {
+          "topic_name": "Six Trigonometric Ratios",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "For an acute angle A in a right triangle, six trigonometric ratios are defined using the sides of the triangle. These ratios are constant for a given angle, regardless of the triangle's size."
+            },
+            {
+              "type": "list",
+              "title": "The Six Trigonometric Ratios",
+              "items": [
+                "sine (sin A) = opposite/hypotenuse",
+                "cosine (cos A) = adjacent/hypotenuse",
+                "tangent (tan A) = opposite/adjacent",
+                "cosecant (cosec A) = 1/sin A = hypotenuse/opposite",
+                "secant (sec A) = 1/cos A = hypotenuse/adjacent",
+                "cotangent (cot A) = 1/tan A = adjacent/opposite"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Note that cosec A, sec A, and cot A are reciprocals of sin A, cos A, and tan A respectively. Additionally, tan A = sin A/cos A and cot A = cos A/sin A. The symbols sin A, cos A, etc., represent the ratios themselves, not products of 'sin' with 'A'."
+            }
+          ]
+        },
+        {
+          "topic_name": "Key Property: Ratio Independence from Triangle Size",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A crucial property of trigonometric ratios is that they depend only on the angle, not on the size of the triangle. If we consider similar triangles all containing the same angle A, the ratios will be identical."
+            },
+            {
+              "type": "paragraph",
+              "text": "This is proven using the concept of similar triangles. If two right triangles share the same acute angle A, they are similar by the AA (Angle-Angle) criterion. By the property of similar triangles, corresponding sides are proportional, so all trigonometric ratios remain the same."
+            },
+            {
+              "type": "note",
+              "title": "Important Consequence",
+              "text": "The trigonometric ratios are properties of the angle itself, not the specific triangle. This allows us to calculate trigonometric values for any angle using any right triangle containing that angle."
+            }
+          ]
+        },
+        {
+          "topic_name": "Finding Other Ratios from One Given Ratio",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "If one trigonometric ratio is known, all others can be determined. The method involves constructing a right triangle with sides satisfying the known ratio, then using the Pythagorean theorem to find the third side."
+            },
+            {
+              "type": "example",
+              "id": "trig1",
+              "title": "Example 1: Finding Ratios from sin A",
+              "problem": "If sin A = 1/3, find cos A, tan A, and sec A.",
+              "solution": "Since sin A = opposite/hypotenuse = 1/3, let opposite = k and hypotenuse = 3k for some positive k. Using Pythagorean theorem: adjacent² = hypotenuse² − opposite² = (3k)² − k² = 9k² − k² = 8k², so adjacent = 2√2 k. Therefore: cos A = adjacent/hypotenuse = 2√2 k/(3k) = 2√2/3; tan A = opposite/adjacent = k/(2√2 k) = 1/(2√2) = √2/4; sec A = 1/cos A = 3/(2√2) = 3√2/4."
+            },
+            {
+              "type": "example",
+              "id": "trig2",
+              "title": "Example 2: Finding Ratios from tan A",
+              "problem": "If tan A = 4/3, find sin A and cos A.",
+              "solution": "Since tan A = opposite/adjacent = 4/3, let opposite = 4k and adjacent = 3k. Using Pythagorean theorem: hypotenuse² = opposite² + adjacent² = (4k)² + (3k)² = 16k² + 9k² = 25k², so hypotenuse = 5k. Therefore: sin A = opposite/hypotenuse = 4k/(5k) = 4/5; cos A = adjacent/hypotenuse = 3k/(5k) = 3/5."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "8.3 Trigonometric Ratios of Standard Angles",
+      "topics": [
+        {
+          "topic_name": "Trigonometric Ratios of 45°",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "For 45°, consider an isosceles right triangle where both acute angles are 45°. If each leg has length a, then by the Pythagorean theorem, the hypotenuse is a√2."
+            },
+            {
+              "type": "list",
+              "title": "Ratios for 45°",
+              "items": [
+                "sin 45° = a/(a√2) = 1/√2 = √2/2",
+                "cos 45° = a/(a√2) = 1/√2 = √2/2",
+                "tan 45° = a/a = 1",
+                "cosec 45° = a√2/a = √2",
+                "sec 45° = a√2/a = √2",
+                "cot 45° = a/a = 1"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Trigonometric Ratios of 30° and 60°",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "For 30° and 60°, start with an equilateral triangle where all angles are 60° and all sides are 2a. Draw an altitude from one vertex to the opposite side. This altitude bisects the vertex angle into two 30° angles and the base into two equal parts of length a."
+            },
+            {
+              "type": "paragraph",
+              "text": "The altitude creates a right triangle with: hypotenuse = 2a (original side), base = a (half the original base), and height = √(4a² − a²) = a√3 (by Pythagorean theorem)."
+            },
+            {
+              "type": "list",
+              "title": "Ratios for 30°",
+              "items": [
+                "sin 30° = a/(2a) = 1/2",
+                "cos 30° = (a√3)/(2a) = √3/2",
+                "tan 30° = a/(a√3) = 1/√3 = √3/3",
+                "cosec 30° = 2a/a = 2",
+                "sec 30° = 2a/(a√3) = 2/√3 = 2√3/3",
+                "cot 30° = (a√3)/a = √3"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Ratios for 60°",
+              "items": [
+                "sin 60° = (a√3)/(2a) = √3/2",
+                "cos 60° = a/(2a) = 1/2",
+                "tan 60° = (a√3)/a = √3",
+                "cosec 60° = 2a/(a√3) = 2/√3 = 2√3/3",
+                "sec 60° = 2a/a = 2",
+                "cot 60° = a/(a√3) = 1/√3 = √3/3"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Trigonometric Ratios of 0° and 90°",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "For 0°, imagine a right triangle where angle A approaches 0°. As A gets smaller, the opposite side becomes very small while the adjacent side approaches the hypotenuse length."
+            },
+            {
+              "type": "list",
+              "title": "Ratios for 0°",
+              "items": [
+                "sin 0° = 0",
+                "cos 0° = 1",
+                "tan 0° = 0",
+                "cosec 0° = undefined (1/0)",
+                "sec 0° = 1",
+                "cot 0° = undefined"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "For 90°, imagine a right triangle where angle A approaches 90°. The opposite side approaches the hypotenuse while the adjacent side becomes very small."
+            },
+            {
+              "type": "list",
+              "title": "Ratios for 90°",
+              "items": [
+                "sin 90° = 1",
+                "cos 90° = 0",
+                "tan 90° = undefined (1/0)",
+                "cosec 90° = 1",
+                "sec 90° = undefined",
+                "cot 90° = 0"
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Observations",
+              "text": "As angle A increases from 0° to 90°, sin A increases from 0 to 1 and cos A decreases from 1 to 0. Ratios with division by zero are undefined at certain angles."
+            }
+          ]
+        },
+        {
+          "topic_name": "Summary Table of Standard Angles",
+          "content": [
+            {
+              "type": "table",
+              "headers": ["Angle (θ)", "0°", "30°", "45°", "60°", "90°"],
+              "rows": [
+                ["sin θ", "0", "1/2", "√2/2", "√3/2", "1"],
+                ["cos θ", "1", "√3/2", "√2/2", "1/2", "0"],
+                ["tan θ", "0", "1/√3", "1", "√3", "undefined"],
+                ["cosec θ", "undefined", "2", "√2", "2/√3", "1"],
+                ["sec θ", "1", "2/√3", "√2", "2", "undefined"],
+                ["cot θ", "undefined", "√3", "1", "1/√3", "0"]
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Applications with Standard Angles",
+          "content": [
+            {
+              "type": "example",
+              "id": "std1",
+              "title": "Example 3: Using Standard Angles",
+              "problem": "In a right triangle ABC with right angle at B, AB = 5 cm and ∠ACB = 30°. Find BC and AC.",
+              "solution": "In the triangle, AB is opposite to angle C. We have: tan 30° = AB/BC = 5/BC. Since tan 30° = 1/√3, we get 1/√3 = 5/BC, so BC = 5√3 cm. For AC, use sin 30° = AB/AC = 5/AC. Since sin 30° = 1/2, we get 1/2 = 5/AC, so AC = 10 cm."
+            },
+            {
+              "type": "example",
+              "id": "std2",
+              "title": "Example 4: Solving with Multiple Standard Angles",
+              "problem": "If sin(A − B) = 1/2 and cos(A + B) = 1/2, where 0° < A + B ≤ 90° and A > B, find A and B.",
+              "solution": "Since sin(A − B) = 1/2, we have A − B = 30° (equation 1). Since cos(A + B) = 1/2, we have A + B = 60° (equation 2). Adding equations: 2A = 90°, so A = 45°. Subtracting equation 1 from equation 2: 2B = 30°, so B = 15°. Therefore, A = 45° and B = 15°."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "8.4 Trigonometric Identities",
+      "topics": [
+        {
+          "topic_name": "Concept of Trigonometric Identities",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A trigonometric identity is an equation involving trigonometric ratios that is true for all values of the angles involved (where the ratios are defined). Unlike equations, identities are not solved for specific values; they represent fundamental relationships that always hold."
+            },
+            {
+              "type": "paragraph",
+              "text": "Trigonometric identities are derived from the Pythagorean theorem and the definitions of trigonometric ratios. They are used to simplify trigonometric expressions, prove other identities, and solve trigonometric equations."
+            }
+          ]
+        },
+        {
+          "topic_name": "Fundamental Trigonometric Identity",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The most important trigonometric identity is the Pythagorean identity, derived directly from the Pythagorean theorem applied to a right triangle."
+            },
+            {
+              "type": "note",
+              "title": "The Pythagorean Identity",
+              "text": "For any angle A where 0° ≤ A ≤ 90°: sin²A + cos²A = 1. This identity is derived by dividing the Pythagorean theorem equation AB² + BC² = AC² by AC² (the hypotenuse squared)."
+            },
+            {
+              "type": "paragraph",
+              "text": "This identity can be rearranged to give: sin²A = 1 − cos²A and cos²A = 1 − sin²A. These forms are useful in various trigonometric manipulations and proofs."
+            },
+            {
+              "type": "example",
+              "id": "id1",
+              "title": "Example 5: Using the Pythagorean Identity",
+              "problem": "If sin A = 3/5, find cos²A − sin²A using the identity.",
+              "solution": "Given sin A = 3/5. Using sin²A + cos²A = 1: (3/5)² + cos²A = 1 ⟹ 9/25 + cos²A = 1 ⟹ cos²A = 16/25. Therefore: cos²A − sin²A = 16/25 − 9/25 = 7/25."
+            }
+          ]
+        },
+        {
+          "topic_name": "Other Important Identities",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Two other fundamental identities are derived by dividing the Pythagorean theorem by different sides."
+            },
+            {
+              "type": "list",
+              "title": "Secondary Identities",
+              "items": [
+                "1 + tan²A = sec²A (valid for 0° ≤ A < 90°). Derived by dividing AB² + BC² = AC² by AB².",
+                "cot²A + 1 = cosec²A (valid for 0° < A ≤ 90°). Derived by dividing AB² + BC² = AC² by BC².",
+                "tan A = sin A/cos A and cot A = cos A/sin A. These express cotangent and tangent in terms of sine and cosine."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "These identities allow us to express any trigonometric ratio in terms of another ratio. For example, if we know sec A, we can find tan A using 1 + tan²A = sec²A, which gives tan²A = sec²A − 1."
+            }
+          ]
+        },
+        {
+          "topic_name": "Proving Trigonometric Identities",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To prove a trigonometric identity, we manipulate one side to make it equal the other side, or we simplify both sides independently to show they are equal. We use the fundamental identities and algebraic techniques."
+            },
+            {
+              "type": "example",
+              "id": "id2",
+              "title": "Example 6: Proving an Identity",
+              "problem": "Prove that (1 − sin A)(1 + sin A) = cos²A.",
+              "solution": "Left side: (1 − sin A)(1 + sin A) = 1 − sin²A (using difference of squares). Since sin²A + cos²A = 1, we have cos²A = 1 − sin²A. Therefore, LHS = cos²A = RHS. Hence proved."
+            },
+            {
+              "type": "example",
+              "id": "id3",
+              "title": "Example 7: Complex Identity Proof",
+              "problem": "Prove that sec A(1 − sin A)(sec A + tan A) = 1.",
+              "solution": "Expanding: sec A(1 − sin A)(sec A + tan A) = (1/cos A)(1 − sin A)(1/cos A + sin A/cos A) = (1/cos A)(1 − sin A)((1 + sin A)/cos A) = (1 − sin A)(1 + sin A)/cos²A = (1 − sin²A)/cos²A = cos²A/cos²A = 1. Hence proved."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "8.5 Applications and Problem Solving",
+      "topics": [
+        {
+          "topic_name": "Angles of Elevation and Depression",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "An angle of elevation is the angle between the horizontal line through the observer's eye and the line of sight to an object above the horizontal. An angle of depression is the angle between the horizontal line and the line of sight to an object below the horizontal."
+            },
+            {
+              "type": "paragraph",
+              "text": "These concepts are used to solve problems involving heights and distances. For example, if a person standing at a distance from a building looks up at the top, the angle of elevation and the distance help determine the building's height."
+            }
+          ]
+        },
+        {
+          "topic_name": "Strategic Problem-Solving Approach",
+          "content": [
+            {
+              "type": "list",
+              "title": "Steps to Solve Trigonometric Problems",
+              "items": [
+                "Draw a diagram representing the situation with all given measurements and the unknown.",
+                "Identify the relevant right triangle and label the sides and angles clearly.",
+                "Determine which trigonometric ratio relates the known and unknown quantities.",
+                "Write the trigonometric equation and solve for the unknown.",
+                "Verify the answer makes sense in the context of the problem."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Trigonometry",
+      "definition": "The branch of mathematics dealing with relationships between the sides and angles of triangles, particularly right triangles."
+    },
+    {
+      "term": "Acute Angle",
+      "definition": "An angle less than 90°; used as reference in trigonometric ratios in right triangles."
+    },
+    {
+      "term": "Right Triangle",
+      "definition": "A triangle with one angle equal to 90°; the foundation for defining trigonometric ratios."
+    },
+    {
+      "term": "Hypotenuse",
+      "definition": "The longest side of a right triangle, opposite the right angle."
+    },
+    {
+      "term": "Opposite Side",
+      "definition": "The side of a right triangle that is across from (does not form) the angle being considered."
+    },
+    {
+      "term": "Adjacent Side",
+      "definition": "The side of a right triangle that is next to the angle being considered, excluding the hypotenuse."
+    },
+    {
+      "term": "Sine (sin)",
+      "definition": "Trigonometric ratio: sin A = opposite/hypotenuse."
+    },
+    {
+      "term": "Cosine (cos)",
+      "definition": "Trigonometric ratio: cos A = adjacent/hypotenuse."
+    },
+    {
+      "term": "Tangent (tan)",
+      "definition": "Trigonometric ratio: tan A = opposite/adjacent = sin A/cos A."
+    },
+    {
+      "term": "Cosecant (cosec)",
+      "definition": "Reciprocal trigonometric ratio: cosec A = 1/sin A = hypotenuse/opposite."
+    },
+    {
+      "term": "Secant (sec)",
+      "definition": "Reciprocal trigonometric ratio: sec A = 1/cos A = hypotenuse/adjacent."
+    },
+    {
+      "term": "Cotangent (cot)",
+      "definition": "Reciprocal trigonometric ratio: cot A = 1/tan A = adjacent/opposite = cos A/sin A."
+    },
+    {
+      "term": "Trigonometric Identity",
+      "definition": "An equation involving trigonometric ratios that is true for all values of the angles involved."
+    },
+    {
+      "term": "Pythagorean Identity",
+      "definition": "The fundamental identity: sin²A + cos²A = 1, derived from the Pythagorean theorem."
+    },
+    {
+      "term": "Standard Angles",
+      "definition": "Angles (typically 0°, 30°, 45°, 60°, 90°) for which trigonometric ratios have well-known values."
+    },
+    {
+      "term": "Angle of Elevation",
+      "definition": "The angle between the horizontal and the line of sight to an object above the horizontal."
+    },
+    {
+      "term": "Angle of Depression",
+      "definition": "The angle between the horizontal and the line of sight to an object below the horizontal."
+    },
+    {
+      "term": "Similar Triangles",
+      "definition": "Triangles with the same angles; corresponding sides are proportional, ensuring trigonometric ratios remain constant for equal angles."
+    },
+    {
+      "term": "Reciprocal Ratios",
+      "definition": "Pairs of trigonometric ratios that are inverses: (sin A, cosec A), (cos A, sec A), (tan A, cot A)."
+    }
+  ],
+  "summary_points": [
+    "Trigonometry studies relationships between sides and angles of triangles. The six trigonometric ratios (sin, cos, tan, cosec, sec, cot) are defined for acute angles in right triangles as ratios of the sides. These ratios depend only on the angle, not on the triangle's size, because similar triangles have identical ratios.",
+    "The trigonometric ratios of standard angles (0°, 30°, 45°, 60°, 90°) are memorized or derived from special triangles: isosceles right triangle (45°) and equilateral triangle (30° and 60°). A table of these values is essential for quick calculations and algebraic manipulations.",
+    "Trigonometric identities are equations true for all angle values. The fundamental Pythagorean identity sin²A + cos²A = 1 is derived from the Pythagorean theorem. Secondary identities (1 + tan²A = sec²A and cot²A + 1 = cosec²A) are obtained by dividing the Pythagorean relation by different sides.",
+    "If one trigonometric ratio is known, all others can be found using a right triangle with sides satisfying the known ratio and the Pythagorean theorem. The identity tan A = sin A/cos A and reciprocal relationships enable conversion between ratios.",
+    "Trigonometric identities are proved by manipulating one side to match the other using the fundamental identities and algebraic techniques. Applications include solving real-world problems involving angles of elevation and depression to find heights and distances."
+  ]
+}

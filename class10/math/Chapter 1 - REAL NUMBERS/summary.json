@@ -1,0 +1,38 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Real Numbers",
+    "chapter_number": 1
+  },
+  "summary": [
+    {
+      "category": "Euclid's Division Algorithm",
+      "points": [
+        "For any two positive integers a and b with b ≠ 0, there exist unique integers q (quotient) and r (remainder) such that a = bq + r, where 0 ≤ r < b. This algorithm efficiently finds the HCF (Greatest Common Divisor) of two numbers by repeatedly applying division until the remainder becomes zero; the last non-zero remainder is the HCF.",
+        "Euclid's Algorithm uses the principle that HCF(a,b) = HCF(b,r) where r is the remainder. Applications include simplifying fractions, finding LCM using HCF × LCM = a × b, and understanding divisibility properties of integers."
+      ]
+    },
+    {
+      "category": "Fundamental Theorem of Arithmetic",
+      "points": [
+        "Every composite number can be expressed uniquely as a product of prime numbers, except for the order of factors. In standard form: n = p₁^a₁ × p₂^a₂ × ... × pₖ^aₖ, where p₁, p₂, ..., pₖ are distinct primes and a₁, a₂, ..., aₖ are positive integers. This uniqueness is fundamental to number theory.",
+        "Using prime factorisation: HCF = product of lowest powers of all common prime factors; LCM = product of highest powers of all prime factors appearing in the numbers. A number ends with zero if and only if it contains both 2 and 5 as prime factors (divisible by 10)."
+      ]
+    },
+    {
+      "category": "Irrational Numbers and Proof Techniques",
+      "points": [
+        "Irrational numbers cannot be expressed as p/q (p, q integers, q ≠ 0) and have non-terminating, non-repeating decimal expansions. Theorem 1.2 states: if prime p divides a², then p divides a (proven using the Fundamental Theorem of Arithmetic).",
+        "√2 is irrational (proven by contradiction: assuming √2 = p/q leads to both p and q being divisible by 2, contradicting coprimality). The same method proves √p is irrational for any prime p. Important property: sum/difference of rational and irrational is irrational; product of non-zero rational and irrational is irrational."
+      ]
+    },
+    {
+      "category": "Decimal Expansions of Rational Numbers",
+      "points": [
+        "A rational number p/q (in lowest terms) has a terminating decimal expansion if and only if the denominator q has only 2 and/or 5 as prime factors. Number of decimal places = max(exponent of 2, exponent of 5) in q's factorisation.",
+        "If the denominator has prime factors other than 2 and 5 (like 3, 7, 11, etc.), the decimal expansion is non-terminating and repeating. The prime factorisation of the denominator completely determines the nature of the decimal expansion."
+      ]
+    }
+  ]
+}

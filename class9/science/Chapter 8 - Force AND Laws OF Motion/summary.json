@@ -1,0 +1,26 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Physics",
+    "chapter_name": "Force and Laws of Motion",
+    "chapter_number": 8
+  },
+  "summary": [
+    {
+      "category": "Newton's Laws of Motion",
+      "points": [
+        "Newton's First Law (Inertia): Objects remain at rest or in uniform motion unless acted upon by an unbalanced force. Inertia, measured by mass, is the resistance to change in motion.",
+        "Newton's Second Law (F = m·a): Force equals mass times acceleration. Equivalently, force produces a change in momentum (F·t = Δp). This quantifies how force accelerates objects.",
+        "Newton's Third Law (Action-Reaction): Every force has an equal and opposite reaction acting on a different object. These pairs act simultaneously but produce different accelerations based on the masses involved."
+      ]
+    },
+    {
+      "category": "Forces and Motion",
+      "points": [
+        "Balanced forces have zero net effect and do not change an object's motion. Unbalanced forces produce acceleration in the direction of the net force. The net force (resultant) determines all motion changes.",
+        "Momentum (p = m·v) is the product of mass and velocity, representing an object's 'quantity of motion.' The impulse-momentum theorem (F·t = Δp) shows that the same momentum change can result from large force for short time or small force for long time, explaining safety features like airbags and seatbelts.",
+        "Newton's laws unify the understanding of motion: inertia (resistance to change), acceleration (response to force), and interaction (action-reaction pairs). These form the foundation for analyzing all mechanical motion in classical mechanics."
+      ]
+    }
+  ]
+}

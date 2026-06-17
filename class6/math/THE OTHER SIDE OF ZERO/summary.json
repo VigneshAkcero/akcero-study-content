@@ -1,0 +1,50 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "THE OTHER SIDE OF ZERO",
+    "chapter_number": 10
+  },
+  "summary": [
+    {
+      "category": "Integers and Models",
+      "points": [
+        "Integers are the collection of positive counting numbers, zero, and negative counting numbers (e.g., -1, -2, -3).",
+        "The building model uses Floor 0 (ground level) as an origin, with floors above for positive values and floors below for negative values.",
+        "Zero is a special integer that sits between positive and negative numbers and is neither positive nor negative."
+      ]
+    },
+    {
+      "category": "Integer Operations",
+      "points": [
+        "Addition can be viewed as movement: Starting Position + Movement = Target Position (e.g., +2 + (-3) = -1).",
+        "Subtraction is the process of finding the required movement: Target Position - Starting Position = Movement needed.",
+        "Additive inverses are pairs of numbers (like +7 and -7) whose sum is zero, which represents 'cancelling out' a movement."
+      ]
+    },
+    {
+      "category": "The Number Line",
+      "points": [
+        "On a number line, numbers increase from left to right: all negative integers are less than zero and less than any positive integer.",
+        "Subtracting an integer is mathematically identical to adding its inverse (e.g., subtracting -2 is the same as adding +2).",
+        "The Unmarked Number Line (UNL) is a powerful tool to visualize addition and subtraction logic for very large numbers."
+      ]
+    },
+    {
+      "category": "Real-World Applications",
+      "points": [
+        "In banking, credits represent positive additions to a balance, while debits represent negative subtractions.",
+        "Geography uses 'sea level' as 0 m; heights above sea level are positive, and depths below are negative.",
+        "In temperature, $0^\\circ C$ is the reference point for the freezing point of water, with negative Celsius measuring colder values."
+      ]
+    },
+    {
+      "category": "Fundamental Rules (Brahmagupta)",
+      "points": [
+        "The Brahmagupta rules defined in 628 CE provide the systematic foundation for modern integer arithmetic across the world.",
+        "Adding same-sign numbers means summing their magnitudes and keeping the sign; adding different signs involves finding the difference.",
+        "Subtracting a number from zero yields its inverse (e.g., $0 - (-2) = 2$)."
+      ]
+    }
+  ]
+}

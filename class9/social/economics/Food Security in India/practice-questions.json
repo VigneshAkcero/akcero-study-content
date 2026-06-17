@@ -1,0 +1,150 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Economics",
+    "chapter_name": "Food Security in India",
+    "chapter_number": 4
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is food security? Explain its three dimensions.",
+      "answer": "Food security means availability, accessibility and affordability of food to all people at all times. Its three dimensions are: (1) Availability – food production within the country, food imports, and previous years' stock stored in government granaries. (2) Accessibility – food is within reach of every person with no barriers. (3) Affordability – an individual has enough money to buy sufficient, safe and nutritious food to meet dietary needs.",
+      "solution": "Food security is a comprehensive concept that goes beyond just having enough food. The availability dimension ensures that food is physically present in the country through production, imports, or stocks. Accessibility ensures that there are no barriers—physical, social, or administrative—that prevent people from obtaining food. Affordability ensures that people have the economic means to purchase food of acceptable quality. All three must be satisfied simultaneously for food security to be achieved."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "How did Amartya Sen contribute to the understanding of food security?",
+      "answer": "Amartya Sen added a new dimension to food security by emphasising 'access' to food through what he called 'entitlements'—a combination of what one can produce, exchange in the market, along with state or other socially provided supplies. He shifted the focus from mere availability of food to people's ability to actually obtain it.",
+      "solution": "Prior to Sen's work, food security was understood primarily in terms of food availability. Sen argued that even if food is available in the market, people may starve if they lack the means to acquire it. His concept of 'entitlements' includes production-based entitlements (what one grows), trade-based entitlements (what one can buy), and state-provided entitlements (social security, PDS). This broader understanding influenced the 1995 World Food Summit declaration."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What is a famine? Which was the most devastating famine in India and when did it occur?",
+      "answer": "A famine is characterised by widespread deaths due to starvation and epidemics caused by forced use of contaminated water or decaying food and loss of body resistance due to weakening from starvation. The most devastating famine in India was the Bengal Famine of 1943, which killed thirty lakh people in the province of Bengal.",
+      "solution": "Famines are extreme manifestations of food insecurity. The Bengal Famine of 1943 occurred during World War II and resulted in massive loss of life. The agricultural labourers, fishermen, transport workers, and other casual labourers were the worst affected because they could not afford the dramatically rising prices of rice. The famine highlighted how vulnerable certain sections of society are to food shortages."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What is the difference between chronic hunger and seasonal hunger?",
+      "answer": "Chronic hunger is a consequence of diets persistently inadequate in terms of quantity and/or quality, resulting from very low income and inability to buy food even for survival. Seasonal hunger is related to cycles of food growing and harvesting—prevalent in rural areas due to seasonal nature of agriculture and in urban areas due to casual labourers facing periods of no work.",
+      "solution": "Chronic hunger is a long-term condition affecting people who consistently cannot afford adequate food. Seasonal hunger is temporary and follows predictable patterns. For example, agricultural labourers like Ramu face food insecurity during the four months when there is no farm work. In urban areas, construction workers face seasonal hunger during the rainy season when work stops. Both types of hunger have declined in India over the years."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What are the three types of ration cards in India? Who is eligible for each?",
+      "answer": "The three types of ration cards are: (1) Antyodaya cards – for the poorest of the poor; (2) BPL cards – for those below poverty line; and (3) APL cards – for all others (above poverty line).",
+      "solution": "These cards determine the quantity and price at which families can purchase foodgrains from ration shops. Antyodaya cardholders receive the highest subsidy—35 kg of foodgrains per month at `2/kg for wheat and `3/kg for rice. BPL cardholders also receive subsidised rates but slightly higher than Antyodaya. APL cardholders pay prices close to market rates, which has reduced their incentive to purchase from ration shops."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What is the role of the Food Corporation of India (FCI) in ensuring food security?",
+      "answer": "The Food Corporation of India (FCI) is responsible for procuring foodgrains (wheat and rice) from farmers at Minimum Support Price (MSP) in surplus-producing states. It stores these grains as buffer stock and distributes them through the Public Distribution System (PDS) to deficit areas and poorer sections of society.",
+      "solution": "FCI acts as the central agency for implementing the government's food security policies. By procuring at MSP, it ensures farmers get a guaranteed price, encouraging production. By maintaining buffer stocks, it stabilises prices and ensures availability even during bad harvest years. Through PDS, it channels subsidised food to vulnerable populations."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What is the Green Revolution and how did it impact food security in India?",
+      "answer": "The Green Revolution was a new agricultural strategy adopted in India that focused on high-yielding varieties of wheat and rice, leading to a significant increase in foodgrain production. Since its advent in the early 1970s, India has avoided famine even during adverse weather conditions and has become self-sufficient in foodgrains.",
+      "solution": "The Green Revolution transformed India from a food-deficient country to a self-sufficient one. High-yielding varieties, along with fertilisers, irrigation, and pesticides, dramatically increased production. The success began with wheat in Punjab, Haryana, and Uttar Pradesh, and was later replicated in rice production in states like West Bengal. This self-sufficiency provided the foundation for India's food security system."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "Study Table 4.1 showing rice production in Bengal. In which year was total availability the lowest? What does this indicate about the Bengal famine?",
+      "answer": "Total availability was lowest in 1941 at 70 lakh tonnes. However, the famine occurred in 1943 when availability was 79 lakh tonnes—higher than in 1941. This indicates that the Bengal famine was not simply due to a drastic decline in food availability; factors like distribution failures, price rise, and lack of access for vulnerable groups were also responsible.",
+      "solution": "The data shows that in 1943, total rice availability was 79 lakh tonnes, which was higher than the 70 lakh tonnes available in 1941. Yet the famine occurred in 1943. This supports Amartya Sen's argument that famines are not always caused by a shortage of food availability but by failures of 'entitlements'—the inability of certain groups to access food due to price rises, unemployment, or distribution failures. The agricultural labourers, fishermen, and transport workers died because they could not afford the dramatically rising prices of rice."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Explain the concept of Minimum Support Price (MSP). Why is it declared before the sowing season?",
+      "answer": "Minimum Support Price (MSP) is the pre-announced price at which the government purchases foodgrains from farmers. It is declared before the sowing season to provide incentives to farmers and assure them that even if market prices fall, they will get a minimum guaranteed price for their crops, encouraging them to increase production.",
+      "solution": "MSP serves two important purposes. First, it provides price stability and income security to farmers, especially in surplus-producing states. Second, it ensures steady procurement for the buffer stock, which is essential for the PDS and for managing food shortages during calamities. However, critics argue that MSP is currently concentrated on wheat and rice, encouraging overproduction of these crops at the expense of coarse grains and leading to environmental problems."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Why are some states like Punjab and Haryana called 'surplus states'? What problems has this created?",
+      "answer": "Punjab and Haryana are called surplus states because they produce more foodgrains (especially wheat and rice) than they consume, enabling procurement by FCI. This has created problems: (1) over-concentration of procurement in few regions, (2) farmers diverting land from coarse grains (staple food of the poor) to rice and wheat, (3) environmental degradation due to intensive water use in rice cultivation, and (4) falling water levels threatening agricultural sustainability.",
+      "solution": "The concentration of procurement in prosperous regions has several implications. It creates regional inequality in terms of the benefits of MSP. It distorts cropping patterns as farmers in surplus states shift away from coarse grains like jowar, bajra, and ragi (which are more nutritious and suited to dryland farming) to water-intensive rice and wheat. The intensive use of groundwater for paddy cultivation has led to severe depletion of water tables in Punjab and Haryana, threatening long-term agricultural sustainability."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "What were the three food intervention programmes introduced in the mid-1970s? Briefly explain each.",
+      "answer": "The three food intervention programmes introduced in the mid-1970s were: (1) Public Distribution System (PDS) – strengthened to distribute foodgrains through ration shops; (2) Integrated Child Development Services (ICDS) – introduced in 1975 on an experimental basis to provide nutrition to children under 6 and pregnant/nursing mothers; and (3) Food-for-Work (FFW) – introduced in 1977–78, providing food grains in lieu of wages for labour in public works.",
+      "solution": "These programmes reflected the government's multi-pronged approach to food security. PDS addressed food availability for households. ICDS addressed the nutritional needs of children and mothers, recognising that food security at household level doesn't always translate to individual nutrition. FFW combined food security with employment generation, providing immediate relief while creating community assets. Later programmes like Mid-Day Meals (for school children) and Sampurna Grameen Rojgar Yojana built on this framework."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "What is the National Food Security Act, 2013? Which sections of the population are covered under it?",
+      "answer": "The National Food Security Act, 2013 provides for food and nutritional security at affordable prices and enables people to live a life with dignity. Under this Act, 75% of the rural population and 50% of the urban population have been categorised as eligible households for food security. Each eligible person receives 5 kg of foodgrains per month at subsidised prices (`2/kg for wheat, `3/kg for rice, `1/kg for coarse grains).",
+      "solution": "This Act marked a paradigm shift by making food security a legal right. Prior to this, food security programmes were government schemes that could be changed or discontinued. The Act creates a legal entitlement, making it enforceable. It also includes provisions for nutritional support to pregnant women and nursing mothers, and for children up to 14 years of age through ICDS and Mid-Day Meal schemes. The coverage—75% rural and 50% urban—reflects the recognition that food insecurity exists among both rural and urban populations."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Explain the role of cooperatives in ensuring food security in India with examples.",
+      "answer": "Cooperatives play an important role in food security, especially in southern and western India. Examples include: (1) Tamil Nadu – around 94% of fair price shops are run by cooperatives; (2) Delhi – Mother Dairy supplies milk and vegetables at controlled rates; (3) Gujarat – Amul brought about the White Revolution through cooperatives in milk and milk products; (4) Maharashtra – Academy of Development Science (ADS) facilitates grain banks through NGO networks.",
+      "solution": "Cooperatives complement government efforts by ensuring last-mile delivery, maintaining quality, and providing additional products beyond basic foodgrains. The high proportion of cooperative-run fair price shops in Tamil Nadu demonstrates how cooperatives can effectively manage PDS distribution. Mother Dairy and Amul show how cooperatives can ensure food security beyond staple grains by providing nutritious items like milk and vegetables at affordable prices. Grain banks in Maharashtra, facilitated by ADS, provide innovative community-based solutions for food security."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Study Graph 4.1 showing foodgrain production. In which decade did India experience the highest decadal increase in production? What factors contributed to this?",
+      "answer": "Based on Graph 4.1, the highest decadal increase occurred between 1970-71 and 1980-81, when production increased from around 108 million tonnes to 176 million tonnes—an increase of about 68 million tonnes. This was primarily due to the Green Revolution, which introduced high-yielding varieties of wheat and rice, along with increased use of fertilisers, irrigation facilities, and supportive government policies.",
+      "solution": "The Green Revolution period (late 1960s through 1970s) marked India's transformation from food deficiency to self-sufficiency. The adoption of high-yielding varieties (HYVs) of wheat in Punjab, Haryana, and Uttar Pradesh dramatically increased per hectare yields. The success was later replicated in rice. Government policies such as MSP, procurement by FCI, and investment in irrigation infrastructure created an environment where farmers were incentivised to adopt new technologies. This period laid the foundation for the food security system that exists today."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Why does the FCI often have overflowing granaries with stocks much higher than buffer norms? What problems does this create?",
+      "answer": "FCI granaries overflow because procurement at MSP continues even when buffer stocks already exceed norms. This happens due to pressure from leading foodgrain-producing states. Problems created include: (1) high carrying costs (storage, transportation, interest); (2) wastage due to rotting and pest infestation; (3) deterioration in grain quality; (4) environmental degradation from overproduction of wheat and rice; and (5) distortion of cropping patterns away from coarse grains.",
+      "solution": "The policy of procuring unlimited quantities at MSP, combined with political pressure from surplus states, leads to accumulation of stocks far beyond what is needed for food security. These excess stocks impose a heavy fiscal burden—the government pays for storage, transportation, and interest costs. Wastage is a serious concern, with grains rotting in open storage or being eaten by rats. Environmentally, the focus on rice and wheat encourages farmers in surplus states to deplete groundwater and neglect coarse grains that are more nutritious and suited to dryland farming."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Analyse the statement: 'The Bengal famine of 1943 was not a famine of food shortage but a famine of entitlement failure.' Do you agree? Provide reasons.",
+      "answer": "I agree with this statement. Evidence shows total rice availability in 1943 (79 lakh tonnes) was higher than in 1941 (70 lakh tonnes), yet famine occurred in 1943. The famine affected agricultural labourers, fishermen, and transport workers—not because food was unavailable, but because they could not afford the dramatically rising prices. Their 'entitlements'—what they could exchange for food—failed as their incomes did not keep pace with price increases.",
+      "solution": "Amartya Sen's entitlement approach helps explain the Bengal famine. Even when food is available in the market, individuals may starve if they lack the means to acquire it. In 1943, the agricultural labourers who had lost their livelihood due to war-related disruptions, and workers whose incomes did not rise with prices, lost their ability to command food. The famine was therefore not caused by an absolute shortage of rice but by the inability of certain groups to access the available rice. This understanding shifted the focus of food security from mere availability to access and affordability."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Hard",
+      "question": "Compare and contrast the food security situations of Ramu (agricultural labourer) and Ahmad (rickshaw puller) based on their stories. What factors make each vulnerable? How do they cope?",
+      "answer": "Ramu is a seasonal agricultural labourer who faces food insecurity for about 4 months when farm work is unavailable. His vulnerability comes from the seasonal nature of agriculture and lack of alternative employment. He copes by seeking brick-laying or construction work, but still faces days without food. Ahmad, a rickshaw puller, faces daily income fluctuations but has a BPL (yellow) ration card that provides subsidised foodgrains, enabling him to survive even with low earnings. Both are vulnerable due to irregular employment, but Ahmad's PDS access provides a buffer that Ramu may not have.",
+      "solution": "Ramu's story illustrates seasonal hunger—food insecurity tied to agricultural cycles. Despite supplementing income through his wife's work and occasional non-farm labour, he cannot escape the lean season. His situation shows the vulnerability of landless agricultural workers who depend on seasonal work. Ahmad's story illustrates the importance of PDS for urban casual labourers. His yellow card provides assured access to subsidised food, which compensates for irregular earnings. However, Ahmad's case also highlights the burden of being the sole earning member for a large family. The comparison reveals that while both face food insecurity, social protection through PDS significantly reduces vulnerability for those who have access to it."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "Why has the consumption of coarse grains (jowar, bajra, ragi) declined while rice and wheat consumption has increased? What are the implications of this dietary shift for food security and nutrition?",
+      "answer": "The consumption of coarse grains has declined because MSP and procurement policies have focused heavily on wheat and rice, making them cheaper and more readily available through PDS. Farmers have been incentivised to shift cultivation to rice and wheat. Coarse grains, though more nutritious and suited to dryland farming, receive less government support. Implications: (1) nutritional security is affected as coarse grains are rich in micronutrients; (2) dietary diversity declines; (3) environmental sustainability suffers as rice and wheat are more water-intensive; (4) farmers in dryland areas growing coarse grains lose income opportunities.",
+      "solution": "This shift represents a significant transformation in Indian agriculture and diet. The Green Revolution's focus on wheat and rice, reinforced by MSP and procurement policies, has made these grains dominant. However, coarse grains are often more nutritious—for instance, ragi is rich in calcium, jowar in iron. Their decline affects nutrition, particularly among poorer populations who traditionally consumed them. Environmentally, promoting water-intensive rice in regions with falling water tables is unsustainable. A comprehensive approach to food security must consider not just availability of calories but nutritional quality, dietary diversity, and environmental sustainability. Some recent policy measures like including coarse grains in PDS under NFSA at the lowest price (`1/kg) are steps in the right direction."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "Study Graph 4.2 showing Central foodgrain stocks and minimum buffer norms. What trends do you observe? Why have stocks remained consistently above norms? What reforms would you suggest to address this situation?",
+      "answer": "Graph 4.2 shows that foodgrain stocks have consistently remained much higher than minimum buffer norms for many years. This is due to continued procurement at MSP despite high stocks, pressure from surplus states, and sometimes lower-than-expected offtake through PDS. Reforms suggested: (1) consider freezing MSP for a few years to reduce procurement incentives; (2) diversify procurement to include coarse grains and pulses; (3) improve storage infrastructure to reduce wastage; (4) strengthen PDS distribution to increase offtake; (5) shift to cash transfers or food coupons in areas with better market integration.",
+      "solution": "The persistent excess stocks indicate a structural imbalance in India's food management system. While high stocks were initially intended as a buffer against production failures, excessive stocks impose fiscal costs and cause wastage. MSP has become politically difficult to reduce. One reform could be to shift from price-based support to income support for farmers, allowing market forces to determine production patterns while protecting farmers' incomes. Diversifying procurement would address both nutritional and environmental concerns. Improving storage would reduce losses. On the distribution side, universalising PDS or increasing offtake would use excess stocks productively. The debate between food-based transfers (PDS) and cash transfers continues, with the NFSA currently prioritising the food-based approach."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Evaluate the performance of the Public Distribution System (PDS) in India. What are its achievements and what challenges does it face?",
+      "answer": "Achievements: (1) stabilised prices and made food available at affordable rates; (2) averted widespread hunger and famine by moving food from surplus to deficit regions; (3) contributed to increased foodgrain production through assured procurement; (4) provided income security to farmers in surplus states; (5) under NFSA, created legal entitlements covering a large population. Challenges: (1) dealer malpractices like diversion to open market and selling poor quality grains; (2) irregular opening of ration shops; (3) high carrying costs and wastage of excess stocks; (4) declining APL participation due to prices close to market rates; (5) regional concentration of benefits; (6) environmental costs of overproduction of wheat and rice.",
+      "solution": "PDS is one of the world's largest food security programmes and has been critical in preventing famines and stabilising food availability. Its achievements are significant—India has not experienced a famine since Independence after the Bengal Famine, and hunger indicators have improved. However, the challenges reveal that PDS functioning varies greatly across states. Tamil Nadu's cooperative-run shops show that institutional arrangements matter. The decline in APL participation raises concerns about the viability of the two-tier pricing system. The environmental and fiscal sustainability of the current system are also concerns. Moving forward, reforms that address these challenges—such as computerisation of supply chains, biometric authentication, and diversification of procurement—can strengthen the system."
+    }
+  ]
+}

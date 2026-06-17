@@ -1,0 +1,42 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Math",
+    "chapter_name": "Introduction to Euclid's Geometry",
+    "chapter_number": 5
+  },
+  "summary": [
+    {
+      "category": "Undefined Terms, Definitions, and the Foundation of Geometry",
+      "points": [
+        "Geometry originated from practical needs (land measurement, construction) and was developed by many civilisations, but it was Euclid who gave it a systematic, logical foundation in his treatise 'Elements' (13 books, ~300 BCE).",
+        "Euclid listed 23 definitions in Book 1 — but some key terms (point, line, plane/surface) cannot be defined without circularity, so they are treated as undefined terms; a point is represented as a dot, a line as a breadthless length, and a plane as a flat surface.",
+        "Euclid's approach: start from undefined terms → definitions → axioms/postulates → prove theorems by deductive reasoning. The 465 propositions of 'Elements' were all deduced this way."
+      ]
+    },
+    {
+      "category": "Euclid's Axioms (Common Notions)",
+      "points": [
+        "Axioms are obvious universal truths used across all of mathematics (not specific to geometry); they are accepted without proof.",
+        "The 7 key axioms: (1) Things equal to the same thing are equal to one another. (2) Equals added to equals give equals. (3) Equals subtracted from equals give equals. (4) Things that coincide are equal. (5) The whole is greater than the part. (6) Doubles of the same thing are equal. (7) Halves of the same thing are equal.",
+        "Axiom (1) supports transitivity of equality (e.g., AB = PQ and PQ = XY → AB = XY). Axiom (4) justifies the principle of superposition. Axiom (5) defines 'greater than': A > B means A = B + C for some C > 0."
+      ]
+    },
+    {
+      "category": "Euclid's Five Postulates",
+      "points": [
+        "Postulates are assumptions specific to geometry, accepted without proof: P1 — A straight line can be drawn between any two points; P2 — A terminated line (line segment) can be extended indefinitely; P3 — A circle can be drawn with any centre and any radius; P4 — All right angles are equal.",
+        "Postulate 5 (the parallel postulate) — If a line crossing two lines makes the interior angles on one side sum to less than 180°, the two lines meet on that side — is far more complex than the others and led to the development of non-Euclidean geometries.",
+        "Axiom 5.1 (derived from P1): Given two distinct points, there is a unique line passing through them. Theorem 5.1 (proved from this axiom): Two distinct lines cannot have more than one point in common."
+      ]
+    },
+    {
+      "category": "Theorems, Proof, and Consistent Axiom Systems",
+      "points": [
+        "A theorem is a statement proved using definitions, axioms, and previously proved results by deductive reasoning. Example: AB + BC = AC when B lies between A and C — proved using Axiom 4 (coinciding magnitudes are equal).",
+        "A system of axioms is consistent if no statement deduced from them contradicts any axiom or previously proved statement; Euclid's system must be checked for consistency before use.",
+        "Today, 'postulate' and 'axiom' are used interchangeably. The undefined terms (point, line, plane) are understood intuitively and through physical models, not by formal definition."
+      ]
+    }
+  ]
+}

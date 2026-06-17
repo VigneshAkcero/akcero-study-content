@@ -1,0 +1,277 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Metals and Non-metals",
+    "chapter_number": 3
+  },
+  "notes": [
+    {
+      "section_title": "3.1 Physical Properties",
+      "topics": [
+        {
+          "topic_name": "Properties of Metals",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Metals generally exhibit distinct physical characteristics including a shining surface (metallic lustre) and high hardness."
+            },
+            {
+              "type": "list",
+              "title": "Key Properties",
+              "items": [
+                "Malleability: The ability of metals to be beaten into thin sheets. Gold and silver are the most malleable metals.",
+                "Ductility: The ability of metals to be drawn into thin wires. A 2 km wire can be drawn from just one gram of gold.",
+                "Conductivity: Metals are excellent conductors of heat and electricity. Silver and copper are the best conductors of heat, whereas lead and mercury are comparatively poor conductors.",
+                "Sonorous: Metals produce a ringing sound when striking a hard surface."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Properties of Non-metals",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Non-metals (like carbon, sulphur, iodine, oxygen) are generally solids or gases, with bromine being the only liquid non-metal. They lack malleability, ductility, and are poor electrical conductors."
+            }
+          ]
+        },
+        {
+          "topic_name": "Exceptions in Physical Properties",
+          "content": [
+            {
+              "type": "list",
+              "title": "Notable Exceptions",
+              "items": [
+                "All metals exist as solids at room temperature except mercury, which is a liquid.",
+                "Gallium and caesium have very low melting points and will melt if kept on the palm.",
+                "Iodine is a non-metal but is lustrous.",
+                "Carbon exists in different allotropes. Diamond is the hardest natural substance with a very high melting point. Graphite conducts electricity.",
+                "Alkali metals (lithium, sodium, potassium) are so soft they can be cut with a knife and have low densities and melting points."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.2 Chemical Properties of Metals",
+      "topics": [
+        {
+          "topic_name": "Reaction with Oxygen (Air)",
+          "content": [
+            {
+              "type": "example",
+              "title": "Basic Equation",
+              "text": "Metal + Oxygen → Metal oxide. Example: 2Cu + O₂ → 2CuO (Black copper(II) oxide)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Most metal oxides are basic. However, some oxides like aluminium oxide and zinc oxide react with both acids and bases to produce salt and water; these are known as amphoteric oxides."
+            },
+            {
+              "type": "note",
+              "title": "Reactivity Differences",
+              "text": "Sodium and potassium catch fire in open air and are stored immersed in kerosene oil. Magnesium, aluminium, zinc, and lead form a protective thin oxide layer preventing further oxidation. Silver and gold do not react with oxygen even at high temperatures."
+            }
+          ]
+        },
+        {
+          "topic_name": "Reaction with Water",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Metals react with water to form metal oxides and hydrogen gas. Soluble metal oxides dissolve further to form metal hydroxides."
+            },
+            {
+              "type": "list",
+              "title": "Varying Reactivity with Water",
+              "items": [
+                "Cold Water: Potassium and sodium react violently and exothermically, causing the evolved hydrogen to catch fire. Calcium reacts less violently and floats as hydrogen bubbles stick to its surface.",
+                "Hot Water: Magnesium reacts only with hot water.",
+                "Steam: Aluminium, iron, and zinc react only with steam to form metal oxides and hydrogen.",
+                "No Reaction: Lead, copper, silver, and gold do not react with water at all."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Reaction with Acids",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Metal + Dilute acid → Salt + Hydrogen gas. Magnesium reacts the fastest (Mg > Al > Zn > Fe). Copper exhibits no bubbles and does not react with dilute HCl."
+            },
+            {
+              "type": "note",
+              "title": "Nitric Acid Exception",
+              "text": "Hydrogen gas is not evolved with nitric acid (HNO₃) because it is a strong oxidising agent that oxidises H₂ to water and reduces itself to nitrogen oxides. Only magnesium and manganese react with very dilute HNO₃ to evolve H₂."
+            }
+          ]
+        },
+        {
+          "topic_name": "Displacement Reactions and Reactivity Series",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Reactive metals can displace less reactive metals from their compounds in salt solutions (Metal A + Salt of B → Salt of A + Metal B)."
+            },
+            {
+              "type": "example",
+              "title": "Reactivity Series",
+              "text": "A list of metals arranged in decreasing reactivity: K (Most reactive) > Na > Ca > Mg > Al > Zn > Fe > Pb > [H] > Cu > Hg > Ag > Au (Least reactive)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.3 Ionic Compounds",
+      "topics": [
+        {
+          "topic_name": "Formation and Properties",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Metals form positive ions by losing electrons, while non-metals form negative ions by gaining those electrons. The compounds formed by this transfer are known as ionic or electrovalent compounds (e.g., sodium chloride, NaCl)."
+            },
+            {
+              "type": "list",
+              "title": "General Properties",
+              "items": [
+                "Physical Nature: Hard, brittle solids due to strong electrostatic forces of attraction between oppositely charged ions.",
+                "Melting and Boiling Points: Very high, requiring considerable thermal energy to break inter-ionic attractions.",
+                "Solubility: Generally soluble in water but insoluble in organic solvents like kerosene or petrol.",
+                "Electrical Conductivity: Do not conduct electricity in the solid state due to rigid structures. They conduct electricity when dissolved in water or in a molten state because the ions are free to move."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.4 Occurrence and Extraction of Metals",
+      "topics": [
+        {
+          "topic_name": "Minerals and Ores",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Elements naturally occurring in the earth's crust are minerals. Minerals containing a high percentage of a profitable metal are called ores. Contaminating impurities like soil and sand are called gangue."
+            }
+          ]
+        },
+        {
+          "topic_name": "Extraction Based on Reactivity",
+          "content": [
+            {
+              "type": "list",
+              "title": "Extraction Methods",
+              "items": [
+                "Low Reactivity (e.g., Hg, Cu): Extracted by heating alone. Cinnabar (HgS) roasts in air to form HgO, which reduces to mercury on further heating.",
+                "Medium Reactivity (e.g., Zn, Fe): Existing mostly as sulphides or carbonates. Sulphides are converted to oxides via roasting (heating in excess air). Carbonates are converted to oxides via calcination (heating in limited air). The oxides are then reduced using carbon or via displacement reactions (like the highly exothermic Thermit process linking railway tracks).",
+                "High Reactivity (e.g., Na, Mg, Al): Cannot be reduced by carbon. Extracted via electrolytic reduction from their molten chlorides or oxides. Metal deposits at the cathode, non-metal liberates at the anode."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Refining of Metals",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Impure metals are purified using electrolytic refining. The impure metal acts as the anode, a pure strip as the cathode, and a metal salt solution as the electrolyte. Insoluble impurities settle below the anode as anode mud."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.5 Corrosion and its Prevention",
+      "topics": [
+        {
+          "topic_name": "Corrosion Basics",
+          "content": [
+            {
+              "type": "list",
+              "title": "Examples of Corrosion",
+              "items": [
+                "Silver articles turn black due to a coating of silver sulphide.",
+                "Copper gains a green coating of basic copper carbonate.",
+                "Iron acquires a brown flaky substance called rust. Rusting explicitly requires the simultaneous presence of both air and water."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Prevention Methods",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Rusting is prevented by painting, oiling, greasing, galvanising (coating with a thin layer of zinc), chrome plating, anodising, or alloying."
+            },
+            {
+              "type": "note",
+              "title": "Alloys",
+              "text": "An alloy is a homogeneous mixture of two or more metals, or a metal and a non-metal. For example, stainless steel (iron, nickel, chromium) is hard and rust-free. Brass (copper, zinc) and bronze (copper, tin) are poor electrical conductors. Solder (lead, tin) has a low melting point for welding wires. Pure 24 carat gold is very soft; 22 carat gold is alloyed with copper or silver for making jewellery."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Malleability",
+      "definition": "The distinct physical property enabling certain metals to be mechanically beaten into extremely thin flat sheets."
+    },
+    {
+      "term": "Ductility",
+      "definition": "The unique characteristic of metals allowing them to be stretched or mechanically drawn into thin flexible wires."
+    },
+    {
+      "term": "Amphoteric Oxides",
+      "definition": "Specific metal oxides, like aluminium oxide, that react chemically with both acids and bases to yield salt and water."
+    },
+    {
+      "term": "Aqua Regia",
+      "definition": "A highly corrosive chemical mixture composed of concentrated hydrochloric acid and concentrated nitric acid in a strict 3:1 ratio, capable of dissolving precious gold."
+    },
+    {
+      "term": "Electrovalent (Ionic) Compounds",
+      "definition": "Chemical compounds formed entirely by the complete transfer of valence electrons from a metal donor directly to a non-metal receptor."
+    },
+    {
+      "term": "Gangue",
+      "definition": "The naturally occurring, unprofitable earthy impurities like sand and soil that contaminate raw mined metallic ores."
+    },
+    {
+      "term": "Roasting",
+      "definition": "The metallurgical process of intensely heating metallic sulphide ores in the active presence of excess atmospheric air to convert them into oxides."
+    },
+    {
+      "term": "Calcination",
+      "definition": "The process of strongly heating metallic carbonate ores in a limited supply of atmospheric air to decompose them into oxides."
+    },
+    {
+      "term": "Thermit Reaction",
+      "definition": "A highly exothermic displacement reaction involving iron(III) oxide and aluminium powder, practically utilized to weld heavy cracked machine parts."
+    },
+    {
+      "term": "Galvanisation",
+      "definition": "An industrial protective method designed to shield iron and steel from rusting by physically applying a thin superficial coating of zinc."
+    },
+    {
+      "term": "Alloy",
+      "definition": "A structurally homogeneous mixture blending two or more metals, or combining a metal with a specific non-metal, to enhance physical material properties."
+    }
+  ],
+  "summary_points": [
+    "Elements are broadly categorized structurally into metals and non-metals based on observable physical traits like lustre, malleability, and electrical conductivity.",
+    "Metals form positive ions by willingly shedding electrons to non-metals, creating rigid, high-melting ionic compounds driven by strong electrostatic forces.",
+    "The reactivity series is an organized list establishing the relative chemical vigor of metals, dictating displacement reactions and necessary extraction methods.",
+    "Highly reactive metals require electrolytic reduction from molten ores, while moderately reactive metals are extracted via roasting or calcination followed by chemical reduction.",
+    "Corrosion is the environmental degradation of metallic surfaces, preventable utilizing industrial techniques like galvanisation, painting, or formulating resistant alloys."
+  ]
+}

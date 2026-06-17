@@ -1,0 +1,220 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Structure of the Atom",
+    "chapter_number": 4
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What are the three sub-atomic particles of an atom? List their charges and relative masses.",
+      "answer": "The three sub-atomic particles are: (1) Electron (e⁻) - negatively charged, mass ≈ 1/2000 u. (2) Proton (p⁺) - positively charged, mass = 1 u. (3) Neutron (n) - neutral (no charge), mass ≈ 1 u.",
+      "solution": "Sub-atomic particles are fundamental constituents of atoms. Electrons are the lightest particles found outside the nucleus. Protons and neutrons reside in the nucleus and have nearly equal masses. The mass of an electron is approximately 1/2000 times the mass of a proton, making it negligible in calculating atomic mass. Electrons are negatively charged with magnitude equal to the proton charge but opposite in sign. Neutrons have no electrical charge."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Define atomic number and mass number of an atom.",
+      "answer": "Atomic number (Z) is the total number of protons in the nucleus of an atom. Mass number (A) is the sum of the total number of protons and neutrons in the nucleus (A = Z + N, where N is the number of neutrons).",
+      "solution": "The atomic number uniquely identifies an element and determines its position in the periodic table. All atoms of the same element have the same atomic number. The mass number represents the total number of nucleons (protons and neutrons) in an atom. Different atoms of the same element can have different mass numbers if they have different numbers of neutrons, making them isotopes. The relationship is: Mass number = Atomic number + Number of neutrons."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "In a neutral atom with atomic number 8, how many electrons are present?",
+      "answer": "In a neutral atom, the number of electrons equals the atomic number. Therefore, a neutral atom with atomic number 8 has 8 electrons.",
+      "solution": "A neutral atom is electrically neutral, meaning the total positive charge equals the total negative charge. Since protons carry positive charge (+1 each) and electrons carry negative charge (-1 each), the number of protons must equal the number of electrons for neutrality. If atomic number Z = 8, then number of protons = 8, and therefore number of electrons = 8. This atom is oxygen."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What is the maximum number of electrons that can be accommodated in the K shell?",
+      "answer": "The maximum number of electrons in the K shell (n=1) is 2, calculated using the formula 2n² where n=1: 2(1)² = 2.",
+      "solution": "According to the Bohr-Bury scheme, the maximum number of electrons in any shell is given by the formula 2n², where n is the shell number. For the K shell, n=1, so maximum electrons = 2(1)² = 2. The K shell is the innermost shell closest to the nucleus and has the smallest capacity. This is why hydrogen (1 electron) and helium (2 electrons) can only fill the K shell."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What is the maximum number of electrons that can occupy the outermost shell of an atom?",
+      "answer": "The maximum number of electrons in the outermost shell is 8.",
+      "solution": "According to the Bohr-Bury scheme, even though inner shells may theoretically hold more electrons (2n² formula), the outermost shell is limited to a maximum of 8 electrons. This rule applies to all atoms. An outermost shell with 8 electrons is said to be stable and complete, forming an octet. Only helium, which has a complete K shell with 2 electrons as its outermost shell, is an exception to this rule."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Explain the meaning of the notation ¹⁶₈O.",
+      "answer": "In the notation ¹⁶₈O: 16 is the mass number (A), 8 is the atomic number (Z), and O is the element symbol (oxygen). This means the oxygen atom has 8 protons, 8 neutrons (16 - 8 = 8), and 8 electrons (in a neutral atom).",
+      "solution": "The standard notation for an atom is written as: Mass Number over Atomic Number, with element symbol on the right. The atomic number (bottom left) tells us the number of protons and, in a neutral atom, the number of electrons. The mass number (top left) is the sum of protons and neutrons. To find the number of neutrons, we subtract: Number of neutrons = Mass number - Atomic number = A - Z. For ¹⁶₈O: neutrons = 16 - 8 = 8."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What is valency? How is it related to the outermost shell electrons?",
+      "answer": "Valency is the combining capacity of an atom—the number of electrons an atom gains, loses, or shares to achieve a stable configuration (usually 8 electrons in the outermost shell, called an octet). Valency is directly determined by the number of valence electrons (electrons in the outermost shell).",
+      "solution": "Atoms combine with other atoms to achieve stability by filling their outermost shells with electrons. The valency of an atom represents how many electrons it will lose, gain, or share during chemical bonding. For atoms with 4 or fewer electrons in the outermost shell, they typically lose or share electrons, so valency = number of outermost electrons. For atoms with more than 4 electrons in the outermost shell, they typically gain electrons, so valency = 8 - number of outermost electrons. Atoms with a complete octet (8 electrons) or a complete K shell (2 electrons for helium) have zero valency and are chemically unreactive."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Write the electron distribution of carbon (atomic number 6) in the K, L, M shells.",
+      "answer": "Carbon has 6 electrons. Distribution: K shell = 2 electrons (maximum capacity for K is 2), L shell = 4 electrons (remaining electrons). Electronic configuration: K(2), L(4) or written as 2,4.",
+      "solution": "To distribute electrons according to the Bohr-Bury scheme: (1) Fill the innermost shell (K) first. K shell can hold maximum 2n² = 2(1)² = 2 electrons. Carbon has 6 electrons, so K shell takes 2. (2) Remaining electrons = 6 - 2 = 4. Move to L shell. L shell can hold maximum 2n² = 2(2)² = 8 electrons. Since only 4 electrons remain, L shell gets 4. (3) All electrons are distributed. Final configuration: K(2), L(4). This shows carbon has 4 valence electrons."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "What is an isotope? Give one example of isotopes from the chapter.",
+      "answer": "Isotopes are atoms of the same element having the same atomic number but different mass numbers (different numbers of neutrons). Example: Protium (¹₁H), Deuterium (²₁H), and Tritium (³₁H) are three isotopes of hydrogen. All have atomic number 1 (one proton) but mass numbers 1, 2, and 3 respectively.",
+      "solution": "Isotopes occur when atoms of the same element have different numbers of neutrons. Since atomic number (number of protons) remains the same, isotopes have identical chemical properties—the number of valence electrons is the same. However, their physical properties differ because they have different total masses. The different mass comes from the different number of neutrons. Protium has no neutrons (mass number = 1), deuterium has 1 neutron (mass number = 2), and tritium has 2 neutrons (mass number = 3). These are the three naturally occurring forms of hydrogen."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "What is the fundamental difference between isotopes and isobars?",
+      "answer": "Isotopes: atoms of the SAME element with SAME atomic number but DIFFERENT mass numbers. Isobars: atoms of DIFFERENT elements with DIFFERENT atomic numbers but SAME mass number. Isotopes have similar chemical properties; isobars have different chemical and physical properties.",
+      "solution": "Isotopes are variants of the same element differing only in the number of neutrons. Since chemical properties depend on valence electrons (which are the same for isotopes), they react similarly. Isobars, on the other hand, are atoms of completely different elements. Even though they have the same total number of nucleons, they have different numbers of protons and electrons, leading to entirely different chemical behaviors. For example, carbon-12 (¹²₆C) and nitrogen-12 (¹²₇N) are isobars—both have mass number 12, but different atomic numbers (6 and 7), different numbers of electrons, and completely different chemical properties."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "An atom has 6 protons and 8 neutrons. Determine: (i) its atomic number, (ii) its mass number, (iii) the number of electrons in a neutral atom, and (iv) identify the element.",
+      "answer": "(i) Atomic number Z = number of protons = 6. (ii) Mass number A = protons + neutrons = 6 + 8 = 14. (iii) In a neutral atom, electrons = atomic number = 6. (iv) The element with atomic number 6 is Carbon. The atom is Carbon-14 or ¹⁴₆C.",
+      "solution": "Given information: Protons = 6, Neutrons = 8. (i) Atomic number (Z) is always equal to the number of protons. Therefore, Z = 6. (ii) Mass number (A) is the sum of protons and neutrons: A = Z + N = 6 + 8 = 14. (iii) In a neutral atom, the number of electrons must equal the number of protons to maintain electrical neutrality. Therefore, electrons = 6. (iv) The atomic number uniquely identifies the element. Since Z = 6, this is carbon. The notation for this atom is ¹⁴₆C, read as 'Carbon-14.' This is one of the naturally occurring isotopes of carbon."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Calculate the number of neutrons in an atom with mass number 27 and atomic number 13. Name the element.",
+      "answer": "Number of neutrons = Mass number - Atomic number = 27 - 13 = 14 neutrons. The element with atomic number 13 is Aluminum. The atom is Aluminum-27 or ²⁷₁₃Al.",
+      "solution": "The relationship between mass number, atomic number, and neutrons is: A = Z + N, where A is mass number, Z is atomic number, and N is number of neutrons. Rearranging: N = A - Z. Given A = 27 and Z = 13, we get: N = 27 - 13 = 14 neutrons. The atomic number Z = 13 corresponds to aluminum (Al). In a neutral atom, the number of electrons = 13. This isotope is written as ²⁷₁₃Al and is the most common and stable form of aluminum found in nature."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Write the electron distribution for sodium (atomic number 11) using the Bohr-Bury scheme. What is its valency?",
+      "answer": "Sodium has 11 electrons. Distribution: K shell = 2, L shell = 8, M shell = 1. Electronic configuration: 2,8,1. Valency of sodium = 1 (because it has 1 electron in the outermost shell, which it can easily lose).",
+      "solution": "To distribute 11 electrons of sodium: (1) K shell (n=1): maximum = 2n² = 2. Place 2 electrons. Remaining = 11 - 2 = 9. (2) L shell (n=2): maximum = 2n² = 8. Place 8 electrons. Remaining = 9 - 8 = 1. (3) M shell (n=3): Place remaining 1 electron. Final configuration: K(2), L(8), M(1) or 2,8,1. Valency determination: Sodium has 1 valence electron (in M shell). Since this is less than 4, and actually less than half of 8, sodium easily loses this 1 electron to form Na⁺ cation with a stable octet. Therefore, valency = 1. This makes sodium a reactive metal that readily combines with other elements."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "An element has electronic configuration 2,8,7. Determine: (i) its atomic number, (ii) number of valence electrons, (iii) its valency, and (iv) identify the element.",
+      "answer": "(i) Atomic number = total electrons = 2 + 8 + 7 = 17. (ii) Valence electrons = electrons in outermost shell = 7. (iii) Valency = 8 - 7 = 1 (gain 1 electron to complete octet). (iv) The element with atomic number 17 is Chlorine (Cl).",
+      "solution": "Given electronic configuration 2,8,7: (i) Atomic number = total number of electrons in a neutral atom = 2 + 8 + 7 = 17. (ii) Valence electrons are those in the outermost shell, which is the M shell here, containing 7 electrons. (iii) To determine valency when outermost electrons > 4, we use the formula: Valency = 8 - number of outermost electrons = 8 - 7 = 1. This means chlorine needs to gain 1 electron to achieve a stable octet. (iv) The element with atomic number 17 is Chlorine (Cl). Chlorine forms Cl⁻ ion (chloride ion) by gaining 1 electron, achieving the stable configuration of Argon (2,8,8). This explains why chlorine is highly reactive and readily combines with other elements."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Calculate the valency of oxygen (atomic number 8) and show how it achieves stability.",
+      "answer": "Oxygen has atomic number 8. Electronic configuration: K(2), L(6) or 2,6. Valence electrons = 6. Valency = 8 - 6 = 2. Oxygen achieves stability by gaining 2 electrons to form O²⁻ ion, obtaining the configuration 2,8 (stable octet like neon).",
+      "solution": "Oxygen (Z = 8) has 8 electrons distributed as: K shell = 2 (maximum), L shell = 6 (remaining). Configuration: 2,6. Oxygen has 6 valence electrons (in L shell). Since this is more than 4, it is easier for oxygen to gain electrons rather than lose 6 electrons. Valency = 8 - 6 = 2. By gaining 2 electrons, oxygen achieves a stable configuration of 2,8, matching the electron configuration of neon (a noble gas). This is why oxygen typically forms the O²⁻ ion in ionic compounds. In covalent compounds, oxygen shares 2 electrons, achieving a stable octet. This is the basis for oxygen's combining capacity and its role in forming water (H₂O), carbon dioxide (CO₂), and many other compounds."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Explain why helium (atomic number 2) has zero valency despite having only 2 electrons in its outermost shell.",
+      "answer": "Helium has electronic configuration K(2). Although it has only 2 electrons in its outermost (and only) shell, this shell is completely filled. Since K shell has a maximum capacity of 2n² = 2(1)² = 2, helium's K shell is full. A completely filled outermost shell means the atom is stable and does not need to gain, lose, or share any electrons. Therefore, valency of helium = 0, making it chemically inert.",
+      "solution": "The Bohr-Bury scheme states that the outermost shell maximum is 8 electrons, BUT this applies to atoms with more than 2 shells. Helium is unique because it has only one shell (K shell). For helium, the K shell maximum is 2n² = 2, and helium has exactly 2 electrons filling this shell completely. A stable, completely filled outermost shell—whether it contains 2 electrons (helium) or 8 electrons (neon, argon, etc.)—results in zero valency and high chemical stability. This is why helium is an inert noble gas that rarely combines with other elements. The stability principle is the same for all noble gases: a filled outermost shell = stability = zero valency."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Chlorine exists as two isotopes: Cl-35 (mass 35 u) and Cl-37 (mass 37 u) in the ratio 3:1. Calculate the average atomic mass of chlorine.",
+      "answer": "Average atomic mass = (35 × 75/100) + (37 × 25/100) = (35 × 0.75) + (37 × 0.25) = 26.25 + 9.25 = 35.5 u.",
+      "solution": "The ratio 3:1 for Cl-35 to Cl-37 means Cl-35 constitutes 75% and Cl-37 constitutes 25% of natural chlorine. Average atomic mass is calculated as a weighted average: Average mass = (mass₁ × percentage₁/100) + (mass₂ × percentage₂/100). Substituting values: Average = (35 × 75/100) + (37 × 25/100) = 26.25 + 9.25 = 35.5 u. This fractional mass (35.5 u) does NOT mean individual chlorine atoms have mass 35.5 u. Rather, it represents the average mass of all chlorine atoms in a natural sample containing both isotopes in the 3:1 ratio. This is why atomic mass values in the periodic table are often fractional—they represent the weighted average of naturally occurring isotopes."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Compare and contrast Thomson's and Rutherford's models of the atom. Why was Rutherford's model better?",
+      "answer": "Thomson's Model: Electrons embedded in a uniform positive sphere (plum pudding model). Explains electrical neutrality. Rutherford's Model: Small nucleus containing protons, electrons orbit in empty space. Explains that most of the atom is empty and positive charge is concentrated. Rutherford's was better because it explained the alpha-particle scattering experiment results, showing that atoms have mostly empty space with a concentrated nucleus.",
+      "solution": "Thomson's plum pudding model proposed a uniform sphere of positive charge with electrons distributed throughout, similar to currants in a pudding. While this explained electrical neutrality, it could not explain experimental observations. Rutherford's alpha-particle scattering experiment provided crucial evidence: (1) Most alpha particles passed straight through, indicating empty space. (2) Few were deflected slightly, indicating positive charge in small regions. (3) Some rebounded, indicating a dense nucleus with concentrated positive charge. These results contradicted Thomson's uniform model. Rutherford concluded that atoms consist of a small, dense, positively charged nucleus surrounded by largely empty space. This model was superior because it was based on experimental evidence and correctly explained atomic structure at a fundamental level. However, Rutherford's model had its own limitation: it could not explain atomic stability (according to classical physics, orbiting electrons should lose energy and collapse into the nucleus)."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "What was the main problem with Rutherford's atomic model? How did Bohr's model solve this problem?",
+      "answer": "Rutherford's Problem: According to classical physics, electrons revolving in circular orbits around the nucleus would continuously radiate energy, lose energy, and eventually fall into the nucleus. This would make atoms highly unstable, contradicting observations. Bohr's Solution: Bohr proposed that electrons occupy specific discrete energy levels (shells) and do not radiate energy while in these orbits. Electrons remain stable in allowed orbits and only emit/absorb energy when transitioning between shells.",
+      "solution": "Rutherford's nuclear model proposed electrons orbiting the nucleus like planets orbiting the sun. However, according to classical electromagnetic theory, accelerating charged particles (electrons in circular orbits) continuously radiate electromagnetic energy. As an electron loses energy, it would spiral inward into the nucleus. If true, atoms would be highly unstable, and matter as we know it would not exist. Yet atoms are stable, indicating a flaw in the model. Bohr resolved this problem by introducing the concept of quantized energy levels. His key postulates were: (1) Only certain discrete orbits are allowed; electrons in these orbits have specific energies. (2) Electrons in allowed orbits do NOT radiate energy (violation of classical physics but supported by quantum mechanics). (3) Electrons remain stable in these orbits. Bohr's model successfully explained atomic stability and the properties of the first eighteen elements. While later quantum mechanics refined the concept (replacing fixed orbits with probability orbitals), Bohr's explanation of discrete energy levels remains fundamental to understanding atomic structure."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "An atom has the notation ³²₁₆S. Determine: (i) number of protons, (ii) number of neutrons, (iii) number of electrons (in neutral atom), (iv) atomic number, (v) mass number, and (vi) valency of the element.",
+      "answer": "(i) Protons = 16. (ii) Neutrons = 32 - 16 = 16. (iii) Electrons = 16. (iv) Atomic number = 16. (v) Mass number = 32. (vi) Configuration: K(2), L(8), M(6); Valency = 8 - 6 = 2.",
+      "solution": "From notation ³²₁₆S: The mass number (top) = 32, and atomic number (bottom) = 16. (i) Atomic number = number of protons = 16. (ii) Number of neutrons = Mass number - Atomic number = 32 - 16 = 16. (iii) In a neutral atom, electrons = protons = 16. (iv) Atomic number Z = 16. (v) Mass number A = 32. (vi) For valency, distribute 16 electrons: K(2), L(8), M(6). Outermost shell (M) has 6 electrons. Since 6 > 4, valency = 8 - 6 = 2. This element is sulfur (S). Sulfur has 2 valence electrons and typically forms S²⁻ ion or shares 2 electrons in covalent compounds, achieving a stable octet like argon (2,8,8)."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "Explain the Bohr-Bury scheme for electron distribution. Why is the outermost shell limited to 8 electrons?",
+      "answer": "The Bohr-Bury scheme has three rules: (1) Maximum electrons per shell = 2n² (n = shell number). (2) Maximum in outermost shell = 8. (3) Inner shells fill before outer shells. The outermost shell is limited to 8 electrons because this represents a stable electron configuration (octet). Atoms with 8 electrons in the outermost shell (or 2 for helium) are chemically stable and have zero valency, as seen in noble gases.",
+      "solution": "The Bohr-Bury scheme is based on experimental observations and quantum mechanical principles: Rule 1: Maximum electrons = 2n² explains the capacity of each shell. K shell (n=1): 2(1)² = 2. L shell (n=2): 2(2)² = 8. M shell (n=3): 2(3)² = 18. Rule 2: Despite the formula allowing more electrons in outer shells (M shell could theoretically hold 18), the outermost shell is practically limited to 8 electrons. This is because 8 electrons in the outermost shell represent a stable, filled configuration. This is the octet rule. Rule 3: Shells fill step-wise from inside out. The K shell must be full before the L shell starts filling. This ensures the most stable electron arrangement. The 8-electron limit in the outermost shell is observed experimentally: all noble gases (He with 2, Ne/Ar/Kr/Xe with 8 outermost electrons) are chemically inert. Atoms want to achieve this stable octet, driving all chemical reactions. For example, sodium (2,8,1) loses 1 electron to become Na⁺ (2,8), and chlorine (2,8,7) gains 1 electron to become Cl⁻ (2,8,8)."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "An element X has the following properties: It has 3 valence electrons and an atomic number of 13. Determine: (i) the electronic configuration, (ii) the mass number if it has 14 neutrons, (iii) identify the element and write its notation, and (iv) explain how this element achieves stability by forming a compound.",
+      "answer": "(i) Electronic configuration: K(2), L(8), M(3) or 2,8,3. (ii) Mass number = Z + N = 13 + 14 = 27. (iii) Element = Aluminum (Al); Notation = ²⁷₁₃Al. (iv) Aluminum loses 3 electrons to form Al³⁺ ion with configuration 2,8 (stable octet), achieving stability.",
+      "solution": "Given: Atomic number = 13, Valence electrons = 3. (i) With 13 electrons, distribute using Bohr-Bury scheme: K(2), L(8), M(3). The outermost shell (M) has 3 electrons, matching the given valence electrons. (ii) Mass number = Atomic number + Neutrons = 13 + 14 = 27. (iii) Element with atomic number 13 is aluminum. Notation: ²⁷₁₃Al. (iv) Aluminum has 3 valence electrons (M shell). Since this is less than 4, aluminum easily LOSES these 3 electrons rather than gaining 5. By losing 3 electrons, Al becomes Al³⁺ with configuration K(2), L(8)—a stable octet matching neon. This is why aluminum forms Al³⁺ in ionic compounds (like Al₂O₃). Alternatively, aluminum can SHARE 3 electrons in covalent compounds (like AlCl₃), again achieving a form of stability by involving 8 electrons in its outer shell interactions."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Carbon has two stable isotopes: C-12 (mass 12 u, 98.9%) and C-14 (mass 14 u, 1.1%). Calculate the average atomic mass of carbon. Explain why carbon has this average mass despite individual atoms having discrete mass numbers.",
+      "answer": "Average atomic mass = (12 × 98.9/100) + (14 × 1.1/100) = (12 × 0.989) + (14 × 0.011) = 11.868 + 0.154 = 12.022 ≈ 12.02 u. Individual carbon atoms have discrete masses (12 or 14 u), but natural carbon is a mixture of both isotopes in the 98.9:1.1 ratio, so the average is 12.02 u.",
+      "solution": "Carbon occurs naturally as a mixture of two isotopes: C-12 (the most abundant) and C-14 (slightly radioactive, less abundant). Each individual atom has a discrete mass number: an atom is either C-12 (mass exactly 12 u) or C-14 (mass exactly 14 u). However, natural carbon samples contain both isotopes mixed in the ratio 98.9:1.1 (or 98.9% C-12 and 1.1% C-14). Average atomic mass calculation: = (mass of C-12 × % abundance) + (mass of C-14 × % abundance) = (12 × 0.989) + (14 × 0.011) = 11.868 + 0.154 = 12.022 u. This average value (12.02 u) does NOT represent the mass of any single carbon atom. Instead, it is the average mass of all carbon atoms in a natural sample. If you have a sample containing exactly 1000 carbon atoms, about 989 would be C-12 (total mass 11,868 u) and 11 would be C-14 (total mass 154 u), giving an average mass per atom of 12.022 u. This is why periodic tables show atomic masses as decimal values—they represent weighted averages of naturally occurring isotopes."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Explain why isotopes have identical chemical properties but different physical properties. Give an example and justify your explanation.",
+      "answer": "Isotopes have the same atomic number (same number of protons and electrons), so they have identical valence electron configurations. Chemical properties depend on valence electrons, so isotopes react identically. Physical properties like mass, density, and boiling point depend on atomic mass, which differs between isotopes. Example: H-1 and H-2 (deuterium) have identical chemistry but different boiling points due to different masses.",
+      "solution": "Chemical properties are determined by how atoms gain, lose, or share electrons during bonding. This behavior is entirely dependent on the valence electron configuration. Since isotopes have the SAME atomic number, they have the SAME number of electrons arranged in the SAME electron shells. Therefore, their valence electron configurations are identical. For instance, C-12 and C-14 both have 6 protons and 6 electrons arranged as 2,4. They have identical valences (4) and form the same compounds (CO₂, CH₄, etc.) at the same rates. Physical properties, however, depend on the total mass of the atom, which includes the masses of neutrons. C-12 has 6 neutrons (total mass 12 u), while C-14 has 8 neutrons (total mass 14 u). This mass difference causes: different densities, different boiling/melting points, different rates of diffusion, different spectral properties. Example: Protium (H-1, no neutrons, mass 1) and Deuterium (H-2, one neutron, mass 2) are isotopes of hydrogen with identical chemistry. Both form H₂O. Yet deuterium oxide (D₂O, heavy water) has a higher boiling point (101.4°C) than regular water H₂O (100°C) due to the doubled mass affecting intermolecular forces. This illustrates the principle: same chemistry (valence electrons), different physics (atomic mass)."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Distinguish between isotopes and isobars by providing clear definitions, contrasting their properties, and giving an example of each from the chapter.",
+      "answer": "Isotopes: Same element, same atomic number Z, different mass numbers A (different neutrons). Chemical properties identical, physical properties different. Example: Protium (¹₁H), Deuterium (²₁H), Tritium (³₁H). Isobars: Different elements, different atomic numbers Z, same mass number A. Completely different chemical and physical properties. Example: Argon-40 (⁴⁰₁₈Ar) and Calcium-40 (⁴⁰₂₀Ca).",
+      "solution": "Isotopes occur when atoms of the SAME element have different numbers of neutrons. Since atomic number (protons) is the same, they have the same number of electrons arranged identically. Therefore: (1) Chemical properties are IDENTICAL because chemistry depends on valence electrons. (2) Physical properties are DIFFERENT because they have different total masses. (3) Both have the same element symbol. Example: Hydrogen has three isotopes—all with Z=1 (one proton). Protium ¹₁H: 1 proton, 0 neutrons, mass number 1. Deuterium ²₁H: 1 proton, 1 neutron, mass number 2. Tritium ³₁H: 1 proton, 2 neutrons, mass number 3. They react identically (both form H₂O) but have different masses. Isobars occur when atoms of DIFFERENT elements coincidentally have the same mass number (same total nucleons). Since atomic numbers are different, they have different numbers of electrons and different chemical properties. Example: Argon-40 and Calcium-40 both have A = 40, but Argon has Z = 18 (18 protons, 22 neutrons) while Calcium has Z = 20 (20 protons, 20 neutrons). Despite the same mass number, argon is a noble gas (inert) and calcium is a reactive metal—completely different chemical properties because they have different valence electron configurations. This fundamental distinction shows that isotopes are chemical variants of the same element, while isobars are atoms of entirely different elements."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Explain Thomson's model of the atom and why it failed. What experimental evidence contradicted it?",
+      "answer": "Thomson's Model: Electrons are embedded in a uniform sphere of positive charge (plum pudding or watermelon model). It correctly explained electrical neutrality. Failure: It assumed positive charge is uniformly distributed throughout the atom. Experimental Evidence: Rutherford's alpha-particle scattering experiment showed that most alpha particles passed straight through the gold foil, contradicting uniform positive charge distribution. Some particles rebounded, indicating concentrated positive charge in a nucleus, not uniform distribution.",
+      "solution": "Thomson's Plum Pudding Model visualized the atom as a sphere of positive charge with electrons embedded throughout, like currants in pudding. Key assumptions: (1) Positive charge is uniformly distributed. (2) Electrons are scattered throughout. (3) The atom is mostly occupied by matter (positive charge). This model successfully explained one observation: atoms are electrically neutral (positive and negative charges balance). However, it failed to account for experimental results. Rutherford's Alpha-Particle Scattering Experiment (1909) shot alpha particles at thin gold foil. If Thomson's model were correct—with uniform positive charge throughout—all alpha particles should be deflected slightly and uniformly. Actual Results: (1) Most alpha particles (99.98%) passed straight through with no deflection, indicating EMPTY SPACE inside atoms. (2) Some particles deflected at various angles, indicating scattered positive charges. (3) A few particles (1 in 12,000) rebounded backward (180° deflection), indicating a very concentrated positive charge. These observations contradicted Thomson's uniform distribution. Rutherford concluded that atoms have mostly empty space with a small, dense, positively charged nucleus. The plum pudding model was abandoned because it could not explain how alpha particles could pass straight through if the entire atom were filled with positive charge. This experimental evidence demonstrates how science progresses: a model that fits one observation was replaced by a better model fitting more observations."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Explain Bohr's postulates and how they solved the stability problem of Rutherford's model. Why is the concept of discrete energy levels crucial?",
+      "answer": "Bohr's Postulates: (1) Only discrete orbits with specific energies are allowed. (2) Electrons in these orbits do not radiate energy. Rutherford's Problem: Orbiting electrons should lose energy and collapse into nucleus. Bohr's Solution: Electrons in allowed discrete orbits remain stable without radiating energy, violating classical physics but explaining atomic stability. Discrete energy levels are crucial because they prevent continuous energy loss and atomic collapse.",
+      "solution": "Rutherford's nuclear model proposed electrons orbiting the nucleus. However, classical electromagnetism predicted disaster: accelerating electrons (circular motion = acceleration) must radiate electromagnetic radiation continuously. As electrons lose energy, they would spiral into the nucleus, making atoms unstable. Yet atoms are observed to be stable, indicating a fundamental flaw in applying classical physics to atoms. Bohr's Revolutionary Solution (1913): He proposed two postulates that violated classical physics but matched observations: Postulate 1: Electrons can only occupy certain discrete orbits with specific, quantized energy levels. Postulate 2: Electrons in these allowed orbits do NOT radiate energy despite being accelerated. This was radical because classical theory said accelerating charges MUST radiate. Bohr essentially said: at atomic scales, this doesn't apply. How This Solved the Problem: If electrons can only be in specific orbits (K, L, M, N, ... shells) and don't lose energy in these orbits, then atoms are stable. An electron can only leave an orbit by jumping to a different allowed orbit, requiring or releasing energy equal to the difference between the two orbits. This discrete energy requirement explained atomic spectra perfectly. Why Discrete Energy Levels Are Crucial: (1) Stability: Electrons can't occupy arbitrary orbits or fall between orbits, so they don't spiral into the nucleus. (2) Prevents Continuous Energy Loss: Without discrete levels, energy would be lost continuously. With discrete levels, energy is only exchanged in specific packets. (3) Explains Observations: Atomic spectra show only specific frequencies (colors), corresponding to specific energy differences between allowed orbits. (4) Foundation of Chemistry: Valency and chemical bonding arise from atoms trying to fill or empty specific electron shells. Modern quantum mechanics refined Bohr's model (electrons are now treated as probability clouds, not fixed orbits), but the concept of discrete energy levels remains fundamental to atomic physics."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "An atom with atomic number 20 has the electronic configuration K(2), L(8), M(8), N(2). Determine: (i) total number of electrons, (ii) identify the element, (iii) its valency, and (iv) explain how this element typically combines with chlorine (valency 1).",
+      "answer": "(i) Total electrons = 2 + 8 + 8 + 2 = 20. (ii) Element with Z = 20 is Calcium (Ca). (iii) Valency = 2 (has 2 electrons in outermost N shell). (iv) Calcium loses 2 electrons to form Ca²⁺, and chlorine gains 1 electron per atom to form Cl⁻. Formula: CaCl₂ (one Ca²⁺ combines with two Cl⁻).",
+      "solution": "Given: Atomic number = 20, Configuration K(2), L(8), M(8), N(2). (i) Total electrons = 2 + 8 + 8 + 2 = 20. In a neutral atom, electrons = atomic number, confirming consistency. (ii) Element with Z = 20 is Calcium (Ca). (iii) Valency determination: The outermost shell is N with 2 electrons. Since 2 < 4, calcium typically LOSES these 2 electrons to become Ca²⁺ with configuration K(2), L(8), M(8)—a stable octet. Valency = 2. (iv) Chemical Combination: Calcium (valency 2, needs to lose 2 electrons) combines with Chlorine (valency 1, needs to gain 1 electron per atom). For electrical neutrality: Ca²⁺ ion (charge +2) requires 2 Cl⁻ ions (each with charge -1) to balance. Formula: CaCl₂. The formation process: Ca → Ca²⁺ + 2e⁻ (loses 2 electrons). Cl + e⁻ → Cl⁻ (each gains 1 electron). Two chlorine atoms each gain one electron from calcium, forming calcium chloride (CaCl₂). This demonstrates how valency predicts the formulas of compounds: combining elements' valencies determine the ratio of atoms in the compound."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Compare the stability of atoms with different outermost shell electron configurations. Why is helium (2 electrons) stable like neon (8 electrons) despite different numbers of outermost electrons?",
+      "answer": "Both helium and neon have completely FILLED outermost shells. Helium: K(2)—K shell maximum = 2n² = 2, which is filled. Neon: K(2), L(8)—L shell maximum = 2n² = 8, which is filled. A completely filled outermost shell, whether containing 2 electrons (helium) or 8 electrons (neon, argon), represents a stable configuration. Both have zero valency and are chemically inert noble gases. The key is COMPLETION, not the number itself.",
+      "solution": "Stability in atoms depends on a filled outermost shell, following the octet rule with an exception for helium: General Octet Rule: Atoms with 8 electrons in the outermost shell are stable and have zero valency. Examples: Neon (2,8), Argon (2,8,8), Krypton (2,8,18,8). These noble gases are chemically inert. Helium Exception: Helium has only 2 electrons total, with configuration K(2). The K shell can hold a maximum of 2n² = 2(1)² = 2 electrons. Helium's K shell is completely FILLED with its maximum capacity. A filled outermost shell = stability. Helium is as stable as neon, despite having fewer electrons, because helium's single shell is completely filled. Both have zero valency. General Principle: Stability = Completely Filled Outermost Shell. The number of electrons in a filled shell varies: K shell (n=1): filled with 2 electrons. L shell (n=2): filled with 8 electrons. M shell (n=3): filled with 8 electrons (despite formula 2n² = 18, practical limit is 8). The principle remains constant: when the outermost shell reaches its specific maximum capacity, the atom is stable. This is why: (1) Helium and neon are both inert noble gases. (2) Atoms react to achieve filled outermost shells (sodium wants to achieve neon's configuration by losing 1 electron, chlorine wants argon's by gaining 1). (3) Valency reflects how many electrons an atom will gain/lose/share to fill its outermost shell. This explains all of chemistry: every atom 'wants' a filled outermost shell."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "An element X forms an ion X³⁻ with electronic configuration K(2), L(8), M(8). Determine: (i) number of electrons in X³⁻, (ii) atomic number and number of protons in neutral element X, (iii) identify element X, (iv) determine its mass number if it has 16 neutrons, and (v) explain the reason for forming X³⁻.",
+      "answer": "(i) Electrons in X³⁻ = 2 + 8 + 8 = 18. (ii) Since X³⁻ has 3 extra electrons, neutral X has 18 - 3 = 15 electrons. Atomic number Z = 15 (15 protons in neutral atom). (iii) Element with Z = 15 is Phosphorus (P). (iv) Mass number = Z + N = 15 + 16 = 31. (v) Phosphorus gains 3 electrons to achieve configuration 2,8,8 (stable octet like argon), forming P³⁻.",
+      "solution": "This is a reverse-engineering problem: starting from an ion's configuration to find the neutral atom. Given: Ion X³⁻ with configuration K(2), L(8), M(8). (i) Electrons in ion X³⁻ = 2 + 8 + 8 = 18 electrons. (ii) The notation X³⁻ means the atom X gained 3 extra electrons. To find neutral X: Electrons in neutral X = Electrons in X³⁻ - 3 = 18 - 3 = 15 electrons. In a neutral atom, protons = electrons. Therefore, neutral X has 15 protons. Atomic number Z = 15. (iii) Element with atomic number 15 is Phosphorus (P). (iv) Mass number = Atomic number + Neutrons = 15 + 16 = 31. Notation: ³¹₁₅P. (v) Explanation for P³⁻ Formation: Neutral phosphorus has configuration K(2), L(8), M(5). It has 5 valence electrons (in M shell). Since 5 > 4, phosphorus would typically GAIN electrons rather than lose 5. By gaining 3 electrons, phosphorus becomes P³⁻ with configuration K(2), L(8), M(8)—a stable octet matching Argon (Z=18, also 2,8,8). This is the most common way phosphorus achieves stability in compounds. Phosphorus forms P³⁻ in ionic compounds like Na₃P or in some phosphides, achieving the stable electron configuration of argon."
+    }
+  ]
+}

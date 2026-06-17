@@ -1,0 +1,334 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Structure of the Atom",
+    "chapter_number": 4
+  },
+  "flashcards": [
+    {
+      "q": "Define an atom.",
+      "a": "An atom is the smallest unit of matter that retains the chemical properties of an element, consisting of a nucleus (protons and neutrons) surrounded by electrons in shells."
+    },
+    {
+      "q": "What are protons? State their charge and mass.",
+      "a": "Protons are positively charged sub-atomic particles present in the nucleus. Charge = +1, Mass ≈ 1 u (atomic mass unit). Represented as p⁺."
+    },
+    {
+      "q": "What are electrons? State their charge and mass.",
+      "a": "Electrons are negatively charged sub-atomic particles that orbit the nucleus. Charge = -1, Mass ≈ 1/2000 u (negligible). Represented as e⁻."
+    },
+    {
+      "q": "What are neutrons? State their charge and mass.",
+      "a": "Neutrons are neutral sub-atomic particles present in the nucleus (except in protium). Charge = 0 (neutral), Mass ≈ 1 u. Represented as n."
+    },
+    {
+      "q": "What is the nucleus?",
+      "a": "The nucleus is the small, dense, positively charged centre of an atom containing protons and neutrons. It contains nearly all the mass of the atom."
+    },
+    {
+      "q": "Define atomic number (Z).",
+      "a": "Atomic number is the total number of protons present in the nucleus of an atom. It uniquely identifies an element and determines its position in the periodic table."
+    },
+    {
+      "q": "Define mass number (A). Write the formula.",
+      "a": "Mass number is the sum of protons and neutrons in the nucleus. Formula: A = Z + N (where Z = atomic number, N = number of neutrons)."
+    },
+    {
+      "q": "In a neutral atom, what is the relationship between protons and electrons?",
+      "a": "In a neutral atom, the number of electrons equals the number of protons. This makes the atom electrically neutral."
+    },
+    {
+      "q": "What is the standard notation for representing an atom? Give an example.",
+      "a": "Standard notation: Mass Number over Atomic Number, with element symbol. Example: ¹⁴₇N (nitrogen-14: mass number 14, atomic number 7)."
+    },
+    {
+      "q": "What are shells (orbits) in an atom?",
+      "a": "Shells are regions around the nucleus where electrons can be located. Designated as K, L, M, N, ... or n = 1, 2, 3, 4, ... Each shell has a specific energy level."
+    },
+    {
+      "q": "What are valence electrons?",
+      "a": "Valence electrons are the electrons present in the outermost shell of an atom. They determine the chemical properties and combining capacity of the atom."
+    },
+    {
+      "q": "Define valency.",
+      "a": "Valency is the combining capacity of an atom—the number of electrons an atom gains, loses, or shares to achieve a stable configuration (usually an octet)."
+    },
+    {
+      "q": "What is an octet?",
+      "a": "An octet is a stable electron configuration in which the outermost shell contains 8 electrons. Atoms tend to achieve this configuration through chemical reactions."
+    },
+    {
+      "q": "State the maximum electrons in K shell.",
+      "a": "K shell (n=1): Maximum = 2n² = 2(1)² = 2 electrons."
+    },
+    {
+      "q": "State the maximum electrons in L shell.",
+      "a": "L shell (n=2): Maximum = 2n² = 2(2)² = 8 electrons."
+    },
+    {
+      "q": "State the maximum electrons in M shell.",
+      "a": "M shell (n=3): Maximum = 2n² = 2(3)² = 18 electrons, but practically limited to 8 in outermost."
+    },
+    {
+      "q": "What is the maximum capacity of the outermost shell?",
+      "a": "The outermost shell can accommodate a maximum of 8 electrons (with exception: helium with 2 electrons as its only shell)."
+    },
+    {
+      "q": "State the three rules of the Bohr-Bury scheme for electron distribution.",
+      "a": "Rule 1: Maximum electrons per shell = 2n². Rule 2: Maximum in outermost shell = 8. Rule 3: Inner shells fill before outer shells (step-wise filling)."
+    },
+    {
+      "q": "What are isotopes?",
+      "a": "Isotopes are atoms of the same element with the same atomic number but different mass numbers (different numbers of neutrons)."
+    },
+    {
+      "q": "Do isotopes have similar or different chemical properties?",
+      "a": "Isotopes have IDENTICAL chemical properties because they have the same number of valence electrons."
+    },
+    {
+      "q": "Do isotopes have similar or different physical properties?",
+      "a": "Isotopes have DIFFERENT physical properties because they have different atomic masses. Examples: different boiling points, densities, diffusion rates."
+    },
+    {
+      "q": "Give two examples of isotopes from the chapter.",
+      "a": "Protium (¹₁H), Deuterium (²₁H), Tritium (³₁H) - three isotopes of hydrogen. Also: Carbon-12 (¹²₆C) and Carbon-14 (¹⁴₆C)."
+    },
+    {
+      "q": "What are isobars?",
+      "a": "Isobars are atoms of different elements with different atomic numbers but the same mass number (same total number of nucleons)."
+    },
+    {
+      "q": "Do isobars belong to the same element?",
+      "a": "No. Isobars are atoms of DIFFERENT elements with different atomic numbers and different chemical properties."
+    },
+    {
+      "q": "Give an example of isobars.",
+      "a": "Argon-40 (⁴⁰₁₈Ar) and Calcium-40 (⁴⁰₂₀Ca). Both have mass number 40 but different atomic numbers."
+    },
+    {
+      "q": "How do you calculate average atomic mass of isotopes?",
+      "a": "Average atomic mass = (mass₁ × percentage₁/100) + (mass₂ × percentage₂/100) + ... It is a weighted average based on relative abundance."
+    },
+    {
+      "q": "What is the key principle behind Thomson's model?",
+      "a": "Thomson's model (plum pudding model): Electrons are embedded in a uniform sphere of positive charge. It explained electrical neutrality."
+    },
+    {
+      "q": "What was the limitation of Thomson's model?",
+      "a": "Thomson's model assumed uniform distribution of positive charge throughout the atom. This could not explain Rutherford's experimental observations."
+    },
+    {
+      "q": "What did Rutherford's alpha-particle scattering experiment reveal?",
+      "a": "The experiment revealed that atoms have mostly empty space, with a small, dense, positively charged nucleus. Most α-particles passed straight through; few deflected; one in 12,000 rebounded."
+    },
+    {
+      "q": "What is the key principle of Rutherford's nuclear model?",
+      "a": "Rutherford's model: Atoms have a tiny, positively charged nucleus surrounded by empty space. Electrons revolve around the nucleus in circular paths."
+    },
+    {
+      "q": "What was the main problem with Rutherford's model?",
+      "a": "Rutherford's model could not explain atomic stability. According to classical physics, orbiting electrons should lose energy and fall into the nucleus."
+    },
+    {
+      "q": "What are Bohr's two main postulates about atomic structure?",
+      "a": "Postulate 1: Only certain discrete orbits are allowed for electrons. Postulate 2: While revolving in discrete orbits, electrons do not radiate energy."
+    },
+    {
+      "q": "How did Bohr's model solve the stability problem?",
+      "a": "Bohr proposed electrons occupy discrete energy levels and do not radiate energy in these orbits, preventing them from spiraling into the nucleus."
+    },
+    {
+      "q": "What is Bohr's major advantage over Rutherford's model?",
+      "a": "Bohr's model successfully explained atomic stability by introducing discrete energy levels and the non-radiating property of electrons in allowed orbits."
+    },
+    {
+      "q": "How are shells designated in Bohr's model?",
+      "a": "Shells are designated as K, L, M, N, ... or as n = 1, 2, 3, 4, ... where n is the shell number or energy level index."
+    },
+    {
+      "q": "What does the formula 2n² represent?",
+      "a": "The formula 2n² gives the maximum number of electrons that can be accommodated in a shell, where n is the shell number."
+    },
+    {
+      "q": "Write the electron configuration of helium (Z = 2).",
+      "a": "Helium: K(2) or 2. All 2 electrons fill the K shell completely."
+    },
+    {
+      "q": "Write the electron configuration of carbon (Z = 6).",
+      "a": "Carbon: K(2), L(4) or 2,4. K shell filled with 2; L shell has 4 electrons."
+    },
+    {
+      "q": "Write the electron configuration of oxygen (Z = 8).",
+      "a": "Oxygen: K(2), L(6) or 2,6. K shell filled with 2; L shell has 6 electrons."
+    },
+    {
+      "q": "Write the electron configuration of sodium (Z = 11).",
+      "a": "Sodium: K(2), L(8), M(1) or 2,8,1. K and L shells filled; M shell has 1 electron."
+    },
+    {
+      "q": "Write the electron configuration of chlorine (Z = 17).",
+      "a": "Chlorine: K(2), L(8), M(7) or 2,8,7. K and L shells filled; M shell has 7 electrons."
+    },
+    {
+      "q": "Write the electron configuration of argon (Z = 18).",
+      "a": "Argon: K(2), L(8), M(8) or 2,8,8. All three shells filled with maximum capacity."
+    },
+    {
+      "q": "What is the valency of hydrogen (1 valence electron)?",
+      "a": "Valency of hydrogen = 1. It can lose 1 electron or share 1 electron to achieve stability like helium."
+    },
+    {
+      "q": "What is the valency of carbon (4 valence electrons)?",
+      "a": "Valency of carbon = 4. It can lose, gain, or share 4 electrons to achieve a stable octet."
+    },
+    {
+      "q": "What is the valency of oxygen (6 valence electrons)?",
+      "a": "Valency of oxygen = 8 - 6 = 2. It gains 2 electrons or shares 2 electrons to complete the octet."
+    },
+    {
+      "q": "What is the valency of chlorine (7 valence electrons)?",
+      "a": "Valency of chlorine = 8 - 7 = 1. It gains 1 electron or shares 1 electron to complete the octet."
+    },
+    {
+      "q": "What is the valency of sodium (1 valence electron)?",
+      "a": "Valency of sodium = 1. It loses 1 electron to achieve the stable configuration of neon (2,8)."
+    },
+    {
+      "q": "What is the valency of calcium (2 valence electrons)?",
+      "a": "Valency of calcium = 2. It loses 2 electrons to achieve a stable octet."
+    },
+    {
+      "q": "What is the valency of aluminum (3 valence electrons)?",
+      "a": "Valency of aluminum = 3. It loses 3 electrons to form Al³⁺ with stable configuration."
+    },
+    {
+      "q": "What is the valency of neon (8 valence electrons)?",
+      "a": "Valency of neon = 0 (zero valency). It has a complete octet and is chemically inert."
+    },
+    {
+      "q": "How do atoms with valency 1-4 determine their combining capacity?",
+      "a": "For atoms with ≤4 valence electrons: Valency = number of valence electrons (they lose or share)."
+    },
+    {
+      "q": "How do atoms with valency 5-7 determine their combining capacity?",
+      "a": "For atoms with >4 valence electrons: Valency = 8 - number of valence electrons (they gain or share)."
+    },
+    {
+      "q": "What is the key difference between isotopes and isobars?",
+      "a": "Isotopes: Same element, same Z, different A. Isobars: Different elements, different Z, same A."
+    },
+    {
+      "q": "What are nucleons?",
+      "a": "Nucleons are collectively called protons and neutrons, both present in the nucleus with mass ≈ 1 u each."
+    },
+    {
+      "q": "How many protons are in an atom with atomic number 15?",
+      "a": "An atom with atomic number 15 has 15 protons (atomic number = number of protons)."
+    },
+    {
+      "q": "How many electrons are in a neutral atom with atomic number 8?",
+      "a": "A neutral atom with atomic number 8 has 8 electrons (in neutral atoms, electrons = protons)."
+    },
+    {
+      "q": "What is the number of neutrons if mass number is 35 and atomic number is 17?",
+      "a": "Number of neutrons = A - Z = 35 - 17 = 18 neutrons."
+    },
+    {
+      "q": "What is the mass number of an atom with 8 protons and 8 neutrons?",
+      "a": "Mass number = protons + neutrons = 8 + 8 = 16."
+    },
+    {
+      "q": "Which subatomic particle was discovered by J.J. Thomson?",
+      "a": "J.J. Thomson discovered the electron through his experiments on cathode rays."
+    },
+    {
+      "q": "Which subatomic particle was discovered by E. Goldstein?",
+      "a": "E. Goldstein discovered canal rays, which led to the discovery of protons."
+    },
+    {
+      "q": "Which subatomic particle was discovered by J. Chadwick?",
+      "a": "J. Chadwick discovered the neutron in 1932."
+    },
+    {
+      "q": "What are canal rays?",
+      "a": "Canal rays are positively charged radiations in gas discharge tubes, discovered by E. Goldstein. They led to the discovery of protons."
+    },
+    {
+      "q": "Why is helium (2 electrons) stable despite having only 2 outermost electrons?",
+      "a": "Helium's K shell has a maximum capacity of 2n² = 2 electrons. With 2 electrons, its outermost shell is completely filled, making it stable."
+    },
+    {
+      "q": "Why do atoms form compounds?",
+      "a": "Atoms form compounds by gaining, losing, or sharing electrons to achieve a stable electron configuration (octet or filled outermost shell)."
+    },
+    {
+      "q": "What is the relationship between valency and outermost shell electrons?",
+      "a": "Valency is determined by the number of valence electrons (outermost shell electrons) and represents the atom's combining capacity."
+    },
+    {
+      "q": "What does it mean that deuterium (²₁H) and protium (¹₁H) are isotopes?",
+      "a": "Both are forms of hydrogen with the same atomic number (1) but different mass numbers. Protium has no neutrons; deuterium has 1 neutron."
+    },
+    {
+      "q": "Why do isotopes have the same chemical properties?",
+      "a": "Isotopes have identical valence electron configurations. Chemical properties depend on valence electrons, not on the number of neutrons."
+    },
+    {
+      "q": "Why do isotopes have different physical properties?",
+      "a": "Isotopes have different total masses due to different numbers of neutrons. Physical properties like boiling point and density depend on atomic mass."
+    },
+    {
+      "q": "What is the atomic mass unit (u)?",
+      "a": "The atomic mass unit (u) is a standard unit for measuring atomic and subatomic particle masses. 1 u ≈ 1.66 × 10⁻²⁷ kg."
+    },
+    {
+      "q": "What is the mass of a proton in atomic mass units?",
+      "a": "Mass of proton ≈ 1 u (taken as standard unit)."
+    },
+    {
+      "q": "What is the mass of a neutron in atomic mass units?",
+      "a": "Mass of neutron ≈ 1 u (nearly equal to proton mass)."
+    },
+    {
+      "q": "What is the mass of an electron in atomic mass units?",
+      "a": "Mass of electron ≈ 1/2000 u (negligible compared to protons/neutrons)."
+    },
+    {
+      "q": "Why is electron mass considered negligible in atomic mass calculations?",
+      "a": "Electron mass ≈ 1/2000 u, approximately 2000 times lighter than protons/neutrons. Atomic mass is essentially sum of proton and neutron masses."
+    },
+    {
+      "q": "What is electronic configuration?",
+      "a": "Electronic configuration is the distribution of electrons in different shells (K, L, M, N, ...) of an atom following the Bohr-Bury scheme."
+    },
+    {
+      "q": "What does the notation ²⁷₁₃Al mean?",
+      "a": "²⁷₁₃Al represents Aluminum with mass number 27 (top) and atomic number 13 (bottom). It has 13 protons, 13 electrons, and 14 neutrons."
+    },
+    {
+      "q": "What is the radius relationship between nucleus and atom?",
+      "a": "The radius of the nucleus is about 10⁵ times smaller than the radius of the atom (from Rutherford's calculations)."
+    },
+    {
+      "q": "What does Rutherford's gold foil experiment prove about atomic structure?",
+      "a": "The experiment proved that atoms have a small, dense nucleus surrounded by mostly empty space (most alpha particles passed through)."
+    },
+    {
+      "q": "What percentage of alpha particles were deflected in Rutherford's experiment?",
+      "a": "About 0.02% (one in 12,000) of alpha particles were deflected by large angles or rebounded."
+    },
+    {
+      "q": "What is the charge of a nucleus?",
+      "a": "The nucleus is positively charged because it contains protons. The net nuclear charge = (number of protons) × (+1)."
+    },
+    {
+      "q": "What holds electrons in orbit around the nucleus?",
+      "a": "Electrons are held in orbit by the electrostatic attraction between negatively charged electrons and the positively charged nucleus."
+    },
+    {
+      "q": "Why is the atom electrically neutral?",
+      "a": "An atom is electrically neutral because the total positive charge (protons) equals the total negative charge (electrons) in magnitude."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "The Human Eye and the Colorful World",
+    "chapter_number": 10
+  },
+  "summary": [
+    {
+      "category": "The Human Eye and Vision Defects",
+      "points": [
+        "The eye is a biological camera focusing images on the retina via a variable-focus lens system; the ability to adjust focal length is called accommodation.",
+        "Refractive defects like Myopia (corrected by concave lenses), Hypermetropia (corrected by convex lenses), and Presbyopia (aging effect) result in blurred vision due to improper focusing."
+      ]
+    },
+    {
+      "category": "Refraction and Dispersion by Prisms",
+      "points": [
+        "A prism disperses white light into its component colors (VIBGYOR) because different wavelengths refract through different angles; red light bends the least while violet bends the most.",
+        "Rainbows are natural spectra formed when sunlight undergoes refraction, internal reflection, and dispersion within atmospheric water droplets."
+      ]
+    },
+    {
+      "category": "Atmospheric Phenomena and Scattering",
+      "points": [
+        "Atmospheric refraction causes stellar twinkling and shifts the apparent timing of sunrise and sunset by two minutes.",
+        "Scattering of light (Tyndall Effect) explains why the clear sky is blue (selective scattering of shorter wavelengths) and why the sun appears red at the horizon."
+      ]
+    }
+  ]
+}

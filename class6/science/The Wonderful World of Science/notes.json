@@ -1,0 +1,125 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "The Wonderful World of Science",
+    "chapter_number": 1
+  },
+  "notes": [
+    {
+      "section_title": "Welcome to Science",
+      "topics": [
+        {
+          "topic_name": "Curiosity and Discovery",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Human beings are naturally curious about their surroundings from childhood. Science is a way of thinking, observing, and doing things to understand the world and uncover the secrets of the universe."
+            },
+            {
+              "type": "paragraph",
+              "text": "The foundation of science is 'Curiosity'. It applies to everything from tiny grains of sand to massive mountains, and from cooking in the kitchen to exploring outer space."
+            }
+          ]
+        },
+        {
+          "topic_name": "Science as an Unending Puzzle",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Every new discovery is like a piece of a giant jigsaw puzzle. New knowledge often leads to more questions, and sometimes we even need to move pieces if a discovery changes our previous understanding."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "The Scientific Method",
+      "topics": [
+        {
+          "topic_name": "Step-by-Step Problem Solving",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Science is not just about memorising facts; it is about following a systematic process to find answers."
+            },
+            {
+              "type": "table",
+              "headers": ["Step", "Action"],
+              "rows": [
+                ["1", "Observe something interesting or not understood."],
+                ["2", "Wonder and think of a question about it."],
+                ["3", "Guess a possible answer (Hypothesis)."],
+                ["4", "Test this guess through experiments or more observations."],
+                ["5", "Analyse results to see if the question is actually answered."]
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example 1",
+              "description": "Suppose your pen stops writing. How would you apply the scientific method to fix it?",
+              "solution": "1) Observe: The pen is not writing.\n2) Question: Why did it stop?\n3) Guess: The ink finished.\n4) Test: Open the pen and check the refill.\n5) Analyse: If empty, replace it; if not, make a new guess (e.g., ink dried)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Everyday Scientists",
+      "topics": [
+        {
+          "topic_name": "Science in Daily Life",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Anyone who follows the scientific method acts like a scientist. For example:\n- A cook wondering why dal spilled (Was there too much water?)\n- A bicycle repair person finding a tyre leak.\n- An electrician checking why a bulb is not working (Is it the bulb or the switch?)"
+            },
+            {
+              "type": "example",
+              "title": "Example 2",
+              "description": "An electrician is checking a light bulb that won't turn on. What are the two likely guesses he might make to test the problem?",
+              "solution": "Guess 1: The bulb is fused (he will test by replacing the bulb).\nGuess 2: The switch is faulty (he will test by checking the wiring/connection)."
+            },
+            {
+              "type": "example",
+              "title": "Example 3",
+              "description": "A person cooking dal notices it has spilled out of the pressure cooker. What logical guess can they make to investigate this using the scientific method?",
+              "solution": "Guess: There was too much water added to the cooker.\nTest: Check the water level used compared to previous successful cooking sessions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Modern Scientific Journey",
+      "topics": [
+        {
+          "topic_name": "Collaboration and Future Learning",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Science is rarely done alone; scientists across the world work in teams. Learning science develops the ability to solve big mysteries of the universe, but the journey of exploration continues throughout life."
+            },
+            {
+              "type": "note",
+              "text": "To be a wise person, you must be a 'whys' person! Joyful exploration and never-ending questions are the keys to science."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Curiosity", "definition": "The desire to know or learn something; the starting point of any scientific inquiry." },
+    { "term": "Scientific Method", "definition": "A systematic, step-by-step process used to find answers to questions about the world." },
+    { "term": "Observation", "definition": "The act of noticing something interesting or unusual using our senses." },
+    { "term": "Teamwork", "definition": "The collaboration of many scientists working together to solve complex problems." }
+  ],
+  "summary_points": [
+    "Science is a process of thinking, observing, and doing to understand the world.",
+    "Curiosity is the most important element for embarking on a scientific journey.",
+    "The scientific method involves observing, questioning, guessing, testing, and analysing.",
+    "Everyone acts like a scientist when they use logical steps to solve daily-life problems (e.g., fixing a pen or cooking).",
+    "Discoveries are connected like pieces of an unending jigsaw puzzle."
+  ]
+}

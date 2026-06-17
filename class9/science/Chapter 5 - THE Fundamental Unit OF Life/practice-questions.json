@@ -1,0 +1,206 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "The Fundamental Unit of Life",
+    "chapter_number": 5
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Why is the plasma membrane called a 'selectively permeable membrane'?",
+      "answer": "Because it allows only certain substances to enter or leave the cell while preventing the movement of others.",
+      "solution": "The plasma membrane does not allow all substances to pass through freely. It permits: (1) gases like CO₂ and O₂ to diffuse through, (2) water to pass by osmosis, (3) certain nutrients to enter using energy (active transport). It blocks entry of larger molecules or harmful substances. This selective control is essential to maintain the internal environment of the cell — hence called 'selectively permeable'."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What would happen if you placed a plant cell in a very concentrated sugar solution? Explain with the concept of osmosis.",
+      "answer": "The plant cell would lose water by osmosis and undergo plasmolysis — the cell contents shrink away from the cell wall.",
+      "solution": "Concentrated sugar solution is hypertonic — it has lower water concentration than the cell. By osmosis, water moves from high water concentration (inside cell) to low water concentration (outside — the sugar solution). The cell loses water, the protoplasm contracts and pulls away from the rigid cell wall. This is called plasmolysis. The cell wall stays in place but the contents shrink. If water loss continues, the cell may die."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Why is it necessary to put a cork/seal on the flask during Activity 5.1 (onion peel observation)? Wait — that is Activity 3.1. What precaution is taken during Activity 5.3 (de-shelled egg in salt solution), and what is the purpose of removing the shell with HCl first?",
+      "answer": "The shell is removed because the hard calcium carbonate shell is impermeable to water. The thin membrane underneath acts as a selectively permeable membrane allowing osmosis to be demonstrated.",
+      "solution": "The egg shell is made of calcium carbonate (CaCO₃) which is hard and impermeable — water cannot pass through it. Dissolving it in dilute HCl leaves only the thin outer membrane, which is selectively permeable like a cell membrane. This allows water to move through it by osmosis.\n(a) Egg in pure water: pure water is hypotonic → water enters the egg → egg swells.\n(b) Egg in salt solution: salt solution is hypertonic → water leaves the egg → egg shrinks.\nThis directly models what happens to cells in different osmotic conditions."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Dried raisins are placed in plain water and observed after some time. Then the same raisins are placed in a concentrated salt solution. What will be observed in each case? Explain.",
+      "answer": "In plain water: raisins swell (gain water by osmosis — water is hypotonic). In salt solution: raisins shrink (lose water by osmosis — salt solution is hypertonic).",
+      "solution": "Dried raisins have very little water inside — they act as a hypertonic system compared to plain water.\nIn plain water: water concentration outside > inside raisin → water enters by osmosis → raisins swell.\nIn concentrated salt solution: water concentration outside < inside raisin → water exits raisin by osmosis → raisins shrink.\nThis experiment demonstrates osmosis through the raisin skin (which acts as a selectively permeable membrane)."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Define diffusion and osmosis. What is the key difference between them?",
+      "answer": "Diffusion: movement of any substance from high to low concentration. Osmosis: specific movement of WATER molecules through a selectively permeable membrane from low solute (high water) to high solute (low water) concentration.",
+      "solution": "Diffusion: spontaneous movement of a substance (solid, liquid, or gas) from a region of high concentration to a region of low concentration. Does not require a membrane. Examples: CO₂ moving out of a cell, O₂ entering.\nOsmosis: a special case of diffusion applicable only to WATER molecules, specifically through a selectively permeable membrane, from a region of low solute concentration (high water concentration) to high solute concentration (low water concentration). Requires a selectively permeable membrane.\nKey difference: Osmosis applies only to water + requires a selectively permeable membrane. Diffusion applies to any substance and does not require a membrane."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What is plasmolysis? Under what conditions does it occur? Why does it NOT occur in dead cells?",
+      "answer": "Plasmolysis is the shrinkage of cell contents away from the cell wall when a plant cell loses water in a hypertonic solution. It does not occur in dead cells because dead cells have lost selective permeability — water cannot be actively regulated.",
+      "solution": "Plasmolysis: when a living plant cell is placed in a hypertonic solution, it loses water by osmosis. The protoplasm (cell contents) shrinks and pulls away from the rigid cell wall, while the cell wall stays in place.\nConditions: a living plant cell placed in a concentrated (hypertonic) sugar or salt solution.\nWhy not in dead cells (Activity 5.6 — boiled Rhoeo leaf): boiling kills the cells. The plasma membrane is destroyed — it loses its selective permeability. Water cannot be regulated and flows freely in both directions. There is no osmosis because there is no functional selectively permeable membrane. Hence, plasmolysis cannot occur in dead cells."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What is the function of the cell wall? In which types of organisms is it present?",
+      "answer": "Cell wall provides structural strength, rigidity, and protection. It allows cells to withstand very dilute (hypotonic) external media without bursting. Present in: plant cells (cellulose), fungal cells, and bacterial cells.",
+      "solution": "Functions of cell wall:\n(1) Provides shape and structural rigidity to the cell.\n(2) Protection against external factors.\n(3) Prevents bursting: in hypotonic media, plant cells tend to absorb water by osmosis and swell. The rigid cell wall exerts an equal and opposite pressure (wall pressure) resisting swelling — so the cell does not burst, unlike animal cells.\nComposition: cellulose in plant cells.\nPresent in: plant cells, fungal cells, bacterial cells.\nAbsent in: animal cells (which is why animal cells burst in hypotonic solutions if the change is too extreme)."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What is the nucleus? Write three functions of the nucleus.",
+      "answer": "The nucleus is the control centre of the eukaryotic cell, enclosed by a double nuclear membrane with pores. Functions: (1) controls all cellular activities, (2) plays central role in cell division, (3) contains genetic information (DNA) for inheritance.",
+      "solution": "Structure of nucleus: double-layered nuclear membrane with pores that allow transfer of material between nucleus and cytoplasm. Inside: chromatin (DNA + protein) which condenses to chromosomes during division. DNA contains genes — functional segments carrying hereditary information.\nFunctions:\n(1) Directs and controls all chemical activities of the cell.\n(2) Central role in cellular reproduction (cell division — both mitosis and meiosis).\n(3) Determines how the cell will develop and what form it takes at maturity.\n(4) Contains genetic information (via DNA) that passes from parents to offspring."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Distinguish between chromatin and chromosomes.",
+      "answer": "Chromatin: form of DNA when the cell is NOT dividing — appears as entangled, thread-like mass. Chromosomes: organised, rod-shaped form of DNA visible when the cell IS about to divide.",
+      "solution": "Chromatin material: DNA + protein in a loose, entangled, thread-like form present in the nucleus of a non-dividing cell. Not individually visible under a light microscope.\nChromosomes: just before cell division, the chromatin material condenses and gets organised into compact, rod-shaped structures called chromosomes. Visible under a light microscope during cell division. They are made of DNA and protein. Each chromosome carries genes — the units of heredity.\nIn short: chromatin = inactive form; chromosomes = active, organised form during cell division. Same material, different organisation."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Why are lysosomes called 'suicide bags' of the cell?",
+      "answer": "When a cell is severely damaged, lysosomes burst and release their powerful digestive enzymes into the cell, digesting the cell's own contents — essentially killing the cell. Hence the name 'suicide bags'.",
+      "solution": "Lysosomes are membrane-bound sacs filled with powerful digestive (hydrolytic) enzymes, manufactured by the rough ER. Under normal conditions, lysosomes digest:\n(1) Foreign material entering the cell (bacteria, food particles).\n(2) Worn-out and damaged organelles — cellular housekeeping.\nDuring cellular disturbance (damage by physical/chemical agents): the lysosome membrane ruptures. The digestive enzymes are released into the cytoplasm. These enzymes break down ALL organic material in the cell — including the cell's own structures. The cell is effectively digested from within, leading to cell death.\nThis self-destruction mechanism is called autolysis — hence lysosomes are called 'suicide bags'."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "Why are mitochondria called the 'powerhouses of the cell'?",
+      "answer": "Because mitochondria produce ATP (adenosine triphosphate) — the energy currency of the cell — through cellular respiration. ATP provides energy for all cellular activities.",
+      "solution": "Mitochondria break down (oxidise) food molecules (like glucose) through the process of cellular respiration and release energy in the form of ATP (Adenosine Triphosphate).\nATP = energy currency of the cell: it stores energy in its chemical bonds and releases it for:\n(1) Making new chemical compounds inside the cell.\n(2) Mechanical work — muscle contraction, movement of organelles.\n(3) Active transport of substances across membranes.\nWithout mitochondria, the cell cannot produce sufficient energy for its activities. Structure supports function: the inner membrane is deeply folded (cristae) — increases surface area for ATP-generating chemical reactions."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "List three structures present in plant cells but absent in animal cells.",
+      "answer": "(1) Cell wall, (2) Plastids (chloroplasts/leucoplasts), (3) Large central vacuole.",
+      "solution": "(1) Cell wall (cellulose): present outside plasma membrane in plants; absent in animal cells. Provides rigidity and prevents bursting.\n(2) Plastids: Chloroplasts (photosynthesis, contain chlorophyll) and leucoplasts (storage of starch/oils/proteins) are present only in plant cells. Animal cells cannot photosynthesise.\n(3) Large central vacuole: plant cells have a large central vacuole occupying 50–90% of cell volume, maintaining turgidity and storing cell sap. Animal cells have only small, scattered vacuoles.\nNote: Plasma membrane, nucleus, cytoplasm, ER, Golgi, lysosomes, mitochondria, ribosomes are present in BOTH."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "What would happen if the plasma membrane of a cell ruptures or breaks down? Explain consequences for both animal and plant cells.",
+      "answer": "The cell would lose its ability to regulate entry/exit of substances → internal contents would leak out → cell cannot maintain its internal environment → cell would die.",
+      "solution": "The plasma membrane is the essential boundary that separates and regulates the cell's contents from the external environment. If it breaks:\nAnimal cells: (1) Selective permeability lost — all substances enter/exit freely with no control. (2) Cell contents (proteins, enzymes, salts) leak into outside environment. (3) Harmful substances from outside enter freely. (4) Osmotic balance is lost — water rushes in/out uncontrolled. (5) Cell cannot perform any functions → cell death.\nPlant cells: Same consequences, but the cell wall remains intact (it is non-living and rigid). The cell wall alone, however, cannot maintain the internal conditions — homeostasis is lost and the cell still dies.\nAdditional: viruses lack membranes and hence cannot perform life functions independently — this illustrates that membranes are essential for life."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Why do cells from plant roots absorb water from the soil? Explain using the concept of osmosis.",
+      "answer": "Root cells have higher solute concentration (lower water concentration) than the surrounding soil water. Water moves from soil (higher water concentration = hypotonic) into root cells (lower water concentration) by osmosis through the selectively permeable root cell membrane.",
+      "solution": "Root cells contain dissolved salts, sugars, and other solutes in their cell sap — making the cell contents more concentrated (hypertonic) than the dilute soil water.\nSoil water is therefore hypotonic relative to root cells: it has higher water concentration.\nBy osmosis: water moves from the region of high water concentration (soil) to low water concentration (inside root cells) through the selectively permeable plasma membrane.\nThis is how plants absorb water from soil — water enters root hair cells by osmosis, then travels from cell to cell (also by osmosis, as each inner cell is more concentrated than the outer) until it reaches the xylem and is transported up the plant."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Compare prokaryotic and eukaryotic cells on the basis of: (i) size, (ii) nuclear membrane, (iii) membrane-bound organelles, (iv) number of chromosomes.",
+      "answer": "Prokaryotic: small (1–10 µm), no nuclear membrane (nucleoid), no membrane-bound organelles, single chromosome. Eukaryotic: large (5–100 µm), nuclear membrane present, membrane-bound organelles present, more than one chromosome.",
+      "solution": "| Feature | Prokaryotic Cell | Eukaryotic Cell |\n|---|---|---|\n| Size | 1–10 µm (small) | 5–100 µm (large) |\n| Nuclear membrane | Absent; DNA in nucleoid region | Present; double-layered with pores |\n| Membrane-bound organelles | Absent | Present (ER, Golgi, mitochondria, etc.) |\n| Chromosomes | Single chromosome | More than one chromosome |\n| Example | Bacteria | Plant, animal, fungal cells |\n\nSignificance: The presence of membranes in eukaryotic cells allows compartmentalisation — different chemical reactions can occur simultaneously in different organelles without interfering with each other."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "What would happen to a cell if there were no Golgi apparatus?",
+      "answer": "Proteins and lipids synthesised by the ER could not be packaged, modified, or dispatched to their correct destinations — inside or outside the cell. Cell signalling, secretion, and lysosome formation would fail.",
+      "solution": "The Golgi apparatus is the cell's 'postal service' — it receives products from the ER, processes them, sorts them, and sends them to the right address.\nWithout Golgi apparatus:\n(1) Proteins made by RER would not be modified (e.g., complex sugars cannot be added to make glycoproteins).\n(2) Products cannot be packaged into vesicles for export out of the cell — secretory function (hormones, enzymes) fails.\n(3) Products cannot be delivered to the correct intracellular targets.\n(4) Lysosomes cannot be formed — the cell cannot digest foreign material or old organelles.\n(5) Membrane biogenesis would be impaired — new membrane components cannot be properly assembled.\nConsequence: the cell would accumulate unprocessed products, lose ability to secrete substances, and lose its waste-management system."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Name the two organelles that have their own DNA and ribosomes. Why is this significant?",
+      "answer": "Mitochondria and Plastids (chloroplasts) have their own DNA and ribosomes.",
+      "solution": "Mitochondria and Plastids both contain their own DNA (circular, like bacterial DNA) and ribosomes (smaller than cytoplasmic ribosomes).\nSignificance:\n(1) Semi-autonomy: these organelles can make SOME of their own proteins (using their own ribosomes to translate their own DNA) without depending entirely on the nucleus. This means they can partly control their own replication and maintenance.\n(2) Evolutionary implication (endosymbiotic theory — context for deeper study): the presence of their own DNA and ribosomes suggests these organelles were once free-living prokaryotic organisms that were engulfed by an ancestral eukaryotic cell and became permanent organelles.\n(3) These organelles also divide independently (by binary fission) — further evidence of their semi-independent nature."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Where are lipids and proteins constituting the cell membrane synthesised? Trace the pathway.",
+      "answer": "Lipids are synthesised by the Smooth ER (SER). Proteins are synthesised by ribosomes on the Rough ER (RER). Both are then transported to the Golgi apparatus for modification and packaging, and finally incorporated into the cell membrane.",
+      "solution": "Step-by-step pathway (membrane biogenesis process):\n1. PROTEINS: Ribosomes on the RER synthesise membrane proteins. The RER is continuous with the nuclear membrane.\n2. LIPIDS: SER synthesises the lipid components (phospholipids, etc.) of the membrane.\n3. Both proteins and lipids are transported through the ER to the Golgi apparatus.\n4. Golgi apparatus modifies them (e.g., adds sugar chains to make glycoproteins), packages them into vesicles.\n5. These vesicles travel to and fuse with the plasma membrane, incorporating the new lipids and proteins into the membrane.\nThis process is called MEMBRANE BIOGENESIS. This is why the ER and Golgi membranes are connected and continuous with the plasma membrane."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "How does Amoeba obtain its food? Name the process and explain the role of the plasma membrane.",
+      "answer": "Amoeba obtains food by endocytosis — the plasma membrane is flexible and engulfs food particles from the external environment.",
+      "solution": "Process of endocytosis in Amoeba:\n(1) Amoeba extends its plasma membrane around a food particle (bacteria, algae).\n(2) The membrane wraps completely around the food, forming a food vacuole inside the cell.\n(3) The food is enclosed within the food vacuole and digested by enzymes.\nRole of plasma membrane: its flexibility (due to lipid composition) allows it to deform and engulf material. This is fundamentally different from diffusion or osmosis — it requires the active participation of the membrane and energy. Without a flexible plasma membrane, endocytosis would not be possible.\nThis process is essential for unicellular organisms that feed by ingesting whole food particles."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Distinguish between RER and SER in terms of structure and function.",
+      "answer": "RER: has ribosomes on surface (rough appearance), makes proteins. SER: no ribosomes (smooth appearance), makes lipids and is involved in detoxification.",
+      "solution": "| Feature | Rough ER (RER) | Smooth ER (SER) |\n|---|---|---|\n| Ribosomes | Present on surface | Absent |\n| Appearance | Rough/granular | Smooth |\n| Main product | Proteins | Lipids (fats) |\n| Additional role | Packages and sends proteins to Golgi | Detoxification (liver cells); synthesis of steroid hormones |\n| Membrane biogenesis | Proteins for membrane | Lipids for membrane |\n\nBoth types are part of the same membrane network and form an interconnected system. RER is more prominent in cells that secrete proteins (e.g., pancreatic cells). SER is prominent in liver cells for detoxification of drugs and poisons."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "In Activity 5.6 (Rhoeo leaf), why does plasmolysis NOT occur in the boiled leaf even when concentrated solution is applied?",
+      "answer": "Boiling kills the cells — the plasma membrane loses its structure and selective permeability. Since osmosis requires a living, selectively permeable membrane, dead cells cannot show plasmolysis.",
+      "solution": "Plasmolysis requires two conditions: (1) a living, selectively permeable plasma membrane, (2) an osmotic gradient (hypertonic external solution).\nBoiling effect: heat denatures (destroys) the proteins in the plasma membrane. The membrane structure collapses — it is no longer selectively permeable.\nIn dead boiled cells: water passes freely through the disrupted membrane in all directions — there is no selective barrier to create an osmotic gradient. Water does not preferentially move in any direction.\nTherefore, even in a concentrated solution, the cell contents do not shrink away from the cell wall — no plasmolysis.\nThis proves that osmosis is a biological phenomenon dependent on a LIVING selectively permeable membrane, not just any membrane."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "What is the role of vacuoles in plant cells? Why are they much larger than vacuoles in animal cells?",
+      "answer": "Plant vacuoles store cell sap (water, salts, sugars, amino acids, organic acids), maintain turgidity and rigidity of the cell, and store waste products. They are large (50–90% of volume) because plants cannot move to expel waste — vacuoles serve as a storage/disposal system.",
+      "solution": "Functions of vacuoles in plant cells:\n(1) Maintain TURGOR PRESSURE: the large central vacuole filled with cell sap pushes the cytoplasm against the cell wall, making the cell firm (turgid). This keeps plant tissues rigid — e.g., a fresh leaf is firm; a wilted leaf has lost vacuole pressure.\n(2) Storage: store important substances — amino acids, sugars, organic acids, proteins, pigments.\n(3) Waste storage: store toxic waste products that cannot be excreted (plants have no excretory system).\nWhy larger in plants than animals:\nAnimal cells can move, breathe, and excrete waste continuously. Plants are stationary and have no waste excretion system — vacuoles accumulate waste permanently. Also, the large vacuole reduces the need for cytoplasm while maintaining cell pressure — efficient use of space."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "If lysosomes are filled with powerful digestive enzymes, why don't they digest themselves? What happens when they do burst?",
+      "answer": "The lysosomal membrane is specially resistant to the digestive enzymes it contains. When lysosomes burst (due to cell damage), the enzymes are released into the cytoplasm and digest all organic material — this is autolysis, causing cell death.",
+      "solution": "The lysosomal membrane is specialised — it is resistant to its own hydrolytic (digestive) enzymes due to its specific molecular composition (glycoproteins on the inner surface protect the membrane). As long as the membrane is intact, the enzymes are safely contained.\nNormal function: enzymes digest foreign particles (bacteria, food) and worn-out organelles within the lysosome — safely enclosed.\nWhen membrane ruptures (cell damage):\n(1) Digestive enzymes spill into the cytoplasm.\n(2) They break down all organic material — proteins, carbohydrates, lipids, nucleic acids.\n(3) The cell's own organelles are destroyed.\n(4) This process is called AUTOLYSIS (auto = self, lysis = breakdown) — effectively the cell digests itself.\n(5) This is why lysosomes are called 'suicide bags'.\nBiological significance: autolysis is also useful — it removes damaged, infected, or unnecessary cells (programmed cell death/apoptosis) during development."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Explain the potato cup experiment (Exercise 9). Why does water gather in cups B and C but not in A and D?",
+      "answer": "B and C have concentrated sugar/salt solution (hypertonic) inside the cup — water enters by osmosis from the surrounding water in the trough. A (empty) has no osmotic gradient. D (boiled potato) has dead cells incapable of osmosis.",
+      "solution": "Setup: potato cups in a trough of water.\n(A) Empty cup: no solute inside. Water concentration inside cup = water concentration in trough. No osmotic gradient. Water enters the potato cells by osmosis (potato is slightly hypertonic to water) but no water gathers in the hollow cup cavity.\n(B) Sugar in cup: concentrated sugar solution is hypertonic inside the hollow. Water in the trough is hypotonic relative to the sugar solution. Water passes by osmosis through the potato walls from trough into the cup hollow (high water → low water) → water gathers.\n(C) Salt in cup: same reasoning as B — concentrated salt solution is hypertonic. Water gathers from the trough.\n(D) Boiled potato + sugar: boiling kills the cells — plasma membrane destroys, selective permeability lost. Even though concentrated sugar is present, osmosis cannot occur through dead cells. No net water movement → no water gathering.\nConclusion: Cup A is the CONTROL (no solute, no osmosis in hollow). Cup D proves osmosis needs living cells."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Viruses are not considered living until they enter a host cell. How does the concept of cell membranes and organelles explain this?",
+      "answer": "Viruses lack a plasma membrane and all cell organelles (ribosomes, mitochondria, etc.). They cannot perform any life processes independently — metabolism, energy production, or reproduction — because all these require organelles and a controlled cellular environment.",
+      "solution": "Living cells function because membrane-bound organelles compartmentalise and facilitate specific chemical reactions:\n• Mitochondria: generate ATP for energy-dependent processes.\n• Ribosomes (on RER): synthesise proteins.\n• Plasma membrane: regulate what enters/exits the cell.\n• Nucleus: control gene expression.\nViruses have: a protein coat (capsid) + genetic material (DNA or RNA). They have NO:\n• Plasma membrane (cannot regulate entry/exit of substances).\n• Ribosomes (cannot synthesise proteins on their own).\n• Mitochondria (cannot generate ATP — no energy production).\n• Any other organelle.\nWithout these, viruses cannot metabolise, grow, or reproduce independently. When a virus enters a host cell, it hijacks the host's organelles — uses the host's ribosomes to make viral proteins, the host's energy (ATP), and the host's cellular machinery to replicate.\nConclusion: it is the organised, membrane-bound cellular machinery that defines 'life'. Viruses are essentially just genetic instructions without the machinery to execute them."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Why does meiosis produce cells with half the chromosome number? What would happen if gametes were formed by mitosis instead?",
+      "answer": "Meiosis halves the chromosome number so that when two gametes fuse at fertilisation, the resulting zygote has the full (original) chromosome number. If gametes were formed by mitosis, the chromosome number would double with each generation.",
+      "solution": "Normal scenario (meiosis for gamete formation):\n• Body cells (somatic cells) have the full number of chromosomes (e.g., humans have 46).\n• Meiosis produces gametes (egg and sperm) with HALF the number (23 each).\n• At fertilisation: egg (23) + sperm (23) = zygote (46). Chromosome number is restored.\n• Offspring has the correct chromosome number — ensuring normal development.\n\nHypothetical scenario (gametes by mitosis):\n• Gametes would each have 46 chromosomes.\n• At fertilisation: egg (46) + sperm (46) = zygote (92 chromosomes).\n• The next generation's gametes would have 92, and zygote would have 184, and so on.\n• Chromosome number would DOUBLE every generation → genetic chaos: abnormal gene dosage, non-viable offspring.\n• This is why meiosis is essential for sexually reproducing organisms — it maintains the species' chromosome number across generations."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "How does the structure of the inner mitochondrial membrane relate to its function of ATP production?",
+      "answer": "The inner membrane is deeply folded inward (forming cristae), which greatly increases its surface area. This larger surface area accommodates more of the enzyme complexes and protein channels responsible for ATP generation — more surface area = more ATP produced.",
+      "solution": "Structure: Mitochondria have two membranes:\n(1) Outer membrane: porous, permits passage of small molecules, ions, ATP, ADP.\n(2) Inner membrane: contains deep folds directed inward called cristae.\nFunction-structure link:\nThe ATP-generating reactions (oxidative phosphorylation) occur specifically on the INNER MEMBRANE. The enzyme complexes (electron transport chain) and ATP synthase are embedded in this membrane.\nBy folding inward into cristae, the inner membrane achieves a much larger surface area than would be possible if it were smooth. More surface area = more enzyme complex molecules can be embedded = more ATP molecules produced per unit time.\nThis is a fundamental principle in biology: complex the inner membrane → increase surface area → maximise the efficiency of energy production.\nSimilar principle: villi in intestine (increase absorption area), alveoli in lungs (increase gas exchange area)."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "A cell has a very high demand for protein secretion (e.g., a pancreatic enzyme-producing cell). Which organelles would you expect to be most abundant and well-developed in this cell? Justify.",
+      "answer": "RER (ribosomes for protein synthesis), Golgi apparatus (packaging and secretion), vesicles (transport), and mitochondria (energy for active transport and secretion) would be most abundant.",
+      "solution": "A cell specialised for protein secretion requires a high capacity for all steps in the secretory pathway:\n(1) RER (Rough Endoplasmic Reticulum): proteins are synthesised by ribosomes on the RER surface. High secretion demand → more RER = more ribosomes = more protein production capacity.\n(2) Golgi Apparatus: receives proteins from RER, modifies them (glycosylation, folding, sorting), packages into secretory vesicles. High demand → large, well-developed Golgi with many cisterns.\n(3) Secretory vesicles: transport packaged proteins from Golgi to plasma membrane for exocytosis (secretion). More vesicles needed for high-rate secretion.\n(4) Mitochondria: secretion is an energy-intensive process (active transport of vesicles, maintaining membrane potential, ATP for molecular motors). More mitochondria needed to supply ATP.\nConclusion: Form follows function in cellular biology — cells specialised for a task have the organelles associated with that task in greater abundance."
+    }
+  ]
+}

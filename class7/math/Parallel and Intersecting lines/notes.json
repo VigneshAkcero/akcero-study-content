@@ -1,0 +1,355 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Math",
+    "chapter_name": "Parallel and Intersecting Lines",
+    "chapter_number": 5
+  },
+  "notes": [
+    {
+      "section_title": "5.1 Across the Line — Intersecting Lines and Angles",
+      "topics": [
+        {
+          "topic_name": "Intersecting Lines",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When a pair of lines meet each other at a point on a plane surface, we say that the lines intersect each other. The point at which they meet is called the point of intersection. Two straight lines can intersect at most at one point — never at more than one point."
+            },
+            {
+              "type": "note",
+              "title": "Plane Surface",
+              "text": "A plane surface is a flat surface that extends infinitely in all directions. A table top, a sheet of paper, a blackboard, and a bulletin board are all examples of plane surfaces. All lines and geometric figures discussed in this chapter lie on a plane surface."
+            },
+            {
+              "type": "paragraph",
+              "text": "When two lines intersect, they form exactly four angles at the point of intersection. These four angles are labelled a, b, c, d (going around the intersection point)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Linear Pairs and Vertically Opposite Angles",
+          "content": [
+            {
+              "type": "note",
+              "title": "Linear Pair",
+              "text": "Two adjacent angles formed when two lines intersect are called a linear pair. They together form a straight angle (180°), so linear pairs always add up to 180°. Examples: ∠a and ∠b, ∠b and ∠c, ∠c and ∠d, ∠d and ∠a."
+            },
+            {
+              "type": "note",
+              "title": "Vertically Opposite Angles",
+              "text": "The angles that are directly across from each other at the point of intersection are called vertically opposite angles. Vertically opposite angles are always equal to each other. Examples: ∠a and ∠c are vertically opposite; ∠b and ∠d are vertically opposite."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof that vertically opposite angles are equal:\nSince ∠a and ∠b form a linear pair: ∠a + ∠b = 180°.\nSince ∠d and ∠a form a linear pair: ∠d + ∠a = 180°.\nTherefore ∠a + ∠b = ∠d + ∠a, which gives ∠b = ∠d.\nSimilarly, ∠b + ∠c = 180° and ∠b + ∠a = 180°, so ∠a = ∠c.\nThis reasoning (not measurement) is called a proof in mathematics."
+            },
+            {
+              "type": "paragraph",
+              "text": "Worked Example: If ∠a = 120°, find ∠b, ∠c, ∠d.\n• ∠a + ∠b = 180° (linear pair) → ∠b = 60°.\n• ∠b + ∠c = 180° (linear pair) → ∠c = 120°.\n• ∠c + ∠d = 180° (linear pair) → ∠d = 60°.\n• Summary: ∠a = ∠c = 120° (vertically opposite); ∠b = ∠d = 60° (vertically opposite)."
+            },
+            {
+              "type": "activity",
+              "id": "5.1",
+              "title": "Activity 1 — Measuring Angles at Intersection",
+              "procedure": [
+                "Draw two lines on plain paper so that they intersect.",
+                "Measure the four angles formed with a protractor.",
+                "Repeat for four different pairs of intersecting lines.",
+                "Record results and observe the pattern."
+              ],
+              "observation": "In every case: ∠a = ∠c (vertically opposite); ∠b = ∠d (vertically opposite); ∠a + ∠b = 180° (linear pair).",
+              "conclusion": "Vertically opposite angles are always equal; adjacent angles at an intersection always sum to 180°. Slight variations in measurement are due to protractor errors and line thickness — ideal geometric lines have no thickness."
+            }
+          ]
+        },
+        {
+          "topic_name": "Measurements and Geometry",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In geometry, we work with ideal versions of lines and shapes. An ideal line has no thickness and extends infinitely. While measuring, results may not be exactly as predicted due to (1) measurement errors from improper use of the protractor, and (2) the thickness of drawn lines. However, the measurements come very close to the predicted values, which is why geometry finds widespread application in physics, art, engineering, and architecture."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.2 Perpendicular Lines",
+      "topics": [
+        {
+          "topic_name": "Definition and Properties of Perpendicular Lines",
+          "content": [
+            {
+              "type": "note",
+              "title": "Perpendicular Lines",
+              "text": "Perpendicular lines are a pair of lines that intersect each other at right angles (90°). When two lines intersect and all four angles formed are equal, each angle must be 90° — these lines are perpendicular to each other. We mark the right angle with a small square symbol at the corner."
+            },
+            {
+              "type": "paragraph",
+              "text": "If all four angles formed by two intersecting lines are equal, each angle = 360° ÷ 4 = 90°. Alternatively, since linear pairs sum to 180°, and if both angles in a linear pair are equal: each = 180° ÷ 2 = 90°."
+            },
+            {
+              "type": "list",
+              "title": "Examples of Perpendicular Lines in Daily Life",
+              "items": [
+                "Adjacent edges of a square sheet of paper meet at 90°.",
+                "Vertical and horizontal lines on grid paper are perpendicular.",
+                "Walls of a room meet the floor at right angles.",
+                "The + sign is made of two perpendicular line segments."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.3 Between Lines — Parallel Lines",
+      "topics": [
+        {
+          "topic_name": "Definition and Properties of Parallel Lines",
+          "content": [
+            {
+              "type": "note",
+              "title": "Parallel Lines",
+              "text": "Parallel lines are a pair of lines that lie on the same plane and do not meet, however far they are extended in both directions. The perpendicular distance between parallel lines is always the same everywhere — they never get closer or farther apart."
+            },
+            {
+              "type": "note",
+              "title": "Important: Lines Must Be on the Same Plane",
+              "text": "It is essential that parallel lines lie on the same plane. A line drawn on a table and a line drawn on the board may never meet, but they are NOT parallel because they do not lie on the same plane."
+            },
+            {
+              "type": "list",
+              "title": "Examples of Parallel Lines",
+              "items": [
+                "Opposite edges of a rectangular sheet of paper.",
+                "Railway tracks (both rails run side by side without meeting).",
+                "Ruled lines on a notebook page.",
+                "The two sides of a ladder.",
+                "Horizontal lines on a lined board."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Notation for Parallel and Perpendicular Lines",
+              "text": "• Parallel lines are marked with arrow marks (>) on each line. If there is more than one set of parallel lines, the second set uses double arrows (>>), the third set uses triple arrows, and so on.\n• Perpendicular lines are marked with a small square angle symbol at their intersection point.\n• We write l ∥ m to denote 'line l is parallel to line m'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.4 Parallel and Perpendicular Lines in Paper Folding",
+      "topics": [
+        {
+          "topic_name": "Paper Folding Activities",
+          "content": [
+            {
+              "type": "activity",
+              "id": "5.2",
+              "title": "Activity 2 — Paper Folding to Discover Parallel and Perpendicular Lines",
+              "procedure": [
+                "Take a plain square sheet of paper. Note: opposite edges are parallel; adjacent edges are perpendicular to each other.",
+                "Fold the sheet horizontally in half. Count parallel lines: 3 (two edges + fold line). The fold line is perpendicular to the vertical sides.",
+                "Make one more horizontal fold: now 5 parallel lines appear.",
+                "One more horizontal fold: 9 parallel lines. Pattern: after n folds, number of parallel lines = 2ⁿ + 1.",
+                "Make a vertical fold: the new vertical crease is perpendicular to all the horizontal folds.",
+                "Fold along a diagonal: a fold parallel to this diagonal can also be found."
+              ],
+              "observation": "Each new horizontal fold creates more parallel lines. A vertical fold creates perpendicular lines to the horizontal folds.",
+              "conclusion": "Folding paper demonstrates that lines created by parallel folds remain parallel, and a fold perpendicular to a set of parallel lines creates right angles with all of them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.5 Transversals",
+      "topics": [
+        {
+          "topic_name": "Transversal and the Angles It Forms",
+          "content": [
+            {
+              "type": "note",
+              "title": "Transversal",
+              "text": "A transversal is a line that intersects two or more other lines (which may or may not be parallel) at distinct points. When a transversal intersects two lines, it forms 8 angles in total — 4 at each intersection point."
+            },
+            {
+              "type": "paragraph",
+              "text": "When transversal t crosses lines l and m, 8 angles are formed (labelled 1 through 8). Due to vertically opposite angles being equal, there are at most 4 distinct angle measures among the 8 angles:\n• ∠1 = ∠3, ∠2 = ∠4 (vertically opposite at intersection with l)\n• ∠5 = ∠7, ∠6 = ∠8 (vertically opposite at intersection with m)\nSo it is NOT possible for all 8 angles to have different measures, nor can there be 5 different values."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.6 Corresponding Angles",
+      "topics": [
+        {
+          "topic_name": "Definition of Corresponding Angles",
+          "content": [
+            {
+              "type": "note",
+              "title": "Corresponding Angles",
+              "text": "When a transversal crosses two lines, it forms two sets of 4 angles. Corresponding angles are pairs of angles that occupy the same position (corner) at each intersection. When transversal t intersects lines l and m:\n• ∠1 and ∠5 are corresponding angles.\n• ∠2 and ∠6 are corresponding angles.\n• ∠3 and ∠7 are corresponding angles.\n• ∠4 and ∠8 are corresponding angles."
+            },
+            {
+              "type": "note",
+              "title": "Corresponding Angles Theorem (Both Directions)",
+              "text": "1. If a transversal intersects a pair of PARALLEL lines, then the corresponding angles are always equal.\n2. If a transversal intersects a pair of lines and the corresponding angles are equal, then the pair of lines is parallel.\nIn other words: corresponding angles are equal ↔ lines are parallel. (Equality of corresponding angles is both necessary and sufficient for parallelism.)"
+            },
+            {
+              "type": "activity",
+              "id": "5.3",
+              "title": "Activity 3 — Drawing Parallel Lines Using Equal Corresponding Angles",
+              "procedure": [
+                "Draw a line l and a transversal t intersecting at point X.",
+                "Measure angle ∠a formed at intersection (e.g., 60°). The linear pair gives 120°.",
+                "Mark a new point Y on t.",
+                "Draw a line m through Y forming the same angle (60°) with t as line l does.",
+                "Observe: lines l and m appear parallel to each other."
+              ],
+              "observation": "When corresponding angles ∠a and ∠b (at the two intersections) are equal (both 60°), lines l and m are parallel.",
+              "conclusion": "If corresponding angles formed by a transversal on two lines are equal, the lines are parallel."
+            }
+          ]
+        },
+        {
+          "topic_name": "Drawing Parallel Lines with Set Square",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Method using ruler and set square:\n1. Draw a base line l.\n2. Place the set square with one side along l.\n3. Hold a ruler firmly against another side of the set square.\n4. Slide the set square along the ruler.\n5. Draw a new line along the set square edge — it is parallel to l.\nProof of parallelism: Both new lines make 90° with l (the transversal). Since corresponding angles are equal (both 90°), the lines are parallel."
+            },
+            {
+              "type": "paragraph",
+              "text": "Making a parallel line through paper folding:\n1. Given crease l and point A not on l.\n2. Fold a line t perpendicular to l through A → this gives a new crease t.\n3. Fold a line m perpendicular to t through A.\n4. Lines l and m are now parallel (both perpendicular to the same line t → corresponding angles at t are both 90° → l ∥ m)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.8 Alternate Angles and Interior Angles",
+      "topics": [
+        {
+          "topic_name": "Alternate Angles",
+          "content": [
+            {
+              "type": "note",
+              "title": "Alternate Angles",
+              "text": "When a transversal intersects two lines, alternate angles are pairs of angles that lie on opposite sides of the transversal, one at each intersection. For transversal t crossing lines l and m:\n• ∠d and ∠f are alternate angles.\n• ∠c and ∠e are alternate angles.\nAlternate angles are also called alternate interior angles as they lie between the two lines."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof that alternate angles are equal (when lines are parallel):\n• ∠f = ∠b (corresponding angles, since l ∥ m).\n• ∠b = ∠d (vertically opposite angles).\n• Therefore ∠f = ∠d.\nThis proof uses no measurement — it relies entirely on corresponding angles and vertically opposite angles."
+            },
+            {
+              "type": "note",
+              "title": "Alternate Angles Theorem",
+              "text": "When a transversal intersects a pair of parallel lines, the alternate angles are always equal to each other."
+            }
+          ]
+        },
+        {
+          "topic_name": "Interior Angles (Co-interior Angles)",
+          "content": [
+            {
+              "type": "note",
+              "title": "Interior Angles on the Same Side",
+              "text": "When a transversal intersects two parallel lines, the interior angles on the same side of the transversal (also called co-interior angles or consecutive interior angles) always add up to 180°. For example, ∠3 + ∠6 = 180° in the standard labelling."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof: ∠3 and ∠2 are a linear pair → ∠3 + ∠2 = 180°. ∠2 and ∠6 are corresponding angles (l ∥ m) → ∠2 = ∠6. Therefore ∠3 + ∠6 = 180°."
+            }
+          ]
+        },
+        {
+          "topic_name": "Worked Examples",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Example 1: Parallel lines l and m are cut by transversal t. If ∠6 = 135°, find all other angles.\nSolution:\n• ∠2 = ∠6 = 135° (corresponding angles, l ∥ m).\n• ∠8 = ∠6 = 135° (vertically opposite).\n• ∠4 = ∠8 = 135° (corresponding angles, l ∥ m).\n• ∠5 = 180° − ∠6 = 45° (linear pair).\n• ∠1 = ∠5 = 45° (corresponding angles).\n• ∠3 = ∠5 = 45° (vertically opposite to ∠1, or linear pair with ∠4).\n• ∠7 = ∠5 = 45° (vertically opposite to ∠5, or corresponding to ∠3).\nSummary: ∠2, ∠4, ∠6, ∠8 = 135°; ∠1, ∠3, ∠5, ∠7 = 45°."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 2: Lines l and m are cut by transversal t. ∠a = 120°, ∠f = 70°. Are l and m parallel?\nSolution:\n∠a = 120° → ∠b = 60° (linear pair). ∠b and ∠f are corresponding angles. For l ∥ m, we need ∠b = ∠f. But 60° ≠ 70°. Therefore, l and m are NOT parallel."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 3: Parallel lines l and m. ∠3 = 50°. Find ∠6.\nSolution:\n∠3 + ∠2 = 180° (linear pair) → ∠2 = 130°.\n∠2 = ∠6 (corresponding angles, l ∥ m) → ∠6 = 130°.\nAlternatively: ∠3 and ∠6 are interior angles on the same side → ∠3 + ∠6 = 180° → ∠6 = 130°."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 4: AB ∥ CD, AD ∥ BC. ∠DAC = 65°, ∠ADC = 60°. Find ∠CAB, ∠ABC, ∠BCD.\nSolution:\n• AD is a transversal for AB ∥ CD. Interior angles: ∠ADC + ∠DAB = 180° → 60° + ∠DAB = 180° → ∠DAB = 120°.\n• ∠DAB = ∠DAC + ∠CAB → 120° = 65° + ∠CAB → ∠CAB = 55°.\n• CD is a transversal for AD ∥ BC. Interior angles: ∠ADC + ∠BCD = 180° → 60° + ∠BCD = 180° → ∠BCD = 120°.\n• AB is a transversal for AD ∥ BC. ∠ABC = 60° (interior angles: ∠DAB + ∠ABC = 180° — wait: ∠ABC = 180° − ∠DAB = 180° − 120° = 60°).\nAnswers: ∠CAB = 55°, ∠ABC = 60°, ∠BCD = 120°."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Plane Surface",
+      "definition": "A flat surface that extends infinitely in all directions. All lines in this chapter lie on a plane surface. Examples: tabletop, sheet of paper, blackboard."
+    },
+    {
+      "term": "Intersecting Lines",
+      "definition": "Two lines that meet at exactly one point on a plane surface. Two straight lines can intersect at most at one point."
+    },
+    {
+      "term": "Point of Intersection",
+      "definition": "The single point at which two intersecting lines meet."
+    },
+    {
+      "term": "Linear Pair",
+      "definition": "Two adjacent angles formed at the intersection of two lines. They share a common arm and the other two arms form a straight line. A linear pair always sums to 180°."
+    },
+    {
+      "term": "Vertically Opposite Angles",
+      "definition": "A pair of angles formed opposite each other when two lines intersect. They share only the vertex (not a side). Vertically opposite angles are always equal."
+    },
+    {
+      "term": "Perpendicular Lines",
+      "definition": "Two lines that intersect at right angles (90°). All four angles at their intersection are equal to 90°. Marked with a small square symbol at the corner."
+    },
+    {
+      "term": "Parallel Lines",
+      "definition": "Two lines on the same plane that never intersect, no matter how far they are extended. The perpendicular distance between them is constant everywhere. Marked with arrow symbols (>, >>) on each line."
+    },
+    {
+      "term": "Transversal",
+      "definition": "A line that intersects two or more other lines at distinct points. When it crosses two lines, it forms 8 angles — 4 at each intersection, with a maximum of 4 distinct angle measures."
+    },
+    {
+      "term": "Corresponding Angles",
+      "definition": "Pairs of angles formed by a transversal crossing two lines, occupying the same position (corner) at each intersection. When the lines are parallel, corresponding angles are equal. Examples: ∠1 and ∠5, ∠2 and ∠6, ∠3 and ∠7, ∠4 and ∠8."
+    },
+    {
+      "term": "Alternate Angles",
+      "definition": "Pairs of angles formed by a transversal crossing two parallel lines, lying on opposite sides of the transversal, one at each intersection, both between the two lines. Alternate angles formed on parallel lines are always equal. Found by: corresponding angle first, then vertically opposite."
+    },
+    {
+      "term": "Interior Angles (Co-interior Angles)",
+      "definition": "Pairs of angles formed on the same side of the transversal, between the two parallel lines. Interior angles on the same side of a transversal cutting parallel lines always add up to 180°."
+    },
+    {
+      "term": "Proof",
+      "definition": "A logical justification of a mathematical statement using reasoning (not measurement). Example: proving vertically opposite angles are equal using the fact that linear pairs sum to 180°."
+    }
+  ],
+  "summary_points": [
+    "When two lines intersect, they form exactly 4 angles at the point of intersection. Two straight lines can intersect at most at one point.",
+    "Adjacent angles at an intersection form a linear pair — they share a common side and always add up to 180°.",
+    "Angles directly opposite each other at an intersection are vertically opposite angles — they are always equal. Proof: if ∠a + ∠b = 180° and ∠d + ∠a = 180°, then ∠b = ∠d.",
+    "Perpendicular lines are two lines that intersect at 90°. All four angles formed are right angles. Marked with a small square at the corner.",
+    "Parallel lines are two lines on the same plane that never intersect, however far they are extended. They maintain a constant perpendicular distance. Marked with arrow symbols (>, >>, …).",
+    "A transversal is a line crossing two other lines. It creates 8 angles (4 at each crossing), but at most 4 distinct angle measures — because vertically opposite pairs are equal.",
+    "Corresponding angles occupy the same position at each intersection of a transversal. They are equal if and only if the two lines are parallel — this is both the condition and the test for parallelism.",
+    "Alternate angles lie on opposite sides of the transversal, between the two parallel lines. They are always equal when the lines are parallel. Proof: (corresponding angles) + (vertically opposite) = alternate equal.",
+    "Co-interior (interior) angles lie on the same side of a transversal between two parallel lines. They always sum to 180°. Proof: linear pair + corresponding angles together give this result.",
+    "To draw a parallel line through a point: use a set square slid along a ruler, or fold two successive perpendiculars through the same point. Both methods ensure equal corresponding angles (90°), confirming parallelism."
+  ]
+}

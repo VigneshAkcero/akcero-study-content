@@ -1,0 +1,32 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Number Systems",
+    "chapter_number": 1
+  },
+  "summary": [
+    {
+      "category": "Rational and Irrational Numbers",
+      "points": [
+        "A rational number can be written in the form p/q (where p and q are integers and q is not equal to zero), whereas an irrational number cannot be written in this form.",
+        "The collection of all rational and irrational numbers together forms the collection of real numbers, where every real number represents a unique point on the real number line."
+      ]
+    },
+    {
+      "category": "Decimal Expansions",
+      "points": [
+        "The decimal expansion of a rational number is either terminating or non-terminating recurring.",
+        "The decimal expansion of an irrational number is non-terminating non-recurring."
+      ]
+    },
+    {
+      "category": "Operations and Laws of Exponents",
+      "points": [
+        "The sum, difference, product, or quotient of a non-zero rational number and an irrational number is always irrational.",
+        "To rationalise a denominator containing a square root, multiply both the numerator and the denominator by an appropriate conjugate expression.",
+        "For a real number a > 0 and rational numbers p and q, the laws of exponents hold: (a^p)(a^q) = a^(p+q), (a^p)^q = a^(pq), (a^p)/(a^q) = a^(p-q), and (a^p)(b^p) = (ab)^p."
+      ]
+    }
+  ]
+}

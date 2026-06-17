@@ -1,0 +1,28 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Areas Related to Circles",
+    "chapter_number": 11
+  },
+  "summary": [
+    {
+      "category": "Sectors and Arc Lengths",
+      "points": [
+        "A sector is a pie-shaped region enclosed by two radii and an arc; its area for angle θ (degrees) and radius r is Area = (θ/360) × πr². The corresponding arc length is Arc length = (θ/360) × 2πr. Both formulas are derived using the unitary method, expressing the sector/arc as a fraction of the total circle based on the central angle's proportion to 360°."
+      ]
+    },
+    {
+      "category": "Segments and Their Calculation",
+      "points": [
+        "A segment is a region bounded by a chord and an arc. Its area equals the sector area minus the area of the isosceles triangle formed by the two radii and chord: Area of segment = (θ/360) × πr² − (1/2)r² sin θ. Major segments and sectors are found by subtracting the minor versions from the total circle area πr², making area comparisons essential."
+      ]
+    },
+    {
+      "category": "Key Relationships and Applications",
+      "points": [
+        "The fundamental relationship is: (sector angle/360°) = (sector area/circle area) = (arc length/circumference). This proportionality enables solving real-world problems like tethered animal grazing areas, lighthouse light coverage, clock hand sweeps, and architectural design. Systematic problem-solving requires drawing diagrams, identifying component shapes, and applying formulas systematically."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Social Science",
+    "chapter_name": "Locating Places on the Earth",
+    "chapter_number": 1
+  },
+  "summary": [
+    {
+      "category": "Map Components and the Globe",
+      "points": [
+        "A map is a flat representation of an area and relies on three essential components: scale (distance), direction (cardinal and intermediate points), and symbols.",
+        "While maps are convenient, a globe is the most accurate model of the Earth as it preserves the planet's spherical shape without the distortions of flat paper.",
+        "Conventional symbols, such as those fixed by the Survey of India, ensure that maps are universally understood across different regions and languages."
+      ]
+    },
+    {
+      "category": "The Grid System: Latitudes and Longitudes",
+      "points": [
+        "Latitudes are parallel circles running east-west, with the Equator (0°) being the largest; they also define the Earth's heat zones (Torrid, Temperate, and Frigid).",
+        "Longitudes (meridians) are semi-circles running from pole to pole, with the Prime Meridian passing through Greenwich serving as the global reference (0°).",
+        "The intersection of latitudes and longitudes forms a global grid that allows any location on Earth, such as Delhi at 29°N and 77°E, to be pinpointed precisely."
+      ]
+    },
+    {
+      "category": "Time Zones and Standard Time",
+      "points": [
+        "Earth's rotation (15° per hour) links longitude directly to time; places east of the Prime Meridian are ahead in time, while those to the west are behind.",
+        "To avoid local confusion, countries adopt a Standard Time; India follows Indian Standard Time (IST) based on 82.5° E, which is 5 hours 30 mins ahead of GMT.",
+        "The International Date Line, located approximately at 180° longitude, marks the point where the date changes by one day when crossed."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Coordinate Geometry",
+    "chapter_number": 7
+  },
+  "summary": [
+    {
+      "category": "Distance and Location",
+      "points": [
+        "Coordinate geometry uses ordered pairs (x, y) to uniquely identify points on a plane using perpendicular axes. The distance between any two points P(x₁, y₁) and Q(x₂, y₂) is calculated using the distance formula: PQ = √[(x₂ - x₁)² + (y₂ - y₁)²], which is derived from the Pythagorean theorem.",
+        "The special case of distance from the origin O(0, 0) to any point P(x, y) is: OP = √(x² + y²). This formula is fundamental for many geometric calculations and proofs."
+      ]
+    },
+    {
+      "category": "Division of Line Segments",
+      "points": [
+        "The section formula provides the coordinates of a point P(x, y) that divides a line segment joining A(x₁, y₁) and B(x₂, y₂) internally in the ratio m₁:m₂: x = (m₁x₂ + m₂x₁)/(m₁ + m₂) and y = (m₁y₂ + m₂y₁)/(m₁ + m₂). When m₁ = m₂ = 1, this reduces to the midpoint formula: M = ((x₁ + x₂)/2, (y₁ + y₂)/2)."
+      ]
+    },
+    {
+      "category": "Applications",
+      "points": [
+        "Coordinate geometry enables verification of geometric properties: three points are collinear if AB + BC = AC; triangles can be classified using side lengths; quadrilaterals can be identified by comparing sides and diagonals (e.g., parallelograms have bisecting diagonals, squares have equal sides and diagonals). These tools are applied in physics, engineering, navigation, and computer graphics."
+      ]
+    }
+  ]
+}

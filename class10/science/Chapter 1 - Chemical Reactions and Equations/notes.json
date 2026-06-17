@@ -1,0 +1,393 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Chemical Reactions and Equations",
+    "chapter_number": 1
+  },
+  "notes": [
+    {
+      "section_title": "Introduction to Chemical Reactions",
+      "topics": [
+        {
+          "topic_name": "Chemical Changes in Everyday Life",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A chemical reaction occurs whenever a chemical change takes place. During a chemical reaction, the original substances change their nature and identity."
+            },
+            {
+              "type": "list",
+              "title": "Everyday Examples of Chemical Reactions",
+              "items": [
+                "Milk turning sour when left at room temperature.",
+                "Iron objects (pans, nails) rusting in humid air.",
+                "The fermentation of grapes.",
+                "Cooking of raw food.",
+                "Digestion of food inside the body.",
+                "Respiration process in living organisms."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Indicators of a Chemical Reaction",
+          "content": [
+            {
+              "type": "activity",
+              "id": "1.1",
+              "title": "Burning of a Magnesium Ribbon",
+              "procedure": [
+                "Clean a magnesium ribbon by rubbing it thoroughly with sandpaper.",
+                "Hold it with tongs and burn it using a burner.",
+                "Collect the resulting ash in a watch-glass."
+              ],
+              "observation": "The magnesium ribbon burns with a dazzling white flame. It changes into a white powder called magnesium oxide. This powder forms due to the reaction between magnesium and oxygen in the air.",
+              "conclusion": "Burning magnesium is a chemical reaction that produces a new solid substance."
+            },
+            {
+              "type": "activity",
+              "id": "1.2",
+              "title": "Reaction of Lead Nitrate and Potassium Iodide",
+              "procedure": [
+                "Take lead nitrate solution in a test tube.",
+                "Add potassium iodide solution to it."
+              ],
+              "observation": "A chemical reaction takes place, typically forming a colored precipitate.",
+              "conclusion": "Mixing these two colorless solutions results in a chemical change."
+            },
+            {
+              "type": "activity",
+              "id": "1.3",
+              "title": "Action of Dilute Acid on Zinc Granules",
+              "procedure": [
+                "Take a few zinc granules in a conical flask.",
+                "Add dilute hydrochloric acid or dilute sulphuric acid to the flask.",
+                "Carefully touch the flask to check the temperature."
+              ],
+              "observation": "Bubbles of hydrogen gas form around the zinc granules. The temperature of the flask increases.",
+              "conclusion": "The evolution of gas and change in temperature confirm a chemical reaction."
+            },
+            {
+              "type": "list",
+              "title": "Four Main Indicators of a Chemical Reaction",
+              "items": [
+                "Change in state.",
+                "Change in colour.",
+                "Evolution of a gas.",
+                "Change in temperature."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.1 Chemical Equations",
+      "topics": [
+        {
+          "topic_name": "Word-Equations",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A word-equation describes a chemical reaction using words. It maps the change of reactants to products."
+            },
+            {
+              "type": "example",
+              "title": "Word Equation for Burning Magnesium",
+              "text": "Magnesium + Oxygen → Magnesium oxide"
+            },
+            {
+              "type": "note",
+              "title": "Reactants and Products",
+              "text": "Reactants are the substances that undergo chemical change. Products are the new substances formed. The arrowhead points towards the products, showing the direction of the reaction."
+            }
+          ]
+        },
+        {
+          "topic_name": "Writing a Chemical Equation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Chemical equations become more concise when using chemical formulae instead of words."
+            },
+            {
+              "type": "example",
+              "title": "Skeletal Equation Example",
+              "text": "Mg + O₂ → MgO"
+            },
+            {
+              "type": "note",
+              "title": "Skeletal Chemical Equation Definition",
+              "text": "If the number of atoms of each element is not equal on both sides, the equation is unbalanced. This is known as a skeletal chemical equation."
+            }
+          ]
+        },
+        {
+          "topic_name": "1.1.2 Balanced Chemical Equations",
+          "content": [
+            {
+              "type": "note",
+              "title": "Law of Conservation of Mass",
+              "text": "Mass can neither be created nor destroyed in a chemical reaction. Therefore, the total mass and the number of atoms of each element must remain equal before and after the reaction."
+            },
+            {
+              "type": "paragraph",
+              "text": "The hit-and-trial method is used to balance skeletal chemical equations. We use the smallest whole number coefficients to balance atoms."
+            },
+            {
+              "type": "list",
+              "title": "Step-by-Step Balancing Method (Example: Fe + H₂O → Fe₃O₄ + H₂)",
+              "items": [
+                "Step I: Draw boxes around each formula. Do not change anything inside the boxes.",
+                "Step II: List the number of atoms of various elements present in the unbalanced equation.",
+                "Step III: Start balancing with the compound containing the maximum number of atoms. Here, balance oxygen atoms by placing coefficient 4 before H₂O.",
+                "Step IV: Balance hydrogen atoms. Place coefficient 4 before H₂ on the Right Hand Side.",
+                "Step V: Balance iron atoms. Place coefficient 3 before Fe on the Left Hand Side.",
+                "Step VI: Count atoms of all elements on both sides to verify correctness. The balanced equation is 3Fe + 4H₂O → Fe₃O₄ + 4H₂.",
+                "Step VII: Write symbols of physical states. Use (s) for solid, (l) for liquid, (g) for gas, and (aq) for aqueous solutions. The final equation is: 3Fe(s) + 4H₂O(g) → Fe₃O₄(s) + 4H₂(g)."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Reaction Conditions",
+              "text": "Conditions like temperature, pressure, or a catalyst are usually written above or below the arrow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.2 Types of Chemical Reactions",
+      "topics": [
+        {
+          "topic_name": "1.2.1 Combination Reaction",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A combination reaction occurs when two or more substances combine together to form a single product."
+            },
+            {
+              "type": "example",
+              "title": "Example: Formation of Slaked Lime",
+              "text": "CaO(s) + H₂O(l) → Ca(OH)₂(aq) + Heat. Calcium oxide reacts vigorously with water."
+            },
+            {
+              "type": "paragraph",
+              "text": "A solution of slaked lime is used for whitewashing walls. It reacts with carbon dioxide in the air to form calcium carbonate, giving the walls a shiny finish."
+            },
+            {
+              "type": "note",
+              "title": "Exothermic Reactions",
+              "text": "Reactions that release heat along with the formation of products are called exothermic reactions. Common examples include the burning of natural gas, respiration in our bodies, and the decomposition of vegetable compost."
+            }
+          ]
+        },
+        {
+          "topic_name": "1.2.2 Decomposition Reaction",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A decomposition reaction happens when a single reactant breaks down to give simpler products. These reactions require energy in the form of heat, light, or electricity."
+            },
+            {
+              "type": "list",
+              "title": "Types of Decomposition",
+              "items": [
+                "Thermal Decomposition: Heating ferrous sulphate crystals causes them to lose water, change colour, and decompose into ferric oxide, sulphur dioxide, and sulphur trioxide. Heating limestone (calcium carbonate) produces quick lime (calcium oxide) and carbon dioxide.",
+                "Electrolytic Decomposition: Electrolysis of water breaks it down into hydrogen gas and oxygen gas.",
+                "Photolytic Decomposition: Silver chloride turns grey in sunlight because light energy breaks it down into silver and chlorine. This reaction is used in black and white photography."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Endothermic Reactions",
+              "text": "Reactions in which energy is absorbed are known as endothermic reactions. All decomposition reactions are naturally endothermic."
+            }
+          ]
+        },
+        {
+          "topic_name": "1.2.3 Displacement Reaction",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In a displacement reaction, a more reactive element displaces or removes a less reactive element from its compound."
+            },
+            {
+              "type": "example",
+              "title": "Iron and Copper Sulphate",
+              "text": "Fe(s) + CuSO₄(aq) → FeSO₄(aq) + Cu(s). The iron nail becomes brownish. The blue colour of the copper sulphate solution fades because iron displaces copper."
+            },
+            {
+              "type": "paragraph",
+              "text": "Zinc and lead are more reactive than copper, so they can easily displace copper from its compounds."
+            }
+          ]
+        },
+        {
+          "topic_name": "1.2.4 Double Displacement Reaction",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Such reactions involve an exchange of ions between the reactants to form new compounds."
+            },
+            {
+              "type": "example",
+              "title": "Barium Sulphate Formation",
+              "text": "Mixing sodium sulphate and barium chloride produces a white, insoluble substance called barium sulphate, leaving sodium chloride in the solution."
+            },
+            {
+              "type": "note",
+              "title": "Precipitation Reaction",
+              "text": "Any chemical reaction that produces an insoluble solid is specifically known as a precipitation reaction."
+            }
+          ]
+        },
+        {
+          "topic_name": "1.2.5 Oxidation and Reduction",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Oxidation occurs when a substance gains oxygen or loses hydrogen. Reduction occurs when a substance loses oxygen or gains hydrogen."
+            },
+            {
+              "type": "example",
+              "title": "Heating Copper Powder",
+              "text": "Heating copper powder adds oxygen to it, forming black copper oxide. If hydrogen gas is passed over this hot oxide, the coating turns back to brown copper."
+            },
+            {
+              "type": "note",
+              "title": "Redox Reactions",
+              "text": "Reactions where one reactant gets oxidised while the other gets reduced are termed oxidation-reduction reactions or simply redox reactions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.3 Effects of Oxidation Reactions in Everyday Life",
+      "topics": [
+        {
+          "topic_name": "1.3.1 Corrosion",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Corrosion is a process where a metal is slowly attacked by substances around it, such as moisture and acids. This weakens the metal."
+            },
+            {
+              "type": "list",
+              "title": "Examples of Corrosion",
+              "items": [
+                "Rusting of iron (reddish-brown coating).",
+                "Green coating formation on copper.",
+                "Black coating formation on silver items."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "1.3.2 Rancidity",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When food materials containing fats and oils are oxidised over time, they become rancid. This creates an unpleasant smell and alters their taste."
+            },
+            {
+              "type": "list",
+              "title": "Prevention Methods for Rancidity",
+              "items": [
+                "Adding antioxidant substances to foods.",
+                "Keeping food tightly sealed in air-tight containers.",
+                "Flushing bags of chips with non-reactive nitrogen gas to safely block oxygen."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Chemical Reaction",
+      "definition": "A transformative process indicating a chemical change where one or more original substances formulate into entirely new substances with different properties."
+    },
+    {
+      "term": "Reactants",
+      "definition": "The starting substances that actively undergo chemical transformation during a reaction."
+    },
+    {
+      "term": "Products",
+      "definition": "The final new chemical substances produced as a direct result of a completed reaction."
+    },
+    {
+      "term": "Skeletal Chemical Equation",
+      "definition": "An unbalanced preliminary chemical equation that accurately lists the reactants and products but has unequal atom counts on both sides."
+    },
+    {
+      "term": "Balanced Chemical Equation",
+      "definition": "An equation that perfectly satisfies the law of conservation of mass by securing an equal number of atoms for every element on both sides."
+    },
+    {
+      "term": "Combination Reaction",
+      "definition": "A unified reaction where two or more individual substances merge together securely to form a single combined product."
+    },
+    {
+      "term": "Decomposition Reaction",
+      "definition": "A breakdown reaction heavily reliant on external energy input to fracture a single chemical reactant into multiple simpler products."
+    },
+    {
+      "term": "Thermal Decomposition",
+      "definition": "A decomposition breakdown reaction that specifically utilizes applied heat energy."
+    },
+    {
+      "term": "Exothermic Reaction",
+      "definition": "A chemical reaction that naturally releases thermal energy safely outward alongside the formation of its end products."
+    },
+    {
+      "term": "Endothermic Reaction",
+      "definition": "An energy-absorbing reaction requiring continuous input of external energy forms like heat, electricity, or light."
+    },
+    {
+      "term": "Displacement Reaction",
+      "definition": "An active chemical reaction where a highly reactive element forcefully displaces a weaker element from its original compound."
+    },
+    {
+      "term": "Double Displacement Reaction",
+      "definition": "A mutual exchange reaction where individual ions swap places between two different reactant compounds to create two brand new compounds."
+    },
+    {
+      "term": "Precipitation Reaction",
+      "definition": "A reaction characterized by the unmistakable production of an insoluble solid material known as a precipitate."
+    },
+    {
+      "term": "Oxidation",
+      "definition": "The specific chemical addition of isolated oxygen atoms to a substance, or conversely, the direct loss of bonded hydrogen."
+    },
+    {
+      "term": "Reduction",
+      "definition": "The specific chemical addition of bonded hydrogen atoms to a substance, or conversely, the direct loss of bonded oxygen."
+    },
+    {
+      "term": "Redox Reaction",
+      "definition": "A paired chemical reaction occurring simultaneously where one reactant experiences oxidation while the other immediately undergoes reduction."
+    },
+    {
+      "term": "Corrosion",
+      "definition": "The gradual natural degradation of metals occurring when they interact destructively with environmental elements like trapped moisture and oxygen."
+    },
+    {
+      "term": "Rancidity",
+      "definition": "The unpleasant oxidative degradation process affecting unprotected exposed fats and oils, dramatically ruining their scent and flavor profiles."
+    }
+  ],
+  "summary_points": [
+    "A chemical equation symbolically represents all active reactants, final products, and their required physical states.",
+    "Chemical equations must remain consistently balanced to ensure that the identical total atoms of each element exist strictly universally equal on both analytical sides.",
+    "A combination reaction unites two or more separate items structurally forming a single output substance, whereas decomposition achieves the exact opposite by tearing a single item apart.",
+    "Reactions shedding thermal heat are termed exothermic; reactions absorbing incoming energy are fundamentally termed endothermic.",
+    "During displacement reactions, an aggressive stronger element safely evicts a weaker element; double displacement heavily involves mutual ion swapping.",
+    "Precipitation reactions universally produce solid insoluble salts separating from integrated liquid solutions.",
+    "Redox reactions mandate simultaneous combined oxidation representing oxygen gain and reduction representing oxygen loss.",
+    "Oxidative environments drive the slow degradation damage of exposed metal surfaces through corrosion and severely spoil cooking oils through rancidity."
+  ]
+}

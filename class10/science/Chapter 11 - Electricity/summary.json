@@ -1,0 +1,31 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Electricity",
+    "chapter_number": 11
+  },
+  "summary": [
+    {
+      "category": "Current, Potential Difference, and Ohm's Law",
+      "points": [
+        "Electric current (I = Q/t) is the rate of charge flow; potential difference (V = W/Q) is the work done to move unit charge between two points.",
+        "Ohm's Law states that V = IR, representing a linear relationship between voltage and current in a conductor at constant temperature."
+      ]
+    },
+    {
+      "category": "Resistance, Resistivity, and Combinations",
+      "points": [
+        "Resistance depends on length, cross-section, and resistivity; equivalent resistance is the sum in series (Rs = R1+R2) and the reciprocal sum in parallel (1/Rp = 1/R1+1/R2).",
+        "Parallel circuits are advantageous for domestic use as they allow independent operation of gadgets and reduce over-all circuit resistance."
+      ]
+    },
+    {
+      "category": "Heating Effect and Electric Power",
+      "points": [
+        "Joule's Law of Heating (H = I^2Rt) describes how electrical energy is dissipated as heat, utilized in devices like filaments and safety fuses.",
+        "Electric power (P = VI) is the rate of energy consumption; the commercial unit is kilowatt-hour (1 kWh = 3.6 x 10^6 J)."
+      ]
+    }
+  ]
+}

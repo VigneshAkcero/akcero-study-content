@@ -1,0 +1,373 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Math",
+    "chapter_name": "Number Play",
+    "chapter_number": 6
+  },
+  "notes": [
+    {
+      "section_title": "6.1 Numbers Tell Us Things — Encoding Information in Numbers",
+      "topics": [
+        {
+          "topic_name": "Height Arrangement and Number Codes",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Numbers can encode information about a sequence without explicitly stating the actual values. In this activity, children stand in a line and each calls out a number according to a specific rule: each child says the number of children standing in front of them (to their left) who are taller than they are."
+            },
+            {
+              "type": "note",
+              "title": "The Rule",
+              "text": "Each child calls out the number of children in front of them (to their left in the line) who are taller than they are. The first child always says '0' since no one stands before them."
+            },
+            {
+              "type": "list",
+              "title": "Key Observations About the Number Sequence",
+              "items": [
+                "The first person's number is always '0' (no one stands before them). — Always True.",
+                "If a person says '0', they are not necessarily the tallest — they may simply have no taller person ahead of them. — Only Sometimes True.",
+                "If a person is the tallest in the group, their number is always '0'. — Always True.",
+                "A person not at the first or last position can still say '0' (if all persons ahead are shorter). — Only Sometimes True.",
+                "The largest number possible in a group of n people is n − 1 (e.g., the last person who is the shortest can have all n − 1 others taller ahead of them).",
+                "The person who calls the largest number is not necessarily the shortest — Only Sometimes True."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Example: In a group of 7 children arranged so that the sequence reads 0, 0, 0, 0, 0, 0, 0 — every child is taller than all the children ahead of them, i.e., they are in strictly decreasing order of height from left to right. The sequence 0, 1, 2, 3, 4, 5, 6 means each person (except the first) is shorter than all persons ahead — they are in strictly increasing order."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.2 Picking Parity — Even and Odd Numbers",
+      "topics": [
+        {
+          "topic_name": "Parity: Even and Odd",
+          "content": [
+            {
+              "type": "note",
+              "title": "Parity",
+              "text": "Parity refers to the property of a number being even or odd. An even number can be arranged in pairs without any leftovers. An odd number always has one leftover when arranged in pairs. We use the term 'parity' to describe this property — e.g., 'the parity of 7 is odd', 'the parity of 12 is even'."
+            },
+            {
+              "type": "paragraph",
+              "text": "An odd number is 'one more than a collection of pairs' — it can also be thought of as 'one less than a collection of pairs'. For example: 5 = 4 + 1 (four arranged in pairs, plus one leftover) or 5 = 6 − 1."
+            }
+          ]
+        },
+        {
+          "topic_name": "Parity Rules for Addition and Subtraction",
+          "content": [
+            {
+              "type": "table",
+              "headers": ["Operation", "Result", "Reasoning"],
+              "rows": [
+                ["even + even", "even", "Two collections of pairs combine to give a collection of pairs."],
+                ["odd + odd", "even", "Two 'one-extra' leftovers combine to form a new pair."],
+                ["even + odd", "odd", "Adding an unpaired leftover to a collection of pairs gives one leftover."],
+                ["even − even", "even", "Removing pairs from pairs leaves pairs."],
+                ["odd − odd", "even", "The two leftover units cancel each other."],
+                ["even − odd", "odd", "Removing one extra from pairs leaves one unpaired."],
+                ["odd − even", "odd", "Pairs removed from odd still leaves one leftover."]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Sum of Multiple Odd/Even Numbers",
+              "text": "• Sum of ANY number of even numbers = even.\n• Sum of an EVEN count of odd numbers = even.\n• Sum of an ODD count of odd numbers = odd.\nExamples:\n  - 2 even + 2 odd = even + even = even.\n  - 2 odd + 3 even = even + even = even.\n  - 8 odd numbers → 8 is even → sum is even.\n  - 5 odd numbers → 5 is odd → sum is odd."
+            },
+            {
+              "type": "paragraph",
+              "text": "Application — Kishor's puzzle: Can 5 odd number cards add to 30 (an even number)?\nSince any 5 (odd count) odd numbers always sum to an odd number, and 30 is even, it is IMPOSSIBLE. This is proven by parity reasoning alone, without checking any specific cards."
+            },
+            {
+              "type": "paragraph",
+              "text": "Application — Consecutive ages: Two siblings born exactly one year apart have consecutive ages. In any two consecutive numbers, one is even and one is odd. Their sum = even + odd = odd. Since 112 is even, the siblings' ages CANNOT sum to 112."
+            }
+          ]
+        },
+        {
+          "topic_name": "Parity of Products — Grids",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The number of small squares in an m × n grid = m × n. The parity of this product depends on the parities of m and n:"
+            },
+            {
+              "type": "list",
+              "title": "Parity of m × n",
+              "items": [
+                "even × even = even (both factors even → product even)",
+                "even × odd = even (one factor even → product even)",
+                "odd × even = even (one factor even → product even)",
+                "odd × odd = odd (both factors odd → product odd)"
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Key Rule",
+              "text": "A product is ODD only when BOTH factors are odd. If at least one factor is even, the product is even. So: the number of small squares in a grid is odd ONLY when both dimensions (rows and columns) are odd."
+            },
+            {
+              "type": "list",
+              "title": "Examples",
+              "items": [
+                "27 × 13: both odd → product is ODD.",
+                "42 × 78: 42 is even → product is EVEN.",
+                "135 × 654: 654 is even → product is EVEN."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Parity of Algebraic Expressions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The parity of an algebraic expression can depend on the parity of its variable. For example, 3n + 4: when n is odd, 3n is odd, and odd + even = odd. When n is even, 3n is even, and even + even = even. So 3n + 4 can be either odd or even."
+            },
+            {
+              "type": "list",
+              "title": "Expressions with Fixed Parity",
+              "items": [
+                "Always even: 2n, 4n, 2n + 2, 100p, 48w − 2 (any expression that is a multiple of 2, or always reduces to an even form).",
+                "Always odd: 2n + 1, 2n − 1, 4m − 1, 8a + 3, 4n + 3, 6n + 5 (an even expression ± 1).",
+                "Can be either: 3n + 4, 5n + 2 (where the parity depends on whether n is odd or even)."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "nth Even and nth Odd Number",
+              "text": "• The nth even number = 2n. (2nd even = 4, 10th even = 20, 100th even = 200).\n• The nth odd number = 2n − 1. (1st odd = 1, 3rd odd = 5, 100th odd = 199).\nReasoning: Each odd number is exactly 1 less than the corresponding even number at the same position."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.3 Some Explorations in Grids — Magic Squares",
+      "topics": [
+        {
+          "topic_name": "Row and Column Sums in a 3×3 Grid",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When a 3×3 grid is filled with numbers 1–9 (each used exactly once), the sum of all numbers = 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 = 45. Since all numbers appear in exactly one row, the sum of the three row sums = 45. Similarly, the sum of the three column sums = 45."
+            },
+            {
+              "type": "note",
+              "title": "Impossible Grids",
+              "text": "A row sum cannot be less than 1 + 2 + 3 = 6 (minimum) or more than 7 + 8 + 9 = 24 (maximum). If required row/column sums fall outside this range, the grid cannot be filled — it is impossible."
+            }
+          ]
+        },
+        {
+          "topic_name": "Magic Squares",
+          "content": [
+            {
+              "type": "note",
+              "title": "Magic Square",
+              "text": "A magic square is a square grid of numbers where every row, every column, and both main diagonals all add up to the same number, called the magic sum."
+            },
+            {
+              "type": "list",
+              "title": "Key Observations for a 3×3 Magic Square Using 1–9",
+              "items": [
+                "Observation 1: The magic sum must be 15. (Since all three row sums are equal and must total 45, each row sum = 45 ÷ 3 = 15.)",
+                "Observation 2: The centre number must be 5. (Testing 1, 2, 3, 4, 6, 7, 8, 9 at the centre leads to impossibilities; only 5 works.)",
+                "Observation 3: The numbers 1 and 9 cannot be in corners — they must be at edge (non-corner) positions. This is because 1 needs combinations 1+5+9 and 1+6+8 (only 2 valid triples), but corner positions need 3 triples."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The standard 3×3 magic square using 1–9 (ignoring rotations and reflections) is:\n| 8 | 1 | 6 |\n| 3 | 5 | 7 |\n| 4 | 9 | 2 |\nMagic sum = 15. There is essentially one unique magic square with 1–9 (ignoring symmetries)."
+            },
+            {
+              "type": "note",
+              "title": "Generalised 3×3 Magic Square",
+              "text": "If m is the central number, all other cells are expressed relative to m:\n| m+3 | m−4 | m+1 |\n| m−2 |  m  | m+2 |\n| m−1 | m+4 | m−3 |\nMagic sum = 3m. This structure works for any central value m."
+            },
+            {
+              "type": "list",
+              "title": "Properties of Magic Squares — Operations",
+              "items": [
+                "Adding a constant k to every cell: Result is still a magic square; new magic sum = old magic sum + 3k.",
+                "Multiplying every cell by a constant k: Result is still a magic square; new magic sum = old magic sum × k.",
+                "Any arithmetic operation applied uniformly to all cells preserves the magic square property.",
+                "To create a magic square using 2–10: add 1 to every cell of the 1–9 magic square. New magic sum = 18.",
+                "To get magic sum 60: centre m = 20; magic sum = 3 × 20 = 60."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Magic square with 0 as magic sum (using negative numbers):\n|  3 | −4 |  1 |\n| −2 |  0 |  2 |\n| −1 |  4 | −3 |\nMagic sum = 0. Centre = 0; the structure m±1, m±2, m±3, m±4 applies with m = 0."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.4 Nature's Favourite Sequence — The Virahāṅka–Fibonacci Numbers",
+      "topics": [
+        {
+          "topic_name": "Discovery and Definition",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Virahāṅka–Fibonacci sequence 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, … arose from the study of rhythms in Sanskrit and Prakrit poetry, where syllables are either short (1 beat) or long (2 beats)."
+            },
+            {
+              "type": "note",
+              "title": "The Virahāṅka Rule",
+              "text": "Each number in the sequence is the sum of the two numbers before it:\n• V(n) = V(n−1) + V(n−2)\nFirst two terms: V(1) = 1, V(2) = 2.\nSequence: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, …"
+            },
+            {
+              "type": "paragraph",
+              "text": "The number of rhythms (ways to fill n beats with 1s and 2s) follows this sequence. This is because every n-beat rhythm either starts with '1' (leaving an (n−1)-beat rhythm) or '2' (leaving an (n−2)-beat rhythm). So: ways(n) = ways(n−1) + ways(n−2)."
+            },
+            {
+              "type": "table",
+              "headers": ["n (beats)", "Number of rhythms (ways to write n as sum of 1s and 2s)"],
+              "rows": [
+                ["1", "1"],
+                ["2", "2"],
+                ["3", "3"],
+                ["4", "5"],
+                ["5", "8"],
+                ["6", "13"],
+                ["7", "21"],
+                ["8", "34"]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Application — Staircase problem: Angaan climbs an 8-step staircase taking 1 or 2 steps at a time. The number of different ways = the 8th Virahāṅka number = 34 ways. This is the same problem as counting rhythms with 8 beats!"
+            }
+          ]
+        },
+        {
+          "topic_name": "Parity Pattern in the Virahāṅka Sequence",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The parity (odd/even) of each term in the Virahāṅka sequence follows a repeating pattern: O, E, O, O, E, O, O, E, O, O, E, … (the group O, O, E repeats every 3 terms starting from the 1st term)."
+            },
+            {
+              "type": "note",
+              "title": "Parity Rule",
+              "text": "The pattern of parities in the Virahāṅka sequence repeats every 3 positions: Odd, Odd, Even, Odd, Odd, Even, …\n• Position 1: Odd (1)\n• Position 2: Even (2)\n• Position 3: Odd (3)\n• Position 4: Odd (5)\n• Position 5: Even (8)\n• Position 6: Odd (13) …\nActual pattern from the start: O, E, O, O, E, O, O, E, … (the {O, E, O} group repeats).\nTo find parity of the nth term: if n mod 3 = 2, the term is even; otherwise it is odd.\n• 20th term: 20 mod 3 = 2 → even."
+            },
+            {
+              "type": "list",
+              "title": "Occurrences of Virahāṅka Numbers in Nature",
+              "items": [
+                "The number of petals on daisies is often a Virahāṅka number: 13 petals, 21 petals, 34 petals.",
+                "Spiral patterns in sunflowers and pinecones follow Virahāṅka numbers.",
+                "The sequence appears in music (drumming patterns), architecture, visual arts, and science."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.5 Digits in Disguise — Cryptarithms",
+      "topics": [
+        {
+          "topic_name": "What Are Cryptarithms?",
+          "content": [
+            {
+              "type": "note",
+              "title": "Cryptarithm (Alphametic)",
+              "text": "A cryptarithm (or alphametic) is a mathematical puzzle where each digit (0–9) in an arithmetic expression is replaced by a letter. The solver must find which digit each letter represents. Each letter stands for a unique specific digit."
+            },
+            {
+              "type": "paragraph",
+              "text": "Worked Example 1: T + T + T = UT\nA one-digit number T, added to itself 3 times, gives a 2-digit result UT where the units digit equals T.\n3T must end in T. Testing: 3 × 5 = 15 (ends in 5). So T = 5, U = 1, UT = 15. ✓"
+            },
+            {
+              "type": "paragraph",
+              "text": "Worked Example 2: K2 + K2 = HMM\nK2 is a 2-digit number with units digit 2. Added to itself gives HMM (3-digit, with equal tens and units digits).\n2 × K2 = HMM. Since units digit of K2 is 2 and both tens and units of the result are the same, M must be 4 (2+2=4). H = 1 (carry from hundreds). K = 6: 62 + 62 = 124 → HMM = 144? No. Try K = 7: 72 + 72 = 144 → H=1, M=4, M=4. ✓"
+            },
+            {
+              "type": "list",
+              "title": "Strategy for Solving Cryptarithms",
+              "items": [
+                "Start with the units column — it gives the most direct constraint.",
+                "Use carrying information from each column to determine digits in the next.",
+                "Test a few values systematically (not all at random).",
+                "Remember: each letter stands for a different, specific digit."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Parity",
+      "definition": "The property of a number being either even or odd. Even numbers can be arranged in pairs without leftovers; odd numbers always have one leftover."
+    },
+    {
+      "term": "Even Number",
+      "definition": "A whole number that can be arranged in pairs without any leftover. Divisible by 2. Examples: 2, 4, 6, 8, 100. The nth even number = 2n."
+    },
+    {
+      "term": "Odd Number",
+      "definition": "A whole number that, when arranged in pairs, always has one leftover. Not divisible by 2. Examples: 1, 3, 5, 7, 99. The nth odd number = 2n − 1."
+    },
+    {
+      "term": "Consecutive Numbers",
+      "definition": "Numbers that follow one another in order without gaps (e.g., 5, 6 or 41, 42). Any two consecutive numbers have opposite parities — one is always even and one is always odd."
+    },
+    {
+      "term": "Magic Square",
+      "definition": "A square grid of numbers where every row, every column, and both main diagonals add up to the same value, called the magic sum."
+    },
+    {
+      "term": "Magic Sum",
+      "definition": "The common sum of every row, column, and diagonal in a magic square. For a 3×3 magic square using 1–9, the magic sum is 15. In general, magic sum = 3m, where m is the central number."
+    },
+    {
+      "term": "Virahāṅka Sequence",
+      "definition": "The sequence 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, … where each term (from the 3rd onward) is the sum of the two preceding terms. First described by the Prakrit scholar Virahāṅka around 700 CE in the context of poetic rhythms."
+    },
+    {
+      "term": "Virahāṅka Rule",
+      "definition": "The rule by which the Virahāṅka sequence is generated: V(n) = V(n−1) + V(n−2), with V(1) = 1 and V(2) = 2. Every term is the sum of the two terms before it."
+    },
+    {
+      "term": "Cryptarithm (Alphametic)",
+      "definition": "A mathematical puzzle in which the digits of an arithmetic expression are replaced by letters. Each letter represents a unique specific digit (0–9), and the solver finds which digit each letter stands for."
+    },
+    {
+      "term": "nth Even Number",
+      "definition": "The formula 2n gives the nth even number. E.g., 1st even = 2, 10th even = 20, 100th even = 200."
+    },
+    {
+      "term": "nth Odd Number",
+      "definition": "The formula 2n − 1 gives the nth odd number. E.g., 1st odd = 1, 10th odd = 19, 100th odd = 199. Each odd number is one less than the corresponding even number at the same position."
+    },
+    {
+      "term": "Parity of a Product",
+      "definition": "A product of two numbers is odd ONLY if both factors are odd. If at least one factor is even, the product is even."
+    }
+  ],
+  "summary_points": [
+    "Numbers can encode information about arrangements — e.g., each person in a line calls out the count of taller people ahead of them; the first person always says 0, and the tallest person's number is always 0.",
+    "Parity refers to whether a number is even (arrangeable in pairs) or odd (one leftover). The sum of any number of even numbers is always even; the sum of an odd count of odd numbers is odd; the sum of an even count of odd numbers is even.",
+    "Key parity rules for addition/subtraction: even ± even = even; odd ± odd = even; even ± odd (or odd ± even) = odd. These rules allow us to determine if a result is possible without actual calculation.",
+    "A product m × n is odd only when BOTH m and n are odd; if at least one is even, the product is even. This determines the parity of small squares in any grid.",
+    "Algebraic expressions have fixed parity (always odd: 2n+1; always even: 2n) or variable parity (e.g., 3n+4 depends on whether n is odd or even). The nth even number is 2n and the nth odd number is 2n − 1.",
+    "In a 3×3 grid filled with 1–9, row sums + column sums each total 45 (= 1+2+…+9). For a magic square with numbers 1–9: magic sum = 15, centre must be 5, and 1 and 9 must be at edge (non-corner) positions.",
+    "Adding a constant to every cell of a magic square, or multiplying every cell by a constant, always produces another magic square. The magic sum increases by 3×(constant added) or multiplies by the factor.",
+    "The generalised 3×3 magic square with centre m has the structure: cells are m±1, m±2, m±3, m±4, and m at centre. Magic sum = 3m for any centre value m.",
+    "The Virahāṅka sequence (1, 2, 3, 5, 8, 13, 21, 34, …) was first discovered in the context of counting poetic rhythms with short (1-beat) and long (2-beat) syllables. The rule: each term = sum of the two preceding terms.",
+    "The number of n-beat rhythms = the nth Virahāṅka number. The parity pattern repeats every 3 positions: O, E, O, O, E, O, … A term at position n is even if n mod 3 = 2, otherwise odd. The 20th term is even.",
+    "Cryptarithms (alphametics) are puzzles where digits are replaced by letters; solving them requires systematic reasoning from the units column upward using carrying and uniqueness constraints."
+  ]
+}

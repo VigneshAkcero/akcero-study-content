@@ -1,0 +1,530 @@
+{
+  "chapter_info": {
+    "class": 8,
+    "subject": "Science",
+    "chapter_name": "Keeping the Time with the Skies",
+    "chapter_number": 11
+  },
+  "sections": [
+    {
+      "section_title": "11.1 How Does the Moon's Appearance Change and Why?",
+      "topics": [
+        {
+          "topic_name": "Phases of the Moon",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Moon's appearance changes every night in a regular, predictable pattern. The bright portion visible from Earth changes from a full circle to progressively smaller shapes before vanishing, then growing again. These changing shapes of the illuminated portion of the Moon as seen from Earth are called phases of the Moon."
+            },
+            {
+              "type": "note",
+              "text": "The Moon itself does not change shape. Only the portion of the illuminated (sunlit) side that faces Earth changes, creating the illusion of changing shape."
+            },
+            {
+              "type": "paragraph",
+              "text": "The cycle of lunar phases takes approximately 29.5 days (about a month). This cycle is divided into two main periods: the waxing period (when bright portion increases) and the waning period (when bright portion decreases)."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Full Moon (Purnima): The entire illuminated portion of the Moon faces Earth; appears as a complete bright circle",
+                "Waxing period (Shukla Paksha): Follows new Moon; bright portion increases daily; lasts ~15 days",
+                "Waning period (Krishna Paksha): Follows full Moon; bright portion decreases daily; lasts ~15 days",
+                "New Moon (Amavasya): Only non-illuminated portion faces Earth; Moon not visible in sky",
+                "Gibbous phase: More than half of the illuminated portion is visible (occurs between quarter and full Moon)",
+                "Crescent phase: Less than half of the illuminated portion is visible (occurs near new Moon)"
+              ]
+            },
+            {
+              "type": "note",
+              "text": "Different cultures name these phases differently. In India, the waning period is called Krishna Paksha and the waxing period is called Shukla Paksha."
+            }
+          ]
+        },
+        {
+          "topic_name": "Mechanism Behind Moon Phases",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Moon does not emit its own light; it shines by reflecting sunlight that falls upon it. The half of the Moon facing the Sun receives sunlight and becomes illuminated. The other half facing away from the Sun remains non-illuminated (dark)."
+            },
+            {
+              "type": "paragraph",
+              "text": "The Moon revolves around the Earth, and only one half of the Moon always faces Earth. However, the portion of the Moon facing Earth is not always its illuminated part. As the Moon orbits Earth, the angle between the Earth, Moon, and Sun changes continuously. This changing angle determines what fraction of the Moon's illuminated hemisphere is visible from Earth."
+            },
+            {
+              "type": "example",
+              "text": "On a full Moon day, the Earth is positioned between the Moon and the Sun. The entire illuminated hemisphere faces Earth—we see the whole bright portion as a circle. On a new Moon day, the Sun is between the Earth and Moon. Only the non-illuminated hemisphere faces Earth—we see nothing. At intermediate positions, we see partial illuminated portions appearing as crescents or gibbous shapes."
+            },
+            {
+              "type": "paragraph",
+              "text": "The phases of the Moon are NOT caused by Earth's shadow falling on the Moon. Earth's shadow causes lunar eclipses, which are different phenomena. Lunar eclipses occur only on full Moon days and are rare, whereas Moon phases occur every night in a regular monthly cycle."
+            }
+          ]
+        },
+        {
+          "topic_name": "Locating the Moon in the Sky",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The position of the Moon in the sky changes from day to day relative to the Sun. Understanding the Moon's phase helps predict where and when to observe it."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Full Moon day: Moon is nearly opposite the Sun in the sky. When Sun rises in East, Moon is nearly setting in West. Moon appears in the western sky at sunrise",
+                "During waning period: Moon appears progressively closer to the Sun in the sky each successive day. The bright portion decreases as Moon moves toward Sun",
+                "New Moon day: Moon appears closest to the Sun in sky; not visible because of Sun's glare",
+                "During waxing period: Moon appears progressively farther from the Sun each successive day. The bright portion increases as Moon moves away from Sun",
+                "Waxing Moon: Easiest to observe at sunset, as it is visible in the western evening sky away from the Sun",
+                "Waning Moon: Easiest to observe at sunrise, as it is visible in the eastern morning sky away from the Sun"
+              ]
+            },
+            {
+              "type": "note",
+              "text": "The Moon rises approximately 50 minutes later each day. This means moonrise time shifts by ~50 minutes daily, causing the Moon to appear at different times and positions in the sky on successive days."
+            },
+            {
+              "type": "paragraph",
+              "text": "When observed at the same time on successive days (e.g., at sunrise), the Moon appears in a progressively different part of the sky. This happens because while Earth completes one rotation in 24 hours, the Moon continues moving in its orbit. Earth must rotate additional time for the Moon to appear in the same position again, which takes approximately 50 additional minutes."
+            }
+          ]
+        },
+        {
+          "topic_name": "Eclipses vs. Phases",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Lunar eclipses and Moon phases are related but distinct phenomena. Understanding their differences clarifies common misconceptions."
+            },
+            {
+              "type": "table",
+              "headers": ["Aspect", "Moon Phases", "Lunar Eclipse"],
+              "rows": [
+                ["Cause", "Relative positions of Earth, Moon, and Sun change; different portions of illuminated hemisphere face Earth", "Earth's shadow falls on the Moon"],
+                ["Frequency", "Occurs every night in regular monthly cycle (~29.5 days)", "Rare; can only occur on full Moon day; doesn't occur every full Moon"],
+                ["Visibility", "Moon is visible every night with changing shape", "Complete darkness of Moon portion for duration of eclipse"],
+                ["Duration", "Continuous cyclic change throughout month", "Brief duration (minutes to hours)"],
+                ["Occurrence", "Happens regardless of orbital plane alignment", "Requires Moon's orbit to be aligned with Earth's orbital plane; tilt of Moon's orbit prevents monthly occurrence"]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Lunar eclipses can only occur on full Moon days when Earth is positioned between the Moon and Sun, allowing Earth's shadow to fall on the Moon. Solar eclipses occur only on new Moon days when the Moon is positioned between Earth and Sun. Neither eclipse occurs every month because of the slight tilt (about 5 degrees) of the Moon's orbital plane relative to Earth's orbital plane around the Sun."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "11.2 How Did Calendars Come into Existence?",
+      "topics": [
+        {
+          "topic_name": "Natural Cycles and Time Measurement",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Humans have used natural recurring cycles to measure time. These periodic astronomical phenomena form the basis for all calendars used around the world."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Day: Based on Earth's rotation around its axis. The time from when the Sun reaches its highest position in the sky (shortest shadow) one day to its highest position the next day is called the mean solar day, approximately 24 hours",
+                "Month: Based on the Moon's phases. The Moon completes one full cycle of phases (from full Moon to full Moon) in about 29.5 days, approximately one month",
+                "Year: Based on Earth's revolution around the Sun. Earth takes approximately 365.25 days to complete one orbit, undergoing one full cycle of seasons. This is called the solar year"
+              ]
+            },
+            {
+              "type": "note",
+              "text": "The mean solar day can be measured by observing the length of shadows cast by an object. The shadow is shortest when the Sun is at its highest point in the sky (solar noon). Time between successive shortest shadows on consecutive days = one mean solar day."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ancient people did not have mechanical clocks or written calendars. Instead, they carefully observed the sky and natural cycles, noticing that these cycles repeat predictably. Through centuries of observation, they developed methods to track time using the Sun, Moon, and stars."
+            }
+          ]
+        },
+        {
+          "topic_name": "Lunar Calendars",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Lunar calendars are based on the phases of the Moon. In ancient times, people observed that approximately 12 complete cycles of lunar phases fit within one cycle of seasons."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Basic units: Day (shortest unit), month (~29.5 days; one complete cycle of Moon phases), year (12 lunar months)",
+                "Year length: 12 lunar months × 29.5 days/month ≈ 354 days per lunar year",
+                "Advantage: Easy to track using Moon observations; natural periodic phenomenon visible to all",
+                "Disadvantage: Lunar year (354 days) is about 11 days shorter than the solar year (365.25 days), causing gradual drift of seasons relative to lunar months",
+                "Drift consequence: Seasons do not remain synchronized to the same lunar months in successive lunar years. Over several years, summer months shift to autumn, autumn to winter, etc."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "While lunar calendars provided a consistent way to measure time, the drift created problems for agricultural societies that needed to know when seasons would occur for planting and harvesting crops."
+            }
+          ]
+        },
+        {
+          "topic_name": "Solar Calendars",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Agricultural societies needed a calendar where seasons remained synchronized to the same months year after year. This necessity led to the development of solar calendars based on Earth's orbit around the Sun."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Basis: Earth's complete revolution around the Sun (tropical year ≈ 365.2422 days)",
+                "Month adjustment: Months adjusted to total approximately 365 days per year. Some months have 30 days, others 31, February has 28 days",
+                "Seasonal synchronization: Seasons remain aligned to same months year after year—spring always includes March-April-May, etc.",
+                "Gregorian calendar: The most widely used solar calendar today; adopted gradually across countries",
+                "Accuracy advantage: Stays synchronized with seasonal cycles essential for agriculture"
+              ]
+            },
+            {
+              "type": "note",
+              "text": "Earth takes 365.25 days (365 days 6 hours) to orbit the Sun. This extra quarter day accumulates to one full day every 4 years, requiring calendar adjustment."
+            },
+            {
+              "type": "paragraph",
+              "text": "To account for the extra ~0.25 day each year, solar calendars use leap years. In the Gregorian calendar, a leap year occurs every 4 years (divisible by 4), adding an extra day (February 29) to that year, making it 366 days."
+            },
+            {
+              "type": "paragraph",
+              "text": "However, Earth takes slightly less than 365.25 days to complete its orbit. Adding a day every 4 years adds slightly too much over long periods. To correct this: leap years are skipped every 100 years (1700, 1800, 1900 were not leap years), but then added back every 400 years (2000 was a leap year). These rules keep the Gregorian calendar closely aligned with seasons over centuries."
+            },
+            {
+              "type": "example",
+              "text": "The year 2000 was divisible by both 4 and 400, so it was a leap year (February had 29 days). The year 1900 was divisible by 4 but also by 100, and not by 400, so it was NOT a leap year (February had 28 days). This prevents over-correction and maintains long-term seasonal accuracy."
+            }
+          ]
+        },
+        {
+          "topic_name": "Luni-Solar Calendars",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Luni-solar calendars combine elements from both lunar and solar calendars. They use the Moon's phases for daily and monthly counting but make periodic adjustments to keep synchronized with seasons."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Structure: 12 lunar months (totaling ~354 days) with periodic adjustments to synchronize with solar year (365 days)",
+                "Intercalary month: Every 2-3 years, an extra month (called Adhika Maasa or intercalary month) is added to the calendar year",
+                "Why needed: 12 lunar months fall short of the solar year by ~11 days. Over time, this difference accumulates (~11 days/year × 3 years ≈ 33 days), approaching a full extra month (~29.5 days). Adding an intercalary month corrects this accumulated difference",
+                "Benefit: Maintains synchronization with both the Moon (for month counting) and seasons (for agricultural cycles)",
+                "Used in: Many parts of India and other cultures for religious, cultural, and agricultural purposes"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Many traditional Indian calendars are luni-solar, including calendars followed in various states and communities. These calendars use month names derived from ancient Indian traditions and require careful astronomical calculations to determine when intercalary months should be added."
+            },
+            {
+              "type": "note",
+              "text": "In some communities (Amant calendars), the new month starts on the first day after the new Moon and ends on the new Moon. In others (Purnimant calendars), the new month starts after the full Moon and ends on the full Moon. Both systems are luni-solar but differ in reference point."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Traditional Indian months: Chaitra, Vaisakha, Jyeshtha, Ashadha, Shravana, Bhadrapada, Ashwin, Kartika, Margashirsha (Agrahayan), Pausha, Magha, Phalguna"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "The Indian National Calendar",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In 1952, the Government of India established a Calendar Reform Committee to examine all existing calendars in use and recommend an accurate, uniform calendar for the entire nation. This resulted in the Indian National Calendar, adopted officially from March 21, 1956."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Type: Solar calendar (like Gregorian calendar)",
+                "Year length: 365 days (adjusted with leap years)",
+                "New Year date: March 22 (day after spring equinox), or March 21 in leap years",
+                "First month: Chaitra (named after traditional Indian calendar)",
+                "Month structure: Chaitra has 30/31 days; months 2-6 have 31 days; months 7-12 have 30 days",
+                "Leap year adjustment: In leap years, an extra day is added to Chaitra (31 days); new year begins on March 21 instead of March 22",
+                "Basis: Follows principles of the Surya Siddhanta, an ancient Indian astronomical text"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The Indian National Calendar uses month names from traditional Indian calendars, combining modern astronomical accuracy with cultural continuity. It serves as an official calendar for government purposes while other traditional calendars continue to be used for religious and cultural observances."
+            },
+            {
+              "type": "note",
+              "text": "Meghnad Saha, a pioneering astrophysicist who developed the famous Saha equation describing stellar temperatures, chaired the Calendar Reform Committee. The Saha Institute of Nuclear Physics in Kolkata is named after him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "11.3 Are Festivals Related to Astronomical Phenomena?",
+      "topics": [
+        {
+          "topic_name": "Festivals Based on Lunar Phases",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Many Indian festivals are directly tied to Moon phases and are celebrated according to lunar or luni-solar calendars. Because these calendars differ from the Gregorian calendar, festival dates shift from year to year on the Gregorian calendar."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Diwali: Celebrated on the new Moon day (Amavasya) of the month Kartika",
+                "Holi: Celebrated on the full Moon day (Purnima) of the month Phalguna",
+                "Buddha Purnima: Celebrated on the full Moon day of Vaisakha",
+                "Eid-ul-Fitr: Celebrated after sighting the crescent Moon at the end of Ramazan (Islamic lunar month)",
+                "Dussehra: Celebrated on the tenth day of Ashwina month",
+                "Navaratri: Nine-day festival starting on specific lunar dates"
+              ]
+            },
+            {
+              "type": "note",
+              "text": "When a festival date depends on a specific lunar phase, that festival occurs on different Gregorian calendar dates each year. For instance, Diwali might fall on November 1 in one year and November 21 in another."
+            },
+            {
+              "type": "paragraph",
+              "text": "For luni-solar calendar festivals, the date shift is typically less than a month because the intercalary month adjustment keeps luni-solar calendars synchronized with seasons. In contrast, purely lunar calendar festivals (like Eid-ul-Fitr) can shift by full months across different Gregorian years."
+            }
+          ]
+        },
+        {
+          "topic_name": "Festivals Based on Solar Cycles",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Some Indian festivals follow the sidereal solar cycle (based on star positions) rather than the tropical solar cycle. These festivals were historically tied to solstices and equinoxes and occur on nearly the same Gregorian date each year."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Makar Sankranti: Celebrated around January 14, marks the Sun's northward movement (Uttarayan)",
+                "Pongal: Celebrated around January 13-14 in Tamil Nadu",
+                "Bihu: Celebrated around January 13-14 in Assam",
+                "Vaisakhi: Celebrated around April 13-14 in Punjab",
+                "Poila Baisakh: Celebrated around April 13-14 in Bengal",
+                "Puthandu: Celebrated around April 13-14 in Tamil Nadu"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Historically, Makar Sankranti coincided with the winter solstice (December 21). However, due to the slow wobble of Earth's axis (precession), the winter solstice has shifted to earlier dates in the sidereal year. Consequently, Makar Sankranti has drifted ahead of the solstice. The festival date advances by approximately one day every 71 years relative to the solstice."
+            },
+            {
+              "type": "note",
+              "text": "This drift illustrates the difference between tropical year (based on solstices/equinoxes) and sidereal year (based on star positions). The Gregorian calendar follows the tropical year, so festival dates tied to solstices remain near the same Gregorian dates."
+            }
+          ]
+        },
+        {
+          "topic_name": "Regional Variations in Festival Dates",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Many Indian festival dates depend on the exact lunar phase at sunrise. Since sunrise occurs at different times across India (earlier in the east, later in the west), the date on which a lunar phase occurs at sunrise can differ by one day between eastern and western regions."
+            },
+            {
+              "type": "paragraph",
+              "text": "To maintain uniformity throughout India for official holiday declarations, the Government of India established the Positional Astronomy Center (PAC), which annually publishes the Rashtriya Panchang (National Calendar). This document provides detailed calculations of celestial object positions (Moon, Sun, planets) for a central location in India and forecasts festival dates."
+            },
+            {
+              "type": "note",
+              "text": "The Rashtriya Panchang is published in advance each year to allow the Government of India to declare official holiday dates for festivals, ensuring uniform celebrations nationwide despite regional sunrise time variations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "11.4 Why Do We Launch Artificial Satellites in Space?",
+      "topics": [
+        {
+          "topic_name": "What Are Artificial Satellites?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Moon is Earth's natural satellite, orbiting our planet. In addition, humans have built and launched thousands of artificial satellites—human-made objects placed in orbit around Earth."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Definition: Artificial satellites are man-made objects sent to space and placed in orbit around a celestial body (typically Earth)",
+                "Appearance: Visible as tiny specks moving across the night sky with steady or flickering brightness",
+                "Typical orbit: Most satellites orbit about 800 km above Earth's surface",
+                "Orbital period: Approximately 100 minutes to complete one orbit around Earth",
+                "Observability: Can be seen with naked eye or binoculars just before sunrise or after sunset when satellite is illuminated by the Sun and sky is dark"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Applications of Artificial Satellites",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Artificial satellites provide essential services for modern society and scientific research. Various countries, including India through ISRO (Indian Space Research Organisation), launch satellites for multiple purposes."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Communication: Relay telephone, internet, and television signals globally; enable long-distance communication",
+                "Navigation: Provide location data for GPS, enabling precise positioning for transportation, mapping, and surveying",
+                "Weather monitoring: Observe cloud patterns, weather systems, atmospheric conditions; predict weather and track storms",
+                "Disaster management: Monitor natural disasters (floods, earthquakes, tsunamis) in real-time; assess damage and plan relief efforts",
+                "Scientific research: Observe stars, galaxies, and cosmic phenomena; study Earth's atmosphere, magnetic field, and climate",
+                "Earth observation: Capture high-quality images for mapping, urban planning, agriculture monitoring, environmental assessment"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Indian Space Program Achievements",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Indian Space Research Organisation (ISRO) has successfully launched numerous satellites supporting scientific, commercial, and practical applications. India is among the few countries with advanced space capabilities."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Cartosat series: Earth observation satellites providing high-resolution images for mapping, urban planning, and disaster management",
+                "Bhuvan platform: Uses Cartosat images to display terrain, soil composition, land use, vegetation, and other geographic information",
+                "AstroSat: Space telescope observing stars and celestial objects; India's first dedicated space observatory",
+                "Chandrayaan missions: Lunar exploration missions (Chandrayaan 1, 2, 3) studying Moon's surface and searching for water",
+                "Aditya L1: Solar mission studying the Sun's corona and solar activities",
+                "Mangalyaan: Mars orbiter mission demonstrating India's capability for interplanetary missions",
+                "Student satellites: ISRO enables Indian students to design and launch small satellites like AzaadiSat, InspireSat-1, Jugnu"
+              ]
+            },
+            {
+              "type": "note",
+              "text": "Vikram Sarabhai (1919-1971), a space scientist and pioneer of India's space program, is known as the Father of the Indian Space Programme. The Vikram Sarabhai Space Centre (VSSC) in Thiruvananthapuram develops rockets and launch vehicle technology for ISRO."
+            }
+          ]
+        },
+        {
+          "topic_name": "Space Debris and Challenges",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "As more satellites are launched by multiple countries, the accumulation of non-functional satellites and rocket debris in orbit poses an increasing hazard."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Space junk/debris: Non-functional satellites, spent rocket stages, and collision fragments accumulate in orbit",
+                "Collision risk: High-speed debris can collide with working satellites, damaging or destroying them and creating more debris",
+                "Debris cascade: Collisions generate additional fragments, potentially creating a cascading effect (Kessler syndrome) where collisions generate more debris causing more collisions",
+                "Risk to Earth: Large debris pieces can survive atmospheric reentry and crash on ground, posing safety hazards",
+                "Small debris: Pieces smaller than 1 cm usually burn up in the atmosphere during reentry but can damage satellites they collide with",
+                "International efforts: Countries are developing tracking systems and debris removal technologies to address the problem"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Phases of the Moon",
+      "definition": "The changing shapes of the illuminated portion of the Moon as seen from Earth, resulting from the changing angle between the Sun, Moon, and Earth as the Moon orbits Earth."
+    },
+    {
+      "term": "Full Moon",
+      "definition": "The lunar phase when the entire illuminated hemisphere of the Moon faces Earth, appearing as a complete bright circle."
+    },
+    {
+      "term": "New Moon",
+      "definition": "The lunar phase when only the non-illuminated hemisphere of the Moon faces Earth, making the Moon invisible from Earth."
+    },
+    {
+      "term": "Waxing",
+      "definition": "The period when the illuminated portion of the Moon is increasing in size each night, from new Moon to full Moon (Shukla Paksha)."
+    },
+    {
+      "term": "Waning",
+      "definition": "The period when the illuminated portion of the Moon is decreasing in size each night, from full Moon to new Moon (Krishna Paksha)."
+    },
+    {
+      "term": "Crescent",
+      "definition": "A lunar phase showing less than half of the illuminated portion visible, appearing as a thin curved shape."
+    },
+    {
+      "term": "Gibbous",
+      "definition": "A lunar phase showing more than half but less than the complete illuminated portion, appearing as a bulging shape."
+    },
+    {
+      "term": "Lunar eclipse",
+      "definition": "A phenomenon where Earth's shadow falls on the Moon, causing the Moon to darken; occurs only on full Moon day when Earth is between the Sun and Moon."
+    },
+    {
+      "term": "Solar eclipse",
+      "definition": "A phenomenon where the Moon's shadow falls on Earth, blocking sunlight; occurs only on new Moon day when the Moon is between the Sun and Earth."
+    },
+    {
+      "term": "Mean solar day",
+      "definition": "The average time (24 hours) for the Sun to go from its highest position in the sky one day to its highest position the next day."
+    },
+    {
+      "term": "Lunar calendar",
+      "definition": "A calendar based on the phases of the Moon, with months of approximately 29.5 days and a year of approximately 354 days (12 lunar months)."
+    },
+    {
+      "term": "Solar calendar",
+      "definition": "A calendar based on Earth's revolution around the Sun, with a year of approximately 365 days, synchronized to keep seasons aligned to the same months each year."
+    },
+    {
+      "term": "Luni-solar calendar",
+      "definition": "A calendar combining elements of both lunar and solar calendars, using Moon phases for months but adding intercalary months to maintain synchronization with seasons."
+    },
+    {
+      "term": "Leap year",
+      "definition": "A year in the Gregorian calendar that is divisible by 4 (with exceptions for century years), containing 366 days instead of 365 to account for Earth's extra quarter day in its orbit."
+    },
+    {
+      "term": "Intercalary month",
+      "definition": "An extra month (Adhika Maasa) added periodically to luni-solar calendars to keep them synchronized with seasons; added approximately every 2-3 years."
+    },
+    {
+      "term": "Tropical year",
+      "definition": "The time period for Earth to complete one orbit around the Sun relative to the seasons (approximately 365.2422 days); the basis for the Gregorian calendar."
+    },
+    {
+      "term": "Sidereal year",
+      "definition": "The time period for Earth to return to the same position relative to stars (approximately 365.2564 days); about 20 minutes longer than the tropical year."
+    },
+    {
+      "term": "Artificial satellite",
+      "definition": "A human-made object placed in orbit around Earth (or another celestial body) to perform various functions like communication, navigation, weather monitoring, or scientific research."
+    },
+    {
+      "term": "Orbital period",
+      "definition": "The time required for a satellite to complete one full orbit around Earth; most artificial satellites orbit Earth in approximately 100 minutes."
+    },
+    {
+      "term": "Space debris",
+      "definition": "Non-functional satellites, spent rocket stages, and collision fragments accumulating in orbit around Earth; poses hazard to working satellites."
+    }
+  ],
+  "summary_points": [
+    "The phases of the Moon result from the changing angle between the Sun, Moon, and Earth as the Moon orbits Earth. The half of the Moon facing the Sun is always illuminated, but the fraction of this illuminated portion visible from Earth changes daily, creating the appearance of Moon shape changes. A complete cycle from full Moon to full Moon takes approximately 29.5 days (about one month). The changing phases are not caused by Earth's shadow (which causes lunar eclipses) but by the relative positioning of celestial bodies.",
+    "The day, month, and year are natural time units based on periodic astronomical phenomena: the day is based on Earth's rotation (24 hours), the month on the Moon's orbital cycle (29.5 days), and the year on Earth's revolution around the Sun (365.25 days). Three main calendar types exist: lunar calendars (tracking only Moon phases but losing seasonal synchronization), solar calendars (keeping seasons aligned but ignoring Moon phases), and luni-solar calendars (combining both by adding intercalary months periodically). The Gregorian calendar is a solar calendar using leap years every 4 years (with century exceptions) to maintain alignment with Earth's 365.25-day orbit.",
+    "The Indian National Calendar, adopted in 1956, is a solar calendar using month names from traditional Indian calendars, beginning on the day after the spring equinox (March 22). Many Indian festivals are tied to lunar phases (Diwali on new Moon, Holi on full Moon) so their Gregorian dates shift yearly. Some festivals are based on solar cycles (Makar Sankranti, Pongal) and occur near the same Gregorian dates. The Government of India's Positional Astronomy Center publishes annual forecasts of lunar phases to maintain nationwide uniformity in festival date declarations.",
+    "Artificial satellites are human-made objects orbiting Earth, visible as moving points of light in the night sky. They serve critical functions including communication (phone, internet, TV), navigation (GPS), weather monitoring and forecasting, disaster management and relief coordination, scientific research of stars and space, and Earth observation for mapping and agriculture. India's ISRO has successfully launched numerous satellites including the Cartosat series (Earth imaging), AstroSat (space telescope), and Chandrayaan lunar missions. Space debris from defunct satellites and rocket stages poses increasing collision risks requiring international cooperative debris tracking and removal efforts.",
+    "The Moon's position in the sky changes daily relative to the Sun. During the waxing period, the Moon moves away from the Sun and is best observed at sunset. During the waning period, the Moon moves toward the Sun and is best observed at sunrise. The Moon rises approximately 50 minutes later each day because it continues moving in its orbit while Earth completes its daily rotation. Understanding Moon phases helps predict where and when to observe the Moon in the sky.",
+    "Lunar eclipses and Moon phases are distinct phenomena often confused. Lunar eclipses occur only on full Moon days when Earth's shadow falls on the Moon, causing temporary darkening; they are rare (irregular timing, vary with orbital plane alignment). Moon phases occur regularly every night through one monthly cycle, caused by the changing relative positions of Earth, Moon, and Sun, not by Earth's shadow. This periodic phase cycle provides the basis for lunar calendars and for keeping cultural time.",
+    "Solar calendars must account for Earth's 365.25-day orbit through leap year adjustments. Simply adding a day every 4 years slightly over-corrects over long periods. The Gregorian calendar skips leap years in century years (1700, 1800, 1900) but then adds them back every 400 years (2000 was a leap year). These corrections maintain alignment between the calendar and Earth's seasonal position. The Indian National Calendar follows similar principles as the Gregorian calendar but uses month names from traditional Indian calendars.",
+    "Luni-solar calendars address the fundamental problem that 12 lunar months (354 days) fall short of the solar year (365 days) by about 11 days. Without correction, lunar calendar festivals would gradually shift through seasons. By adding an intercalary month (Adhika Maasa) every 2-3 years, luni-solar calendars accumulate about 11 days until reaching a full month (~29.5 days), then add the intercalary month to reset. This keeps festivals aligned to seasons while maintaining lunar month counting, combining benefits of both lunar and solar systems.",
+    "The positions of celestial objects and the dates of lunar phases vary across India because sunrise (and thus the exact time of lunar phase at sunrise) occurs at different times. Eastern India experiences sunrise earlier than Western India. To provide official holiday declarations with nationwide uniformity, the Government of India's Positional Astronomy Center calculates celestial positions for a central location and publishes the Rashtriya Panchang annually, forecasting festival dates."
+  ]
+}

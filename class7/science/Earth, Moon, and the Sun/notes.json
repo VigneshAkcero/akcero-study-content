@@ -1,0 +1,458 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Science",
+    "chapter_name": "Earth, Moon, and the Sun",
+    "chapter_number": 12
+  },
+  "notes": [
+    {
+      "section_title": "Introduction: Why Does the Sun Appear to Move?",
+      "topics": [
+        {
+          "topic_name": "The Apparent Motion of the Sun",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "We observe that shadows are long in the morning, short near noon, and long again in the evening. The Sun appears to rise in the East, move across the sky, and set in the West. This apparent motion of the Sun is not because the Sun is moving — it is because the Earth itself is turning."
+            },
+            {
+              "type": "note",
+              "title": "Key Concept",
+              "text": "The Sun appears to move across the sky from East to West because the Earth is rotating from West to East. The Sun itself is not moving across our sky — it is our perspective that changes as the Earth rotates."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "12.1 Rotation of the Earth",
+      "topics": [
+        {
+          "topic_name": "What is Rotation?",
+          "content": [
+            {
+              "type": "note",
+              "title": "Rotation — Definition",
+              "text": "Rotation is the motion of an object in which all its parts move in circles around an imaginary line that passes through it. This imaginary line is called the axis of rotation."
+            },
+            {
+              "type": "paragraph",
+              "text": "The Earth spins (rotates) on its own axis, just like a spinning top, a fan, or a ball spinning in place. The Earth's axis of rotation passes through its geographic North Pole and South Pole."
+            },
+            {
+              "type": "list",
+              "title": "Key Facts About Earth's Rotation",
+              "items": [
+                "The Earth completes one full rotation in approximately 24 hours.",
+                "When viewed from above the North Pole, the Earth rotates in the anti-clockwise direction — from West to East.",
+                "The axis of rotation passes through the geographic North Pole and South Pole."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Merry-Go-Round Analogy — Why the Sun Appears to Move",
+          "content": [
+            {
+              "type": "activity",
+              "id": "12.1",
+              "title": "Let Us Explore — Merry-Go-Round",
+              "procedure": [
+                "Sit on a merry-go-round facing outward.",
+                "Ask someone to turn the merry-go-round slowly in the anti-clockwise direction.",
+                "Observe the direction in which objects around you appear to move.",
+                "Fix your gaze on a particular tree or building and observe from which side it enters and exits your view."
+              ],
+              "observation": "While turning anti-clockwise, objects around you appear to move in the clockwise direction. A tree that you fix your gaze on appears to enter from the left and exit to the right.",
+              "conclusion": "When you turn in one direction, stationary objects appear to move in the opposite direction. Similarly, when the Earth rotates from West to East, the Sun (a stationary object in our sky) appears to move from East to West."
+            }
+          ]
+        },
+        {
+          "topic_name": "Day and Night Cycle",
+          "content": [
+            {
+              "type": "activity",
+              "id": "12.2",
+              "title": "Let Us Explore — Globe and Torchlight",
+              "procedure": [
+                "Use a globe to represent the Earth. Place a small sticker to mark your location.",
+                "In a darkened room, shine a torch (representing the Sun) on the globe from about 1.5 metres away.",
+                "Observe how one half of the globe receives light (daytime) and the other half is dark (night-time).",
+                "Rotate the globe from West to East and observe that sunrise in eastern India occurs before western India.",
+                "Observe how your marked location goes through a cycle of day and night as the globe rotates."
+              ],
+              "observation": "Exactly half the globe is illuminated at any time. Rotating West to East makes the eastern part of India receive light first. Each location experiences alternating day and night during one full rotation.",
+              "conclusion": "The Earth's rotation from West to East causes the cycle of day and night. Sunrise occurs as a location rotates into the sunlit side; sunset occurs as it rotates into the dark side."
+            },
+            {
+              "type": "paragraph",
+              "text": "Due to Earth's rotation from West to East, the Sun appears to rise in the East, move across the sky, and set in the West. Night begins after sunset, and stars become visible. In India, sunrise occurs first in the eastern regions and progressively later in the western regions."
+            },
+            {
+              "type": "note",
+              "title": "Day and Night Cycle — Summary",
+              "text": "The side of the Earth facing the Sun experiences daytime; the side facing away experiences night-time. As the Earth rotates, every location on Earth experiences an alternating cycle of day and night approximately every 24 hours."
+            }
+          ]
+        },
+        {
+          "topic_name": "Apparent Motion of Stars Due to Earth's Rotation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Just as the Sun appears to move across the sky due to Earth's rotation, all stars also appear to move across the night sky. They appear to rise in the East and set in the West."
+            },
+            {
+              "type": "activity",
+              "id": "12.3",
+              "title": "Let Us Explore — Apparent Motion of the Big Dipper",
+              "procedure": [
+                "On a clear evening (March–May), identify the Big Dipper (Saptarishi) constellation and the Pole Star (Dhruva Tara).",
+                "Draw the orientation of the Big Dipper relative to the Pole Star. Note the time.",
+                "After two hours, observe the Big Dipper again and draw its new orientation.",
+                "Repeat after another two hours and compare all three sketches."
+              ],
+              "observation": "The Big Dipper appears to have moved — it appears to rotate around the Pole Star over the course of the night.",
+              "conclusion": "Stars appear to move across the night sky due to the Earth's rotation. The Pole Star appears nearly stationary because the Earth's axis of rotation points very close to it in the Northern Hemisphere. All other stars appear to revolve around the Pole Star."
+            },
+            {
+              "type": "note",
+              "title": "Pole Star — Dhruva Tara",
+              "text": "The Earth's axis of rotation points very close to the Pole Star (Dhruva Tara) in the Northern Hemisphere. Therefore, the Pole Star appears nearly stationary in the sky, while all other stars appear to move around it due to Earth's rotation."
+            },
+            {
+              "type": "note",
+              "title": "Star Trails",
+              "text": "Astrophotographers capture the apparent motion of stars by taking long-exposure photographs (keeping the camera shutter open for a long time). In such photos, the stars trace arcs of circles (since the Earth rotates underneath), known as star trails."
+            },
+            {
+              "type": "note",
+              "title": "Foucault Pendulum",
+              "text": "In the 19th century, scientist Léon Foucault used a long pendulum to demonstrate the Earth's rotation. A Foucault pendulum consists of a long string with a heavy bob suspended from a high ceiling. As the Earth rotates beneath it, the plane of the pendulum's swing appears to rotate. A 22-metre Foucault pendulum is hung in the Constitution Hall of the new Parliament building in New Delhi, India."
+            },
+            {
+              "type": "note",
+              "title": "Aryabhata's Contribution",
+              "text": "The ancient Indian mathematician-astronomer Aryabhata (5th century CE) recognised that the apparent daily motion of celestial objects (Sun, Moon, stars) is due to the Earth's rotation, not the objects themselves. He calculated the time for one full rotation of the Earth as approximately 23 hours 56 minutes 4.1 seconds — remarkably close to the currently accepted value. This was recorded in his treatise Aryabhatiya (Verse 9, Golapada)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "12.2 Revolution of the Earth",
+      "topics": [
+        {
+          "topic_name": "What is Revolution?",
+          "content": [
+            {
+              "type": "note",
+              "title": "Revolution — Definition",
+              "text": "Revolution is the motion of an object around another object. The path an object takes while revolving around another is called its orbit."
+            },
+            {
+              "type": "list",
+              "title": "Key Facts About Earth's Revolution",
+              "items": [
+                "The Earth revolves around the Sun.",
+                "The orbit of the Earth around the Sun is nearly circular (when viewed from the top).",
+                "The Earth completes one revolution around the Sun in about 365 days and 6 hours (approximately 1 year).",
+                "The Earth's axis of rotation is tilted with respect to the plane of its orbit — it is not upright."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "12.2.1 Changing View of the Night Sky",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "As the Earth revolves around the Sun throughout the year, the direction we look into space at night changes. This causes the stars and constellations visible in the night sky after sunset to gradually change over the course of a year. Stars visible in one season may not be visible in another season."
+            },
+            {
+              "type": "note",
+              "title": "Key Observation",
+              "text": "The constellations visible in the night sky change over the year because the Earth is at different positions in its orbit around the Sun. The Bhil and Pawara communities from the Tapi Valley in western India traditionally used the appearance of certain star patterns as markers for the arrival of the monsoon season."
+            }
+          ]
+        },
+        {
+          "topic_name": "12.2.2 Seasons on the Earth",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Earth experiences a cycle of seasons every year. Seasons are caused by two factors working together: (1) the tilt of the Earth's axis of rotation with respect to its orbit, and (2) the spherical shape of the Earth."
+            },
+            {
+              "type": "note",
+              "title": "Why Seasons Occur — The Correct Reason",
+              "text": "Seasons occur because the Earth's axis is tilted, NOT because the Earth is closer to or farther from the Sun. In fact, the Earth is actually closest to the Sun in January (Northern Hemisphere winter). The tilt causes different hemispheres to receive sunlight at different angles and for different durations at different times of year."
+            },
+            {
+              "type": "table",
+              "headers": ["Month", "Northern Hemisphere", "Southern Hemisphere", "Reason"],
+              "rows": [
+                ["June", "Summer", "Winter", "NH tilted towards Sun — more intense sunlight for longer duration"],
+                ["December", "Winter", "Summer", "SH tilted towards Sun — more intense sunlight for longer duration"],
+                ["March 21 / September 23", "Spring / Autumn Equinox", "Autumn / Spring Equinox", "Neither hemisphere tilted towards Sun — 12 hours of day and night everywhere"]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Why the Tilted Hemisphere Gets Hotter",
+              "text": "When a hemisphere is tilted towards the Sun: (1) The same amount of sunrays are spread over a smaller area (due to the spherical shape of Earth) — making the sunlight more intense (concentrated). (2) The hemisphere receives sunlight for more than 12 hours per day. Both effects together cause the summer season in that hemisphere."
+            },
+            {
+              "type": "list",
+              "title": "Important Dates — Northern Hemisphere",
+              "items": [
+                "Summer Solstice: ~21 June — longest day, shortest night; Sun is highest in the sky.",
+                "Winter Solstice: ~22 December — shortest day, longest night.",
+                "Spring Equinox: ~21 March — day and night each last 12 hours.",
+                "Autumn Equinox: ~23 September — day and night each last 12 hours."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Common Misconceptions About Seasons",
+              "text": "Two incorrect reasons often given for seasons: (1) 'The Northern Hemisphere tilts closer to the Sun in summer' — The difference in distance is negligible. (2) 'Earth's oval orbit brings it closer to the Sun in summer' — The Earth is actually closest to the Sun in January (Northern Hemisphere winter), not summer. Neither of these is the real cause of seasons."
+            },
+            {
+              "type": "note",
+              "title": "Special Cases",
+              "text": "At the North Pole: The Sun rises on 21 March (spring equinox) and remains continuously in the sky for six months, setting around 22 September. Then there is six months of darkness. The South Pole has the opposite pattern. At the Equator: There are always approximately 12 hours of sunlight and 12 hours of darkness every day. The effect of seasons is minimal near the equator."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "12.3 Eclipses",
+      "topics": [
+        {
+          "topic_name": "12.3.1 Solar Eclipse",
+          "content": [
+            {
+              "type": "note",
+              "title": "Solar Eclipse — Definition",
+              "text": "A solar eclipse occurs when the Moon comes in between the Sun and the Earth, obstructing sunlight from reaching the Earth (or a part of it)."
+            },
+            {
+              "type": "activity",
+              "id": "12.4",
+              "title": "Let Us Explore — Apparent Size (Thumb Activity)",
+              "procedure": [
+                "Ask a friend to stand about 5 metres away from you.",
+                "Close one eye and hold your thumb up (thumbs-up) with your arm outstretched towards your friend.",
+                "Try to cover your friend's entire head with your thumb."
+              ],
+              "observation": "Even though your thumb is much smaller than your friend's head, you can completely cover the head with your thumb.",
+              "conclusion": "The apparent size of an object depends on both its actual size and its distance from the observer. The thumb appears as large as the friend's head because it is much closer to the eye. Similarly, the Moon can cover the Sun because, though much smaller than the Sun, it is also much closer to Earth — making their apparent sizes similar."
+            },
+            {
+              "type": "note",
+              "title": "Apparent Size — Why the Moon Can Cover the Sun",
+              "text": "The apparent size (how large an object looks from a given distance) depends on both the actual size and the distance of the object. The Moon is about 400 times smaller than the Sun in physical size, but it is also about 400 times closer to the Earth. This remarkable coincidence makes their apparent sizes nearly equal as seen from Earth, allowing the Moon to completely cover the Sun during a total solar eclipse."
+            },
+            {
+              "type": "table",
+              "headers": ["Type", "Description", "What is Seen"],
+              "rows": [
+                ["Total Solar Eclipse", "The Moon completely covers the Sun; the Moon's shadow falls on a small area of Earth's surface", "Complete darkness for a few minutes; Sun is entirely hidden"],
+                ["Partial Solar Eclipse", "The Moon partially covers the Sun; only the penumbra (partial shadow) falls on the observer", "Part of the Sun's disc is still visible"]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Due to the Earth's rotation and the Moon's orbital motion, the Moon's shadow moves across Earth's surface rapidly, making a total solar eclipse visible from any given location for only a few minutes."
+            },
+            {
+              "type": "note",
+              "title": "Transit of Venus",
+              "text": "Though Venus and Mercury are larger than the Moon, they are much farther from Earth. Their apparent sizes are very small compared to the Sun. When Venus passes between the Sun and the Earth, it appears only as a tiny black dot moving across the Sun's face — this is called a Transit of Venus, and it is a very rare event."
+            },
+            {
+              "type": "note",
+              "title": "Safe Viewing of a Solar Eclipse — CAUTION",
+              "text": "During a solar eclipse, the Sun's radiation is still intense enough to permanently damage the eyes and cause blindness. Never look at the Sun directly during an eclipse. Do NOT use sunglasses, binoculars, or ordinary telescopes. Safe methods: (1) Use certified solar eclipse goggles. (2) Use a mirror to project the Sun's image onto a wall or screen. (3) Attend eclipse viewing events organised by planetaria or astronomy clubs, where specialised eye protection is provided."
+            },
+            {
+              "type": "note",
+              "title": "Historical and Cultural Context of Solar Eclipses",
+              "text": "When the reasons for eclipses were unknown, people feared them and many superstitions existed (avoiding eating, cooking, or going outside). The ancient Sanskrit text Surya Siddhanta contains calculations to predict eclipses. An eclipse is called 'grahan' in Sanskrit and many Indian languages. Today, scientists travel worldwide to study solar eclipses, as they provide rare opportunities to observe certain phenomena otherwise hidden by the Sun's glare."
+            },
+            {
+              "type": "note",
+              "title": "Kodaikanal Solar Observatory",
+              "text": "The Kodaikanal Solar Observatory is located in the Palani hills of southern India. Established in 1899 and operated by the Indian Institute of Astrophysics (IIA), Bengaluru, it has provided over 100 years of solar data."
+            }
+          ]
+        },
+        {
+          "topic_name": "12.3.2 Lunar Eclipse",
+          "content": [
+            {
+              "type": "note",
+              "title": "Lunar Eclipse — Definition",
+              "text": "A lunar eclipse occurs when the Earth comes in between the Sun and the Moon, blocking sunlight from reaching the Moon. The Earth's shadow falls on the Moon."
+            },
+            {
+              "type": "table",
+              "headers": ["Type", "Description", "What is Seen"],
+              "rows": [
+                ["Total Lunar Eclipse", "The Moon moves completely into the Earth's shadow", "The Moon appears dark red (blood moon) — some sunlight bent by Earth's atmosphere reaches the Moon"],
+                ["Partial Lunar Eclipse", "Only part of the Moon moves into the Earth's shadow", "Part of the Moon's disc is dark and part is illuminated"]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Why the Moon Turns Dark Red During a Lunar Eclipse",
+              "text": "During a total lunar eclipse, the Moon does not become completely dark. Earth's atmosphere bends (refracts) some sunlight — especially red wavelengths — around Earth's curvature and onto the Moon. This gives the Moon a dark red or coppery appearance, often called a 'blood moon'."
+            },
+            {
+              "type": "note",
+              "title": "Safe Viewing — Lunar Eclipse vs Solar Eclipse",
+              "text": "Unlike a solar eclipse, a lunar eclipse is completely safe to watch with the naked eye. There is no danger in looking directly at the eclipsed Moon."
+            },
+            {
+              "type": "note",
+              "title": "Why Lunar Eclipse is Visible from a Larger Area than Total Solar Eclipse",
+              "text": "During a total solar eclipse, only the small area of Earth's surface covered by the Moon's shadow (umbra) experiences totality — this is a very small region. During a lunar eclipse, the entire night-side of the Earth can see the Moon in Earth's shadow, so it is visible from a much larger area of the Earth."
+            },
+            {
+              "type": "note",
+              "title": "Know a Scientist — M. K. Vainu Bappu",
+              "text": "M. K. Vainu Bappu is known as the father of modern Indian astronomy. He led efforts to set up telescopes and observatories in India, including telescopes at Manora Peak near Nainital (Uttarakhand) and at Kavalur (Tamil Nadu) — the latter has been named after him. He studied stars, discovered a comet, and also travelled to different parts of the world to observe solar eclipses."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Summary: Comparison of Key Concepts",
+      "topics": [
+        {
+          "topic_name": "Rotation vs Revolution",
+          "content": [
+            {
+              "type": "table",
+              "headers": ["Feature", "Rotation", "Revolution"],
+              "rows": [
+                ["Definition", "Spinning of the Earth on its own axis", "Motion of the Earth around the Sun"],
+                ["Axis/Path", "North Pole–South Pole axis", "Nearly circular orbit around the Sun"],
+                ["Direction", "West to East (anti-clockwise from North Pole)", "Anti-clockwise when viewed from above North Pole"],
+                ["Time taken", "~24 hours (1 day)", "~365 days 6 hours (1 year)"],
+                ["Causes", "Day and night; apparent motion of Sun, Moon, stars", "Changing night sky view; seasons (along with axial tilt)"]
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Solar Eclipse vs Lunar Eclipse",
+          "content": [
+            {
+              "type": "table",
+              "headers": ["Feature", "Solar Eclipse", "Lunar Eclipse"],
+              "rows": [
+                ["Arrangement", "Sun → Moon → Earth", "Sun → Earth → Moon"],
+                ["What is blocked?", "Moon blocks sunlight from reaching Earth", "Earth blocks sunlight from reaching Moon"],
+                ["When does it occur?", "New Moon (Amavasya)", "Full Moon (Purnima)"],
+                ["Visibility", "Visible from a small area on Earth (Moon's shadow is small)", "Visible from the entire night side of Earth"],
+                ["Duration of totality", "A few minutes at any location", "Can last over an hour"],
+                ["Safe to watch directly?", "NO — can permanently damage eyes", "YES — safe to watch with naked eye"],
+                ["Moon's appearance", "Moon covers the Sun", "Moon turns dark red (blood moon)"]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Rotation",
+      "definition": "The motion of an object in which all its parts move in circles around an imaginary line (axis of rotation) passing through it."
+    },
+    {
+      "term": "Axis of Rotation",
+      "definition": "The imaginary line around which an object rotates. For the Earth, this passes through the geographic North Pole and South Pole."
+    },
+    {
+      "term": "Revolution",
+      "definition": "The motion of an object around another object. The Earth revolves around the Sun."
+    },
+    {
+      "term": "Orbit",
+      "definition": "The path an object takes while revolving around another object. The Earth's orbit around the Sun is nearly circular."
+    },
+    {
+      "term": "Apparent Size",
+      "definition": "How large an object appears to an observer, which depends on both the object's actual size and its distance from the observer."
+    },
+    {
+      "term": "Solar Eclipse",
+      "definition": "An event in which the Moon comes between the Sun and the Earth, blocking sunlight from reaching part of the Earth."
+    },
+    {
+      "term": "Total Solar Eclipse",
+      "definition": "A solar eclipse in which the Moon completely blocks the Sun from view, casting a complete shadow (umbra) on a small area of Earth's surface."
+    },
+    {
+      "term": "Partial Solar Eclipse",
+      "definition": "A solar eclipse in which the Moon blocks only part of the Sun from view."
+    },
+    {
+      "term": "Lunar Eclipse",
+      "definition": "An event in which the Earth comes between the Sun and the Moon, causing the Earth's shadow to fall on the Moon."
+    },
+    {
+      "term": "Total Lunar Eclipse",
+      "definition": "A lunar eclipse in which the Moon moves completely into the Earth's shadow, appearing dark red in colour."
+    },
+    {
+      "term": "Partial Lunar Eclipse",
+      "definition": "A lunar eclipse in which only part of the Moon enters the Earth's shadow."
+    },
+    {
+      "term": "Summer Solstice",
+      "definition": "The day with the longest period of daylight in a hemisphere. Occurs around 21 June in the Northern Hemisphere."
+    },
+    {
+      "term": "Winter Solstice",
+      "definition": "The day with the shortest period of daylight in a hemisphere. Occurs around 22 December in the Northern Hemisphere."
+    },
+    {
+      "term": "Equinox",
+      "definition": "A day on which daylight and night-time are each approximately 12 hours long everywhere on Earth. Occurs around 21 March (spring equinox) and 23 September (autumn equinox) in the Northern Hemisphere."
+    },
+    {
+      "term": "Foucault Pendulum",
+      "definition": "A long pendulum used by scientist Léon Foucault to demonstrate the rotation of the Earth. The plane of its swing appears to rotate due to Earth's rotation beneath it."
+    },
+    {
+      "term": "Star Trails",
+      "definition": "Arcs traced by stars in long-exposure photographs, caused by the apparent motion of stars due to Earth's rotation."
+    },
+    {
+      "term": "Transit of Venus",
+      "definition": "A rare astronomical event in which Venus passes between the Sun and the Earth, appearing as a tiny black dot moving across the Sun's face."
+    },
+    {
+      "term": "Pole Star (Dhruva Tara)",
+      "definition": "A star that appears nearly stationary in the night sky because the Earth's axis of rotation points very close to it. All other stars appear to revolve around it."
+    }
+  ],
+  "summary_points": [
+    "The Earth rotates on its own axis (passing through the North and South Poles) from West to East in approximately 24 hours; this causes the day-night cycle and the apparent motion of the Sun, Moon, and stars.",
+    "When viewed from above the North Pole, the Earth rotates anti-clockwise; sunrise occurs first in the East and sunset in the West from the perspective of an observer on Earth.",
+    "The Pole Star appears nearly stationary because the Earth's axis points close to it; all other stars appear to revolve around it due to Earth's rotation.",
+    "The Earth revolves around the Sun in a nearly circular orbit, completing one revolution in approximately 365 days and 6 hours (1 year).",
+    "Seasons are caused by the tilt of the Earth's axis (not by Earth's distance from the Sun) combined with the spherical shape of Earth — the tilted hemisphere receives more intense sunlight for a longer duration.",
+    "Key dates in the Northern Hemisphere: Summer Solstice (~21 June, longest day), Winter Solstice (~22 December, shortest day), Spring Equinox (~21 March, 12-hour day), Autumn Equinox (~23 September, 12-hour day).",
+    "A solar eclipse occurs when the Moon comes between the Sun and Earth (arrangement: Sun → Moon → Earth); the Moon can cover the Sun because their apparent sizes are nearly equal.",
+    "A total solar eclipse is visible only from a small area for a few minutes; looking at the Sun directly during a solar eclipse is dangerous and can cause blindness.",
+    "A lunar eclipse occurs when the Earth comes between the Sun and the Moon (Sun → Earth → Moon); during a total lunar eclipse the Moon appears dark red; lunar eclipses are safe to watch with the naked eye."
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Matter In Our Surroundings",
+    "chapter_number": 1
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is matter? Give two characteristics that define it.",
+      "answer": "Matter is anything that has mass and occupies space (volume).",
+      "solution": "Matter is defined by two essential properties: (1) it has mass — it can be weighed, and (2) it occupies space — it has volume. Examples: air, water, iron, wood. Non-examples: love, hate, feelings — these have no mass and do not occupy space, so they are NOT matter."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "When sugar is dissolved in water, the water level does not rise noticeably. What does this tell us about the nature of matter?",
+      "answer": "It shows that particles of matter have spaces between them. Sugar particles fit into the spaces between water particles.",
+      "solution": "If matter were continuous (no gaps), adding sugar would raise the water level. The fact that it doesn't (or barely does) shows that the particles of sugar move into the empty spaces between water particles. This provides evidence that matter is made of particles with interparticle spaces."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "List the three characteristics of particles of matter.",
+      "answer": "(1) Particles have spaces between them. (2) Particles are in continuous random motion. (3) Particles attract each other.",
+      "solution": "(1) Interparticle spaces: sugar dissolves into water without raising the level significantly.\n(2) Continuous motion (kinetic energy): particles are never at rest; kinetic energy increases with temperature — shown by diffusion speeding up on heating.\n(3) Interparticle attraction: force of attraction holds particles together; maximum in solids, minimum in gases."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What is diffusion? Give one example from everyday life.",
+      "answer": "Diffusion is the spontaneous intermixing of particles of two different substances due to continuous particle motion.",
+      "solution": "Diffusion occurs because particles of matter are always moving and can move into the spaces between particles of another substance. Example: The smell of perfume spreads across a room because particles of perfume diffuse into the surrounding air. Other examples: a drop of ink spreading in water, potassium permanganate colouring a beaker of water."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "State three properties of solids.",
+      "answer": "Solids have (1) definite shape, (2) definite volume, and (3) negligible compressibility.",
+      "solution": "Solids:\n(1) Definite shape — they do not flow; each solid piece maintains its shape.\n(2) Definite volume — the volume does not change with the shape of container.\n(3) Negligible compressibility — particles are already closely packed, so applying pressure cannot compress them further.\nAdditional properties: rigid, high density, maximum intermolecular forces, particles only vibrate about fixed positions."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Why are gases highly compressible compared to solids and liquids?",
+      "answer": "Because gas particles are far apart with large interparticle spaces. Applying pressure brings them closer together.",
+      "solution": "In gases, interparticle spaces are very large (much larger than in solids or liquids) and intermolecular forces are negligible. When pressure is applied, the particles are pushed closer into these large empty spaces, so the gas compresses easily. In solids and liquids, particles are already closely packed with very little free space, so they are nearly incompressible."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What is evaporation? How is it different from boiling?",
+      "answer": "Evaporation: liquid converts to vapour at any temperature below its boiling point (surface phenomenon). Boiling: liquid converts to vapour at the boiling point (bulk phenomenon).",
+      "solution": "Evaporation: Only high-energy particles at the SURFACE escape into vapour. It occurs at ALL temperatures (even cold water evaporates). It is slow and continuous. Example: wet clothes drying.\nBoiling: ALL particles in the BULK of the liquid gain enough energy to vaporise. It occurs at one specific temperature (the boiling point). It is rapid. Example: water boiling at 100°C.\nKey distinction: surface phenomenon (evaporation) vs bulk phenomenon (boiling)."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What is sublimation? Give two examples.",
+      "answer": "Sublimation is the direct change of state from solid to gas without going through the liquid state. Examples: camphor, naphthalene balls (mothballs).",
+      "solution": "In sublimation, a solid directly converts to gas on heating, skipping the liquid phase entirely. Examples: (1) Camphor kept in the open slowly disappears — it sublimes to gas. (2) Naphthalene balls (mothballs) shrink and disappear in wardrobes. (3) Dry ice (solid CO₂) at 1 atmospheric pressure sublimates directly to CO₂ gas without melting."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Convert 300 K to Celsius. Convert 25°C to Kelvin.",
+      "answer": "300 K = 27°C. 25°C = 298 K.",
+      "solution": "Conversion formula: K = °C + 273 OR °C = K − 273.\n300 K → °C = 300 − 273 = 27°C.\n25°C → K = 25 + 273 = 298 K."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Name four factors that affect the rate of evaporation.",
+      "answer": "Surface area, temperature, humidity, and wind speed (air speed).",
+      "solution": "(1) Surface area: larger surface → more particles at surface → faster evaporation.\n(2) Temperature: higher temperature → more particles with enough kinetic energy to escape → faster evaporation.\n(3) Humidity: lower humidity → air can hold more water vapour → faster evaporation. (High humidity slows evaporation.)\n(4) Wind speed: higher wind speed → water vapour carried away quickly → faster evaporation."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "What is latent heat? Why is it called 'latent'?",
+      "answer": "Latent heat is the heat energy absorbed or released during a change of state at constant temperature. It is called 'latent' (meaning hidden) because it does not show up as a temperature rise.",
+      "solution": "During a change of state (e.g., ice melting at 0°C), heat is continuously supplied but the temperature does not rise. This heat is used to overcome the intermolecular forces of attraction between particles. Since it does not increase the temperature, it seems 'hidden' in the substance — hence the name 'latent heat' (from Latin 'latere' = to be hidden)."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "Why do liquids flow but solids do not?",
+      "answer": "In liquids, particles can slide over each other freely; in solids, particles only vibrate in fixed positions and cannot slide past each other.",
+      "solution": "In solids, strong intermolecular forces hold particles at fixed positions. Particles can only vibrate — they cannot change their relative positions. This makes solids rigid.\nIn liquids, intermolecular forces are weaker. Particles are not held in fixed positions and can slide past each other freely. This gives liquids the ability to flow and take the shape of their container — making them fluids."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Why does the smell of hot food reach you from farther away than the smell of cold food?",
+      "answer": "Higher temperature increases kinetic energy of particles, causing faster diffusion of aroma particles in air.",
+      "solution": "The smell reaches us through diffusion — aroma particles mix with air particles and travel through the room. At higher temperatures (hot food), particles have more kinetic energy and move faster, so diffusion is more rapid and the aroma spreads farther and faster. Cold food particles have less kinetic energy, move slowly, and diffuse weakly — so you need to be much closer to detect the smell."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "A wooden table is called a solid even though we can carve its surface. Justify with at least two properties.",
+      "answer": "Wood is a solid because it has definite shape, definite volume, rigidity, and negligible compressibility.",
+      "solution": "A wooden table is a solid because:\n(1) Definite shape: it maintains its shape on its own — it does not flow or spread.\n(2) Definite volume: its volume does not change regardless of where it is placed.\n(3) Rigidity: it resists change in shape — though carving applies great force and removes material, the remaining wood maintains its shape.\n(4) Negligible compressibility: it cannot be compressed by pushing it.\nCarving removes material but does not change the fundamental nature of the substance — the remaining wood is still rigid."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Arrange in increasing order of intermolecular force of attraction: oxygen gas, water, sugar.",
+      "answer": "Oxygen (gas) < Water (liquid) < Sugar (solid).",
+      "solution": "Intermolecular forces are weakest in gases, intermediate in liquids, and strongest in solids.\nOxygen is a gas at room temperature → weakest forces.\nWater is a liquid at room temperature → intermediate forces.\nSugar is a solid at room temperature → strongest forces.\nIncreasing order: oxygen < water < sugar."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Why is ice at 273 K more effective in cooling than water at 273 K?",
+      "answer": "Ice absorbs additional latent heat of fusion (334 J/g) from the surroundings while melting, in addition to absorbing heat by temperature rise. Water at 273 K only absorbs heat to raise its temperature.",
+      "solution": "Ice at 273 K (0°C) and water at 273 K are at the same temperature, so their cooling by temperature difference is the same. However, when ice melts, it absorbs a large amount of latent heat of fusion (approximately 334 J/g or 80 cal/g) from the surroundings to overcome intermolecular forces — without itself rising in temperature. This additional absorption of latent heat makes ice much more effective at cooling. Water at 273 K has no such additional energy absorption."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Steam causes more severe burns than boiling water at 100°C. Explain why.",
+      "answer": "Steam at 100°C contains extra latent heat of vaporisation that is released on condensing, causing more heat transfer to the skin.",
+      "solution": "Both steam and boiling water are at 100°C. When they contact skin:\n• Boiling water releases heat only as it cools from 100°C to body temperature.\n• Steam first condenses to water (releasing ~2260 J/g of latent heat of vaporisation), THEN the condensed water cools from 100°C.\nThe condensation step releases an enormous amount of extra heat (latent heat of vaporisation = 2260 J/g), making steam far more damaging to tissue than liquid water at the same temperature."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Why does the temperature remain constant during melting of ice, even though heat is being continuously supplied?",
+      "answer": "The supplied heat is used to overcome intermolecular forces of attraction (as latent heat of fusion), not to raise temperature.",
+      "solution": "At 0°C (273 K), ice begins melting. Even though we continue supplying heat: the heat energy is being completely absorbed by the particles of ice to break the bonds holding them in their fixed solid positions (overcoming intermolecular forces). Since all the energy goes into this structural change rather than increasing kinetic energy of particles, the temperature does not rise. This energy is the latent heat of fusion. Once all the ice has melted, further heating raises the water temperature."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "A gas exerts pressure on the walls of its container. Why? Why does a solid not exert such pressure?",
+      "answer": "Gas particles move randomly at high speed, constantly colliding with container walls — these collisions exert force per unit area (pressure). Solid particles only vibrate in fixed positions and don't collide with walls.",
+      "solution": "In gases: particles move at very high speeds in random directions in all directions. They collide with the walls of the container repeatedly. Each collision exerts a tiny force on the wall. The cumulative effect of millions of collisions per second per unit area gives the gas pressure. The faster the particles (higher temperature), the greater the pressure.\nIn solids: particles are fixed in their positions and only vibrate about those positions. They do not move freely to collide with container walls, so no pressure is exerted."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Naphthalene balls disappear with time without leaving any solid. Explain the process involved.",
+      "answer": "Naphthalene undergoes sublimation — it converts directly from solid to gas without passing through the liquid state.",
+      "solution": "Naphthalene is a substance that can sublime at room temperature. Its particles at the surface gain enough energy from the surroundings to escape directly into the gaseous phase, skipping the liquid phase entirely. Over time, all the solid naphthalene converts to gas and disperses into the air, leaving no solid or liquid residue behind. This is why mothballs left in a wardrobe gradually shrink and eventually disappear."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "Why does a desert cooler cool better on a hot dry day than on a humid day?",
+      "answer": "On a dry day, humidity is low — air can absorb more water vapour, so evaporation from the cooler's wet pads is faster, causing more cooling.",
+      "solution": "Desert coolers work by evaporation of water from wet pads. When air passes through these pads, water evaporates and absorbs latent heat from the air, cooling it.\nOn a hot, dry day: humidity is low → air is far from saturated with water vapour → evaporation rate is high → more heat is absorbed in evaporation → better cooling.\nOn a humid day: air is already saturated or nearly saturated with water vapour → it cannot absorb much more → evaporation rate is low → little cooling effect."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "Water is kept in an earthen pot (matka) in summer. How does it become cool?",
+      "answer": "The porous clay walls allow slow seepage and evaporation of water. Evaporation absorbs latent heat from the water inside, cooling it.",
+      "solution": "An earthen pot (matka) has a porous surface with tiny pores. Water seeps through these pores to the outer surface of the pot and evaporates into the air. During evaporation, the water molecules absorb the latent heat of vaporisation from the water stored inside the pot (and from the surroundings). This heat absorption lowers the temperature of the remaining water, keeping the contents cool. This works better in dry, windy conditions when evaporation is faster."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "Why can we sip hot tea faster from a saucer than from a cup?",
+      "answer": "A saucer has a larger surface area. Greater surface area → faster evaporation of water → faster cooling of the tea.",
+      "solution": "Evaporation is a surface phenomenon — it occurs only at the surface of the liquid. A saucer is wide and flat, giving the tea a much larger exposed surface area than a cup. With a larger surface area: more particles are at the surface, more can escape into vapour per second, evaporation rate is higher, and heat is absorbed faster → the tea cools more quickly. This is why spreading a liquid increases evaporation."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "Give two methods to liquefy atmospheric gases.",
+      "answer": "(1) Applying high pressure — brings particles closer. (2) Lowering temperature — reduces kinetic energy of particles so intermolecular forces dominate.",
+      "solution": "Atmospheric gases (like nitrogen, oxygen) can be liquefied by:\n(1) Increasing pressure: compressing the gas forces particles closer together until intermolecular attractions are strong enough to hold them in liquid state.\n(2) Decreasing temperature: reducing temperature slows particles down (less kinetic energy), making it easier for intermolecular forces to keep them together as liquid.\nIn practice, both methods are used together — gases are both compressed and cooled to liquefy them. Commercial examples: liquid nitrogen, liquid oxygen used in hospitals."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Why do particles in steam at 373 K have more energy than particles in water at 373 K, even though they are at the same temperature?",
+      "answer": "Steam has absorbed the extra latent heat of vaporisation (2260 J/g) during the liquid-to-gas conversion, which is stored as potential energy — not shown as temperature.",
+      "solution": "At 373 K, both water and steam are at the same temperature → same average kinetic energy of particles (kinetic energy depends on temperature). However:\n• Water (liquid) at 373 K: particles still hold together by intermolecular forces.\n• Steam at 373 K: particles have completely overcome all intermolecular forces of attraction. They absorbed an extra ~2260 J/g (latent heat of vaporisation) to do this.\nThis extra energy is stored as potential energy (in overcoming attractions), not as kinetic energy — so temperature remains the same but total energy is higher. This is why steam burns are more severe."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Acetone is poured on a palm. Using concepts of evaporation and latent heat, explain why the palm feels cold.",
+      "answer": "Acetone evaporates rapidly from the palm. To evaporate, it absorbs latent heat of vaporisation from the palm's skin, lowering the skin temperature and causing a cooling sensation.",
+      "solution": "Acetone is a volatile liquid — it has a low boiling point and evaporates rapidly at room temperature. When poured on the palm:\n(1) Acetone particles at the surface have sufficient kinetic energy to overcome intermolecular forces and escape into the vapour phase (evaporation).\n(2) The energy needed for evaporation (latent heat of vaporisation) is drawn from the palm (the surroundings) rather than from an external heat source.\n(3) The removal of thermal energy from the skin lowers its temperature, causing the sensation of cold.\nThe faster evaporation of acetone (compared to water) means it removes heat from the palm very rapidly — hence a more pronounced cooling effect."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "What is the physical state of water at (a) 250°C (b) 0°C (c) −10°C? Justify each answer.",
+      "answer": "(a) 250°C → gas (steam). (b) 0°C → solid and liquid coexist (melting point). (c) −10°C → solid (ice).",
+      "solution": "(a) 250°C = 523 K. Water boils at 100°C (373 K) at 1 atm. At 250°C, far above the boiling point, water exists as a gas (steam/water vapour). ✓\n(b) 0°C = 273 K. This is the melting point of ice. At exactly 0°C, both solid (ice) and liquid (water) coexist — the substance is in the process of changing state. If continuously at 0°C with no heat input/output, it is at equilibrium between solid and liquid states.\n(c) −10°C = 263 K. This is below the melting point (0°C). Water molecules do not have enough energy to be in liquid state. Water exists as solid (ice). ✓"
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "In a potassium permanganate dilution experiment, a few crystals colour approximately 1000 L of water. What does this tell you about the number of particles in the crystals and the size of those particles?",
+      "answer": "It tells us that each crystal contains an enormous number (millions, actually ~10²³) of particles, and each particle is incredibly tiny — far smaller than we can see with the naked eye.",
+      "solution": "The observation: a few small crystals of KMnO₄ can colour ~1000 L of water and still produce a visible colour. This means:\n(1) Enormous number of particles: even in a tiny crystal, there must be an astronomical number of particles — millions upon millions — so that even after distributing them through 1000 L, enough remain in any small volume to absorb light and appear coloured.\n(2) Incredibly small size: these particles are so small that even after massive dilution, individual particles are too small to settle out or be filtered — they remain evenly dispersed.\n(3) The colour persists through dilution, showing particles continue to sub-divide without losing their fundamental identity."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "How does pressure affect the state of matter? Explain with the example of solid CO₂ (dry ice).",
+      "answer": "Increasing pressure can change gas to liquid (or solid). Reducing pressure can cause a solid to sublime. Solid CO₂ at high pressure is stable; at 1 atm it directly sublimes to gas.",
+      "solution": "Pressure determines how closely packed particles are. At high pressure, particles are forced closer, increasing intermolecular forces. This can overcome kinetic energy and convert a gas to liquid or solid.\nSolid CO₂ (dry ice):\n• Stored under very high pressure where CO₂ particles are held closely together in solid state.\n• When the pressure is reduced to 1 atmosphere (normal atmospheric pressure), the particles suddenly have far more space.\n• At 1 atm, the liquid phase of CO₂ is unstable at normal temperatures, so the solid CO₂ converts DIRECTLY to gaseous CO₂ — this is sublimation.\n• No liquid is formed. This is why it is called 'dry' ice — it leaves no wet residue when it sublimes."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Compare the rate of diffusion in solids, liquids, and gases. Explain the reason for the trend based on interparticle space and kinetic energy.",
+      "answer": "Rate of diffusion: gases >> liquids >> solids. Gases have maximum interparticle space and kinetic energy; solids have minimum of both.",
+      "solution": "Diffusion rate depends on two factors: available interparticle space and kinetic energy of particles.\n\nGases: Very large interparticle spaces + very high kinetic energy (fast random motion) → particles mix almost instantly → fastest diffusion. Example: room fills with perfume smell in seconds.\n\nLiquids: Moderate interparticle spaces + moderate kinetic energy → particles can move around but less freely than gas → slower diffusion. Example: ink spreads in water over hours.\n\nSolids: Negligible interparticle spaces + minimum kinetic energy (particles only vibrate in fixed positions, cannot move freely) → almost no diffusion under normal conditions. Example: two metal blocks pressed together show negligible mixing even over years.\n\nConclusion: As interparticle space and kinetic energy increase (solid → liquid → gas), diffusion rate increases dramatically."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "A substance has a melting point of 800°C and is very hard. What does this suggest about its intermolecular forces? Contrast it with a substance that melts at −20°C.",
+      "answer": "Melting point 800°C → very strong intermolecular forces. Melting point −20°C → very weak intermolecular forces.",
+      "solution": "The melting point is a direct indicator of the strength of intermolecular forces:\n• Melting point 800°C: Very high energy (high temperature) is required to overcome the forces of attraction between particles. This means the intermolecular forces are extremely strong. The particles are held tightly in a rigid lattice. Hardness also indicates rigidity — a solid property. Example: this is like sodium chloride (salt) or metals.\n• Melting point −20°C: Required energy to break intermolecular forces is very low — forces are extremely weak. Particles are only loosely attracted to each other. These substances would likely be gases at room temperature or very low-melting solids/waxes. Example: this is like ice (0°C) which has moderate forces; −20°C melting point indicates even weaker forces."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "Why do we feel cold after swimming, even on a warm day? Explain using latent heat and evaporation.",
+      "answer": "Water on the skin evaporates. The latent heat of vaporisation is absorbed from the body's surface, reducing body temperature and causing a cold feeling.",
+      "solution": "After swimming, the body is covered in water. Even on a warm day:\n(1) Water particles at the surface of the skin have a distribution of kinetic energy. High-energy particles at the surface evaporate.\n(2) For evaporation to occur, particles need energy equal to the latent heat of vaporisation (~2260 J/g for water).\n(3) This energy is drawn from the skin (the nearest heat source) rather than from the air.\n(4) Removal of thermal energy from the skin reduces skin temperature, signalling 'cold' to the brain.\nThe effect is more pronounced in windy, dry conditions (low humidity, high wind speed), which accelerate evaporation. This is the same reason sprinters and swimmers feel very cold immediately after exiting water."
+    }
+  ]
+}

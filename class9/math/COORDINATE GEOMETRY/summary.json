@@ -1,0 +1,25 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Coordinate Geometry",
+    "chapter_number": 3
+  },
+  "summary": [
+    {
+      "category": "The Cartesian System and Coordinate Axes",
+      "points": [
+        "The Cartesian system uses two perpendicular coordinate axes—the horizontal X-axis and the vertical Y-axis—intersecting at the origin O(0, 0) to locate any point in a plane using an ordered pair of coordinates (x, y).",
+        "The coordinate axes divide the plane into four quadrants: Quadrant I (+, +), II (−, +), III (−, −), and IV (+, −), numbered anticlockwise from the positive x-axis.",
+        "The x-coordinate (abscissa) measures perpendicular distance from the Y-axis, and the y-coordinate (ordinate) measures perpendicular distance from the X-axis; points on axes have either x or y equal to zero."
+      ]
+    },
+    {
+      "category": "Unique Representation of Points",
+      "points": [
+        "Every point in the Cartesian plane is uniquely identified by its coordinates (x, y), where (x, y) ≠ (y, x) unless x = y, establishing a one-to-one correspondence between points and ordered pairs of real numbers.",
+        "The universal convention of this coordinate system, developed by René Déscartes, allows consistent and unambiguous description of point locations across mathematics, science, and real-world applications."
+      ]
+    }
+  ]
+}

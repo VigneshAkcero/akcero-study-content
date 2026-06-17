@@ -1,0 +1,31 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Area",
+    "chapter_number": 7
+  },
+  "summary": [
+    {
+      "category": "Core Concept: Measuring Area",
+      "points": [
+        "Area measures the space enclosed within a closed figure by counting unit squares. Unlike perimeter (boundary length), area and perimeter are independent properties — shapes can have the same perimeter but different areas.",
+        "Perimeter alone cannot measure area. For example, a rectangle with dimensions 10 cm × 1 cm has a larger perimeter (22 cm) but smaller area (10 cm²) than a 6 cm × 4 cm rectangle with perimeter 20 cm and area 24 cm²."
+      ]
+    },
+    {
+      "category": "Area Formulas for Standard Shapes",
+      "points": [
+        "Rectangle and Square: Area = length × width; for squares, Area = side². Triangle: Area = (1/2) × base × height (works for all triangle types). Parallelogram: Area = base × height. Rhombus: Area = (1/2) × d₁ × d₂ (diagonals). Trapezium: Area = (1/2) × height × (sum of parallel sides).",
+        "All area formulas depend on identifying a base and its perpendicular height. Shapes can be dissected (cut and rearranged) to derive formulas — for example, a parallelogram or trapezium can be rearranged into a rectangle of equal area."
+      ]
+    },
+    {
+      "category": "Key Properties and Applications",
+      "points": [
+        "A rectangle's diagonal divides it into two congruent triangles of equal area. A triangle's median (line from vertex to opposite side's midpoint) divides it into two equal-area triangles. Triangles sharing the same base and having vertices on parallel lines have equal areas.",
+        "Any polygon can be divided into triangles to find its total area. In real-life applications, areas are measured in square centimeters, square meters, square feet, acres, or local units. Unit conversions: 1 in² = 6.4516 cm²; 1 m² = 10,000 cm²; 1 km² = 1,000,000 m²."
+      ]
+    }
+  ]
+}

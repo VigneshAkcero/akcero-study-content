@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Linear Equations in Two Variables",
+    "chapter_number": 4
+  },
+  "summary": [
+    {
+      "category": "Definition and General Form",
+      "points": [
+        "A linear equation in two variables is any equation that can be written in the form ax + by + c = 0, where a, b, and c are real numbers and a and b are not both zero.",
+        "Linear equations in two variables are used to represent relationships between two unknown quantities and can be formed from real-world situations or word problems.",
+        "Any linear equation in two variables can be converted to the standard form ax + by + c = 0 by rearranging terms appropriately."
+      ]
+    },
+    {
+      "category": "Solutions and Their Properties",
+      "points": [
+        "A solution of a linear equation in two variables is an ordered pair (x, y) that satisfies the equation when the values are substituted into it.",
+        "Unlike linear equations in one variable which have a unique solution, linear equations in two variables have infinitely many solutions.",
+        "Solutions can be found by choosing any value for one variable and solving the resulting one-variable equation to find the corresponding value of the other variable. A quick method is to set x = 0 to find the y-value and y = 0 to find the x-value."
+      ]
+    },
+    {
+      "category": "Graphical Representation",
+      "points": [
+        "When all solutions of a linear equation in two variables are plotted on a Cartesian plane, they form a straight line.",
+        "Every point on the graph of a linear equation represents a solution of that equation, and conversely, every solution of the equation represents a point on its graph.",
+        "The graphical representation helps visualize the infinite solutions and the relationship between the two variables in a linear equation."
+      ]
+    }
+  ]
+}

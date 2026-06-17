@@ -1,0 +1,18 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Heron's Formula",
+    "chapter_number": 10
+  },
+  "summary": [
+    {
+      "category": "Heron's Formula for Triangle Area",
+      "points": [
+        "Heron's Formula calculates triangle area using only side lengths without requiring height: Area = √[s(s-a)(s-b)(s-c)], where s is semi-perimeter = (a+b+c)/2 and a, b, c are the three sides. This formula is invaluable when height is unknown or difficult to calculate, applicable to any triangle (scalene, isosceles, equilateral, right-angled).",
+        "Semi-perimeter s is half the perimeter: s = (a+b+c)/2. Once s is calculated, compute (s-a), (s-b), (s-c) individually, then multiply all four terms together and take the square root. For equilateral triangle: Area = √[s(s-a)³] = (√3/4)a². For isosceles triangle: Apply formula directly as a, b, c are all given.",
+        "Heron's formula applies universally to any triangle shape or size. Verification: For right-angled triangles, Heron's formula yields identical results to Area = (1/2)×base×height. The formula enables calculating both area and perimeter-related measurements (fencing, landscaping) for practical applications involving triangular regions."
+      ]
+    }
+  ]
+}

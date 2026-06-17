@@ -1,0 +1,230 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Real Numbers",
+    "chapter_number": 1
+  },
+  "flashcards": [
+    {
+      "q": "State Euclid's Division Algorithm.",
+      "a": "If a and b are positive integers with b ≠ 0, then there exist unique integers q and r such that a = bq + r, where 0 ≤ r < b."
+    },
+    {
+      "q": "What does each term represent in Euclid's Division Algorithm a = bq + r?",
+      "a": "a = dividend, b = divisor, q = quotient, r = remainder."
+    },
+    {
+      "q": "What is the condition on the remainder r in Euclid's Division Algorithm?",
+      "a": "0 ≤ r < b (the remainder must be non-negative and strictly less than the divisor)."
+    },
+    {
+      "q": "What does Euclid's Division Algorithm solve?",
+      "a": "It efficiently finds the HCF (Greatest Common Divisor/GCD) of two positive integers by repeatedly applying division until the remainder becomes zero."
+    },
+    {
+      "q": "How do you find HCF using Euclid's Algorithm?",
+      "a": "Repeatedly apply a = bq + r. Replace a with b and b with r. Continue until r = 0. The last non-zero remainder is the HCF."
+    },
+    {
+      "q": "State the Fundamental Theorem of Arithmetic.",
+      "a": "Every composite number can be expressed as a product of prime numbers in a unique way, except for the order of the prime factors."
+    },
+    {
+      "q": "What does 'unique prime factorisation' mean?",
+      "a": "Every composite number has exactly one way of being expressed as a product of primes (ignoring the order in which primes are written)."
+    },
+    {
+      "q": "Write the standard form of prime factorisation for a number n.",
+      "a": "n = p₁^a₁ × p₂^a₂ × ... × pₖ^aₖ, where p₁ < p₂ < ... < pₖ are primes and a₁, a₂, ..., aₖ are positive integers."
+    },
+    {
+      "q": "How do you find HCF using prime factorisation?",
+      "a": "HCF = product of the lowest powers of all common prime factors."
+    },
+    {
+      "q": "How do you find LCM using prime factorisation?",
+      "a": "LCM = product of the highest powers of all prime factors appearing in any of the numbers."
+    },
+    {
+      "q": "State the relationship between HCF and LCM of two numbers a and b.",
+      "a": "HCF(a,b) × LCM(a,b) = a × b."
+    },
+    {
+      "q": "What condition must a composite number satisfy to end with the digit 0?",
+      "a": "It must be divisible by 10, meaning it must have both 2 and 5 as prime factors."
+    },
+    {
+      "q": "Can 4ⁿ ever end with the digit 0? Why or why not?",
+      "a": "No, because 4ⁿ = 2²ⁿ contains only 2 as a prime factor. It lacks 5, so it can never be divisible by 10."
+    },
+    {
+      "q": "Can 6ⁿ ever end with the digit 0? Why or why not?",
+      "a": "No, because 6ⁿ = 2ⁿ × 3ⁿ has only 2 and 3 as prime factors. It lacks 5, so it can never be divisible by 10."
+    },
+    {
+      "q": "How many zeros does 20ⁿ end with?",
+      "a": "20ⁿ = (2² × 5)ⁿ = 2²ⁿ × 5ⁿ, so it contains n factors of 10. Therefore, 20ⁿ ends with exactly n zeros."
+    },
+    {
+      "q": "Define an irrational number.",
+      "a": "A real number that cannot be expressed as p/q where p and q are integers with q ≠ 0."
+    },
+    {
+      "q": "What is the decimal representation of an irrational number?",
+      "a": "Non-terminating and non-repeating. The decimal expansion never ends and no sequence of digits repeats infinitely."
+    },
+    {
+      "q": "Give three examples of irrational numbers.",
+      "a": "π, √2, √3 (or e, √5, √7, 0.101001001000..., etc.)."
+    },
+    {
+      "q": "State Theorem 1.2.",
+      "a": "Let p be a prime number. If p divides a² (where a is a positive integer), then p divides a."
+    },
+    {
+      "q": "What is the significance of Theorem 1.2?",
+      "a": "It is essential for proving the irrationality of numbers like √2, √3, √5, and generally √p for any prime p."
+    },
+    {
+      "q": "What proof technique is used to prove that √2 is irrational?",
+      "a": "Proof by contradiction: assume √2 is rational, which leads to a logical contradiction, so √2 must be irrational."
+    },
+    {
+      "q": "Outline the proof that √2 is irrational.",
+      "a": "Assume √2 = p/q (coprime). Then 2q² = p², so p is divisible by 2 (by Theorem 1.2). Let p = 2k. Then q² = 2k², so q is divisible by 2. Both p and q are divisible by 2, contradicting coprimality. Therefore, √2 is irrational."
+    },
+    {
+      "q": "Is √3 rational or irrational? Prove.",
+      "a": "Irrational. Assume √3 = p/q (coprime). Then 3q² = p², so p is divisible by 3. Let p = 3m. Then q² = 3m², so q is divisible by 3. Contradiction. Therefore, √3 is irrational."
+    },
+    {
+      "q": "For any prime p, is √p rational or irrational?",
+      "a": "Irrational. The proof follows the same pattern: assume √p = a/b (coprime), derive that both a and b are divisible by p, contradicting coprimality."
+    },
+    {
+      "q": "What is the result of adding a rational number and an irrational number?",
+      "a": "The sum is always irrational. If rational + irrational = rational, then irrational = rational - rational = rational, a contradiction."
+    },
+    {
+      "q": "What is the result of subtracting an irrational number from a rational number?",
+      "a": "The difference is always irrational, by the same reasoning as addition."
+    },
+    {
+      "q": "What is the result of multiplying a non-zero rational number by an irrational number?",
+      "a": "The product is always irrational. If rational × irrational = rational, then irrational = rational ÷ rational = rational, a contradiction."
+    },
+    {
+      "q": "What is the result of dividing an irrational number by a non-zero rational number?",
+      "a": "The quotient is always irrational, by similar reasoning to multiplication."
+    },
+    {
+      "q": "When does a rational number p/q have a terminating decimal expansion?",
+      "a": "When the denominator q (in lowest terms) has only 2 and/or 5 as prime factors."
+    },
+    {
+      "q": "When does a rational number p/q have a non-terminating repeating decimal expansion?",
+      "a": "When the denominator q (in lowest terms) has at least one prime factor other than 2 and 5 (like 3, 7, 11, etc.)."
+    },
+    {
+      "q": "How many decimal places does a terminating decimal have?",
+      "a": "The number of decimal places equals the maximum of the exponents of 2 and 5 in the denominator's prime factorisation: max(exponent of 2, exponent of 5)."
+    },
+    {
+      "q": "Does 3/8 have a terminating decimal? Justify.",
+      "a": "Yes. 8 = 2³, which has only 2 as a prime factor. Therefore, 3/8 has a terminating decimal: 0.375."
+    },
+    {
+      "q": "Does 1/6 have a terminating decimal? Justify.",
+      "a": "No. 6 = 2 × 3. Since 3 (a prime other than 2 or 5) divides the denominator, 1/6 has a non-terminating repeating decimal: 0.1666... = 0.1̄6̄."
+    },
+    {
+      "q": "Does 17/40 have a terminating decimal? How many decimal places?",
+      "a": "Yes. 40 = 2³ × 5¹, so 17/40 has a terminating decimal with max(3, 1) = 3 decimal places: 0.425."
+    },
+    {
+      "q": "Define HCF (Highest Common Factor).",
+      "a": "The largest positive integer that divides two or more numbers without leaving a remainder. Also called GCD (Greatest Common Divisor)."
+    },
+    {
+      "q": "Define LCM (Least Common Multiple).",
+      "a": "The smallest positive integer that is divisible by two or more given numbers."
+    },
+    {
+      "q": "What does it mean for two numbers to be coprime?",
+      "a": "Two positive integers are coprime if their HCF is 1, meaning they share no common prime factors."
+    },
+    {
+      "q": "Define a composite number.",
+      "a": "A positive integer greater than 1 that has at least one positive divisor other than 1 and itself. In other words, not a prime number."
+    },
+    {
+      "q": "Define a prime number.",
+      "a": "A natural number greater than 1 that has no positive divisors other than 1 and itself. Examples: 2, 3, 5, 7, 11, 13, ..."
+    },
+    {
+      "q": "Define a rational number.",
+      "a": "A real number that can be expressed as p/q where p and q are integers with q ≠ 0."
+    },
+    {
+      "q": "What is a terminating decimal?",
+      "a": "A decimal expansion that ends after a finite number of digits. Examples: 0.5, 0.375, 0.25."
+    },
+    {
+      "q": "What is a non-terminating repeating decimal?",
+      "a": "A decimal expansion that does not end but has a sequence of digits that repeats infinitely. Examples: 0.333... (= 1/3), 0.1666... (= 1/6)."
+    },
+    {
+      "q": "Define proof by contradiction.",
+      "a": "A proof technique where we assume the opposite of what we want to prove, show that this assumption leads to a logical contradiction, and conclude that our original statement must be true."
+    },
+    {
+      "q": "What is the set of real numbers denoted by?",
+      "a": "ℝ (or R). Real numbers include all rational and irrational numbers."
+    },
+    {
+      "q": "Is every integer a rational number?",
+      "a": "Yes. Any integer n can be written as n/1, which is in the form p/q. Therefore, integers are a subset of rational numbers."
+    },
+    {
+      "q": "Is every rational number a real number?",
+      "a": "Yes. Both rational and irrational numbers are subsets of real numbers."
+    },
+    {
+      "q": "Can a number be both rational and irrational?",
+      "a": "No. A number is either rational or irrational, but not both. These are mutually exclusive categories."
+    },
+    {
+      "q": "Does HCF always divide both numbers?",
+      "a": "Yes, by definition. The HCF is the highest common factor, so it divides both numbers without remainder."
+    },
+    {
+      "q": "Does every multiple of a number divide that number?",
+      "a": "No, the opposite is true. Every number divides its multiples. If n divides m, then m is a multiple of n."
+    },
+    {
+      "q": "If a = bq + r is Euclid's Division Algorithm and r = 0, what does this mean?",
+      "a": "It means b divides a exactly, or b is a factor of a. The HCF has been found: HCF(a, b) = b."
+    },
+    {
+      "q": "What is the smallest prime number?",
+      "a": "2. It is the only even prime number."
+    },
+    {
+      "q": "Is 1 a prime number?",
+      "a": "No. By definition, prime numbers are greater than 1. Also, 1 has only one divisor (itself), not two required for primes."
+    },
+    {
+      "q": "Is 1 a composite number?",
+      "a": "No. Composite numbers are greater than 1 and have factors other than 1 and themselves. 1 fits neither definition."
+    },
+    {
+      "q": "What is the relationship between the Fundamental Theorem of Arithmetic and divisibility?",
+      "a": "The FTA shows that divisibility is determined by prime factorisation: a divides b if every prime factor of a (with at least the same exponent) appears in b."
+    },
+    {
+      "q": "Can the Fundamental Theorem of Arithmetic be applied to prime numbers?",
+      "a": "Prime numbers are already in their prime factorised form (p = p¹). The theorem applies to composite numbers; primes are the building blocks."
+    }
+  ]
+}

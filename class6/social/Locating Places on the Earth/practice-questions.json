@@ -1,0 +1,220 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Social Science",
+    "chapter_name": "Locating Places on the Earth",
+    "chapter_number": 1
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What are the three essential components of a map?",
+      "answer": "Distance (Scale), Direction, and Symbols.",
+      "solution": "A map relies on scale to represent real-world distance, cardinal/intermediate points for direction, and conventional symbols to represent features like buildings or rivers."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What is the name of the 0° parallel of latitude?",
+      "answer": "The Equator.",
+      "solution": "The Equator is the largest circle of latitude that divides the Earth into the Northern and Southern Hemispheres."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Which instrument or model is the most accurate representation of the Earth's spherical shape?",
+      "answer": "A Globe.",
+      "solution": "Due to the Earth's spherical (geoid) shape, a flat map always contains distortions. A globe preserves the true proportions and shape of the planet."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Name the four cardinal directions and the four intermediate directions.",
+      "answer": "Cardinal: N, S, E, W; Intermediate: NE, SE, SW, NW.",
+      "solution": "Cardinal directions are the primary points (North, South, East, West). Intermediate directions provide more precision (Northeast, Southeast, Southwest, Northwest)."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What does a map's 'Scale' tell us?",
+      "answer": "The relationship between the distance on the map and the actual distance on the ground.",
+      "solution": "Scale allows us to fit large areas onto small paper. For example, a scale of 1 cm = 10 km means every cm on the map represents 10 km in reality."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Which imaginary line passes through Greenwich, England, and is marked as 0° longitude?",
+      "answer": "The Prime Meridian.",
+      "solution": "The Prime Meridian is the reference line for longitude, dividing the Earth into the Eastern and Western Hemispheres. It was fixed at Greenwich in 1884."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Define the 'Grid' in the context of geography.",
+      "answer": "The network of intersecting latitudes and longitudes on a globe or map.",
+      "solution": "The grid system allows us to locate any point on Earth by identifying where a specific latitude and longitude intersect."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What is the latitude of the North Pole and the South Pole?",
+      "answer": "North Pole: 90°N; South Pole: 90°S.",
+      "solution": "Latitudes increase from 0° at the Equator to 90° at the poles. The letter 'N' or 'S' specifies the hemisphere."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "What is the name of the latitude 23.5° N?",
+      "answer": "The Tropic of Cancer.",
+      "solution": "The Tropic of Cancer is a major parallel of latitude in the Northern Hemisphere, marking the northern boundary of the Torrid Zone."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Which line approximately follows the 180° longitude and marks the change of date?",
+      "answer": "The International Date Line.",
+      "solution": "Crossing the International Date Line by plane or ship requires a change in the date on your watch by one day."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "If a map uses a scale of 1 cm = 500 km, calculate the actual distance between two cities that are 4 cm apart on the map.",
+      "answer": "2,000 km.",
+      "solution": "Distance = Map Measurement × Scale. Therefore, 4 cm × 500 km/cm = 2,000 km."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Why is it impossible to represent a sphere perfectly on a flat sheet of paper?",
+      "answer": "Because a curved surface cannot be flattened without stretching or tearing the edges.",
+      "solution": "As demonstrated by peeling an orange, you cannot flatten the skin completely without gaps or overlaps. Flat maps always have distortions in size, shape, or distance."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Describe the three 'Heat Zones' of the Earth based on latitude.",
+      "answer": "Torrid (hot, near Equator), Temperate (moderate), and Frigid (very cold, near Poles).",
+      "solution": "The Torrid zone is between the Tropics. The Temperate zones are between the Tropics and the Arctic/Antartic circles. The Frigid zones are between the circles and the poles."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "How many minutes does it take for the Earth to rotate by 1 degree of longitude?",
+      "answer": "4 minutes.",
+      "solution": "Earth rotates 360° in 24 hours (1440 mins). Therefore, 1440 / 360 = 4 minutes per degree."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "What is the longitude of Indian Standard Time (IST), and why do we need it?",
+      "answer": "82.5° E; it provides a uniform time for the entire country to avoid local time confusion.",
+      "solution": "India has a wide longitudinal extent. Without IST, different parts of India would have vastly different local times, making schedules (like railways) very difficult to manage."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "What was the 'Madhya Rekha' in ancient Indian geography?",
+      "answer": "The prime meridian used by ancient Indian astronomers, passing through the city of Ujjayini (Ujjain).",
+      "solution": "Ujjayini was a major center for astronomy. Astronomers like Varahamihira used it as the 0° reference for their astronomical calculations 1,500 years ago."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Calculate the longitude of a place if its local time is 2:00 PM when it is 12:00 PM (noon) at Greenwich.",
+      "answer": "30° E.",
+      "solution": "Time difference = 2 hours = 120 mins. Longitude difference = 120 / 4 = 30°. Since the time is ahead of GMT, it is in the East."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Compare 'Parallels of Latitude' and 'Meridians of Longitude' in terms of their length.",
+      "answer": "Latitudes decrease in size toward the poles; all meridians of longitude are the same length (semi-circles).",
+      "solution": "The Equator is the longest latitude, and they get smaller as circles near the poles. Meridians are all equal semi-circles connecting the North and South poles."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Why does a place in Assam (Tinsukia) see the sunset much earlier than a place in Gujarat (Porbandar)?",
+      "answer": "Because Assam is much further East than Gujarat, and the Sun rises and sets earlier in the East.",
+      "solution": "Assam is located at a higher eastern longitude (~95°E) than Gujarat (~70°E). As the Earth rotates from West to East, Assam faces away from the Sun much sooner than Gujarat."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Distinguish between 'Physical Maps' and 'Political Maps'.",
+      "answer": "Physical maps show natural features (mountains, rivers); political maps show boundaries, countries, and cities.",
+      "solution": "Physical maps use colors to represent heights and water bodies. Political maps focus on administrative divisions like state borders and capital cities."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "What is 'Indian Standard Time' (IST) in relation to 'Greenwich Mean Time' (GMT)?",
+      "answer": "IST is 5 hours 30 minutes ahead of GMT.",
+      "solution": "India is located East of Greenwich. At 82.5° E, the time difference is 82.5 × 4 mins = 330 mins, which equals 5.5 hours."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "Why is the International Date Line not a straight line like other meridians?",
+      "answer": "To avoid dividing a single country or group of islands into two different dates.",
+      "solution": "The IDL zig-zags to ensure that communities living on the same island chains or within the same nation share the same calendar day."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "A traveller is flying from New York (74° W) to London (0°). If they leave at 10:00 AM New York time, what is the local time in London when they depart?",
+      "answer": "2:56 PM.",
+      "solution": "Longitude difference = 74°. Time difference = 74 × 4 = 296 mins = 4 hours 56 mins. Since London is East of NY, add the time: 10:00 AM + 4:56 = 2:56 PM."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Analyze the significance of the Ujjayini meridian in the history of science. Why was it 'standard' for Indian astronomers?",
+      "answer": "It shows that ancient Indian astronomers understood coordinates and timekeeping long before European standards, using Ujjain as a central observatory.",
+      "solution": "Indian mathematicians like Aryabhata used a central reference (Madhya Rekha) to standardize longitudinal calculations for planetary positions. Ujjayini was chosen because of its established reputation as a center for accurate astronomical observation."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Calculate the longitudinal difference between a city where it is 10:00 AM and another city where it is 4:00 PM on the same day.",
+      "answer": "90°.",
+      "solution": "Time difference = 6 hours = 360 minutes. Longitudinal difference = 360 / 4 = 90°."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Evaluate why the 'Torrid Zone' receives the most heat from the Sun throughout the year.",
+      "answer": "Because the Sun's rays fall vertically (directly overhead) in this region, concentrating more energy in a smaller area.",
+      "solution": "In the Torrid zone (between the Tropics), the Sun reaches its highest point (the zenith) at least twice a year. Vertical rays are more intense than the slanting rays that hit the Temperate and Frigid zones."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Explain the relationship between 'Earth's rotation' and 'Time Zones'. Why are most time zones 15° wide?",
+      "answer": "Rotation covers 360° in 24 hours (15°/hour). Creating zones 15° wide allows for a convenient one-hour shift between adjacent zones.",
+      "solution": "Universal timekeeping is easier when shifts occur in whole hours. Since 360 divided by 24 is 15, each 15-degree longitudinal strip represents a one-hour difference from the next."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "A ship crosses the International Date Line going from West to East on a Monday. What day will it be on the ship after crossing?",
+      "answer": "Sunday.",
+      "solution": "When crossing the IDL from West (Eastern Hemisphere) to East (Western Hemisphere), you 'gain' a day or 'repeat' a day. Thus, Monday becomes Sunday."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "A map of India (Scale 1:20,000,000) shows a distance of 15 cm between two points. Calculate the distance in kilometres.",
+      "answer": "3,000 km.",
+      "solution": "Scale 1:20M means 1 cm = 20,000,000 cm = 200,000 m = 200 km. Distance = 15 cm × 200 km/cm = 3,000 km."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Examine how knowing the coordinates of a place helps in modern disaster management (e.g., tracking a cyclone).",
+      "answer": "Coordinates provide a precise 'address' for the disaster's location, allowing teams to map its path and issue warnings to specific latitude/longitude grids.",
+      "solution": "Agencies like the IMD track cyclones by their latitude and longitude. For example, knowing a storm is at 15°N and 85°E allows them to calculate exactly when it will hit the coast and which districts need to be evacuated based on their own grid coordinates."
+    }
+  ]
+}

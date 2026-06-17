@@ -1,0 +1,25 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Perimeter and Area",
+    "chapter_number": 6
+  },
+  "flashcards": [
+    { "q": "What is the perimeter of a closed plane figure?", "a": "The distance covered along its boundary when you go around it once." },
+    { "q": "Formula for the perimeter of a rectangle?", "a": "$2 \\times (\\text{length} + \\text{breadth})$" },
+    { "q": "Formula for the perimeter of a square?", "a": "$4 \\times \\text{side}$" },
+    { "q": "General formula for the perimeter of a regular polygon?", "a": "$\\text{Number of sides} \\times \\text{Side length}$" },
+    { "q": "What is 'Area'?", "a": "The amount of surface region enclosed by a closed figure." },
+    { "q": "Formula for the area of a rectangle?", "a": "$\\text{Length} \\times \\text{Breadth}$" },
+    { "q": "Formula for the area of a square?", "a": "$\\text{Side} \\times \\text{Side}$" },
+    { "q": "On a grid, if a square is more than half-filled, what area value is assigned?", "a": "1 sq unit." },
+    { "q": "On a grid, if a square is exactly half-filled, what area value is assigned?", "a": "$\\frac{1}{2}$ sq unit." },
+    { "q": "Relationship between the area of a rectangle and a triangle formed by its diagonal?", "a": "Area of triangle is half the area of the rectangle." },
+    { "q": "True or False: Two figures with the same perimeter must have the same area.", "a": "False." },
+    { "q": "What constitutes a 'Regular Polygon'?", "a": "All sides are equal in length and all angles are equal in measure." },
+    { "q": "What is the perimeter of an equilateral triangle of side $s$?", "a": "$3s$" },
+    { "q": "What is the area of a $2\\times2$ square?", "a": "4 sq units." },
+    { "q": "Convention for measuring the boundary of irregular grid shapes?", "a": "Using straight ($s$) and diagonal ($d$) unit counts." }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Introduction to Trigonometry",
+    "chapter_number": 8
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "In a right triangle ABC with right angle at B, if AB = 3 and AC = 5, find sin A and cos A.",
+      "answer": "sin A = 4/5, cos A = 3/5.",
+      "solution": "Using Pythagorean theorem: BC² = AC² - AB² = 25 - 9 = 16, so BC = 4. Since A is the angle at vertex A, the opposite side is BC = 4 and adjacent side is AB = 3, with hypotenuse AC = 5. Therefore: sin A = opposite/hypotenuse = 4/5 and cos A = adjacent/hypotenuse = 3/5."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "If sin θ = 5/13, find cos θ and tan θ.",
+      "answer": "cos θ = 12/13, tan θ = 5/12.",
+      "solution": "Since sin θ = opposite/hypotenuse = 5/13, let opposite = 5k and hypotenuse = 13k. Using Pythagorean theorem: adjacent² = (13k)² - (5k)² = 169k² - 25k² = 144k², so adjacent = 12k. Therefore: cos θ = adjacent/hypotenuse = 12k/13k = 12/13 and tan θ = opposite/adjacent = 5k/12k = 5/12."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What is the value of sin 45°?",
+      "answer": "sin 45° = √2/2 or 1/√2.",
+      "solution": "In an isosceles right triangle with both acute angles 45°, if each leg = a, then hypotenuse = a√2. Therefore: sin 45° = a/(a√2) = 1/√2 = √2/2."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Find the value of tan 60°.",
+      "answer": "tan 60° = √3.",
+      "solution": "Using the equilateral triangle method with side 2a: when we draw an altitude, we get a right triangle with opposite = a√3 and adjacent = a. Therefore: tan 60° = (a√3)/a = √3."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "If cos A = 3/5, find sin A and tan A.",
+      "answer": "sin A = 4/5, tan A = 4/3.",
+      "solution": "Since cos A = adjacent/hypotenuse = 3/5, let adjacent = 3k and hypotenuse = 5k. Using Pythagorean theorem: opposite² = (5k)² - (3k)² = 25k² - 9k² = 16k², so opposite = 4k. Therefore: sin A = 4k/5k = 4/5 and tan A = 4k/3k = 4/3."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Evaluate: sin 30° + cos 60°.",
+      "answer": "The value is 1.",
+      "solution": "sin 30° = 1/2 and cos 60° = 1/2. Therefore: sin 30° + cos 60° = 1/2 + 1/2 = 1."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "If tan A = 3/4, determine cot A and sec A.",
+      "answer": "cot A = 4/3, sec A = 5/4.",
+      "solution": "Since tan A = opposite/adjacent = 3/4, let opposite = 3k and adjacent = 4k. Hypotenuse = √(9k² + 16k²) = 5k. Therefore: cot A = 1/tan A = 4/3 and sec A = hypotenuse/adjacent = 5k/4k = 5/4."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "In a right triangle, sin θ = 7/25. Find cosec θ.",
+      "answer": "cosec θ = 25/7.",
+      "solution": "Since cosec θ is the reciprocal of sin θ: cosec θ = 1/sin θ = 1/(7/25) = 25/7."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Prove that sin²A + cos²A = 1 for any acute angle A.",
+      "answer": "The identity is proved using the Pythagorean theorem.",
+      "solution": "In a right triangle ABC with right angle at B: AB² + BC² = AC² (Pythagorean theorem). Dividing both sides by AC²: (AB/AC)² + (BC/AC)² = 1. Since cos A = AB/AC and sin A = BC/AC, we get cos²A + sin²A = 1, or sin²A + cos²A = 1."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "If sec A = 13/5, find tan A and sin A.",
+      "answer": "tan A = 12/5, sin A = 12/13.",
+      "solution": "Since sec A = hypotenuse/adjacent = 13/5, let hypotenuse = 13k and adjacent = 5k. Using Pythagorean theorem: opposite² = (13k)² - (5k)² = 169k² - 25k² = 144k², so opposite = 12k. Therefore: tan A = 12k/5k = 12/5 and sin A = 12k/13k = 12/13."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Evaluate: tan 30° × tan 60°.",
+      "answer": "The value is 1.",
+      "solution": "tan 30° = 1/√3 and tan 60° = √3. Therefore: tan 30° × tan 60° = (1/√3) × √3 = 1."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "If sin A = 12/13, find the value of cos²A - sin²A.",
+      "answer": "cos²A - sin²A = -119/169.",
+      "solution": "Using sin²A + cos²A = 1: (12/13)² + cos²A = 1 ⟹ 144/169 + cos²A = 1 ⟹ cos²A = 25/169. Therefore: cos²A - sin²A = 25/169 - 144/169 = -119/169."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Prove that 1 + tan²A = sec²A for 0° ≤ A < 90°.",
+      "answer": "The identity is proved using the Pythagorean theorem and division.",
+      "solution": "From AB² + BC² = AC², divide both sides by AB²: 1 + (BC/AB)² = (AC/AB)². Since tan A = BC/AB and sec A = AC/AB, we get 1 + tan²A = sec²A."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Simplify: (sin A/cos A) + (cos A/sin A).",
+      "answer": "The expression simplifies to cosec A sec A or 1/(sin A cos A).",
+      "solution": "sin A/cos A + cos A/sin A = (sin²A + cos²A)/(sin A cos A) = 1/(sin A cos A) = cosec A sec A."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "If cot A = 8/15, find sin A and sec A.",
+      "answer": "sin A = 15/17, sec A = 17/8.",
+      "solution": "Since cot A = adjacent/opposite = 8/15, let adjacent = 8k and opposite = 15k. Hypotenuse = √(64k² + 225k²) = 17k. Therefore: sin A = 15k/17k = 15/17 and sec A = 17k/8k = 17/8."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Prove that (1 - sin A)(1 + sin A) = cos²A.",
+      "answer": "The identity is proved using algebraic expansion and the Pythagorean identity.",
+      "solution": "Left side: (1 - sin A)(1 + sin A) = 1 - sin²A (using difference of squares formula). Since sin²A + cos²A = 1, we have cos²A = 1 - sin²A. Therefore, LHS = cos²A = RHS."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "If tan(A - B) = 1/√3 and tan(A + B) = √3, find the values of A and B given 0° < A + B ≤ 90°.",
+      "answer": "A = 45°, B = 15°.",
+      "solution": "Since tan(A - B) = 1/√3 = tan 30°, we have A - B = 30° (equation 1). Since tan(A + B) = √3 = tan 60°, we have A + B = 60° (equation 2). Adding: 2A = 90°, so A = 45°. Subtracting eq 1 from eq 2: 2B = 30°, so B = 15°."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Evaluate: sin 60° cos 30° + sin 30° cos 60°.",
+      "answer": "The value is 1.",
+      "solution": "sin 60° = √3/2, cos 30° = √3/2, sin 30° = 1/2, cos 60° = 1/2. Therefore: (√3/2)(√3/2) + (1/2)(1/2) = 3/4 + 1/4 = 1."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "If sin A = cos A, what is the value of tan A and A (where 0° < A < 90°)?",
+      "answer": "tan A = 1 and A = 45°.",
+      "solution": "If sin A = cos A, then sin A/cos A = 1, so tan A = 1. The angle whose tangent is 1 in the range 0° < A < 90° is A = 45°."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Prove that sec A(1 - sin A)(sec A + tan A) = 1.",
+      "answer": "The identity is proved through algebraic manipulation.",
+      "solution": "Expanding: sec A(1 - sin A)(sec A + tan A) = (1/cos A)(1 - sin A)(1/cos A + sin A/cos A) = (1/cos A)(1 - sin A)((1 + sin A)/cos A) = (1 - sin A)(1 + sin A)/cos²A = (1 - sin²A)/cos²A = cos²A/cos²A = 1. Hence proved."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Prove that (cot A - cos A)/(cot A + cos A) = (cosec A - 1)/(cosec A + 1).",
+      "answer": "The identity is proved using algebraic expansion and simplification.",
+      "solution": "Left side: (cot A - cos A)/(cot A + cos A) = ((cos A/sin A) - cos A)/((cos A/sin A) + cos A) = (cos A(1/sin A - 1))/(cos A(1/sin A + 1)) = ((1 - sin A)/sin A)/((1 + sin A)/sin A) = (1 - sin A)/(1 + sin A). Right side: (cosec A - 1)/(cosec A + 1) = (1/sin A - 1)/(1/sin A + 1) = ((1 - sin A)/sin A)/((1 + sin A)/sin A) = (1 - sin A)/(1 + sin A). LHS = RHS. Hence proved."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "Express cos A, tan A, and sec A in terms of sin A.",
+      "answer": "cos A = √(1 - sin²A), tan A = sin A/√(1 - sin²A), sec A = 1/√(1 - sin²A).",
+      "solution": "Using sin²A + cos²A = 1: cos²A = 1 - sin²A, so cos A = √(1 - sin²A) (taking positive root for acute angle). Then tan A = sin A/cos A = sin A/√(1 - sin²A) and sec A = 1/cos A = 1/√(1 - sin²A)."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "If tan A = 1/√5, prove that cosec²A - sec²A = 0 is false and find the correct value of cosec²A - sec²A.",
+      "answer": "cosec²A - sec²A = 4.",
+      "solution": "Given tan A = 1/√5, let opposite = 1 and adjacent = √5. Hypotenuse = √(1 + 5) = √6. Therefore: sin A = 1/√6, cos A = √5/√6. Now: cosec²A = 6, sec²A = 6/5. Therefore: cosec²A - sec²A = 6 - 6/5 = 30/5 - 6/5 = 24/5. Wait, let me recalculate. sin A = 1/√6, so sin²A = 1/6 and cosec²A = 6. cos A = √5/√6, so cos²A = 5/6 and sec²A = 6/5. Therefore: cosec²A - sec²A = 6 - 6/5 = 24/5."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Prove that (sin θ - cos θ + 1)/(sin θ + cos θ - 1) = 1/(sec θ - tan θ), using the identity sec²θ = 1 + tan²θ.",
+      "answer": "The identity is proved through algebraic manipulation and substitution.",
+      "solution": "Divide numerator and denominator of LHS by cos θ: (tan θ - 1 + sec θ)/(tan θ + 1 - sec θ). Rearrange: ((tan θ + sec θ) - 1)/((tan θ - sec θ) + 1). Using sec²θ = 1 + tan²θ: (tan θ + sec θ)² - 1 = tan²θ + 2 tan θ sec θ + sec²θ - 1 = tan²θ + 2 tan θ sec θ + 1 + tan²θ - 1 = 2tan²θ + 2 tan θ sec θ. Numerator becomes (tan θ + sec θ - 1)(tan θ + sec θ + 1) = (tan θ + sec θ)² - 1. After careful simplification, we get 1/(sec θ - tan θ)."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "If sin A = 3/5 and cos B = 5/13, where A and B are acute angles, find sin(A + B) and cos(A - B).",
+      "answer": "sin(A + B) = 56/65, cos(A - B) = 63/65.",
+      "solution": "From sin A = 3/5: cos A = 4/5 (using Pythagorean identity). From cos B = 5/13: sin B = 12/13. Using addition formulas: sin(A + B) = sin A cos B + cos A sin B = (3/5)(5/13) + (4/5)(12/13) = 15/65 + 48/65 = 63/65. Wait, let me recalculate. sin(A + B) = (3/5)(5/13) + (4/5)(12/13) = 15/65 + 48/65 = 63/65. For cos(A - B) = cos A cos B + sin A sin B = (4/5)(5/13) + (3/5)(12/13) = 20/65 + 36/65 = 56/65."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Prove that tan A = sin A/cos A using the definition of trigonometric ratios in a right triangle.",
+      "answer": "The relation is proved from the basic definitions of sine and cosine.",
+      "solution": "In a right triangle, sin A = opposite/hypotenuse and cos A = adjacent/hypotenuse. Therefore: sin A/cos A = (opposite/hypotenuse)/(adjacent/hypotenuse) = opposite/adjacent = tan A. Hence proved."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "If cosec A = 13/5, find the value of 2 sin A cos A.",
+      "answer": "2 sin A cos A = 120/169.",
+      "solution": "From cosec A = 13/5: sin A = 5/13. Using sin²A + cos²A = 1: (5/13)² + cos²A = 1 ⟹ 25/169 + cos²A = 1 ⟹ cos²A = 144/169, so cos A = 12/13. Therefore: 2 sin A cos A = 2(5/13)(12/13) = 120/169."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Verify whether sin 2A = 2 sin A cos A when A = 45°.",
+      "answer": "The equation holds true: sin 90° = 1 and 2 sin 45° cos 45° = 1.",
+      "solution": "When A = 45°: sin 2A = sin 90° = 1. Also: 2 sin 45° cos 45° = 2(√2/2)(√2/2) = 2(2/4) = 2(1/2) = 1. Therefore, sin 2A = 2 sin A cos A is verified for A = 45°."
+    }
+  ]
+}

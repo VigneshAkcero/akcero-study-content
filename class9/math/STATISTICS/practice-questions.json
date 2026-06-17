@@ -1,0 +1,220 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Statistics",
+    "chapter_number": 12
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "State whether the following data is discrete or continuous, and justify your answer: (i) Number of books in a library (ii) Heights of students in a class (iii) Number of cars parked in a parking lot (iv) Temperature throughout the day",
+      "answer": "(i) Discrete, (ii) Continuous, (iii) Discrete, (iv) Continuous",
+      "solution": "(i) Number of books is discrete because you cannot have a fractional book; it is countable. (ii) Heights are continuous because they can take any value within a range (160.5 cm, 160.75 cm, 160.123 cm, etc.). (iii) Number of cars is discrete; cars are countable units. (iv) Temperature is continuous because it varies smoothly and can take any value within a range (25.5°C, 25.75°C, etc.)."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What type of graphical representation (bar graph, histogram, or frequency polygon) would you use to represent the following data? Justify your choice: (i) Marks obtained by students in a test (ii) Number of vehicles of different types in a city (iii) Age distribution of people in a survey",
+      "answer": "(i) Histogram or Frequency Polygon, (ii) Bar Graph, (iii) Histogram or Frequency Polygon",
+      "solution": "(i) Marks are continuous data grouped into intervals, so a histogram or frequency polygon is appropriate. (ii) Number of vehicles by type (car, bike, bus, etc.) is categorical discrete data, so a bar graph is best. (iii) Age is continuous data typically grouped into intervals (0-10, 10-20, etc.), so a histogram or frequency polygon is suitable."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Calculate the class-mark (class midpoint) for each of the following class intervals: (i) 10-20 (ii) 25-35 (iii) 40.5-45.5 (iv) 100-150",
+      "answer": "(i) 15, (ii) 30, (iii) 43, (iv) 125",
+      "solution": "Class-mark = (Upper Limit + Lower Limit) / 2. (i) (10 + 20)/2 = 15. (ii) (25 + 35)/2 = 30. (iii) (40.5 + 45.5)/2 = 43. (iv) (100 + 150)/2 = 125."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Determine the class width for each interval: (i) 0-10 (ii) 15-25 (iii) 30.5-35.5 (iv) 100-150",
+      "answer": "(i) 10, (ii) 10, (iii) 5, (iv) 50",
+      "solution": "Class width = Upper Limit - Lower Limit. (i) 10 - 0 = 10. (ii) 25 - 15 = 10. (iii) 35.5 - 30.5 = 5. (iv) 150 - 100 = 50."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "In a bar graph representing expenditure on different items, if the scale is 1 cm = ₹5,000 and the bar for 'Rent' has height 2.5 cm, what is the actual expenditure on rent?",
+      "answer": "₹12,500",
+      "solution": "Height of bar = 2.5 cm. Scale = 1 cm = ₹5,000. Actual expenditure = 2.5 × 5,000 = ₹12,500."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "A histogram has intervals: 0-10, 10-20, 20-30, 30-40 with frequencies 5, 10, 8, 7 respectively. What is the total frequency?",
+      "answer": "30",
+      "solution": "Total frequency = 5 + 10 + 8 + 7 = 30."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "Why is a bar graph unsuitable for representing the following data, and what graphical representation would you use instead? Weight distribution of students: 40-45 kg (5 students), 45-50 kg (12 students), 50-55 kg (8 students), 55-60 kg (3 students).",
+      "answer": "A histogram or frequency polygon would be used instead",
+      "solution": "A bar graph is unsuitable because the data represents continuous class intervals (grouped frequency distribution), not discrete categories. The weights are continuous data, and the intervals form a sequence with no gaps. A histogram is more appropriate because: (i) rectangles represent continuous intervals with no gaps, (ii) the area of each rectangle is proportional to frequency. Alternatively, a frequency polygon could be used by joining the class-marks at their frequencies."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "For a histogram representing test scores with uniform class width of 10, the frequencies are: 0-10 (2), 10-20 (5), 20-30 (8), 30-40 (10), 40-50 (5). If a scale of 1 cm = 2 students is used on the y-axis, what would be the height of the bar for the 30-40 interval?",
+      "answer": "5 cm",
+      "solution": "Frequency for 30-40 interval = 10. Scale on y-axis = 1 cm = 2 students. Height of bar = 10 / 2 = 5 cm."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "A histogram has varying class widths: 0-10 (frequency 5), 10-20 (frequency 15), 20-40 (frequency 20), 40-60 (frequency 10). Calculate the frequency density for each interval and explain why this is necessary.",
+      "answer": "0-10: 0.5, 10-20: 1.5, 20-40: 1, 40-60: 0.5",
+      "solution": "Frequency density = Frequency / Class width. (i) 5 / 10 = 0.5. (ii) 15 / 10 = 1.5. (iii) 20 / 20 = 1. (iv) 10 / 20 = 0.5. This is necessary because with varying class widths, simply plotting frequencies would give a misleading picture. For example, the 20-40 interval would appear to have much higher frequency than 40-60 based on height alone, even though frequency density shows a more accurate comparison. The area (width × height) of rectangles must be proportional to frequency, so when widths differ, heights must be adjusted by frequency density."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "In a frequency polygon for test marks, the class intervals are 0-10, 10-20, 20-30, 30-40, 40-50 with frequencies 3, 7, 12, 5, 3. What additional points should be plotted at the start and end to properly close the polygon, and why?",
+      "answer": "Points (-10, 0) or start with class-mark -5 at frequency 0, and (60, 0) or end with class-mark 55 at frequency 0",
+      "solution": "Class-marks for given intervals are: 5, 15, 25, 35, 45. To close the polygon, hypothetical classes with zero frequency are added: before the first class (class -10 to 0 with class-mark -5 and frequency 0) and after the last class (class 50-60 with class-mark 55 and frequency 0). Points to plot: (-5, 0), (5, 3), (15, 7), (25, 12), (35, 5), (45, 3), (55, 0). This ensures: (i) the polygon forms a closed figure; (ii) the area under the polygon equals the area under the corresponding histogram; (iii) the distribution is properly visualized from start to end."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Two frequency distributions for test scores are given. For which distribution would you use multiple frequency polygons to compare them? Why is this better than comparing their histograms?",
+      "answer": "Multiple frequency polygons are better for comparison",
+      "solution": "When comparing two or more frequency distributions of the same nature (e.g., test scores from two different classes), plotting multiple frequency polygons on the same graph is advantageous because: (i) multiple line graphs can be easily overlaid and distinguished (possibly using different colors or line styles); (ii) histograms with multiple datasets would have overlapping bars making comparison difficult; (iii) polygons clearly show the shape of each distribution, peaks, and variations; (iv) it's easy to identify which distribution has higher or lower frequencies at different class intervals by comparing the positions of the polygons. For example, if Class A's polygon is consistently above Class B's polygon in certain score ranges, it's immediately clear that Class A performed better in those ranges."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "A histogram shows ages of employees with intervals 20-30, 30-40, 40-50, 50-60, with frequencies 10, 25, 12, 8. If the x-axis scale is 1 cm = 5 years and y-axis scale is 1 cm = 5 employees, calculate the dimensions of the bar for the 30-40 age group.",
+      "answer": "Width = 2 cm, Height = 5 cm",
+      "solution": "For the 30-40 interval: Class width = 40 - 30 = 10 years. Frequency = 25. X-axis width: 10 years ÷ 5 years per cm = 2 cm. Y-axis height: 25 ÷ 5 employees per cm = 5 cm. The bar has dimensions 2 cm (width) × 5 cm (height)."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Explain why a kink or break symbol is used in a histogram when the first class interval does not start at zero (e.g., 30.5-35.5 instead of 0-30.5). What would happen if this symbol were omitted?",
+      "answer": "The kink symbol indicates omitted axis values, preventing misinterpretation",
+      "solution": "A kink or break symbol (~) is drawn on the axis to show that values between 0 and the first interval (in this case, 0-30.5) are omitted from the graph. Without this symbol: (i) readers might assume data exists for the omitted range when it doesn't; (ii) the visual spacing on the axis becomes misleading; (iii) it could lead to incorrect interpretations or analysis. With the symbol, it's immediately clear that the axis has a discontinuity and that the actual data begins at 30.5, not at 0. This is especially important when the omitted range represents an unrealistic or impossible value range (e.g., negative heights, weights below biological minimums)."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Construct a frequency table for the given data and determine appropriate class intervals: Weights (in kg) of 10 people: 55, 58, 62, 65, 68, 70, 72, 75, 78, 82. Use class width 5 starting from 55.",
+      "answer": "55-60: 2, 60-65: 2, 65-70: 3, 70-75: 2, 75-80: 1, 80-85: 1",
+      "solution": "Using class width 5 starting from 55: 55-60 includes 55, 58 (frequency 2); 60-65 includes 62, 65 (frequency 2); 65-70 includes 68, 70 (frequency 3); 70-75 includes 72, 75 (frequency 2); 75-80 includes 78 (frequency 1); 80-85 includes 82 (frequency 1). Total frequency = 2 + 2 + 3 + 2 + 1 + 1 = 11 (Note: There's an implicit 11th person or adjustment needed; if exactly 10, adjust the last interval to 80-82 or use 10 data points: remove one value for exactly 10). Class width of 5 is appropriate for this data range (55-82)."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Given a bar graph showing monthly sales (in ₹ thousands) for 6 months with the following heights: 8 cm, 10 cm, 7 cm, 12 cm, 9 cm, 11 cm. If the scale is 1 cm = ₹10,000, calculate the actual sales for each month.",
+      "answer": "₹80,000, ₹100,000, ₹70,000, ₹120,000, ₹90,000, ₹110,000",
+      "solution": "Scale = 1 cm = ₹10,000. For each bar: (i) 8 cm × ₹10,000 = ₹80,000. (ii) 10 cm × ₹10,000 = ₹100,000. (iii) 7 cm × ₹10,000 = ₹70,000. (iv) 12 cm × ₹10,000 = ₹120,000. (v) 9 cm × ₹10,000 = ₹90,000. (vi) 11 cm × ₹10,000 = ₹110,000."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Hard",
+      "question": "A dataset has class intervals with varying widths: 0-5 (freq 8), 5-15 (freq 20), 15-25 (freq 18), 25-40 (freq 12), 40-60 (freq 6). Calculate frequency density for each interval and explain how you would construct a histogram using these densities.",
+      "answer": "0-5: 1.6, 5-15: 2, 15-25: 1.8, 25-40: 0.8, 40-60: 0.3",
+      "solution": "Frequency density = Frequency / Class width. (i) 8 / 5 = 1.6. (ii) 20 / 10 = 2. (iii) 18 / 10 = 1.8. (iv) 12 / 15 = 0.8. (v) 6 / 20 = 0.3. To construct the histogram: (i) On the x-axis, mark class intervals with their actual widths (5 units, 10 units, 10 units, 15 units, 20 units). (ii) On the y-axis, use a scale for frequency density (e.g., 1 cm = 0.5 units). (iii) For each interval, draw a rectangle with height equal to its frequency density. The width of each rectangle matches its class width. (iv) This ensures that the area of each rectangle (width × height = class width × frequency density) equals the original frequency, providing a correct visual representation despite varying class widths."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Hard",
+      "question": "Given data on test scores: 15, 22, 18, 25, 30, 28, 35, 32, 40, 38, 42, 45, 48, 50, 52. Construct a frequency table using class intervals of width 10 starting from 10, then explain which graphical representation (bar graph, histogram, or frequency polygon) would be most appropriate and why.",
+      "answer": "10-20: 3, 20-30: 4, 30-40: 4, 40-50: 3, 50-60: 1; Histogram or Frequency Polygon is appropriate",
+      "solution": "Frequency table: 10-20 (15, 18, 22 = 3), 20-30 (25, 28, 30 = 3; note: 30 is on boundary, typically 20-30), 30-40 (32, 35, 38 = 3; 40 on boundary), 40-50 (40, 42, 45, 48 = 4), 50-60 (50, 52 = 2). [Alternative: depends on whether boundaries are inclusive on left or right]. Histogram or Frequency Polygon is most appropriate because: (i) Test scores are continuous data; (ii) Data is grouped into class intervals; (iii) Histogram shows the distribution shape clearly with no gaps between bars; (iv) Frequency polygon would be especially useful if comparing this distribution with another class's scores. Bar graphs are unsuitable for continuous grouped data, as they imply discrete categories rather than a continuous range."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "Two groups' test scores are represented by frequency polygons on the same graph. Group A's polygon shows a peak at 35 marks (frequency 20), while Group B's polygon shows a peak at 40 marks (frequency 18). What can you infer about the performance of both groups? How would a histogram make this comparison difficult?",
+      "answer": "Group A performed lower on average; Histogram comparison would be cluttered",
+      "solution": "Observations: (i) Group A's peak at 35 suggests most students scored around 35, indicating lower average performance. (ii) Group B's peak at 40 suggests their students scored around 40, indicating higher average performance. (iii) Group A has slightly higher frequency at peak (20 vs 18), but Group B's higher score range is more significant. Multiple frequency polygons allow easy visual comparison, clearly showing differences in distribution shapes and central tendencies. Histograms would be difficult to compare because: (i) Overlapping bars would be visually cluttered and confusing. (ii) It's harder to distinguish which bar belongs to which group. (iii) Line graphs (polygons) overlay much more cleanly than bars. (iv) The shape and trend of each distribution becomes immediately visible with polygons but obscured with overlapping histograms."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "In constructing a histogram for height distribution (in cm) with class intervals 140-150, 150-160, 160-170, 170-180, 180-190, all with uniform width 10, the frequencies are 8, 15, 22, 12, 3. Using a scale of 1 cm = 10 cm on x-axis and 1 cm = 5 students on y-axis, calculate the dimensions of each bar and identify which class has the maximum frequency.",
+      "answer": "Heights: 1 cm each, Heights (y): 1.6, 3, 4.4, 2.4, 0.6 cm; 160-170 has maximum frequency",
+      "solution": "Class width = 10 cm (uniform). X-axis scale: 1 cm on graph = 10 cm actual. Each class width translates to 1 cm on graph. Y-axis scale: 1 cm on graph = 5 students. Bar heights: (i) 140-150: 8/5 = 1.6 cm. (ii) 150-160: 15/5 = 3 cm. (iii) 160-170: 22/5 = 4.4 cm. (iv) 170-180: 12/5 = 2.4 cm. (v) 180-190: 3/5 = 0.6 cm. The class 160-170 has the maximum frequency (22 students), corresponding to the tallest bar (4.4 cm). This makes sense as 160-170 cm is the typical height range for a student population."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Explain the concept of 'area representation' in histograms, particularly with respect to varying class widths. Give an example showing why simply using frequency as bar height would be misleading.",
+      "answer": "Area (width × height) represents frequency, not height alone. This is crucial with varying widths.",
+      "solution": "In histograms, the AREA of each rectangle is proportional to frequency, not just the height. This principle becomes critical with varying class widths. Example: Consider two intervals: (i) 0-10 with frequency 10; (ii) 10-40 with frequency 15. If we simply use frequency as height: Bar 1 has height 10, Bar 2 has height 15. Visually, it appears Bar 2 has 50% more frequency (15 vs 10). However, the correct representation using frequency density: Bar 1: height = 10/10 = 1, area = 10 × 1 = 10. Bar 2: height = 15/30 = 0.5, area = 30 × 0.5 = 15. Now the heights are 1 and 0.5, showing Bar 2 actually has LOWER density despite higher total frequency. This shows that: (i) Bar 2's frequency is spread over 3 times the width. (ii) Bar 2 has lower concentration of data (density). (iii) Simply using frequency as height would be misleading—it would exaggerate the importance of the 10-40 interval."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "A frequency polygon is to be constructed for marks distribution: 0-10 (2), 10-20 (7), 20-30 (15), 30-40 (10), 40-50 (4), 50-60 (2). Identify all points that must be plotted, including boundary points, and explain why boundary points are included.",
+      "answer": "Points: (-5,0), (5,2), (15,7), (25,15), (35,10), (45,4), (55,2), (65,0)",
+      "solution": "Class-marks: 5, 15, 25, 35, 45, 55. Given points: (5,2), (15,7), (25,15), (35,10), (45,4), (55,2). To close the polygon, hypothetical zero-frequency classes are added: Before first class (class -10 to 0, class-mark -5, frequency 0). After last class (class 60 to 70, class-mark 65, frequency 0). All points: (-5,0), (5,2), (15,7), (25,15), (35,10), (45,4), (55,2), (65,0). Boundary points (-5,0) and (65,0) are included because: (i) They create a closed polygon, which is the correct mathematical representation. (ii) The polygon's area equals the histogram's area (can be verified using geometry/congruent triangles). (iii) It correctly shows the distribution extending from the beginning to the end of the data range. (iv) It prevents the appearance of an abrupt start or end, instead showing a smooth tapering to zero at both extremes."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "Compare and contrast bar graphs and histograms. In a table, list their key differences with respect to: (i) Type of data, (ii) Gap between bars, (iii) Width of bars, (iv) Use of scale, (v) Primary application.",
+      "answer": "See detailed comparison below",
+      "solution": "Detailed Comparison:\n(i) Type of Data: Bar graphs—categorical/discrete data. Histograms—continuous data in class intervals.\n(ii) Gap between bars: Bar graphs—equal gaps between bars (indicating distinct categories). Histograms—no gaps between bars (indicating continuous nature).\n(iii) Width of bars: Bar graphs—all bars have uniform width (width is not meaningful, just for clarity). Histograms—bar widths equal class widths; varying widths are possible and significant.\n(iv) Use of scale: Bar graphs—scale on y-axis only; x-axis shows categories. Histograms—meaningful scales on both axes; x-axis represents actual data range values.\n(v) Primary application: Bar graphs—comparing values across different categories (e.g., sales by product type). Histograms—showing frequency distribution of continuous data (e.g., height or weight distribution). Both provide visual representations but serve different data types and purposes."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "A dataset contains 200 observations with varying class widths. The intervals are: 0-5 (20), 5-10 (35), 10-20 (60), 20-30 (50), 30-50 (25), 50-100 (10). Calculate frequency density for each and draw a frequency histogram sketch showing approximate bar heights if minimum class width is 5.",
+      "answer": "Frequency densities: 4, 7, 6, 5, 1.25, 0.5",
+      "solution": "Frequency density = Frequency / Class width. (i) 0-5: 20/5 = 4. (ii) 5-10: 35/5 = 7. (iii) 10-20: 60/10 = 6. (iv) 20-30: 50/10 = 5. (v) 30-50: 25/20 = 1.25. (vi) 50-100: 10/50 = 0.2. To draw histogram with minimum class width as 5: Heights are proportional to frequency density: 4, 7, 6, 5, 1.25, 0.2. Rectangle widths represent actual class widths: 5, 5, 10, 10, 20, 50 units respectively. Key observations: (i) The 5-10 interval has the highest density (7), even though 10-20 has higher total frequency (60 vs 35). (ii) The 50-100 interval has very low density (0.2), showing sparse data in that range. (iii) A frequency polygon through these points would show a peak around 5-10 and gradual decline thereafter, accurately representing the distribution despite varying class widths."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "For a bar graph representing daily temperatures across a week, is this discrete or continuous data? If a frequency polygon were used instead, what would it represent, and why might this be less appropriate?",
+      "answer": "Temperature is continuous; frequency polygon would be inappropriate without grouping",
+      "solution": "Data analysis: (i) Temperature is continuous data, varying smoothly throughout the day and across days. (ii) A bar graph here is appropriate because we have 7 discrete categories (days of the week), not a frequency distribution. (iii) A frequency polygon is designed for frequency distributions (showing how many observations fall in each interval) and grouped continuous data. Using a frequency polygon directly would: (a) Not make sense because we have one temperature value per day, not grouped frequencies. (b) Create a line graph of daily temperatures rather than a distribution graph. (c) Obscure the categorical nature of the x-axis (days). (d) Be confusing because frequency polygons assume class intervals with meaningful frequencies. Correct approach: Use a bar graph to show temperature by day. If instead we had 100 temperature readings across a week grouped into 0-5°C, 5-10°C, 10-15°C, etc., THEN a frequency polygon would be appropriate."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Justify why a histogram is more appropriate than a bar graph for representing the distribution of monthly rainfall (in mm) recorded over 5 years, where data is grouped into intervals: 0-50, 50-100, 100-150, 150-200, 200-250 mm.",
+      "answer": "Rainfall is continuous data in class intervals; histogram shows distribution accurately",
+      "solution": "Reasons why histogram is appropriate: (i) Rainfall is continuous data—it can take any value within the range 0-250+ mm, making it unsuitable for discrete categorical representation. (ii) Data is already grouped into class intervals (0-50, 50-100, etc.), which is the standard format for histograms. (iii) Histogram shows how rainfall amounts are distributed: how many months/years had rainfall in each range. (iv) No gaps between bars in a histogram correctly represent the continuous nature of rainfall—a month with 99 mm rainfall is close to one with 51 mm rainfall. Bar graphs would inappropriately: (a) Treat each interval as a separate category. (b) Include gaps between bars, suggesting no continuity. (c) Imply that rainfall in 0-50 range is unrelated to 50-100 range. (d) Obscure the true distribution pattern. A histogram clearly shows, for example, if most months have rainfall between 100-150 mm (peak) and fewer months have extreme rainfall (very low or very high amounts)."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "In constructing frequency polygons for two different classes' test score distributions on the same graph, what precautions should be taken to ensure clarity and accurate comparison? Discuss at least three important considerations.",
+      "answer": "Use distinct colors/styles, clear labeling, and overlapping-free design",
+      "solution": "Three important precautions for comparing distributions using overlaid frequency polygons: (i) DISTINCT VISUAL IDENTIFICATION: Use different colors (e.g., red for Class A, blue for Class B), different line styles (solid vs dashed), or different line widths. This prevents confusion and allows quick identification of which polygon represents which class. (ii) CLEAR LABELING AND LEGEND: Clearly label each polygon (e.g., 'Class A' and 'Class B') and include a legend if colors are used. Label axes with appropriate units and provide a descriptive title. (iii) APPROPRIATE SCALE AND AXIS LIMITS: Ensure both classes' data fit appropriately on the same scales. If one class's frequencies are much larger than another's, consider: (a) Using the same relative scale (percentage rather than absolute frequency). (b) Clearly noting scale differences if they must differ. (iv) INCLUDE BOUNDARY POINTS: Both polygons should include zero-frequency boundary points at start and end for proper comparison and area representation. (v) AVOID OVERCROWDING: If more than two distributions are being compared, consider separate adjacent graphs rather than complete overlap. Example: If Class A has frequencies up to 30 and Class B up to 20, use a y-axis scale from 0-30 to accommodate both, or standardize to relative frequencies (percentage)."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "A histogram shows class width 15 for the first interval, class width 10 for middle intervals, and class width 20 for the last interval. The frequencies are 30, 25, 30, 25, and 20 respectively. Identify which class appears to have the highest frequency if only heights are compared, and which actually has the highest frequency density. Explain the discrepancy.",
+      "answer": "Highest frequency: class 1 and 3 (tied at 30); Highest density: class 3",
+      "solution": "Comparison: Frequencies: 30, 25, 30, 25, 20. (Class 1 and 3 tied for highest.) Frequency densities: 30/15=2, 25/10=2.5, 30/10=3, 25/10=2.5, 20/20=1. (Class 3 has highest density at 3.) Discrepancy explanation: If we only looked at bar heights (representing raw frequencies), we'd conclude Class 1 and Class 3 are equally important at frequency 30 each. However, frequency density reveals: (i) Class 3 has the highest concentration of data (density = 3). (ii) Even though Class 1 and Class 3 have the same frequency, Class 3's data is more densely packed because its class width is smaller (10 vs 15). (iii) Class 1, despite having frequency 30, is actually less dense than Class 3 because that frequency is spread over a wider range (15 units vs 10 units). This demonstrates why using proper frequency density for varying widths is essential—raw frequency alone can be misleading. A correct histogram with frequency density on the y-axis would show Class 3's bar as the tallest, not tied with Class 1."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Explain how the area of each rectangle in a histogram relates to frequency, and prove this relationship algebraically. Then show why frequency density is essential when class widths vary.",
+      "answer": "Area = Width × Height = Class Width × Frequency Density = Frequency",
+      "solution": "Relationship proof: In a histogram, each rectangle has: Width = Class Width (w). Height = Frequency Density (fd) = Frequency / Class Width (f/w). Area = Width × Height = w × (f/w) = f = Frequency. Algebraically: Area = w × (f/w) = (w × f) / w = f. This proves that the area of each rectangle exactly equals the frequency. Why frequency density is essential with varying widths: Consider two intervals: (i) Interval A: width 10, frequency 20. Without FD: height = 20, area = 10×20 = 200. With FD: height = 20/10 = 2, area = 10×2 = 20. (ii) Interval B: width 30, frequency 60. Without FD: height = 60, area = 30×60 = 1800. With FD: height = 60/30 = 2, area = 30×2 = 60. WITHOUT frequency density: Visually, Interval B appears 3 times as important (60 vs 20 frequency) with a much taller bar (60 vs 20 height). This is correct in terms of total frequency but misleading about concentration. WITH frequency density: Both intervals have the same height (2), correctly showing they have the same data density. Interval B's frequency is higher only because it spans a wider range. The formula Area = Class Width × Frequency Density ensures that when class widths vary, the visual representation (area) still accurately reflects frequency."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "A student mistakenly used raw frequencies as bar heights in a histogram with varying class widths. Identify the errors in this approach and explain the correct method using a specific example with three intervals of different widths.",
+      "answer": "Raw frequencies ignore class width; frequency density ensures area represents frequency",
+      "solution": "Errors in using raw frequencies: (i) Violates the fundamental histogram principle that area (not height) represents frequency. (ii) Gives misleading visual impression of distribution. (iii) Makes intervals with larger widths appear disproportionately important. (iv) Obscures the true frequency density (concentration) of data in each interval. Correct approach with example: Intervals: 0-10 (freq 8), 10-30 (freq 24), 30-50 (freq 20). WRONG method (raw frequencies): Heights = 8, 24, 20. Areas = 10×8=80, 20×24=480, 20×20=400. This makes the middle interval appear dominant (area 480) even though second interval, while having more data in absolute terms (24 vs 20), is spread over twice the width (20 vs 10). CORRECT method (frequency density): FD = 8/10=0.8, 24/20=1.2, 20/20=1. Heights = 0.8, 1.2, 1. Areas = 10×0.8=8, 20×1.2=24, 20×1=20 (restored to original frequencies). Now the histogram correctly shows: (i) Each rectangle's area equals its frequency. (ii) Density heights (0.8, 1.2, 1) show that the middle interval has the highest concentration (density 1.2), not just raw count. (iii) A frequency polygon through these heights would correctly represent the distribution shape."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Design a frequency distribution table and corresponding histogram for a hypothetical dataset of 100 student marks (out of 100) with 5 class intervals. Then explain what visual information the histogram conveys that a simple table cannot.",
+      "answer": "See detailed design and analysis below",
+      "solution": "Hypothetical frequency distribution: Marks | Frequency | Class-mark. 20-40 | 8 | 30. 40-60 | 20 | 50. 60-80 | 40 | 70. 80-100 | 22 | 90. Total | 90 | (Note: Adjusted to 90 for realistic distribution, or add 10 to any interval). Histogram characteristics: Using uniform class width 20 and appropriate scales (1 cm = 5 students), rectangle heights would be: 1.6, 4, 8, 4.4 cm. Visual information conveyed by histogram that table cannot: (i) DISTRIBUTION SHAPE: The histogram clearly shows a near-normal distribution with a peak around 60-80 marks, immediately visible as the tallest bar. The table requires you to scan and compare individual frequencies. (ii) CENTRAL TENDENCY: The concentration of heights around 60-80 visually demonstrates where most students' marks cluster without calculation. (iii) SKEWNESS/SPREAD: The visual comparison shows that very few students scored below 40 or above 100, indicating a concentrated distribution. A table would require this to be inferred. (iv) COMPARISON: To compare performance across marking ranges (pass/fail, grades), the histogram makes it instantly clear what percentage fall in each range by area/height. (v) OUTLIERS: Isolated tall or short bars quickly identify unusual score ranges. (vi) OVERALL PERFORMANCE: At a glance, the histogram shows this class performed reasonably well (most scores in 60-100 range)—information that requires calculation from the table."
+    }
+  ]
+}

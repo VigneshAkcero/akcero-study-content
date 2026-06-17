@@ -1,0 +1,220 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "SYMMETRY",
+    "chapter_number": 9
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Define a 'line of symmetry'.",
+      "answer": "A line that cuts a figure into two parts that exactly overlap when folded along that line.",
+      "solution": "It is also known as the axis of symmetry. The two resulting parts are called mirror halves."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "How many lines of symmetry does a rectangle have?",
+      "answer": "2",
+      "solution": "A rectangle has one vertical line of symmetry and one horizontal line of symmetry. Its diagonals are not lines of symmetry unless it is a square."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Is the number of lines of symmetry in a circle finite or infinite?",
+      "answer": "Infinite",
+      "solution": "Every diameter of a circle acts as a line of symmetry, and since a circle has infinite diameters, it has infinite lines of symmetry."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Medium",
+      "question": "How many lines of symmetry does an equilateral triangle have?",
+      "answer": "3",
+      "solution": "In an equilateral triangle, each altitude (the line from a vertex to the midpoint of the opposite side) is a line of symmetry."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Medium",
+      "question": "Identify the number of lines of symmetry in an isosceles triangle.",
+      "answer": "1",
+      "solution": "An isosceles triangle has exactly one line of symmetry, which passes through the vertex between the equal sides and bisects the base."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "A square sheet is folded once vertically. A hole is punched at the center. How many holes will be visible when the paper is unfolded?",
+      "answer": "2",
+      "solution": "Since there is one fold, the hole is reflected once across that fold, resulting in two holes in the unfolded paper."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "If you fold a paper twice (once horizontally and once vertically) and punch one hole, how many holes appear upon unfolding?",
+      "answer": "4",
+      "solution": "Two folds create four layers. One punch through four layers results in four holes when the paper is opened."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "What is the smallest angle of rotational symmetry for a square?",
+      "answer": "$90^\\circ$",
+      "solution": "$360^\\circ \\div 4 = 90^\\circ$. A square looks the same after every quarter turn."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "What is the smallest angle of rotational symmetry for an equilateral triangle?",
+      "answer": "$120^\\circ$",
+      "solution": "$360^\\circ \\div 3 = 120^\\circ$. It looks identical after a $120^\\circ$ rotation about its centre."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Hard",
+      "question": "A figure has rotational symmetry with a smallest angle of $72^\\circ$. How many angles of symmetry does it have in a full turn?",
+      "answer": "5",
+      "solution": "Number of angles $= 360^\\circ \\div 72^\\circ = 5$. The angles are $72^\\circ, 144^\\circ, 216^\\circ, 288^\\circ, 360^\\circ$."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Hard",
+      "question": "A regular polygon has 8 sides. What is its order of rotational symmetry?",
+      "answer": "8",
+      "solution": "For any regular polygon with $n$ sides, the order of rotational symmetry is $n$."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Hard",
+      "question": "Find the smallest angle of rotational symmetry for a regular octagon.",
+      "answer": "$45^\\circ$",
+      "solution": "Smallest angle $= 360^\\circ \\div 8 = 45^\\circ$."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "How many lines of symmetry does a regular hexagon have?",
+      "answer": "6",
+      "solution": "A regular hexagon has 6 lines of symmetry (3 passing through opposite vertices and 3 through the midpoints of opposite sides)."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "True or False: A figure can have rotational symmetry but no line symmetry.",
+      "answer": "True",
+      "solution": "Example: A pinwheel or a parallelogram (if not a rectangle or rhombus) has rotational symmetry but no lines of symmetry."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "If a figure is rotated by $180^\\circ$ and looks identical, but it does not look identical when rotated by $90^\\circ$, what is its order of rotational symmetry?",
+      "answer": "2",
+      "solution": "The angles are $180^\\circ$ and $360^\\circ$. There are 2 such positions in a full turn, so the order is 2."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Name the capital letters of the English alphabet that have TWO lines of symmetry.",
+      "answer": "H, I, O, X",
+      "solution": "Each of these letters can be folded both vertically and horizontally to overlap exactly."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "How many lines of symmetry does a scalene triangle have?",
+      "answer": "0",
+      "solution": "A scalene triangle has no equal sides and no equal angles, so it is asymmetrical."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "A regular polygon has a smallest rotation angle of $40^\\circ$. How many lines of symmetry does it have?",
+      "answer": "9",
+      "solution": "Number of sides $n = 360^\\circ \\div 40^\\circ = 9$. For a regular polygon, lines of symmetry = number of sides = 9."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "If a figure has 12 angles of symmetry, what is its smallest angle of rotation?",
+      "answer": "$30^\\circ$",
+      "solution": "Smallest angle $= 360^\\circ \\div 12 = 30^\\circ$."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Is it possible to draw a triangle with exactly two lines of symmetry?",
+      "answer": "No",
+      "solution": "If a triangle has two lines of symmetry, it must automatically have the third line, making it an equilateral triangle with 3 lines of symmetry."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "What are the reflection and rotational symmetry properties of the Ashoka Chakra?",
+      "answer": "24 lines of symmetry and 24 angles of rotational symmetry.",
+      "solution": "Since it has 24 spokes equally spaced, it behaves like a 24-sided regular structure."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "Point A is 5 cm to the left of a vertical line of symmetry. Where is its mirror image, Point B?",
+      "answer": "5 cm to the right of the line.",
+      "solution": "Reflection preserves distance from the axis of symmetry but in the opposite direction."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "How many lines of symmetry does the word 'MOM' have if written vertically?",
+      "answer": "1",
+      "solution": "The word has one vertical line of symmetry passing through the center of the letters M, O, and M."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Give an example of a quadrilateral that has rotational symmetry of order 2 but no line of symmetry.",
+      "answer": "Parallelogram",
+      "solution": "A parallelogram (that is not a rhombus or rectangle) has no lines of symmetry but looks the same after $180^\\circ$ and $360^\\circ$ rotations."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Give an example of a quadrilateral that has exactly one line of symmetry but no rotational symmetry.",
+      "answer": "Kite (or Isosceles Trapezoid)",
+      "solution": "A kite has one diagonal as its line of symmetry but no rotational symmetry."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Medium",
+      "question": "How many lines of symmetry does a regular decagon have?",
+      "answer": "10",
+      "solution": "A regular decagon has 10 equal sides, so it has 10 lines of symmetry."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Calculate the smallest angle of symmetry for a figure with 7 angles of symmetry. Express as a mixed fraction.",
+      "answer": "$51 \\frac{3}{7}^\\circ$",
+      "solution": "$360 \\div 7 = 51$ with a remainder of 3, so $51 \\frac{3}{7}^\\circ$."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Medium",
+      "question": "Can a figure have an angle of rotation of $17^\\circ$? why or why not?",
+      "answer": "No",
+      "solution": "Because 360 is not divisible by 17, so the figure would not return to its original position correctly in a full turn."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Easy",
+      "question": "How many lines of symmetry does a semi-circle have?",
+      "answer": "1",
+      "solution": "It possesses exactly one line of symmetry, which is the perpendicular bisector of its diameter."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "If a figure has rotational symmetry of order $n$, how many angles of symmetry does it have?",
+      "answer": "$n$",
+      "solution": "The order $n$ represents the total number of positions (including $360^\\circ$) that look like the original in one full turn."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Motion",
+    "chapter_number": 7
+  },
+  "flashcards": [
+    { "q": "Define motion. Give an example showing it is relative.", "a": "Motion: change in position of an object with time relative to a reference point. Relative example: a passenger in a moving bus sees roadside trees moving backward; a person on the road sees the bus moving — same event, different observers." },
+    { "q": "Define distance and displacement. Which is scalar and which is vector?", "a": "Distance: total path length covered — scalar (only magnitude). Displacement: shortest straight-line distance from initial to final position — vector (magnitude + direction). Both have SI unit: metre (m)." },
+    { "q": "Can displacement be zero when distance is non-zero? Give an example.", "a": "Yes. When an object returns to its starting point: distance ≠ 0 but displacement = 0. Example: one complete round of a circular track — distance = 2πr, displacement = 0." },
+    { "q": "When does magnitude of displacement = distance?", "a": "When the object moves in a straight line in ONE direction without reversing. Every step of the path directly adds to the straight-line gap from start to finish." },
+    { "q": "What does an odometer measure?", "a": "An odometer measures DISTANCE (total path length), not displacement. It records every metre of path regardless of direction." },
+    { "q": "Define uniform and non-uniform motion.", "a": "Uniform motion: equal distances in equal intervals of time (constant speed). Non-uniform motion: unequal distances in equal intervals of time (changing speed)." },
+    { "q": "Formula and SI unit of speed. Is it scalar or vector?", "a": "Speed = distance / time. SI unit: m s⁻¹. Scalar — only magnitude, no direction. Average speed = total distance / total time." },
+    { "q": "Formula and SI unit of velocity. Is it scalar or vector?", "a": "Velocity = displacement / time. SI unit: m s⁻¹. Vector — has both magnitude and direction. Average velocity (uniform acceleration) = (u + v) / 2." },
+    { "q": "When is average velocity = 0 even though speed ≠ 0?", "a": "When the object returns to its starting position — displacement = 0. Example: Usha swims 90 m to one end and 90 m back in 60 s → avg speed = 180/60 = 3 m s⁻¹, avg velocity = 0/60 = 0 m s⁻¹." },
+    { "q": "Define acceleration. Formula, SI unit, and sign convention.", "a": "Acceleration = rate of change of velocity = (v − u) / t. SI unit: m s⁻². Positive (+a): velocity increasing (in direction of motion). Negative (−a / deceleration): velocity decreasing (opposite to motion)." },
+    { "q": "Define uniform and non-uniform acceleration.", "a": "Uniform acceleration: velocity changes by EQUAL amounts in equal time intervals. V-t graph = straight line. Non-uniform: velocity changes by UNEQUAL amounts. V-t graph = curve. Example of uniform: freely falling body." },
+    { "q": "Slope of distance-time graph = ?", "a": "Slope of distance-time graph = SPEED. Straight line (positive slope) → uniform speed. Curve → non-uniform speed. Horizontal line (zero slope) → at rest." },
+    { "q": "Slope of velocity-time graph = ?", "a": "Slope of velocity-time graph = ACCELERATION. Horizontal line → zero acceleration (uniform velocity). Straight inclined line → uniform acceleration. Curve → non-uniform acceleration." },
+    { "q": "Area under velocity-time graph = ?", "a": "Area under velocity-time graph = DISTANCE (magnitude of displacement) covered. Rectangle area = v × t = distance for uniform velocity. Triangle + rectangle area = ut + ½at² = distance for uniform acceleration." },
+    { "q": "State all 3 equations of motion and their names.", "a": "(1) v = u + at [velocity-time relation]. (2) s = ut + ½at² [position-time relation]. (3) v² = u² + 2as [velocity-position relation]. Valid only for uniform (constant) acceleration along a straight line." },
+    { "q": "What are the symbols in equations of motion?", "a": "u = initial velocity (m s⁻¹). v = final velocity (m s⁻¹). a = acceleration (m s⁻²). t = time (s). s = distance covered (m)." },
+    { "q": "Convert 72 km h⁻¹ to m s⁻¹. What is the conversion formula?", "a": "km h⁻¹ × (5/18) = m s⁻¹. So 72 × 5/18 = 20 m s⁻¹. Reverse: m s⁻¹ × (18/5) = km h⁻¹." },
+    { "q": "Starting from rest: what is u? Object stops: what is v?", "a": "Starts from rest: u = 0. Object comes to rest (stops): v = 0. These are the most common initial/final conditions in equation-of-motion problems." },
+    { "q": "Example 7.7: car brakes at a = −6 m s⁻², stops in 2 s. Find initial speed and stopping distance.", "a": "v = u + at → 0 = u − 12 → u = 12 m s⁻¹. s = ut + ½at² = 12×2 + ½×(−6)×4 = 24 − 12 = 12 m." },
+    { "q": "Define uniform circular motion. Is it accelerated?", "a": "Uniform circular motion: object moves in a circular path at CONSTANT speed but continuously changing direction. YES — it is accelerated because the direction of velocity vector changes at every point, meaning velocity changes." },
+    { "q": "Why does direction change mean acceleration in circular motion?", "a": "Velocity is a vector = magnitude + direction. Even if speed (magnitude) is constant, changing direction changes the velocity vector → rate of change of velocity ≠ 0 → acceleration exists (centripetal, directed toward centre)." },
+    { "q": "Formula for speed in uniform circular motion.", "a": "v = 2πr / t. Where r = radius of circular path, t = time period (time for one complete revolution). Circumference = 2πr is the distance covered in one revolution." },
+    { "q": "Activity 7.11 — Stone on thread: what happens when released? What does it prove?", "a": "Stone moves in a straight line TANGENTIAL to the circle at the point of release. Proves: (1) velocity direction in circular motion is always along the tangent. (2) Without the centripetal force (thread tension), the object moves in a straight line — demonstrating Newton's 1st Law." },
+    { "q": "Three examples of uniform circular motion.", "a": "Moon orbiting Earth; artificial satellite in circular orbit; cyclist at constant speed on a circular track; athlete rotating before throwing a hammer; Earth revolving around the Sun." },
+    { "q": "Two-part journey: same distance at 20 km h⁻¹ and 30 km h⁻¹. Average speed?", "a": "Average speed = 2×20×30 / (20+30) = 1200/50 = 24 km h⁻¹. NOT (20+30)/2 = 25, because equal distances (not equal times) are covered at each speed." },
+    { "q": "What does the distance-time graph look like for a stationary object? For non-uniform acceleration?", "a": "Stationary: horizontal straight line (slope = 0 = speed). Non-uniform acceleration: non-linear curve on distance-time graph (increasing slope = increasing speed)." },
+    { "q": "What is retardation (deceleration)?", "a": "Retardation = negative acceleration — when velocity of an object decreases with time. The acceleration acts in the direction OPPOSITE to motion. Example: applying brakes to a car." },
+    { "q": "Stone thrown upward at 5 m s⁻¹, g = 10 m s⁻² downward. Max height and time to reach it?", "a": "At max height: v = 0. v² = u² + 2as → 0 = 25 − 20s → s = 1.25 m. v = u + at → 0 = 5 − 10t → t = 0.5 s." }
+  ]
+}

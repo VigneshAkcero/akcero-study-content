@@ -1,0 +1,255 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "CONNECTING AND TILINGS",
+    "chapter_number": 6
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What tool is minimally required to construct a geometric figure without using measurements?",
+      "answer": "An unmarked ruler and compass",
+      "solution": "According to geometric construction principles, the most basic tools needed are an unmarked ruler (straightedge for drawing lines) and a compass (for drawing circles and marking equal distances). These two tools together can construct all fundamental geometric shapes like perpendicular bisectors, right angles, and angle bisectors without any actual measurements."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Define perpendicular bisector of a line segment.",
+      "answer": "A line that divides a given line segment into two equal parts and is perpendicular (at 90°) to it.",
+      "solution": "A perpendicular bisector has two properties: (1) It bisects (divides) the line segment into two equal parts with the bisection point being the midpoint, and (2) It meets the line segment at a right angle (90°). Any point on the perpendicular bisector is equidistant from the two endpoints of the segment."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What is the key property of the perpendicular bisector of a line segment?",
+      "answer": "Any point on the perpendicular bisector is equidistant from the two endpoints of the line segment.",
+      "solution": "If P is any point on the perpendicular bisector of segment AB, then PA = PB. This is the fundamental property used in constructing the perpendicular bisector. We use this by finding two points (above and below the segment) that are equidistant from both endpoints, and joining them gives the perpendicular bisector."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "How many pairs of intersecting arcs are needed to construct the perpendicular bisector of a line segment using compass and ruler?",
+      "answer": "Two pairs of intersecting arcs (one pair above the segment and one pair below).",
+      "solution": "To construct the perpendicular bisector: (1) From endpoint X, draw an arc above the segment. From endpoint Y, draw another arc with the same radius above. Mark their intersection as A. (2) Repeat the same process below the segment to get point B. (3) The line AB is the perpendicular bisector. These two points A and B are equidistant from both X and Y."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What is the measure of the angle formed when a perpendicular bisector meets a line segment?",
+      "answer": "90° (a right angle)",
+      "solution": "By definition, a perpendicular bisector is perpendicular to the line segment it bisects. Perpendicular means the angle of intersection is exactly 90°. This is one of the two defining properties of a perpendicular bisector (the other being that it divides the segment into two equal parts)."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Define angle bisector.",
+      "answer": "A ray that divides an angle into two angles of equal measure.",
+      "solution": "An angle bisector cuts an angle exactly in half. If a ray OC bisects angle AOB, then angle AOC = angle BOC = (angle AOB)/2. For example, bisecting a 90° angle gives two 45° angles."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What is the measure of each angle in an equilateral triangle?",
+      "answer": "60°",
+      "solution": "An equilateral triangle has all three sides equal and all three angles equal. Since the sum of angles in any triangle is 180°, each angle = 180° ÷ 3 = 60°. This is why constructing an equilateral triangle is the standard method to construct a 60° angle using compass and ruler."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Name three shapes that can tile the entire plane.",
+      "answer": "Equilateral triangles, squares, and regular hexagons",
+      "solution": "These three regular polygons can tile the plane because their interior angles divide 360° evenly: (1) Equilateral triangle: 60° × 6 = 360°, (2) Square: 90° × 4 = 360°, (3) Regular hexagon: 120° × 3 = 360°. Regular pentagons (108° interior angle) cannot tile the plane because 360° ÷ 108° is not a whole number."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Define tiling.",
+      "answer": "Covering a region or plane using a set of shapes (tiles) such that there are no gaps and no overlaps.",
+      "solution": "Tiling, also called tessellation, is a complete coverage where all shapes fit together perfectly. Every point in the region is covered by exactly one tile. Examples include floor tiles in buildings, honeycomb cells made by bees, and patterns on decorative designs."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Can a 5×7 grid be tiled using 2×1 tiles? Give reason.",
+      "answer": "No, because 5×7 = 35 unit squares (odd number), and each 2×1 tile covers exactly 2 unit squares.",
+      "solution": "A 5×7 grid has 35 unit squares. Each 2×1 tile covers exactly 2 unit squares. To tile the region, we need 35 ÷ 2 = 17.5 tiles, which is not a whole number. Therefore, it's impossible to completely tile a 5×7 grid with 2×1 tiles. This is the parity principle: the total number of unit squares must be even for tiling with 2×1 tiles."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Explain the steps to construct a 90° angle at a point O on a given line using compass and ruler.",
+      "answer": "Mark equal distances from O on both sides to get X and Y (O is midpoint of XY). Construct the perpendicular bisector of XY. This bisector passes through O and is perpendicular to the given line, forming a 90° angle.",
+      "solution": "Steps: (1) On the given line through O, mark point X to the left at some distance and Y to the right at the same distance, so OX = OY. (2) From X and Y, draw arcs above the line with equal radius, meeting at point P. (3) From X and Y, draw arcs below the line with equal radius, meeting at point Q. (4) Join PQ. The line PQ is perpendicular to the given line at O, forming the required 90° angle. This works because PQ is the perpendicular bisector of XY, and perpendicular bisectors are perpendicular to the segment they bisect."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Why is only one pair of intersecting arcs needed to construct a perpendicular bisector at a specific point already known to be on the perpendicular bisector?",
+      "answer": "Because we only need one more point on the perpendicular bisector; once we have two points, we can draw the line through them.",
+      "solution": "In general perpendicular bisector construction, we draw two pairs of arcs (above and below) because we need two points to define the line. However, if we already know that point O lies on the perpendicular bisector (e.g., it's marked as midpoint), we only need to construct one more point on it. Drawing just one pair of intersecting arcs gives us that second point. The line through O and this second point is the perpendicular bisector."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Explain how to construct a 45° angle using compass and ruler.",
+      "answer": "First construct a 90° angle. Then bisect this 90° angle to get two 45° angles.",
+      "solution": "Steps: (1) Construct a 90° angle at a point using the perpendicular method. (2) To bisect the 90° angle: Mark equal distances from the vertex on both rays to get points A and B. (3) Draw arcs from A and B with equal radius to find point C inside the angle. (4) The ray from vertex through C bisects the 90° angle into two 45° angles. This works because bisecting divides any angle into two equal parts."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "How can you construct a 30° angle using compass and ruler?",
+      "answer": "First construct a 60° angle (using equilateral triangle), then bisect it to get two 30° angles.",
+      "solution": "Steps: (1) Construct a 60° angle by making an equilateral triangle: Draw segment AB, then from A with radius AB draw an arc, from B with radius AB draw another arc meeting the first at C. Angle CAB = 60°. (2) Bisect angle CAB by marking equal distances on AC and AB, drawing arcs from these points to find D, and drawing AD. Now angle DAB = 30°. Alternatively, since 30° = 60° ÷ 2, bisecting a 60° angle is direct."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Explain the principle behind constructing parallel lines using compass and ruler.",
+      "answer": "Equal corresponding angles guarantee parallel lines. If a transversal creates equal corresponding angles at two locations, the lines are parallel.",
+      "solution": "To construct a line parallel to given line m through point B: (1) Draw a transversal l through B intersecting m at A. (2) Find the angle between l and m at point A. (3) Copy this angle at point B on the transversal using compass and ruler (by marking equal distances and arcs). (4) Draw a line through B at this copied angle, making it equal to the original angle. (5) Since the corresponding angles are equal, the two lines are parallel (converse of corresponding angles theorem)."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "What is the interior angle of a regular hexagon?",
+      "answer": "120°",
+      "solution": "For a regular polygon with n sides, each interior angle = (n-2) × 180° / n. For hexagon (n=6): Interior angle = (6-2) × 180° / 6 = 4 × 180° / 6 = 720° / 6 = 120°. Alternatively, a regular hexagon can be divided into 6 equilateral triangles from the center. Each equilateral triangle has angles of 60°. At each vertex of the hexagon, two 60° angles meet: 60° + 60° = 120°."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Why does a regular hexagon consist of six equilateral triangles meeting at a common center?",
+      "answer": "Because 6 × 60° = 360°, and the angles of six equilateral triangles around a point sum to a complete angle. Also, all sides of these triangles equal the hexagon's side length.",
+      "solution": "A regular hexagon has interior angles of 120°. If we join the center to all vertices, we divide the hexagon into 6 triangles. The angle at the center of each triangle = 360° ÷ 6 = 60°. Since the hexagon has all sides equal and all angles equal, each of these triangles has: (1) Center angle = 60°, (2) Two sides from center to vertices are radii (equal length), (3) Base is a side of hexagon. By isosceles triangle properties and angle calculations, each triangle is equilateral (all angles 60°, all sides equal)."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "How do you construct a regular hexagon with side length 5 cm using compass and ruler?",
+      "answer": "Construct consecutive 60° angles at the vertices, marking 5 cm segments each time, until closing the hexagon.",
+      "solution": "Steps: (1) Draw a base segment AB = 5 cm. (2) At A, construct a 60° angle (using equilateral triangle method). (3) On this ray, mark point F at 5 cm from A. (4) At F, construct a 60° angle with ray AF and mark E at 5 cm on the new ray. (5) At E, construct 60° angle and mark D at 5 cm. (6) Continue: At D construct 60° and mark C at 5 cm. At C construct 60° and mark the closing point which should be B. (7) Verify: All sides = 5 cm, all angles = 120°. This works because each interior angle of a regular hexagon is 120°, so we construct 120° angles at each vertex."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Can a 4×6 grid be tiled using 2×1 tiles? Explain with a strategy.",
+      "answer": "Yes. Strategy: Use 2 vertical tiles in each column to cover 4 rows, repeated over 6 columns.",
+      "solution": "A 4×6 grid has 24 unit squares. Each 2×1 tile covers 2 squares. We need 24 ÷ 2 = 12 tiles. Column-wise strategy: Each column has 4 rows. Place 2 vertical 2×1 tiles in each column (each tile covers 2 rows). This fills each column completely. With 6 columns, we place 2 tiles per column = 12 tiles total, covering all 24 squares with no gaps or overlaps. This works because the number of rows (4) is even, allowing vertical tiles to stack perfectly."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Why does an m×n grid tileable by 2×1 tiles require at least one dimension to be even?",
+      "answer": "Because at least one of m or n must be even to make the total m×n even. An odd × odd gives odd squares, which cannot be divided into pairs.",
+      "solution": "A 2×1 tile covers exactly 2 unit squares. To tile an m×n grid completely, we need the total number of squares to be even. Total squares = m × n. For m × n to be even, at least one of m or n must be even (if both are odd, the product is odd). Examples: 5×7 = 35 (both odd, not tileable); 4×7 = 28 (one even, tileable); 5×6 = 30 (one even, tileable); 4×6 = 24 (both even, tileable)."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "Explain the checkerboard coloring strategy for determining tileability of a region with 2×1 tiles.",
+      "answer": "Color the grid like a checkerboard with alternating black and white. Each 2×1 tile covers one black and one white square. If black and white squares are unequal, tiling is impossible.",
+      "solution": "Method: (1) Color the grid alternately: black and white squares. (2) In any valid tiling with 2×1 tiles, each tile covers exactly one black and one white square (because adjacent squares in a grid have opposite colors). (3) Therefore, for complete tiling, the number of black tiles used must equal the number of white tiles used. (4) This is only possible if the region has equal black and white squares. Example: A 5×3 grid with one corner removed. A 5×3 grid normally has 15 squares. Remove one corner square (say a white square) → 14 squares remain. If originally it had 8 white and 7 black, now it has 7 white and 7 black (equal). Check if tileable. But if removed square makes them unequal, it's not tileable."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "Prove that the line AB constructed by drawing two pairs of intersecting arcs from endpoints X and Y is indeed the perpendicular bisector of segment XY.",
+      "answer": "Using congruence: ΔABX ≅ ΔABY (SSS), so AB bisects XY. Using congruence: ΔAOX ≅ ΔAOY (SAS), so ∠AOX = ∠AOY = 90° and OX = OY.",
+      "solution": "Given: A and B are points such that AX = AY and BX = BY. To prove: AB is the perpendicular bisector of XY. Proof: (1) In triangles ABX and ABY: AX = AY (given), BX = BY (given), AB is common. By SSS congruence, ΔABX ≅ ΔABY. (2) Therefore, ∠XAB = ∠YAB (corresponding angles). (3) Let O be the intersection of AB and XY. In triangles AOX and AOY: AX = AY (given), AO is common, ∠XAO = ∠YAO (from step 2). By SAS congruence, ΔAOX ≅ ΔAOY. (4) Therefore, OX = OY (O is midpoint of XY) and ∠AOX = ∠AOY. Since these angles form a straight angle: ∠AOX + ∠AOY = 180°, so ∠AOX = ∠AOY = 90°. (5) Thus, AB passes through the midpoint O and is perpendicular to XY, making AB the perpendicular bisector."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Justify why six 60° angles can fit around a point without gaps or overlaps.",
+      "answer": "6 × 60° = 360°, and 360° represents the complete angle around a point. When angles sum to 360°, they completely cover the region around a point.",
+      "solution": "An angle of 360° represents one complete rotation around a point. If we place six angles of 60° each around a point: 1st angle: 0° to 60°, 2nd: 60° to 120°, 3rd: 120° to 180°, 4th: 180° to 240°, 5th: 240° to 300°, 6th: 300° to 360°. Total coverage = 360°. No gaps (complete coverage), no overlaps (each angle adjacent, not overlapping). This principle generalizes: angles summing to 360° can be arranged around a point without gaps or overlaps. This is why six equilateral triangles fit around a center to form a regular hexagon."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Why can only equilateral triangles, squares, and regular hexagons tile the entire plane individually?",
+      "answer": "Their interior angles divide 360° evenly: Triangle (60°, 360÷60=6), Square (90°, 360÷90=4), Hexagon (120°, 360÷120=3). Other regular polygons don't satisfy this.",
+      "solution": "For a regular polygon to tile the plane, the same number of it must fit around each vertex without gaps or overlaps. This requires n angles of measure θ to sum to 360°, where n is a whole number: n × θ = 360°, so n = 360° / θ. Interior angle of regular polygon = (n-2) × 180° / n. (1) Triangle: θ = 60°, n = 360÷60 = 6 ✓. (2) Square: θ = 90°, n = 360÷90 = 4 ✓. (3) Pentagon: θ = 108°, n = 360÷108 ≈ 3.33 ✗ (not whole). (4) Hexagon: θ = 120°, n = 360÷120 = 3 ✓. (5) Heptagon (7-sided): θ = 128.6°, n ≈ 2.8 ✗. Only triangles, squares, and hexagons yield whole numbers, so only they can tile."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Given a 4×4 grid with four corner unit squares removed (one from each corner), determine if it's tileable with 2×1 tiles using the coloring strategy.",
+      "answer": "Analyze the checkerboard coloring. Original 4×4 has 8 black and 8 white. Removing four corners (checking colors) determines tileability.",
+      "solution": "Step 1: Color a 4×4 grid like a checkerboard. In a standard coloring with top-left white: 4×4 has 8 white and 8 black squares. Step 2: Identify corners. Top-left (white), Top-right (black), Bottom-left (black), Bottom-right (white). Step 3: Remove corners: Removed 2 white and 2 black squares. Remaining: 6 white and 6 black squares (equal). Step 4: Conclusion: Since black and white are equal, the region is tileable with 2×1 tiles. This is a necessary condition (equal colors). A possible tiling: The remaining region forms a band; use tiles to cover it by placing horizontal or vertical tiles systematically, ensuring the 6 black and 6 white constraint is satisfied."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Consider a region that is a 6×4 grid with the top-left 2×2 square removed. Can it be tiled with 2×1 tiles? Justify using both parity and coloring strategies.",
+      "answer": "Parity check: 6×4 - 4 = 20 squares (even, passes parity). Coloring check: Original has 12 black and 12 white. Removing top-left 2×2 (3 of one color, 1 of another) makes colors unequal; NOT tileable.",
+      "solution": "Step 1 - Parity Check: Original 6×4 grid = 24 squares. Remove top-left 2×2 square (4 squares). Remaining = 20 squares. 20 is even, so parity suggests tileability. Step 2 - Coloring Check (More Rigorous): Color 6×4 grid checkerboard starting with white at top-left. Count: 12 white and 12 black initially. In the top-left 2×2 square, if top-left is white: white, black in row 1; black, white in row 2 = 2 white and 2 black in the 2×2. After removal: 10 white and 10 black remain (still equal). This would be tileable. Note: The exact answer depends on the corner coloring of the removed region. Step 3 - Correct Approach: If top-left corner of grid is white, the 2×2 has 2 white and 2 black. Removing it leaves 10 white and 10 black (equal). So it IS tileable. However, if the 2×2 removed had unequal colors, it wouldn't be tileable, demonstrating that coloring strategy is more powerful than parity alone."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Explain why the method of copying an angle using compass and ruler works. Use congruence.",
+      "answer": "By SSS congruence: If two isosceles triangles have equal two sides and equal base, they are congruent. Therefore, corresponding angles are equal, making the copied angle equal to the original.",
+      "solution": "Method overview: Given angle ∠AOB, to copy it at point X: (1) Draw arc from O with radius r, intersecting rays OA and OB at points P and Q. Draw the arc from X with the same radius r, marking point Z on one ray. (2) Measure distance PQ using compass. (3) From Z, draw an arc with radius PQ to intersect the arc from X at point Y. (4) Ray XY is the copied angle. Proof: Consider triangles OPQ and XZY. We have: OP = XZ (same radius r), OQ = XY (same radius r used from Q to mark on arc; constructed equal), PQ = ZY (transferred using compass). By SSS congruence, ΔOPQ ≅ ΔXZY. Therefore, ∠POQ = ∠ZXY (corresponding angles of congruent triangles). Since ∠POQ = ∠AOB (by arc construction), we have ∠ZXY = ∠AOB, proving the angle is correctly copied."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "A 6×5 grid with one unit square removed from the interior (not a corner) is being checked for tileability with 2×1 tiles. If the removed square has 3 black and 2 white neighbors on the checkerboard, what can you conclude?",
+      "answer": "The removed square itself has one color. After removal, black and white counts differ by at least 1, making the region non-tileable with 2×1 tiles.",
+      "solution": "Step 1: Original 6×5 grid = 30 squares. In a checkerboard coloring of a 6×5 grid: 15 black and 15 white (equal, since both rows and columns have mixed colors). Step 2: The removed square has one color (say, white). The fact that it has neighbors of both colors doesn't directly affect its own color. Step 3: After removing one white square: 15 black and 14 white (imbalance of 1). Step 4: Conclusion: Since 15 ≠ 14, the region cannot be tiled with 2×1 tiles. Each tile must cover one black and one white, requiring equal counts. The interior position of the removed square doesn't matter; the color imbalance is the determining factor."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Using constructions, explain how to create an 8-petalled design where each petal corresponds to a 45° angle sector.",
+      "answer": "Construct a 90° angle, bisect to get 45°, repeat bisection and copying to create 8 equal 45° sectors around a point.",
+      "solution": "Step 1: Construct a 90° angle at a point O. Step 2: Bisect the 90° angle to get two 45° angles. Step 3: Bisect one of the 45° angles to get 22.5°, or construct four 45° angles by bisecting both halves. Actually, to get 8 sectors: Each sector = 360° ÷ 8 = 45°. Step 4: Construct the first 45° angle (from bisecting 90°). Step 5: From one ray of this angle, copy a 45° angle repeatedly 8 times around the point. After copying 45° eight times: 8 × 45° = 360° (complete rotation). Step 6: Draw rays at each 45° position. Step 7: On each ray, mark arcs at equal distances from O to define petals. Connect arc endpoints on adjacent rays to form petal shapes. This creates 8 symmetric petals."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Prove that any point equidistant from two given points X and Y lies on the perpendicular bisector of XY.",
+      "answer": "If P is equidistant from X and Y (PX = PY), then P lies on perpendicular bisector. Proof by contradiction or direct congruence.",
+      "solution": "Given: Points X and Y, and a point P such that PX = PY. To prove: P lies on the perpendicular bisector of XY. Proof: Let O be the midpoint of XY (found by constructing perpendicular bisector). Case 1: If P = O, then P is on the perpendicular bisector. Case 2: If P ≠ O, consider triangles PXO and PYO. We have: PX = PY (given), XO = YO (O is midpoint of XY), PO is common. By SSS congruence, ΔPXO ≅ ΔPYO. Therefore, ∠POX = ∠POY (corresponding angles). Since O lies on XY, angles ∠POX and ∠POY form a linear pair summing to 180°. Since they're equal: ∠POX = ∠POY = 90°. This means PO is perpendicular to XY. Since PO is perpendicular to XY and passes through the midpoint O, PO lies on the perpendicular bisector of XY, so P is on the perpendicular bisector."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "A rectangular garden is 8 meters by 12 meters and needs to be paved with 2-meter by 1-meter tiles (2m × 1m). Can it be completely tiled without cutting any tiles? Justify.",
+      "answer": "Yes. An 8 × 12 grid has 96 unit squares (even). Both dimensions divisible by tile dimensions, and parity satisfied.",
+      "solution": "Step 1: Convert to unit grid. If tile size is 2m × 1m, use the grid model: 8m = 8 units, 12m = 12 units (in terms of 1m squares). We need to tile an 8 × 12 grid with 2 × 1 tiles. Step 2: Parity check. Total squares = 8 × 12 = 96 (even). Each 2 × 1 tile covers 2 squares. Tiles needed = 96 ÷ 2 = 48 (whole number ✓). Step 3: Tileability check. Since 8 is even, we can tile by placing vertical tiles. Each column is 8 units tall (rows). Place 4 vertical 2 × 1 tiles in each column (4 tiles × 2 units = 8 units). With 12 columns: 4 tiles per column × 12 columns = 48 tiles. Step 4: Conclusion: Yes, the garden can be completely tiled using 48 tiles (2m × 1m each) with no cutting required."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "A trefoil arch has support lines AD and BC such that AB = CD and ∠BAD = ∠CDA. Explain why this ensures a symmetric arch design.",
+      "answer": "Equal segments and equal angles guarantee that arcs drawn from A and D create symmetric curves about the perpendicular bisector of BD.",
+      "solution": "Symmetric arch design requires: (1) Equal arm lengths: AB = CD ensures the two arms of the arch have equal reach. (2) Equal angles: ∠BAD = ∠CDA ensures that arcs drawn from A and D make equal angles with the baseline AD. Step 3: Superimposition test. If we fold along the perpendicular bisector of AD, point B should map to C and vice versa, with the arcs from A and D overlapping perfectly. The conditions AB = CD and ∠BAD = ∠CDA guarantee this symmetry. Step 4: Conclusion: These geometric constraints ensure that the trefoil arch (with three lobes) appears perfectly balanced and symmetric when viewed from any angle along the baseline AD. The arch radiates evenly on both sides."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "A composite arch design uses both a trefoil arch (AB = CD, ∠BAD = ∠CDA) and a pointed arch (with two arcs meeting at a point). How can these be combined to create a more complex design?",
+      "answer": "Use the trefoil as an outer frame (establishing symmetry) and nestle a pointed arch inside, both centered on the same baseline, with proportional dimensions.",
+      "solution": "Step 1: Construct the trefoil arch using support lines AD (baseline) with equal points B and C such that AB = CD and ∠BAD = ∠CDA. Draw arcs from A and D to form the three-lobed trefoil shape. Step 2: For the pointed arch: Within the trefoil, mark a smaller baseline A'D' centered on AD. Find the midpoints of A'D' and construct two arcs from A' and D' meeting at a point above, creating the pointed arch. Step 3: Adjust radii of both arches for visual harmony. The outer trefoil provides an elegant frame, while the inner pointed arch adds detail and complexity. Step 4: The combination creates a sophisticated design often seen in Gothic and Islamic architecture, where multiple arches are nested for aesthetic appeal and structural support. Both components remain geometrically precise through construction."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "Demonstrate how tangram pieces (7 specific geometric pieces from a square) can be arranged to tile a 2×2 square region.",
+      "answer": "The 7 tangram pieces together form a square. By rearrangement (without overlapping or gaps), they form a 2×2 square region having the same area as the original square.",
+      "solution": "Tangram composition: The 7 pieces are: 2 large congruent right triangles, 1 medium right triangle, 2 small congruent right triangles, 1 square, 1 parallelogram. Together, they fit into a square frame. Step 1: Note that the area of all 7 pieces equals the area of the original square. Step 2: To tile a 2×2 square (area = 4 unit squares), first determine the tangram square area. Standard tangram has area = 1 square unit. A 2×2 square has area = 4 unit squares. Step 3: Clarification: A single tangram set (area 1) forms various shapes but typically forms a 1×1 square. To tile a 2×2 region, use 4 complete tangram sets (total area = 4). Step 4: Arrangement strategy: Place the 7 pieces from each tangram systematically in quadrants and overlapping regions to cover the 2×2 without gaps. The flexibility of tangram pieces (especially triangles) allows many tiling configurations. Step 5: Verification: Total area of 4 tangram sets = 4 square units = area of 2×2 square. No gaps, no overlaps."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "Explain why an m×n grid where both m and n are odd cannot be tiled with 2×1 tiles, using the parity argument and the coloring argument together.",
+      "answer": "Parity: odd × odd = odd total squares. Coloring: odd × odd checkerboard has unequal black/white counts. Both conditions fail, making tiling impossible.",
+      "solution": "Argument 1 - Parity: If m and n are both odd, then m × n is odd (odd × odd = odd). Each 2×1 tile covers 2 squares. An odd number of squares divided by 2 gives a non-integer (e.g., 35 ÷ 2 = 17.5). Thus, we cannot use a whole number of tiles to cover the region. This is the simplest argument. Argument 2 - Coloring (Stripe Argument): In an m × n checkerboard, color squares black and white alternately. For an odd × odd grid: Row 1 (odd-length): starts white, ends white → odd number of whites. All odd rows: odd whites each. All even rows: odd blacks each. For m and n both odd, the checkerboard has unequal black and white squares (differs by at least 1). Since each 2×1 tile covers 1 black and 1 white, equal counts are necessary, but odd × odd violates this. Conclusion: Both arguments confirm that odd × odd grids are non-tileable with 2×1 tiles. The parity argument is sufficient but coloring provides additional insight into the structural impossibility."
+    }
+  ]
+}

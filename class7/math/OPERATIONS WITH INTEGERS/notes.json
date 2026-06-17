@@ -1,0 +1,619 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Operations with Integers",
+    "chapter_number": 2
+  },
+  "notes": [
+    {
+      "section_title": "2.1 A Quick Recap of Integers",
+      "topics": [
+        {
+          "topic_name": "Introduction to Integers and Number Line",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Integers are whole numbers that include positive numbers, negative numbers, and zero. They are represented on a number line, where positive integers are placed to the right of zero and negative integers are placed to the left of zero. This representation helps us understand the order and magnitude of integers."
+            },
+            {
+              "type": "paragraph",
+              "text": "The number line is a useful tool for visualizing integer operations. Moving to the right represents moving toward positive integers, while moving to the left represents moving toward negative integers. Understanding the position of integers on the number line is fundamental to performing operations with them."
+            },
+            {
+              "type": "note",
+              "title": "Number Line Model",
+              "text": "A number line is a horizontal line with zero in the middle. Positive integers (+1, +2, +3, ...) are to the right, and negative integers (-1, -2, -3, ...) are to the left. This visual representation helps in understanding addition, subtraction, and the relative magnitude of integers."
+            }
+          ]
+        },
+        {
+          "topic_name": "Carrom Coin Model for Understanding Positive and Negative Movement",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A practical way to understand integers and their operations is the carrom coin model. Imagine a carrom coin starting at position 0 on a number line. When struck, the coin moves either to the right (positive direction) or to the left (negative direction) depending on the direction of the strike."
+            },
+            {
+              "type": "paragraph",
+              "text": "When the coin is struck to move 4 units to the right and then 3 units to the right, the final position is 4 + 3 = 7. If we model rightward movements as positive integers and leftward movements as negative integers, we can represent any sequence of movements as a sum of integers."
+            },
+            {
+              "type": "note",
+              "title": "Carrom Model Convention",
+              "text": "In the carrom coin model: Rightward movement = Positive integer, Leftward movement = Negative integer. If the first strike moves the coin 'a' units (positive if rightward, negative if leftward) and the second strike moves it 'b' units (positive if rightward, negative if leftward), then the final position P = a + b."
+            },
+            {
+              "type": "example",
+              "title": "Example 1: Carrom Coin Movement",
+              "content": "If a coin starts at 0, moves 5 units to the right (first strike) and then 7 units to the left (second strike), what is its final position?\nFirst movement = +5 (rightward)\nSecond movement = -7 (leftward)\nFinal position = 5 + (-7) = -2\nThe coin is now 2 units to the left of 0."
+            },
+            {
+              "type": "example",
+              "title": "Example 2: Multiple Movements",
+              "content": "If a coin is struck with movements: 1, 2, 3, -4, -5, -6, -7, -8, -9, -10 (in that order), what is the final position?\nFinal position = 1 + 2 + 3 + (-4) + (-5) + (-6) + (-7) + (-8) + (-9) + (-10)\n= (1 + 2 + 3) + (-4 - 5 - 6 - 7 - 8 - 9 - 10)\n= 6 + (-49)\n= -43"
+            }
+          ]
+        },
+        {
+          "topic_name": "Token Model for Addition and Subtraction",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The token model uses visual representations to understand integer operations. A green token represents +1 (positive 1), and a red token represents -1 (negative 1). A pair of one green and one red token together equals zero, as they cancel each other out."
+            },
+            {
+              "type": "paragraph",
+              "text": "This model is particularly useful for understanding subtraction. When we need to subtract a larger number from a smaller number (e.g., 7 - 18), we cannot directly remove 18 positive tokens from only 7 positive tokens. Instead, we add zero pairs (pairs of green and red tokens) until we have enough tokens to perform the subtraction."
+            },
+            {
+              "type": "note",
+              "title": "Token Model Components",
+              "text": "Green token = +1 (positive), Red token = -1 (negative). One green and one red token together form a zero pair (since +1 and -1 cancel each other). When performing subtraction, we can add zero pairs to make the operation possible without changing the value of the expression."
+            },
+            {
+              "type": "example",
+              "title": "Example: Subtraction Using Tokens (7 - 18)",
+              "content": "To find (7) - (18):\nStep 1: Start with 7 green tokens (representing +7).\nStep 2: We need to remove 18 green tokens, but we only have 7. So we add 11 zero pairs (11 green and 11 red tokens).\nStep 3: Now we have 18 green tokens and 11 red tokens total.\nStep 4: Remove the 18 green tokens as required.\nStep 5: We are left with 11 red tokens, which represent -11.\nTherefore, 7 - 18 = -11."
+            }
+          ]
+        },
+        {
+          "topic_name": "Additive Inverse and Subtraction",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The additive inverse of an integer 'a' is the integer '-a'. When we add a number and its additive inverse, the result is always zero: a + (-a) = 0."
+            },
+            {
+              "type": "paragraph",
+              "text": "An important property of subtraction is that subtracting a number is equivalent to adding its additive inverse. For example, 7 - 18 is the same as 7 + (-18). Similarly, 4 - (-12) is the same as 4 + 12, because the additive inverse of -12 is +12."
+            },
+            {
+              "type": "note",
+              "title": "Additive Inverse Property",
+              "text": "For any integer 'a': The additive inverse of a is -a, such that a + (-a) = 0. The additive inverse of -a is -(-a) = a. This property allows us to convert subtraction into addition: a - b = a + (-b)."
+            },
+            {
+              "type": "example",
+              "title": "Example: Using Additive Inverse",
+              "content": "(1) 7 - 18 = 7 + (-18) = -11 (additive inverse of 18 is -18)\n(2) 4 - (-12) = 4 + 12 = 16 (additive inverse of -12 is +12)\n(3) -5 - 8 = -5 + (-8) = -13 (additive inverse of 8 is -8)\n(4) -3 - (-7) = -3 + 7 = 4 (additive inverse of -7 is +7)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.2 Multiplication of Integers",
+      "topics": [
+        {
+          "topic_name": "Multiplying Positive Integers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Multiplication of positive integers follows familiar patterns. When we multiply two positive integers, the product is always positive. For example, 4 × 2 = 8 (the product of two positive integers is positive)."
+            },
+            {
+              "type": "paragraph",
+              "text": "In the token model, 4 × 2 means placing 2 positive tokens into a bag 4 times. After placing: 2 tokens (1st time) + 2 tokens (2nd time) + 2 tokens (3rd time) + 2 tokens (4th time) = 8 positive tokens total, representing 8."
+            },
+            {
+              "type": "note",
+              "title": "Positive × Positive = Positive",
+              "text": "When two positive integers are multiplied, the product is always positive. This is the rule for a positive multiplier acting on a positive multiplicand."
+            }
+          ]
+        },
+        {
+          "topic_name": "Multiplying a Positive and Negative Integer (Positive × Negative)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When a positive integer multiplies a negative integer, the product is always negative. Using the token model, 4 × (-2) means placing 2 negative (red) tokens into an empty bag 4 times. The result is 8 red tokens, representing -8."
+            },
+            {
+              "type": "example",
+              "title": "Example: Positive × Negative",
+              "content": "(1) 4 × (-2) = -8\n    Interpretation: Place 2 negative tokens into the bag 4 times = 8 negative tokens = -8\n(2) 4 × (-6) = -24\n(3) 9 × (-7) = -63"
+            },
+            {
+              "type": "note",
+              "title": "Positive × Negative = Negative",
+              "text": "When a positive integer multiplies a negative integer, the product is always negative. The magnitude (absolute value) of the product equals the product of the magnitudes, but the sign is negative."
+            }
+          ]
+        },
+        {
+          "topic_name": "Multiplying a Negative and Positive Integer (Negative × Positive)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When a negative integer multiplies a positive integer, we interpret this using the removal concept. For (-4) × 2, we remove 2 positive (green) tokens from the empty bag 4 times. Since we cannot remove tokens from an empty bag, we first place zero pairs (pairs of green and red tokens) and then remove the required green tokens."
+            },
+            {
+              "type": "paragraph",
+              "text": "In (-4) × 2: To remove 2 positive tokens 4 times, we place 4 × 2 = 8 zero pairs (8 green and 8 red tokens). Then we remove 8 green tokens. We are left with 8 red tokens, representing -8. Therefore, (-4) × 2 = -8."
+            },
+            {
+              "type": "example",
+              "title": "Example: Negative × Positive",
+              "content": "(1) (-4) × 2 = -8\n    Interpretation: Remove 2 positive tokens 4 times. Add zero pairs and remove → -8\n(2) (-7) × 3 = -21\n(3) (-5) × 8 = -40"
+            },
+            {
+              "type": "note",
+              "title": "Negative × Positive = Negative",
+              "text": "When a negative integer multiplies a positive integer, the product is always negative. The result is the same as if we multiplied their magnitudes and made the result negative."
+            }
+          ]
+        },
+        {
+          "topic_name": "Multiplying Two Negative Integers (Negative × Negative)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When two negative integers are multiplied, the product is always positive. Using the token model, (-4) × (-2) means removing 2 negative (red) tokens from the empty bag 4 times. We place 8 zero pairs (8 green and 8 red tokens), then remove 8 red tokens. We are left with 8 green tokens, representing +8."
+            },
+            {
+              "type": "example",
+              "title": "Example: Negative × Negative",
+              "content": "(1) (-4) × (-2) = 8\n    Interpretation: Remove 2 negative tokens 4 times. Add zero pairs and remove → +8\n(2) (-5) × (-2) = 10\n(3) (-7) × (-3) = 21"
+            },
+            {
+              "type": "note",
+              "title": "Negative × Negative = Positive",
+              "text": "When two negative integers are multiplied, the product is always positive. This is a key rule: the product of two numbers with the same sign (both positive or both negative) is positive."
+            }
+          ]
+        },
+        {
+          "topic_name": "Sign Rules for Multiplication of Integers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Based on the token model exploration, we can establish clear rules for multiplication of integers based on the signs of the multiplier and multiplicand."
+            },
+            {
+              "type": "table",
+              "headers": ["Multiplier", "Multiplicand", "Product Sign", "Example"],
+              "rows": [
+                ["Positive", "Positive", "Positive", "5 × 3 = 15"],
+                ["Positive", "Negative", "Negative", "5 × (-3) = -15"],
+                ["Negative", "Positive", "Negative", "(-5) × 3 = -15"],
+                ["Negative", "Negative", "Positive", "(-5) × (-3) = 15"]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Sign Rule for Multiplication",
+              "text": "1. Positive × Positive = Positive\n2. Positive × Negative = Negative\n3. Negative × Positive = Negative\n4. Negative × Negative = Positive\n\nIn summary: Same signs (both + or both -) → Product is Positive. Different signs → Product is Negative."
+            }
+          ]
+        },
+        {
+          "topic_name": "Patterns in Integer Multiplication",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When we examine a sequence of multiplications with a fixed multiplicand, we observe clear patterns. For example, when the multiplicand is positive (+3), decreasing the multiplier by 1 unit decreases the product by 3 units."
+            },
+            {
+              "type": "example",
+              "title": "Example: Pattern with Positive Multiplicand (+3)",
+              "content": "4 × 3 = 12\n3 × 3 = 9     (decrease by 3)\n2 × 3 = 6     (decrease by 3)\n1 × 3 = 3     (decrease by 3)\n0 × 3 = 0     (decrease by 3)\n(-1) × 3 = -3     (decrease by 3)\n(-2) × 3 = -6     (decrease by 3)\n(-3) × 3 = -9     (decrease by 3)\n\nPattern: For every unit decrease in the multiplier, the product decreases by 3 (the multiplicand)."
+            },
+            {
+              "type": "paragraph",
+              "text": "When the multiplicand is negative, the pattern is inverted. For example, when the multiplicand is negative (-3), decreasing the multiplier by 1 unit increases the product by 3 units."
+            },
+            {
+              "type": "example",
+              "title": "Example: Pattern with Negative Multiplicand (-3)",
+              "content": "4 × (-3) = -12\n3 × (-3) = -9     (increase by 3)\n2 × (-3) = -6     (increase by 3)\n1 × (-3) = -3     (increase by 3)\n0 × (-3) = 0     (increase by 3)\n(-1) × (-3) = 3     (increase by 3)\n(-2) × (-3) = 6     (increase by 3)\n(-3) × (-3) = 9     (increase by 3)\n\nPattern: For every unit decrease in the multiplier, the product increases by 3 (the absolute value of the negative multiplicand)."
+            },
+            {
+              "type": "note",
+              "title": "Pattern Observation",
+              "text": "These patterns hold even when multipliers are positive, zero, or negative. They demonstrate that the sign rules for multiplication are consistent and logical extensions of familiar arithmetic."
+            }
+          ]
+        },
+        {
+          "topic_name": "Special Cases: Multiplication by 1 and -1",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Multiplication by 1 is the identity operation for integers: 1 × a = a for any integer a. This means multiplying any integer by 1 gives back that integer unchanged."
+            },
+            {
+              "type": "paragraph",
+              "text": "Multiplication by -1 produces the additive inverse of the integer: (-1) × a = -a for any integer a. When a is positive, the result is negative. When a is negative, the result is positive. When a is zero, the result is zero."
+            },
+            {
+              "type": "example",
+              "title": "Example: Multiplication by 1 and -1",
+              "content": "(1) 1 × 7 = 7\n    1 × (-5) = -5\n    1 × 0 = 0\n\n(2) (-1) × 7 = -7 (opposite of 7)\n    (-1) × (-5) = 5 (opposite of -5)\n    (-1) × 0 = 0"
+            },
+            {
+              "type": "note",
+              "title": "Special Multiplication Cases",
+              "text": "1. Multiplying by 1: 1 × a = a × 1 = a (identity property)\n2. Multiplying by -1: (-1) × a = a × (-1) = -a (additive inverse property)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.3 Properties of Multiplication of Integers",
+      "topics": [
+        {
+          "topic_name": "Commutative Property of Multiplication",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The commutative property of multiplication states that the order in which we multiply two integers does not affect the product. In other words, a × b = b × a for any two integers a and b."
+            },
+            {
+              "type": "paragraph",
+              "text": "This property holds regardless of whether the integers are positive or negative. The magnitude of the product remains the same when we swap the multiplier and multiplicand, and the sign of the product also remains the same."
+            },
+            {
+              "type": "example",
+              "title": "Example: Commutative Property",
+              "content": "(1) 3 × (-4) = -12  and  (-4) × 3 = -12\n(2) (-30) × 12 = -360  and  12 × (-30) = -360\n(3) (-15) × (-8) = 120  and  (-8) × (-15) = 120\n(4) 14 × (-5) = -70  and  (-5) × 14 = -70"
+            },
+            {
+              "type": "note",
+              "title": "Commutative Property of Integer Multiplication",
+              "text": "For any two integers a and b: a × b = b × a. The magnitude of the product remains unchanged (depends only on the magnitudes of a and b). The sign of the product is also unchanged when we swap a and b (determined by the signs of both numbers)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Associative Property of Multiplication",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The associative property of multiplication states that when multiplying three integers, the way we group them does not affect the final product. That is, (a × b) × c = a × (b × c) for any three integers a, b, and c."
+            },
+            {
+              "type": "example",
+              "title": "Example 1: Associative Property with Integers",
+              "content": "Find the value of 5 × (-3) × 4:\nMethod 1: (5 × (-3)) × 4 = (-15) × 4 = -60\nMethod 2: 5 × ((-3) × 4) = 5 × (-12) = -60\nBoth methods give the same result: -60"
+            },
+            {
+              "type": "example",
+              "title": "Example 2: Associative Property with Multiple Integers",
+              "content": "Find the value of 25 × (-6) × 12:\n= (25 × 12) × (-6)  (can multiply any two first)\n= 300 × (-6)\n= -1800\n\nOr: = (25 × (-6)) × 12\n= (-150) × 12\n= -1800\n\nThe product remains the same regardless of grouping."
+            },
+            {
+              "type": "note",
+              "title": "Associative Property of Integer Multiplication",
+              "text": "For any three integers a, b, and c: (a × b) × c = a × (b × c). This means we can multiply integers in any order when there are multiple multiplications, and the result will always be the same."
+            }
+          ]
+        },
+        {
+          "topic_name": "Distributive Property of Multiplication over Addition",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The distributive property states that multiplication distributes over addition. For any three integers a, b, and c: a × (b + c) = (a × b) + (a × c). This property shows how to expand a product of an integer and a sum."
+            },
+            {
+              "type": "example",
+              "title": "Example 1: Distributive Property with Positive Integers",
+              "content": "Evaluate 5 × (4 + (-2)):\nMethod 1 (Direct): 5 × (4 + (-2)) = 5 × 2 = 10\nMethod 2 (Distributive): (5 × 4) + (5 × (-2)) = 20 + (-10) = 10\nBoth methods give the same result."
+            },
+            {
+              "type": "example",
+              "title": "Example 2: Distributive Property with Negative Integers",
+              "content": "Verify (-2) × (4 + (-3)) = (-2) × 4 + (-2) × (-3):\nLHS: (-2) × (4 + (-3)) = (-2) × 1 = -2\nRHS: ((-2) × 4) + ((-2) × (-3)) = (-8) + 6 = -2\nBoth sides are equal, confirming the property."
+            },
+            {
+              "type": "note",
+              "title": "Distributive Property of Multiplication over Addition",
+              "text": "For any integers a, b, and c: a × (b + c) = (a × b) + (a × c). This property is valid for all integers, whether positive, negative, or zero. It is a fundamental property that extends the concept from whole numbers to integers."
+            }
+          ]
+        },
+        {
+          "topic_name": "Sign Rule for Products of Multiple Integers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When multiplying more than two integers, we can determine the sign of the final product by counting the number of negative integers in the product. The magnitude is always the product of the individual magnitudes."
+            },
+            {
+              "type": "paragraph",
+              "text": "If the product contains an even number of negative integers, the final product is positive. If it contains an odd number of negative integers, the final product is negative. Zero as any factor always makes the product zero."
+            },
+            {
+              "type": "example",
+              "title": "Example: Patterns in Products of (-1)",
+              "content": "(-1) × (-1) = 1  (2 negative factors → positive result)\n(-1) × (-1) × (-1) = -1  (3 negative factors → negative result)\n(-1) × (-1) × (-1) × (-1) = 1  (4 negative factors → positive result)\n(-1) × (-1) × (-1) × (-1) × (-1) = -1  (5 negative factors → negative result)\n\nPattern: Even number of negatives → Positive product. Odd number of negatives → Negative product."
+            },
+            {
+              "type": "example",
+              "title": "Example: General Multiplication",
+              "content": "(1) (-2) × (-1) × (-5) × (-3) = 30\n    Number of negative factors: 4 (even) → Product is positive\n    Magnitude: 2 × 1 × 5 × 3 = 30\n\n(2) (-2) × (-1) × (-5) = -10\n    Number of negative factors: 3 (odd) → Product is negative\n    Magnitude: 2 × 1 × 5 = 10"
+            },
+            {
+              "type": "note",
+              "title": "Sign Rule for Multiple Integer Products",
+              "text": "1. Count the negative integers in the product.\n2. If the count is even → the product is positive.\n3. If the count is odd → the product is negative.\n4. The magnitude of the product is the product of the magnitudes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.4 Division of Integers",
+      "topics": [
+        {
+          "topic_name": "Division as Inverse of Multiplication",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Division of integers is the inverse operation of multiplication. If a × b = c, then c ÷ a = b (where a ≠ 0). We can solve a division problem by asking: 'What number should be multiplied by the divisor to get the dividend?'"
+            },
+            {
+              "type": "example",
+              "title": "Example 1: Division as Inverse of Multiplication",
+              "content": "Find (-100) ÷ 25:\nWe ask: What should be multiplied by 25 to get -100?\n25 × ? = -100\n25 × (-4) = -100\nTherefore, (-100) ÷ 25 = -4"
+            },
+            {
+              "type": "example",
+              "title": "Example 2: Division with Negative Divisor",
+              "content": "Find (-100) ÷ (-4):\nWe ask: What should be multiplied by -4 to get -100?\n(-4) × ? = -100\n(-4) × 25 = -100\nTherefore, (-100) ÷ (-4) = 25"
+            },
+            {
+              "type": "note",
+              "title": "Division Definition",
+              "text": "For any integers a, b, c where b ≠ 0: If b × c = a, then a ÷ b = c. Division asks the question: 'What number times the divisor equals the dividend?' This relationship holds for all integer divisions."
+            }
+          ]
+        },
+        {
+          "topic_name": "Sign Rules for Division of Integers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The sign rules for division of integers parallel the sign rules for multiplication. Since division is the inverse of multiplication, the sign of the quotient follows similar logic."
+            },
+            {
+              "type": "table",
+              "headers": ["Dividend", "Divisor", "Quotient Sign", "Example"],
+              "rows": [
+                ["Positive", "Positive", "Positive", "20 ÷ 4 = 5"],
+                ["Positive", "Negative", "Negative", "20 ÷ (-4) = -5"],
+                ["Negative", "Positive", "Negative", "(-20) ÷ 4 = -5"],
+                ["Negative", "Negative", "Positive", "(-20) ÷ (-4) = 5"]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Division Sign Rules",
+              "text": "1. Positive ÷ Positive = Positive\n2. Positive ÷ Negative = Negative\n3. Negative ÷ Positive = Negative\n4. Negative ÷ Negative = Positive\n\nIn summary: Same signs → Quotient is Positive. Different signs → Quotient is Negative."
+            },
+            {
+              "type": "paragraph",
+              "text": "From these rules, we can derive the general division formulas for positive integers a and b (where b ≠ 0):\n\na ÷ (-b) = -(a ÷ b)\n(-a) ÷ (-b) = a ÷ b"
+            }
+          ]
+        },
+        {
+          "topic_name": "Properties of Division",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Division of integers has some important characteristics that differ from multiplication. Division is NOT commutative and NOT associative, meaning the order matters and the grouping affects the result."
+            },
+            {
+              "type": "example",
+              "title": "Example: Division is NOT Commutative",
+              "content": "Consider 20 ÷ 4 and 4 ÷ 20:\n20 ÷ 4 = 5\n4 ÷ 20 = 1/5 (not an integer, and certainly not 5)\n\nTherefore: a ÷ b ≠ b ÷ a in general. Division is NOT commutative."
+            },
+            {
+              "type": "example",
+              "title": "Example: Division is NOT Associative",
+              "content": "Consider (32 ÷ 8) ÷ 2 and 32 ÷ (8 ÷ 2):\n(32 ÷ 8) ÷ 2 = 4 ÷ 2 = 2\n32 ÷ (8 ÷ 2) = 32 ÷ 4 = 8\n\nSince 2 ≠ 8, division is NOT associative."
+            },
+            {
+              "type": "note",
+              "title": "Properties of Division",
+              "text": "1. Division is NOT commutative: a ÷ b ≠ b ÷ a\n2. Division is NOT associative: (a ÷ b) ÷ c ≠ a ÷ (b ÷ c)\n3. The dividend is being divided by the divisor; order is critical.\n4. Division by zero is undefined."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.5 Expressions Using Integers",
+      "topics": [
+        {
+          "topic_name": "Evaluating Complex Expressions with Multiple Operations",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When evaluating expressions containing multiple operations (addition, subtraction, multiplication, division), we must follow the correct order of operations, often remembered by the acronym BODMAS or PEMDAS (Brackets/Parentheses, Orders/Exponents, Division and Multiplication from left to right, Addition and Subtraction from left to right)."
+            },
+            {
+              "type": "paragraph",
+              "text": "For integer expressions, we follow the same order: First evaluate expressions in parentheses, then perform multiplications and divisions from left to right, and finally perform additions and subtractions from left to right."
+            },
+            {
+              "type": "example",
+              "title": "Example 1: Mixed Operations",
+              "content": "Evaluate: 5 × (-3) × 4\nSince multiplication is associative and commutative:\n= (5 × (-3)) × 4\n= (-15) × 4\n= -60\n\nAlternatively:\n= 5 × ((-3) × 4)\n= 5 × (-12)\n= -60"
+            },
+            {
+              "type": "example",
+              "title": "Example 2: Parentheses First",
+              "content": "Evaluate: (-5) × (18 + (-3))\nStep 1: Evaluate the parentheses first: 18 + (-3) = 15\nStep 2: Multiply: (-5) × 15 = -75"
+            },
+            {
+              "type": "example",
+              "title": "Example 3: Complex Expression",
+              "content": "Evaluate: (-2) × (-1) × (-5) × (-3)\nCounting negative factors: 4 (even) → positive result\nMagnitude: 2 × 1 × 5 × 3 = 30\nResult: 30"
+            },
+            {
+              "type": "note",
+              "title": "Order of Operations for Integer Expressions",
+              "text": "BODMAS/PEMDAS: 1. Parentheses/Brackets first, 2. Multiplication and Division (left to right), 3. Addition and Subtraction (left to right). Always work inside parentheses first, then handle multiplication/division operations, and finally addition/subtraction."
+            }
+          ]
+        },
+        {
+          "topic_name": "Applications: Integer Operations in Real-World Contexts",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Integer operations have practical applications in many real-world situations. Common scenarios include: keeping score in games (gains and losses), temperature changes (increases and decreases), financial transactions (profits and losses), and elevation changes (above and below ground level)."
+            },
+            {
+              "type": "example",
+              "title": "Example 1: Test Scoring",
+              "content": "In a test: +4 marks for each correct answer, -2 marks for each incorrect answer.\nIf Anita had 15 correct and some incorrect answers, and scored 40 marks total:\nLet x = number of incorrect answers\n4(15) + (-2)x = 40\n60 - 2x = 40\n2x = 20\nx = 10\n\nAnita had 10 incorrect answers. Total questions = 15 + 10 = 25."
+            },
+            {
+              "type": "example",
+              "title": "Example 2: Elevator Position",
+              "content": "An elevator moves at 3 meters per minute.\nStarting from 15 m above ground, descending for 45 minutes:\nDisplacement = 45 × (-3) = -135 meters (negative because descending)\nFinal position = 15 + (-135) = -120 meters\n\nThe elevator is 120 meters below ground level."
+            },
+            {
+              "type": "note",
+              "title": "Real-World Application Strategy",
+              "text": "1. Identify positive and negative quantities (gains/losses, ups/downs, profits/losses)\n2. Set up the integer expression or equation\n3. Apply integer operations following order of operations\n4. Interpret the result in context"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.6 Brahmagupta's Rules for Multiplication and Division",
+      "topics": [
+        {
+          "topic_name": "Historical Context: Ancient Integer Arithmetic",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Brahmagupta, an ancient Indian mathematician from the 7th century (628 CE), was among the first to articulate explicit rules for multiplication and division of positive and negative numbers. In his work 'Brhmasphutsiddhanta' (sections 18.30-32), he used the terms 'dhana' (fortune) for positive values and 'rna' (debt) for negative values."
+            },
+            {
+              "type": "paragraph",
+              "text": "His rules were: 'The product or quotient of two fortunes is a fortune. The product or quotient of two debts is a fortune. The product or quotient of a debt and a fortune is a debt. The product or quotient of a fortune and a debt is a debt.' These rules are the first known explicit formulation of integer multiplication and division rules."
+            },
+            {
+              "type": "note",
+              "title": "Brahmagupta's Rules (628 CE)",
+              "text": "Using 'fortune' (+) and 'debt' (-) terminology:\n1. Fortune × Fortune = Fortune (+× + = +)\n2. Debt × Debt = Fortune (- × - = +)\n3. Debt × Fortune = Debt (- × + = -)\n4. Fortune × Debt = Debt (+ × - = -)\n\nThese same rules apply to division (quotient)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Integer",
+      "definition": "A whole number that includes positive numbers, negative numbers, and zero. Examples: ..., -3, -2, -1, 0, 1, 2, 3, ..."
+    },
+    {
+      "term": "Additive Inverse",
+      "definition": "For any integer a, its additive inverse is -a, such that a + (-a) = 0. The additive inverse of 5 is -5; the additive inverse of -3 is 3."
+    },
+    {
+      "term": "Commutative Property",
+      "definition": "A property stating that the order of operands does not change the result. For multiplication: a × b = b × a."
+    },
+    {
+      "term": "Associative Property",
+      "definition": "A property stating that the grouping of operands does not change the result. For multiplication: (a × b) × c = a × (b × c)."
+    },
+    {
+      "term": "Distributive Property",
+      "definition": "A property stating that multiplication distributes over addition: a × (b + c) = (a × b) + (a × c)."
+    },
+    {
+      "term": "Multiplicand",
+      "definition": "The number being multiplied. In the expression 5 × 3, the multiplicand is 3."
+    },
+    {
+      "term": "Multiplier",
+      "definition": "The number that multiplies another. In the expression 5 × 3, the multiplier is 5."
+    },
+    {
+      "term": "Product",
+      "definition": "The result of multiplication. In 5 × 3 = 15, the product is 15."
+    },
+    {
+      "term": "Dividend",
+      "definition": "The number being divided. In 20 ÷ 4 = 5, the dividend is 20."
+    },
+    {
+      "term": "Divisor",
+      "definition": "The number that divides another. In 20 ÷ 4 = 5, the divisor is 4."
+    },
+    {
+      "term": "Quotient",
+      "definition": "The result of division. In 20 ÷ 4 = 5, the quotient is 5."
+    },
+    {
+      "term": "Magnitude (or Absolute Value)",
+      "definition": "The distance of a number from zero on the number line, always non-negative. The magnitude of both 5 and -5 is 5."
+    },
+    {
+      "term": "Token Model",
+      "definition": "A visual model using green tokens (+1) and red tokens (-1) to represent integer operations. A green and red token together form a zero pair."
+    },
+    {
+      "term": "Zero Pair",
+      "definition": "A pair consisting of one positive token (+1) and one negative token (-1), which together represent zero."
+    },
+    {
+      "term": "Carrom Coin Model",
+      "definition": "A physical model using a coin on a number line to represent integer operations. Rightward movement = positive, leftward movement = negative."
+    },
+    {
+      "term": "Number Line",
+      "definition": "A horizontal line with zero at the center, positive integers to the right, and negative integers to the left. Used to visualize integer order and operations."
+    },
+    {
+      "term": "Sign Rule",
+      "definition": "Rules determining the sign of results in multiplication or division. Same signs produce positive results; different signs produce negative results."
+    }
+  ],
+  "summary_points": [
+    "Integers include positive numbers, negative numbers, and zero. The number line and carrom coin model help visualize integer operations.",
+    "The token model (green = +1, red = -1) shows that subtracting a number equals adding its additive inverse: a - b = a + (-b).",
+    "Multiplication sign rules: Positive × Positive = Positive; Positive × Negative = Negative; Negative × Positive = Negative; Negative × Negative = Positive.",
+    "Products of multiple integers: Even number of negative factors → Positive result. Odd number of negative factors → Negative result.",
+    "Integer multiplication is commutative (a × b = b × a) and associative ((a × b) × c = a × (b × c)).",
+    "Integer multiplication distributes over addition: a × (b + c) = (a × b) + (a × c).",
+    "Division sign rules mirror multiplication: Same signs → Positive quotient. Different signs → Negative quotient.",
+    "Division is defined as the inverse of multiplication: a ÷ b = c if and only if b × c = a (where b ≠ 0).",
+    "Division is NOT commutative and NOT associative, so order matters in division operations.",
+    "Real-world applications of integer operations include test scoring, temperature changes, financial transactions, and elevation changes.",
+    "Brahmagupta (628 CE) was the first to explicitly formalize rules for multiplication and division of positive and negative numbers using 'fortune' and 'debt' terminology."
+  ]
+}

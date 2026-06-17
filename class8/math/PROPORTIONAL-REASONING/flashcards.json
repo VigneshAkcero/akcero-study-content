@@ -1,0 +1,322 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Mathematics",
+    "chapter_name": "Proportional Reasoning (Chapters 1 & 2 Combined)",
+    "chapters": [7, 3]
+  },
+  "flashcards": [
+    {
+      "q": "What is a ratio?",
+      "a": "A ratio is a comparison between two quantities of the same type. It shows how many units of one quantity correspond to units of another. For example, a ratio of 3:2 means for every 3 units of the first quantity, there are 2 units of the second."
+    },
+    {
+      "q": "What are the terms in a ratio?",
+      "a": "The terms of a ratio are the numbers being compared. In the ratio a:b, 'a' and 'b' are the two terms. For example, in the ratio 60:40, the terms are 60 and 40."
+    },
+    {
+      "q": "What does it mean for two ratios to be proportional?",
+      "a": "Two ratios a:b and c:d are proportional (written a:b::c:d) if the terms change by the same factor. This means a/c = b/d or equivalently a×d = b×c (cross-multiplication method)."
+    },
+    {
+      "q": "How can you verify if two ratios are proportional?",
+      "a": "There are two methods: (1) Reduce both ratios to their simplest form and check if they're identical. (2) Use cross-multiplication: if a:b and c:d are two ratios, they are proportional if a×d = b×c."
+    },
+    {
+      "q": "What is the simplest form of a ratio?",
+      "a": "The simplest form of a ratio is obtained by dividing both terms by their Highest Common Factor (HCF). For example, the ratio 60:40 has HCF = 20, so simplest form = 60÷20:40÷20 = 3:2."
+    },
+    {
+      "q": "What does proportional change mean?",
+      "a": "Proportional change means both quantities change by the same factor (through multiplication). For example, if width is multiplied by 1/2 and height is also multiplied by 1/2, the quantities change proportionally."
+    },
+    {
+      "q": "How is proportional change different from equal subtraction?",
+      "a": "In proportional change, both quantities are multiplied by the same factor. In equal subtraction, the same amount is subtracted from both quantities. Equal subtraction does NOT preserve the ratio and may distort shapes or relationships."
+    },
+    {
+      "q": "What is similarity in the context of images or shapes?",
+      "a": "Two shapes are similar when their corresponding linear dimensions change by the same factor. Similar shapes have the same proportions and appearance, even if they're different sizes. Ratios of corresponding sides are equal."
+    },
+    {
+      "q": "In the cross-multiplication method, if ratios a:b and c:d are proportional, what equation must be true?",
+      "a": "The equation a×d = b×c must be true. This is called the cross-multiplication condition for proportionality."
+    },
+    {
+      "q": "What is a Representative Fraction (RF) on a map?",
+      "a": "A Representative Fraction (RF) is a ratio that expresses the relationship between distance on a map and the corresponding actual ground distance. For example, RF 1:60,00,000 means 1 cm on the map represents 60,00,000 cm (or 600 km) on the actual ground."
+    },
+    {
+      "q": "If a map has RF 1:60,00,000, what actual distance does 1 cm on the map represent?",
+      "a": "1 cm on the map represents 60,00,000 cm on the ground. Converting: 60,00,000 cm = 60,000 m = 60 km. So 1 cm on map = 60 km actual distance."
+    },
+    {
+      "q": "How do you find actual distance between two places on a map?",
+      "a": "Step 1: Measure the distance between the two places on the map (in cm) using a ruler. Step 2: Use the map's RF ratio to convert this measured distance to actual ground distance. For RF 1:x, actual distance = measured distance × x."
+    },
+    {
+      "q": "What is a multi-term ratio?",
+      "a": "A multi-term ratio compares more than two quantities. For example, 8:4:2:1 is a ratio with four terms. It indicates the relationship between four different quantities where each changes by the same factor."
+    },
+    {
+      "q": "When are two multi-term ratios proportional?",
+      "a": "Two multi-term ratios a:b:c:d and p:q:r:s are proportional if a/p = b/q = c/r = d/s. All these quotients must be equal to the same factor."
+    },
+    {
+      "q": "How do you make a multi-term ratio with a specific quantity known?",
+      "a": "If you know the quantity for one term and want the ratio to be proportional, multiply all terms of the original ratio by the same factor. For example, if 8:4:2:1 and you have 4 of the first item, multiply all terms by 1/2 to get 4:2:1:0.5."
+    },
+    {
+      "q": "How do you divide a quantity in a given ratio a:b?",
+      "a": "Step 1: Add the terms of the ratio (a+b). Step 2: Divide the quantity by this sum to get the unit value. Step 3: Multiply each term by this unit value. For example, divide 12 in ratio 2:1: sum=3, unit=12÷3=4, parts are 2×4=8 and 1×4=4."
+    },
+    {
+      "q": "If you divide quantity x in the ratio m:n, what are the two parts?",
+      "a": "First part = m × (x/(m+n)), Second part = n × (x/(m+n)). Alternatively: First part = (m/(m+n)) × x, Second part = (n/(m+n)) × x."
+    },
+    {
+      "q": "How do you divide a quantity in a multi-term ratio a:b:c:d?",
+      "a": "Step 1: Add all terms (a+b+c+d). Step 2: Divide the quantity by this sum to get the unit value. Step 3: Multiply each term by the unit value. For example, divide 110 in ratio 1:1.5:3: sum=5.5, unit=110÷5.5=20, parts are 1×20=20, 1.5×20=30, 3×20=60."
+    },
+    {
+      "q": "If quantity x is divided in ratio a:b:c:d, what are the four parts?",
+      "a": "First part = a × (x/(a+b+c+d)), Second part = b × (x/(a+b+c+d)), Third part = c × (x/(a+b+c+d)), Fourth part = d × (x/(a+b+c+d))."
+    },
+    {
+      "q": "What is direct proportion (or directly proportional)?",
+      "a": "Two quantities are directly proportional if they change by the same factor. When one increases by a factor n, the other also increases by the same factor n. Their ratio (quotient) remains constant. Example: if distance and time are proportional, doubling time doubles distance."
+    },
+    {
+      "q": "In direct proportion, if x and y are two quantities, what equation represents their relationship?",
+      "a": "x₁/y₁ = x₂/y₂ = x₃/y₃ = ... = k (constant). Alternatively: y = kx, where k is the constant of proportionality."
+    },
+    {
+      "q": "What is inverse proportion (or inversely proportional)?",
+      "a": "Two quantities are inversely proportional if when one changes by a factor n, the other changes by the inverse factor 1/n. Their product remains constant. Example: if workers increase, time to complete work decreases inversely."
+    },
+    {
+      "q": "In inverse proportion, if x and y are two quantities, what equation represents their relationship?",
+      "a": "x₁ × y₁ = x₂ × y₂ = x₃ × y₃ = ... = k (constant). Alternatively: xy = k or y = k/x, where k is the constant of proportionality."
+    },
+    {
+      "q": "If two workers can complete a job in 12 days, how many days will 3 workers take?",
+      "a": "This is inverse proportion. If x₁=2 workers, y₁=12 days, and x₂=3 workers, then: 2×12 = 3×y₂, so y₂ = 24/3 = 8 days. More workers → fewer days."
+    },
+    {
+      "q": "How can you determine if two quantities are directly or inversely proportional?",
+      "a": "Check if multiplying/increasing one quantity also multiplies/increases the other (direct) or multiplies/decreases the other (inverse). Directly: both change in same direction. Inversely: they change in opposite directions."
+    },
+    {
+      "q": "True or False: Speed and time are directly proportional when covering a fixed distance.",
+      "a": "False. They are inversely proportional. For a fixed distance, if speed increases, time decreases. (distance = speed × time = constant)"
+    },
+    {
+      "q": "True or False: The cost of items and the quantity purchased are directly proportional at a fixed price per item.",
+      "a": "True. At a fixed rate per item, cost = quantity × fixed rate. Doubling quantity doubles cost. They change by the same factor."
+    },
+    {
+      "q": "True or False: The number of workers and the time to complete a fixed work are directly proportional.",
+      "a": "False. They are inversely proportional. More workers → less time. Product remains constant: (workers × time = constant work amount)."
+    },
+    {
+      "q": "If 24 pencils cost ₹120, what is the cost of 20 pencils?",
+      "a": "Direct proportion. Cost per pencil = 120/24 = ₹5. Cost of 20 pencils = 20 × 5 = ₹100. Alternatively: 24:120 :: 20:x, so x = (20×120)/24 = ₹100."
+    },
+    {
+      "q": "If 20 workers take 4 days to complete work, how many days will 10 workers take?",
+      "a": "Inverse proportion. 20×4 = 10×y, so y = 80/10 = 8 days. Fewer workers take longer (double the workers, half the time)."
+    },
+    {
+      "q": "What is the Unitary Method?",
+      "a": "The Unitary Method is a way to solve proportion problems by first finding the value of one unit, then using that to find the value of the required quantity. Example: if 5 apples cost ₹20, find cost of 8 apples: cost of 1 apple = ₹20/5 = ₹4, cost of 8 apples = ₹4 × 8 = ₹32."
+    },
+    {
+      "q": "If a pump fills a tank in 3 hours, how long will it take to fill 2 such tanks?",
+      "a": "Direct proportion. If 1 tank takes 3 hours, 2 tanks take 3 × 2 = 6 hours. More tanks → more time (same factor multiplies both)."
+    },
+    {
+      "q": "If 2 pumps fill a tank in 18 hours, how long will 4 pumps take?",
+      "a": "Inverse proportion. 2×18 = 4×x, so x = 36/4 = 9 hours. More pumps → less time. Product is constant: (pumps × time = work)."
+    },
+    {
+      "q": "What does the constant of proportionality represent?",
+      "a": "In direct proportion y=kx, k is the constant ratio between y and x (k = y/x). In inverse proportion xy=k, k is the constant product. The constant remains unchanged across all related values."
+    },
+    {
+      "q": "If 8 workers build a wall in 5 days, how many workers are needed to build it in 4 days?",
+      "a": "Inverse proportion. 8×5 = x×4, so x = 40/4 = 10 workers. Fewer days → more workers needed. Product equals total work: (workers × days = constant)."
+    },
+    {
+      "q": "How do you check if quantities are in direct proportion using a table?",
+      "a": "Calculate the ratio (quotient) of corresponding values. If all ratios are equal, they are directly proportional. Example: x=2,4,6 and y=5,10,15. Ratios: 5/2=2.5, 10/4=2.5, 15/6=2.5. All equal, so directly proportional."
+    },
+    {
+      "q": "How do you check if quantities are in inverse proportion using a table?",
+      "a": "Calculate the product of corresponding values. If all products are equal, they are inversely proportional. Example: x=2,4,6 and y=24,12,8. Products: 2×24=48, 4×12=48, 6×8=48. All equal, so inversely proportional."
+    },
+    {
+      "q": "In an idli batter recipe, rice and urad dal are in ratio 2:1. If you have 6 cups of rice, how much urad dal do you need?",
+      "a": "Direct proportion in ratios. 2:1 :: 6:x, so 2×x = 1×6, x = 3 cups urad dal. For every 2 cups rice, 1 cup urad dal is needed."
+    },
+    {
+      "q": "True or False: Two ratios are proportional if their difference is the same.",
+      "a": "False. Two ratios are proportional if they have the same factor (multiplicative change), not the same difference (additive change). Equal difference doesn't preserve ratio."
+    },
+    {
+      "q": "What is the difference between a part-to-part ratio and a part-to-whole ratio?",
+      "a": "Part-to-part ratio compares one part to another part (e.g., boys:girls = 3:2). Part-to-whole ratio compares one part to the total (e.g., boys:total students = 3:5, where 5=3+2)."
+    },
+    {
+      "q": "In a mixture of Red:Blue:White = 2:3:5, if total paint is 20 litres, how much red paint is needed?",
+      "a": "Sum of terms = 2+3+5 = 10. Red portion = (2/10) × 20 = 4 litres. Alternatively: unit = 20÷10 = 2, red = 2×2 = 4 litres."
+    },
+    {
+      "q": "Food provisions for 80 students last 15 days. If 20 more students join, for how many days will they last?",
+      "a": "Inverse proportion. Total students now = 80+20 = 100. 80×15 = 100×x, so x = 1200/100 = 12 days. More students → food lasts fewer days."
+    },
+    {
+      "q": "A school has 8 periods of 45 minutes each daily. If they want 9 periods, what should be the duration of each period (same total school hours)?",
+      "a": "Inverse proportion. Total minutes = 8×45 = 360 minutes. With 9 periods: 360 = 9×x, so x = 360/9 = 40 minutes per period."
+    },
+    {
+      "q": "What is a scale in map-making?",
+      "a": "A scale on a map is a ratio (RF) that shows the relationship between distances on the map and actual ground distances. It allows you to convert map measurements to real-world distances."
+    },
+    {
+      "q": "What assumption is needed when using maps to find distances?",
+      "a": "The assumption is that the distance measured is geographical (straight-line) distance, not road distance. Maps show geographical distance, but actual travel distance may be different due to terrain, roads, etc."
+    },
+    {
+      "q": "If image A has width:height = 60:40 and image B has width:height = 40:20, are they similar?",
+      "a": "No. Simplifying: A = 60:40 = 3:2, B = 40:20 = 2:1. Since 3:2 ≠ 2:1, the ratios are not proportional, so the images are not similar (different aspect ratios)."
+    },
+    {
+      "q": "What does it mean when you say two shapes are 'similar' in geometry?",
+      "a": "Two shapes are similar if corresponding linear dimensions change by the same factor. All corresponding sides are in the same ratio, angles are equal, and the shapes have the same proportions but different sizes."
+    },
+    {
+      "q": "How many terms can a ratio have?",
+      "a": "A ratio can have any number of terms. It starts with comparing two quantities (2 terms), but can extend to 3, 4, 5 or more terms for complex comparisons (e.g., cement:sand:gravel = 1:1.5:3)."
+    },
+    {
+      "q": "If cement:sand:gravel is 1:1.5:3 for 16.5 bags of concrete total, how much of each?",
+      "a": "Sum = 1+1.5+3 = 5.5. Unit = 16.5/5.5 = 3 bags. Cement = 1×3 = 3 bags, sand = 1.5×3 = 4.5 bags, gravel = 3×3 = 9 bags."
+    },
+    {
+      "q": "Ram takes 1 hour to cut vegetables, Shyam takes 1.5 hours. How long together?",
+      "a": "Work rates: Ram = 1 unit/hour, Shyam = 1/1.5 = 2/3 unit/hour. Together = 1 + 2/3 = 5/3 units/hour. Time for 1 unit = 1÷(5/3) = 3/5 hour = 36 minutes."
+    },
+    {
+      "q": "What is the key difference between direct and inverse proportions?",
+      "a": "Direct: Both quantities increase or decrease together (same factor). Inverse: When one increases, the other decreases (inverse factor). Direct: y=kx, Inverse: xy=k."
+    },
+    {
+      "q": "How do you convert ratios to percentages?",
+      "a": "If ratio is a:b, convert to fractions: a/(a+b) for first and b/(a+b) for second. Multiply by 100 to get percentages. Example: ratio 3:2 means 3/(3+2)×100=60% and 2/5×100=40%."
+    },
+    {
+      "q": "What is the relationship between ratios and fractions?",
+      "a": "A ratio a:b can be expressed as the fraction a/b or as two separate fractions a/(a+b) and b/(a+b) relative to the whole. Ratios compare quantities; fractions describe parts of a whole."
+    },
+    {
+      "q": "If 24 pencils cost ₹120 and 36 pencils cost ₹180, are these prices proportional?",
+      "a": "Check ratios: 24:120 simplifies to 1:5, and 36:180 simplifies to 1:5. Since ratios are equal, the prices are proportional (same unit cost of ₹5 per pencil)."
+    },
+    {
+      "q": "True or False: If one quantity is 0, the other must also be 0 in direct proportion.",
+      "a": "True. In direct proportion y=kx, if x=0, then y=k×0=0. The relationship passes through the origin (0,0)."
+    },
+    {
+      "q": "Can two quantities be in inverse proportion if one of them is 0?",
+      "a": "No. In inverse proportion xy=k (k≠0), neither x nor y can be 0 because their product must be a non-zero constant."
+    },
+    {
+      "q": "What are the terms in the ratio 8:4:2:1?",
+      "a": "The terms are 8, 4, 2, and 1. This is a 4-term ratio (or multi-term ratio) representing proportional relationships between four quantities."
+    },
+    {
+      "q": "In a rectangle with length:width = 3:2, if width is 4 cm, what is the length?",
+      "a": "Proportion: 3:2 :: x:4. Cross-multiply: 3×4 = 2×x, so x = 12/2 = 6 cm. Length = 6 cm."
+    },
+    {
+      "q": "What is meant by 'equivalent ratios'?",
+      "a": "Equivalent ratios are ratios that express the same relationship but with different terms. They simplify to the same ratio. Example: 6:4, 9:6, and 3:2 are equivalent (all simplify to 3:2)."
+    },
+    {
+      "q": "How do you find equivalent ratios?",
+      "a": "Multiply or divide both terms by the same non-zero number. Example: ratio 2:3 can be multiplied by 2 to get 4:6, by 3 to get 6:9, etc. All are equivalent."
+    },
+    {
+      "q": "If a car travels 60 km in 1 hour, how far will it travel in 3 hours at the same speed?",
+      "a": "Direct proportion. Distance is proportional to time at constant speed. Distance in 3 hours = 60 km/hour × 3 hours = 180 km."
+    },
+    {
+      "q": "If a car travels 60 km using 1.5 litres of petrol, how much petrol is needed for 200 km?",
+      "a": "Direct proportion. Petrol needed = (1.5 litres / 60 km) × 200 km = 1.5 × (200/60) = 1.5 × 3.33 = 5 litres."
+    },
+    {
+      "q": "True or False: In a recipe, if you double all ingredients, the taste remains the same.",
+      "a": "True (ideally). If all ingredients scale proportionally, the ratios remain the same, so the taste should be the same. This is the principle of proportional scaling in recipes."
+    },
+    {
+      "q": "What is a proportion statement or equation?",
+      "a": "A proportion statement uses the symbol '::' or '=' to show that two ratios are equal. Example: 2:3 :: 4:6 or 2/3 = 4/6. It states that the four numbers form a proportion."
+    },
+    {
+      "q": "In proportion a:b :: c:d, what are the extremes and means?",
+      "a": "Extremes are 'a' and 'd' (outer terms). Means are 'b' and 'c' (inner terms). In cross-multiplication: a×d = b×c (product of extremes = product of means)."
+    },
+    {
+      "q": "If in a school 20 families have water for 6 days, how long will it last for 30 families?",
+      "a": "Inverse proportion. 20×6 = 30×x, so x = 120/30 = 4 days. More families → less water duration."
+    },
+    {
+      "q": "What is the constant of proportionality if y=5x?",
+      "a": "The constant of proportionality (k) is 5. For every unit increase in x, y increases by 5 units. The ratio y/x is always 5."
+    },
+    {
+      "q": "What is the constant of proportionality if xy=24?",
+      "a": "The constant of proportionality (k) is 24. For any pair of values, their product is always 24. This represents inverse proportion."
+    },
+    {
+      "q": "Can a ratio have terms that are decimals or fractions?",
+      "a": "Yes. For example, 1.5:2 or 1/2:3/4 are valid ratios. They can be converted to whole number ratios by multiplying by an appropriate factor. Example: 1.5:2 = 3:4 (multiply by 2)."
+    },
+    {
+      "q": "How do you convert ratio 1/2:3/4 to whole number terms?",
+      "a": "Find the LCM of denominators (2 and 4 = 4). Multiply each term by 4: (1/2)×4:(3/4)×4 = 2:3. The ratio in whole numbers is 2:3."
+    },
+    {
+      "q": "If paint is mixed in ratio Red:Blue = 2:3 to make 50 litres of purple, how much red?",
+      "a": "Sum of terms = 2+3 = 5. Red portion = (2/5) × 50 = 20 litres. Blue = (3/5) × 50 = 30 litres."
+    },
+    {
+      "q": "True or False: 12:8 and 18:12 are proportional ratios.",
+      "a": "True. Cross-multiply: 12×12 = 144 and 8×18 = 144. Equal products confirm proportionality. (Both simplify to 3:2)"
+    },
+    {
+      "q": "If a factory uses 42 machines to produce toys in 63 days, how many machines for 54 days (same output)?",
+      "a": "Inverse proportion. Machines × days = constant. 42×63 = x×54, so x = 2646/54 = 49 machines. Fewer days → more machines needed."
+    },
+    {
+      "q": "What is the importance of proportions in real-world applications?",
+      "a": "Proportions are used in recipes, maps, construction (building materials), speed calculations, pricing, mixing chemicals, scaling designs, and many practical situations where quantities must maintain specific relationships."
+    },
+    {
+      "q": "Can you have a ratio where both terms are the same?",
+      "a": "Yes. For example, 5:5 or 1:1. This ratio simplifies to 1:1, meaning equal quantities or a 1:1 ratio. This represents a 50-50 split or equal distribution."
+    },
+    {
+      "q": "If the ratio of boys to girls in a class is 3:2 and there are 30 students total, how many boys?",
+      "a": "Sum of terms = 3+2 = 5. Boys = (3/5) × 30 = 18. Girls = (2/5) × 30 = 12."
+    },
+    {
+      "q": "What is the significance of HCF in simplifying ratios?",
+      "a": "The HCF (Highest Common Factor) of the two terms is the largest number that divides both. Dividing both terms by the HCF gives the simplest form of the ratio, making comparison easier."
+    },
+    {
+      "q": "If a photograph is enlarged to 150% of its original size, what is the ratio of new size to original size?",
+      "a": "150% = 150/100 = 1.5. So new size : original size = 1.5:1 or 3:2 (multiplying by 2 for whole numbers)."
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Magnetic Effects of Electric Current",
+    "chapter_number": 12
+  },
+  "notes": [
+    {
+      "section_title": "Introduction: Linking Electricity and Magnetism",
+      "topics": [
+        {
+          "topic_name": "Magnetic Effect of Electric Current",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "An electric current-carrying wire behaves like a magnet. This phenomenon, where electricity and magnetism are linked, is fundamental to many modern technologies."
+            },
+            {
+              "type": "activity",
+              "id": "12.1",
+              "title": "Observing Magnetic Effect of Current",
+              "procedure": [
+                "Take a straight thick copper wire and place it between points X and Y in an electric circuit.",
+                "Keep the wire XY perpendicular to the plane of the paper.",
+                "Place a small compass horizontally near the copper wire.",
+                "Pass current through the circuit by inserting the key into the plug.",
+                "Observe the change in the position of the compass needle."
+              ],
+              "observation": "The compass needle gets deflected when current passes through the wire.",
+              "conclusion": "Electric current through the copper wire produces a magnetic effect."
+            },
+            {
+              "type": "note",
+              "title": "Hans Christian Oersted (1777-1851)",
+              "text": "In 1820, Oersted accidentally discovered that a compass needle is deflected by a nearby current-carrying wire. This discovery showed that electricity and magnetism are related phenomena. The unit of magnetic field strength, the oersted, is named in his honour."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "12.1 Magnetic Field and Field Lines",
+      "topics": [
+        {
+          "topic_name": "Understanding Magnetic Fields",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The region surrounding a magnet, in which the force of the magnet can be detected, is called its magnetic field. A compass needle, which is a small bar magnet, gets deflected when brought into this field."
+            },
+            {
+              "type": "note",
+              "title": "Poles of a Magnet",
+              "text": "Every magnet has two poles: a North-seeking pole (North pole) and a South-seeking pole (South pole). Like poles repel, while unlike poles attract each other."
+            },
+            {
+              "type": "activity",
+              "id": "12.2",
+              "title": "Mapping Magnetic Field with Iron Filings",
+              "procedure": [
+                "Fix a white paper on a drawing board and place a bar magnet at the centre.",
+                "Sprinkle iron filings uniformly around the magnet.",
+                "Tap the board gently."
+              ],
+              "observation": "The iron filings arrange themselves in a specific pattern of lines.",
+              "conclusion": "The pattern represent the magnetic field lines along which the magnet exerts its influence."
+            }
+          ]
+        },
+        {
+          "topic_name": "Characteristics of Magnetic Field Lines",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Magnetic field is a quantity that has both direction and magnitude. Field lines provide a visual representation of this field."
+            },
+            {
+              "type": "list",
+              "title": "Properties of Magnetic Field Lines",
+              "items": [
+                "Direction: Outside the magnet, they emerge from the North pole and merge at the South pole. Inside the magnet, they move from South to North.",
+                "Closed Curves: Magnetic field lines are continuous closed curves.",
+                "Strength: The degree of closeness of the field lines indicates the relative strength of the magnetic field. A crowded field indicates a stronger force.",
+                "No Intersection: No two field lines ever cross each other. If they did, a compass needle at the intersection would have to point in two directions simultaneously, which is impossible."
+              ]
+            },
+            {
+              "type": "activity",
+              "id": "12.3",
+              "title": "Drawing Field Lines using a Compass",
+              "procedure": [
+                "Place a bar magnet on paper and mark its boundary.",
+                "Place a compass near the North pole and mark the positions of the needle ends.",
+                "Move the compass so its South pole occupies the previous North pole's position.",
+                "Repeat until reaching the South pole and join the points with a smooth curve."
+              ],
+              "observation": "A series of curved lines are formed around the magnet.",
+              "conclusion": "These curves represent the magnetic field lines of the bar magnet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "12.2 Magnetic Field due to Current-carrying Conductors",
+      "topics": [
+        {
+          "topic_name": "Magnetic Field through a Straight Conductor",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A current through a straight metallic conductor produces a magnetic field in the form of concentric circles around it."
+            },
+            {
+              "type": "activity",
+              "id": "12.5",
+              "title": "Field Pattern around a Straight Wire",
+              "procedure": [
+                "Pass a thick copper wire vertically through the centre of a horizontal cardboard.",
+                "Connect the wire in series with a battery and a plug key.",
+                "Sprinkle iron filings on the cardboard and pass a current.",
+                "Gently tap the cardboard."
+              ],
+              "observation": "Iron filings arrange themselves in concentric circles around the wire.",
+              "conclusion": "The magnetic field lines around a straight current-carrying conductor are concentric circles."
+            },
+            {
+              "type": "list",
+              "title": "Factors Affecting Magnetic Field Strength",
+              "items": [
+                "Magnitude of current: The deflection in a compass needle increases as the current increases, indicating the field strength is directly proportional to current.",
+                "Distance from conductor: The field strength decreases as the distance from the wire increases. The concentric circles become larger and larger further away."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Right-Hand Thumb Rule",
+              "text": "Imagine holding a current-carrying straight conductor in your right hand with the thumb pointing in the direction of the current. Your wrapped fingers will then show the direction of magnetic field lines."
+            }
+          ]
+        },
+        {
+          "topic_name": "Magnetic Field through a Circular Loop",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "If a straight wire is bent into a circular loop, the concentric circles of the magnetic field at every point become larger as we move away from the wire. At the centre of the loop, these arcs appear as straight lines."
+            },
+            {
+              "type": "note",
+              "title": "Coil with 'n' Turns",
+              "text": "If a circular coil has 'n' turns, the field produced is 'n' times as large as that from a single turn. This is because the current in each turn flows in the same direction, and their individual magnetic fields add up."
+            }
+          ]
+        },
+        {
+          "topic_name": "Magnetic Field in a Solenoid",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A solenoid is a coil of many circular turns of insulated copper wire wrapped closely in the shape of a cylinder."
+            },
+            {
+              "type": "list",
+              "title": "Characteristics of a Solenoid's Field",
+              "items": [
+                "The field pattern is similar to that of a bar magnet, with one end acting as North and the other as South.",
+                "Inside the solenoid, field lines are parallel straight lines, indicating a uniform magnetic field at all points.",
+                "A strong field inside a solenoid can magnetise magnetic materials like soft iron."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Electromagnet",
+              "text": "A magnet formed by placing a soft iron core inside a current-carrying solenoid is called an electromagnet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "12.3 Force on a Current-carrying Conductor",
+      "topics": [
+        {
+          "topic_name": "Force in a Magnetic Field",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In 1821, Andre Marie Ampere suggested that if a current-carrying conductor produces a field that exerts force on a magnet, the magnet must also exert an equal and opposite force on the conductor."
+            },
+            {
+              "type": "activity",
+              "id": "12.7",
+              "title": "Demonstrating Force on a Conductor",
+              "procedure": [
+                "Suspend a small aluminium rod AB horizontally.",
+                "Place a strong horse-shoe magnet around the rod so the field is directed upwards.",
+                "Pass current through the rod from B to A."
+              ],
+              "observation": "The rod is displaced (deflected) to one side. Reversing the current or the magnetic field reverses the direction of displacement.",
+              "conclusion": "A magnetic field exerts a force on a current-carrying conductor. The force is maximum when the current is perpendicular to the field."
+            },
+            {
+              "type": "note",
+              "title": "Fleming's Left-Hand Rule",
+              "text": "Stretch the thumb, forefinger, and middle finger of your left hand mutually perpendicular. If the forefinger points to the Magnetic Field and the middle finger to the Current, the thumb points to the direction of Motion (Force)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "12.4 Domestic Electric Circuits",
+      "topics": [
+        {
+          "topic_name": "Wiring and Safety",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Domestic power is supplied through the mains via three types of wires with specific insulation colours."
+            },
+            {
+              "type": "table",
+              "headers": ["Wire Type", "Insulation Colour", "Function"],
+              "rows": [
+                ["Live Wire (Positive)", "Red", "Carries high voltage (220 V)"],
+                ["Neutral Wire (Negative)", "Black", "Completes the circuit; zero potential"],
+                ["Earth Wire", "Green", "Safety measure; connected to a metal plate in the earth"]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Safety Measure: Earthing",
+              "text": "The earth wire provides a low-resistance path for leakage current. It ensures that any charge leakage to the metallic body of an appliance (like a refrigerator or toaster) goes into the ground, preventing severe electric shocks to the user."
+            }
+          ]
+        },
+        {
+          "topic_name": "Short Circuit and Overloading",
+          "content": [
+            {
+              "type": "list",
+              "title": "Circuit Hazards",
+              "items": [
+                "Short-circuiting: Occurs when live and neutral wires come into direct contact (due to damaged insulation or appliance faults), causing the current to increase abruptly.",
+                "Overloading: Occurs when too many high-power appliances are connected to a single socket or due to an accidental hike in supply voltage."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Electric Fuse",
+              "text": "A fuse is a safety device that prevents damage from overloading or short-circuiting. When the current exceeds a safe limit, Joule heating melts the fuse wire, breaking the circuit."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Magnetic Field",
+      "definition": "The region surrounding a magnet in which the force of the magnet can be detected."
+    },
+    {
+      "term": "Magnetic Field Lines",
+      "definition": "Visual paths representing the direction and strength of a magnetic field; they form closed loops from North to South pole outside a magnet."
+    },
+    {
+      "term": "Solenoid",
+      "definition": "A cylindrical coil of many circular turns of insulated copper wire used to produce a uniform magnetic field."
+    },
+    {
+      "term": "Electromagnet",
+      "definition": "A temporary magnet made by placing a soft iron core inside a current-carrying solenoid."
+    },
+    {
+      "term": "Right-Hand Thumb Rule",
+      "definition": "A rule used to find the direction of magnetic field lines around a straight current-carrying conductor."
+    },
+    {
+      "term": "Fleming's Left-Hand Rule",
+      "definition": "A rule used to determine the direction of force on a current-carrying conductor placed in a magnetic field."
+    },
+    {
+      "term": "Short-circuiting",
+      "definition": "A condition where live and neutral wires touch directly, leading to a sudden, massive increase in current."
+    },
+    {
+      "term": "Overloading",
+      "definition": "Connecting more load (appliances) to a circuit than its current rating can safely handle."
+    },
+    {
+      "term": "Earth Wire",
+      "definition": "A safety wire in domestic circuits that provides a safe path for leakage current to prevent electric shocks."
+    },
+    {
+      "term": "Electric Fuse",
+      "definition": "A safety device that melts and breaks the circuit during excessive current flow due to short-circuiting or overloading."
+    }
+  ],
+  "summary_points": [
+    "Electricity and magnetism are linked; a current-carrying wire produces a magnetic field.",
+    "Magnetic field lines emerge from the North pole and merge at the South pole, forming continuous closed curves that never intersect.",
+    "The magnetic field around a straight conductor consists of concentric circles, with direction determined by the Right-Hand Thumb Rule.",
+    "A solenoid's magnetic field is similar to a bar magnet and is uniform inside.",
+    "Soft iron placed inside a solenoid becomes an electromagnet.",
+    "A current-carrying conductor in a magnetic field experiences a force, described by Fleming's Left-Hand Rule.",
+    "Domestic circuits use Live (Red), Neutral (Black), and Earth (Green) wires with a potential of 220 V.",
+    "Safety features like earthing and fuses protect users and appliances from electric shocks, short-circuits, and overloading."
+  ]
+}

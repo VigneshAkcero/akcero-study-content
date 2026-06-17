@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 8,
+    "subject": "Mathematics",
+    "chapter_name": "Quadrilaterals",
+    "chapter_number": 4
+  },
+  "summary": [
+    {
+      "category": "Rectangles and Squares",
+      "points": [
+        "A rectangle is a quadrilateral with all angles 90° and opposite sides equal. Diagonals are equal in length (AC = BD) and bisect each other at midpoint O, meaning OA = OC and OB = OD. The carpenter's problem demonstrates that two equal diagonals that bisect each other form a rectangle regardless of the angle between them. A square is a special rectangle with all four sides equal; its diagonals are equal, bisect each other at 90°, and bisect the vertex angles into 45° angles each. All squares are rectangles, but not all rectangles are squares."
+      ]
+    },
+    {
+      "category": "Angle Sum and Parallelograms",
+      "points": [
+        "The sum of all interior angles in any quadrilateral is 360° (proven by dividing into two triangles via a diagonal). A parallelogram has both pairs of opposite sides parallel. Opposite sides are equal (AB = CD, BC = AD), opposite angles are equal (∠A = ∠C, ∠B = ∠D), and adjacent angles are supplementary (∠A + ∠B = 180°). Diagonals bisect each other (OA = OC, OB = OD). A rectangle is a special parallelogram with all angles 90°. A quadrilateral with three right angles must have a fourth right angle (since 90° + 90° + 90° + ∠D = 360°, so ∠D = 90°)."
+      ]
+    },
+    {
+      "category": "Rhombuses, Kites, and Trapeziums",
+      "points": [
+        "A rhombus has all four sides equal and is a parallelogram. Its diagonals bisect each other at right angles (perpendicular) and bisect the vertex angles. A square is both a rectangle and a rhombus. A kite has two pairs of adjacent equal sides (AB = BC, CD = DA) and perpendicular diagonals, with one diagonal bisecting the other and bisecting the vertex angles. A trapezium has at least one pair of parallel sides; consecutive angles on the same leg sum to 180°. An isosceles trapezium has equal non-parallel sides and equal base angles (angles at each parallel side are equal to each other)."
+      ]
+    },
+    {
+      "category": "Classification and Relationships",
+      "points": [
+        "Quadrilaterals form a hierarchical structure: Trapezium (at least one parallel pair) → Parallelogram (both pairs parallel) → Rectangle (all angles 90°) and Rhombus (all sides equal) → Square (intersection of rectangle and rhombus). A kite is a separate category not in the parallelogram hierarchy. Key identifiers: equal and bisecting diagonals suggest rectangle; perpendicular and bisecting diagonals suggest rhombus; perpendicular diagonals with one bisecting the other suggest kite. All properties are proven using congruence of triangles (SAS, AAS, SSS) and parallel line transversal theorems."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Mathematics",
+    "chapter_name": "Proportional Reasoning (Combined: Chapter 1 & 2)",
+    "chapter_number": "7 & 3"
+  },
+  "notes": [
+    {
+      "section_title": "PROPORTIONAL REASONING - 1: Introduction and Ratios",
+      "topics": [
+        {
+          "topic_name": "7.1 Observing Similarity in Change",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When we compare different quantities, we often notice patterns in how they change. For example, when images are resized, some maintain their appearance while others appear distorted. This depends on whether the changes to their dimensions occur by the same factor."
+            },
+            {
+              "type": "example",
+              "title": "Example: Image Dimensions",
+              "content": "Consider rectangles with different dimensions:\nImage A: Width 60mm, Height 40mm\nImage C: Width 30mm, Height 20mm\nImage D: Width 90mm, Height 60mm\n\nWhen comparing A and C:\n- Width changes by factor: 30/60 = 1/2\n- Height changes by factor: 20/40 = 1/2\n- Both change by same factor → Images A and C look similar\n\nWhen comparing A and B (Width 40mm, Height 20mm):\n- Width changes by factor: 40/60 = 2/3\n- Height changes by factor: 20/40 = 1/2\n- Different factors → Images look different (distorted)"
+            },
+            {
+              "type": "note",
+              "title": "Key Concept: Proportional Change",
+              "text": "Two quantities change proportionally when they both change by the same factor through multiplication. Changing by different amounts (through subtraction) does not maintain proportionality."
+            }
+          ]
+        },
+        {
+          "topic_name": "7.2 Understanding Ratios",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A ratio is a way to compare two quantities using the notation a:b. It expresses a relationship where for every 'a' units of the first quantity, there are 'b' units of the second quantity. The numbers a and b are called the terms of the ratio."
+            },
+            {
+              "type": "note",
+              "title": "Ratio Definition",
+              "text": "A ratio a:b compares two quantities. It states: for every a units of the first quantity, there are b units of the second quantity. The terms 'a' and 'b' are the numbers in the ratio."
+            },
+            {
+              "type": "example",
+              "title": "Example: Lemonade Ratio",
+              "content": "Kesang's lemonade recipe:\n- 6 glasses of lemonade : 10 spoons of sugar\nThis ratio (6:10) means: for every 6 glasses of lemonade, use 10 spoons of sugar to maintain consistent sweetness."
+            },
+            {
+              "type": "paragraph",
+              "text": "Ratios can be compared by checking if they change by the same factor. When two ratios have the same proportional relationship, we say they are proportional ratios."
+            }
+          ]
+        },
+        {
+          "topic_name": "7.3 Ratios in their Simplest Form",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To reduce a ratio to its simplest form, divide both terms by their Highest Common Factor (HCF). This gives the most basic representation of the ratio."
+            },
+            {
+              "type": "example",
+              "title": "Example: Simplifying Ratios",
+              "content": "Ratio 60:40\nHCF(60,40) = 20\nSimplified ratio = 60÷20 : 40÷20 = 3:2\n\nRatio 90:60\nHCF(90,60) = 30\nSimplified ratio = 90÷30 : 60÷30 = 3:2\n\nSince both simplify to 3:2, they are proportional ratios."
+            },
+            {
+              "type": "note",
+              "title": "Proportional Ratios Symbol",
+              "text": "When two ratios are proportional, we use the symbol '::' to indicate this.\nFor example: 60:40 :: 90:60 means these ratios are proportional.\nBoth ratios in simplest form equal 3:2."
+            }
+          ]
+        },
+        {
+          "topic_name": "7.4 Problem Solving with Proportional Reasoning",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To solve problems involving proportions, identify the proportional relationship and use the fact that all corresponding terms change by the same factor."
+            },
+            {
+              "type": "example",
+              "title": "Example 1: Checking if Ratios are Proportional",
+              "content": "Are ratios 3:4 and 72:96 proportional?\n\nRatio 3:4 is already in simplest form.\n\nFor ratio 72:96:\nHCF(72,96) = 24\nSimplified: 72÷24 : 96÷24 = 3:4\n\nBoth simplify to 3:4, so they ARE proportional.\nWe write: 3:4 :: 72:96"
+            },
+            {
+              "type": "example",
+              "title": "Example 2: Using Proportional Reasoning",
+              "content": "Problem: For 6 glasses of lemonade, use 10 spoons of sugar. How much sugar for 18 glasses?\n\nSet up proportion: 6:10 :: 18:?\n\nFind the scaling factor:\nFirst term: 18÷6 = 3\n\nApply same factor to second term:\nSecond term: 10 × 3 = 30\n\nAnswer: Use 30 spoons of sugar for 18 glasses.\nVerification: 6:10 :: 18:30 (both simplify to 3:5)"
+            },
+            {
+              "type": "example",
+              "title": "Example 3: Real-World Application",
+              "content": "Nitin's wall: 60 ft length, 3 bags cement → Ratio 60:3 = 20:1\nHari's wall: 40 ft length, 2 bags cement → Ratio 40:2 = 20:1\n\nBoth ratios are proportional (both equal 20:1), so both walls are equally strong. The cement was used proportionally to wall length."
+            }
+          ]
+        },
+        {
+          "topic_name": "Adding or Subtracting from Ratio Terms",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "An important observation: when we add or subtract the same number from the terms of a ratio, the ratio changes and is NOT necessarily proportional to the original ratio."
+            },
+            {
+              "type": "example",
+              "title": "Example: Age Ratio Change",
+              "content": "When Neelima is 3 years old, her mother is 30 years old.\nRatio of Neelima:Mother = 3:30 = 1:10 (simplest form)\n\nAfter 9 years:\nNeelima's age: 3 + 9 = 12\nMother's age: 30 + 9 = 39\nNew ratio: 12:39 = 4:13 (simplest form)\n\nThe ratios 1:10 and 4:13 are NOT proportional.\nAddition changes the ratio in a non-proportional way."
+            },
+            {
+              "type": "note",
+              "title": "Key Insight",
+              "text": "Proportional relationships are maintained through multiplication (same factor applied to all terms), not through addition or subtraction (fixed amounts added/subtracted)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Filter Coffee Application - Comparing Ratios",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In practical applications like mixing beverages, ratios determine the strength or intensity of the final product. By comparing ratios, we can determine which mixture is stronger or weaker."
+            },
+            {
+              "type": "example",
+              "title": "Example: Coffee Strength Comparison",
+              "content": "Regular coffee: 15 mL decoction : 35 mL milk = 15:35\nStronger coffee: 20 mL decoction : 30 mL milk = 20:30\nLighter coffee: 10 mL decoction : 40 mL milk = 10:40\n\nSimplify each:\nRegular: 15:35 = 3:7 (decoction to milk ratio)\nStronger: 20:30 = 2:3 (more decoction relative to milk)\nLighter: 10:40 = 1:4 (less decoction relative to milk)\n\nComparison: 1:4 < 3:7 < 2:3\nSo: Lighter < Regular < Stronger"
+            }
+          ]
+        },
+        {
+          "topic_name": "Trairasika - The Rule of Three",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Rule of Three is an ancient method (credited to Aryabhata from 199 CE) for solving problems where three quantities are known and we must find a fourth proportional quantity. The principle is that if a:b :: c:d, then ad = bc (cross multiplication)."
+            },
+            {
+              "type": "note",
+              "title": "Cross Multiplication Property",
+              "text": "For proportional ratios a:b :: c:d:\na × d = b × c\n\nThis property allows us to find the unknown term:\nIf a:b :: c:x, then x = (b × c) / a"
+            },
+            {
+              "type": "example",
+              "title": "Example: School Rice Distribution",
+              "content": "Problem: For 120 students, cook makes 15 kg rice. On a rainy day, only 80 students come. How much rice should be made?\n\nSet up: 120:15 :: 80:x\n\nUsing cross multiplication:\n120 × x = 15 × 80\nx = (15 × 80) / 120\nx = 1200 / 120\nx = 10 kg\n\nAlternative: Find scaling factor:\n80/120 = 2/3\nRice: 15 × (2/3) = 10 kg"
+            },
+            {
+              "type": "example",
+              "title": "Example: Distance and Time",
+              "content": "Problem: Car travels 90 km in 150 minutes. How far in 4 hours (240 minutes)?\n\nNote: Convert units first - 4 hours = 240 minutes\n\nSet up: 150:90 :: 240:x\n\nCross multiply:\n150 × x = 90 × 240\nx = (90 × 240) / 150\nx = 21600 / 150\nx = 144 km"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "PROPORTIONAL REASONING - 2: Advanced Applications",
+      "topics": [
+        {
+          "topic_name": "3.1 Proportionality Recap and Cross Multiplication",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When two quantities change by the same factor, they are proportional. Two ratios are proportional if their cross products are equal: a:b and c:d are proportional if a×d = b×c."
+            },
+            {
+              "type": "example",
+              "title": "Example: Idli Batter Proportions",
+              "content": "Standard recipe: 2 cups rice : 1 cup urad dal\n\nViswanath: 6 cups rice : 3 cups urad dal = 6:3\nPuneet: 4 cups rice : 2 cups urad dal = 4:2\n\nAre they proportional?\nCheck cross multiplication:\n6 × 2 = 12\n3 × 4 = 12\n\nSince 6×2 = 3×4, the ratios ARE proportional.\nBoth should taste the same if cooked identically."
+            },
+            {
+              "type": "note",
+              "title": "Proportionality Conditions",
+              "text": "Two ratios a:b and c:d are proportional if:\n1. a×d = b×c (cross multiplication)\n2. a/c = b/d (quotient equality)\n3. They reduce to the same simplest form"
+            }
+          ]
+        },
+        {
+          "topic_name": "3.2 Representative Fractions and Map Scales",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Maps use ratios to represent real-world distances on a smaller scale. A Representative Fraction (RF) expresses the ratio between a distance on the map and the corresponding actual distance on the ground."
+            },
+            {
+              "type": "note",
+              "title": "Representative Fraction (RF)",
+              "text": "RF shows the scale of a map. For example:\nRF 1:60,00,000 means 1 cm on map = 60,00,000 cm on ground\n\nTo convert:\n60,00,000 cm = 600,000 m = 600 km\n\nSo: 1 cm on map represents 600 km on ground."
+            },
+            {
+              "type": "example",
+              "title": "Example: Map Distance Calculation",
+              "content": "Map scale: 1 cm = 100 km (or RF 1:1,00,00,000)\n\nIf distance between two cities on map = 5 cm\nActual distance = 5 × 100 = 500 km\n\nUsing proportion:\n1:100 :: 5:x\nx = 5 × 100 = 500 km"
+            },
+            {
+              "type": "note",
+              "title": "Important Note",
+              "text": "RF expresses geographical distance (straight line), not road distance. Actual travel distance may be longer due to roads not being straight."
+            }
+          ]
+        },
+        {
+          "topic_name": "3.3 Ratios with Multiple Terms",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Ratios can have more than two terms when comparing multiple quantities. For multiple-term ratios to be proportional, each corresponding term must change by the same factor."
+            },
+            {
+              "type": "example",
+              "title": "Example: Spice Mix Powder",
+              "content": "Viswanath's recipe: 8:4:2:1 (coriander:chillies:toor dal:fenugreek)\n\nPuneet has only 2 chillies (half of 4), so scale all ingredients by 1/2:\n8×(1/2) : 4×(1/2) : 2×(1/2) : 1×(1/2)\n= 4:2:1:0.5\n\nThese ratios are proportional: 8:4:2:1 :: 4:2:1:0.5"
+            },
+            {
+              "type": "note",
+              "title": "Multiple-Term Proportionality",
+              "text": "For ratios a:b:c:d and p:q:r:s to be proportional:\na/p = b/q = c/r = d/s = k (same scaling factor)"
+            }
+          ]
+        },
+        {
+          "topic_name": "3.4 Dividing a Whole in a Given Ratio",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To divide a quantity in a specific ratio, sum all ratio terms, then multiply the quantity by each term's fraction of the total."
+            },
+            {
+              "type": "note",
+              "title": "Division Formula",
+              "text": "To divide quantity x in ratio a:b:c:\nFirst part = x × (a/(a+b+c))\nSecond part = x × (b/(a+b+c))\nThird part = x × (c/(a+b+c))"
+            },
+            {
+              "type": "example",
+              "title": "Example: Paint Mixture",
+              "content": "Need 50 mL purple paint in ratio Red:Blue:White = 2:3:5\n\nTotal parts = 2+3+5 = 10\n\nRed paint = 50 × (2/10) = 50 × 0.2 = 10 mL\nBlue paint = 50 × (3/10) = 50 × 0.3 = 15 mL\nWhite paint = 50 × (5/10) = 50 × 0.5 = 25 mL\n\nVerification: 10 + 15 + 25 = 50 mL ✓"
+            },
+            {
+              "type": "example",
+              "title": "Example: Triangle Angles",
+              "content": "Construct triangle with angles in ratio 1:3:5\n\nSum of angles in triangle = 180°\nTotal ratio parts = 1+3+5 = 9\n\nAngle A = 180° × (1/9) = 20°\nAngle B = 180° × (3/9) = 60°\nAngle C = 180° × (5/9) = 100°\n\nVerification: 20° + 60° + 100° = 180° ✓"
+            }
+          ]
+        },
+        {
+          "topic_name": "3.5 Pie Charts and Proportional Representation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Pie charts visually represent proportions of a whole using angles. Since a circle has 360°, proportions are scaled to angles: Angle = (Part/Whole) × 360°."
+            },
+            {
+              "type": "example",
+              "title": "Example: Grade Distribution Pie Chart",
+              "content": "40 students with grades: A(12), B(10), C(8), D(6), E(4)\nTotal = 40 students\n\nCalculate angles:\nGrade A: (12/40) × 360° = 108°\nGrade B: (10/40) × 360° = 90°\nGrade C: (8/40) × 360° = 72°\nGrade D: (6/40) × 360° = 54°\nGrade E: (4/40) × 360° = 36°\n\nTotal: 108°+90°+72°+54°+36° = 360° ✓"
+            },
+            {
+              "type": "note",
+              "title": "Pie Chart Construction Steps",
+              "text": "1. Express each part as a fraction of the whole\n2. Multiply each fraction by 360° to get the angle\n3. Draw a circle and mark radii at calculated angles\n4. Label and color each sector proportionally"
+            }
+          ]
+        },
+        {
+          "topic_name": "3.6 Inverse Proportions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Two quantities are inversely proportional when one increases as the other decreases by the same factor. The product of inversely proportional quantities remains constant: x × y = k."
+            },
+            {
+              "type": "note",
+              "title": "Inverse Proportion Definition",
+              "text": "If x and y are inversely proportional:\n- When x increases by factor n, y decreases by factor 1/n\n- Their product is constant: x × y = k\n- Formula: x₁ × y₁ = x₂ × y₂ = constant"
+            },
+            {
+              "type": "example",
+              "title": "Example: Speed and Time Relationship",
+              "content": "From Lucknow to Kanpur (90 km):\nWalking (5 km/h) → 18 hours\nBicycle (15 km/h) → 6 hours\nMotorcycle (30 km/h) → 3 hours\nCar (60 km/h) → 1.5 hours\n\nNotice: Speed × Time = constant\n5 × 18 = 90\n15 × 6 = 90\n30 × 3 = 90\n60 × 1.5 = 90\n\nAs speed increases 3× (5 to 15), time decreases 1/3 (18 to 6)"
+            },
+            {
+              "type": "example",
+              "title": "Example: Workers and Days",
+              "content": "Problem: 20 workers complete road in 4 days. How long for 10 workers?\n\nUsing inverse proportion:\n20 × 4 = 10 × x\n80 = 10x\nx = 8 days\n\nWhen workers halved (20→10), days doubled (4→8)\nProduct remains constant: 20×4 = 10×8 = 80"
+            },
+            {
+              "type": "example",
+              "title": "Example: Food Provisions",
+              "content": "Problem: Food feeds 80 students for 15 days. If 100 students join, how long will food last?\n\nUsing inverse proportion:\n80 × 15 = 100 × x\n1200 = 100x\nx = 12 days\n\nProduct (total student-days of food) remains constant: 80×15 = 100×12 = 1200"
+            },
+            {
+              "type": "paragraph",
+              "text": "Direct proportions (like distance and time at constant speed) differ from inverse proportions. In direct proportion, both quantities change in the same direction. In inverse proportion, they change in opposite directions."
+            }
+          ]
+        },
+        {
+          "topic_name": "Distinguishing Direct and Inverse Proportions",
+          "content": [
+            {
+              "type": "note",
+              "title": "Key Differences",
+              "text": "DIRECT PROPORTION:\n- Both quantities change in same direction\n- When one increases, other increases\n- Formula: y = k × x (product not constant)\n- Examples: Distance & time at constant speed, Cost & quantity\n\nINVERSE PROPORTION:\n- Quantities change in opposite directions\n- When one increases, other decreases\n- Formula: x × y = k (product is constant)\n- Examples: Speed & time, Number of workers & days needed"
+            },
+            {
+              "type": "example",
+              "title": "Example: Identifying Proportions",
+              "content": "1. Taps filling tank vs Time: INVERSE (more taps → less time)\n2. Number of painters vs Days for wall: INVERSE (more painters → fewer days)\n3. Distance car travels vs Petrol in tank: DIRECT (more petrol → more distance)\n4. Speed of cyclist vs Time for fixed route: INVERSE (faster speed → less time)\n5. Length of cloth vs Price (fixed rate): DIRECT (more cloth → higher price)\n6. Number of book pages vs Time to read: Direct or Inverse depends on context"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Ratio",
+      "definition": "A comparison of two quantities using the notation a:b, meaning for every 'a' units of the first quantity, there are 'b' units of the second quantity."
+    },
+    {
+      "term": "Terms of a Ratio",
+      "definition": "The numbers in a ratio. In the ratio a:b, both 'a' and 'b' are terms of the ratio."
+    },
+    {
+      "term": "Proportional Ratios",
+      "definition": "Two ratios are proportional when their terms change by the same factor. They have the same relationship and are denoted using the symbol '::'."
+    },
+    {
+      "term": "Simplest Form of a Ratio",
+      "definition": "A ratio reduced by dividing both terms by their Highest Common Factor (HCF), giving the most basic representation."
+    },
+    {
+      "term": "Cross Multiplication",
+      "definition": "A method to check if two ratios are proportional or to solve for an unknown term. For a:b :: c:d, we have a×d = b×c."
+    },
+    {
+      "term": "Rule of Three (Trairasika)",
+      "definition": "An ancient mathematical method for solving proportionality problems where three quantities are known and a fourth is to be found."
+    },
+    {
+      "term": "Representative Fraction (RF)",
+      "definition": "A ratio shown on maps indicating the scale, such as 1:60,00,000, meaning 1 unit on map represents 60,00,000 units on ground."
+    },
+    {
+      "term": "Multiple-Term Ratio",
+      "definition": "A ratio with more than two terms, such as a:b:c:d, used when comparing multiple quantities that maintain proportional relationships."
+    },
+    {
+      "term": "Inverse Proportion",
+      "definition": "A relationship between two quantities where one increases as the other decreases by the same factor, with their product remaining constant (x × y = k)."
+    },
+    {
+      "term": "Direct Proportion",
+      "definition": "A relationship between two quantities where both change in the same direction by the same factor."
+    },
+    {
+      "term": "Constant (k) in Proportions",
+      "definition": "In inverse proportions, the fixed product value: x × y = k. In direct proportions, the scaling factor relating the quantities."
+    },
+    {
+      "term": "Scaling Factor",
+      "definition": "The factor by which all terms of a ratio are multiplied or divided to maintain proportional relationships."
+    },
+    {
+      "term": "Proportional Change",
+      "definition": "A change achieved through multiplication by the same factor applied to all related quantities."
+    },
+    {
+      "term": "Pie Chart",
+      "definition": "A circular graph divided into sectors, where each sector's angle is proportional to the quantity it represents."
+    },
+    {
+      "term": "Highest Common Factor (HCF)",
+      "definition": "The greatest number that divides evenly into all terms of a ratio, used to reduce the ratio to its simplest form."
+    },
+    {
+      "term": "Geographical Distance",
+      "definition": "The straight-line distance between two points on a map, as opposed to actual road distance which may be longer."
+    },
+    {
+      "term": "Proportional Relationship",
+      "definition": "A relationship where two or more quantities change by the same factor, maintaining a consistent ratio between them."
+    }
+  ],
+  "summary_points": [
+    "A ratio a:b compares two quantities, meaning for every 'a' units of the first quantity, there are 'b' units of the second. Ratios are proportional when their terms change by the same factor.",
+    "Two ratios are proportional if they reduce to the same simplest form or if their cross products are equal: a:b :: c:d when a×d = b×c.",
+    "To reduce a ratio to simplest form, divide both terms by their Highest Common Factor (HCF). This gives the most basic representation maintaining the same relationship.",
+    "Proportional change occurs through multiplication (same factor applied to all terms), not through addition or subtraction of fixed amounts. Adding/subtracting changes the ratio non-proportionally.",
+    "The Rule of Three (Trairasika) solves proportionality problems using cross multiplication. When a:b :: c:x, then x = (b×c)/a.",
+    "Representative Fractions on maps show scale: RF 1:60,00,000 means 1 cm on map = 60,00,000 cm on ground (or 600 km). Maps represent geographical distance, not road distance.",
+    "Multiple-term ratios (a:b:c:d) are proportional when all corresponding terms change by the same factor. For proportional multiple-term ratios: a/p = b/q = c/r = d/s.",
+    "To divide a quantity x in ratio a:b:c, calculate each part as: x × (term/(sum of all terms)). The parts sum to x and maintain the specified ratio.",
+    "Pie charts represent proportions using angles. Each sector's angle = (part value/total value) × 360°. The angles sum to 360°, representing the complete whole.",
+    "Inverse proportions show opposite directional changes: when one quantity increases by factor n, the other decreases by factor 1/n. Their product remains constant: x × y = k.",
+    "In inverse proportions, if x₁ and y₁ are first pair and x₂ and y₂ are second pair, then x₁×y₁ = x₂×y₂. Examples: speed-time, workers-days, number of taps-time to fill.",
+    "Direct proportions show same-directional changes: both quantities increase or decrease together. Examples: distance-time at constant speed, cost-quantity at fixed rate.",
+    "To distinguish proportions: identify if quantities change in same direction (direct) or opposite directions (inverse). Check using constant product (inverse) or constant ratio (direct).",
+    "Proportional reasoning applies to real-world problems like recipe scaling, mixture strength comparison, resource distribution, and time management.",
+    "Practical applications of proportions include: map reading, cement mixing (construction ratios), paint blending, food distribution, and scheduling (workers and completion time)."
+  ]
+}

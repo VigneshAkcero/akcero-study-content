@@ -1,0 +1,406 @@
+{
+  "chapter_info": {
+    "class": 8,
+    "subject": "Mathematics",
+    "chapter_name": "Quadrilaterals",
+    "chapter_number": 4
+  },
+  "notes": [
+    {
+      "section_title": "Introduction to Quadrilaterals",
+      "topics": [
+        {
+          "topic_name": "Definition and Basic Concept",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A quadrilateral is a four-sided polygon. The word 'quadrilateral' is derived from Latin: quadri meaning four and latus meaning side. Quadrilaterals are defined by having four sides and four angles. The sum of all interior angles in any quadrilateral is always 360°. This is a fundamental property that applies to all types of quadrilaterals regardless of their specific shapes or side lengths."
+            },
+            {
+              "type": "note",
+              "title": "Quadrilateral Definition",
+              "text": "A quadrilateral is a polygon with four sides, four vertices (corners), and four interior angles. The angles are formed between consecutive sides. The sum of interior angles: ∠A + ∠B + ∠C + ∠D = 360°."
+            },
+            {
+              "type": "paragraph",
+              "text": "Different types of quadrilaterals have different properties based on their sides and angles. We will explore rectangles, squares, parallelograms, rhombuses, kites, and trapeziums. Each type has unique characteristics that define it and determine its properties regarding diagonals, parallel sides, and angle relationships."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "4.1 Rectangles and Squares",
+      "topics": [
+        {
+          "topic_name": "Rectangle: Definition and Properties",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A rectangle is a quadrilateral with all angles equal to 90° and opposite sides of equal length. Rectangles are one of the most familiar and commonly used quadrilaterals in everyday life, from sheets of paper to building designs."
+            },
+            {
+              "type": "note",
+              "title": "Rectangle Definition",
+              "text": "A rectangle is a quadrilateral in which: (1) All angles are right angles (90°). (2) Opposite sides are equal in length. A rectangle can be uniquely defined by these two properties."
+            },
+            {
+              "type": "note",
+              "title": "The Carpenter's Problem",
+              "text": "Understanding rectangle diagonals is crucial. Using geometric deduction and congruence: Two diagonals of a rectangle are equal in length (AC = BD). The diagonals bisect each other, meaning they intersect at their midpoints (O is midpoint of both AC and BD). The diagonals can intersect at any angle while maintaining these properties, and the resulting quadrilateral will always be a rectangle."
+            },
+            {
+              "type": "paragraph",
+              "text": "Deduction 1: Diagonal Length Equality. Using triangle congruence (SAS condition): Since ABCD is a rectangle with AB = CD, angles at A and D are 90°, and AD is common to both triangles ABD and CDA, we have △ABD ≅ △CDA. Therefore, AC = BD. The diagonals of a rectangle are always equal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Deduction 2: Diagonal Intersection Point. Using AAS congruence condition on triangles AOB and COD: Since opposite angles in the configuration are equal and we can establish angle equality through the right angle property, △AOB ≅ △COD. Therefore, OA = OC and OB = OD. The diagonals bisect each other at point O, which is the midpoint of both diagonals."
+            },
+            {
+              "type": "paragraph",
+              "text": "Deduction 3: Angle Between Diagonals. Even when the angle between diagonals changes to any arbitrary angle x, the quadrilateral formed always has all angles equal to 90°. Using isosceles triangle properties: In △AOB where OA = OB, base angles a = (180° - x)/2 = 90° - x/2. In △AOD where OA = OD, base angles b = x/2. The angle of the quadrilateral: a + b = 90° - x/2 + x/2 = 90°. All four angles remain 90° regardless of x, and opposite sides remain equal."
+            },
+            {
+              "type": "note",
+              "title": "Properties of Rectangle",
+              "text": "Property 1: All angles are 90°. Property 2: Opposite sides are equal (AB = CD, BC = AD). Property 3: Opposite sides are parallel (AB || CD, BC || AD). Property 4: Diagonals are equal in length (AC = BD). Property 5: Diagonals bisect each other (OA = OC, OB = OD). Property 6: Diagonals are not necessarily perpendicular to each other."
+            }
+          ]
+        },
+        {
+          "topic_name": "Square: Definition and Properties",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A square is a special type of rectangle where all four sides are equal in length. A square combines all the properties of a rectangle with the additional requirement that all sides must be equal. Therefore, every square is a rectangle, but not every rectangle is a square."
+            },
+            {
+              "type": "note",
+              "title": "Square Definition",
+              "text": "A square is a quadrilateral in which: (1) All angles are 90°. (2) All sides are equal in length. A square is simultaneously a rectangle (all angles 90°) and a rhombus (all sides equal)."
+            },
+            {
+              "type": "paragraph",
+              "text": "For the Carpenter's Problem applied to squares: The two diagonals must be equal (like all rectangles). The diagonals must bisect each other (like all rectangles). Additionally, the angle between the diagonals must be exactly 90°. This third condition uniquely ensures that all sides are equal, forming a square instead of a general rectangle."
+            },
+            {
+              "type": "note",
+              "title": "Deduction for Square Diagonals",
+              "text": "Using SSS congruence on triangles AOB and BOC: Since OA = OB = OC = OD (diagonals are equal and bisect each other) and AB = BC = CD = DA (all sides equal), we have △AOB ≅ △BOC. Therefore, ∠AOB = ∠BOC. Since these angles are supplementary: ∠AOB + ∠BOC = 180°, we get ∠AOB = ∠BOC = 90°. All angles between the diagonals are 90°."
+            },
+            {
+              "type": "note",
+              "title": "Properties of Square",
+              "text": "Property 1: All angles are 90°. Property 2: All sides are equal (AB = BC = CD = DA). Property 3: Opposite sides are parallel (AB || CD, BC || AD). Property 4: Diagonals are equal in length (AC = BD). Property 5: Diagonals bisect each other at 90° (OA = OC = OB = OD, ∠AOB = 90°). Property 6: Diagonals bisect the angles of the square (each diagonal divides the 90° angles into two 45° angles). Property 7: Diagonals are perpendicular to each other."
+            },
+            {
+              "type": "note",
+              "title": "Relationship Between Rectangle and Square (Venn Diagram)",
+              "text": "All squares are rectangles because they satisfy the rectangle definition (all angles 90°, opposite sides equal). However, not all rectangles are squares because a rectangle's sides need not all be equal. The set of squares is a subset of the set of rectangles. Graphically: A circle representing 'Rectangles' contains a smaller circle representing 'Squares'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "4.2 Angles in Quadrilaterals",
+      "topics": [
+        {
+          "topic_name": "Sum of Interior Angles",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The sum of all interior angles in any quadrilateral is exactly 360°. This property holds for all quadrilaterals regardless of their shape, size, or type. The proof is straightforward: any quadrilateral can be divided into two triangles by drawing a diagonal. Since the sum of angles in each triangle is 180°, the total for both triangles is 360°."
+            },
+            {
+              "type": "note",
+              "title": "Proof of 360° Sum",
+              "text": "Given: Quadrilateral ABCD. Draw diagonal AC. This divides the quadrilateral into two triangles: △ABC and △ACD. In △ABC: ∠A₁ + ∠B + ∠C₁ = 180°. In △ACD: ∠A₂ + ∠C₂ + ∠D = 180°. Adding both equations: (∠A₁ + ∠A₂) + ∠B + (∠C₁ + ∠C₂) + ∠D = 360°. This simplifies to: ∠A + ∠B + ∠C + ∠D = 360°."
+            },
+            {
+              "type": "paragraph",
+              "text": "This fundamental property explains why a quadrilateral with three right angles must have a fourth right angle. If three angles are 90° each, their sum is 270°. The fourth angle must equal 360° - 270° = 90°. Therefore, a quadrilateral with three right angles must be a rectangle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "4.3 More Quadrilaterals with Parallel Sides",
+      "topics": [
+        {
+          "topic_name": "Parallelogram: Definition and Properties",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A parallelogram is a quadrilateral in which both pairs of opposite sides are parallel. Parallelograms are broader in definition than rectangles because the angles need not be 90°. However, all rectangles are special cases of parallelograms where all angles happen to be 90°."
+            },
+            {
+              "type": "note",
+              "title": "Parallelogram Definition",
+              "text": "A parallelogram is a quadrilateral in which opposite sides are parallel: AB || CD and BC || AD. A rectangle is a special parallelogram where all angles equal 90°."
+            },
+            {
+              "type": "paragraph",
+              "text": "Construction of a parallelogram: To construct a parallelogram with adjacent sides of lengths 4 cm and 5 cm and an angle of 30° between them: Draw side AB = 4 cm. At A, construct a 30° angle and draw AD = 5 cm. Through D, draw a line parallel to AB. Through B, draw a line parallel to AD. These lines intersect at C, forming parallelogram ABCD."
+            },
+            {
+              "type": "paragraph",
+              "text": "Deduction 1: Angles in a Parallelogram. When line AB || CD with transversal AD, consecutive angles are supplementary: ∠A + ∠D = 180°. Similarly, with AB || CD and transversal BC: ∠B + ∠C = 180°. Also, using alternate angles: ∠A = ∠C and ∠B = ∠D (opposite angles are equal)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Deduction 2: Sides of a Parallelogram. Using AAS congruence on triangles ABD and CDB: Since AB || CD, alternate angles ∠ABD = ∠CDB. Since AD || BC, alternate angles ∠ADB = ∠CBD. Also, BD is common. By AAS, △ABD ≅ △CDB. Therefore, AB = CD and AD = BC. Opposite sides of a parallelogram are equal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Deduction 3: Diagonals of a Parallelogram. Using ASA congruence on triangles AOE and COY (where O is intersection, E on one diagonal, Y on other): Since AB || CD, alternate angles are equal. Since AD || BC, alternate angles are equal. Also, AE = OY and OE is common. By ASA, △AOE ≅ △COY. Therefore, OA = OY and OE = OC (in some configuration). More directly: the diagonals bisect each other."
+            },
+            {
+              "type": "note",
+              "title": "Properties of Parallelogram",
+              "text": "Property 1: Opposite sides are parallel (AB || CD, BC || AD). Property 2: Opposite sides are equal (AB = CD, BC = AD). Property 3: Adjacent angles are supplementary (∠A + ∠B = 180°, etc.). Property 4: Opposite angles are equal (∠A = ∠C, ∠B = ∠D). Property 5: Diagonals bisect each other (OA = OC, OB = OD). Property 6: Diagonals are not necessarily equal or perpendicular."
+            },
+            {
+              "type": "note",
+              "title": "General Formula for Angles",
+              "text": "In a parallelogram with one angle x: Adjacent angles = 180° - x, Opposite angles = x. Example: If one angle is 70°, the adjacent angles are 110° each, and the opposite angle is also 70°."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "4.4 Quadrilaterals with Equal Sides",
+      "topics": [
+        {
+          "topic_name": "Rhombus: Definition and Properties",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A rhombus is a quadrilateral in which all four sides have equal length. Like a parallelogram, a rhombus has opposite sides parallel, but with the additional requirement that all sides must be equal. Every square is a rhombus (with all angles 90°), but not every rhombus is a square."
+            },
+            {
+              "type": "note",
+              "title": "Rhombus Definition",
+              "text": "A rhombus is a quadrilateral in which all sides are equal: AB = BC = CD = DA. Since opposite sides are equal, a rhombus is also a parallelogram. The term 'rhombus' comes from the Greek word meaning spinning top, referring to the diamond-like shape."
+            },
+            {
+              "type": "paragraph",
+              "text": "Construction of a rhombus: To construct a rhombus ABCD with two equal adjacent sides of 5 cm and an angle of 50° between them: Draw AD = 5 cm. At A, construct a 50° angle and draw AB = 5 cm. Complete the rhombus by drawing BC parallel to AD and CD parallel to AB, or by measuring equal distances from B and D."
+            },
+            {
+              "type": "paragraph",
+              "text": "Deduction 1: Angles in a Rhombus. Since a rhombus is a special parallelogram, all angle properties of parallelograms apply. Adjacent angles are supplementary: ∠A + ∠B = 180°. Opposite angles are equal: ∠A = ∠C and ∠B = ∠D. In the rhombus ABCD with angle 50° at A, the angles are 50°, 130°, 50°, 130°."
+            },
+            {
+              "type": "paragraph",
+              "text": "Deduction 2: Properties Specific to Rhombus. Using SSS congruence on triangles formed by the diagonal: A diagonal of the rhombus divides it into two congruent isosceles triangles. The diagonal bisects the angles at its endpoints. In △GAE and △MAE (where G and M are vertices, A is the center, E is the other endpoint of the diagonal), all three sides are equal, so the triangles are congruent, making the angles equal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Deduction 3: Diagonals of a Rhombus. The diagonals of a rhombus are perpendicular to each other. Proof: In the rhombus GAME, the diagonals GM and AE intersect at O. Using congruence △GEO ≅ △MEO (where both G and M are at equal distances from O due to diagonal bisection, and E is common), we find that ∠GOE = ∠MOE. Since ∠GOE + ∠MOE = 180°, both angles equal 90°. The diagonals are perpendicular."
+            },
+            {
+              "type": "note",
+              "title": "Properties of Rhombus",
+              "text": "Property 1: All sides are equal (AB = BC = CD = DA). Property 2: Opposite sides are parallel (AB || CD, BC || AD). Property 3: Adjacent angles are supplementary (∠A + ∠B = 180°). Property 4: Opposite angles are equal (∠A = ∠C, ∠B = ∠D). Property 5: Diagonals bisect each other at right angles. Property 6: Diagonals bisect the angles of the rhombus (each diagonal divides vertex angles into equal parts). Property 7: Diagonals are not necessarily equal in length."
+            },
+            {
+              "type": "note",
+              "title": "Relationship: Rectangle, Rhombus, Square (Venn Diagram)",
+              "text": "A square is both a rectangle (all angles 90°) and a rhombus (all sides equal). A rectangle is a parallelogram with all angles 90° but sides need not all be equal. A rhombus is a parallelogram with all sides equal but angles need not be 90°. The set of squares is the intersection of rectangles and rhombuses. Graphically: Rectangle and Rhombus circles overlap at Square."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "4.5 Special Quadrilaterals",
+      "topics": [
+        {
+          "topic_name": "Kite",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A kite is a quadrilateral that has two distinct pairs of adjacent sides that are equal in length. Unlike a rhombus where all four sides are equal, a kite has a specific asymmetric structure. The name 'kite' comes from the resemblance to the flying kite toy."
+            },
+            {
+              "type": "note",
+              "title": "Kite Definition",
+              "text": "A kite ABCD is a quadrilateral where AB = BC (one pair of adjacent equal sides) and CD = DA (another pair of adjacent equal sides), with these pairs being non-overlapping. The sides are arranged such that the equal sides meet at two opposite vertices."
+            },
+            {
+              "type": "paragraph",
+              "text": "Properties of kite diagonals: The diagonal BD (connecting the vertices where unequal pairs meet) has special properties. This diagonal bisects the other diagonal AC at its midpoint O, meaning AO = OC. Additionally, diagonal BD is perpendicular to diagonal AC."
+            },
+            {
+              "type": "note",
+              "title": "Kite Diagonal Properties Proof",
+              "text": "Using congruence △AOB ≅ △COB: Since AB = BC (given), ∠ABO = ∠CBO (because BD is the common side and the triangles share this side), and BO is common to both triangles, by SAS congruence, the triangles are congruent. Therefore, AO = CO (diagonal AC is bisected) and ∠AOB = ∠COB. Since these angles form a straight line, ∠AOB = ∠COB = 90°. The diagonals are perpendicular."
+            },
+            {
+              "type": "note",
+              "title": "Properties of Kite",
+              "text": "Property 1: Two pairs of adjacent sides are equal (AB = BC, CD = DA). Property 2: One diagonal (BD) is the axis of symmetry. Property 3: The diagonals are perpendicular to each other. Property 4: One diagonal (BD) bisects the other (AC), making AO = OC. Property 5: One diagonal (BD) bisects the angles at both its endpoints (∠ABC and ∠ADC are bisected). Property 6: Not all sides are equal (unlike a rhombus). Property 7: Opposite sides are not generally parallel (unlike a parallelogram)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Trapezium (Trapezoid)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A trapezium is a quadrilateral with at least one pair of parallel opposite sides. This is a broader category than parallelograms because only one pair of sides needs to be parallel. Different countries use different terminology: in some places it's called a trapezoid, while in others trapezium refers to a quadrilateral with no parallel sides. In this context, we use trapezium for at least one pair of parallel sides."
+            },
+            {
+              "type": "note",
+              "title": "Trapezium Definition",
+              "text": "A trapezium is a quadrilateral with at least one pair of parallel opposite sides. If PQRS is a trapezium with PQ || SR, then PQ and SR are called bases, and PS and QR are called legs or non-parallel sides."
+            },
+            {
+              "type": "paragraph",
+              "text": "Angles in a trapezium: When two sides are parallel, consecutive angles on the same leg are supplementary. If PQ || SR with transversal PS, then ∠S + ∠P = 180°. Similarly, with transversal QR, ∠R + ∠Q = 180°. These angle relationships allow us to find unknown angles in a trapezium once some angles are known."
+            },
+            {
+              "type": "note",
+              "title": "Isosceles Trapezium",
+              "text": "When the non-parallel sides of a trapezium are equal in length (PS = QR), it is called an isosceles trapezium. In an isosceles trapezium, the angles at each base are equal: the angles at the shorter parallel side are equal to each other, and the angles at the longer parallel side are equal to each other."
+            },
+            {
+              "type": "paragraph",
+              "text": "Isosceles trapezium angle property proof: In isosceles trapezium UVWX with UV || XW and UX = VW, draw perpendiculars from X and W to UV, meeting at points Y and Z respectively. XWZY forms a rectangle (since XW || UV and both XY and WZ are perpendicular to UV, making all angles 90°). By congruence △UXY ≅ △VWZ (using the equal non-parallel sides and other properties), we get ∠U = ∠V. The base angles are equal."
+            },
+            {
+              "type": "note",
+              "title": "Properties of Trapezium",
+              "text": "Property 1: At least one pair of opposite sides is parallel. Property 2: Consecutive angles on the same leg are supplementary (sum to 180°). Property 3 (Isosceles only): Non-parallel sides are equal in length. Property 4 (Isosceles only): Base angles are equal (angles at each parallel side are equal to each other). Property 5: Diagonals are generally not equal (except in isosceles case where they are equal). Property 6: A parallelogram is a special trapezium with two pairs of parallel sides."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "4.6 Relationships and Venn Diagrams",
+      "topics": [
+        {
+          "topic_name": "Classification of Quadrilaterals",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Quadrilaterals form a hierarchical classification system. A trapezium is the broadest category (at least one parallel pair). A parallelogram is a trapezium with both pairs of sides parallel. A rectangle is a parallelogram with all angles 90°. A rhombus is a parallelogram with all sides equal. A square is both a rectangle and a rhombus—having all sides equal and all angles 90°. A kite is a separate category with its own properties, not fitting into the parallelogram hierarchy."
+            },
+            {
+              "type": "note",
+              "title": "Venn Diagram Relationships",
+              "text": "Trapezium (broadest): All quadrilaterals with at least one parallel pair. Parallelogram: Subset of trapezium with two parallel pairs. Rectangle: Subset of parallelogram with all angles 90°. Rhombus: Subset of parallelogram with all sides equal. Square: Intersection of rectangle and rhombus (all sides equal and all angles 90°). Kite: Separate category (not a subset of parallelogram unless it's a rhombus). Graphically: Concentric regions where square is the innermost region, surrounded by rectangle on one side and rhombus on another, both inside parallelogram, which is inside trapezium."
+            },
+            {
+              "type": "paragraph",
+              "text": "Specific relationships: A square is always a rectangle (satisfies all rectangle properties). A square is always a rhombus (all sides equal). A rectangle is not always a rhombus (unless it's a square). A rhombus is not always a rectangle (unless it's a square). A parallelogram is not always a rectangle or rhombus. A kite is a rhombus only if all four sides are equal. A kite cannot be a rectangle (since a rectangle has all sides equal only if it's a square, and a kite's angles are not all 90°)."
+            },
+            {
+              "type": "note",
+              "title": "Key Classification Questions",
+              "text": "Is every rectangle a parallelogram? Yes (opposite sides are parallel). Is every parallelogram a rectangle? No (angles need not be 90°). Is every square a rectangle? Yes (satisfies all rectangle properties). Is every rectangle a square? No (sides need not all be equal). Is every rhombus a parallelogram? Yes (opposite sides are parallel). Is every rhombus a rectangle? No (angles need not be 90°). Is every square a rhombus? Yes (all sides equal). Is every kite a rhombus? No (a rhombus has all sides equal; a kite has two pairs of adjacent equal sides). Can a kite be a parallelogram? Only if it's a rhombus (all sides equal)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Quadrilateral",
+      "definition": "A polygon with four sides, four vertices, and four interior angles. The sum of all interior angles in any quadrilateral is 360°."
+    },
+    {
+      "term": "Rectangle",
+      "definition": "A quadrilateral in which all angles are 90° and opposite sides are equal in length. All rectangles are parallelograms."
+    },
+    {
+      "term": "Square",
+      "definition": "A special quadrilateral in which all angles are 90° and all four sides are equal in length. Every square is both a rectangle and a rhombus."
+    },
+    {
+      "term": "Parallelogram",
+      "definition": "A quadrilateral in which both pairs of opposite sides are parallel. Opposite sides are equal, opposite angles are equal, and diagonals bisect each other."
+    },
+    {
+      "term": "Rhombus",
+      "definition": "A quadrilateral in which all four sides are equal in length. A rhombus is a parallelogram with perpendicular diagonals that bisect the vertex angles."
+    },
+    {
+      "term": "Kite",
+      "definition": "A quadrilateral with two pairs of adjacent sides that are equal in length. The diagonals of a kite are perpendicular, with one diagonal bisecting the other."
+    },
+    {
+      "term": "Trapezium",
+      "definition": "A quadrilateral with at least one pair of parallel opposite sides. The parallel sides are called bases, and the non-parallel sides are called legs."
+    },
+    {
+      "term": "Isosceles Trapezium",
+      "definition": "A trapezium in which the non-parallel sides (legs) are equal in length, resulting in equal base angles."
+    },
+    {
+      "term": "Diagonal",
+      "definition": "A line segment connecting two non-adjacent vertices (corners) of a quadrilateral. Every quadrilateral has two diagonals."
+    },
+    {
+      "term": "Bisect",
+      "definition": "To divide into two equal parts. A diagonal bisects another diagonal if it divides it into two segments of equal length."
+    },
+    {
+      "term": "Congruent Triangles",
+      "definition": "Two triangles with the same shape and size. Congruence can be established using criteria like SAS (Side-Angle-Side), AAS (Angle-Angle-Side), or SSS (Side-Side-Side)."
+    },
+    {
+      "term": "Adjacent Angles",
+      "definition": "Angles that share a common side. In a parallelogram, adjacent angles are supplementary (sum to 180°)."
+    },
+    {
+      "term": "Opposite Angles",
+      "definition": "Angles at opposite vertices of a quadrilateral. In parallelograms, rhombuses, and rectangles, opposite angles are equal."
+    },
+    {
+      "term": "Supplementary Angles",
+      "definition": "Two angles whose measures sum to 180°. In a parallelogram, consecutive angles along the same side are supplementary."
+    },
+    {
+      "term": "Perpendicular",
+      "definition": "Two lines are perpendicular if they intersect at a 90° angle. The diagonals of a rhombus and square are perpendicular to each other."
+    },
+    {
+      "term": "Parallel Lines",
+      "definition": "Lines that never intersect and maintain constant distance from each other. A parallelogram has two pairs of parallel sides."
+    },
+    {
+      "term": "Axis of Symmetry",
+      "definition": "A line that divides a figure into two mirror-image halves. A kite has one axis of symmetry along one of its diagonals."
+    },
+    {
+      "term": "Transversal",
+      "definition": "A line that intersects two or more other lines. When a transversal crosses parallel lines, it creates relationships between angles."
+    },
+    {
+      "term": "Alternate Angles",
+      "definition": "Angles on opposite sides of a transversal when it crosses parallel lines. Alternate angles are equal when the lines are parallel."
+    }
+  ],
+  "summary_points": [
+    "A quadrilateral is a four-sided polygon, and the sum of its interior angles is always 360° regardless of type or shape.",
+    "A rectangle is defined by all angles being 90° and opposite sides being equal. Diagonals are equal in length and bisect each other but are not necessarily perpendicular.",
+    "A square is a special rectangle with all four sides equal. Its diagonals are equal, bisect each other at 90°, and bisect the vertex angles into 45° angles.",
+    "A parallelogram has both pairs of opposite sides parallel. Opposite sides are equal, opposite angles are equal, and diagonals bisect each other but are not necessarily equal or perpendicular.",
+    "A rhombus has all four sides equal and is a special parallelogram. Its diagonals bisect each other at right angles and bisect the vertex angles.",
+    "A kite has two pairs of adjacent equal sides. One diagonal (the axis of symmetry) bisects the other diagonal perpendicularly and bisects the vertex angles.",
+    "A trapezium has at least one pair of parallel sides. Consecutive angles on the same leg sum to 180°. An isosceles trapezium has equal non-parallel sides and equal base angles.",
+    "Hierarchical classification: All squares are rectangles and rhombuses. All rectangles are parallelograms. All rhombuses are parallelograms. All parallelograms are trapeziums. Kites are a separate category.",
+    "A rectangle requires only all angles to be 90°; opposite sides will automatically be equal. A quadrilateral with three right angles must have a fourth right angle (by the 360° angle sum).",
+    "Diagonals are key to identifying quadrilaterals: equal and bisecting diagonals suggest a rectangle; perpendicular and bisecting diagonals suggest a rhombus; perpendicular diagonals with one bisecting the other suggest a kite.",
+    "Using congruence of triangles (SAS, AAS, SSS) is the primary method for proving properties of diagonals and sides in quadrilaterals.",
+    "The relationship between parallel sides and angles: when two lines are parallel, a transversal creates supplementary consecutive angles and equal alternate angles.",
+    "Special cases: A parallelogram with a right angle must be a rectangle. A rectangle with all sides equal is a square. A rhombus with a right angle is a square."
+  ]
+}

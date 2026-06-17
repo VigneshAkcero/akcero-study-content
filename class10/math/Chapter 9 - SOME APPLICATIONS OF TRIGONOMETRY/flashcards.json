@@ -1,0 +1,154 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Some Applications of Trigonometry",
+    "chapter_number": 9
+  },
+  "flashcards": [
+    {
+      "q": "What is the line of sight?",
+      "a": "The line of sight is the straight line drawn from the eye of an observer to the point being viewed on an object."
+    },
+    {
+      "q": "Define angle of elevation.",
+      "a": "The angle of elevation is the angle formed by the line of sight with the horizontal when the point being viewed is above the horizontal level."
+    },
+    {
+      "q": "Define angle of depression.",
+      "a": "The angle of depression is the angle formed by the line of sight with the horizontal when the point being viewed is below the horizontal level."
+    },
+    {
+      "q": "In a height-and-distance problem, what are the three key pieces of information needed to find the height of an object?",
+      "a": "The distance from the object, the angle of elevation, and the height of the observer's eye level."
+    },
+    {
+      "q": "What trigonometric ratio is most commonly used when the opposite side and adjacent side are involved?",
+      "a": "The tangent ratio (tan θ = opposite/adjacent)."
+    },
+    {
+      "q": "What trigonometric ratio is used when we know the hypotenuse and want to find a side?",
+      "a": "Either sine (sin θ = opposite/hypotenuse) or cosine (cos θ = adjacent/hypotenuse), depending on which side is needed."
+    },
+    {
+      "q": "In angle of elevation problems, is the angle measured above or below the horizontal?",
+      "a": "The angle of elevation is measured above the horizontal."
+    },
+    {
+      "q": "In angle of depression problems, is the angle measured above or below the horizontal?",
+      "a": "The angle of depression is measured below the horizontal."
+    },
+    {
+      "q": "If an observer looks up at an object with angle of elevation 30°, what right triangle is formed?",
+      "a": "A right triangle with the observer's position at the base, the object's position at the top, and a right angle at the point directly below the object."
+    },
+    {
+      "q": "What is the relationship between the angle of elevation from point A and the angle of depression from the object?",
+      "a": "They are equal due to alternate interior angles (when a transversal crosses parallel horizontal lines)."
+    },
+    {
+      "q": "How do you find the distance between two objects when you know their heights and angles from an observation point?",
+      "a": "Use trigonometric ratios to find the horizontal distances from the observation point to each object, then combine them appropriately."
+    },
+    {
+      "q": "In a two-object problem, if angles of depression to two points are 30° and 45°, what can you deduce about the distances?",
+      "a": "The point with angle of depression 45° is closer than the point with angle of depression 30°, because greater angles of depression indicate shorter distances."
+    },
+    {
+      "q": "What is the height of a tower if an observer at distance d sees it at angle of elevation θ?",
+      "a": "Height = d × tan θ."
+    },
+    {
+      "q": "If a ladder of length L is inclined at angle θ to the ground, what is the vertical height it reaches?",
+      "a": "Vertical height = L × sin θ."
+    },
+    {
+      "q": "If a ladder of length L is inclined at angle θ to the ground, what is the horizontal distance from its base to the wall?",
+      "a": "Horizontal distance = L × cos θ."
+    },
+    {
+      "q": "In a shadow problem, if the shadow length is s and the angle of elevation of the sun is θ, what is the height of the object?",
+      "a": "Height = s × tan θ."
+    },
+    {
+      "q": "What is meant by 'angle of inclination'?",
+      "a": "The angle at which an object (like a ladder, ramp, or rope) is inclined with respect to the horizontal."
+    },
+    {
+      "q": "How do you approach a problem involving two towers of different heights viewed from a point?",
+      "a": "Calculate the angles of elevation to both tops, use trigonometry to find distances, and then find the difference in heights or distance between towers."
+    },
+    {
+      "q": "In a problem where a person observes an object from two different positions, what additional information is needed?",
+      "a": "The distance between the two observation points and the angles of elevation (or depression) from both positions."
+    },
+    {
+      "q": "What does 'angle of elevation increases as the observer moves closer' mean geometrically?",
+      "a": "As the horizontal distance decreases while height remains constant, the angle θ increases because tan θ = height/distance."
+    },
+    {
+      "q": "In a problem with angle of depression from a height h to a point at distance d, what is the angle θ?",
+      "a": "tan θ = h/d, so θ = arctan(h/d)."
+    },
+    {
+      "q": "How do you find the width of a river if you observe a point on the opposite bank?",
+      "a": "Use angle of elevation or depression from a known height and the horizontal distance to determine the width using tan θ = width/height."
+    },
+    {
+      "q": "What is the practical application of angle of elevation in surveying?",
+      "a": "Surveyors use angles of elevation and distances to measure heights of mountains, buildings, and other tall structures."
+    },
+    {
+      "q": "What is the practical application of angle of depression in navigation?",
+      "a": "Navigators use angles of depression to determine distances to objects like ships, islands, or landmarks from an aircraft or ship."
+    },
+    {
+      "q": "If two angles of elevation to the top of a tower from two points are complementary (sum to 90°), what can you conclude?",
+      "a": "The tangent values of the two angles are reciprocals, creating a special relationship between the distances and the tower's height."
+    },
+    {
+      "q": "How does the tangent ratio specifically apply to real-world height and distance problems?",
+      "a": "tan(angle) = height/distance, allowing us to solve for unknown height or distance when the other two quantities are known."
+    },
+    {
+      "q": "In a problem where a kite's string makes an angle θ with the ground, and the string length is L, what is the height of the kite?",
+      "a": "Height of kite = L × sin θ."
+    },
+    {
+      "q": "What is the relationship between horizontal distance and angle of elevation in the formula tan θ = opposite/adjacent?",
+      "a": "The horizontal distance is the adjacent side; as it increases, the angle of elevation decreases."
+    },
+    {
+      "q": "When solving applications of trigonometry, why is it important to draw a diagram?",
+      "a": "A diagram helps identify the right triangle, label all known and unknown quantities, and determine which trigonometric ratio to use."
+    },
+    {
+      "q": "What is the key difference between a problem involving angle of elevation and one involving angle of depression?",
+      "a": "Angle of elevation involves looking upward, while angle of depression involves looking downward; the trigonometric setup may differ but uses the same ratios."
+    },
+    {
+      "q": "In a multi-stage problem with multiple angles and heights, what systematic approach should you use?",
+      "a": "Break the problem into smaller right triangles, solve each using appropriate trigonometric ratios, and combine results to answer the overall question."
+    },
+    {
+      "q": "How do you verify your answer in a heights and distances problem?",
+      "a": "Check if the answer is reasonable in context, re-examine your diagram, and verify calculations using the Pythagorean theorem if applicable."
+    },
+    {
+      "q": "What is the significance of the 45° angle in height-distance problems?",
+      "a": "When the angle is 45°, tan 45° = 1, meaning the height equals the horizontal distance, creating an isosceles right triangle."
+    },
+    {
+      "q": "In a problem where a building casts a shadow, what information do you need to find the building's height?",
+      "a": "The length of the shadow and the angle of elevation of the sun above the horizon."
+    },
+    {
+      "q": "What trigonometric ratio helps when you know the hypotenuse (like a ladder) and need the vertical height?",
+      "a": "The sine ratio: sin θ = opposite/hypotenuse, where opposite is the vertical height and hypotenuse is the ladder length."
+    },
+    {
+      "q": "How are angles of elevation and depression related when observing between two points?",
+      "a": "They are equal when considering the same line of sight from different perspectives due to alternate interior angles with parallel horizontal lines."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Mathematics",
+    "chapter_name": "Lines and Angles",
+    "chapter_number": 6
+  },
+  "summary": [
+    {
+      "category": "Basic Terms and Definitions",
+      "points": [
+        "A line segment is a part of a line with two endpoints, a ray has one endpoint and extends in one direction, and a line extends indefinitely in both directions.",
+        "An angle is formed by two rays originating from the same point (vertex). Angles are classified as acute (0°-90°), right (90°), obtuse (90°-180°), straight (180°), and reflex (180°-360°).",
+        "Two angles are complementary if their sum is 90° and supplementary if their sum is 180°. Adjacent angles share a common vertex and arm, while a linear pair consists of two adjacent angles forming a straight line."
+      ]
+    },
+    {
+      "category": "Intersecting Lines and Angle Properties",
+      "points": [
+        "When two lines intersect, they form four angles. The vertically opposite angles are equal, and adjacent angles are supplementary (sum to 180°).",
+        "The Linear Pair Axiom states: if a ray stands on a line, the sum of the two adjacent angles formed is 180°. The converse is also true: if two adjacent angles sum to 180°, their non-common arms form a line.",
+        "Theorem 6.1 states: when two lines intersect, vertically opposite angles are equal. This is proven using the Linear Pair Axiom."
+      ]
+    },
+    {
+      "category": "Parallel Lines and Transversals",
+      "points": [
+        "Two lines are parallel if they do not intersect and maintain a constant distance from each other. A transversal is a line that intersects two or more lines at distinct points.",
+        "When a transversal intersects two parallel lines, corresponding angles are equal, alternate interior angles are equal, alternate exterior angles are equal, and co-interior angles are supplementary.",
+        "Theorem 6.6 states: if two lines are parallel to the same line, then they are parallel to each other. This property (transitivity) can be extended to more than two lines."
+      ]
+    }
+  ]
+}

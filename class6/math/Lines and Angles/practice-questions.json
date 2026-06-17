@@ -1,0 +1,150 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Lines and Angles",
+    "chapter_number": 2
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is a 'point' in geometry, and how is it usually represented?",
+      "answer": "A point determines a precise location and is represented by a tiny dot labeled with a capital letter.",
+      "solution": "A point has no length, breadth, or height. It is modeled by the sharpen tip of a pencil or the end of a needle."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "How many lines can pass through two fixed points A and B?",
+      "answer": "Only one unique line.",
+      "solution": "While infinite lines can pass through a single point, any two points determine exactly one unique line that passes through both of them."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "An angle is formed by rays QP and QR. Name the vertex and the arms of this angle.",
+      "answer": "Vertex: Q, Arms: QP and QR.",
+      "solution": "The common starting point of the two rays is the vertex (Q), and the rays themselves are the arms (QP and QR)."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Define a 'ray' and provide one real-life example.",
+      "answer": "A ray is a portion of a line that starts at one point and goes on endlessly in one direction. Example: A beam from a lighthouse.",
+      "solution": "A ray has one fixed starting point (initial point) and no end point in the other direction."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Medium",
+      "question": "What is the difference between a line segment and a line?",
+      "answer": "A line segment has two end points and a fixed length, while a line extends indefinitely in both directions.",
+      "solution": "A line segment is the shortest distance between two points. If you extend this segment forever on both sides, it becomes a line."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "Classify an angle measuring $135^\\circ$. Give a reason for your classification.",
+      "answer": "Obtuse angle.",
+      "solution": "An angle greater than $90^\\circ$ (right angle) but less than $180^\\circ$ (straight angle) is called an obtuse angle. Since $90^\\circ < 135^\\circ < 180^\\circ$, it is obtuse."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "What is a 'straight angle', and how many right angles does it contain?",
+      "answer": "A straight angle measures $180^\\circ$ and contains two right angles.",
+      "solution": "The arms of a straight angle lie in a straight line. Since a right angle is $90^\\circ$ and $90^\\circ + 90^\\circ = 180^\\circ$, it holds two right angles."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "Define perpendicular lines.",
+      "answer": "Two lines that meet at right angles ($90^\\circ$) are called perpendicular lines.",
+      "solution": "Perpendicular lines form a perfect 'L' shape corner where they intersect."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Calculate the angle between the hour hand and the minute hand of a clock at 3 o'clock.",
+      "answer": "$90^\\circ$",
+      "solution": "The clock is divided into 12 parts of $30^\\circ$ each ($360 \\div 12 = 30$). At 3 o'clock, there are 3 parts between the hands: $3 \\times 30^\\circ = 90^\\circ$."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Hard",
+      "question": "What is the angle between the clock hands at 8 o'clock? (Calculate the smaller angle).",
+      "answer": "$120^\\circ$",
+      "solution": "From 12 to 8 clockwise is 8 parts ($8 \\times 30 = 240^\\circ$). However, the smaller angle is from 8 to 12 clockwise, which is 4 parts: $4 \\times 30^\\circ = 120^\\circ$."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "What is an 'angle bisector'?",
+      "answer": "A line that divides an angle into two equal parts.",
+      "solution": "If you bisect a $90^\\circ$ angle, you get two angles of $45^\\circ$ each."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Hard",
+      "question": "Define a 'reflex angle' and give one example of its measure.",
+      "answer": "A reflex angle is an angle greater than $180^\\circ$ and less than $360^\\circ$. Example: $210^\\circ$.",
+      "solution": "Reflex angles represent more than a half turn but less than a full turn."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "If an Ashoka Chakra has 24 spokes, what is the angle between any two adjacent spokes?",
+      "answer": "$15^\\circ$",
+      "solution": "A full circle is $360^\\circ$. Number of gaps between 24 spokes is 24. So, angle = $360 \\div 24 = 15^\\circ$."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Why is it better to name an angle as $\\angle ABC$ rather than just $\\angle B$?",
+      "answer": "To avoid confusion if multiple angles share the same vertex B.",
+      "solution": "Using a point on each of the arms ensures we know exactly which rays form the angle."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Easy",
+      "question": "What tool is used to measure the size of an angle in degrees?",
+      "answer": "Protractor.",
+      "solution": "A protractor is a semi-circular or circular tool divided into 180 or 360 equal degree parts."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "True or False: Increasing the length of the arms of an angle increases the size of the angle.",
+      "answer": "False.",
+      "solution": "The size of an angle is based on the amount of rotation between the rays, not the lengths of the rays themselves."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Hard",
+      "question": "If you are given an angle of $100^\\circ$, what is the measure of the reflex angle outside it at the same vertex?",
+      "answer": "$260^\\circ$",
+      "solution": "A full turn is $360^\\circ$. Reflex angle = $360^\\circ - 100^\\circ = 260^\\circ$."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "What are the two correctly steps for placing a protractor to measure an angle?",
+      "answer": "Vertex on the center point and one arm aligned with the $0^\\circ$ line.",
+      "solution": "The center of the protractor must match the vertex, and the base line of the protractor must match one arm of the angle."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "In a triangle, if two angles are $45^\\circ$ and $45^\\circ$, what must be the third angle? (Based on experimental evidence in the chapter).",
+      "answer": "$90^\\circ$",
+      "solution": "The sum of the three angles of a triangle is $180^\\circ$. $180 - (45 + 45) = 180 - 90 = 90^\\circ$."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Puzzle: An acute angle $x$ stays acute when tripled, but becomes obtuse when multiplied by 5. Suggest a possible measure for $x$.",
+      "answer": "Possible measures: $19^\\circ, 20^\\circ, 21^\\circ, 22^\\circ$.",
+      "solution": "1. $3x < 90 \\Rightarrow x < 30^\\circ$.\n2. $5x > 90 \\Rightarrow x > 18^\\circ$.\nSo $x$ must be between $18^\\circ$ and $30^\\circ$ such that it remains within acute limits for other multiples."
+    }
+  ]
+}

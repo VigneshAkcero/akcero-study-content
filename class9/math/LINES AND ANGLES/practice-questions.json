@@ -1,0 +1,220 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Mathematics",
+    "chapter_name": "Lines and Angles",
+    "chapter_number": 6
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is the difference between a line segment and a ray?",
+      "answer": "A line segment has two endpoints, while a ray has one endpoint and extends indefinitely in one direction.",
+      "solution": "A line segment AB is denoted as AB (or \\overline{AB}) and has fixed endpoints at A and B. A ray AB is denoted as \\overrightarrow{AB} and starts at point A (the endpoint) and extends indefinitely through point B. The key difference is that a line segment has finite length with two defined endpoints, while a ray extends infinitely in one direction from a single endpoint."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Define an angle and name its parts.",
+      "answer": "An angle is formed when two rays originate from the same endpoint. The parts are: (1) The two rays, called the arms of the angle, and (2) The common endpoint, called the vertex.",
+      "solution": "When two rays emanate from the same point, they create an angle. For example, if rays OA and OB originate from point O, they form angle AOB, denoted as ∠AOB. Here, O is the vertex (the common endpoint), and rays OA and OB are the arms (the two rays forming the angle). The angle measures the amount of rotation from one arm to the other."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Classify an angle that measures 65°.",
+      "answer": "An angle measuring 65° is an acute angle because it is between 0° and 90°.",
+      "solution": "Angles are classified by their measures: An acute angle measures between 0° and 90°. Since 65° falls within this range (0° < 65° < 90°), it is classified as an acute angle. If the angle were exactly 90°, it would be a right angle. If it were between 90° and 180°, it would be obtuse."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What is a complementary angle? Give an example.",
+      "answer": "Two angles are complementary if their measures add up to 90°. For example, 35° and 55° are complementary angles because 35° + 55° = 90°.",
+      "solution": "Complementary angles always sum to 90°. If one angle measures x°, its complement measures (90 - x)°. For instance, if an angle measures 30°, its complement measures 90° - 30° = 60°. Complementary angles do not need to be adjacent; they can be separate angles as long as their sum is 90°."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What is a supplementary angle? Give an example.",
+      "answer": "Two angles are supplementary if their measures add up to 180°. For example, 120° and 60° are supplementary angles because 120° + 60° = 180°.",
+      "solution": "Supplementary angles always sum to 180°. If one angle measures x°, its supplement measures (180 - x)°. For instance, if an angle measures 110°, its supplement measures 180° - 110° = 70°. When two supplementary angles are adjacent with non-common arms forming a straight line, they form a linear pair."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What are vertically opposite angles?",
+      "answer": "When two lines intersect, the angles that are opposite each other (not adjacent) are called vertically opposite angles. These angles are always equal.",
+      "solution": "When two lines intersect at a point, they form four angles. If we label the four angles as 1, 2, 3, and 4 going around, then angles 1 and 3 are vertically opposite (and equal), and angles 2 and 4 are vertically opposite (and equal). Vertically opposite angles are never adjacent angles. The word 'vertical' here means they are across from each other at the vertex of intersection."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "State the Linear Pair Axiom.",
+      "answer": "If a ray stands on a line, then the sum of the two adjacent angles formed is 180°.",
+      "solution": "The Linear Pair Axiom (Axiom 6.1) states: If ray OC stands on line AB, then ∠AOC + ∠BOC = 180°. This is because the two adjacent angles share a common arm (ray OC) and their non-common arms (rays OA and OB) form a straight line. Since a straight line measures 180°, the two angles must sum to 180°."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What are parallel lines?",
+      "answer": "Two lines are parallel if they do not intersect and maintain a constant distance from each other. They are denoted by the symbol ||.",
+      "solution": "Parallel lines are lines that never meet, no matter how far they are extended. The perpendicular distance between parallel lines is the same at all points. For example, opposite sides of a rectangle are parallel. If line l is parallel to line m, we write l || m. The concept of parallel lines is fundamental in geometry and appears in many real-world structures like railway tracks and lane markings."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "What is a transversal?",
+      "answer": "A transversal is a line that intersects two or more lines at distinct points.",
+      "solution": "When a line crosses two or more other lines, each at a different point, it is called a transversal. For example, if line t intersects line l at point P and line m at point Q (where P ≠ Q), then t is a transversal of lines l and m. A transversal creates eight angles when it intersects two lines (four angles at each intersection point)."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "What is the measure of a straight angle?",
+      "answer": "A straight angle measures exactly 180°.",
+      "solution": "A straight angle is formed when two rays originate from the same point and extend in exactly opposite directions, forming a straight line. The measure is 180°. For example, if points A, O, and B are collinear with O between A and B, then ∠AOB is a straight angle measuring 180°."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Two angles form a linear pair. If one angle measures 72°, what is the measure of the other angle?",
+      "answer": "The other angle measures 180° - 72° = 108°.",
+      "solution": "A linear pair consists of two adjacent angles whose non-common arms form a straight line. By the Linear Pair Axiom, the sum of angles in a linear pair is 180°. If one angle is 72°, then the other angle is 180° - 72° = 108°. We can verify: 72° + 108° = 180°, confirming they form a linear pair."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Two lines intersect and form four angles. One angle measures 45°. Find the measures of the other three angles.",
+      "answer": "The vertically opposite angle to 45° is 45°. The other two angles (which are vertically opposite to each other) measure 180° - 45° = 135° each.",
+      "solution": "When two lines intersect, they form four angles. Let's label them as ∠1, ∠2, ∠3, and ∠4 going around the intersection point.\nGiven: ∠1 = 45°\nBy the Linear Pair Axiom: ∠2 = 180° - 45° = 135° (adjacent to ∠1)\nBy Theorem 6.1 (Vertically Opposite Angles): ∠3 = ∠1 = 45° (opposite to ∠1)\nBy the Linear Pair Axiom: ∠4 = 180° - 45° = 135° (adjacent to ∠1, opposite to ∠2)\nTherefore, the angles measure 45°, 135°, 45°, and 135°."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Find the complement of an angle measuring 28°.",
+      "answer": "The complement is 90° - 28° = 62°.",
+      "solution": "Complementary angles sum to 90°. If one angle measures 28°, its complement measures 90° - 28° = 62°. We can verify: 28° + 62° = 90°, confirming they are complementary."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Find the supplement of an angle measuring 137°.",
+      "answer": "The supplement is 180° - 137° = 43°.",
+      "solution": "Supplementary angles sum to 180°. If one angle measures 137°, its supplement measures 180° - 137° = 43°. We can verify: 137° + 43° = 180°, confirming they are supplementary."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Ray OD bisects ∠AOB, which measures 96°. What is the measure of ∠AOD?",
+      "answer": "∠AOD = 96° ÷ 2 = 48°.",
+      "solution": "An angle bisector divides an angle into two equal parts. If ray OD bisects ∠AOB, then ∠AOD = ∠DOB = (1/2)∠AOB. Since ∠AOB = 96°, we have ∠AOD = 96°/2 = 48°. Similarly, ∠DOB = 48°. We can verify: 48° + 48° = 96° = ∠AOB."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Two adjacent angles measure (3x)° and (2x + 30)° and form a linear pair. Find the value of x and the measure of each angle.",
+      "answer": "x = 30. The angles measure 90° and 90°.",
+      "solution": "Since the two angles form a linear pair, their sum is 180°.\n(3x)° + (2x + 30)° = 180°\n3x + 2x + 30 = 180\n5x + 30 = 180\n5x = 150\nx = 30\n\nFirst angle: 3x = 3(30) = 90°\nSecond angle: 2x + 30 = 2(30) + 30 = 60 + 30 = 90°\nVerification: 90° + 90° = 180° ✓"
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "State Theorem 6.1 and explain why it is true using the Linear Pair Axiom.",
+      "answer": "Theorem 6.1: If two lines intersect, then vertically opposite angles are equal. This is true because of the Linear Pair Axiom: adjacent angles on a straight line sum to 180°.",
+      "solution": "Theorem 6.1 (Vertically Opposite Angles are Equal): When lines AB and CD intersect at point O, we need to prove that ∠AOC = ∠BOD.\n\nProof using Linear Pair Axiom:\nRay OA stands on line CD, so: ∠AOC + ∠AOD = 180° ... (1)\nRay OB stands on line CD, so: ∠AOD + ∠BOD = 180° ... (2)\n\nFrom (1) and (2):\n∠AOC + ∠AOD = ∠AOD + ∠BOD\nSubtracting ∠AOD from both sides:\n∠AOC = ∠BOD\n\nThis proves that vertically opposite angles are equal. The proof relies entirely on the Linear Pair Axiom applied to different pairs of adjacent angles."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Identify the type of angle pair and find the value of x if the angles measure (2x + 15)° and (x - 5)° and they are complementary.",
+      "answer": "The angles are complementary. (2x + 15)° + (x - 5)° = 90°, so x = 26⅔ or 80/3.",
+      "solution": "Given that the angles are complementary:\n(2x + 15)° + (x - 5)° = 90°\n2x + 15 + x - 5 = 90\n3x + 10 = 90\n3x = 80\nx = 80/3 = 26⅔ or approximately 26.67°\n\nFirst angle: 2(80/3) + 15 = 160/3 + 15 = 160/3 + 45/3 = 205/3 ≈ 68.33°\nSecond angle: 80/3 - 5 = 80/3 - 15/3 = 65/3 ≈ 21.67°\nVerification: 205/3 + 65/3 = 270/3 = 90° ✓"
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "State Theorem 6.6 and explain what it means for parallel lines.",
+      "answer": "Theorem 6.6: Lines which are parallel to the same line are parallel to each other. If l || m and m || n, then l || n.",
+      "solution": "Theorem 6.6 (Lines Parallel to the Same Line): This theorem states the transitivity property of parallel lines. If line l is parallel to line m, and line m is parallel to line n, then line l must be parallel to line n.\n\nThis is proved using the properties of corresponding angles and a transversal. When a transversal intersects three lines where two pairs are parallel, the corresponding angles formed satisfy certain relationships that force the third pair to also be parallel.\n\nPractical example: If railway track A is parallel to track B, and track B is parallel to track C, then track A must be parallel to track C. This property ensures consistency in parallel structures and is extended to any number of lines."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "When a transversal intersects two parallel lines, name the four types of angle pairs formed.",
+      "answer": "The four types are: (1) Corresponding angles, (2) Alternate interior angles, (3) Alternate exterior angles, (4) Co-interior angles (consecutive interior angles).",
+      "solution": "When a transversal crosses two parallel lines, it creates eight angles (four at each intersection). These angles form specific pairs:\n\n1. Corresponding angles: Angles in the same relative position at each intersection point. They are equal when lines are parallel.\n2. Alternate interior angles: Angles on opposite sides of the transversal, between (interior to) the two parallel lines. They are equal when lines are parallel.\n3. Alternate exterior angles: Angles on opposite sides of the transversal, outside (exterior to) the two parallel lines. They are equal when lines are parallel.\n4. Co-interior angles (same-side interior angles): Angles on the same side of the transversal, between the two parallel lines. They are supplementary (sum to 180°) when lines are parallel.\n\nThese relationships form the basis for understanding parallel line properties."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "If ∠POS = 85° and ∠SOQ = 95°, prove that points P, O, and Q are collinear.",
+      "answer": "Since ∠POS + ∠SOQ = 85° + 95° = 180°, by the converse of the Linear Pair Axiom, points P, O, and Q are collinear.",
+      "solution": "Given: ∠POS = 85° and ∠SOQ = 95°\n\nWe observe that ∠POS + ∠SOQ = 85° + 95° = 180°\n\nAngles ∠POS and ∠SOQ are adjacent angles (they share vertex O and ray OS).\n\nBy the converse of the Linear Pair Axiom (Axiom 6.2): If the sum of two adjacent angles is 180°, then the non-common arms form a line.\n\nThe non-common arms are rays OP and OQ. Since their sum is 180°, rays OP and OQ form a straight line, which means points P, O, and Q are collinear."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "Two lines intersect forming angles ∠1, ∠2, ∠3, and ∠4 in order. If ∠1 = (3y - 5)° and ∠3 = (2y + 25)°, find the value of y and the measure of each angle.",
+      "answer": "y = 30. ∠1 = ∠3 = 85°, and ∠2 = ∠4 = 95°.",
+      "solution": "When two lines intersect, vertically opposite angles are equal.\nAngles ∠1 and ∠3 are vertically opposite, so:\n∠1 = ∠3\n(3y - 5)° = (2y + 25)°\n3y - 5 = 2y + 25\n3y - 2y = 25 + 5\ny = 30\n\nTherefore:\n∠1 = 3(30) - 5 = 90 - 5 = 85°\n∠3 = 2(30) + 25 = 60 + 25 = 85° ✓\n\nSince adjacent angles form a linear pair:\n∠2 = 180° - 85° = 95°\n∠4 = 180° - 85° = 95° (or ∠4 = ∠2 = 95° as vertically opposite)\n\nVerification: 85° + 95° + 85° + 95° = 360° ✓"
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Ray OR bisects ∠POS, and ray OT bisects ∠SOQ, where ∠POQ = 180°. Find ∠ROT.",
+      "answer": "∠ROT = 90°.",
+      "solution": "Given: ∠POQ = 180° (straight line), ray OR bisects ∠POS, ray OT bisects ∠SOQ.\n\nLet ∠POS = x°\nThen ∠SOQ = 180° - x° (since ∠POS + ∠SOQ = 180°)\n\nSince OR bisects ∠POS:\n∠ROS = x/2\n\nSince OT bisects ∠SOQ:\n∠SOT = (180° - x°)/2 = 90° - x/2\n\n∠ROT = ∠ROS + ∠SOT\n∠ROT = x/2 + (90° - x/2)\n∠ROT = x/2 + 90° - x/2\n∠ROT = 90°\n\nTherefore, the angle between the two angle bisectors is always 90°, regardless of the value of x. This is a key property: when two angle bisectors of supplementary angles are drawn, they form a right angle."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Angles A and B are complementary. Angles B and C are supplementary. If angle A measures 38°, find the measures of angles B and C.",
+      "answer": "B = 52°, C = 128°.",
+      "solution": "Given: A and B are complementary, B and C are supplementary, A = 38°.\n\nStep 1: Find angle B.\nSince A and B are complementary:\nA + B = 90°\n38° + B = 90°\nB = 90° - 38° = 52°\n\nStep 2: Find angle C.\nSince B and C are supplementary:\nB + C = 180°\n52° + C = 180°\nC = 180° - 52° = 128°\n\nVerification:\n- A and B are complementary: 38° + 52° = 90° ✓\n- B and C are supplementary: 52° + 128° = 180° ✓"
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Two lines AB and CD intersect at O. Ray OE bisects ∠AOC. If ∠AOD = 120°, find ∠EOD.",
+      "answer": "∠EOD = 30°.",
+      "solution": "Given: Lines AB and CD intersect at O, ray OE bisects ∠AOC, ∠AOD = 120°.\n\nStep 1: Find ∠AOC.\nSince AB is a straight line and C is on one side:\n∠AOD and ∠AOC are supplementary (they form a linear pair with respect to different lines).\nActually, let me reconsider: ∠AOD = 120° is given.\n∠COD = 180° - ∠AOD = 180° - 120° = 60° (since ∠AOD and ∠COD form a linear pair on line AB)\n\nWait, let me be more careful. If lines AB and CD intersect at O:\n∠AOC and ∠AOD are adjacent angles.\n∠AOC + ∠COB = 180° (linear pair on line AB)\nWe need to use ∠AOD = 120°.\n∠COD = 180° - ∠AOD = 180° - 120° = 60° (linear pair on line AB)\n\nActually: ∠AOC + ∠COD = 180° is wrong. Let me restart.\nIf ∠AOD = 120°, and D and C are on opposite sides of line AB at intersection O, then:\n∠AOC = 180° - ∠AOD = 180° - 120° = 60°.\n\nStep 2: Find ∠AOE.\nSince OE bisects ∠AOC:\n∠AOE = ∠AOC/2 = 60°/2 = 30°\n\nStep 3: Find ∠EOD.\n∠EOD = ∠AOD - ∠AOE = 120° - 30° = 90°\n\nWait, let me verify: if ∠AOC = 60°, then ∠COD should be 180° - 60° = 120°.\nBut we said ∠AOD = 120°. These should be opposite angles, so ∠AOD = ∠COB = 120° and ∠BOD = ∠COA = 60°.\nSo ∠AOC = 60°.\n\n∠AOE = 30° (half of 60°)\n∠EOD = ∠AOD - ∠AOE = 120° - 30° = 90°\n\nHmm, but I should double-check by considering ∠EOC = 30° and ∠COD = 60°, so ∠EOD = 30° + 60° = 90°. ✓"
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Three angles around a point measure (2x)°, (3x)°, and (5x)°. These three angles do not form a complete rotation. What is the range of possible values of x?",
+      "answer": "x < 20, since the three angles sum to less than 360°: (2x) + (3x) + (5x) < 360 gives x < 20.",
+      "solution": "The sum of the three angles is:\n(2x)° + (3x)° + (5x)° = 10x°\n\nSince these three angles do not form a complete rotation (they don't go all the way around a point), their sum must be less than 360°:\n10x° < 360°\n10x < 360\nx < 36\n\nAdditionally, for the angles to be valid (positive), we need:\n2x > 0, 3x > 0, 5x > 0\nwhich means x > 0\n\nAlso, these are angles, so they should each be less than 360° (though this is automatically satisfied if x < 36).\n\nTherefore, the range is 0 < x < 36.\n\nNote: If the question meant exactly three angles at a point with a fourth angle completing the rotation, then (2x) + (3x) + (5x) + fourth angle = 360°. But as stated, the answer is 0 < x < 36."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Two supplementary angles are in the ratio 3:7. Find the measure of the larger angle.",
+      "answer": "The larger angle measures 126°.",
+      "solution": "Let the two supplementary angles be 3k and 7k, where k is a positive constant.\n\nSince they are supplementary:\n3k + 7k = 180°\n10k = 180°\nk = 18°\n\nFirst angle: 3k = 3(18°) = 54°\nSecond angle: 7k = 7(18°) = 126°\n\nThe larger angle is 126°.\n\nVerification: 54° + 126° = 180° ✓"
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "In a linear pair, one angle is 5 times the other. Find both angles.",
+      "answer": "The angles are 30° and 150°.",
+      "solution": "Let one angle be x°.\nThen the other angle is 5x°.\n\nSince they form a linear pair, their sum is 180°:\nx + 5x = 180\n6x = 180\nx = 30\n\nFirst angle: x = 30°\nSecond angle: 5x = 5(30) = 150°\n\nVerification: 30° + 150° = 180° ✓\nAlso: 150° ÷ 30° = 5, confirming one is 5 times the other. ✓"
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "When two lines intersect, the adjacent angles are (4x - 10)° and (2x + 40)°. Find the value of x and verify they form a linear pair.",
+      "answer": "x = 15. The angles are 50° and 130°, and they sum to 180°.",
+      "solution": "Adjacent angles formed by intersecting lines form a linear pair, so their sum is 180°:\n(4x - 10)° + (2x + 40)° = 180°\n4x - 10 + 2x + 40 = 180\n6x + 30 = 180\n6x = 150\nx = 25\n\nFirst angle: 4(25) - 10 = 100 - 10 = 90°\nSecond angle: 2(25) + 40 = 50 + 40 = 90°\n\nVerification: 90° + 90° = 180° ✓\n\nNote: Both angles are 90°, which means the two lines are perpendicular (intersect at right angles)."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Prove that if two adjacent angles are equal and form a linear pair, then each angle must measure 90°.",
+      "answer": "If two adjacent angles are equal and form a linear pair, then each angle measures 90°.",
+      "solution": "Given: Two adjacent angles form a linear pair, and the angles are equal.\nLet each angle measure x°.\n\nBy the Linear Pair Axiom, the sum of angles in a linear pair is 180°:\nx + x = 180\n2x = 180\nx = 90\n\nTherefore, each angle measures 90°.\n\nThis proves that if two equal adjacent angles form a linear pair, they must both be right angles. This is an important property: perpendicular lines (which intersect at 90°) create four right angles at the point of intersection, and adjacent pairs of these right angles form linear pairs."
+    }
+  ]
+}

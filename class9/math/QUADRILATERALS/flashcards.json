@@ -1,0 +1,25 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Quadrilaterals",
+    "chapter_number": 8
+  },
+  "flashcards": [
+    { "q": "Define a quadrilateral.", "a": "A closed figure bounded by four line segments, having four sides, four angles, and four vertices." },
+    { "q": "Define a parallelogram.", "a": "A quadrilateral in which both pairs of opposite sides are strictly parallel." },
+    { "q": "What effect does a diagonal have on a parallelogram?", "a": "It perfectly divides the parallelogram into two congruent triangles." },
+    { "q": "True or False: In a parallelogram, opposite sides and opposite angles are always equal.", "a": "True." },
+    { "q": "If each pair of opposite sides of a quadrilateral is equal, what shape is it?", "a": "A parallelogram." },
+    { "q": "If the diagonals of a quadrilateral bisect each other, what shape is it?", "a": "A parallelogram." },
+    { "q": "Identify the parallelogram: Its internal angles are all 90 degrees.", "a": "Rectangle." },
+    { "q": "Identify the parallelogram: All four of its sides are equal in length.", "a": "Rhombus." },
+    { "q": "Identify the parallelogram: All sides are equal and all angles are 90 degrees.", "a": "Square." },
+    { "q": "What is unique about the diagonals of a rectangle?", "a": "They bisect each other and are perfectly equal in length." },
+    { "q": "What is unique about the diagonals of a rhombus?", "a": "They bisect each other specifically at right angles (perpendicularly)." },
+    { "q": "What is unique about the diagonals of a square?", "a": "They are exactly equal in length and bisect each other at right angles." },
+    { "q": "What shape marks the intersection of the angle bisectors of a generic parallelogram?", "a": "A rectangle." },
+    { "q": "According to the Mid-point Theorem, what is the relationship between the line segment joining the mid-points of two sides of a triangle and the third side?", "a": "The line segment is parallel to the third side and exactly half of its length." },
+    { "q": "A line is drawn through the exact mid-point of one side of a triangle, parallel to a second side. What does it do to the third side?", "a": "It precisely bisects the third side." }
+  ]
+}

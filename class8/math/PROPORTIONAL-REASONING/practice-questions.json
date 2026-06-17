@@ -1,0 +1,220 @@
+{
+  "chapter_info": {
+    "class": "6-7",
+    "subject": "Mathematics",
+    "chapter_name": "Proportional Reasoning (Chapters 1 & 2 Combined)",
+    "chapters": [7, 3]
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Write the ratio of width to height for the following rectangles and reduce each to its simplest form: Rectangle A: width = 60 mm, height = 40 mm. Rectangle B: width = 30 mm, height = 20 mm.",
+      "answer": "Rectangle A: 60:40 = 3:2 (dividing by HCF 20). Rectangle B: 30:20 = 3:2 (dividing by HCF 10). Both have the same simplest form.",
+      "solution": "Step 1: Write the ratios of width to height. Rectangle A: 60:40, Rectangle B: 30:20. Step 2: Find the HCF for each ratio. For 60 and 40, HCF = 20. For 30 and 20, HCF = 10. Step 3: Divide both terms by their HCF. Rectangle A: 60÷20:40÷20 = 3:2. Rectangle B: 30÷10:20÷10 = 3:2. Step 4: Conclusion - Both rectangles have the same simplest ratio 3:2, meaning their proportions are the same, so the images should look similar."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Two ratios are given: 8:12 and 6:9. Verify whether these ratios are proportional using the simplest form method.",
+      "answer": "Yes, the ratios are proportional. Both simplify to 2:3 (since 8:12 = 2:3 and 6:9 = 2:3).",
+      "solution": "Step 1: Reduce first ratio to simplest form. 8:12 - HCF of 8 and 12 is 4. So 8÷4:12÷4 = 2:3. Step 2: Reduce second ratio to simplest form. 6:9 - HCF of 6 and 9 is 3. So 6÷3:9÷3 = 2:3. Step 3: Compare simplest forms. Both ratios simplify to 2:3, so they are proportional. We can write: 8:12 :: 6:9."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Use cross-multiplication to verify if the ratios 5:7 and 15:21 are proportional.",
+      "answer": "Yes, they are proportional because 5 × 21 = 105 and 7 × 15 = 105 (products are equal).",
+      "solution": "Step 1: Apply cross-multiplication formula. For ratios a:b and c:d to be proportional, a×d must equal b×c. Step 2: Set up the equation. 5 × 21 = 7 × 15. Step 3: Calculate both products. Left side: 5 × 21 = 105. Right side: 7 × 15 = 105. Step 4: Compare products. Both products are equal (105 = 105), so the ratios are proportional. We can write: 5:7 :: 15:21."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "A recipe for idli batter uses rice and urad dal in the ratio 2:1. If you have 6 cups of rice, how much urad dal is needed to maintain the same proportion?",
+      "answer": "3 cups of urad dal are needed.",
+      "solution": "Step 1: Understand the given ratio. Rice:Urad dal = 2:1. Step 2: Set up a proportion. 2:1 :: 6:x, where x is the amount of urad dal. Step 3: Use cross-multiplication. 2 × x = 1 × 6, so 2x = 6. Step 4: Solve for x. x = 6 ÷ 2 = 3. Step 5: Verify. If we have 6 cups rice and 3 cups urad dal, the ratio is 6:3 = 2:1 (when simplified). This maintains the original proportion."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "A map has a scale of 1:60,00,000. If the distance between two cities on the map is 2 cm, what is the actual geographical distance between them in kilometres?",
+      "answer": "The actual geographical distance is 120 km.",
+      "solution": "Step 1: Understand the map scale. 1:60,00,000 means 1 cm on map = 60,00,000 cm on ground. Step 2: Convert the ground distance to kilometres. 60,00,000 cm = 60,00,000 ÷ 1,00,000 km = 60 km. (Since 1 km = 1,00,000 cm). Step 3: Calculate actual distance for 2 cm on map. If 1 cm = 60 km, then 2 cm = 2 × 60 = 120 km. Step 4: Answer. The actual geographical distance between the cities is 120 km."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Express the ratio 1.5:2 as a ratio with whole number terms.",
+      "answer": "1.5:2 = 3:4 (when multiplied by 2).",
+      "solution": "Step 1: Identify the decimal terms. Ratio is 1.5:2. Step 2: Find the appropriate multiplier to convert to whole numbers. Since 1.5 has one decimal place, multiply both terms by 10 or find LCM. Actually, 1.5 = 3/2, so we need to clear the fraction. Multiply by 2: (1.5 × 2):(2 × 2) = 3:4. Step 3: Verify. 3:4 is now in whole number terms and is proportional to 1.5:2 (both simplify to the same ratio when reduced)."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "In a paint mixture, red and blue paints are mixed in the ratio 2:3. If you have 6 litres of red paint, how much blue paint do you need?",
+      "answer": "You need 9 litres of blue paint.",
+      "solution": "Step 1: Write the given ratio. Red:Blue = 2:3. Step 2: Set up a proportion. 2:3 :: 6:x. Step 3: Cross-multiply. 2x = 3 × 6 = 18. Step 4: Solve for x. x = 18 ÷ 2 = 9. Step 5: Verify. The ratio of 6 litres red to 9 litres blue is 6:9 = 2:3 when simplified. The proportion is maintained."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "State whether the following pairs of quantities are in direct proportion or inverse proportion: (a) Cost and quantity of items at a fixed price per item. (b) Speed of a car and time taken to cover a fixed distance.",
+      "answer": "(a) Direct proportion - when quantity increases, cost increases by the same factor. (b) Inverse proportion - when speed increases, time decreases inversely.",
+      "solution": "Step 1: Analyze pair (a). Cost = quantity × fixed price per item. If quantity doubles, cost doubles. Both increase by the same factor. This is direct proportion. Step 2: Analyze pair (b). Distance = speed × time. For a fixed distance, if speed increases by a factor, time must decrease by the inverse factor to maintain the same product. For example, if speed doubles, time becomes half. This is inverse proportion. Step 3: Summary. Direct proportion: y = kx (both quantities increase together). Inverse proportion: xy = k (when one increases, other decreases)."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Viswanath mixes rice and urad dal in the ratio 6:3, while Puneet mixes them in the ratio 4:2. Verify using cross-multiplication whether their mixtures will taste the same (assuming all other ingredients are proportional).",
+      "answer": "Yes, both mixtures will taste the same because the ratios are proportional (6×2 = 3×4 = 12).",
+      "solution": "Step 1: Write both ratios. Viswanath: 6:3, Puneet: 4:2. Step 2: Apply cross-multiplication to check if 6:3 :: 4:2. We need to verify if 6 × 2 = 3 × 4. Step 3: Calculate both products. Left product: 6 × 2 = 12. Right product: 3 × 4 = 12. Step 4: Compare products. Both products equal 12, so the ratios are proportional. Step 5: Simplify to verify. 6:3 = 2:1 and 4:2 = 2:1. Both simplify to the same ratio. Conclusion: Both mixtures have the same ratio of rice to urad dal, so they will taste the same (assuming proportional other ingredients)."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "In a recipe, cement, sand, and gravel are mixed in the ratio 1:1.5:3. If 1.5 bags of cement are available, how many bags of sand and gravel are needed to maintain the same proportion?",
+      "answer": "Sand = 2.25 bags, Gravel = 4.5 bags.",
+      "solution": "Step 1: Write the ratio. Cement:Sand:Gravel = 1:1.5:3. Step 2: Find the scaling factor. Original cement = 1, available cement = 1.5, so scaling factor = 1.5 ÷ 1 = 1.5. Step 3: Multiply all terms by the scaling factor. Sand = 1.5 × 1.5 = 2.25 bags. Gravel = 3 × 1.5 = 4.5 bags. Step 4: Verify the proportion. New ratio = 1.5:2.25:4.5. Dividing all by 1.5 gives 1:1.5:3, which matches the original ratio. Step 5: Answer. We need 2.25 bags of sand and 4.5 bags of gravel."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "A school has food provisions for 80 students for 15 days. If 20 more students join the school, for how many days will the food provisions last (assuming per student consumption remains the same)?",
+      "answer": "The food provisions will last for 12 days.",
+      "solution": "Step 1: Identify the type of proportion. As the number of students increases, the duration the food lasts decreases (inverse proportion). Step 2: Write the data. Initial: 80 students, 15 days. New: 100 students (80 + 20), x days. Step 3: Apply inverse proportion formula. In inverse proportion, the product remains constant: (number of students) × (number of days) = constant. So, 80 × 15 = 100 × x. Step 4: Solve for x. 1200 = 100x, so x = 1200 ÷ 100 = 12. Step 5: Verify. 80 × 15 = 1200 and 100 × 12 = 1200. Products are equal, confirming inverse proportion. Answer: The food will last 12 days."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "If 24 pencils cost ₹120, how much will 20 such pencils cost?",
+      "answer": "20 pencils will cost ₹100.",
+      "solution": "Step 1: Identify the proportion type. Cost and quantity are directly proportional (at a fixed price per pencil). Step 2: Find the constant of proportionality (price per pencil). Price per pencil = ₹120 ÷ 24 = ₹5 per pencil. Step 3: Calculate cost of 20 pencils. Cost of 20 pencils = 20 × ₹5 = ₹100. Step 4: Verify using proportion. 24:120 :: 20:x. Cross-multiply: 24x = 120 × 20 = 2400, so x = 2400 ÷ 24 = 100. Answer: ₹100."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "In a trapezoid classroom, students are arranged in a ratio of boys to girls of 4:5. If there are 36 girls, how many boys are there?",
+      "answer": "There are 28.8... Actually, let me recalculate. If boys:girls = 4:5 and girls = 36, then 4:5 :: x:36. So 5x = 4 × 36 = 144, x = 28.8. This doesn't give whole number. Let me verify: if ratio is 4:5 and girls = 36, then x = (4 × 36) ÷ 5 = 144 ÷ 5 = 28.8. This is unusual for students. However, following the math: There are 28.8 boys (or approximately 29 boys if rounding).",
+      "solution": "Step 1: Write the given ratio. Boys:Girls = 4:5. Step 2: Set up a proportion. 4:5 :: x:36, where x is the number of boys. Step 3: Cross-multiply. 4 × 36 = 5 × x, so 144 = 5x. Step 4: Solve for x. x = 144 ÷ 5 = 28.8. Step 5: Interpretation. Since we cannot have 0.8 of a student, the actual number would be approximately 29 boys (if rounding) or exactly 144/5 boys in ratio terms. This suggests the actual numbers should be in the ratio 4:5 with whole students, like 24 boys and 30 girls (ratio 4:5), or 28 boys and 35 girls (close to 4:5)."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Two workers can complete a job in 12 days. How many days will it take if 4 workers work on the same job (assuming all workers work at the same rate)?",
+      "answer": "4 workers will take 6 days to complete the job.",
+      "solution": "Step 1: Identify the proportion type. Number of workers and time to complete work are inversely proportional (more workers means less time). Step 2: Set up the inverse proportion. Workers × Days = constant. So, 2 × 12 = 4 × x. Step 3: Solve for x. 24 = 4x, so x = 24 ÷ 4 = 6. Step 4: Verify. 2 × 12 = 24 and 4 × 6 = 24. Products are equal. Step 5: Interpretation. When workers double from 2 to 4, time becomes half from 12 to 6 days. This confirms inverse proportion."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "A tap fills a tank in 3 hours. How long will 2 such taps take to fill the same tank (assuming all taps fill at the same rate)?",
+      "answer": "2 taps will take 1.5 hours (or 1 hour 30 minutes) to fill the tank.",
+      "solution": "Step 1: Identify the proportion type. The number of taps and time to fill are inversely proportional (more taps means less time). Step 2: Set up inverse proportion. Number of taps × Time = constant. 1 tap × 3 hours = 2 taps × x hours. Step 3: Solve for x. 3 = 2x, so x = 3 ÷ 2 = 1.5 hours. Step 4: Convert to hours and minutes. 1.5 hours = 1 hour 30 minutes. Step 5: Verify. 1 × 3 = 3 and 2 × 1.5 = 3. Products are equal, confirming the relationship."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Divide 120 in the ratio 2:3:5.",
+      "answer": "The parts are 24, 36, and 60 respectively.",
+      "solution": "Step 1: Write the ratio. 2:3:5 with total = 120. Step 2: Find the sum of terms. 2 + 3 + 5 = 10. Step 3: Find the unit value. Unit = 120 ÷ 10 = 12. Step 4: Multiply each term by the unit value. First part = 2 × 12 = 24. Second part = 3 × 12 = 36. Third part = 5 × 12 = 60. Step 5: Verify the sum. 24 + 36 + 60 = 120 ✓. Step 6: Verify the ratio. 24:36:60 = 2:3:5 when divided by 12 ✓."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "In a paint mixture, Red, Blue, and White paints are mixed in the ratio 2:3:5. If you need 20 litres of the final mixture, how much of each colour paint do you need?",
+      "answer": "Red = 4 litres, Blue = 6 litres, White = 10 litres.",
+      "solution": "Step 1: Write the ratio. Red:Blue:White = 2:3:5 with total = 20 litres. Step 2: Find sum of terms. 2 + 3 + 5 = 10. Step 3: Find the unit value. Unit = 20 ÷ 10 = 2 litres. Step 4: Calculate each colour. Red = 2 × 2 = 4 litres. Blue = 3 × 2 = 6 litres. White = 5 × 2 = 10 litres. Step 5: Verify the total. 4 + 6 + 10 = 20 ✓. Step 6: Verify ratio. 4:6:10 = 2:3:5 when divided by 2 ✓."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "A school wants to rearrange 300 chairs from 25 rows with 12 chairs each row to rows with 20 chairs each. How many rows will the new arrangement have?",
+      "answer": "The new arrangement will have 15 rows.",
+      "solution": "Step 1: Verify the total chairs. Original arrangement: 25 rows × 12 chairs/row = 300 chairs. Step 2: Identify the proportion type. Number of rows and chairs per row are inversely proportional (if each row has more chairs, fewer rows are needed for the same total). Step 3: Set up inverse proportion. Rows × Chairs per row = constant. 25 × 12 = x × 20. Step 4: Solve for x. 300 = 20x, so x = 300 ÷ 20 = 15. Step 5: Verify. 25 × 12 = 300 and 15 × 20 = 300. Products are equal. Step 6: Answer. The new arrangement will have 15 rows."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "If x and y are directly proportional, and when x = 5, y = 15, find the constant of proportionality and write the equation.",
+      "answer": "The constant of proportionality k = 3, and the equation is y = 3x.",
+      "solution": "Step 1: Understand direct proportionality. When two quantities are directly proportional, y = kx, where k is the constant of proportionality. Step 2: Find k using given values. When x = 5, y = 15. So, 15 = k × 5. Step 3: Solve for k. k = 15 ÷ 5 = 3. Step 4: Write the equation. y = 3x. Step 5: Verify with given values. When x = 5, y = 3 × 5 = 15 ✓."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "If x and y are inversely proportional, and when x = 4, y = 12, find the constant of proportionality and write the equation.",
+      "answer": "The constant of proportionality k = 48, and the equation is xy = 48 or y = 48/x.",
+      "solution": "Step 1: Understand inverse proportionality. When two quantities are inversely proportional, xy = k, where k is the constant of proportionality. Step 2: Find k using given values. When x = 4 and y = 12, k = 4 × 12 = 48. Step 3: Write the equation. xy = 48, or equivalently, y = 48/x. Step 4: Verify with given values. When x = 4, y = 48 ÷ 4 = 12 ✓."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Three workers working together can complete a fence painting job in 4 days. If one more worker joins them, how many days will it take to complete the same job (assuming all workers work at the same rate)?",
+      "answer": "With 4 workers, it will take 3 days to complete the job.",
+      "solution": "Step 1: Identify the proportion type. Number of workers and time to complete are inversely proportional. Step 2: Calculate total work. Work = number of workers × time = 3 × 4 = 12 worker-days. Step 3: Set up for new scenario. With one more worker: 3 + 1 = 4 workers. Step 4: Calculate new time. 4 workers × time = 12 worker-days. Time = 12 ÷ 4 = 3 days. Step 5: Verify inverse proportion. 3 × 4 = 12 and 4 × 3 = 12. Products are equal. Step 6: Answer. With 4 workers, the job takes 3 days (down from 4 days with 3 workers)."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "A car travels 60 km in 1 hour. (a) How far will it travel in 3.5 hours at the same speed? (b) How long will it take to travel 200 km?",
+      "answer": "(a) 210 km. (b) 200/60 = 3⅓ hours (or 3 hours 20 minutes).",
+      "solution": "Step 1: Recognize the proportion type. Distance and time are directly proportional at constant speed. Constant speed k = 60 km/hour. Step 2: Solve part (a). Distance = speed × time = 60 × 3.5 = 210 km. Alternative: 60:1 :: x:3.5, so x = 60 × 3.5 = 210 km. Step 3: Solve part (b). Using distance = speed × time: 200 = 60 × time. Time = 200 ÷ 60 = 10/3 = 3⅓ hours = 3 hours 20 minutes. Alternative: 60:1 :: 200:x, so 60x = 200, x = 200/60 = 10/3 hours. Step 4: Verify both answers. At 60 km/hour, in 3.5 hours: 60 × 3.5 = 210 km ✓. To travel 200 km: 200 ÷ 60 = 3⅓ hours ✓."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Ram takes 1 hour to cut vegetables, and Shyam takes 1.5 hours to cut the same quantity of vegetables. If they work together, how long will it take them to cut the vegetables?",
+      "answer": "Working together, they will take 0.6 hours (or 36 minutes) to cut the vegetables.",
+      "solution": "Step 1: Calculate individual work rates. Ram's rate = 1 unit of work/hour (finishes 1 unit in 1 hour). Shyam's rate = 1/1.5 = 2/3 unit of work/hour (finishes 1 unit in 1.5 hours). Step 2: Calculate combined work rate. Combined rate = 1 + 2/3 = 5/3 units of work/hour. Step 3: Calculate time for 1 unit of work. Time = Work ÷ Rate = 1 ÷ (5/3) = 3/5 hour = 0.6 hours. Step 4: Convert to minutes. 0.6 hours × 60 minutes/hour = 36 minutes. Step 5: Verify using inverse proportion logic. Individual times: Ram = 1 hour, Shyam = 1.5 hours. Combined using formula: 1/time = 1/1 + 1/1.5 = 1 + 2/3 = 5/3. So time = 3/5 = 0.6 hours ✓."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "A factory requires 42 machines to produce a certain number of toys in 63 days. How many machines are required to produce the same number of toys in 54 days?",
+      "answer": "49 machines are required.",
+      "solution": "Step 1: Identify the proportion type. Number of machines and time to produce are inversely proportional (more machines means less time for the same output). Step 2: Set up the inverse proportion. Machines × Days = constant. 42 × 63 = x × 54. Step 3: Calculate the constant. 42 × 63 = 2646. Step 4: Solve for x. 2646 = x × 54, so x = 2646 ÷ 54 = 49. Step 5: Verify inverse proportion. 42 × 63 = 2646 and 49 × 54 = 2646. Products are equal ✓. Step 6: Interpretation. To reduce time from 63 to 54 days (reduction factor 54/63 = 6/7), machines must increase from 42 to 49 (increase factor 49/42 = 7/6). The inverse relationship holds."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "In a school, the ratio of students to teachers is 20:1. If there are 800 students in the school, how many teachers are there? If the school wants to reduce the student-teacher ratio to 15:1, how many more teachers are needed?",
+      "answer": "Currently there are 40 teachers. To achieve the new ratio, 13 additional teachers are needed (approximately), making the total 53 teachers.",
+      "solution": "Step 1: Find current number of teachers. Given ratio = 20:1 (students:teachers). If students = 800, then 20:1 :: 800:x. Cross-multiply: 20x = 800, so x = 40 teachers. Step 2: Find teachers needed for new ratio. New ratio = 15:1. If students remain 800, then 15:1 :: 800:y. Cross-multiply: 15y = 800, so y = 800 ÷ 15 = 53.33... ≈ 53 teachers. Step 3: Calculate additional teachers needed. Additional teachers = 53.33 - 40 = 13.33 ≈ 13 teachers (or more precisely, 800/15 - 40 = 160/3 - 40 = (160-120)/3 = 40/3 ≈ 13.33 teachers). Step 4: Answer. Currently 40 teachers. Approximately 13 additional teachers are needed, bringing the total to about 53 teachers. (Note: For exact whole number implementation, the new total would likely be 54 teachers to serve 810 students at a 15:1 ratio, or 55 teachers for a cleaner ratio."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "A rectangular image has width:height = 3:2. If the image is enlarged such that the new width is 15 cm, what will be the new height? If this image is then reduced to 1/3 of its size, what will be the new dimensions?",
+      "answer": "New height after enlargement = 10 cm. After reduction by 1/3: new width = 5 cm, new height = 10/3 cm (approximately 3.33 cm).",
+      "solution": "Part 1: Enlargement Step 1: Use the ratio of width to height. 3:2 :: 15:h. Cross-multiply: 3h = 2 × 15 = 30, so h = 10 cm. The new height is 10 cm. Step 2: Verify proportion. 15:10 = 3:2 when divided by 5 ✓. Part 2: Reduction Step 3: Apply 1/3 reduction means keeping 2/3 of the original size (or dividing by 3/2 if reducing to 1/3 size). Actually, 'reduced to 1/3 of its size' means new size = original × (1/3). New width = 15 × (1/3) = 5 cm. New height = 10 × (1/3) = 10/3 ≈ 3.33 cm. Step 4: Verify proportion maintains. 5:(10/3) = (5 × 3):10 = 15:10 = 3:2 ✓. The ratio is maintained through scaling."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "A school has 8 periods a day, each of 45 minutes duration. If the school wants to have 9 periods a day while keeping the total school hours the same, what should be the duration of each period?",
+      "answer": "Each period should be 40 minutes long.",
+      "solution": "Step 1: Calculate total school hours. Total time = 8 periods × 45 minutes/period = 360 minutes. Step 2: Identify the proportion type. Number of periods and duration per period are inversely proportional (more periods means shorter duration for the same total time). Step 3: Set up inverse proportion. Periods × Duration = constant. 8 × 45 = 9 × x. Step 4: Solve for x. 360 = 9x, so x = 360 ÷ 9 = 40 minutes. Step 5: Verify inverse proportion. 8 × 45 = 360 and 9 × 40 = 360 ✓. Step 6: Answer. Each of the 9 periods should be 40 minutes long to maintain the same total school hours of 360 minutes (6 hours)."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Two quantities x and y satisfy the equation xy = 24 (inverse proportion). Complete the table: When x = 2, y = ?; when x = 3, y = ?; when x = 4, y = ?; when x = 6, y = ?.",
+      "answer": "When x = 2, y = 12; when x = 3, y = 8; when x = 4, y = 6; when x = 6, y = 4.",
+      "solution": "Step 1: Understand the relationship. xy = 24 indicates inverse proportion with constant k = 24. Step 2: Calculate y for each x value using y = 24/x. When x = 2: y = 24 ÷ 2 = 12. When x = 3: y = 24 ÷ 3 = 8. When x = 4: y = 24 ÷ 4 = 6. When x = 6: y = 24 ÷ 6 = 4. Step 3: Verify the pattern. Observe that as x increases, y decreases proportionally. x values: 2, 3, 4, 6 (various increases). y values: 12, 8, 6, 4 (corresponding decreases). Products: 2×12=24, 3×8=24, 4×6=24, 6×4=24 ✓. All products equal 24, confirming inverse proportion."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "The cement concrete mixture requires cement, sand, and gravel in the ratio 1:1.5:3. For a construction project needing 110 units of concrete, calculate how many units of each ingredient are required.",
+      "answer": "Cement = 20 units, Sand = 30 units, Gravel = 60 units.",
+      "solution": "Step 1: Write the ratio and total needed. Cement:Sand:Gravel = 1:1.5:3, Total = 110 units. Step 2: Find the sum of ratio terms. 1 + 1.5 + 3 = 5.5. Step 3: Calculate the multiplier. For every 5.5 units of combined mixture, we follow the ratio. To get 110 units: multiplier = 110 ÷ 5.5 = 20. Step 4: Calculate each ingredient. Cement = 1 × 20 = 20 units. Sand = 1.5 × 20 = 30 units. Gravel = 3 × 20 = 60 units. Step 5: Verify the total. 20 + 30 + 60 = 110 ✓. Step 6: Verify the ratio. 20:30:60 simplifies to 1:1.5:3 by dividing by 20 ✓."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "If 2 pumps can fill a tank in 18 hours, and we add 2 more pumps of the same kind, how much time will it take to fill the tank? What is the total volume of liquid pumped per hour by all 4 pumps if a single pump can pump at a rate of 50 litres per hour?",
+      "answer": "With 4 pumps, it will take 9 hours. The total pumping rate of 4 pumps is 200 litres per hour.",
+      "solution": "Part 1: Time to fill with 4 pumps. Step 1: Identify inverse proportion. Pumps and time are inversely related. 2 pumps × 18 hours = 4 pumps × x hours. Step 2: Solve. 36 = 4x, so x = 9 hours. Step 3: Verify. 2 × 18 = 36 and 4 × 9 = 36 ✓. Part 2: Total pumping rate. Step 4: Calculate single pump rate. One pump = 50 litres/hour. Step 5: Calculate 4 pumps rate. 4 pumps = 4 × 50 = 200 litres/hour. Step 6: Verify tank volume. In 18 hours with 2 pumps: 2 × 50 litres/hour × 18 hours = 1800 litres. In 9 hours with 4 pumps: 4 × 50 litres/hour × 9 hours = 1800 litres ✓. The tank volume is 1800 litres, and both scenarios fill it correctly."
+    }
+  ]
+}

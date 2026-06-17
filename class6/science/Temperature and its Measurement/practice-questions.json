@@ -1,0 +1,206 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Temperature and its Measurement",
+    "chapter_number": 7
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is the primary reason we cannot rely on our sense of touch to determine if an object is hot or cold?",
+      "answer": "Sense of touch is subjective and can be influenced by previous contact with other temperatures.",
+      "solution": "Activity 7.1 shows that same water can feel warm to one hand and cool to another if they were previously in different temperatures."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Define 'Temperature' as per the textbook.",
+      "answer": "A reliable measure of the hotness (or coldness) of a body.",
+      "solution": "Temperature provides a consistent value for thermal state, unlike subjective feeling."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Which specific thermometer is used to measure human body temperature?",
+      "answer": "Clinical thermometer.",
+      "solution": "These are designed for the narrow range of human body temperatures (35\u00b0C to 42\u00b0C)."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "State the normal body temperature of a healthy human adult in degree Celsius.",
+      "answer": "37.0 \u00b0C.",
+      "solution": "While it can vary slightly between individuals, 37.0 \u00b0C is the average taken as 'normal'."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What is the equivalent of 37.0 \u00b0C on the Fahrenheit scale?",
+      "answer": "98.6 \u00b0F.",
+      "solution": "The textbook establishes 98.6 \u00b0F as the standard normal body temperature on the Fahrenheit scale."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "Why is mercury being replaced by digital thermometers in clinical settings?",
+      "answer": "Mercury is extremely toxic and difficult to dispose of if the glass breaks.",
+      "solution": "Digital thermometers use heat sensors and pose no toxic risk while being easier to read."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "Explain the benefit of using 'infrared thermometers' during pandemics like COVID-19.",
+      "answer": "They measure temperature from a distance without touching the person, reducing the risk of disease spread.",
+      "solution": "These are non-contact thermometers that sense heat radiation from a person's body."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "Convert 25 \u00b0C into the Kelvin scale. (Formula: K = \u00b0C + 273.15)",
+      "answer": "298.15 K.",
+      "solution": "25 + 273.15 = 298.15 K. Note that degree signs are not used with the letter K."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "What is the typical range of a laboratory thermometer available in schools?",
+      "answer": "-10 \u00b0C to 110 \u00b0C.",
+      "solution": "This range is wider than clinical thermometers to accommodate boiling water and melting ice."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Why must a laboratory thermometer be read while it is still immersed in the substance being measured?",
+      "answer": "Because the liquid column (alcohol/mercury) level begins to fall as soon as it is removed from the substance.",
+      "solution": "Unlike clinical thermometers, lab thermometers don't hold the reading once removed from the heat source."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Hard",
+      "question": "If a laboratory thermometer has 5 divisions between 0 \u00b0C and 10 \u00b0C, what is the value of one small division?",
+      "answer": "2 \u00b0C.",
+      "solution": "Distance (10-0 = 10) divided by number of divisions (5) equals 2 \u00b0C per division."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Hard",
+      "question": "During an experiment, the temperature of melting ice was measured every minute for 5 minutes. What was the expected observation and why?",
+      "answer": "The temperature remains constant at 0 \u00b0C while ice is melting.",
+      "solution": "The textbook states that temperature of ice remains constant during the melting process."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "Who is known as the 'Weather Woman of India' and what was her contribution to thermometry?",
+      "answer": "Anna Mani; she invented and built many weather measurement instruments in India.",
+      "solution": "Her work reduced India's reliance on imported instruments and promoted renewable energy research."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "What is 'Absolute Zero' and what is its value on the Celsius scale?",
+      "answer": "The lowest possible temperature that can be achieved; it is close to -273.15 \u00b0C.",
+      "solution": "Absolute zero corresponds to 0 on the Kelvin scale and is the theoretical lower limit of temperature."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Easy",
+      "question": "Which scale is considered the SI unit for temperature?",
+      "answer": "Kelvin (K).",
+      "solution": "The textbook explicitly identifies Kelvin as the International System of Units (SI) for temperature."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Hard",
+      "question": "A thermometer is placed in the armpit of a child. If it reads 36.2 \u00b0C, what is the actual body temperature approximately?",
+      "answer": "Between 36.7 \u00b0C and 37.2 \u00b0C.",
+      "solution": "Armpit measurement is about 0.5 \u00b0C to 1 \u00b0C lower than actual body temperature as per the textbook."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Identify two correct ways of holding/reading a laboratory thermometer.",
+      "answer": "Hold it vertically (not tilted) and keep the eye directly in line with the liquid level top.",
+      "solution": "Correct alignment prevents parallax error and ensures the most accurate reading."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Can a clinical thermometer be used to measure boiling water? Why or why not?",
+      "answer": "No; boiling water (100 \u00b0C) is far beyond the range of a clinical thermometer (up to 42 \u00b0C).",
+      "solution": "Attempting this could damage the thermometer as the temperature exceeds its scale range."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "Explain how temperature is determined in a digital thermometer.",
+      "answer": "It is determined with the help of heat sensors and displayed as numbers.",
+      "solution": "Unlike liquid-in-glass thermometers, digital ones use electronic components to detect thermal changes."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "List three factors that can influence a perfectly healthy person's 'normal' body temperature reading.",
+      "answer": "Age, time of the day, and activity level.",
+      "solution": "The 'normal' 37.0 \u00b0C is an average, and individual healthy readings fluctuate due to these biological/environmental factors."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Easy",
+      "question": "What liquid is usually used in laboratory thermometers (often coloured red)?",
+      "answer": "Alcohol.",
+      "solution": "Alcohol is often dyed red to make the rising column easily visible to the eye."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "Does a baby generally have a higher or lower body temperature compared to an adult?",
+      "answer": "Slightly higher.",
+      "solution": "Small children generally have slightly higher body temperatures as compared to adults due to metabolism/development."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "How is a digital clinical thermometer cleaned before use?",
+      "answer": "The tip is washed with soap and water, ensuring the digital portion/display stays out of water.",
+      "solution": "Sanitization is crucial for clinical instruments, but the electronics must not be submerged."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Easy",
+      "question": "Which temperature scale was named in honour of Lord Kelvin?",
+      "answer": "The Kelvin scale (K).",
+      "solution": "All temperature scales (Celsius, Fahrenheit, Kelvin) are named after the scientists who developed them."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Medium",
+      "question": "What is the temperature at the core of the Sun as mentioned in the text?",
+      "answer": "15 million degrees Celsius.",
+      "solution": "This is cited in the 'More to Know' section regarding highest possible temperatures."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Before thermometers, how did people detect fever, and why was it not always reliable?",
+      "answer": "By checking the pulse rate; it wasn't reliable because pulse rate can be affected by situations other than fever.",
+      "solution": "While fever increases pulse, other factors like stress or activity also change it, making for an inconsistent indicator."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Easy",
+      "question": "What is the lowest temperature a clinical thermometer can usually measure?",
+      "answer": "35 \u00b0C.",
+      "solution": "The clinical range for human body temperature measurement is 35 \u00b0C to 42 \u00b0C."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "If you are using a laboratory thermometer to measure the temperature of water, why should the bulb not touch the sides of the beaker?",
+      "answer": "To ensure the reading reflects only the temperature of the water, not the container.",
+      "solution": "Contact with the beaker might introduce error if the container is affected by external heat/cold source."
+    }
+  ]
+}

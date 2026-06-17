@@ -1,0 +1,206 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Diversity in the Living World",
+    "chapter_number": 2
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Define 'Biodiversity' in the context of a particular region.",
+      "answer": "The variety of plants and animals found in that region.",
+      "solution": "Biodiversity refers to the variety of plants and animals found in a particular region, and each member has a specific role in the ecosystem."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What is the method of arranging things into groups based on their common features called?",
+      "answer": "Grouping (or classification).",
+      "solution": "The method of arranging things into groups based on their similarities and differences is called grouping."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Name the three main groups of plants based on their height and nature of stem.",
+      "answer": "Herbs, Shrubs, and Trees.",
+      "solution": "Based on height, stem hardness, and branching patterns, plants are categorized as herbs, shrubs, and trees."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "True or False: Herbs have hard and woody stems.",
+      "answer": "False.",
+      "solution": "Herbs are typically small with soft, green, and tender stems."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What are climbers?",
+      "answer": "Plants with weak stems that need support to grow upwards.",
+      "solution": "Climbers are plants with weak stems that use surrounding structures for support to climb and grow."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What is the pattern of veins on a leaf called?",
+      "answer": "Venation.",
+      "solution": "The pattern of veins arranged on the surface of a leaf is called venation."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "Distinguish between a shrub and a tree.",
+      "answer": "Shrubs have stems branching near the ground, while trees have branches starting higher up.",
+      "solution": "Shrubs have hard, thin stems with branches appearing close to the ground, whereas trees are taller with thick, woody stems and branches that arise much higher up."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "Compare reticulate venation and parallel venation with examples.",
+      "answer": "Reticulate is net-like (Hibiscus), while parallel venation has veins running side-by-side (Banana/Grass).",
+      "solution": "Reticulate venation forms a net-like pattern on both sides of a middle vein. Parallel venation has veins that run parallel to each other."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Explain the two types of root systems found in plants.",
+      "answer": "Taproot (one main root) and Fibrous roots (bunched similar roots).",
+      "solution": "A taproot system consists of one main thick root with smaller side roots. A fibrous root system consists of a bunch of similar-sized thin roots arising from the base of the stem."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "State the relationship between a plant's leaf venation and its root system.",
+      "answer": "Reticulate venation correlates with taproots; Parallel venation correlates with fibrous roots.",
+      "solution": "Generally, plants with reticulate venation possess taproots, while plants with parallel venation possess fibrous roots."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "What are dicotyledons (dicots) and monocotyledons (monocots)?",
+      "answer": "Dicots have seeds with two cotyledons; monocots have seeds with one cotyledon.",
+      "solution": "Plants that have seeds with two parts (cotyledons) are dicots (e.g., chickpea). Plants with seeds having a single cotyledon are monocots (e.g., maize)."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Describe the correlation between seeds, leaves, and roots in dicot plants.",
+      "answer": "Dicot plants have seeds with two cotyledons, reticulate leaf venation, and a taproot system.",
+      "solution": "Dicotyledons typically show a specific pattern: two cotyledons in the seed, net-like venation in leaves, and a taproot system in the soil."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Define the term 'Habitat' and its role in an organism's life.",
+      "answer": "The natural environment where plants and animals live, providing all their survival needs.",
+      "solution": "A habitat is the natural home of a living thing that provides food, water, air, shelter, and other needs for survival."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Differentiate between terrestrial and aquatic habitats.",
+      "answer": "Terrestrial habitats are on land; aquatic habitats are in water.",
+      "solution": "Terrestrial habitats include forests, deserts, and mountains. Aquatic habitats include ponds, lakes, rivers, and oceans."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "What are amphibians? Give an example.",
+      "answer": "Animals that can live both on land and in water, like a frog.",
+      "solution": "Amphibians are specialized animals capable of surviving in both terrestrial and aquatic environments."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Hard",
+      "question": "What are 'Adaptations'? Provide an example from the chapter.",
+      "answer": "Special features that enable survival in a specific region, such as the streamlined body of a fish.",
+      "solution": "Adaptations are specific properties or features that make an organism fit for its surroundings, like the flexible branches of higher-altitude deodar trees."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Hard",
+      "question": "Explain how the features of a camel in a hot desert differ from those of a camel in a cold desert.",
+      "answer": "Hot desert camels have long legs and wide hooves; cold desert camels have shorter legs and two humps.",
+      "solution": "Hot desert camels (Rajasthan) have long legs to stay above hot sand and wide hooves for walking on sand. Cold desert camels (Ladakh) have shorter legs for mountains and two humps for storing food during harsh winters."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "Why do deodar trees in the mountains have a conical shape and sloping branches?",
+      "answer": "To allow snow to slide off easily during snowfall.",
+      "solution": "The conical structure and flexible, sloping branches are adaptations that prevent snow from accumulating on the tree, helping it survive in mountainous regions."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "How does a desert plant like cactus survive with very little water?",
+      "answer": "By using thick and fleshy stems to store water.",
+      "solution": "Desert plants have adaptations like fleshy stems that can store water for long periods, allowing them to tolerate hot and dry conditions."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Discuss two ways in which camels are adapted to conserve water.",
+      "answer": "They excrete small amounts of urine, have dry dung, and do not sweat.",
+      "solution": "Camels minimize water loss by producing very little urine and dry dung, and because they do not sweat, they can survive for many days without drinking water."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Explain what 'Sacred Groves' are and how they help in biodiversity conservation.",
+      "answer": "Community-protected forest patches where cutting trees and hunting are prohibited.",
+      "solution": "Sacred groves are undisturbed patches of forests protected by local communities. They often contain rare medicinal plants and act as community-protected treasures of biodiversity."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "Who was Salim Ali and what were his major contributions to Indian science?",
+      "answer": "The 'Birdman of India' who documented bird diversity and habitats.",
+      "solution": "Salim Ali was an ornithologist who prepared a list of birds and documented their routes and habitats. He was key in preserving areas like Ranganathittu Bird Sanctuary."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Describe the contribution of Janaki Ammal to Indian botany.",
+      "answer": "She documented plant biodiversity and led the 'Save Silent Valley' movement.",
+      "solution": "Janaki Ammal was an Indian botanist who initiated programmes to document plant diversity and played a key role in protecting the moist evergreen forest of Silent Valley."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "What would happen if the habitat of a population, like the Bengal Tiger, is damaged?",
+      "answer": "Population decline due to loss of home, food, and resources.",
+      "solution": "Habitat damage results in the loss of essential life-support systems (homes, food), leading to a decline in biodiversity and the eventual disappearance of species."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Easy",
+      "question": "Name two government projects in India mentioned in the textbook for biodiversity conservation.",
+      "answer": "Project Tiger and Cheetah Reintroduction Project.",
+      "solution": "Project Tiger was initiated in 1973 for Bengal Tigers, and the Cheetah Reintroduction project was started in 2022."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Medium",
+      "question": "What are cotyledons and how many are present in a maize seed?",
+      "answer": "They are seed leaves providing food; maize has one cotyledon.",
+      "solution": "Cotyledons are the internal parts of a seed. Maize is a monocotyledon (monocot) because it has only one cotyledon."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Medium",
+      "question": "Give an example of a plant with reticulate venation and taproots.",
+      "answer": "Mustard or Hibiscus (or Sadabahar/Chickpea).",
+      "solution": "Plants like mustard, hibiscus, and chickpea are dicots, featuring reticulate venation and taproots."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Explain how the streamlined body of a fish serves as an adaptation for its aquatic habitat.",
+      "answer": "It helps the fish to swim efficiently in water.",
+      "solution": "A streamlined body reduces resistance in water, allowing fish and other aquatic animals (like whales) to move and swim with greater speed and ease."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Math",
+    "chapter_name": "Finding the Unknown",
+    "chapter_number": 7
+  },
+  "summary": [
+    {
+      "category": "Equations and Their Meaning",
+      "points": [
+        "An equation is a statement of equality between two algebraic expressions, written with an equal sign between the Left Hand Side (LHS) and the Right Hand Side (RHS); for example, 2n + 1 = 99 or 4 + 2y = 16.",
+        "Solving an equation means finding the value of the unknown letter-number (variable) that makes LHS = RHS; the solution can be verified by substituting it back into the original equation.",
+        "Real-life situations — such as finding unknown weights on a balanced scale, position numbers in matchstick patterns, or number of guests at a party — can be modelled as equations."
+      ]
+    },
+    {
+      "category": "Methods of Solving Equations",
+      "points": [
+        "The trial and error method (substituting different values to find which gives LHS = RHS) works but is inefficient; a systematic approach is preferred.",
+        "Performing the same operation (add, subtract, multiply, or divide by the same number) on both sides of an equation preserves equality, allowing the unknown to be isolated step by step.",
+        "Key transposing rules: (a) a term moved to the other side changes its sign; (b) a multiplied factor moved to the other side becomes a divisor; (c) a divisor moved to the other side becomes a multiplied factor — for example, 2y + 7 = 21 becomes 2y = 21 − 7, and 2y = 14 becomes y = 14 ÷ 2."
+      ]
+    },
+    {
+      "category": "Applications and Historical Context",
+      "points": [
+        "Equations with two unknowns can be reduced to one unknown by expressing one variable in terms of the other; many real-life problems (savings, shopping, number tricks, marble sharing) are solved this way.",
+        "Brahmagupta (628 CE) gave a direct formula for equations of the form Ax + B = Cx + D: the solution is x = (D − B) / (A − C), enabling efficient solving without step-by-step operations.",
+        "This branch of mathematics was called bījaganita (algebra) in ancient India — the word bīja means 'seed', reflecting how the unknown answer is hidden inside a problem, waiting to be discovered."
+      ]
+    }
+  ]
+}

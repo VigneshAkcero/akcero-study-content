@@ -1,0 +1,150 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Playing with Constructions",
+    "chapter_number": 8
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is the fixed distance from the centre of a circle to any point on its boundary called?",
+      "answer": "Radius",
+      "solution": "The radius is the constant distance maintained by a compass between the fixed tip (centre) and the rotating pencil."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "State the property of opposite sides in a rectangle.",
+      "answer": "Opposite sides are equal in length.",
+      "solution": "In a rectangle ABCD, side AB is equal to side CD, and side BC is equal to side DA."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Which of the following is NOT a valid name for a square with corners labeled P, Q, R, and S in sequence: PQRS, SPQR, QRSP, or PRQS?",
+      "answer": "PRQS",
+      "solution": "A valid name must follow the order of corners around the perimeter. PRQS skips from P to R, which are opposite corners."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Medium",
+      "question": "If you construct a square of side 5 cm, what is the measure of each of its four angles?",
+      "answer": "$90^\\circ$ (Right angles)",
+      "solution": "By definition, both squares and rectangles have all four angles equal to $90^\\circ$."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Medium",
+      "question": "A rectangle is divided into 2 identical squares, each with a side of 4 cm. What are the length and breadth of the rectangle?",
+      "answer": "Length = 8 cm, Breadth = 4 cm",
+      "solution": "If two squares are placed side by side, the width remains the same (4 cm) but the total length becomes $4 + 4 = 8$ cm."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "Why is a rotated square still considered a square?",
+      "answer": "Because rotation does not change the lengths of its sides or the measures of its angles.",
+      "solution": "If a square with equal sides and $90^\\circ$ angles is rotated, its properties remain the same, so it is still a square."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "If a diagonal divides a square's corner angle into two equal parts, what is the measure of each smaller angle?",
+      "answer": "$45^\\circ$",
+      "solution": "The total angle is $90^\\circ$. Dividing it into two equal parts gives $90 \\div 2 = 45^\\circ$."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "In a rectangle ABCD, what are the two diagonals named?",
+      "answer": "AC and BD",
+      "solution": "Diagonals connect opposite vertices. Since AC and BD are opposite, they form the diagonals."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Hard",
+      "question": "Identify the steps to construct a rectangle with side DC = 5 cm and diagonal DB = 7 cm.",
+      "answer": "Draw base DC, draw a perpendicular at C, draw an arc of 7 cm from D to intersect at B, and complete the shape.",
+      "solution": "1. Draw DC = 5 cm. 2. Erect a perpendicular at C. 3. From D, use a compass set to 7 cm to mark point B on the perpendicular. 4. Complete the rectangle using the property that opposite sides are equal."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Hard",
+      "question": "How can you locate a point A that is exactly 6 cm away from both points B and C without using a ruler to measure the diagonal distance?",
+      "answer": "Draw two arcs of radius 6 cm from B and C; their intersection point is A.",
+      "solution": "By using a compass to draw overlapping arcs of the same radius from two different points, the intersection point will be equidistant from both."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "In a rectangle ABCD with sides AB = 7 cm and AD = 4 cm, if X is a point on AD and Y is a point on BC, what is the minimum possible length of XY?",
+      "answer": "7 cm",
+      "solution": "The minimum distance between the two parallel sides AD and BC is the length of the sides AB and CD. Thus, XY is minimum when it is perpendicular to AD and BC."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Hard",
+      "question": "Calculate the perimeter of a rectangle made of 3 identical squares, each of side 2 cm, placed in a single row.",
+      "answer": "16 cm",
+      "solution": "The rectangle will have breadth = 2 cm and length = $3 \\times 2 = 6$ cm. Perimeter = $2 \\times (6 + 2) = 2 \\times 8 = 16$ cm."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "If a diagonal of a rectangle divides a corner angle into $60^\\circ$ and $30^\\circ$, can the rectangle be a square?",
+      "answer": "No.",
+      "solution": "In a square, the diagonal bisects the $90^\\circ$ angle into two equal $45^\\circ$ parts. Since $60^\\circ \\neq 30^\\circ$, it cannot be a square."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "How many corners and sides does a regular hexagon have?",
+      "answer": "6 corners and 6 sides.",
+      "solution": "A hexagon, by definition, is a 6-sided polygon. In a regular hexagon, all sides are equal."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "To draw a 'Wavy Wave' with a radius of 2 cm on a central line of length 12 cm, how many identical half-circles can be drawn?",
+      "answer": "3 half-circles",
+      "solution": "Each half-circle (wave) has a diameter equal to $2 \\times \\text{radius} = 2 \\times 2 = 4$ cm. Total length 12 cm $\\div 4$ cm/wave = 3 waves."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Hard",
+      "question": "Where should you place the center of a circular hole to ensure it is at the exact center of a square?",
+      "answer": "At the intersection of the square's two diagonals.",
+      "solution": "The intersection point of the diagonals of a square is its geometric centre, making it the perfect spot for a centered hole."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Hard",
+      "question": "How does the length of the two diagonals of a rectangle compare?",
+      "answer": "They are exactly equal in length.",
+      "solution": "Both diagonals AC and BD of a rectangle connect opposite corners across the same width and height, resulting in equal lengths."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "A piece of wire is 36 cm long. If it is used to form a square, what is the length of one side?",
+      "answer": "9 cm",
+      "solution": "Perimeter of square = $4 \\times \\text{side}$. So, $36 = 4 \\times \\text{side}$. Side = $36 \\div 4 = 9$ cm."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "Construction: To draw a curve that bulges uniformly from one side of an 8 cm square, where should the compass tip be placed?",
+      "answer": "On the opposite side, ideally at its centre.",
+      "solution": "Placing the tip on the midpoint of the opposite side allows the compass to draw a symmetrical arc that bulges outwards from the target side."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "List two valid names for a square with corners labeled P (top left), Q (top right), R (bottom right), and S (bottom left).",
+      "answer": "PQRS and QRSP (or any variation in order)",
+      "solution": "Valid names must list the vertices in the order they appear as you travel around the perimeter. Examples: PQRS, QRSP, RS PQ, SPQR, or their reverse orders."
+    }
+  ]
+}

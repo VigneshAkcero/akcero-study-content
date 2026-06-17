@@ -1,0 +1,33 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Light – Reflection and Refraction",
+    "chapter_number": 9
+  },
+  "summary": [
+    {
+      "category": "Reflection and Spherical Mirrors",
+      "points": [
+        "Light travels in straight lines; highly polished surfaces like mirrors reflect light according to the laws of reflection (i=r).",
+        "Spherical mirrors (Concave and Convex) form images whose nature, position, and size depend on the object's relative distance from the Pole (P), Focus (F), and Centre of Curvature (C).",
+        "The mirror formula (1/v + 1/u = 1/f) and magnification (m = h'/h = -v/u) allow precise calculation of image properties using the New Cartesian Sign Convention."
+      ]
+    },
+    {
+      "category": "Refraction and Refractive Index",
+      "points": [
+        "Refraction is the bending of light when entering obliquely from one medium to another due to changes in speed; Snell’s Law defines the constant refractive index (n = sin i / sin r).",
+        "Refractive index (n = c/v) measures the ability of a medium to refract light; light slows down in optically denser media and bends towards the normal.",
+        "In a rectangular glass slab, the emergent ray is parallel to the incident ray but exhibits a lateral shift."
+      ]
+    },
+    {
+      "category": "Spherical Lenses and Power",
+      "points": [
+        "Lenses (Convex for convergence, Concave for divergence) form images through refraction governed by the lens formula (1/v - 1/u = 1/f).",
+        "The power of a lens (P = 1/f) defines its degree of convergence or divergence, measured in Dioptres (D); convex lenses have positive power, while concave lenses have negative power."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Mathematics",
+    "chapter_name": "Fractions in Disguise",
+    "chapter_number": 1
+  },
+  "notes": [
+    {
+      "section_title": "1.1 Fractions as Percentages",
+      "topics": [
+        {
+          "topic_name": "Understanding the Percentage Symbol",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The symbol '%' is read as 'per cent'. The word 'per cent' is derived from the Latin phrase 'per centum', meaning 'by the hundred' or 'out of hundred'."
+            },
+            {
+              "type": "note",
+              "title": "Definition of Percentage",
+              "text": "A percentage is a fraction with denominator 100. It represents a part per hundred. For example, 25% means 25 out of every 100."
+            },
+            {
+              "type": "paragraph",
+              "text": "When we say 25 per cent (25%), it means 25 out of every 100—like 25 people out of 100, 25 rupees out of 100 rupees, or 25 marks out of 100 marks. This provides a standardized way to compare quantities of different magnitudes."
+            },
+            {
+              "type": "example",
+              "title": "Example: Converting Percentages to Fractions",
+              "content": "If 50% of some quantity S is required, it means:\n50% = 50 × (1/100) × S = (50/100) × S = (1/2)S\n\nThis shows that 50% is equivalent to 1/2 of the quantity."
+            }
+          ]
+        },
+        {
+          "topic_name": "Percentages as Fractions with Denominator 100",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Percentages are simply fractions where the denominator is always 100. This makes them easy to compare and work with across different contexts."
+            },
+            {
+              "type": "example",
+              "title": "Examples of Percentages as Fractions",
+              "content": "20% = 20/100 = 2/10 = 1/5\n33% = 33/100\n75% = 75/100 = 3/4\n\nThese equivalent fractions all represent the same proportion."
+            },
+            {
+              "type": "note",
+              "title": "Key Insight",
+              "text": "By using 100 as the denominator, we can easily express any proportion as a percentage, making comparisons between different quantities straightforward and intuitive."
+            }
+          ]
+        },
+        {
+          "topic_name": "Why Use 100 as the Standard Denominator?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The number 100 is chosen as the standard denominator for percentages for several practical reasons. First, our number system is base 10, so 100 (10²) fits naturally with decimals. Second, 100 is a round, easy-to-understand number. Third, it provides enough detail for most practical purposes while remaining simple to grasp mentally."
+            },
+            {
+              "type": "example",
+              "title": "Decimal Conversion Advantage",
+              "content": "31% = 31/100 = 0.31\n\nWith 100 as denominator, converting to decimals is straightforward and matches our decimal place system."
+            },
+            {
+              "type": "paragraph",
+              "text": "While we could theoretically use other denominators like 10, 50, 1000, or 43, the number 100 hits the 'sweet spot'—it's large enough to give meaningful detail but simple enough for mental calculations. This standardization makes percentages the universal language of proportions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Expressing Fractions as Percentages",
+      "topics": [
+        {
+          "topic_name": "Converting Fractions to Percentages",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To express any fraction as a percentage, we need to find its equivalent fraction with 100 as the denominator. There are several methods to accomplish this."
+            },
+            {
+              "type": "example",
+              "title": "Example 1: Surya's Paint Mixture",
+              "content": "Surya mixes red and yellow paint to make deep orange. Red paint makes up 3/4 of the mixture. What percentage is red?\n\nMethod 1: Using Equivalent Fractions\n3/4 = 6/8 = 30/40 = 75/100 = 75%\n\nMethod 2: Multiplying Numerator and Denominator\n3/4 = (3 × 25)/(4 × 25) = 75/100 = 75%\n\nMethod 3: Using Proportion\n3/4 = x/100\nMultiply both sides by 100: x = (3/4) × 100 = 75\nTherefore, 75% of the colour is made with red paint."
+            },
+            {
+              "type": "note",
+              "title": "General Formula",
+              "text": "To convert a fraction to a percentage, multiply the fraction by 100:\nFraction × 100 = Percentage\n\nFor example: 2/5 = (2/5) × 100 = 40%"
+            },
+            {
+              "type": "example",
+              "title": "Example 2: Expressing 2/5 as a Percentage",
+              "content": "Method 1: Finding Equivalent Fraction\n2/5 = 20/50 = 40/100 = 40%\n\nMethod 2: Direct Multiplication\n(2/5) × 100 = (2 × 100)/5 = 200/5 = 40%"
+            }
+          ]
+        },
+        {
+          "topic_name": "Converting Percentages Back to Fractions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Just as we can convert fractions to percentages, we can also convert percentages back to fractions. Since a percentage is by definition a fraction with denominator 100, the conversion is straightforward."
+            },
+            {
+              "type": "example",
+              "title": "Example: Converting 24% to a Fraction",
+              "content": "24% = 24/100\n\nNow simplify by finding the greatest common divisor (GCD):\n24/100 = 12/50 = 6/25\n\nAll these forms—24/100, 12/50, and 6/25—are equivalent and represent the same proportion.\n\nOther equivalent fractions: 24/100 = 48/200"
+            },
+            {
+              "type": "note",
+              "title": "General Rule",
+              "text": "Any percentage Z% can be expressed as the fraction Z/100 or any equivalent fraction obtained by multiplying both numerator and denominator by the same number.\n\nZ% = Z/100 = (Z×k)/(100×k) for any non-zero number k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.2 Percentage of Some Quantity",
+      "topics": [
+        {
+          "topic_name": "Finding Percentage of a Given Quantity",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A percentage by itself is just a proportion—it needs a 'whole' or 'quantity' to refer to. When we calculate a percentage of a quantity, we're finding how much of that quantity the percentage represents."
+            },
+            {
+              "type": "paragraph",
+              "text": "For example, saying 'The biscuit has 25% sugar' without knowing the weight of the biscuit doesn't tell us how much sugar is present. But if we know the biscuit weighs 120g, we can calculate that it contains 30g of sugar."
+            },
+            {
+              "type": "note",
+              "title": "General Formula",
+              "text": "To find Y% of a quantity Q:\nY% of Q = (Y/100) × Q\n\nThis can also be expressed as:\n(Y/100) × Q = (Y × Q)/100"
+            },
+            {
+              "type": "example",
+              "title": "Example: Finding Percentage of a Quantity",
+              "content": "Madhu ate biscuits with 25% sugar and consumed 120g of biscuits.\nHow much sugar did Madhu consume?\n\n25% of 120g = (25/100) × 120 = (1/4) × 120 = 30g\n\nTherefore, Madhu consumed 30g of sugar."
+            }
+          ]
+        },
+        {
+          "topic_name": "Comparison Using Percentages",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Percentages are particularly useful for comparing quantities when the 'wholes' are different. For instance, comparing test scores of 42/50 and 70/80 is difficult directly, but converting both to percentages makes comparison straightforward."
+            },
+            {
+              "type": "example",
+              "title": "Example: Eesha's Test Scores",
+              "content": "Eesha scored:\n- English: 42 marks out of 50\n- Science: 70 marks out of 80\n\nTo compare:\nEnglish: (42/50) × 100 = 84%\nScience: (70/80) × 100 = 87.5%\n\nConclusion: Eesha performed better in Science (87.5%) than in English (84%)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Mental Computation with Common Percentages",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Certain percentages are equivalent to simple fractions, making mental computation easier. By memorizing these relationships, we can quickly estimate or calculate percentages without a calculator."
+            },
+            {
+              "type": "list",
+              "title": "Common Percentage-Fraction Equivalents",
+              "items": [
+                "25% = 1/4 (one quarter)",
+                "50% = 1/2 (one half)",
+                "75% = 3/4 (three quarters)",
+                "10% = 1/10 (one tenth)",
+                "20% = 1/5 (one fifth)",
+                "5% = 1/20 (one twentieth)",
+                "1% = 1/100 (one hundredth)",
+                "100% = 1 (the whole quantity)"
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example: Finding 25% of 40 Mentally",
+              "content": "Since 25% = 1/4, we can find 1/4 of 40:\n25% of 40 = (1/4) × 40 = 10\n\nAlternatively, we know:\n10% of 40 = 4\n20% of 40 = 8\n25% of 40 = 2.5 × (10% of 40) = 2.5 × 4 = 10"
+            },
+            {
+              "type": "note",
+              "title": "Useful Relationships",
+              "text": "20% of a value is double that of 10% of the same value.\n(20% of y) + (5% of y) = 25% of y\n\nThese relationships help in breaking down complex percentages into simpler calculations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "The FDP Trio: Fractions, Decimals, and Percentages",
+      "topics": [
+        {
+          "topic_name": "Converting Between Fractions, Decimals, and Percentages",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Fractions, decimals, and percentages are three different ways of representing the same quantity. Understanding how to convert between them is essential for problem-solving."
+            },
+            {
+              "type": "example",
+              "title": "Example: The Relationship Between 1/2, 0.5, and 50%",
+              "content": "These three expressions represent the same proportion:\n1/2 = 0.5 = 50%\n\nIf we find 50% of 24:\nUsing fractions: (1/2) × 24 = 12\nUsing decimals: 0.5 × 24 = 12\nUsing percentages: (50/100) × 24 = 12\n\nAll three methods give the same result!"
+            },
+            {
+              "type": "list",
+              "title": "Conversion Steps",
+              "items": [
+                "Fraction to Decimal: Divide numerator by denominator. Example: 3/4 = 0.75",
+                "Decimal to Percentage: Multiply by 100. Example: 0.75 × 100 = 75%",
+                "Fraction to Percentage: Multiply by 100. Example: (3/4) × 100 = 75%",
+                "Percentage to Decimal: Divide by 100. Example: 75% ÷ 100 = 0.75",
+                "Decimal to Fraction: Use decimal place value. Example: 0.75 = 75/100 = 3/4",
+                "Percentage to Fraction: Write with denominator 100, then simplify. Example: 75% = 75/100 = 3/4"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.3 Using Percentages",
+      "topics": [
+        {
+          "topic_name": "Comparing Proportions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When quantities have different units or different total amounts, direct comparison is difficult. Converting to percentages creates a common scale (0-100) that enables fair comparison."
+            },
+            {
+              "type": "example",
+              "title": "Example: Comparing Badam Drink Mix Compositions",
+              "content": "Product A (150g total): Contains 99g badam powder\nProduct B (400g total): Contains 313g milk solids\n\nTo determine which has more badam:\nProduct A: (99/150) × 100 = 66%\nProduct B: (313/400) × 100 = 78.25%\n\nProduct B has a higher percentage of its ingredient, making it easier to identify the better value."
+            }
+          ]
+        },
+        {
+          "topic_name": "Percentage Increase and Decrease",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Percentages effectively describe how a quantity changes over time. Whether something increases or decreases, we express the change as a percentage of the original amount."
+            },
+            {
+              "type": "note",
+              "title": "Calculating Percentage Change",
+              "text": "Percentage Change = (Change in Quantity / Original Quantity) × 100\n\nChange in Quantity = New Value - Original Value"
+            },
+            {
+              "type": "example",
+              "title": "Example: Price Change of Tomatoes",
+              "content": "Original price (3 years ago): ₹30 per kg\nCurrent price: ₹42 per kg\nIncrease in price: ₹42 - ₹30 = ₹12\n\nPercentage increase = (12/30) × 100 = 40%\n\nWe say the price of tomatoes increased by 40% over the last 3 years."
+            },
+            {
+              "type": "example",
+              "title": "Example: Theater Footfall Decrease",
+              "content": "Before COVID: 160 visitors per day\nAfter COVID: 100 visitors per day\nDecrement: 160 - 100 = 60\n\nPercentage decrease = (60/160) × 100 = 37.5%\n\nWe say the footfall in the theater post-COVID has decreased by 37.5%."
+            },
+            {
+              "type": "note",
+              "title": "Two Equivalent Statements",
+              "content": "The following two statements mean the same thing:\n(i) The value in 1991 is 165% of the value in 1961.\n(ii) The value has increased by 65% from 1961 to 1991.\n\nBoth indicate that the new value is 1.65 times the original value."
+            }
+          ]
+        },
+        {
+          "topic_name": "Profit and Loss",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In commerce, percentages are used to express profit or loss. The cost price (CP) is what is paid to buy goods, the selling price (SP) is what customers pay, and the marked price (MP) is the quoted price."
+            },
+            {
+              "type": "note",
+              "title": "Key Definitions",
+              "text": "Cost Price (CP): The price at which goods are purchased.\nMarked Price (MP): The price quoted to customers (often the MRP).\nSelling Price (SP): The actual price paid by customers after any discount.\nProfit: SP - CP (when SP > CP)\nLoss: CP - SP (when SP < CP)"
+            },
+            {
+              "type": "example",
+              "title": "Example: Profit Percentage Calculation",
+              "content": "A shopkeeper buys sweaters for ₹300 each and sells them for ₹430.\nProfit per sweater = ₹430 - ₹300 = ₹130\n\nProfit percentage = (Profit / Cost Price) × 100\n                  = (130/300) × 100\n                  = 43.33%\n\nThe shopkeeper makes a profit of 43.33% on each sweater."
+            },
+            {
+              "type": "example",
+              "title": "Example: Loss Percentage Calculation",
+              "content": "A rice seller purchased rice at ₹35 per kg.\nHe sells 10 kg for ₹300 total (₹30 per kg).\nCost: 10 × ₹35 = ₹350\nSelling Price: ₹300\nLoss: ₹350 - ₹300 = ₹50\n\nPercentage loss = (Loss / Cost Price) × 100\n                = (50/350) × 100\n                = 14.28%"
+            }
+          ]
+        },
+        {
+          "topic_name": "Discount",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A discount is a reduction in the marked price. It is usually expressed as a percentage of the marked price. After applying a discount, customers pay the selling price."
+            },
+            {
+              "type": "note",
+              "title": "Discount Concept",
+              "text": "Discount% is expressed as a percentage of the marked price (not the selling price).\nDiscount Amount = (Discount% / 100) × Marked Price\nSelling Price = Marked Price - Discount Amount"
+            },
+            {
+              "type": "example",
+              "title": "Example: Applying a Discount",
+              "content": "A cooker has a marked price (MRP) of ₹1800.\nA store offers a 35% discount.\n\nDiscount amount = (35/100) × 1800 = ₹630\nSelling price = ₹1800 - ₹630 = ₹1170\n\nCustomers pay ₹1170 instead of ₹1800."
+            }
+          ]
+        },
+        {
+          "topic_name": "Taxes",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Taxes like GST (Goods and Services Tax) are often expressed as percentages. These are added to the bill amount and collected by the government. The tax rate is applied to the item's price."
+            },
+            {
+              "type": "example",
+              "title": "Example: Calculating GST",
+              "content": "A mobile phone costs ₹8,250.\nGST of 18% is applied.\n\nGST amount = (18/100) × 8,250 = ₹1,485\nFinal price = ₹8,250 + ₹1,485 = ₹9,735\n\nAlternatively: Final price = ₹8,250 × 1.18 = ₹9,735"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Growth and Compounding",
+      "topics": [
+        {
+          "topic_name": "Simple Interest",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Interest is extra money paid by banks or institutions on deposits. Simple interest means the interest is calculated only on the original principal amount, not on accumulated interest."
+            },
+            {
+              "type": "note",
+              "title": "Simple Interest Formula",
+              "text": "Total Amount = P(1 + rt)\n\nWhere:\nP = Principal (initial deposit)\nr = Interest rate (as a decimal)\nt = Time (in years)\n\nInterest earned = P × r × t"
+            },
+            {
+              "type": "example",
+              "title": "Example: Simple Interest Calculation",
+              "content": "Deposit: ₹6,000\nInterest rate: 10% per annum (p.a.)\nTime period: 3 years\n\nInterest earned per year = 10% of ₹6,000 = ₹600\nTotal interest for 3 years = ₹600 × 3 = ₹1,800\n\nTotal amount after 3 years = ₹6,000 + ₹1,800 = ₹7,800\n\nUsing formula: ₹6,000 × (1 + 0.10 × 3) = ₹6,000 × 1.30 = ₹7,800"
+            }
+          ]
+        },
+        {
+          "topic_name": "Compound Interest",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Compound interest is interest calculated not only on the principal but also on accumulated interest from previous periods. This causes the amount to grow exponentially rather than linearly."
+            },
+            {
+              "type": "note",
+              "title": "Compound Interest Formula",
+              "text": "Total Amount = P(1 + r)^t\n\nWhere:\nP = Principal\nr = Interest rate (as a decimal)\nt = Time (in years)\n\nThis is different from simple interest because the interest earned each year is added back to the principal for the next year's calculation."
+            },
+            {
+              "type": "example",
+              "title": "Example: Compound Interest Calculation",
+              "content": "Deposit: ₹6,000\nInterest rate: 10% p.a.\nTime period: 3 years\n\nYear 1: ₹6,000 × 1.10 = ₹6,600\nYear 2: ₹6,600 × 1.10 = ₹7,260\nYear 3: ₹7,260 × 1.10 = ₹7,986\n\nUsing formula: ₹6,000 × (1.10)³ = ₹6,000 × 1.331 = ₹7,986\n\nTotal amount after 3 years = ₹7,986\nTotal interest = ₹7,986 - ₹6,000 = ₹1,986"
+            },
+            {
+              "type": "note",
+              "title": "Compound vs Simple Interest Comparison",
+              "text": "For the same principal, rate, and time:\n- Simple Interest gives: ₹7,800\n- Compound Interest gives: ₹7,986\n\nCompound interest yields more money because interest is earned on interest. This difference becomes more pronounced over longer periods and higher interest rates."
+            }
+          ]
+        },
+        {
+          "topic_name": "Exponential Growth",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Compounding demonstrates exponential growth—where quantities multiply by a constant factor each period rather than increasing by a constant amount. This applies to populations, bacteria growth, and other natural phenomena."
+            },
+            {
+              "type": "example",
+              "title": "Example: Population Growth",
+              "content": "A city's population grows by 3% every year.\nCurrent population: 1.5 crore\n\nAfter 1 year: 1.5 crore × 1.03 = 1.545 crore\nAfter 2 years: 1.545 crore × 1.03 = 1.5914 crore\nAfter 3 years: 1.5914 crore × 1.03 ≈ 1.64 crore\n\nUsing formula: 1.5 crore × (1.03)³ ≈ 1.64 crore\n\nThe population more than triples over time due to exponential growth."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Decline and Depreciation",
+      "topics": [
+        {
+          "topic_name": "Depreciation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Depreciation is the reduction in value of an item over time due to age, use, and wear. It is expressed as a percentage of the current value. Similar to compound growth in reverse, depreciation follows an exponential decline pattern."
+            },
+            {
+              "type": "example",
+              "title": "Example: TV Depreciation",
+              "content": "A TV costs ₹21,000 initially.\nIt depreciates at 5% per year.\n\nAfter Year 1:\nDepreciation = 5% of ₹21,000 = ₹1,050\nValue = ₹21,000 - ₹1,050 = ₹19,950\n\nAlternatively: Value = ₹21,000 × 0.95 = ₹19,950\n(Since 95% of the original value remains)"
+            },
+            {
+              "type": "example",
+              "title": "Example: Village Population Decline",
+              "content": "A village's population decreases by 10% every decade.\nCurrent population: 1,250\n\nAfter 1 decade: 1,250 × 0.9 = 1,125\nAfter 2 decades: 1,125 × 0.9 = 1,012.5\nAfter 3 decades: 1,012.5 × 0.9 ≈ 911\n\nUsing formula: 1,250 × (0.9)³ ≈ 911"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Percentages Greater Than 100",
+      "topics": [
+        {
+          "topic_name": "Understanding Percentages Over 100%",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A percentage can exceed 100%. When a value exceeds its reference quantity, the percentage will be greater than 100%. For example, if someone achieves 120% of their target, they've exceeded the target by 20%."
+            },
+            {
+              "type": "example",
+              "title": "Example: Sales Target Achievement",
+              "content": "A shopkeeper's daily sales target: ₹5,000\n\nDay 3 sales: ₹5,000\nPercentage of target = (5,000/5,000) × 100 = 100%\n\nDay 4 sales: ₹6,000\nPercentage of target = (6,000/5,000) × 100 = 120%\n\nThe shopkeeper achieved 120% of the target, exceeding it by 20%."
+            },
+            {
+              "type": "example",
+              "title": "Example: Harvest Comparison",
+              "content": "Last year's harvest: 260 kg of wheat\nThis year's harvest: 650 kg of wheat\n\nPercentage = (650/260) × 100 = 250%\n\nThis year's harvest is 250% of last year's, meaning it's 2.5 times the original amount."
+            },
+            {
+              "type": "note",
+              "title": "Interpretation of Percentages Over 100%",
+              "text": "100% = the whole quantity\n150% = 1.5 times the original (50% more)\n200% = 2 times the original (double)\n250% = 2.5 times the original\n\nThe percentage indicates how many times the original quantity the new value represents."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Tricky Percentages and Common Misconceptions",
+      "topics": [
+        {
+          "topic_name": "Multiple Discounts Are Not Additive",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A common mistake is adding multiple discounts together. For example, a '30% + 20% discount' does not equal 50% discount. The second discount is applied to the already-reduced price, not the original price."
+            },
+            {
+              "type": "example",
+              "title": "Example: Multiple Discounts",
+              "content": "Original cake price: ₹200\n\nOption A: 30% + 20% discount\nAfter 30% discount: ₹200 × 0.70 = ₹140\nAfter additional 20% discount on ₹140: ₹140 × 0.80 = ₹112\nFinal price: ₹112\n\nOption B: 50% discount (direct)\nAfter 50% discount: ₹200 × 0.50 = ₹100\nFinal price: ₹100\n\nOption B is better! The 30% + 20% discount results in paying 56% of original (44% off), not 50% off."
+            }
+          ]
+        },
+        {
+          "topic_name": "Profit Margin Misconception",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When a shopkeeper offers a discount equal to the profit percentage, they still incur a loss. For example, if goods are bought at cost ₹100 with 50% profit margin (selling at ₹150) and then a 50% discount is offered, the customer pays only ₹75—less than the cost!"
+            },
+            {
+              "type": "example",
+              "title": "Example: 50% Profit, 50% Discount",
+              "content": "Cost price (CP): ₹100\nProfit margin: 50%\nSelling price (with profit): ₹100 × 1.50 = ₹150\n\nNow offering 50% discount:\nPrice after discount: ₹150 × 0.50 = ₹75\n\nResult: Loss of ₹25 (since ₹75 < ₹100 cost)\n\nThe shopkeeper loses money despite having set a profit margin initially!"
+            }
+          ]
+        },
+        {
+          "topic_name": "Commutative Property of Percentage Operations",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "An interesting mathematical property: X% of Y equals Y% of X. This occurs because multiplication is commutative."
+            },
+            {
+              "type": "example",
+              "title": "Example: Commutative Property",
+              "content": "5% of 40 = (5/100) × 40 = 2\n40% of 5 = (40/100) × 5 = 2\n\n25% of 12 = (25/100) × 12 = 3\n12% of 25 = (12/100) × 25 = 3\n\nIn general: (X/100) × Y = (Y/100) × X"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Percentage",
+      "definition": "A fraction expressed with 100 as the denominator, represented by the symbol '%'. It indicates how many parts out of 100 are being considered."
+    },
+    {
+      "term": "Per Cent",
+      "definition": "Derived from Latin 'per centum', meaning 'by the hundred' or 'out of hundred'. It is the standard way of expressing a ratio with 100 as reference."
+    },
+    {
+      "term": "Cost Price (CP)",
+      "definition": "The price at which goods are purchased or the amount invested."
+    },
+    {
+      "term": "Marked Price (MP)",
+      "definition": "The price quoted to customers; often the Maximum Retail Price (MRP) listed by manufacturers."
+    },
+    {
+      "term": "Selling Price (SP)",
+      "definition": "The actual price paid by customers after any discount is applied."
+    },
+    {
+      "term": "Profit",
+      "definition": "The gain made in a transaction, calculated as Selling Price minus Cost Price when SP > CP."
+    },
+    {
+      "term": "Loss",
+      "definition": "The amount lost in a transaction, calculated as Cost Price minus Selling Price when CP > SP."
+    },
+    {
+      "term": "Discount",
+      "definition": "A reduction in the marked price, usually expressed as a percentage of the marked price."
+    },
+    {
+      "term": "Principal",
+      "definition": "The original amount of money deposited in a bank or lent out before interest is calculated."
+    },
+    {
+      "term": "Simple Interest",
+      "definition": "Interest calculated only on the principal amount, not on accumulated interest. Formula: I = P × r × t"
+    },
+    {
+      "term": "Compound Interest",
+      "definition": "Interest calculated on both the principal and accumulated interest from previous periods. Formula: A = P(1 + r)^t"
+    },
+    {
+      "term": "Depreciation",
+      "definition": "The reduction in value of an asset over time due to age, use, and wear, expressed as a percentage of the current value."
+    },
+    {
+      "term": "Profit Percentage",
+      "definition": "The profit expressed as a percentage of the cost price. Formula: (Profit / CP) × 100"
+    },
+    {
+      "term": "Loss Percentage",
+      "definition": "The loss expressed as a percentage of the cost price. Formula: (Loss / CP) × 100"
+    },
+    {
+      "term": "Exponential Growth",
+      "definition": "Growth where a quantity multiplies by a constant factor in each time period, as opposed to linear growth where a constant amount is added."
+    },
+    {
+      "term": "Equivalent Fraction",
+      "definition": "Fractions that represent the same value but have different numerators and denominators, obtained by multiplying both by the same number."
+    },
+    {
+      "term": "GST (Goods and Services Tax)",
+      "definition": "A tax levied by the government on goods and services, expressed as a percentage and added to the bill amount."
+    }
+  ],
+  "summary_points": [
+    "Percentages are fractions with denominator 100, making them a standardized way to express proportions and compare quantities of different magnitudes.",
+    "The symbol '%' represents 'per cent' (out of hundred). For example, 25% means 25 out of 100 or 1/4 of a quantity.",
+    "To convert a fraction to percentage, multiply the fraction by 100. To convert a percentage to fraction, write it as a fraction with denominator 100 and simplify.",
+    "Fractions, decimals, and percentages are three equivalent representations of the same proportion: they can be converted between each other using simple arithmetic.",
+    "Finding Y% of a quantity Q uses the formula: (Y/100) × Q. This allows us to determine actual values from percentages.",
+    "Percentages are essential for comparisons when quantities have different reference values or different units, providing a common scale (0-100).",
+    "Percentage change (increase or decrease) is calculated as: (Change / Original) × 100, showing how much a quantity has changed relative to its starting value.",
+    "In commerce, key concepts are: Profit = SP - CP, Loss = CP - SP, Profit% = (Profit/CP) × 100, Discount = MP - SP.",
+    "Simple interest calculates interest only on the principal: A = P(1 + rt), while compound interest calculates on principal plus accumulated interest: A = P(1 + r)^t.",
+    "Compound interest leads to exponential growth, where quantities multiply by a constant factor each period, resulting in faster growth than linear increase.",
+    "Depreciation follows exponential decline patterns, where items lose a constant percentage of their current value each period.",
+    "Percentages can exceed 100%, indicating that a value is more than the reference quantity. For example, 150% means 1.5 times the original.",
+    "Multiple percentage operations are not additive: 30% + 20% discount does not equal 50% discount, as the second applies to the reduced amount.",
+    "A key insight: X% of Y equals Y% of X, due to the commutative property of multiplication.",
+    "Mental computation with common percentages (like 25% = 1/4, 50% = 1/2, 10% = 1/10) enables quick estimation and calculation without calculators."
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "A Tale of Three Intersecting Lines",
+    "chapter_number": 7
+  },
+  "flashcards": [
+    {
+      "q": "What is a triangle?",
+      "a": "A polygon with three sides, three vertices, and three angles."
+    },
+    {
+      "q": "What are the vertices of a triangle?",
+      "a": "The three corner points where the sides of the triangle meet."
+    },
+    {
+      "q": "What are sides of a triangle?",
+      "a": "The three line segments connecting the three vertices."
+    },
+    {
+      "q": "What notation is used to represent triangle ABC?",
+      "a": "△ABC, where A, B, and C are the three vertices."
+    },
+    {
+      "q": "Define an equilateral triangle.",
+      "a": "A triangle with all three sides of equal length."
+    },
+    {
+      "q": "What are the angles in an equilateral triangle?",
+      "a": "All three angles are equal to 60°."
+    },
+    {
+      "q": "Define an isosceles triangle.",
+      "a": "A triangle with two sides of equal length."
+    },
+    {
+      "q": "What property do the angles opposite equal sides have in an isosceles triangle?",
+      "a": "They are equal to each other."
+    },
+    {
+      "q": "Define a scalene triangle.",
+      "a": "A triangle with all three sides of different lengths."
+    },
+    {
+      "q": "What is unique about the angles in a scalene triangle?",
+      "a": "All three angles have different measures."
+    },
+    {
+      "q": "State the triangle inequality property.",
+      "a": "The sum of any two sides of a triangle must be greater than the third side."
+    },
+    {
+      "q": "What is the condition for three lengths a, b, c to form a triangle?",
+      "a": "a + b > c, b + c > a, and c + a > b must all be true."
+    },
+    {
+      "q": "Can sides 1, 2, and 3 form a triangle?",
+      "a": "No, because 1 + 2 = 3, which is not greater than 3."
+    },
+    {
+      "q": "Can sides 3, 4, and 5 form a triangle?",
+      "a": "Yes, because 3 + 4 = 7 > 5, 4 + 5 = 9 > 3, and 5 + 3 = 8 > 4."
+    },
+    {
+      "q": "What is the angle sum property of triangles?",
+      "a": "The sum of all three interior angles of any triangle equals 180°."
+    },
+    {
+      "q": "If two angles of a triangle are 60° and 70°, what is the third?",
+      "a": "50°, because 180° - 60° - 70° = 50°."
+    },
+    {
+      "q": "Define an altitude of a triangle.",
+      "a": "A perpendicular line segment from a vertex to the opposite side (or its extension)."
+    },
+    {
+      "q": "How many altitudes does a triangle have?",
+      "a": "Three altitudes, one from each vertex."
+    },
+    {
+      "q": "What tool is used to construct an altitude?",
+      "a": "A set square is used to draw a perpendicular from a vertex to the opposite side."
+    },
+    {
+      "q": "Where do all three altitudes of a triangle meet?",
+      "a": "At a single point called the orthocenter."
+    },
+    {
+      "q": "Define a right-angled triangle.",
+      "a": "A triangle with one angle equal to 90°."
+    },
+    {
+      "q": "What is the side opposite the right angle called in a right triangle?",
+      "a": "The hypotenuse."
+    },
+    {
+      "q": "Define an acute-angled triangle.",
+      "a": "A triangle with all three angles less than 90°."
+    },
+    {
+      "q": "Define an obtuse-angled triangle.",
+      "a": "A triangle with one angle greater than 90° and less than 180°."
+    },
+    {
+      "q": "Can a triangle have more than one right angle?",
+      "a": "No, because two right angles alone would sum to 180°, leaving no room for the third angle."
+    },
+    {
+      "q": "Can a triangle have more than one obtuse angle?",
+      "a": "No, because two obtuse angles would sum to more than 180°."
+    },
+    {
+      "q": "What is the SSS construction method?",
+      "a": "Constructing a triangle when all three sides are given."
+    },
+    {
+      "q": "Describe the SSS construction method.",
+      "a": "Draw the longest side as base, then use compass to draw circles from endpoints with radii equal to the other two sides. Their intersection is the third vertex."
+    },
+    {
+      "q": "What is the SAS construction method?",
+      "a": "Constructing a triangle when two sides and the included angle are given."
+    },
+    {
+      "q": "Describe the SAS construction method.",
+      "a": "Draw the first side, construct the given angle at one endpoint, draw the second side along the angle, then connect endpoints to form the triangle."
+    },
+    {
+      "q": "What is the ASA construction method?",
+      "a": "Constructing a triangle when two angles and the included side are given."
+    },
+    {
+      "q": "Describe the ASA construction method.",
+      "a": "Draw the given side, construct the two given angles at its endpoints, extend the angle lines until they meet at the third vertex."
+    },
+    {
+      "q": "What does 'included angle' mean?",
+      "a": "The angle between two given sides of a triangle."
+    },
+    {
+      "q": "What does 'included side' mean?",
+      "a": "The side between two given angles of a triangle."
+    },
+    {
+      "q": "Can a triangle be constructed with two sides and a non-included angle?",
+      "a": "Not always; this may result in ambiguous cases with 0, 1, or 2 possible triangles."
+    },
+    {
+      "q": "For ASA construction, what is the condition on the sum of the two angles?",
+      "a": "The sum must be less than 180°."
+    },
+    {
+      "q": "If two angles in ASA construction sum to 180° or more, what happens?",
+      "a": "No triangle can be formed, as the sides would be parallel."
+    },
+    {
+      "q": "What construction tool is essential for SSS method?",
+      "a": "A compass, to draw circles of specific radii from given points."
+    },
+    {
+      "q": "What is an exterior angle of a triangle?",
+      "a": "An angle formed outside the triangle when one side is extended beyond a vertex."
+    },
+    {
+      "q": "State the exterior angle theorem.",
+      "a": "An exterior angle of a triangle equals the sum of the two non-adjacent (remote) interior angles."
+    },
+    {
+      "q": "In triangle ABC, if ∠A = 50° and ∠B = 60°, what is the exterior angle at C?",
+      "a": "110°, because the exterior angle equals ∠A + ∠B = 50° + 60° = 110°."
+    },
+    {
+      "q": "How is the angle sum property proved using parallel lines?",
+      "a": "Draw a line through one vertex parallel to the opposite side; use alternate angles to show the three angles form a straight line (180°)."
+    },
+    {
+      "q": "What are alternate angles?",
+      "a": "Angles on opposite sides of a transversal cutting two parallel lines, at different intersection points, that are equal."
+    },
+    {
+      "q": "In an equilateral triangle, what is the measure of each altitude angle with the base?",
+      "a": "90°, as an altitude is perpendicular to the base."
+    },
+    {
+      "q": "Can an equilateral triangle also be a right-angled triangle?",
+      "a": "No, because all angles in an equilateral triangle are 60°, not 90°."
+    },
+    {
+      "q": "Can an equilateral triangle be acute-angled?",
+      "a": "Yes, because all angles (60° each) are less than 90°."
+    },
+    {
+      "q": "In an isosceles triangle, what is true about the angles?",
+      "a": "Two angles (opposite the equal sides) are equal; the third angle is different."
+    },
+    {
+      "q": "Can an isosceles triangle be right-angled?",
+      "a": "Yes, with angles 90°, 45°, and 45°."
+    },
+    {
+      "q": "What is a 45-45-90 triangle?",
+      "a": "An isosceles right-angled triangle with two equal legs and a 90° angle between them."
+    },
+    {
+      "q": "For three lengths to form a triangle, the sum of any two must exceed the third. Why?",
+      "a": "Because the straight-line distance (shortest path) between two points cannot exceed the path via a third point."
+    },
+    {
+      "q": "If the longest side equals the sum of the other two sides, what is formed?",
+      "a": "A degenerate triangle (a straight line), not a proper triangle."
+    },
+    {
+      "q": "What tool is used in SAS construction to mark angles?",
+      "a": "A protractor, to measure and mark the given angle."
+    },
+    {
+      "q": "In ASA construction, after drawing the two angles, what do we do next?",
+      "a": "Extend the angle lines (rays) until they intersect; the intersection point is the third vertex."
+    },
+    {
+      "q": "What is the range of possible values for the third side if two sides are 5 cm and 8 cm?",
+      "a": "The third side c must satisfy: 3 < c < 13 (i.e., |8-5| < c < 8+5)."
+    },
+    {
+      "q": "Can a triangle exist with sides 7, 7, and 14?",
+      "a": "No, because 7 + 7 = 14, which is not greater than 14."
+    },
+    {
+      "q": "In triangle ABC, ∠A = ∠B. What type of triangle is it?",
+      "a": "Isosceles, with sides BC and AC equal (opposite the equal angles)."
+    },
+    {
+      "q": "Can a triangle have angles 45°, 45°, and 90°?",
+      "a": "Yes, this is an isosceles right-angled triangle."
+    },
+    {
+      "q": "If all three sides of a triangle are equal, what are all three angles?",
+      "a": "All three angles are 60° each."
+    },
+    {
+      "q": "Define the three types of triangles by sides.",
+      "a": "Equilateral (all equal), Isosceles (two equal), Scalene (all different)."
+    },
+    {
+      "q": "Define the three types of triangles by angles.",
+      "a": "Acute (all < 90°), Right (one = 90°), Obtuse (one > 90°)."
+    },
+    {
+      "q": "How many different triangles can be formed with sides 2 cm, 3 cm, 4 cm?",
+      "a": "Exactly one triangle, as the three sided lengths uniquely determine the triangle (SSS)."
+    },
+    {
+      "q": "What is a compass used for in triangle construction?",
+      "a": "To draw arcs of specific radii, locating points at fixed distances."
+    },
+    {
+      "q": "In construction, what does 'bisect' mean?",
+      "a": "To divide into two equal parts."
+    },
+    {
+      "q": "Can we construct a triangle with two sides 3 cm and 5 cm and any angle?",
+      "a": "Yes, but only certain angles allow the triangle to close properly (SAS method)."
+    },
+    {
+      "q": "What is the relationship between sides and angles in any triangle?",
+      "a": "The larger side is opposite the larger angle, and the smaller side is opposite the smaller angle."
+    },
+    {
+      "q": "In a right triangle with angles 30°, 60°, and 90°, which side is longest?",
+      "a": "The side opposite the 90° angle (the hypotenuse)."
+    },
+    {
+      "q": "What is the basic property that makes triangle inequality work?",
+      "a": "The straight-line distance between two points is shorter than any other path connecting them."
+    },
+    {
+      "q": "For circle-based SSS construction, why do we need two circles to intersect?",
+      "a": "The two circles (centered at endpoints of base with radii equal to the other two sides) must meet at a point; that point becomes the third vertex."
+    },
+    {
+      "q": "When constructing SSS, if the circles don't intersect internally, what does it mean?",
+      "a": "The three side lengths do not satisfy the triangle inequality, so no triangle can exist."
+    }
+  ]
+}

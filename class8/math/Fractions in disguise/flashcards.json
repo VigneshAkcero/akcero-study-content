@@ -1,0 +1,354 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Mathematics",
+    "chapter_name": "Fractions in Disguise",
+    "chapter_number": 1
+  },
+  "flashcards": [
+    {
+      "q": "What does the symbol '%' mean?",
+      "a": "Per cent, derived from Latin 'per centum', meaning 'by the hundred' or 'out of hundred'."
+    },
+    {
+      "q": "Define percentage.",
+      "a": "A percentage is a fraction with denominator 100, representing a part per hundred."
+    },
+    {
+      "q": "Express 25% as a fraction.",
+      "a": "25/100 or simplified form: 1/4"
+    },
+    {
+      "q": "Express 1/2 as a percentage.",
+      "a": "50%"
+    },
+    {
+      "q": "What is the formula to convert a fraction to a percentage?",
+      "a": "Fraction × 100 = Percentage"
+    },
+    {
+      "q": "What is the formula to convert a percentage to a fraction?",
+      "a": "Percentage% = Percentage/100 (then simplify if needed)"
+    },
+    {
+      "q": "Convert 0.75 to a percentage.",
+      "a": "75%"
+    },
+    {
+      "q": "Convert 60% to a decimal.",
+      "a": "0.6"
+    },
+    {
+      "q": "What does 'Y% of Q' mean mathematically?",
+      "a": "(Y/100) × Q"
+    },
+    {
+      "q": "What is 50% of 80?",
+      "a": "40"
+    },
+    {
+      "q": "What is 25% equivalent to as a fraction?",
+      "a": "1/4 (one quarter)"
+    },
+    {
+      "q": "What is 10% equivalent to as a fraction?",
+      "a": "1/10 (one tenth)"
+    },
+    {
+      "q": "What is 20% equivalent to as a fraction?",
+      "a": "1/5 (one fifth)"
+    },
+    {
+      "q": "What is 75% equivalent to as a fraction?",
+      "a": "3/4 (three quarters)"
+    },
+    {
+      "q": "Define Cost Price (CP).",
+      "a": "The price at which goods are purchased or the amount invested."
+    },
+    {
+      "q": "Define Marked Price (MP).",
+      "a": "The price quoted to customers; often the Maximum Retail Price (MRP) listed by manufacturers."
+    },
+    {
+      "q": "Define Selling Price (SP).",
+      "a": "The actual price paid by customers after any discount is applied."
+    },
+    {
+      "q": "What is the formula for Profit?",
+      "a": "Profit = Selling Price (SP) - Cost Price (CP)"
+    },
+    {
+      "q": "What is the formula for Loss?",
+      "a": "Loss = Cost Price (CP) - Selling Price (SP)"
+    },
+    {
+      "q": "What is the formula for Profit Percentage?",
+      "a": "Profit% = (Profit / Cost Price) × 100"
+    },
+    {
+      "q": "What is the formula for Loss Percentage?",
+      "a": "Loss% = (Loss / Cost Price) × 100"
+    },
+    {
+      "q": "Define Discount.",
+      "a": "A reduction in the marked price, usually expressed as a percentage of the marked price."
+    },
+    {
+      "q": "What is the formula for Discount Amount?",
+      "a": "Discount Amount = (Discount% / 100) × Marked Price"
+    },
+    {
+      "q": "What is the relationship between MP, Discount, and SP?",
+      "a": "Selling Price = Marked Price - Discount Amount"
+    },
+    {
+      "q": "Define Principal in banking context.",
+      "a": "The original amount of money deposited in a bank before interest is calculated."
+    },
+    {
+      "q": "Define Simple Interest.",
+      "a": "Interest calculated only on the principal amount, not on accumulated interest."
+    },
+    {
+      "q": "What is the Simple Interest formula?",
+      "a": "I = P × r × t, where P = Principal, r = rate (as decimal), t = time (in years)"
+    },
+    {
+      "q": "What is the Total Amount formula for Simple Interest?",
+      "a": "A = P(1 + rt)"
+    },
+    {
+      "q": "Define Compound Interest.",
+      "a": "Interest calculated on both the principal and accumulated interest from previous periods."
+    },
+    {
+      "q": "What is the Compound Interest formula?",
+      "a": "A = P(1 + r)^t, where P = Principal, r = rate (as decimal), t = time (in years)"
+    },
+    {
+      "q": "What is the key difference between simple and compound interest?",
+      "a": "Simple interest is calculated only on principal; compound interest is calculated on principal plus accumulated interest, leading to exponential growth."
+    },
+    {
+      "q": "Define Depreciation.",
+      "a": "The reduction in value of an asset over time due to age, use, and wear."
+    },
+    {
+      "q": "What is the Depreciation formula?",
+      "a": "Final Value = Initial Value × (1 - r)^t, where r = depreciation rate, t = time"
+    },
+    {
+      "q": "What is the formula for Percentage Change?",
+      "a": "Percentage Change = (Change / Original) × 100"
+    },
+    {
+      "q": "What does 100% represent?",
+      "a": "The whole quantity or complete amount."
+    },
+    {
+      "q": "What does 200% represent?",
+      "a": "Double the original quantity or 2 times the original."
+    },
+    {
+      "q": "What does 150% represent?",
+      "a": "1.5 times the original, or 50% more than the original."
+    },
+    {
+      "q": "If a value increases by 50%, what percentage of the original is it?",
+      "a": "150%"
+    },
+    {
+      "q": "If a value decreases by 25%, what percentage of the original remains?",
+      "a": "75%"
+    },
+    {
+      "q": "State the commutative property of percentages.",
+      "a": "X% of Y = Y% of X (because multiplication is commutative)"
+    },
+    {
+      "q": "Do multiple discounts add together?",
+      "a": "No, multiple discounts are applied successively. 30% + 20% discount ≠ 50% discount."
+    },
+    {
+      "q": "What does 'p.a.' mean?",
+      "a": "'per annum', meaning for every year or annually."
+    },
+    {
+      "q": "What is the formula for profit margin?",
+      "a": "Profit Margin% = (Profit / Cost Price) × 100"
+    },
+    {
+      "q": "If a shopkeeper sets 40% profit but offers 40% discount, does he make profit or loss?",
+      "a": "Loss (because discount is applied to marked price, resulting in selling price below cost price)."
+    },
+    {
+      "q": "What is the equivalent fraction of 50%?",
+      "a": "1/2"
+    },
+    {
+      "q": "What is the equivalent fraction of 33.33%?",
+      "a": "1/3 (approximately)"
+    },
+    {
+      "q": "What is the equivalent fraction of 66.67%?",
+      "a": "2/3 (approximately)"
+    },
+    {
+      "q": "What is 5% equivalent to as a fraction?",
+      "a": "1/20 (one twentieth)"
+    },
+    {
+      "q": "Define GST.",
+      "a": "Goods and Services Tax; a tax on goods and services, expressed as percentage and added to bill amount."
+    },
+    {
+      "q": "In a bill, how is GST calculated?",
+      "a": "GST Amount = (GST% / 100) × Taxable Amount; added to the final bill."
+    },
+    {
+      "q": "What does it mean if a value is 120% of another?",
+      "a": "The value is 20% more than the reference value."
+    },
+    {
+      "q": "If revenue increases from ₹100 to ₹120, what is the percentage increase?",
+      "a": "20% increase: (120-100)/100 × 100 = 20%"
+    },
+    {
+      "q": "Define exponential growth.",
+      "a": "Growth where a quantity multiplies by a constant factor each period, as opposed to linear growth."
+    },
+    {
+      "q": "What type of growth does compound interest represent?",
+      "a": "Exponential growth (quantity multiplies by constant factor each period)."
+    },
+    {
+      "q": "What type of decline does depreciation represent?",
+      "a": "Exponential decline (quantity multiplies by constant factor less than 1 each period)."
+    },
+    {
+      "q": "If a population grows at 3% per year, by what factor does it multiply each year?",
+      "a": "1.03 (or multiplying by 1 + 0.03)"
+    },
+    {
+      "q": "If a value depreciates at 10% per year, by what factor does it multiply each year?",
+      "a": "0.9 (or multiplying by 1 - 0.10)"
+    },
+    {
+      "q": "What is the FDP Trio?",
+      "a": "Fractions, Decimals, and Percentages—three equivalent representations of the same proportion."
+    },
+    {
+      "q": "How do you convert 1/4 to decimal form?",
+      "a": "Divide numerator by denominator: 1 ÷ 4 = 0.25"
+    },
+    {
+      "q": "How do you convert 0.25 to percentage form?",
+      "a": "Multiply by 100: 0.25 × 100 = 25%"
+    },
+    {
+      "q": "Express the relationship: 1/4 = ? = ?%",
+      "a": "1/4 = 0.25 = 25%"
+    },
+    {
+      "q": "What is the formula for finding the original quantity when percentage is given?",
+      "a": "Original = (Given Value / Percentage) × 100"
+    },
+    {
+      "q": "If 30% of a number is 60, what is the number?",
+      "a": "200 (because 60 ÷ 0.30 = 200)"
+    },
+    {
+      "q": "Define markup.",
+      "a": "The amount added to cost price to determine selling price; often expressed as percentage of cost price."
+    },
+    {
+      "q": "What is the difference between markup and profit?",
+      "a": "Markup is the increase in price; profit is the gain after selling (markup minus any discounts or expenses)."
+    },
+    {
+      "q": "If cost price is ₹100 and profit is ₹20, what is the selling price?",
+      "a": "₹120 (SP = CP + Profit)"
+    },
+    {
+      "q": "What is the formula for average or mean expressed in percentage terms?",
+      "a": "Average% = (Sum of all parts / Total parts) × 100"
+    },
+    {
+      "q": "Can a percentage be negative?",
+      "a": "Yes, when representing a decrease. For example, -20% means a 20% decrease."
+    },
+    {
+      "q": "What does 'break even' mean?",
+      "a": "No profit, no loss; selling price equals cost price (profit = 0)."
+    },
+    {
+      "q": "If SP = CP, what is the profit percentage?",
+      "a": "0% (break even point)"
+    },
+    {
+      "q": "How do you calculate the effective price when multiple discounts are offered?",
+      "a": "Apply each discount successively to the remaining price, not additively."
+    },
+    {
+      "q": "What is the formula for percentage increase?",
+      "a": "Percentage Increase = ((New Value - Old Value) / Old Value) × 100"
+    },
+    {
+      "q": "What is the formula for percentage decrease?",
+      "a": "Percentage Decrease = ((Old Value - New Value) / Old Value) × 100"
+    },
+    {
+      "q": "If an item costs ₹500 and is marked up by 20%, what is the marked price?",
+      "a": "₹600 (MP = 500 + 20% of 500 = 500 × 1.20)"
+    },
+    {
+      "q": "If marked price is ₹600 and discount is 20%, what is the selling price?",
+      "a": "₹480 (SP = 600 - 20% of 600 = 600 × 0.80)"
+    },
+    {
+      "q": "What is the principal in a simple interest problem of 3 years at 5% interest earning ₹150?",
+      "a": "₹1000 (P = I / (r × t) = 150 / (0.05 × 3))"
+    },
+    {
+      "q": "Can a percentage be expressed as a ratio with denominator other than 100?",
+      "a": "Yes, 50% can be written as 1/2, 2/4, 3/6, etc. All are equivalent fractions."
+    },
+    {
+      "q": "What does it mean if profit% is 100%?",
+      "a": "The selling price is double the cost price (profit equals cost price)."
+    },
+    {
+      "q": "What percentage represents 'three-fourths' of a quantity?",
+      "a": "75% (3/4 × 100 = 75)"
+    },
+    {
+      "q": "Express 150% as a fraction.",
+      "a": "3/2 (one and one-half or 1.5 times)"
+    },
+    {
+      "q": "What does a ratio 2:1 represent as a percentage?",
+      "a": "2/(2+1) × 100 = 66.67% for first part, 33.33% for second part"
+    },
+    {
+      "q": "If a recipe has flour:sugar = 3:1, what percentage is sugar?",
+      "a": "25% (1/(3+1) × 100 = 25%)"
+    },
+    {
+      "q": "What is the key insight when comparing X% of Y with Y% of X?",
+      "a": "They are equal due to commutative property of multiplication: (X/100) × Y = (Y/100) × X"
+    },
+    {
+      "q": "How does compound interest differ from simple interest over time?",
+      "a": "Compound interest grows exponentially (J-curve), while simple interest grows linearly."
+    },
+    {
+      "q": "Why is 100 chosen as the standard denominator for percentages?",
+      "a": "It fits naturally with base-10 decimal system, provides sufficient detail, and is easy to understand mentally."
+    },
+    {
+      "q": "What is the relationship between percentage change and multiplier?",
+      "a": "If value increases by X%, multiplier is (1 + X/100). If decreases by X%, multiplier is (1 - X/100)."
+    }
+  ]
+}

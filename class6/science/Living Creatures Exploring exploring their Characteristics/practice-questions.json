@@ -1,0 +1,206 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Living Creatures: Exploring their Characteristics",
+    "chapter_number": 10
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What are the common names for the two types of things in our surroundings?",
+      "answer": "Living and non-living.",
+      "solution": "Objects around us are categorized into living beings (like plants and animals) and non-living things (like pencils and cars)."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Why is a car considered non-living even though it moves?",
+      "answer": "Because it does not show other life characteristics like growth or reproduction.",
+      "solution": "Movement alone is not enough; a car does not grow, respire, or reproduce, which are essential features of living beings."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Name the tiny pores on leaves used for gas exchange.",
+      "answer": "Stomata.",
+      "solution": "Plants have minute openings called stomata on their leaf surfaces to take in and give out air."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What is the removal of waste products from the body called?",
+      "answer": "Excretion.",
+      "solution": "All living beings eliminate waste products like sweat, urine, or excess minerals through the process of excretion."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Give an example of a plant that responds to touch.",
+      "answer": "Mimosa (Touch-me-not, chhui-mui).",
+      "solution": "The Mimosa plant folds its leaves instantly when touched, demonstrating a response to stimulus."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What is the term for a cluster of frog eggs in a jelly-like substance?",
+      "answer": "Spawn.",
+      "solution": "Frogs lay their eggs in clusters known as spawn, which often float in pond water."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "Differentiate between breathing and respiration.",
+      "answer": "Breathing is the physical exchange of air; respiration is the overall life process containing breathing.",
+      "solution": "Breathing (inhaling and exhaling) is a part of the broader process of respiration, which is essential for all living beings."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "Why is reproduction necessary for living beings?",
+      "answer": "To ensure the continuity of their kind.",
+      "solution": "Reproduction is the process of producing young ones, which allows a species to continue existing across generations."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Identify most essential conditions for the successful germination of a bean seed.",
+      "answer": "The right amount of water and air.",
+      "solution": "Activity 10.2 demonstrates that seeds need air and moisture to sprout; excess water (limiting air) or no water prevents germination."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "How do mosquito larvae and pupae inhale air while in water?",
+      "answer": "By coming to the water surface.",
+      "solution": "Larvae and pupae live in water but require atmospheric air to respire, so they move to the surface regularly."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Explain why spraying kerosene oil on stagnant water helps control mosquito populations.",
+      "answer": "It blocks the air supply for larvae and pupae.",
+      "solution": "A thin layer of kerosene separates the water surface from the air, causing larvae and pupae to die due to lack of respiration."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "How does the 'matsya-yantra' compare to modern biological understanding?",
+      "answer": "It mimics the directive property of living beings' internal magnets (like compasses).",
+      "solution": "While the chapter uses it to show historical navigation, it highlights how humans use physical properties to find directions, similar to how magnets influence behavior."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "Compare the growth directions of roots and shoots when a seedling is placed inverted.",
+      "answer": "The shoot bends to grow upward; the root bends to grow downward.",
+      "solution": "Activity 10.3 shows that regardless of the initial orientation, shoots always grow upward (towards light/air) and roots grow downward (towards gravity/earth)."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "Describe an example of movement in plants that does not involve moving from place to place.",
+      "answer": "Opening of flowers, leaves closing at night, or insect-trapping movements.",
+      "solution": "Plants like Drosera trap insects with sticky hairs, and Amla leaves close after sunset, showing sensitivity and movement without displacement."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "Who was Jagadish Chandra Bose and what was his contribution to biology mentioned in the text?",
+      "answer": "He was an Indian scientist who used a crescograph to show plant sensitivity to stimuli.",
+      "solution": "Bose demonstrated that plants sense and respond to stimuli like light, heat, and gravity, using his invention—the crescograph—to measure growth."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Hard",
+      "question": "List the four stages of a mosquito's life cycle in the correct chronological order.",
+      "answer": "Egg, Larva, Pupa, Adult.",
+      "solution": "The cycle starts with an egg, which develops into a larva (worm-like), then into a pupa, and finally emerges as a flying adult."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "True or False: Most seeds require sunlight for the initial process of germination.",
+      "answer": "False.",
+      "solution": "Activity 10.2 shows that most seeds (like bean seeds) can germinate in a dark location if water and air are available."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "Explain the transition of a frog from a tadpole to a froglet.",
+      "answer": "The tadpole grows legs but retains its tail before moving to land as a froglet.",
+      "solution": "Tadpoles swim with tails; in the froglet stage, they develop strong legs and begin spending time on land, while the tail gradually disappears."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Define 'stimulus' and provide two examples from the textbook.",
+      "answer": "An event that prompts a response; e.g., touching a hot cup or light affecting plant growth.",
+      "solution": "Stimulus is anything causing a reaction. Examples: a sharp thorn (touch), touch-me-not being poked, or sunlight (in phototropism)."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Why is a seed sometimes difficult to categorize as living or non-living?",
+      "answer": "It remains dormant until given favorable conditions for germination.",
+      "solution": "Seeds do not show active growth or respiration in storage, but they exhibit all life features once air and water are provided, proving their living nature."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Easy",
+      "question": "What is the saucer-shaped leaf with sticky hairs that traps insects called?",
+      "answer": "Drosera.",
+      "solution": "Drosera is an insectivorous plant that uses its leaves' sticky projections to trap insects for nutrition."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "How does the outer covering of a seed facilitate its growth into a plant?",
+      "answer": "Water softens the seed coat to let the embryo develop.",
+      "solution": "The seed coat protects the inside; water exposure softens it, allowing the tiny embryo to emerge and grow into a seedling."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "What common trait do Amla tree leaves and Touch-me-not plants share?",
+      "answer": "They both respond to stimuli (folding/closing leaves).",
+      "solution": "Touch-me-not responds to physical contact, while Amla leaves respond to sunlight levels by closing after sunset."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Easy",
+      "question": "Name the phase of a frog's life where it has hind legs and still has a tail.",
+      "answer": "Froglet (late tadpole stage).",
+      "solution": "The froglet is the intermediate stage where legs appear but the aquatic tail is still present."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Medium",
+      "question": "Where do seeds get air for germination when they are sown in soil?",
+      "answer": "From the spaces between soil particles.",
+      "solution": "Air is trapped in the gaps between tiny soil fragments, which roots also use for growth."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Describe the change in habitat throughout a frog's life cycle.",
+      "answer": "Starts purely aquatic (egg/tadpole) and becomes amphibious (froglet/adult).",
+      "solution": "Eggs and tadpoles are entirely water-dependent; froglets start moving to land, and adults live in both terrestrial and aquatic environments."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Easy",
+      "question": "True or False: Adult mosquitoes may survive for 10 to 15 days.",
+      "answer": "True.",
+      "solution": "After emerging from the pupa, an adult mosquito typically lives for about 10-15 days."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "How does moisture reach a seedling in the beaker setup of Activity 10.3?",
+      "answer": "Through soaking in the attached blotting paper.",
+      "solution": "The blotting paper acts like a wick, drawing water from the bottom of the beaker to provide continuous moisture to the attached seedling."
+    }
+  ]
+}

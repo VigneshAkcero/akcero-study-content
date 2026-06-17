@@ -1,0 +1,282 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Polynomials",
+    "chapter_number": 2
+  },
+  "flashcards": [
+    {
+      "q": "What is a polynomial in one variable?",
+      "a": "An algebraic expression of the form aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₁x + a₀, where a₀, a₁, ..., aₙ are constants with aₙ ≠ 0, and all exponents are non-negative integers."
+    },
+    {
+      "q": "What condition must be satisfied for an expression to be a polynomial?",
+      "a": "All exponents of the variable must be non-negative integers (whole numbers: 0, 1, 2, 3, ...). Expressions with negative or fractional exponents are not polynomials."
+    },
+    {
+      "q": "Is x + 1/x a polynomial? Why or why not?",
+      "a": "No, because 1/x = x⁻¹, which has exponent -1 (negative), not a whole number."
+    },
+    {
+      "q": "Is √x + 3 a polynomial? Why or why not?",
+      "a": "No, because √x = x^(1/2), which has exponent 1/2 (fractional), not a whole number."
+    },
+    {
+      "q": "What is a term in a polynomial?",
+      "a": "A single part of a polynomial separated by addition or subtraction. For example, in x² + 2x, the terms are x² and 2x."
+    },
+    {
+      "q": "What is the coefficient of a term?",
+      "a": "The constant multiplying the variable in that term. For example, in 5x³, the coefficient is 5. In -x, the coefficient is -1."
+    },
+    {
+      "q": "What is a monomial?",
+      "a": "A polynomial with exactly one term. Examples: 3x, 5x³, -2y, 7."
+    },
+    {
+      "q": "What is a binomial?",
+      "a": "A polynomial with exactly two terms. Examples: x + 1, x² - 4, 3y + 2."
+    },
+    {
+      "q": "What is a trinomial?",
+      "a": "A polynomial with exactly three terms. Examples: x² + 2x + 1, y² + y + 5."
+    },
+    {
+      "q": "What is the degree of a polynomial?",
+      "a": "The highest power of the variable in the polynomial. For example, the degree of 3x⁷ - 4x⁶ + x + 9 is 7."
+    },
+    {
+      "q": "What is the degree of the constant polynomial 5?",
+      "a": "The degree is 0, since 5 = 5x⁰."
+    },
+    {
+      "q": "What is the degree of the zero polynomial?",
+      "a": "The degree of the zero polynomial is not defined."
+    },
+    {
+      "q": "What is a linear polynomial?",
+      "a": "A polynomial of degree 1, having the form ax + b where a ≠ 0. Examples: 2x + 3, -y + 5."
+    },
+    {
+      "q": "What is a quadratic polynomial?",
+      "a": "A polynomial of degree 2, having the form ax² + bx + c where a ≠ 0. Examples: x² + 2x + 1, 3y² - 5."
+    },
+    {
+      "q": "What is a cubic polynomial?",
+      "a": "A polynomial of degree 3, having the form ax³ + bx² + cx + d where a ≠ 0. Examples: x³ + 1, 2x³ - x² + 3x."
+    },
+    {
+      "q": "What is a zero of a polynomial p(x)?",
+      "a": "A number c such that p(c) = 0. For example, 2 is a zero of p(x) = x - 2 because p(2) = 0."
+    },
+    {
+      "q": "What is the relationship between a zero and a root of a polynomial equation?",
+      "a": "They refer to the same value. A zero of p(x) is the same as a root of the equation p(x) = 0."
+    },
+    {
+      "q": "How many zeroes does a linear polynomial have?",
+      "a": "Exactly one. A linear polynomial ax + b (where a ≠ 0) has the zero x = -b/a."
+    },
+    {
+      "q": "What is the zero of the linear polynomial 2x + 1?",
+      "a": "x = -1/2, found by solving 2x + 1 = 0."
+    },
+    {
+      "q": "How many zeroes can a quadratic polynomial have at most?",
+      "a": "At most 2 zeroes. For example, x² - 1 has zeroes x = 1 and x = -1."
+    },
+    {
+      "q": "How many zeroes can a cubic polynomial have at most?",
+      "a": "At most 3 zeroes. For example, x³ - 2x² - x + 2 has zeroes x = -1, 1, 2."
+    },
+    {
+      "q": "State the Remainder Theorem.",
+      "a": "When a polynomial p(x) is divided by (x - a), the remainder is p(a)."
+    },
+    {
+      "q": "State the Factor Theorem.",
+      "a": "(x - a) is a factor of p(x) if and only if p(a) = 0. In other words, (x - a) is a factor if a is a zero of p(x)."
+    },
+    {
+      "q": "How do you check if (x + 2) is a factor of a polynomial p(x)?",
+      "a": "By the Factor Theorem, check if p(-2) = 0. If p(-2) = 0, then (x + 2) is a factor."
+    },
+    {
+      "q": "What is the method for factorising a quadratic polynomial ax² + bx + c?",
+      "a": "Split the middle term: find two numbers with sum b and product ac, then rewrite and factor by grouping."
+    },
+    {
+      "q": "How many terms can a quadratic polynomial have at most?",
+      "a": "At most 3 terms. The general form is ax² + bx + c, which can have up to 3 terms."
+    },
+    {
+      "q": "How many terms can a cubic polynomial have at most?",
+      "a": "At most 4 terms. The general form is ax³ + bx² + cx + d, which can have up to 4 terms."
+    },
+    {
+      "q": "What is the method for factorising a cubic polynomial?",
+      "a": "Use the Factor Theorem: find a zero by testing factors of the constant term, then divide the polynomial by the corresponding linear factor to get a quadratic, which is then factorised."
+    },
+    {
+      "q": "State Identity I: the square of a sum.",
+      "a": "(x + y)² = x² + 2xy + y²"
+    },
+    {
+      "q": "State Identity II: the square of a difference.",
+      "a": "(x - y)² = x² - 2xy + y²"
+    },
+    {
+      "q": "State Identity III: the difference of squares.",
+      "a": "x² - y² = (x + y)(x - y)"
+    },
+    {
+      "q": "State Identity IV: product of binomials with common term.",
+      "a": "(x + a)(x + b) = x² + (a + b)x + ab"
+    },
+    {
+      "q": "State Identity V: square of a trinomial.",
+      "a": "(x + y + z)² = x² + y² + z² + 2xy + 2yz + 2zx"
+    },
+    {
+      "q": "State Identity VI: cube of a sum.",
+      "a": "(x + y)³ = x³ + y³ + 3xy(x + y) = x³ + 3x²y + 3xy² + y³"
+    },
+    {
+      "q": "State Identity VII: cube of a difference.",
+      "a": "(x - y)³ = x³ - y³ - 3xy(x - y) = x³ - 3x²y + 3xy² - y³"
+    },
+    {
+      "q": "State Identity VIII: sum of three cubes.",
+      "a": "x³ + y³ + z³ - 3xyz = (x + y + z)(x² + y² + z² - xy - yz - zx)"
+    },
+    {
+      "q": "What does it mean if x + y + z = 0?",
+      "a": "Then x³ + y³ + z³ = 3xyz (derived from Identity VIII)."
+    },
+    {
+      "q": "Expand (3x + 4y)² using Identity I.",
+      "a": "(3x + 4y)² = (3x)² + 2(3x)(4y) + (4y)² = 9x² + 24xy + 16y²"
+    },
+    {
+      "q": "Expand (2a - 3b)² using Identity II.",
+      "a": "(2a - 3b)² = (2a)² - 2(2a)(3b) + (3b)² = 4a² - 12ab + 9b²"
+    },
+    {
+      "q": "Factorise x² - 25 using Identity III.",
+      "a": "x² - 25 = x² - 5² = (x + 5)(x - 5)"
+    },
+    {
+      "q": "How do you know that 4x² + 12x + 9 is a perfect square trinomial?",
+      "a": "Because 4x² = (2x)², 9 = 3², and 12x = 2(2x)(3), so it matches the form (a + b)² = a² + 2ab + b². Thus, 4x² + 12x + 9 = (2x + 3)²."
+    },
+    {
+      "q": "What is the first step in factorising 12x² + 7x + 1?",
+      "a": "Find two numbers with sum 7 and product 12 × 1 = 12. These are 3 and 4."
+    },
+    {
+      "q": "Verify: Is 1 a zero of x³ + x² + x + 1?",
+      "a": "p(1) = 1 + 1 + 1 + 1 = 4 ≠ 0, so no, 1 is not a zero."
+    },
+    {
+      "q": "Verify: Is -1 a zero of x³ + x² + x + 1?",
+      "a": "p(-1) = -1 + 1 - 1 + 1 = 0, so yes, -1 is a zero. Therefore, (x + 1) is a factor."
+    },
+    {
+      "q": "What is the coefficient of x in the polynomial 5x³ - 2x² + x - 7?",
+      "a": "The coefficient of x is 1."
+    },
+    {
+      "q": "What is the coefficient of x² in the polynomial 5x³ - 2x + 3?",
+      "a": "The coefficient of x² is 0 (the x² term is missing)."
+    },
+    {
+      "q": "Is 0 always a zero of a polynomial?",
+      "a": "No. For example, p(x) = x² + 1 gives p(0) = 1 ≠ 0, so 0 is not a zero. However, 0 may be a zero if the polynomial has a constant term of 0."
+    },
+    {
+      "q": "How many linear factors can a degree 5 polynomial have at most?",
+      "a": "At most 5 linear factors, meaning at most 5 zeroes."
+    },
+    {
+      "q": "What is the relationship between the number of linear factors and the degree of a polynomial?",
+      "a": "A polynomial of degree n can be written as a product of at most n linear factors, corresponding to at most n zeroes."
+    },
+    {
+      "q": "If (x - 2) and (x + 3) are factors of a polynomial p(x), what can you conclude?",
+      "a": "That 2 and -3 are zeroes of p(x), i.e., p(2) = 0 and p(-3) = 0."
+    },
+    {
+      "q": "Can a linear polynomial have two distinct zeroes?",
+      "a": "No, a linear polynomial ax + b (where a ≠ 0) has exactly one zero."
+    },
+    {
+      "q": "Can a quadratic polynomial have no real zeroes?",
+      "a": "Yes. For example, x² + 1 has no real zeroes (only complex zeroes i and -i)."
+    },
+    {
+      "q": "What does it mean to factorise a polynomial completely?",
+      "a": "To express the polynomial as a product of irreducible factors (factors that cannot be factorised further over the given number system)."
+    },
+    {
+      "q": "What is the general form of a degree n polynomial?",
+      "a": "aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₁x + a₀, where aₙ ≠ 0 and n is a non-negative integer."
+    },
+    {
+      "q": "Is 2x¹/² + 3 a polynomial?",
+      "a": "No, because x¹/² has a fractional exponent 1/2, not a whole number."
+    },
+    {
+      "q": "Is x⁻³ + x² a polynomial?",
+      "a": "No, because x⁻³ has a negative exponent -3, not a non-negative whole number."
+    },
+    {
+      "q": "What is the constant term in the polynomial 2x³ - 5x + 7?",
+      "a": "The constant term is 7 (the term without a variable)."
+    },
+    {
+      "q": "What is the leading coefficient of 3x⁵ - 2x³ + x?",
+      "a": "The leading coefficient is 3 (the coefficient of the highest degree term x⁵)."
+    },
+    {
+      "q": "If a polynomial is divided by (x - 1) and the remainder is 5, what is p(1)?",
+      "a": "By the Remainder Theorem, p(1) = 5."
+    },
+    {
+      "q": "If p(x) is a polynomial and p(3) = 0, what can you conclude about (x - 3)?",
+      "a": "(x - 3) is a factor of p(x), by the Factor Theorem."
+    },
+    {
+      "q": "What is the degree of the polynomial (x + 1)(x - 2)(x + 3)?",
+      "a": "The degree is 3, since this is the product of three linear factors, giving a cubic polynomial."
+    },
+    {
+      "q": "Factorise x² - 5x + 6 completely.",
+      "a": "x² - 5x + 6 = (x - 2)(x - 3). The two numbers with sum -5 and product 6 are -2 and -3."
+    },
+    {
+      "q": "Is the expression 2x² + 3x + 4 always positive? Explain using discriminant concepts if relevant.",
+      "a": "The discriminant is 3² - 4(2)(4) = 9 - 32 = -23 < 0, so the quadratic has no real zeroes. Since the leading coefficient is positive and there are no real roots, the expression is always positive."
+    },
+    {
+      "q": "What is p(x) for a constant polynomial p(x) = 5?",
+      "a": "p(x) = 5 for all x. The polynomial has value 5 regardless of the input."
+    },
+    {
+      "q": "How many zeroes does the polynomial (x - 1)²(x + 2) have, counting multiplicity?",
+      "a": "It has 3 zeroes (counting multiplicity): x = 1 (with multiplicity 2) and x = -2 (with multiplicity 1)."
+    },
+    {
+      "q": "What is a repeated zero or multiple zero?",
+      "a": "A zero a with multiplicity m > 1, meaning (x - a)ᵐ is a factor. For example, in (x - 1)², the zero x = 1 has multiplicity 2."
+    },
+    {
+      "q": "Expand (x + y + z)² and identify all six terms.",
+      "a": "x² + y² + z² + 2xy + 2yz + 2zx. There are three square terms (x², y², z²) and three product terms (2xy, 2yz, 2zx)."
+    },
+    {
+      "q": "What does it mean for (x + 2) to be a factor of p(x)?",
+      "a": "It means p(x) can be written as (x + 2)·q(x) for some polynomial q(x), i.e., p(x) is divisible by (x + 2) with no remainder."
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Science",
+    "chapter_name": "Electricity: Circuits and their Components",
+    "chapter_number": 3
+  },
+  "notes": [
+    {
+      "section_title": "Introduction: Uses of Electricity",
+      "topics": [
+        {
+          "topic_name": "How Electricity is Used Around Us",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Electricity is one of the most widely used forms of energy in modern life. It is generated in multiple ways — by windmills (wind energy), solar panels (solar energy), falling water (hydroelectric power), and by burning natural gas or coal (thermal power). The electric supply from these sources reaches homes and factories via wires."
+            },
+            {
+              "type": "list",
+              "title": "Uses of Electricity (by category)",
+              "items": [
+                "Cooking: Electric kettle, mixer grinder, toaster, oven, microwave.",
+                "Lighting: Homes, offices, streets, markets, factories.",
+                "Transportation: Train, bus, car, scooter, lift, escalator.",
+                "Heating and Cooling: Fan, room heater, immersion rod, geyser, refrigerator, air conditioner.",
+                "Entertainment: Television, radio.",
+                "Communication: Mobile phone, internet.",
+                "Others: Water pump, crane, computer."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Safety Caution — IMPORTANT",
+              "text": "Never perform experiments with the power supply at home or school. Even electricity from portable generators can be dangerous. For experiments, use ONLY batteries or cells (like those in torchlights, wall clocks, radios, or remotes). Electricity from mains supply can cause severe injury or death."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.1 A Torchlight",
+      "topics": [
+        {
+          "topic_name": "Components of a Torchlight",
+          "content": [
+            {
+              "type": "activity",
+              "id": "3.1",
+              "title": "Let Us Explore — Observing a Torchlight",
+              "procedure": [
+                "Take a torchlight and observe it carefully.",
+                "Identify the lamp and the switch.",
+                "Slide the switch and observe if the lamp glows.",
+                "Slide the switch back and observe again.",
+                "Open the torchlight and look inside."
+              ],
+              "observation": "The lamp glows in one switch position and does not glow in the other. Inside the torchlight, there are two or more electric cells.",
+              "conclusion": "A torchlight contains electric cells, a lamp, and a switch. The switch controls whether the lamp glows or not by completing or breaking the circuit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.2 A Simple Electrical Circuit",
+      "topics": [
+        {
+          "topic_name": "3.2.1 Electric Cell",
+          "content": [
+            {
+              "type": "activity",
+              "id": "3.2",
+              "title": "Let Us Observe — The Electric Cell",
+              "procedure": [
+                "Take an electric cell and turn it around carefully.",
+                "Look for the positive (+) and negative (−) signs.",
+                "Observe the small protruding metal cap on one end and the flat metal disc on the other end."
+              ],
+              "observation": "The electric cell has a small protruding metal cap on one side and a flat metal disc on the other. Both sides are marked with + and − signs.",
+              "conclusion": "The protruding metal cap is the positive (+ve) terminal and the flat metal disc is the negative (−ve) terminal of the electric cell."
+            },
+            {
+              "type": "note",
+              "title": "Electric Cell",
+              "text": "An electric cell is a portable source of electrical energy. It has two terminals: the positive terminal (+ve) is the small protruding metal cap, and the negative terminal (−ve) is the flat metal disc on the other end."
+            }
+          ]
+        },
+        {
+          "topic_name": "3.2.2 Battery",
+          "content": [
+            {
+              "type": "activity",
+              "id": "3.3",
+              "title": "Let Us Experiment — How Cells are Arranged in a Torch",
+              "procedure": [
+                "Take a torch that uses two cells. Remove the cells.",
+                "Put the cells back in different orders and with one cell reversed.",
+                "Slide the switch and check whether the lamp glows in each case.",
+                "Find the correct arrangement that makes the lamp glow."
+              ],
+              "observation": "The lamp glows only when the positive terminal of one cell is connected to the negative terminal of the next cell.",
+              "conclusion": "Cells must be placed in series — positive terminal of one cell touching the negative terminal of the next — to form a battery and make the lamp glow."
+            },
+            {
+              "type": "note",
+              "title": "Battery — Definition",
+              "text": "A combination of two or more electric cells is called a battery. In a battery, the positive terminal of one cell is connected to the negative terminal of the next cell (series connection). Connecting more cells provides energy to the circuit for a longer time and/or with more energy."
+            },
+            {
+              "type": "list",
+              "title": "Types of Batteries and Their Uses",
+              "items": [
+                "Cylindrical batteries — torchlights, wall clocks, remotes, toys.",
+                "Button cells — watches, hearing aids.",
+                "Rechargeable batteries — mobile phones, laptops, electric vehicles."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Fascinating Fact",
+              "text": "The term 'battery' is commonly used even for a single cell. For example, the single cell that powers a mobile phone is also called a battery."
+            }
+          ]
+        },
+        {
+          "topic_name": "3.2.3 Electric Lamp — Incandescent Lamp",
+          "content": [
+            {
+              "type": "activity",
+              "id": "3.4",
+              "title": "Let Us Observe — The Incandescent Lamp",
+              "procedure": [
+                "Take a torchlight that uses an incandescent lamp.",
+                "Examine the lamp — look for a thin wire inside the glass bulb.",
+                "Switch on the torch and observe which part of the lamp glows.",
+                "With your teacher's help, remove the lamp and inspect it from all sides."
+              ],
+              "observation": "The thin wire inside the glass bulb glows when the torch is switched on. The filament is attached to two thicker support wires — one connects to the metal case at the base and the other connects to the metal tip at the centre of the base.",
+              "conclusion": "The glowing thin wire is called the filament. It gets hot when current passes through it and produces light. The two thick wires form the two terminals of the lamp."
+            },
+            {
+              "type": "note",
+              "title": "Incandescent Lamp — Key Facts",
+              "text": "An incandescent lamp (light bulb) has a thin wire called the filament inside the glass bulb. When electric current flows through the filament, it heats up and glows, producing light. It has two terminals (the metal case and the metal tip at the base) that do NOT touch each other. With an incandescent lamp, it does NOT matter which terminal connects to the positive or negative of the cell — the lamp will glow as long as the circuit is complete."
+            },
+            {
+              "type": "note",
+              "title": "Fused Lamp",
+              "text": "An incandescent lamp does not glow if its filament is broken. A broken filament stops the flow of current, preventing the lamp from glowing. This is called a 'fused' lamp."
+            }
+          ]
+        },
+        {
+          "topic_name": "3.2.3 Electric Lamp — LED (Light Emitting Diode)",
+          "content": [
+            {
+              "type": "activity",
+              "id": "3.5",
+              "title": "Let Us Observe — The LED",
+              "procedure": [
+                "Take an LED of any colour and observe it carefully.",
+                "Check if there is a filament inside it.",
+                "Compare the lengths of the two wires attached to the LED."
+              ],
+              "observation": "Unlike incandescent lamps, LEDs do not have filaments. One wire is longer than the other.",
+              "conclusion": "An LED has no filament. The longer wire is the positive terminal and the shorter wire is the negative terminal. LEDs come in different colours."
+            },
+            {
+              "type": "activity",
+              "id": "3.7",
+              "title": "Let Us Experiment — Making an LED Glow",
+              "procedure": [
+                "Connect two cells in a holder (negative terminal towards the spring side).",
+                "Connect the positive terminal wire of the battery to the longer wire (positive) of the LED.",
+                "Connect the negative terminal wire of the battery to the shorter wire (negative) of the LED.",
+                "Observe if the LED glows.",
+                "Interchange the wires connected to the LED and observe again."
+              ],
+              "observation": "LED glows when positive of battery connects to longer wire of LED and negative of battery connects to shorter wire of LED. LED does NOT glow when the connections are reversed.",
+              "conclusion": "Current can pass through an LED in only one direction. The LED glows only when connected with correct polarity: positive (longer wire) to positive of battery, negative (shorter wire) to negative of battery."
+            },
+            {
+              "type": "table",
+              "headers": ["Feature", "Incandescent Lamp", "LED"],
+              "rows": [
+                ["Filament", "Has a filament (thin wire)", "No filament"],
+                ["Light production", "Filament heats up and glows", "Emits light electronically"],
+                ["Polarity", "No polarity — works either way", "Polarity matters — must connect correctly"],
+                ["Positive terminal", "No specific terminal", "Longer wire"],
+                ["Negative terminal", "No specific terminal", "Shorter wire"],
+                ["Current direction", "Can flow either way", "One direction only"]
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "3.2.5 An Electrical Circuit",
+          "content": [
+            {
+              "type": "activity",
+              "id": "3.6",
+              "title": "Let Us Construct — Making a Lamp Glow",
+              "procedure": [
+                "Take an electric cell, an incandescent lamp, a cell holder, a lamp holder, and four lengths of wire.",
+                "Strip about 1 cm of insulation from each end of all wires.",
+                "Connect two wires to the cell holder; insert the cell (negative terminal towards spring).",
+                "Connect two wires to the lamp holder; fix the lamp in the holder.",
+                "Connect one terminal of the lamp to one terminal of the cell, and the other terminal of the lamp to the other terminal of the cell.",
+                "Observe if the lamp glows."
+              ],
+              "observation": "The lamp glows when both terminals of the lamp are connected to the two terminals of the cell — forming a complete circuit.",
+              "conclusion": "A lamp glows only when it is part of a complete electrical circuit. If any connection is broken, the circuit is incomplete and the lamp does not glow."
+            },
+            {
+              "type": "note",
+              "title": "Electrical Circuit — Definition",
+              "text": "An electrical circuit is a complete, closed path through which electric current can flow. The lamp glows only when there is a complete path connecting both terminals of the cell through the lamp. A break anywhere in the circuit stops the current."
+            },
+            {
+              "type": "note",
+              "title": "Direction of Electric Current",
+              "text": "The direction of electric current in a closed electrical circuit is taken to be from the positive terminal to the negative terminal of the electric cell (through the external circuit — wires and components)."
+            }
+          ]
+        },
+        {
+          "topic_name": "3.2.6 Electric Switch",
+          "content": [
+            {
+              "type": "activity",
+              "id": "3.8",
+              "title": "Let Us Construct — Making a Simple Switch",
+              "procedure": [
+                "Collect two drawing pins, a safety pin (or paper clip), two wires, and a small piece of cardboard.",
+                "Insert a drawing pin through the ring of the safety pin and fix it to the cardboard so the safety pin can rotate freely.",
+                "Fix the second drawing pin so the free end of the safety pin can touch it.",
+                "Connect a wire to each drawing pin — the switch is ready."
+              ],
+              "observation": "When the safety pin touches both drawing pins, the circuit is complete and the lamp glows (ON). When the safety pin does not touch the second pin, the circuit is broken and the lamp does not glow (OFF).",
+              "conclusion": "A switch works by either completing (closing) or breaking (opening) an electrical circuit."
+            },
+            {
+              "type": "note",
+              "title": "Electric Switch — Definition and Working",
+              "text": "A switch is a simple device that either completes or breaks a circuit. In the ON position, the switch closes the gap in the circuit, allowing current to flow — the circuit is 'closed'. In the OFF position, the switch creates a gap (open circuit), preventing current flow — the circuit is 'open'. A switch can be placed anywhere in a circuit."
+            },
+            {
+              "type": "table",
+              "headers": ["Switch Position", "Circuit State", "Current Flow", "Lamp"],
+              "rows": [
+                ["ON", "Closed circuit", "Current flows", "Glows"],
+                ["OFF", "Open circuit (gap present)", "No current", "Does not glow"]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.3 Circuit Diagrams",
+      "topics": [
+        {
+          "topic_name": "Symbols for Electrical Components",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Electrical circuits can be represented using standard symbols for each component. A representation of an electrical circuit using these symbols is called a circuit diagram. Circuit diagrams make it easier to draw and understand electrical circuits without drawing realistic pictures."
+            },
+            {
+              "type": "table",
+              "headers": ["Component", "Symbol Description"],
+              "rows": [
+                ["Electric cell", "Long thin line (positive terminal) and short thick line (negative terminal)"],
+                ["Battery (multiple cells)", "Multiple pairs of long and short lines alternating"],
+                ["Incandescent lamp", "A circle with a cross (X) inside"],
+                ["LED", "A triangle pointing in the direction of current flow with two arrows indicating light emission"],
+                ["Switch (open/OFF)", "A gap in the wire with a small line at an angle"],
+                ["Switch (closed/ON)", "A line completing the circuit (no gap)"],
+                ["Wire (connecting)", "Straight lines connecting components"]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Cell Symbol Convention",
+              "text": "In the symbol for an electric cell: the LONG line represents the positive (+ve) terminal; the SHORT line represents the negative (−ve) terminal."
+            },
+            {
+              "type": "note",
+              "title": "LED Symbol Convention",
+              "text": "In the symbol for an LED: the triangle points in the direction in which current can flow; the two arrows indicate that light is emitted by the LED."
+            },
+            {
+              "type": "note",
+              "title": "International Standards for Circuit Symbols",
+              "text": "Standard circuit symbols are defined by international organisations: IEC (International Electrotechnical Commission), ANSI (American National Standards Institute), and IEEE (Institute of Electrical and Electronics Engineers). Using the same symbols worldwide helps people from different countries understand circuits easily."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.4 Electrical Conductors and Insulators",
+      "topics": [
+        {
+          "topic_name": "Conductors of Electricity",
+          "content": [
+            {
+              "type": "activity",
+              "id": "3.11",
+              "title": "Let Us Identify — Conductors and Insulators (Conduction Tester)",
+              "procedure": [
+                "Connect an electric cell and a lamp with two free wire ends (the tester).",
+                "Touch the two free ends together to confirm the lamp glows (tester is working).",
+                "One by one, touch both free ends of the tester to each test material (metal spoon, coin, cork, rubber, glass, key, pin, plastic scale, wooden block, aluminium foil, candle, sewing needle, cardboard, paper, pencil lead).",
+                "Record whether the lamp glows for each material."
+              ],
+              "observation": "The lamp glows for metal objects (key, needle, coin, aluminium foil, metal spoon). The lamp does not glow for wood, plastic, rubber, glass, paper, cardboard, cork, wax (candle).",
+              "conclusion": "Materials that allow the lamp to glow are conductors of electricity. Materials that do not allow the lamp to glow are insulators (poor conductors)."
+            },
+            {
+              "type": "note",
+              "title": "Electrical Conductors — Definition",
+              "text": "Materials through which electric current can flow easily are called good conductors or conductors of electricity. Most metals are conductors."
+            },
+            {
+              "type": "list",
+              "title": "Examples of Conductors",
+              "items": [
+                "Metals: copper, silver, gold, aluminium, iron, steel.",
+                "Silver, copper, and gold are the best electrical conductors.",
+                "Copper is most commonly used for electrical wires due to lower cost and abundant supply.",
+                "Pencil lead (graphite) is also a conductor.",
+                "Human body is a conductor of electricity."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Insulators of Electricity",
+          "content": [
+            {
+              "type": "note",
+              "title": "Electrical Insulators — Definition",
+              "text": "Materials through which electric current cannot pass are called insulators or poor conductors of electricity."
+            },
+            {
+              "type": "list",
+              "title": "Examples of Insulators",
+              "items": [
+                "Plastic, rubber, ceramics (porcelain).",
+                "Wood, glass, paper, cardboard.",
+                "Wax (candle), cork.",
+                "Dry air."
+              ]
+            },
+            {
+              "type": "table",
+              "headers": ["Component/Use", "Conductor Used", "Insulator Used", "Purpose of Insulator"],
+              "rows": [
+                ["Electric wire", "Copper (core)", "Plastic or rubber (covering)", "Prevents electric shock; avoids short circuits"],
+                ["Plug top", "Copper (pins)", "Plastic (body)", "Protects user from shock"],
+                ["Switch", "Metal (contacts)", "Plastic or ceramic (body)", "Safe handling"]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Why Wires Are Covered with Plastic or Rubber",
+              "text": "Plastic and rubber are insulators. They are used to cover copper wires to: (1) Prevent electric shocks when people touch the wire. (2) Prevent short circuits when wires accidentally touch each other. (3) Provide mechanical protection to the wire."
+            }
+          ]
+        },
+        {
+          "topic_name": "DC and AC Electricity",
+          "content": [
+            {
+              "type": "note",
+              "title": "Direct Current (DC) vs Alternating Current (AC)",
+              "text": "Electricity from cells and batteries is called Direct Current (DC) — it flows in only one direction and powers small devices. Electricity from power plants that comes through wall sockets is called Alternating Current (AC) — it periodically reverses direction and can run larger appliances."
+            },
+            {
+              "type": "note",
+              "title": "Safety Caution — Human Body as Conductor",
+              "text": "The human body is a conductor of electricity. Electric current passing through the body can cause severe injury or death. Safety rules: (1) Never touch switches or plugs with wet hands. (2) Never use electrical devices in wet areas. (3) Never handle equipment with damaged insulation or broken plugs. (4) For experiments, use ONLY cells/batteries — never mains electricity or generator power."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Electric Cell",
+      "definition": "A portable source of electrical energy that has two terminals — a positive terminal (protruding metal cap) and a negative terminal (flat metal disc)."
+    },
+    {
+      "term": "Battery",
+      "definition": "A combination of two or more electric cells connected in series, with the positive terminal of one cell connected to the negative terminal of the next."
+    },
+    {
+      "term": "Filament",
+      "definition": "The thin wire inside an incandescent lamp that gets hot and glows to produce light when electric current passes through it."
+    },
+    {
+      "term": "LED (Light Emitting Diode)",
+      "definition": "A type of electric lamp that has no filament, emits light when current flows through it in the correct direction only. Its positive terminal has a longer wire and negative terminal has a shorter wire."
+    },
+    {
+      "term": "Electrical Circuit",
+      "definition": "A complete, closed path through which electric current can flow. Current flows from the positive terminal to the negative terminal of the cell through the external circuit."
+    },
+    {
+      "term": "Open Circuit",
+      "definition": "A circuit with a break or gap that prevents current from flowing. A lamp in an open circuit does not glow."
+    },
+    {
+      "term": "Closed Circuit",
+      "definition": "A complete, unbroken circuit that allows current to flow continuously. A lamp in a closed circuit glows."
+    },
+    {
+      "term": "Switch",
+      "definition": "A simple device that either completes (closes) or breaks (opens) an electrical circuit. In ON position, the circuit is closed; in OFF position, the circuit is open."
+    },
+    {
+      "term": "Circuit Diagram",
+      "definition": "A representation of an electrical circuit using standard symbols for its components."
+    },
+    {
+      "term": "Conductor (of electricity)",
+      "definition": "A material through which electric current can flow easily. Most metals are conductors. Copper is most commonly used for electrical wires."
+    },
+    {
+      "term": "Insulator (of electricity)",
+      "definition": "A material through which electric current cannot pass. Examples: plastic, rubber, glass, wood, ceramics."
+    },
+    {
+      "term": "Direct Current (DC)",
+      "definition": "Electricity that flows in only one direction, as in cells and batteries. Used to power small portable devices."
+    },
+    {
+      "term": "Alternating Current (AC)",
+      "definition": "Electricity that periodically reverses direction, as supplied from power plants through wall sockets. Used to power larger appliances."
+    },
+    {
+      "term": "Fused Lamp",
+      "definition": "An incandescent lamp with a broken filament that no longer allows current to flow, causing the lamp to stop glowing."
+    }
+  ],
+  "summary_points": [
+    "An electric cell is a portable source of electrical energy with two terminals — positive (protruding metal cap) and negative (flat metal disc).",
+    "A battery is a combination of two or more cells in series (positive terminal of one cell connected to negative terminal of the next); more cells provide more energy and/or longer duration.",
+    "An incandescent lamp has a thin filament that heats up and glows when current flows; it has no polarity requirement — works either way in a circuit.",
+    "An LED has no filament and allows current in only one direction; the longer wire is positive and the shorter wire is negative — it glows only when connected with correct polarity.",
+    "A complete (closed) electrical circuit provides a path for current to flow from the positive to the negative terminal of the cell; any break in the circuit (open circuit) stops current flow.",
+    "A switch is a device that completes (ON — closed circuit) or breaks (OFF — open circuit) a circuit; it can be placed anywhere in the circuit.",
+    "A circuit diagram uses standard symbols (defined by IEC, ANSI, IEEE) to represent electrical components; in the cell symbol, the long line is positive and the short line is negative.",
+    "Conductors (mainly metals — best: silver, copper, gold; most used: copper) allow electric current to flow; insulators (plastic, rubber, ceramics, glass, wood) do not allow current to flow.",
+    "Electric wires are made of copper (conductor core) covered with plastic or rubber (insulator) to prevent electric shocks and short circuits; the human body is a conductor and must never be exposed to mains electricity."
+  ]
+}

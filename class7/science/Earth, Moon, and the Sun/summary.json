@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Science",
+    "chapter_name": "Earth, Moon, and the Sun",
+    "chapter_number": 12
+  },
+  "summary": [
+    {
+      "category": "Rotation of the Earth",
+      "points": [
+        "The Earth rotates on its own axis (through the North and South Poles) from West to East in approximately 24 hours; this causes the day-night cycle and the apparent motion of the Sun, Moon, and stars from East to West across the sky.",
+        "The Pole Star (Dhruva Tara) appears nearly stationary because the Earth's axis points close to it; all other stars appear to revolve around it — their apparent circular motion can be captured as star trails in long-exposure photographs.",
+        "Aryabhata (5th century CE) correctly recognised the Earth's rotation as the cause of the apparent daily motion of celestial objects, and calculated the period of one rotation as ~23 hours 56 minutes 4.1 seconds — close to the accepted value today."
+      ]
+    },
+    {
+      "category": "Revolution of the Earth and Seasons",
+      "points": [
+        "The Earth revolves around the Sun in a nearly circular orbit, completing one revolution in ~365 days 6 hours; as the Earth orbits, different constellations become visible in the night sky over the course of a year.",
+        "Seasons are caused by the tilt of Earth's axis (not by Earth's distance from the Sun) combined with Earth's spherical shape — the hemisphere tilted towards the Sun receives more intense sunlight for a longer duration, causing summer there and winter in the opposite hemisphere.",
+        "Key dates in the Northern Hemisphere: Summer Solstice (~21 June, longest day), Winter Solstice (~22 December, shortest day), Spring Equinox (~21 March) and Autumn Equinox (~23 September) — both with 12 hours of day and night; seasons are reversed in the Southern Hemisphere."
+      ]
+    },
+    {
+      "category": "Solar and Lunar Eclipses",
+      "points": [
+        "A solar eclipse occurs when the Moon comes between the Sun and Earth (Sun → Moon → Earth); the Moon can cover the Sun because their apparent sizes are nearly equal — the Moon is ~400× smaller but also ~400× closer; a total solar eclipse is visible from only a small area for a few minutes and must never be viewed with the naked eye.",
+        "A lunar eclipse occurs when the Earth comes between the Sun and the Moon (Sun → Earth → Moon), casting Earth's shadow on the Moon; during a total lunar eclipse the Moon appears dark red; lunar eclipses are visible from the entire night side of Earth and are safe to watch with the naked eye.",
+        "Ancient Indian texts such as the Surya Siddhanta contain calculations to predict eclipses; M. K. Vainu Bappu, the father of modern Indian astronomy, studied solar eclipses and established major observatories in India."
+      ]
+    }
+  ]
+}

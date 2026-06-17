@@ -1,0 +1,59 @@
+{
+  "chapter_info": {
+    "class": 8,
+    "subject": "Mathematics",
+    "chapter_name": "Tales by Dots and Lines",
+    "chapter_number": 5
+  },
+  "summary": [
+    {
+      "category": "The Mean and Its Properties",
+      "points": [
+        "The mean is the balance point of a dataset where the sum of distances from the mean to values below it equals the sum of distances to values above it. For any dataset, there is exactly one unique value that satisfies this balance property.",
+        "Adding a value greater than the mean increases it; adding a value less than the mean decreases it; adding a value equal to the mean keeps it unchanged. The mean can remain unchanged by adding multiple balanced values where deviations above and below cancel out."
+      ]
+    },
+    {
+      "category": "Transformations of Data",
+      "points": [
+        "When a constant is added to all values in a dataset, the mean increases by that constant. Formula: New mean = Old mean + c (where c is the constant added).",
+        "When a constant is subtracted from all values, the mean decreases by that constant. Formula: New mean = Old mean - c.",
+        "When all values are multiplied by a constant, the mean is multiplied by that same constant. Formula: New mean = Old mean × m (where m is the multiplier)."
+      ]
+    },
+    {
+      "category": "The Median and Its Behavior",
+      "points": [
+        "The median is the middle value in a sorted dataset that divides the data into two equal halves. Unlike the mean which considers all values, the median depends only on position and is less affected by extreme outliers.",
+        "Adding a value greater than the median may increase it; adding a value less than the median may decrease it. The median's change depends on where the new value falls relative to the middle position."
+      ]
+    },
+    {
+      "category": "Finding Unknown Values and Using Frequency Distributions",
+      "points": [
+        "When one value is missing from a dataset with a known mean, use: Unknown value = (Mean × Total count) - (Sum of known values). This allows us to recover missing data points.",
+        "For frequency distributions, the mean is calculated as: Mean = Σ(value × frequency) / Σ(frequency), accounting for how many times each value appears. The median is found using cumulative frequencies to locate the middle position."
+      ]
+    },
+    {
+      "category": "Spreadsheets for Data Analysis",
+      "points": [
+        "A spreadsheet is a digital tool with rows and columns (cells) for storing and analyzing data. Formulas like =SUM(range) and =AVERAGE(range) automate calculations, eliminating manual errors and enabling rapid recalculation when data changes."
+      ]
+    },
+    {
+      "category": "Line Graphs and Data Visualization",
+      "points": [
+        "Line graphs consist of points connected by line segments and are most effective for showing how values change over time. They clearly display trends, rates of change (through slope), and patterns—more efficiently than bar graphs for many data points.",
+        "Reading a line graph involves two steps: (1) Identify what is given by examining axes, scales, and data representation, and (2) Infer and interpret by analyzing trends and drawing conclusions based only on what is shown, avoiding assumptions about missing data."
+      ]
+    },
+    {
+      "category": "Data Interpretation and Collection",
+      "points": [
+        "Understanding how data is collected is crucial for valid interpretation. Missing or absent entities from a graph cannot be confirmed as non-existent. Valid inferences must be supported by what the graph explicitly shows; invalid inferences go beyond the data's scope.",
+        "Different real-world datasets—temperature trends, space objects, rainfall patterns, sleep across ages, activity time allocation—all demonstrate how line graphs make patterns visually apparent and support meaningful analysis."
+      ]
+    }
+  ]
+}

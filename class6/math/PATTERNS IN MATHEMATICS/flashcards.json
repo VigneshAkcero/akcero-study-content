@@ -1,0 +1,25 @@
+{
+  "chapter_info": {
+    "class": { "value": 6, "display_name": "Class 6" },
+    "subject": "Math",
+    "chapter_name": "Patterns in Mathematics",
+    "chapter_number": 1
+  },
+  "flashcards": [
+    { "q": "What is the name of the branch of mathematics that searches for patterns in whole numbers?", "a": "Number Theory." },
+    { "q": "What is the name of the branch of mathematics that studies patterns in shapes?", "a": "Geometry." },
+    { "q": "What is the rule for forming the Virahnka (Fibonacci) sequence?", "a": "Each number is the sum of the two preceding numbers." },
+    { "q": "Name the sequence: $1, 3, 6, 10, 15, \\dots$", "a": "Triangular numbers." },
+    { "q": "Name the sequence: $1, 4, 9, 16, 25, \\dots$", "a": "Square numbers." },
+    { "q": "What is the common name for the sequence of powers of 3: 1, 3, 9, 27, 81, ...?", "a": "Powers of 3." },
+    { "q": "What do we call a 2D shape with all sides of equal length and all angles equal?", "a": "A Regular Polygon." },
+    { "q": "What is the relationship between the sum of the first $n$ odd numbers and square numbers?", "a": "The sum is always equal to $n^2$." },
+    { "q": "True or False: The number of sides in a regular polygon is always equal to its number of corners.", "a": "True." },
+    { "q": "What do you get when you sum two consecutive triangular numbers?", "a": "A square number." },
+    { "q": "Which number below 50 is both a square number and a triangular number?", "a": "36 (and also 1)." },
+    { "q": "What sequence is represented by the total number of lines in the sequence of Complete Graphs?", "a": "Triangular numbers." },
+    { "q": "If you add counting numbers 'up and down' (e.g., $1+2+3+2+1$), what property does the sum have?", "a": "It is always a square number." },
+    { "q": "What is the result of adding 1 to the sum $1+2+4+8$?", "a": "16 (the next power of 2)." },
+    { "q": "What geometric pattern is formed by adding up hexagonal numbers?", "a": "Cube numbers ($1, 8, 27, \\dots$)." }
+  ]
+}

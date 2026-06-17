@@ -1,0 +1,238 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Circles",
+    "chapter_number": 9
+  },
+  "flashcards": [
+    {
+      "q": "What is a circle?",
+      "a": "A circle is the collection of all points in a plane that are equidistant from a fixed point called the centre."
+    },
+    {
+      "q": "Define the angle subtended by a line segment at a point.",
+      "a": "The angle subtended by a line segment PQ at a point R is the angle ∠PRQ formed by joining R to the endpoints P and Q."
+    },
+    {
+      "q": "What is the angle subtended by a chord at the centre?",
+      "a": "The angle subtended by a chord at the centre is the angle formed at the centre O by joining the endpoints of the chord."
+    },
+    {
+      "q": "State Theorem 9.1.",
+      "a": "Equal chords of a circle subtend equal angles at the centre."
+    },
+    {
+      "q": "State the converse of Theorem 9.1 (Theorem 9.2).",
+      "a": "If the angles subtended by two chords of a circle at the centre are equal, then the chords are equal."
+    },
+    {
+      "q": "What is the distance of a line from a point?",
+      "a": "The distance of a line from a point is the length of the perpendicular drawn from the point to the line."
+    },
+    {
+      "q": "State Theorem 9.3.",
+      "a": "The perpendicular from the centre of a circle to a chord bisects the chord."
+    },
+    {
+      "q": "State Theorem 9.4.",
+      "a": "The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord."
+    },
+    {
+      "q": "What does Theorem 9.3 combined with Theorem 9.4 imply?",
+      "a": "The perpendicular from the centre to a chord and the line from the centre bisecting the chord are the same line."
+    },
+    {
+      "q": "State Theorem 9.5.",
+      "a": "Equal chords of a circle (or of congruent circles) are equidistant from the centre (or centres)."
+    },
+    {
+      "q": "State Theorem 9.6.",
+      "a": "Chords equidistant from the centre of a circle are equal in length."
+    },
+    {
+      "q": "What is the relationship between chord length and perpendicular distance from the centre?",
+      "a": "Longer chords are closer to the centre; shorter chords are farther from the centre. Equal chords are equidistant from the centre."
+    },
+    {
+      "q": "What is the perpendicular distance of the diameter from the centre?",
+      "a": "The perpendicular distance of the diameter from the centre is zero, because the centre lies on the diameter."
+    },
+    {
+      "q": "Define a minor arc.",
+      "a": "A minor arc is the shorter arc formed when a chord (other than a diameter) divides the circle into two parts."
+    },
+    {
+      "q": "Define a major arc.",
+      "a": "A major arc is the longer arc formed when a chord (other than a diameter) divides the circle into two parts."
+    },
+    {
+      "q": "What is the relationship between equal chords and their arcs?",
+      "a": "Equal chords subtend congruent arcs; conversely, congruent arcs correspond to equal chords."
+    },
+    {
+      "q": "Define congruent arcs.",
+      "a": "Two arcs are congruent if they have the same length and one can be superimposed on the other without bending or twisting."
+    },
+    {
+      "q": "State Theorem 9.7.",
+      "a": "The angle subtended by an arc at the centre is double the angle subtended by it at any point on the remaining part of the circle."
+    },
+    {
+      "q": "Write the formula from Theorem 9.7.",
+      "a": "If ∠POQ is the central angle and ∠PAQ is the angle at a point A on the remaining arc, then ∠POQ = 2∠PAQ."
+    },
+    {
+      "q": "State Theorem 9.8.",
+      "a": "Angles in the same segment of a circle are equal."
+    },
+    {
+      "q": "What does 'angles in the same segment' mean?",
+      "a": "Angles subtended by the same chord at any two different points on the same arc are equal."
+    },
+    {
+      "q": "What is a special case of Theorem 9.7 when the arc is a semicircle?",
+      "a": "If an arc is a semicircle (central angle = 180°), then the angle at any point on the circle is 90°."
+    },
+    {
+      "q": "State the property: Angle in a semicircle.",
+      "a": "The angle subtended by a diameter at any point on the circle is always 90° (a right angle)."
+    },
+    {
+      "q": "State Theorem 9.9.",
+      "a": "If a line segment joining two points subtends equal angles at two other points lying on the same side of the line, then all four points lie on a circle (are concyclic)."
+    },
+    {
+      "q": "What are concyclic points?",
+      "a": "Concyclic points are points that lie on the same circle."
+    },
+    {
+      "q": "Define a cyclic quadrilateral.",
+      "a": "A cyclic quadrilateral is a quadrilateral whose all four vertices lie on the same circle."
+    },
+    {
+      "q": "State Theorem 9.10.",
+      "a": "The sum of either pair of opposite angles of a cyclic quadrilateral is 180°."
+    },
+    {
+      "q": "Write the formulas for opposite angles in a cyclic quadrilateral ABCD.",
+      "a": "∠A + ∠C = 180° and ∠B + ∠D = 180°."
+    },
+    {
+      "q": "State Theorem 9.11.",
+      "a": "If the sum of a pair of opposite angles of a quadrilateral is 180°, then the quadrilateral is cyclic."
+    },
+    {
+      "q": "How can you determine if four points are concyclic?",
+      "a": "Four points are concyclic if: (1) A circle passes through all four, (2) A line segment joining two points subtends equal angles at the other two (on the same side), or (3) They form a quadrilateral with opposite angles summing to 180°."
+    },
+    {
+      "q": "What is CPCT?",
+      "a": "CPCT stands for 'Corresponding Parts of Congruent Triangles'. When two triangles are congruent, all their corresponding sides and angles are equal."
+    },
+    {
+      "q": "If two chords AB and CD are equal, what can you conclude about the angles they subtend at the centre?",
+      "a": "They subtend equal angles at the centre: ∠AOB = ∠COD."
+    },
+    {
+      "q": "If the perpendicular from the centre to a chord is drawn, what point does it create on the chord?",
+      "a": "It creates the midpoint of the chord, bisecting it into two equal parts."
+    },
+    {
+      "q": "In a circle, if a chord is at perpendicular distance d from the centre, and the radius is r, write the formula for the chord length.",
+      "a": "Chord length = 2√(r² - d²)."
+    },
+    {
+      "q": "If a central angle is θ and the radius is r, write the formula for the chord length.",
+      "a": "Chord length = 2r sin(θ/2)."
+    },
+    {
+      "q": "What is the relationship between a chord and the central angle it subtends?",
+      "a": "The longer the chord, the larger the central angle. Equal chords subtend equal central angles."
+    },
+    {
+      "q": "If ∠ACB is the angle subtended by chord AB at a point C on the circle, what is the central angle ∠AOB in terms of ∠ACB?",
+      "a": "∠AOB = 2∠ACB."
+    },
+    {
+      "q": "Can two different chords of a circle subtend different central angles and still be equal?",
+      "a": "No. If two chords subtend different central angles, they are of different lengths. Equal central angles ↔ Equal chords."
+    },
+    {
+      "q": "If points P and Q lie on the same arc and both subtend an angle to a chord, are these angles equal?",
+      "a": "Yes. By Theorem 9.8, angles in the same segment are equal."
+    },
+    {
+      "q": "In a cyclic quadrilateral, if one angle is 70°, what can you say about the opposite angle?",
+      "a": "The opposite angle must be 180° - 70° = 110°."
+    },
+    {
+      "q": "If a quadrilateral has ∠A = 85°, ∠B = 95°, ∠C = 85°, is it cyclic?",
+      "a": "No. For it to be cyclic, opposite angles must sum to 180°. Here, ∠A + ∠C = 85° + 85° = 170° ≠ 180°."
+    },
+    {
+      "q": "What is a reflex angle at the centre?",
+      "a": "A reflex angle at the centre is the angle greater than 180° corresponding to the major arc of a chord."
+    },
+    {
+      "q": "If a minor arc subtends a central angle of 120°, what is the angle subtended at a point on the major arc?",
+      "a": "The angle at a point on the major arc is (1/2) × 120° = 60°."
+    },
+    {
+      "q": "State the property of equal chords in congruent circles.",
+      "a": "Equal chords of congruent circles subtend equal angles at their respective centres."
+    },
+    {
+      "q": "What is the angle between a radius and a tangent at the point of contact?",
+      "a": "The angle between a radius and a tangent at the point of contact is always 90°."
+    },
+    {
+      "q": "Define a segment of a circle.",
+      "a": "A segment of a circle is the region between a chord and the arc it subtends."
+    },
+    {
+      "q": "Define a sector of a circle.",
+      "a": "A sector of a circle is the region between two radii and the arc connecting them (like a 'pie slice')."
+    },
+    {
+      "q": "If ABCD is a cyclic quadrilateral and we know three angles, how can we find the fourth?",
+      "a": "Use the property that opposite angles sum to 180°. Find the angle opposite to the unknown angle and subtract from 180°."
+    },
+    {
+      "q": "Two chords of a circle are at distances 3 cm and 3 cm from the centre. What can you conclude?",
+      "a": "The two chords are equal in length (by Theorem 9.6)."
+    },
+    {
+      "q": "A chord of a circle is at distance 0 from the centre. What is this chord?",
+      "a": "It is a diameter (the longest chord) passing through the centre."
+    },
+    {
+      "q": "Can a chord be outside the circle?",
+      "a": "No. A chord is defined as a line segment with both endpoints on the circle, so it must lie entirely within or on the circle."
+    },
+    {
+      "q": "Is every diameter of a circle also a chord?",
+      "a": "Yes. A diameter is the longest chord, with both endpoints on the circle and passing through the centre."
+    },
+    {
+      "q": "If ∠ACB = 90° and A, B, C are points on a circle, what can you conclude about AB?",
+      "a": "AB is a diameter of the circle (by the converse of angle in a semicircle theorem)."
+    },
+    {
+      "q": "What is the sum of all angles in a quadrilateral?",
+      "a": "The sum of all angles in any quadrilateral is 360°."
+    },
+    {
+      "q": "In a cyclic quadrilateral PQRS, if ∠P = 60° and ∠Q = 80°, find ∠S.",
+      "a": "∠S = 180° - 80° = 100° (opposite to ∠Q)."
+    },
+    {
+      "q": "Two intersecting chords make an angle of 45° inside a circle. Is there a direct theorem to find the arcs they subtend?",
+      "a": "Yes. The angle between two intersecting chords equals half the sum of the intercepted arcs."
+    },
+    {
+      "q": "What is the relationship between arc length and central angle?",
+      "a": "Arc length = (central angle in radians) × radius. The larger the central angle, the larger the arc."
+    }
+  ]
+}

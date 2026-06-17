@@ -1,0 +1,26 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Triangles",
+    "chapter_number": 7
+  },
+  "summary": [
+    {
+      "category": "Congruent Figures and Criteria",
+      "points": [
+        "Figures are congruent when they share the exact same shape and identical dimensions, capable of complete superposition.",
+        "Two triangles are identically congruent specifically if they satisfy the defined SAS, ASA, AAS, SSS, or RHS analytical congruence criteria.",
+        "When triangles are proven congruent, their corresponding parts (sides and angles) mathematically match evenly, universally abbreviated as CPCT."
+      ]
+    },
+    {
+      "category": "Triangle Properties",
+      "points": [
+        "A triangle maintaining at least two completely equal sides acts functionally as an isosceles triangle.",
+        "In an isosceles triangle, the internal angles directly positioned opposite to the equal-length sides are proportionally equal.",
+        "Conversely, if any two interior angles of a triangle are quantifiably equal, the sides located precisely across from them reliably measure equal in length."
+      ]
+    }
+  ]
+}

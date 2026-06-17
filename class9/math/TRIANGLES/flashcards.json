@@ -1,0 +1,23 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Triangles",
+    "chapter_number": 7
+  },
+  "flashcards": [
+    { "q": "What is a triangle?", "a": "A closed geometric figure bounded exactly by three intersecting straight lines." },
+    { "q": "What defines the congruence of two triangles?", "a": "Two triangles are congruent if they are identical in both shape and size, meaning all corresponding sides and angles are equal." },
+    { "q": "What does the abbreviation CPCT stand for?", "a": "Corresponding Parts of Congruent Triangles." },
+    { "q": "What is the SAS congruence axiom?", "a": "Two triangles are congruent if two sides and the explicitly included angle of one exactly equal the corresponding two sides and included angle of the other." },
+    { "q": "Why are the configurations ASS or SSA mathematically invalid for proving congruence?", "a": "Because a non-included angle paired with two sides does not uniquely lock the rigid structural shape of the triangle." },
+    { "q": "What is the ASA congruence theorem?", "a": "Two triangles are congruent if two angles and the explicitly included side of one exactly equal the corresponding two angles and included side of the other." },
+    { "q": "What is an isosceles triangle?", "a": "A triangle in which at least two of its bounding sides are completely equal in length." },
+    { "q": "State the key property relating to the angles of an isosceles triangle.", "a": "The interior angles traversing directly opposite to the exactly equal side lengths are always equal." },
+    { "q": "State the key mathematical property relating to the sides of an isosceles triangle.", "a": "The sides traversing directly opposite to identically equal interior angles are always equal." },
+    { "q": "What is the exact measure of each uniformly enclosed interior angle in an equilateral triangle?", "a": "Exactly 60 degrees." },
+    { "q": "What is the SSS congruence rule?", "a": "Two triangles are rigidly congruent if all three sides of one triangle are identically matching and equal to the three corresponding sides of the other." },
+    { "q": "What components define the RHS congruence rule?", "a": "Right angle - Hypotenuse - Side congruence applies specifically when matching elements across two right-angled triangles." },
+    { "q": "If a point lies physically equidistant from two explicitly intersecting straight lines, conceptually where must it be securely located?", "a": "It predictably lies precisely on the angle bisector generating the angle formed between those two specific lines." }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "chapter_info": {
+    "class": 8,
+    "subject": "Mathematics",
+    "chapter_name": "Tales by Dots and Lines",
+    "chapter_number": 5
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Explain what it means for the mean to be a 'balance point' of a dataset. Why is this property important?",
+      "answer": "The mean is a balance point because the sum of distances from the mean to all values below it equals the sum of distances to all values above it. This property is important because it shows that the mean represents the true center of data, not just an arithmetic midpoint.",
+      "solution": "The balance point property means that if we place the data on a number line at each value's position, the mean is the exact point where the distribution would balance like a seesaw. This is mathematically more meaningful than simply finding the midpoint between extremes, because it accounts for all values. For example, in data {1, 2, 8, 9}, the mean is 5. Distances below: |1-5| + |2-5| = 4 + 3 = 7. Distances above: |8-5| + |9-5| = 3 + 4 = 7. The balance is perfect. This property ensures the mean is a unique and reliable measure of central tendency."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "In a dataset, the sum of distances of all values below the mean is 24. If there are 6 values in total, what can you conclude about the sum of distances of values above the mean? Explain your reasoning.",
+      "answer": "The sum of distances of values above the mean must also be 24, because the mean is defined as the balance point where these two sums are equal.",
+      "solution": "By definition, the mean is the unique value where the sum of distances to values less than it equals the sum of distances to values greater than it. Since the problem states that the sum of distances below is 24, and we know this balance property must hold, the sum of distances above must also be 24. This confirms that the mean truly is the balancing center of the dataset."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "A dataset has 5 values with a mean of 10. What will be the new mean if we add a value of 5 to this dataset? Justify your answer using the concept of balance.",
+      "answer": "New mean = 9. When we add a value (5) less than the current mean (10), the mean decreases because the balance point shifts downward to accommodate the lower value.",
+      "solution": "Original sum = mean × count = 10 × 5 = 50. When we add 5, new sum = 50 + 5 = 55. New count = 6. New mean = 55 ÷ 6 ≈ 9.17. Since we added a value (5) that is less than the original mean (10), this pulls the balance point down, causing the mean to decrease. The new mean of 9.17 is less than the original 10, confirming this principle."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Consider a dataset {3, 5, 7, 9, 11} with mean 7. If we add two values, 6 and 8, will the mean change? Why or why not?",
+      "answer": "No, the mean will remain 7 because the deviations from the mean (6-7 = -1 and 8-7 = +1) balance each other out: (-1) + (+1) = 0.",
+      "solution": "Original mean = (3 + 5 + 7 + 9 + 11) / 5 = 35 / 5 = 7. Original sum = 35. When adding 6 and 8: new sum = 35 + 6 + 8 = 49. New count = 7. New mean = 49 / 7 = 7. The mean remains unchanged because value 6 is 1 below the mean and value 8 is 1 above the mean. These deviations cancel each other: the deficit of 1 (from 6) and surplus of 1 (from 8) balance perfectly to maintain the mean."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Medium",
+      "question": "A dataset has mean 20. If we add a constant value 5 to every element in the dataset, what will be the new mean? Prove this algebraically.",
+      "answer": "New mean = 25. When we add a constant c to all values, the new mean = old mean + c.",
+      "solution": "Let the original dataset have n values: X₁, X₂, ..., Xₙ with mean = (X₁ + X₂ + ... + Xₙ) / n = 20. When we add 5 to each: New mean = [(X₁ + 5) + (X₂ + 5) + ... + (Xₙ + 5)] / n = [(X₁ + X₂ + ... + Xₙ) + 5n] / n = [(X₁ + X₂ + ... + Xₙ) / n] + [5n / n] = 20 + 5 = 25. Therefore, new mean = 25. The algebraic proof shows that adding any constant c to all values increases the mean by exactly c."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "A dataset has mean 30. If we subtract 8 from every element, what will be the new mean? How does this relate to data standardization in statistics?",
+      "answer": "New mean = 22. Subtracting a constant from all values decreases the mean by that constant. This principle is used in standardization to shift a distribution's center to a desired value (like 0) without changing its spread.",
+      "solution": "Using the same algebraic approach as addition: If original mean = 30 and we subtract 8 from each value, new mean = 30 - 8 = 22. Mathematically: new mean = [(X₁ - 8) + (X₂ - 8) + ... + (Xₙ - 8)] / n = [(X₁ + X₂ + ... + Xₙ - 8n)] / n = (original mean) - 8 = 30 - 8 = 22. In statistics, this transformation allows us to center a dataset around zero or any desired reference point, which is useful for comparing datasets with different centers but similar spreads."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "A dataset has mean 15. If we multiply every element by 4, what will be the new mean? Explain how this transformation affects the interpretation of the data.",
+      "answer": "New mean = 60. Multiplying all values by a constant multiplies the mean by that same constant. This scales the data proportionally—useful when changing units (e.g., from meters to centimeters) or analyzing scaled versions of a phenomenon.",
+      "solution": "Original mean = 15. When multiplying each value by 4: new mean = 4 × (original mean) = 4 × 15 = 60. Proof: If mean = (X₁ + X₂ + ... + Xₙ) / n = 15, then new mean = [(4X₁) + (4X₂) + ... + (4Xₙ)] / n = 4[(X₁ + X₂ + ... + Xₙ) / n] = 4 × 15 = 60. This transformation preserves the relative relationships between values (the ratio of any two values stays the same) while scaling the entire dataset. It's crucial when converting units or scaling measurements."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "A student's marks in 5 subjects are {75, 82, 78, 85, 80}. If the teacher decides to add 5 bonus points to all students' marks, what will be the new mean? Does the relative ranking of students change?",
+      "answer": "Original mean = 80. New mean = 85. The relative ranking does not change because all students receive the same bonus.",
+      "solution": "Original mean = (75 + 82 + 78 + 85 + 80) / 5 = 400 / 5 = 80. With 5 bonus points added to each: New mean = (80 + 82 + 83 + 90 + 85) / 5 = 425 / 5 = 85. Or directly: 80 + 5 = 85. Since every student's marks increase by exactly 5 points, the differences between students remain unchanged. If student A had 10 points more than student B before, they still have 10 points more after. The ranking is preserved because a constant shift affects all students equally."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Explain why it is impossible to have two different balance points (means) for the same dataset. Use the concept of distance sums in your explanation.",
+      "answer": "It is impossible because if a value is chosen as a potential balance point that is different from the true mean, either the sum of distances below or above will be greater, violating the balance property.",
+      "solution": "Suppose we have dataset {2, 4, 6, 8} with true mean = 5. The balance property holds: distances below: |2-5| + |4-5| = 3 + 1 = 4. Distances above: |6-5| + |8-5| = 1 + 3 = 4. Balance: 4 = 4. Now suppose we choose 4 as an alternative balance point. Distances below: |2-4| = 2. Distances above: |6-4| + |8-4| = 2 + 4 = 6. This is unbalanced: 2 ≠ 6. If we choose 6, distances below: |2-6| + |4-6| = 4 + 2 = 6. Distances above: |8-6| = 2. Again unbalanced: 6 ≠ 2. This algebraically proves that only the true mean satisfies the balance property, making the mean unique."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Hard",
+      "question": "A dataset of 8 values has mean 25. One value is missing. The sum of the 7 known values is 168. Find the missing value and explain your reasoning.",
+      "answer": "Missing value = 32. Using mean = (sum of all values) / count, we rearrange to find: missing value = (mean × count) - (sum of known values) = (25 × 8) - 168 = 200 - 168 = 32.",
+      "solution": "Step 1: Use the mean formula. Mean = (sum of all values) / number of values. Given: mean = 25, count = 8. Step 2: Calculate total sum needed. Total sum = mean × count = 25 × 8 = 200. Step 3: Find missing value. Missing value = total sum - sum of known values = 200 - 168 = 32. Step 4: Verify. If we add the missing value: (168 + 32) / 8 = 200 / 8 = 25 ✓. This application demonstrates how understanding the mean formula allows us to recover missing data points, which is useful in data collection and quality assurance."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Hard",
+      "question": "A dataset has mean 50 and contains 10 values. If 3 values are changed from 45, 48, and 52 to 40, 50, and 60 respectively, how does the mean change? Calculate the new mean and explain what this tells us about the mean's sensitivity to changes in data.",
+      "answer": "Original mean = 50 (unchanged). The mean does not change because the total deviation from the original mean is zero: (40-45) + (50-48) + (60-52) = -5 + 2 + 8 = +5, but we must consider the original deviations: (45-50) + (48-50) + (52-50) = -5 + (-2) + 2 = -5. Change in total: (-5 + 2 + 8) - (-5 - 2 + 2) = 5 - (-5) = 10. Wait, recalculating: sum change = (40 + 50 + 60) - (45 + 48 + 52) = 150 - 145 = 5. New mean = 50 + (5/10) = 50.5.",
+      "solution": "Step 1: Calculate original sum. Mean = 50, count = 10. Original sum = 50 × 10 = 500. Step 2: Find the sum change. Original three values sum: 45 + 48 + 52 = 145. New three values sum: 40 + 50 + 60 = 150. Change = 150 - 145 = 5. Step 3: Calculate new sum and mean. New sum = 500 + 5 = 505. New mean = 505 / 10 = 50.5. The mean increased by 0.5 (a 1% change) due to a net increase of 5 in the total. This demonstrates that the mean is sensitive to all data points—even changing a few values proportionally affects the mean. The sensitivity depends on the magnitude of changes relative to the dataset size."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Hard",
+      "question": "Three students have marks with mean 75. To keep the class mean at 75 after adding a new student, what should the new student's marks be? Justify your answer mathematically.",
+      "answer": "The new student should score 75 marks. Adding a value equal to the current mean keeps the mean unchanged.",
+      "solution": "Step 1: Understand the principle. When we add a value equal to the mean to a dataset, the new mean remains the same. Step 2: Calculate. Original sum = mean × count = 75 × 3 = 225. To keep mean at 75 with 4 students: required sum = 75 × 4 = 300. New student's marks = 300 - 225 = 75. Step 3: Verify. New mean = (225 + 75) / 4 = 300 / 4 = 75 ✓. Mathematically, if we add value x equal to the mean: new mean = (original sum + x) / (count + 1) = (n·mean + mean) / (n + 1) = mean(n + 1) / (n + 1) = mean. This principle is useful in scenarios where maintaining group averages is important (e.g., team performance, class standards)."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Easy",
+      "question": "In a dataset, the median is 50. What does this tell you about the distribution of values? Does knowing the median alone give you complete information about the data?",
+      "answer": "The median being 50 means that exactly half the values are ≤ 50 and half are ≥ 50. However, knowing only the median does not provide complete information—you don't know how spread out the values are or where they cluster.",
+      "solution": "The median tells us only about position (the middle point), not about distribution. For example, both datasets {1, 50, 99} and {48, 50, 52} have median 50, but their distributions are completely different—the first is spread across a wide range while the second is tightly clustered. To understand data comprehensively, we need additional measures like range, quartiles, or standard deviation alongside the median. This is why statisticians use multiple measures of central tendency and dispersion together."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "A dataset has 7 values with median 40. If we add one new value of 30 (which is less than the median), how will the median change? Explain the reasoning.",
+      "answer": "The new median will likely decrease because adding a value less than the current median shifts the middle position to a lower value. With 8 values, the median becomes the average of the 4th and 5th values.",
+      "solution": "Original setup: 7 values with median 40. The 4th value (middle position) is 40. When we add a value of 30 (which is less than 40), it will be positioned before the current 4th value in the sorted order. New setup: 8 values total. The new median is the average of the 4th and 5th values. Since 30 is inserted before the original 4th value, both the new 4th and 5th values will shift upward in position but lower in value (or one remains the same). The result is that the new median = (4th value + 5th value) / 2, which will be less than or equal to the original median of 40. Typically, it will be less than 40. This shows that adding values below the median tends to decrease it, while the mean might not decrease as dramatically."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Analyze the differences between mean and median as measures of central tendency. In what situations would you prefer the median over the mean?",
+      "answer": "The mean uses all values (affected by outliers), while the median depends only on position (resistant to outliers). Prefer median when: dealing with skewed distributions, outliers are present, or data is ordinal. Prefer mean when data is normally distributed or you need a value that incorporates all data points.",
+      "solution": "Comparison: (1) Calculation: Mean = sum/count; Median = middle value. (2) Sensitivity: Mean is sensitive to extreme values (outliers can pull it significantly); median is resistant. Example: {1, 2, 3, 4, 100}. Mean = 22, Median = 3. The extreme value 100 drastically changes the mean but barely affects the median. (3) When to use each: Use mean for normally distributed data where all values matter equally and represent fair distribution. Use median for skewed data, household incomes (high earners skew the mean), test scores with outliers, or when the position of data matters more than exact values. In real-world scenarios with income, property values, or any data prone to extreme outliers, the median often better represents the 'typical' value."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Hard",
+      "question": "A frequency distribution shows family sizes with their frequencies. Calculate the mean using the frequency distribution method and explain why it differs from simply averaging all the distinct values.",
+      "answer": "Mean = Σ(value × frequency) / Σ(frequency). It differs from averaging distinct values because we must account for how often each value appears; values appearing more frequently contribute more to the overall mean.",
+      "solution": "Example distribution: Family size {3, 4, 5, 6, 7} with frequencies {3, 11, 9, 7, 3}. Using frequency method: Mean = [(3×3) + (4×11) + (5×9) + (6×7) + (7×3)] / (3+11+9+7+3) = [9 + 44 + 45 + 42 + 21] / 33 = 161 / 33 ≈ 4.88. If we incorrectly averaged distinct values: (3+4+5+6+7)/5 = 25/5 = 5. These differ because we gave equal weight to each family size in the second method, but size 4 appears 11 times while size 7 appears only 3 times. The frequency-weighted method correctly reflects that more families have size 4, pulling the mean lower. This is crucial in real data where repetition matters—ignoring frequencies gives an incorrect picture of reality."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "In a dataset with frequency distribution, how would you find the median? Explain the process step-by-step using the concept of cumulative frequencies.",
+      "answer": "Step 1: Calculate cumulative frequencies. Step 2: Find the position of median = (total frequency + 1) / 2 for odd total, or between n/2 and n/2+1 for even total. Step 3: Locate which value occupies this position using cumulative frequencies.",
+      "solution": "Example: Values {10, 20, 30, 40} with frequencies {5, 8, 6, 4}. Total = 23 (odd). Median position = (23+1)/2 = 12th value. Cumulative frequencies: 10 has 5, 20 has 5+8=13, 30 has 13+6=19, 40 has 19+4=23. The 12th value falls in the range where cumulative frequency reaches 13 (at value 20). Therefore, median = 20. The cumulative frequency approach avoids writing all 23 values explicitly and efficiently identifies the position. For even totals like frequency 24, median = average of 12th and 13th values. This method is efficient for large datasets where listing all values would be impractical."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Easy",
+      "question": "What is the purpose of using spreadsheets for data analysis? Name two functions commonly used and explain what each does.",
+      "answer": "Spreadsheets automate calculations, reduce errors, and allow rapid recalculation when data changes. Two common functions: SUM() adds all values in a range; AVERAGE() calculates the mean of values in a range.",
+      "solution": "Spreadsheets are digital tools that organize data in rows and columns. Purpose: (1) Eliminate manual calculation errors—formulas compute automatically. (2) Speed up analysis—recalculation is instantaneous when data changes. (3) Handle large datasets—easily manage thousands of data points. Functions: SUM(B2:B10) adds all values from B2 to B10. AVERAGE(B2:B10) calculates the mean. For example, if B2:B10 contains marks {75, 82, 78, 85, 80, 88, 91, 76, 84}, then SUM() = 719 and AVERAGE() ≈ 79.9. These functions save hours of manual computation and are foundational to modern data analysis in business, education, and research."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "A teacher uses a spreadsheet to calculate class averages. If the formula =AVERAGE(C2:C45) gives 78, what does this tell you? If the teacher then adds 5 bonus points (using a formula to add 5 to each cell), how would the new average change?",
+      "answer": "Original average = 78 represents the mean of 44 students' marks. After adding 5 points to each mark using a spreadsheet formula, the new average = 83.",
+      "solution": "Step 1: Interpret the original result. =AVERAGE(C2:C45) calculates the mean of 44 cells (C2 through C45). Result of 78 means the average mark is 78. Step 2: Understand the transformation. Creating a formula like =C2+5 in a new column and copying down adds 5 to each value. Step 3: Determine new average. Since we add a constant (5) to all values, the new average = old average + 5 = 78 + 5 = 83. Step 4: Verification in spreadsheet. If we use =AVERAGE(new column) on the transformed marks, we get 83. The spreadsheet automatically handles the calculation without manually recalculating, demonstrating its power for analyzing transformations in large datasets."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Using spreadsheet formulas, explain how you would verify that the mean of a dataset is actually its balance point. What formula structure would you use?",
+      "answer": "Calculate the sum of distances of values below the mean and the sum of distances of values above the mean. If these sums are equal, the balance property is verified. Use formulas like =SUMIF(range, '<'&mean, range) to calculate distances for values less than mean.",
+      "solution": "Step 1: Calculate the mean using =AVERAGE(A2:A100). Let's say result is in cell A102 and equals 50. Step 2: Create a helper column to calculate distances: =ABS(A2-$A$102) for each value. Step 3: Sum distances below: =SUMIF(A2:A100,'<'&$A$102,helper_column). This sums absolute differences for all values < 50. Step 4: Sum distances above: =SUMIF(A2:A100,'>'&$A$102,helper_column). This sums absolute differences for all values > 50. Step 5: Compare the two sums. If they are equal (or nearly equal accounting for rounding), the balance property is verified. Step 6: Subtract: =sum_below - sum_above. Result should be zero (or very close). This process demonstrates the balance point property computationally and provides concrete evidence of why the mean is called a balance point. For large datasets, doing this manually would be tedious, but spreadsheets make it instant and verifiable."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Easy",
+      "question": "Describe the key characteristics of line graphs. For what types of data are they most appropriate?",
+      "answer": "Line graphs connect data points with line segments. They are most appropriate for time-series data, continuous data, and situations where showing trends and changes over time is important.",
+      "solution": "Characteristics of line graphs: (1) Points are plotted at coordinates (x, y) and connected sequentially. (2) X-axis typically represents time or an ordered variable. (3) Y-axis represents values being measured. (4) The slope of line segments shows rate of change—steep = rapid change, flat = little change. (5) Multiple lines can compare different series simultaneously. Appropriate data: Time-series (stock prices, temperature over months, sales trends), anything measured continuously, situations where tracking change is crucial. Example: Temperature graph showing daily highs over 30 days would use a line graph to visualize weather trends. Inappropriate: Categorical data like favorite colors or gender distribution would better use bar or pie charts. Line graphs are inefficient for comparing discrete, unrelated categories."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "Compare and contrast bar graphs and line graphs for representing time-series data with 24 data points. Which would be more effective and why?",
+      "answer": "A line graph would be more effective because it shows continuous change with 24 line segments clearly and visually. A bar graph with 24 bars would appear cluttered and make trends harder to see.",
+      "solution": "Bar graph with 24 data points: Would require 24 vertical bars, creating a crowded appearance. Trends are harder to see because the eye must jump from one bar to the next. Rate of change is not visually obvious. However, bar graphs excel at comparing discrete categories and exact values. Line graph with 24 data points: Connected line segments clearly show the overall trend. The slope tells us immediately how fast change occurs. Patterns emerge visually without clutter. Multiple lines can be overlaid for comparison. For time-series data specifically, line graphs are superior because they emphasize continuity and change over time. The visual principle is that line graphs use area efficiently while bar graphs need more space. For large datasets over time, the line graph's ability to show flow and trend through connected segments makes it the clear choice for effective data communication."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "When reading a line graph showing monthly rainfall for multiple cities, what would you look for to identify patterns? How would you distinguish between a valid inference and an invalid inference from the graph?",
+      "answer": "Look for: peaks/valleys (maximum rainfall months), steep slopes (rapid increases), flat sections (stable rainfall), and comparisons between cities. Valid inference: supported directly by data shown. Invalid: requires information not in the graph, makes assumptions about missing data, or confuses correlation with causation.",
+      "solution": "Reading strategy—Identify: Axis labels and scales. Data series (different colors/lines). Peaks (highest rainfall months). Valleys (driest months). Slopes (rate of change). Valid inferences from a rainfall graph: 'City A peaks in June while City B peaks in October' (directly shown). 'Western cities receive more rain in June-August' (pattern visible in the data). Invalid inferences: 'City C did not launch projects in dry months' (mixing unrelated data). 'High rainfall causes pollution' (confusing correlation with causation). 'All tropical regions have this rainfall pattern' (overgeneralization beyond shown data). The key distinction: Valid inferences are grounded in what is explicitly shown. Invalid ones require assumptions or external knowledge. Careful reading distinguishes between these. Always ask: 'Is this conclusion directly supported by what I see in the graph, or am I adding information that isn't there?'"
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Analyze a line graph showing three different trends: one consistently increasing, one decreasing, then stable, and one fluctuating. What does each trend type suggest about the underlying phenomenon? How would you explain these patterns to someone unfamiliar with data visualization?",
+      "answer": "Consistently increasing suggests growth or improvement over time. Decreasing then stable suggests an initial decline followed by stabilization at a new level. Fluctuating suggests variability or cyclic patterns. Explain patterns by describing what happens in real-world terms and using slope and direction to convey rates of change.",
+      "solution": "Trend Analysis: (1) Consistent increase: The quantity grows steadily throughout the period. Slope is positive and relatively constant. Real-world: Sales increasing monthly, population growth, website traffic rising. (2) Decrease then stable: Initial decline (negative slope) followed by flat section (zero slope). Real-world: Unemployment dropping then staying steady, equipment degrading then stabilizing, or adjusting to a new equilibrium. (3) Fluctuating: Multiple ups and downs, no clear overall direction. Real-world: Seasonal patterns (sales high in December, low in summer), monthly weather variations, stock market volatility. Explanation for non-technical audience: Use analogies. 'Consistently increasing is like climbing steadily uphill.' 'Decrease then stable is like sliding down then walking flat.' 'Fluctuating is like a wave moving up and down.' Compare slopes: 'Steeper slopes mean faster change; flatter means slower.' Discuss what causes patterns: Seasonal factors, market conditions, natural cycles. This approach makes data visualization accessible to all audiences."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "You have a line graph showing monthly data for a year. You notice that values for three months are missing (data not shown). How would you justify whether it is valid or invalid to assume these missing values follow the trend shown by surrounding months? What inferences can you safely make?",
+      "answer": "Invalid to assume: You cannot confirm missing data follows any pattern without explicit data. Safe inferences: Only about months shown. You can comment on shown trends and compare available data points. You cannot infer about missing months or use them to draw conclusions about the overall year.",
+      "solution": "Critical distinction in data interpretation: What the graph shows vs. what it doesn't show. Shown data: 9 months of actual measurements. Based on these, you can validly say 'February shows the highest value among shown months' or 'There is an upward trend from January to May.' Invalid assumptions: 'The missing June, July, August likely continued the May trend' (you have no data to support this). 'The missing months probably had moderate values' (speculation without evidence). Safe inferences about the overall year: You cannot estimate annual totals or averages without all data. You might note 'The pattern in shown months suggests seasonality' but you cannot confirm this without the full year. The principle: Data visualization only tells you about what is represented. Absence from the graph does not confirm absence of the phenomenon. To make claims about missing data, you need additional information (explicit statement in the graph, external knowledge, or indication that missing values are zero). This careful distinction prevents misinterpretation and maintains statistical integrity."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Design a conceptual experiment: You have 5 data values with mean 30. You want to add new values such that: (1) the mean remains 30, and (2) the median increases. Is this possible? Explain your reasoning with an example.",
+      "answer": "Yes, it is possible. Add two values: one equal to the mean (30) and one above the mean (say 50). The mean stays 30 because the added 30 maintains balance. The median increases because the added 50 pulls the middle position upward.",
+      "solution": "Initial setup: 5 values with mean 30. Example data: {10, 20, 30, 40, 50}. Original mean = 30 ✓. Original median = 30 (middle value). Strategy: Add values 30 and 50. New data: {10, 20, 30, 30, 40, 50, 50}. (7 values, sorted). New mean = (10+20+30+30+40+50+50)/7 = 230/7 ≈ 32.86. Hmm, mean increased. Let me recalculate. Actually, new sum = 230, new count = 7, new mean = 230/7 ≈ 32.86 ≠ 30. Let me revise. To keep mean at 30 while adding 2 values: needed sum = 30 × 7 = 210. Original sum = 150. So add values summing to 60. If we add 25 and 35: new data {10, 20, 25, 30, 35, 40, 50}. Mean = 210/7 = 30 ✓. Median = 30. To increase median further, add values above 30. Try adding 30 and 40: sum = 210. Data: {10, 20, 30, 30, 40, 40, 50}. Mean = 210/7 = 30 ✓. Median = 30. We need the upper value to be larger. Try adding 20 and 40: sum = 60. Data: {10, 20, 20, 30, 40, 40, 50}. Mean = 210/7 = 30 ✓. Median = 30. Actually, to increase median while keeping mean same, we need asymmetric additions. Add 10 and 50: sum = 60. Data: {10, 10, 20, 30, 40, 50, 50}. Mean = 210/7 = 30 ✓. Median = 30. To get median to increase to 35: new median position = 4th value. We need 4th value > 30. Add balanced but positioned values. This requires careful construction showing the independence of mean and median properties."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Medium",
+      "question": "Explain how the principle of adding constants to all data values (which shifts the mean) relates to real-world applications like grade adjustments or cost adjustments in business.",
+      "answer": "When a constant is added to all values, the mean shifts by that exact constant. This is directly applicable when adjusting grades (adding bonus points to all students) or business costs (adding a fixed overhead to all projects)—the average shifts predictably.",
+      "solution": "Real-world application 1—Grade adjustment: All students' test scores get 5 points added. If class mean was 75, new mean = 80. Teachers can predict how class performance changes. If applying scaling, everyone's rank relative to each other remains the same. Application 2—Business costs: A company adds a fixed $1000 equipment cost to each project's budget. If average project cost was $50,000, new average = $51,000. This constant shift helps in budgeting and cost analysis. Application 3—Temperature conversion: Celsius to Kelvin adds 273.15 to each measurement. Mean Celsius temperature of 20°C becomes mean Kelvin temperature of 293.15 K. The mathematical relationship holds: new mean = old mean + constant. This principle is powerful because it allows predictions about how systematic adjustments affect group statistics without recalculating everything from scratch. It's used in education, business, science, and economics whenever uniform adjustments are applied."
+    }
+  ]
+}

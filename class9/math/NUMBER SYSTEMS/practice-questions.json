@@ -1,0 +1,164 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Number Systems",
+    "chapter_number": 1
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Is zero a rational number? Justify your answer.",
+      "answer": "Yes, zero is a rational number because it can be written in the form p/q as 0/1, where p=0 and q=1 are integers and q is not equal to zero.",
+      "solution": "A rational number is defined as a number that can be expressed in the form p/q, where p and q are integers and q is not equal to zero. Zero can be written as 0/1, 0/2, 0/-5, etc. In all these cases, the numerator is an integer (0) and the denominator is a non-zero integer. Hence, 0 satisfies the definition of a rational number."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "State whether the statement is true or false: Every integer is a rational number. Give a reason for your answer.",
+      "answer": "True, because every integer m can be expressed in the form m/1.",
+      "solution": "An integer, say 'm', can always be written as a fraction by placing 1 in the denominator, i.e., m/1. Since both m and 1 are integers and the denominator is not zero, the form m/1 satisfies the definition of a rational number (p/q form where q is not 0). Thus, every integer is a rational number."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What are the two types of decimal expansions possible for a rational number?",
+      "answer": "The decimal expansion of a rational number is either terminating or non-terminating recurring.",
+      "solution": "When dividing the numerator of a rational number by its denominator, the remainder either becomes zero after a certain stage (which gives a terminating decimal, e.g., 7/8 = 0.875) or the remainder never becomes zero but starts repeating (which gives a non-terminating recurring decimal, e.g., 10/3 = 3.333...). These are the only two choices for rational numbers."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What is the key characteristic of the decimal expansion of an irrational number?",
+      "answer": "The decimal expansion of an irrational number is non-terminating non-recurring.",
+      "solution": "Unlike rational numbers, when an irrational number is expressed in decimal form, the digits after the decimal point never terminate (never end) and never form a repeating block of digits. For example, the decimal expansion of pi is 3.14159265... and it continues infinitely without any recurring sequence."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Find the value of (64)^(1/2).",
+      "answer": "8",
+      "solution": "The expression (64)^(1/2) represents the square root of 64. We know that 8^2 = 64. Using the laws of exponents, (64)^(1/2) = (8^2)^(1/2) = 8^(2 * 1/2) = 8^1 = 8."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Simplify the expression: 17^2 * 17^5.",
+      "answer": "17^7",
+      "solution": "According to the laws of exponents, when multiplying two exponential terms with the same base, we add their powers: a^p * a^q = a^(p+q). Here, the base is 17. So, 17^2 * 17^5 = 17^(2 + 5) = 17^7."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Rationalise the denominator of 1/√7.",
+      "answer": "√7 / 7",
+      "solution": "To rationalise the denominator, we multiply both the numerator and the denominator by √7. \n1/√7 * (√7/√7) = (1 * √7) / (√7 * √7) = √7 / 7. This converts the irrational denominator into a rational number."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Classify the number √225 as rational or irrational with reasoning.",
+      "answer": "Rational, because √225 = 15, which is a rational number.",
+      "solution": "To classify the number, we first simplify it if possible. The square root of 225 is 15 (since 15 * 15 = 225). The number 15 can be written in the form p/q as 15/1, where p and q are integers and q is not zero. Therefore, √225 is a rational number."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Find three rational numbers strictly between 3 and 4.",
+      "answer": "13/4, 14/4 (or 7/2), and 15/4 (or any other three valid rational numbers between 3 and 4).",
+      "solution": "To find three rational numbers between 3 and 4, we can express 3 and 4 as rational numbers with a common denominator greater than the number of rational numbers we need to find. Let's use 3 + 1 = 4 as the denominator. \n3 = (3 * 4) / 4 = 12/4. \n4 = (4 * 4) / 4 = 16/4. \nThe rational numbers between 12/4 and 16/4 are 13/4, 14/4, and 15/4. These simplify to 13/4, 7/2, and 15/4."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Express 0.666... in the form p/q, where p and q are integers and q is not equal to 0.",
+      "answer": "2/3",
+      "solution": "Let x = 0.666... (Equation 1). \nSince one digit (6) is repeatedly recurring, we multiply both sides of the equation by 10 to shift the decimal point by one place. \n10x = 6.666... (Equation 2). \nSubtract Equation 1 from Equation 2: \n10x - x = 6.666... - 0.666... \n9x = 6 \nx = 6/9. \nSimplifying the fraction by dividing numerator and denominator by 3, we get x = 2/3."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Classify the number π - 2 as rational or irrational. Justify your answer.",
+      "answer": "Irrational.",
+      "solution": "We know that π is an irrational number because its decimal expansion (3.14159...) is non-terminating and non-recurring. The number 2 is a rational number. According to the properties of real numbers, the difference between a rational number and an irrational number is always irrational. Therefore, π - 2 is an irrational number."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Add the expressions: (2√2 + 5√3) and (√2 - 3√3).",
+      "answer": "3√2 + 2√3",
+      "solution": "To add the expressions, we group the like irrational terms together. \n(2√2 + 5√3) + (√2 - 3√3) \n= (2√2 + 1√2) + (5√3 - 3√3) \nPulling out the common radical factors: \n= (2 + 1)√2 + (5 - 3)√3 \n= 3√2 + 2√3."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Rationalise the denominator of 1 / (√7 - √6).",
+      "answer": "√7 + √6",
+      "solution": "To rationalise the denominator, we multiply the numerator and the denominator by the conjugate of the denominator, which is (√7 + √6). \n[1 / (√7 - √6)] * [(√7 + √6) / (√7 + √6)] \nUsing the identity (a - b)(a + b) = a^2 - b^2 in the denominator: \n= (√7 + √6) / ((√7)^2 - (√6)^2) \n= (√7 + √6) / (7 - 6) \n= (√7 + √6) / 1 \n= √7 + √6."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Simplify the expression: (√5 + √2)^2.",
+      "answer": "7 + 2√10",
+      "solution": "We can expand the expression using the algebraic identity (a + b)^2 = a^2 + 2ab + b^2, where a = √5 and b = √2. \n(√5 + √2)^2 = (√5)^2 + 2(√5)(√2) + (√2)^2 \n= 5 + 2√(5 * 2) + 2 \n= 5 + 2√10 + 2 \nGrouping the rational terms together: \n= (5 + 2) + 2√10 \n= 7 + 2√10."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Find the value of (125)^(-1/3).",
+      "answer": "1/5",
+      "solution": "The given expression features a negative fractional exponent. \nFirst, we can express 125 as a power of 5: 125 = 5^3. \nSubstitute this back into the expression: (5^3)^(-1/3). \nUsing the laws of exponents (a^p)^q = a^(pq), we multiply the powers: \n3 * (-1/3) = -1. \nSo, the expression simplifies to 5^(-1). \nA negative exponent indicates the reciprocal, so 5^(-1) = 1/5."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Construct an irrational number between the rational numbers 1/7 and 2/7.",
+      "answer": "Any non-terminating, non-recurring decimal between 0.142857... and 0.285714... (e.g., 0.150150015000...)",
+      "solution": "To find an irrational number between two rational numbers, we first look at their decimal expansions. \n1/7 = 0.142857142857... \n2/7 = 0.285714285714... \nAn irrational number must have a non-terminating and non-recurring decimal expansion. We can construct such a number that falls between these two values. \nAn example is 0.150150015000150000... This number is clearly greater than 0.142857... and less than 0.285714..., and it follows a pattern that never terminates and never strictly recurs, making it irrational."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Hard",
+      "question": "Express 1.272727... (or 1.27 bar) in the form p/q, where p and q are integers and q is not equal to 0. Show the step-by-step algebraic process.",
+      "answer": "14/11",
+      "solution": "Let x = 1.272727... (Equation 1). \nSince a block of two digits (27) is repeating, we multiply both sides of the equation by 100 to shift the decimal point two places to the right. \n100x = 127.272727... (Equation 2). \nNow, subtract Equation 1 from Equation 2: \n100x - x = 127.272727... - 1.272727... \n99x = 126. \nSolving for x, we get x = 126 / 99. \nTo simplify the fraction, we find the greatest common divisor for 126 and 99, which is 9. Dividing both numerator and denominator by 9 gives: \nx = 14 / 11. \nThus, 1.272727... in p/q form is 14/11."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "Rationalise the denominator of 5 / (√3 - √5).",
+      "answer": "(-5/2)(√3 + √5)",
+      "solution": "To rationalise the denominator, multiply the numerator and denominator by the conjugate of the denominator, which is (√3 + √5). \n[5 / (√3 - √5)] * [(√3 + √5) / (√3 + √5)] \nUsing the identity (a - b)(a + b) = a^2 - b^2 on the denominator: \n= 5(√3 + √5) / ((√3)^2 - (√5)^2) \n= 5(√3 + √5) / (3 - 5) \n= 5(√3 + √5) / (-2) \nWe can write this as (-5/2)(√3 + √5). \nThis final expression has a rational denominator."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "A student claims that the sum or difference of two irrational numbers is always an irrational number. Is this statement correct? Provide an example to justify your answer.",
+      "answer": "No, the statement is incorrect. The sum or difference of two irrational numbers can be a rational number.",
+      "solution": "The sum, difference, product, or quotient of two irrational numbers is not guaranteed to be irrational. It can sometimes yield a rational number. \nFor example, consider the irrational numbers a = (2 + √3) and b = (2 - √3). Both are irrational. \nLet's add them: (2 + √3) + (2 - √3) = 2 + 2 + √3 - √3 = 4. \nThe result, 4, is a rational number. \nSimilarly, for difference: consider a = √2 and b = √2. Their difference is √2 - √2 = 0, which is also a rational number. \nTherefore, the student's combined claim is incorrect."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Simplify the expression algebraically: (7^(1/5)) / (7^(1/3)).",
+      "answer": "7^(-2/15)",
+      "solution": "The expression involves dividing terms with the same base but different fractional exponents. \nAccording to the laws of exponents, a^p / a^q = a^(p - q). \nHere, the base a = 7, p = 1/5, and q = 1/3. \n(7^(1/5)) / (7^(1/3)) = 7^(1/5 - 1/3). \nNow, we need to subtract the fractions in the exponent. To subtract 1/5 and 1/3, we find a common denominator, which is 15. \n1/5 = 3/15 \n1/3 = 5/15 \nSo, 1/5 - 1/3 = 3/15 - 5/15 = -2/15. \nSubstitute this back into the exponent: \nThe simplified expression is 7^(-2/15)."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "If you represent √3.5 on the real number line using the geometric semicircle method, you mark a line segment AB of 3.5 units and extend it by 1 unit to C. What will be the exact radius of the semicircle constructed on AC? Explain your reasoning.",
+      "answer": "2.25 units.",
+      "solution": "In the geometric method to find √x on the number line, a line segment AB of length x is drawn, and then extended by 1 unit to point C. Thus, the total length of the segment is AC = AB + BC = x + 1. \nIn this problem, x = 3.5. \nThe total length of the line segment AC = 3.5 + 1 = 4.5 units. \nThe semicircle is constructed with AC as its diameter. The center of the semicircle is the midpoint of AC. \nTherefore, the radius of the semicircle is half of the diameter AC. \nRadius = (x + 1) / 2 = 4.5 / 2 = 2.25. \nThe exact radius of the semicircle constructed is 2.25 units."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "The decimal expansion of 1/17 is non-terminating recurring. What can be the maximum possible number of digits in the repeating block of digits? Give a theoretical reason without performing long division.",
+      "answer": "16 digits.",
+      "solution": "When converting a rational number of the form p/q into a decimal using long division, the maximum possible number of unique remainders before they start repeating is always one less than the divisor. This is because the remainder must always be strictly less than the divisor, and it cannot be zero (otherwise the decimal would terminate). \nFor the fraction 1/17, the divisor is 17. The possible non-zero remainders are 1, 2, 3, ..., 16. \nTherefore, the maximum number of entries in the repeating string of remainders (and consequently the repeating block of digits in the quotient) is 17 - 1 = 16 digits."
+    }
+  ]
+}

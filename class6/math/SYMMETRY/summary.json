@@ -1,0 +1,42 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "SYMMETRY",
+    "chapter_number": 9
+  },
+  "summary": [
+    {
+      "category": "Line and Reflection Symmetry",
+      "points": [
+        "A figure has line symmetry if a line (axis of symmetry) divides it into two mirror halves that perfectly overlap when folded.",
+        "A square has 4 lines of symmetry, while a rectangle has only 2; a circle is uniquely symmetric with infinite axes along its diameters.",
+        "Reflection symmetry maps every point on one side of the axis to a corresponding point on the other side at an equal distance."
+      ]
+    },
+    {
+      "category": "Generating Symmetry",
+      "points": [
+        "Symmetrical patterns can be created using techniques like ink blots, paper folding, and decorative paper cutting.",
+        "The punching game illustrates that holes made in folded paper appear in symmetrical positions relative to the fold lines when unfolded.",
+        "Completing symmetric drawings on squared or dot paper involves mirroring each point across a given axis of symmetry."
+      ]
+    },
+    {
+      "category": "Rotational Symmetry",
+      "points": [
+        "A figure has rotational symmetry if it looks identical after being rotated about a fixed centre by an angle less than $360^\\circ$.",
+        "The order of rotational symmetry is the number of times a figure coincides with itself during a complete $360^\\circ$ turn.",
+        "For a figure to have rotational symmetry, its smallest angle of rotation must be a factor of the total $360^\\circ$ in a full turn."
+      ]
+    },
+    {
+      "category": "Regular Polygons and Circles",
+      "points": [
+        "Regular polygons (equilateral triangle, square, hexagon) have an equal number of side counts, lines of symmetry, and rotational orders.",
+        "Circles are the most symmetrical shapes, possessing both infinite lines of reflection and infinite angles of rotational symmetry.",
+        "Symbolic structures like the Ashoka Chakra (24 spokes) demonstrate both 24 lines of symmetry and 24 rotational angles of $15^\\circ$ each."
+      ]
+    }
+  ]
+}

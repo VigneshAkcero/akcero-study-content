@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Pair of Linear Equations in Two Variables",
+    "chapter_number": 3
+  },
+  "summary": [
+    {
+      "category": "Graphical Method",
+      "points": [
+        "A pair of linear equations in two variables can be solved graphically by plotting both equations as lines on a coordinate plane and finding their point(s) of intersection.",
+        "For equations a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0: if a₁/a₂ ≠ b₁/b₂, lines intersect (unique solution, consistent); if a₁/a₂ = b₁/b₂ = c₁/c₂, lines coincide (infinitely many solutions, dependent); if a₁/a₂ = b₁/b₂ ≠ c₁/c₂, lines are parallel (no solution, inconsistent).",
+        "The graphical method provides geometric visualization but may be impractical for non-integral coordinates."
+      ]
+    },
+    {
+      "category": "Algebraic Methods",
+      "points": [
+        "The substitution method: Express one variable in terms of the other from one equation, substitute into the second equation, solve for one variable, then find the other.",
+        "The elimination method: Multiply equations by suitable constants to make coefficients of one variable equal, then add or subtract to eliminate that variable and solve the resulting single-variable equation.",
+        "Both methods handle special cases: infinitely many solutions (true statements with no variable) and no solution (false statements with no variable)."
+      ]
+    },
+    {
+      "category": "Applications and Consistency",
+      "points": [
+        "Real-world situations (cost problems, age problems, digit problems, work problems) can be reduced to pairs of linear equations by selecting appropriate variables and translating conditions into equations.",
+        "A pair of equations is consistent (has a solution), inconsistent (no solution), or dependent (infinitely many solutions). The algebraic and graphical methods confirm these classifications through coefficient ratios.",
+        "The choice of solving method depends on equation form and computational convenience, but all methods yield the same solution for consistent systems."
+      ]
+    }
+  ]
+}

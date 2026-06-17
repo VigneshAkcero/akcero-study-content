@@ -1,0 +1,178 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Surface Areas and Volumes",
+    "chapter_number": 12
+  },
+  "flashcards": [
+    {
+      "q": "What is a combination of solids?",
+      "a": "A combination of solids is a composite shape formed by joining two or more basic geometric solids together."
+    },
+    {
+      "q": "What are the basic solids used in combinations?",
+      "a": "Cube, cuboid, cylinder, cone, sphere, and hemisphere."
+    },
+    {
+      "q": "What is the key principle when calculating surface area of combinations?",
+      "a": "Only exposed surfaces are counted; surfaces where solids are joined (internal surfaces) are excluded from the total surface area."
+    },
+    {
+      "q": "What is the key principle when calculating volume of combinations?",
+      "a": "The volume of a combination equals the sum of the volumes of all component solids; no volume is excluded or deducted."
+    },
+    {
+      "q": "State the formula for the curved surface area of a cylinder.",
+      "a": "Curved surface area = 2πrh, where r is radius and h is height."
+    },
+    {
+      "q": "State the formula for the total surface area of a cylinder.",
+      "a": "Total surface area = 2πrh + 2πr² = 2πr(h + r)."
+    },
+    {
+      "q": "State the formula for the curved surface area of a cone.",
+      "a": "Curved surface area = πrl, where r is radius and l is slant height."
+    },
+    {
+      "q": "What is the slant height of a cone?",
+      "a": "The slant height l is the distance from the apex to the base circle along the surface: l = √(r² + h²)."
+    },
+    {
+      "q": "State the formula for the curved surface area of a sphere.",
+      "a": "Curved surface area = 4πr², where r is radius."
+    },
+    {
+      "q": "State the formula for the curved surface area of a hemisphere.",
+      "a": "Curved surface area = 2πr², where r is radius (half of the sphere's surface)."
+    },
+    {
+      "q": "What is the volume formula for a cylinder?",
+      "a": "Volume = πr²h, where r is radius and h is height."
+    },
+    {
+      "q": "What is the volume formula for a cone?",
+      "a": "Volume = (1/3)πr²h, where r is radius and h is height."
+    },
+    {
+      "q": "What is the volume formula for a sphere?",
+      "a": "Volume = (4/3)πr³, where r is radius."
+    },
+    {
+      "q": "What is the volume formula for a hemisphere?",
+      "a": "Volume = (2/3)πr³, where r is radius (half of the sphere's volume)."
+    },
+    {
+      "q": "What is the volume formula for a cube?",
+      "a": "Volume = a³, where a is the edge length."
+    },
+    {
+      "q": "What is the volume formula for a cuboid?",
+      "a": "Volume = l × b × h, where l is length, b is breadth, and h is height."
+    },
+    {
+      "q": "When a hemisphere is attached to the top of a cylinder, which surfaces are hidden?",
+      "a": "The circular top face of the cylinder and the circular base of the hemisphere are hidden."
+    },
+    {
+      "q": "When a cone is mounted on a cylinder, is the base of the cylinder exposed?",
+      "a": "Yes, the base of the cylinder remains exposed unless specified otherwise in the problem."
+    },
+    {
+      "q": "What is the total surface area of a cylinder with hemispheres at both ends?",
+      "a": "TSA = 2πrh + 4πr² = 2πr(h + 2r), where the two hemispheres together equal a complete sphere."
+    },
+    {
+      "q": "What is the total surface area of a cone on a cylinder with the cylinder base exposed?",
+      "a": "TSA = πrl + 2πrh + πr² = πr(l + 2h + r), where l is the slant height of the cone."
+    },
+    {
+      "q": "How do you find the perimeter of a sector or composite boundary?",
+      "a": "Identify all the curved and straight boundary segments and add their lengths together."
+    },
+    {
+      "q": "What is the relationship between two hemispheres and one complete sphere?",
+      "a": "Two hemispheres form a complete sphere with the same radius."
+    },
+    {
+      "q": "In a composite solid with a cavity, how do you calculate the remaining volume?",
+      "a": "Volume of remaining solid = Volume of outer solid − Volume of cavity."
+    },
+    {
+      "q": "What unit conversion is essential for volume problems?",
+      "a": "1 m³ = 1000 litres = 1,000,000 cm³."
+    },
+    {
+      "q": "If a sphere is inscribed in a cube, what is the relationship between sphere radius and cube edge?",
+      "a": "The sphere radius r equals half the cube edge: r = a/2, so the cube edge a = 2r."
+    },
+    {
+      "q": "What happens to the surface area when two identical surfaces merge?",
+      "a": "Both surfaces disappear from the total surface area count; only exposed surfaces are included."
+    },
+    {
+      "q": "In a composite solid problem, why is drawing a diagram important?",
+      "a": "A diagram helps identify component solids, determine exposed surfaces, and avoid counting hidden surfaces."
+    },
+    {
+      "q": "What is the lateral surface area?",
+      "a": "The lateral (or curved) surface area is the area of the curved surfaces only, excluding the bases or flat surfaces."
+    },
+    {
+      "q": "What is the total surface area?",
+      "a": "The total surface area includes all exposed surfaces: lateral surfaces plus the bases or flat surfaces."
+    },
+    {
+      "q": "How do you calculate the surface area of a test tube (cylinder + hemisphere)?",
+      "a": "TSA = 2πrh (cylinder) + 2πr² (hemisphere) + πr² (open top rim), excluding the bottom which is closed."
+    },
+    {
+      "q": "What is the volume of a solid with a hemispherical depression?",
+      "a": "Volume = Volume of main solid − Volume of hemisphere cavity."
+    },
+    {
+      "q": "What is the formula for the area of a circular base?",
+      "a": "Area = πr², where r is the radius."
+    },
+    {
+      "q": "In a composite solid, are the volumes always additive?",
+      "a": "Yes, volumes are always additive, even if the volume of a cavity must be subtracted from the main solid."
+    },
+    {
+      "q": "How do you approach a problem with multiple composite shapes?",
+      "a": "Break the figure into simpler component shapes, calculate surface area or volume for each, and combine using addition or subtraction as appropriate."
+    },
+    {
+      "q": "What is the surface area of a composite solid if surfaces are partially hidden?",
+      "a": "Only the fully exposed portions of surfaces are counted; partially hidden surfaces contribute only their exposed area."
+    },
+    {
+      "q": "What is the relationship between volume and capacity in a container?",
+      "a": "Capacity equals the internal volume; if there are cavities or depressions, the capacity equals the outer volume minus the cavity volume."
+    },
+    {
+      "q": "Can the surface area of a combination be less than the surface area of its largest component?",
+      "a": "Yes, if large portions of component surfaces are hidden where they join."
+    },
+    {
+      "q": "What is meant by 'total length' in a composite solid with two hemispheres and a cylinder?",
+      "a": "Total length = diameter of hemisphere + cylinder height + diameter of other hemisphere = 2r + h + 2r = 2r + h (for one hemisphere case)."
+    },
+    {
+      "q": "How do you find the height of a cylinder in a composite solid if total length is given?",
+      "a": "If the composite has a cylinder with hemispheres at both ends: h_cylinder = total length − 2r."
+    },
+    {
+      "q": "What trigonometric relationship is used in slant height calculations?",
+      "a": "Pythagorean theorem: l² = r² + h², where l is slant height, r is base radius, and h is height."
+    },
+    {
+      "q": "In real-world applications, why is surface area calculation important?",
+      "a": "Surface area determines paint requirements, material costs for covering, and heat exchange properties of containers."
+    },
+    {
+      "q": "In real-world applications, why is volume calculation important?",
+      "a": "Volume determines storage capacity, liquid capacity of containers, and material quantity needed to fill the solid."
+    }
+  ]
+}

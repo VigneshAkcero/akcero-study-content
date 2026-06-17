@@ -1,0 +1,185 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "The Wonderful World of Science",
+    "chapter_number": 1
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is the 'most important thing' according to the textbook to explore and understand the world of Science?",
+      "answer": "Curiosity.",
+      "solution": "The text explicitly states that curiosity is the most important element for scientific adventure."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Science is described in the text with an analogy of a common game. Which game is it?",
+      "answer": "A jigsaw puzzle.",
+      "solution": "Science is compared to a giant and unending jigsaw puzzle where every new discovery adds a piece."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Fill in the blank: To be a wise person, you must be a '____' person!",
+      "answer": "whys",
+      "solution": "This play on words emphasizes that asking 'why' is the path to wisdom in science."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Arrange these scientific method steps in the correct order: (A) Test guess, (B) Observe something interesting, (C) Guess a possible answer, (D) Wonder and think of a question.",
+      "answer": "B \u2192 D \u2192 C \u2192 A.",
+      "solution": "The sequence follows the natural flow of observation, questioning, hypothesizing, and testing."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Who can work like a scientist according to the textbook?",
+      "answer": "Anyone who follows the scientific method.",
+      "solution": "The chapters provides examples like cooks, bicycle repairers, and electricians acting like scientists in their daily work."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "A student's pen stops writing. They guess the ink is finished but find the refill is full. What should the next step in the scientific method be?",
+      "answer": "Make another guess (e.g., the ink might have dried up).",
+      "solution": "When a test disproves a guess, a new hypothesis must be formed and tested."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "Mention one example from the text where a everyday problem is solved using the scientific method.",
+      "answer": "An electrician trying to find why a light bulb is not working.",
+      "solution": "The electrician checks if the problem is with the bulb or the switch, following a systematic troubleshooting process."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "Why is there 'no limit' to what we can discover in the jigsaw puzzle of science?",
+      "answer": "Because every new piece of knowledge leads to more questions and more things to find out.",
+      "solution": "Science is unending; discoveries often open up new areas of curiosity."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "A cook wonders why the dal spilled out of the pressure cooker. What are two possible 'guesses' (hypotheses) mentioned or implied in the text?",
+      "answer": "(1) There was too much water added. (2) There was heat issue/pressure issue.",
+      "solution": "The text specifically suggests 'too much water' as a guess to be tested."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Is planet Earth special compared to other known planets? Justify using the textbook.",
+      "answer": "Yes, it is the only planet we know that supports life.",
+      "solution": "The text describes Earth as our home and highlights its unique ability to thrive with life forms."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Hard",
+      "question": "What happens when scientists find that a 'piece of the puzzle' (a theoretical understanding) was put in the wrong place?",
+      "answer": "New discoveries change our previous understanding of the world, and the 'piece' is moved or corrected.",
+      "solution": "Science is self-correcting; new evidence can overturn or modify old ideas."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Hard",
+      "question": "Describe the 5th and final step of the scientific method as listed in the textbook's table.",
+      "answer": "Analyse the results to see if the experiment actually answers our question.",
+      "solution": "Analysis is the critical phase where data is interpreted to draw conclusions."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "Explain the importance of 'Collaboration' in science according to the chapter.",
+      "answer": "Science is rarely done alone; scientists across the world work in large teams to solve complex mysteries.",
+      "solution": "Working together makes discovery more effective and joyful."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "Give a real-life reasoning step for a bicycle repair person using the scientific method to find a flat tyre leak.",
+      "answer": "Observation: Flat tyre; Guess: Air leak; Test: Check for holes or valve issues; Analyse: Identify location of leak.",
+      "solution": "This demonstrates that technical troubleshooting is essentially a scientific process."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "Why does the textbook state 'you will not find answers to all your questions in Grade 6'?",
+      "answer": "Because science is a long-term journey of several years (next five years or beyond) where learning accumulates over time.",
+      "solution": "Middle school science is just the beginning of a lifelong process of inquiry."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Easy",
+      "question": "True or False: Science is only about memorising facts and figures.",
+      "answer": "False.",
+      "solution": "The text states science is about following a step-by-step process of thinking and doing."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "What 'ignites the spirit of inquiry' in each chapter of the book?",
+      "answer": "Learning about diverse topics like leaf structures, motion, or separating seeds, and posing questions about them.",
+      "solution": "The variety of subjects covered is meant to stimulate the student's natural curiosity."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Easy",
+      "question": "According to the text, where are some of the 'most groundbreaking discoveries' found?",
+      "answer": "Unexpected places (like kitchens or playgrounds).",
+      "solution": "Scientific discovery is pervasive and not limited to high-tech laboratories."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "What is the 'first and foremost thing' needed to learn science well?",
+      "answer": "To be curious and observe your surroundings keenly.",
+      "solution": "Keen observation is the starting point for asking 'how' and 'why'."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "How does the text link planetary protection with science?",
+      "answer": "It identifies Earth as a home with an environment that we must protect because it's the only one known to support life.",
+      "solution": "Understanding science leads to the responsibility of protecting our unique habitat."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Easy",
+      "question": "Name two things beyond Earth that science helps us ask questions about.",
+      "answer": "The Sun, the Moon, or the stars.",
+      "solution": "Scientific inquiry extends from local surroundings to the vastness of outer space."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "If an experiment doesn't answer the original question, what does the scientific method suggest you do?",
+      "answer": "Re-evaluate, make another guess, and perform more tests/observations.",
+      "solution": "The process is iterative; failures in testing lead to new, refined inquiries."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Contrast been a child leaping in a puddle and a scientist studying rainfall—what is the common thread?",
+      "answer": "Joyful exploration and wondering how things work.",
+      "solution": "The chapter emphasizes that science is all about joyful exploration of mysteries."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Easy",
+      "question": "According to the jigsaw puzzle analogy, what happens when we make a new discovery?",
+      "answer": "It adds another piece to the puzzle.",
+      "solution": "Every discovery expands our map of knowledge."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Reflect on Activity 1.1. What is the goal of having students write about a problem they solved?",
+      "answer": "To help them realize they have already been applying the scientific method in their lives.",
+      "solution": "This self-reflection connects academic concepts with personal, practical experiences."
+    }
+  ]
+}

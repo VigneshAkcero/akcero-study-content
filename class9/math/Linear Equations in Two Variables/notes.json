@@ -1,0 +1,272 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Linear Equations in Two Variables",
+    "chapter_number": 4
+  },
+  "notes": [
+    {
+      "section_title": "Introduction and Recall of Linear Equations",
+      "topics": [
+        {
+          "topic_name": "Linear Equations in One Variable",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A linear equation in one variable is an equation that contains only one unknown quantity. Examples include x + 1 = 0, x + √2 = 0, and √2y + √3 = 0. These equations have a unique (one and only one) solution, which can be represented on a number line."
+            },
+            {
+              "type": "example",
+              "title": "Example of Linear Equation in One Variable",
+              "content": "Consider the equation 2x + 5 = 0. To solve this equation, we isolate the variable: 2x = -5, which gives x = -5/2 = -2.5. This is the unique solution, and it can be represented as a single point on the number line."
+            },
+            {
+              "type": "note",
+              "title": "Properties of Equality",
+              "text": "When solving linear equations in one variable, remember these fundamental properties: (i) The solution is not affected when the same number is added to or subtracted from both sides of the equation. (ii) The solution is not affected when both sides of the equation are multiplied or divided by the same non-zero number."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "4.2 Linear Equations in Two Variables",
+      "topics": [
+        {
+          "topic_name": "Definition and General Form",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A linear equation in two variables is an equation that contains two unknown quantities. Consider the real-world situation: In a One-day International Cricket match between India and Sri Lanka, two Indian batsmen together scored 176 runs. If we denote the score of one batsman as x and the other as y, we can write the equation: x + y = 176. This is an example of a linear equation in two variables."
+            },
+            {
+              "type": "note",
+              "title": "General Form of Linear Equation in Two Variables",
+              "text": "Any equation that can be written in the form ax + by + c = 0, where a, b, and c are real numbers, and a and b are not both zero, is called a linear equation in two variables. The variables are customarily denoted by x and y, but other letters such as s, t, p, q, u, v may also be used."
+            },
+            {
+              "type": "example",
+              "title": "Examples of Linear Equations in Two Variables",
+              "content": "1. 2s + 3t = 5 can be written as 2s + 3t - 5 = 0\n2. p + 4q = 7 can be written as p + 4q - 7 = 0\n3. πu + 5v = 9 can be written as πu + 5v - 9 = 0\n4. √2x - 7y - 3 = 0 is already in the required form\n\nNote that the coefficients (a and b) can be rational, irrational, or involve mathematical constants like π."
+            }
+          ]
+        },
+        {
+          "topic_name": "Converting Equations to Standard Form",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Many linear equations in two variables are given in different forms. To identify them clearly and work with them systematically, it is useful to convert them to the standard form ax + by + c = 0. This involves rearranging terms so that all variables and constants appear on one side of the equation, and zero appears on the other side."
+            },
+            {
+              "type": "example",
+              "title": "Converting to Standard Form ax + by + c = 0",
+              "content": "(i) The equation 2x + 3y = 4.37 can be written as 2x + 3y - 4.37 = 0\n    Here: a = 2, b = 3, c = -4.37\n\n(ii) The equation x - 4 = √3y can be rewritten as:\n    x - √3y - 4 = 0\n    Here: a = 1, b = -√3, c = -4\n\n(iii) The equation 4 = 5x - 3y can be rewritten as:\n    5x - 3y - 4 = 0\n    Here: a = 5, b = -3, c = -4\n    Note: This can also be written as -5x + 3y + 4 = 0 with a = -5, b = 3, c = 4\n\n(iv) The equation 2x = y can be rewritten as:\n    2x - y + 0 = 0\n    Here: a = 2, b = -1, c = 0"
+            },
+            {
+              "type": "note",
+              "title": "Linear Equations in One Variable as Two-Variable Equations",
+              "text": "Equations of the type ax + b = 0 can also be expressed as linear equations in two variables: ax + 0·y + b = 0. For example, 4 - 3x = 0 can be written as -3x + 0·y + 4 = 0. This allows us to treat them as special cases of linear equations in two variables where the coefficient of y is zero."
+            },
+            {
+              "type": "example",
+              "title": "Writing One-Variable Equations in Two-Variable Form",
+              "content": "(i) x = -5 can be written as 1·x + 0·y + 5 = 0\n(ii) y = 2 can be written as 0·x + 1·y - 2 = 0\n(iii) 2x = 3 can be written as 2x + 0·y - 3 = 0\n(iv) 5y = 2 can be written as 0·x + 5y - 2 = 0"
+            }
+          ]
+        },
+        {
+          "topic_name": "Word Problems and Equation Formation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Linear equations in two variables are useful for expressing relationships between two unknowns mentioned in word problems. By identifying the two unknowns and the relationship between them, we can formulate an appropriate equation."
+            },
+            {
+              "type": "example",
+              "title": "Forming Equations from Word Problems",
+              "content": "Problem: The cost of a notebook is twice the cost of a pen. Write a linear equation in two variables.\n\nSolution: Let the cost of a pen be y rupees and the cost of a notebook be x rupees.\nAccording to the problem: x = 2y\nThis can be rewritten in standard form as: x - 2y = 0 or 1·x + (-2)·y + 0 = 0\nHere: a = 1, b = -2, c = 0"
+            },
+            {
+              "type": "note",
+              "title": "Key Points in Equation Formation",
+              "text": "When forming equations from word problems: (1) Identify the two unknowns clearly and assign variables. (2) Express the relationship between them as an equation. (3) Ensure the equation contains both variables (unless the relationship naturally involves only one). (4) Convert to standard form ax + by + c = 0 for clarity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "4.3 Solution of a Linear Equation in Two Variables",
+      "topics": [
+        {
+          "topic_name": "Understanding Solutions and Ordered Pairs",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Unlike linear equations in one variable which have a unique solution, a linear equation in two variables has infinitely many solutions. A solution to a linear equation in two variables is a pair of values—one for x and one for y—that satisfy the equation. These pairs are written as ordered pairs (x, y), where x is written first and y is written second."
+            },
+            {
+              "type": "example",
+              "title": "Identifying Solutions: 2x + 3y = 12",
+              "content": "Let us verify which ordered pairs are solutions:\n\n(1) Testing (3, 2):\n    2(3) + 3(2) = 6 + 6 = 12 ✓\n    So (3, 2) is a solution.\n\n(2) Testing (0, 4):\n    2(0) + 3(4) = 0 + 12 = 12 ✓\n    So (0, 4) is a solution.\n\n(3) Testing (6, 0):\n    2(6) + 3(0) = 12 + 0 = 12 ✓\n    So (6, 0) is a solution.\n\n(4) Testing (1, 4):\n    2(1) + 3(4) = 2 + 12 = 14 ≠ 12 ✗\n    So (1, 4) is NOT a solution.\n\nImportant: (0, 4) is a solution but (4, 0) is not. Order matters in ordered pairs!"
+            },
+            {
+              "type": "note",
+              "title": "Infinite Solutions",
+              "text": "A linear equation in two variables has infinitely many solutions. This is because for any value of x we choose, we can find a corresponding value of y that satisfies the equation. Similarly, for any value of y we choose, we can find a corresponding value of x. The set of all such solutions lies on a straight line when plotted on a Cartesian plane."
+            }
+          ]
+        },
+        {
+          "topic_name": "Methods for Finding Solutions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "There are systematic methods to find solutions of a linear equation in two variables. The most common approach is to choose a value for one variable and then solve the resulting linear equation in one variable to find the corresponding value of the other variable."
+            },
+            {
+              "type": "example",
+              "title": "Finding Solutions by Substitution Method",
+              "content": "Find four different solutions of the equation x + 2y = 6.\n\nMethod 1 - By Inspection:\nFor x = 2, y = 2: 2 + 2(2) = 2 + 4 = 6 ✓\nSolution: (2, 2)\n\nMethod 2 - Setting x = 0:\nx + 2y = 6\n0 + 2y = 6\ny = 3\nSolution: (0, 3)\n\nMethod 3 - Setting y = 0:\nx + 2y = 6\nx + 2(0) = 6\nx = 6\nSolution: (6, 0)\n\nMethod 4 - Setting y = 1:\nx + 2y = 6\nx + 2(1) = 6\nx + 2 = 6\nx = 4\nSolution: (4, 1)\n\nTherefore, four solutions are: (2, 2), (0, 3), (6, 0), and (4, 1)"
+            },
+            {
+              "type": "note",
+              "title": "Quick Solution Finding Strategy",
+              "text": "An easy way to find solutions is: (1) Put x = 0 and find the corresponding value of y. (2) Put y = 0 and find the corresponding value of x. These two solutions are obtained quickly and are often used as reference points."
+            },
+            {
+              "type": "example",
+              "title": "Finding Solutions for Different Forms",
+              "content": "(i) For 4x + 3y = 12:\n    When x = 0: 3y = 12 → y = 4, giving (0, 4)\n    When y = 0: 4x = 12 → x = 3, giving (3, 0)\n\n(ii) For 2x + 5y = 0:\n    When x = 0: 5y = 0 → y = 0, giving (0, 0)\n    When x = 1: 2(1) + 5y = 0 → 5y = -2 → y = -2/5, giving (1, -2/5)\n    Note: Setting y = 0 gives (0, 0) again, so we choose another value.\n\n(iii) For 3y + 4 = 0 (or 0·x + 3y + 4 = 0):\n    Solving: 3y = -4 → y = -4/3\n    This means y = -4/3 for ANY value of x.\n    Solutions: (0, -4/3), (1, -4/3), (2, -4/3), etc."
+            }
+          ]
+        },
+        {
+          "topic_name": "Relationship Between Solutions and Graphs",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When we plot all the solutions of a linear equation in two variables on a Cartesian plane (coordinate plane), they form a straight line. Conversely, every point on this line corresponds to a solution of the equation. This geometric representation helps us understand the nature of solutions visually."
+            },
+            {
+              "type": "note",
+              "title": "Graphical Representation of Solutions",
+              "text": "For a linear equation in two variables: (1) Every solution (x, y) is a point on the graph. (2) Every point on the graph is a solution of the equation. (3) The graph is a straight line. (4) Since the line contains infinitely many points, there are infinitely many solutions. (5) The line helps us visualize the relationship between the two variables."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Key Concepts and Important Observations",
+      "topics": [
+        {
+          "topic_name": "Checking if an Ordered Pair is a Solution",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To check whether a given ordered pair is a solution of a linear equation, substitute the x-value and y-value from the pair into the equation. If the equation is satisfied (both sides are equal), then the pair is a solution. If the equation is not satisfied, then the pair is not a solution."
+            },
+            {
+              "type": "example",
+              "title": "Verification Process",
+              "content": "Check if the following are solutions of x - 2y = 4:\n\n(i) (0, 2): Substitute x = 0, y = 2\n    0 - 2(2) = 0 - 4 = -4 ≠ 4 ✗ NOT a solution\n\n(ii) (2, 0): Substitute x = 2, y = 0\n    2 - 2(0) = 2 - 0 = 2 ≠ 4 ✗ NOT a solution\n\n(iii) (4, 0): Substitute x = 4, y = 0\n    4 - 2(0) = 4 - 0 = 4 ✓ IS a solution\n\n(iv) (√2, 4√2): Substitute x = √2, y = 4√2\n    √2 - 2(4√2) = √2 - 8√2 = -7√2 ≠ 4 ✗ NOT a solution\n    Wait, let me recalculate: √2 - 2(4√2) = √2 - 8√2 = (1-8)√2 = -7√2 ≠ 4 ✗\n\n(v) (1, 1): Substitute x = 1, y = 1\n    1 - 2(1) = 1 - 2 = -1 ≠ 4 ✗ NOT a solution"
+            }
+          ]
+        },
+        {
+          "topic_name": "Finding Unknown Coefficients Using Solutions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sometimes we are given that a certain ordered pair is a solution of an equation, and we need to find the value of an unknown constant in the equation. We do this by substituting the coordinates of the solution into the equation and solving for the unknown."
+            },
+            {
+              "type": "example",
+              "title": "Finding Unknown Coefficients",
+              "content": "Find the value of k if x = 2, y = 1 is a solution of 2x + 3y = k.\n\nSolution:\nSince (2, 1) is a solution, it must satisfy the equation.\nSubstitute x = 2 and y = 1:\n2(2) + 3(1) = k\n4 + 3 = k\nk = 7\n\nTherefore, the equation is 2x + 3y = 7, and the value of k is 7."
+            }
+          ]
+        },
+        {
+          "topic_name": "Important Notes on Linear Equations",
+          "content": [
+            {
+              "type": "note",
+              "title": "Nature of Coefficients",
+              "text": "The coefficients a, b, and c in the equation ax + by + c = 0 can be: (1) Positive or negative real numbers. (2) Rational or irrational numbers. (3) Integers or non-integers. (4) Include mathematical constants like π. The only restriction is that a and b cannot both be zero simultaneously, otherwise it would not be an equation in two variables."
+            },
+            {
+              "type": "note",
+              "title": "Multiple Representations",
+              "text": "A linear equation in two variables can be represented in different forms: (1) Standard form: ax + by + c = 0. (2) Rearranged form: ax + by = -c or other configurations. (3) One-variable form: When one variable has coefficient zero, like x = 5 or y = -3. All these forms represent the same equation and have the same solutions."
+            },
+            {
+              "type": "note",
+              "title": "Common Mistakes to Avoid",
+              "text": "(1) Forgetting the order in ordered pairs—(3, 2) is different from (2, 3). (2) Assuming a linear equation in two variables has a unique solution—it has infinitely many. (3) Not checking work when verifying solutions—always substitute back into the original equation. (4) Incorrectly rearranging terms when converting to standard form—be careful with signs."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Linear Equation in One Variable",
+      "definition": "An equation containing only one unknown quantity that can be written in the form ax + b = 0, where a and b are real numbers and a ≠ 0. It has exactly one solution."
+    },
+    {
+      "term": "Linear Equation in Two Variables",
+      "definition": "An equation containing two unknown quantities that can be written in the form ax + by + c = 0, where a, b, and c are real numbers, and a and b are not both zero."
+    },
+    {
+      "term": "Standard Form",
+      "definition": "The form ax + by + c = 0 of a linear equation in two variables, where all variables and constants appear on one side and zero on the other."
+    },
+    {
+      "term": "Solution",
+      "definition": "A pair of values (x, y) that satisfies the linear equation, meaning when substituted into the equation, both sides become equal."
+    },
+    {
+      "term": "Ordered Pair",
+      "definition": "A notation (x, y) for writing the solution of a linear equation in two variables, where the first value is the x-coordinate and the second value is the y-coordinate."
+    },
+    {
+      "term": "Infinite Solutions",
+      "definition": "The property that a linear equation in two variables has infinitely many solutions, forming a straight line on a Cartesian plane."
+    },
+    {
+      "term": "Coefficient",
+      "definition": "The number multiplying a variable in an equation. In ax + by + c = 0, the coefficients are a (coefficient of x) and b (coefficient of y)."
+    },
+    {
+      "term": "Variable",
+      "definition": "A symbol (typically x or y) representing an unknown quantity in an equation."
+    },
+    {
+      "term": "Cartesian Plane",
+      "definition": "A two-dimensional coordinate system used to plot points representing solutions of equations in two variables."
+    },
+    {
+      "term": "Graph of a Linear Equation",
+      "definition": "The visual representation of all solutions of a linear equation in two variables, which forms a straight line on the Cartesian plane."
+    }
+  ],
+  "summary_points": [
+    "A linear equation in two variables is any equation that can be written in the form ax + by + c = 0, where a, b, and c are real numbers and a and b are not both zero.",
+    "Linear equations in two variables can be formed to represent real-world relationships between two unknown quantities.",
+    "Every equation can be expressed in standard form ax + by + c = 0 by rearranging terms appropriately.",
+    "A solution of a linear equation in two variables is an ordered pair (x, y) that satisfies the equation when values are substituted.",
+    "Unlike linear equations in one variable, linear equations in two variables have infinitely many solutions.",
+    "Solutions can be found by choosing a value for one variable and solving for the other using methods appropriate for one-variable equations.",
+    "The easy method to find solutions is to set x = 0 (finding y-intercept) and y = 0 (finding x-intercept) to get two quick reference solutions.",
+    "When a linear equation in two variables is graphed on a Cartesian plane, all its solutions form a straight line.",
+    "Every point on the graph of a linear equation represents a solution, and every solution represents a point on the graph.",
+    "To verify if an ordered pair is a solution, substitute the values into the equation and check if both sides are equal.",
+    "Unknown coefficients or constants in equations can be found by using known solutions and solving the resulting one-variable equation.",
+    "The order of coordinates in an ordered pair is important: (3, 2) is different from (2, 3)."
+  ]
+}

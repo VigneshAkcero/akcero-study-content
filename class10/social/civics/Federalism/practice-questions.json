@@ -1,0 +1,220 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Social Science",
+    "chapter_name": "Federalism",
+    "chapter_number": 2
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is federalism?",
+      "answer": "Federalism is a system of government in which power is divided between a central authority and various constituent units of the country.",
+      "solution": "Federalism is defined as a system of government where power is shared between a national (central) government and several provincial or state governments. This structure ensures that both levels enjoy their power independently of each other."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Name the two main objectives of a federal system.",
+      "answer": "(1) To safeguard and promote the unity of the country, and (2) To accommodate regional diversity.",
+      "solution": "An ideal federal system has both mutual trust and an agreement to live together. Its dual objectives are to ensure national unity while respecting and integrating the diverse regional cultures and identities within the country."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What are the two types of routes through which federations have been formed?",
+      "answer": "'Coming together' federations and 'holding together' federations.",
+      "solution": "Federations are formed in two ways: (1) 'Coming together' where independent states pool sovereignty to form a bigger unit (e.g., USA), and (2) 'Holding together' where a large country divides power between the national government and constituent states (e.g., India)."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "How many tiers of government does India currently have?",
+      "answer": "Three tiers: the Union Government, State Governments, and local governments (Panchayats and Municipalities).",
+      "solution": "The Indian Constitution originally provided for a two-tier system of government. A third tier of federalism was added later in the form of Panchayats (rural) and Municipalities (urban) to achieve deeper decentralisation."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Which subjects are included in the 'Union List'?",
+      "answer": "Subjects of national importance like defence, foreign affairs, banking, communications, and currency.",
+      "solution": "The Union List includes subjects that require a uniform policy throughout the country. Only the Union Government has the power to make laws relating to the subjects mentioned in this list."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What is the 'State List'?",
+      "answer": "It contains subjects of state and local importance such as police, trade, commerce, agriculture, and irrigation.",
+      "solution": "The State List includes subjects that are relevant to local administration. The State Governments alone have the authority to make laws relating to the subjects mentioned in this list."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What are 'Union Territories' in the context of India?",
+      "answer": "Units of the Indian Union which are too small to be independent states and are run directly by the Central Government.",
+      "solution": "Union Territories (UTs) like Chandigarh, Lakshadweep, or Delhi do not have the powers of a full State. Due to their specific needs or size, the Central Government has special powers in administering these areas."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What was the purpose of creating 'Linguistic States' in India?",
+      "answer": "To ensure that people who spoke the same language lived in the same State.",
+      "solution": "Following Independence, the boundaries of old states were changed to create new ones based on language. This was the first major test for democratic politics in India, aimed at recognizing regional identities while maintaining national unity."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "How many languages are recognized as 'Scheduled Languages' in the Indian Constitution?",
+      "answer": "22 languages (excluding Hindi, which is the official language).",
+      "solution": "While Hindi is identified as the official language, the Indian Constitution recognizes 22 other languages in the Eighth Schedule to provide safeguards for linguistic diversity."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "What is decentralisation?",
+      "answer": "When power is taken away from Central and State governments and given to local government.",
+      "solution": "Decentralisation is a process of distributing administrative powers to local bodies like Panchayats and Municipalities. The goal is to solve local problems more effectively through direct participation of the people."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Distinguish between a unitary system and a federal system of government.",
+      "answer": "In a unitary system, there is only one level of government or sub-units are subordinate; in a federal system, power is divided between levels that are independent of each other.",
+      "solution": "Under the unitary system (like Sri Lanka), the national government has all powers and can order the state or provincial governments. In a federal system (like Belgium), the central government cannot order the state government to do something; states have powers of their own for which they are not answerable to the centre."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Why is the exact balance of power between the central and state governments different in 'Coming Together' and 'Holding Together' federations?",
+      "answer": "Because it depends on the historical context in which the federation was formed.",
+      "solution": "In 'Coming Together' federations (USA), independent states pool sovereignty to increase security, usually resulting in equal and strong powers for all states. In 'Holding Together' federations (India), a large country divides power, often resulting in a more powerful central government and unequal powers or special status for some states."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Explain the significance of the 'Concurrent List' in the Indian federal system.",
+      "answer": "It includes subjects of common interest to both levels of government; in case of a conflict, the law made by the Union Government prevails.",
+      "solution": "The Concurrent List (including education, forest, marriage) allows both Union and State governments to legislate. This ensures coordination on matters of mutual concern. To maintain national uniformity when necessary, the Constitution mandates that Union laws prevail if there is any disagreement between the two levels."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "What are 'Residuary Subjects'? Who has the power to make laws on them?",
+      "answer": "Subjects that do not fall in any of the three lists (like computer software); the Union Government has the power to legislate on them.",
+      "solution": "Residuary subjects are those that came up after the Constitution was made. According to the Indian Constitution, the Union Government is granted the authority to make laws on these subjects, ensuring that centralized control is maintained over emerging and unforeseen legislative areas."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Why is the share of power between the Union and State governments considered 'basic to the structure of the Constitution'?",
+      "answer": "Because it cannot be changed unilaterally by the Parliament; it requires a special majority and state ratification.",
+      "solution": "The power-sharing arrangement is protected by a rigid process. Any change must first be passed by both Houses of Parliament with a two-thirds majority and then be ratified by the legislatures of at least half of the total States. This prevents any one party or level of government from undermining the federal balance."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Discuss the role of the judiciary in overseeing the federal system in India.",
+      "answer": "The judiciary acts as an umpire; High Courts and the Supreme Court resolve disputes between different levels of government and interpret the Constitution.",
+      "solution": "The courts play a crucial role in maintaining the federal balance. They interpret constitutional provisions and procedures. If disputes arise regarding the division of powers or the exercise of authority, the judiciary's decisions are final and binding, ensuring that no tier exceeds its constitutional limits."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "How did the experience of forming 'Linguistic States' disprove the initial fears of national leaders?",
+      "answer": "Initial fears were that it would lead to disintegration, but it actually made the country more united and administration easier.",
+      "solution": "Many leaders initially resisted linguistic states, fearing a threat to national unity. However, the move recognized regional diversity, which satisfied regional aspirations. This actually reduced conflict and improved administrative efficiency by enabling governance in the language of the people."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "What is the 'Era of Coalition Governments'? How has it changed Centre-State relations?",
+      "answer": "A period post-1990 where no single party got a majority, leading to alliances; it fostered a new culture of power sharing and respect for state autonomy.",
+      "solution": "In the coalition era, national parties had to partner with regional parties to form a government at the Centre. This gave regional parties more leverage and resulted in a trend where the Central Government could no longer arbitrarily dismiss state governments, thereby strengthening the spirit of federalism."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Outline the rationale behind the third tier of government in India.",
+      "answer": "Local problems are best settled at the local level; it encourages direct participation and handles regional diversity within large states.",
+      "solution": "Large states in India are internally diverse and as large as European nations. Decentralisation recognizes that local people have better knowledge of local problems and can manage resources more efficiently. It also helps inculcate a habit of democratic participation among citizens."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "What major steps were taken in the 1992 constitutional amendment to make local government more powerful?",
+      "answer": "Mandatory regular elections, reservations for SC/ST/OBC and women, and the creation of the State Election Commission.",
+      "solution": "The 73rd and 74th amendments made it constitutionally mandatory to hold regular elections, reserved one-third of seats for women, and ensured reservations for marginalized groups. It also mandated that State governments share powers and revenue with local bodies, ensuring their financial and administrative viability."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Examine why the 'dual objectives' of a federal system are considered equally important for the stability of a nation.",
+      "answer": "Because ignoring unity leads to division, and ignoring diversity leads to conflict; an ideal system balances both through mutual trust and agreement.",
+      "solution": "A federation must safeguard unity to protect the nation from external and internal threats. Simultaneously, it must accommodate regional diversity to prevent groups from feeling alienated or suppressed. If either objective is neglected—for example, if a central government imposes uniformity (as in Sri Lanka)—it can lead to civil unrest and even the disintegration of the country. Thus, mutual trust between levels of government is the bedrock of a stable federation."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "Analyze the significance of Article 371 in the context of Indian federalism. Why do some states enjoy 'special status'?",
+      "answer": "Article 371 provides special powers to certain states due to peculiar social and historical circumstances, such as protecting land rights of indigenous peoples.",
+      "solution": "States like Assam, Nagaland, and Mizoram enjoy special powers to protect their unique culture and the land rights of their indigenous populations. This is a characteristic of 'Holding Together' federations, where the central government uses flexible arrangements to keep a diverse nation united. These special provisions acknowledge that a one-size-fits-all approach may not work for every region's historical and social needs."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "In a hypothetical scenario, the Government of Rajasthan opposes a nuclear test planned by the Central Government at Pokhran. Can Rajasthan prevent the test? Justify with constitutional reasoning.",
+      "answer": "No. Defence and nuclear policy fall under the Union List, and the Union Government has exclusive jurisdiction.",
+      "solution": "According to the Constitution, matters of national importance like defence and nuclear policy are in the Union List. The Union Government alone can make laws and take executive decisions on these subjects. Therefore, a state government like Rajasthan cannot prevent a national security policy (like conducting a nuclear test) even if it disagrees, as it falls outside the state's jurisdiction."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "A State Government wants to introduce new school textbooks, but the Union Government disapproves of the content. Does the state need permission to launch them? Explain using the concept of lists.",
+      "answer": "Education is in the Concurrent List; the state can make the law/textbooks, but if a central law on the same subject conflicts, the Union law prevails.",
+      "solution": "Since Education is a Concurrent List subject, both the Union and State governments can make laws. The state government can generally introduce its own textbooks. However, if there is a central legislation or national policy that conflicts with the state's content, the Union law will prevail. If no such conflicting central law exists, the state government is free to proceed within its jurisdiction."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Compare the language policy of India with that of Sri Lanka. How did India's approach help avoid ethnic conflict?",
+      "answer": "Sri Lanka adopted a majoritarian 'Sinhala only' policy, while India showed flexibility by not naming a national language and allowing English to continue for the sake of non-Hindi states.",
+      "solution": "Sri Lanka's policy of linguistic dominance led to a long civil war and ethnic strife. In contrast, Indian leaders adopted a cautious and inclusive approach. Although Hindi is the official language, the Constitution protects 22 scheduled languages and allowed the use of English to continue. This flexibility satisfied the demands of non-Hindi speaking states like Tamil Nadu and ensured that no single linguistic group felt superior or alienated, thereby preserving national unity."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Evaluate the statement: 'Federal power sharing is more effective today in India than it was in the early years after the Constitution came into force.'",
+      "answer": "True. The decline of single-party dominance and the rise of coalition governments post-1990 have fostered respect for state autonomy and a culture of power sharing.",
+      "solution": "For several decades after independence, the same party often ruled at both the Centre and in most States. This meant state governments rarely exercised their autonomous rights. The situation changed post-1990 with the rise of regional parties and coalition governments. National parties now depend on regional partners, making it difficult for the Centre to arbitrarily dismiss state governments. This political shift, coupled with supportive Supreme Court judgments, has made federal power-sharing more robust and practical today."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Why is the Gram Sabha called the decision-making body for the entire village? Discuss its supervisory role over the Gram Panchayat.",
+      "answer": "The Gram Sabha consists of all voters in a village; it approves the budget and reviews the performance of the Gram Panchayat.",
+      "solution": "The Gram Sabha is a form of direct democracy at the base level. Every voter in the village is a member. It must meet at least twice or thrice a year. Its supervisory role includes: (1) Approving the annual budget of the Gram Panchayat, and (2) Reviewing the work and performance of the elected ward members (panch) and the sarpanch. This ensures that the local government remains accountable to the people of the village."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "The chairperson of Zilla Parishad is the political head of the district's local government, but the district is administered by the DM or Collector. Is there a logical conflict here? Explain based on the text.",
+      "answer": "No. The Zilla Parishad represents elected local government, while the DM/Collector is an official who oversees day-to-day administration; both co-exist within the district tier.",
+      "solution": "The local government structure goes up to the district level. The Zilla Parishad is the representative body consisting of elected members, including MPs and MLAs. Its Chairperson is the elected political head. On the other hand, the District Magistrate (DM) or Collector is a permanent executive official of the government who ensures administrative implementation. This distinction between elected political heads and administrative officials is a common feature of democratic governance at all levels."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Assess the success and challenges of the decentralisation experiment in India since 1992.",
+      "answer": "Success: Largest experiment in democracy, 36 lakh representatives, increased women’s voice. Challenges: Irregular Gram Sabhas, lack of significant power transfer, and inadequate resource allocation.",
+      "solution": "Decentralisation has been a major success in deepening democracy, with over 36 lakh elected representatives in local bodies, which is larger than the population of many countries. It has significantly increased the representation and voice of women. However, major challenges remain: (1) Gram Sabhas are often not held regularly, (2) Most State governments have not transferred sufficient powers to local bodies, and (3) Inadequate financial resources are provided to local governments. Thus, while the system is in place, the ideal of self-government is yet to be fully realized."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "How does the 'umpire' role of the Supreme Court handle disputes between the Union and a State Government regarding taxation or revenue sharing?",
+      "answer": "The Court interprets constitutional provisions regarding revenue sources and ensures each level maintains its financial autonomy.",
+      "solution": "Financial autonomy is a key feature of federalism. The Constitution clearly specifies the independent sources of revenue for each level. If a dispute arises—for example, if one level of government claims a tax that belongs to the other—the Supreme Court acts as an independent umpire. It interprets the relevant constitutional clauses and delivers a binding judgment. This prevents either level from financially suffocating the other and ensures that both can carry out their assigned responsibilities."
+    }
+  ]
+}

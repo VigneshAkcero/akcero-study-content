@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Our Environment",
+    "chapter_number": 13
+  },
+  "summary": [
+    {
+      "category": "Ecosystem and its Components",
+      "points": [
+        "An ecosystem is a functional system of interacting biotic (living) and abiotic (non-living) components.",
+        "Organisms are classified as producers (food makers), consumers (food users), and decomposers (waste recyclers).",
+        "Natural ecosystems include forests and ponds, while gardens and aquariums are artificial ecosystems."
+      ]
+    },
+    {
+      "category": "Energy Flow and Food Webs",
+      "points": [
+        "The $10\\%$ energy transfer rule limits food chains to 3 or 4 levels, as energy diminishes progressively.",
+        "Energy flow is unidirectional—moving from sunlight to autotrophs to heterotrophs—and does not return to the source.",
+        "Food webs are complex networks of branching lines representing multiple feeding relationships in nature."
+      ]
+    },
+    {
+      "category": "Human Impact and Environment",
+      "points": [
+        "Biological magnification leads to the concentration of non-degradable chemicals (like pesticides) at higher trophic levels.",
+        "The ozone layer ($O_3$) shields life from harmful UV radiation but is depleted by synthetic chemicals like CFCs.",
+        "Waste is categorized into biodegradable (organic) and non-biodegradable (persistent), with disposal requiring careful management to prevent environmental damage."
+      ]
+    }
+  ]
+}

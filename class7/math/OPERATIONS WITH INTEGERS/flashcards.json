@@ -1,0 +1,310 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Operations with Integers",
+    "chapter_number": 2
+  },
+  "flashcards": [
+    {
+      "q": "Define an integer.",
+      "a": "An integer is a whole number that can be positive, negative, or zero. Examples: ..., -3, -2, -1, 0, 1, 2, 3, ..."
+    },
+    {
+      "q": "What is the additive inverse of an integer?",
+      "a": "The additive inverse of integer 'a' is '-a', such that a + (-a) = 0. For example, the additive inverse of 5 is -5."
+    },
+    {
+      "q": "State the relationship between subtraction and addition of integers.",
+      "a": "Subtracting an integer is equivalent to adding its additive inverse: a - b = a + (-b)."
+    },
+    {
+      "q": "What does the carrom coin model represent?",
+      "a": "A coin on a number line starting at 0. Rightward movement = positive integer, leftward movement = negative integer. Final position = sum of all movements."
+    },
+    {
+      "q": "What is a zero pair in the token model?",
+      "a": "A pair of one green token (+1) and one red token (-1) that together represent zero, since +1 and -1 cancel each other out."
+    },
+    {
+      "q": "Why do we use zero pairs when subtracting a larger number from a smaller number?",
+      "a": "To have enough tokens to remove. For example, to compute 7 - 18, we add 11 zero pairs to get 18 green tokens, then remove 18, leaving 11 red tokens (representing -11)."
+    },
+    {
+      "q": "State the sign rule for multiplying a positive and negative integer.",
+      "a": "Positive × Negative = Negative. Example: 5 × (-3) = -15."
+    },
+    {
+      "q": "State the sign rule for multiplying two negative integers.",
+      "a": "Negative × Negative = Positive. Example: (-5) × (-3) = 15."
+    },
+    {
+      "q": "What is the product of any integer and 1?",
+      "a": "The integer itself. 1 × a = a × 1 = a for any integer a. (Identity property of multiplication)"
+    },
+    {
+      "q": "What is the product of any integer and -1?",
+      "a": "The additive inverse of the integer. (-1) × a = -a. Example: (-1) × 7 = -7."
+    },
+    {
+      "q": "Define the commutative property of multiplication for integers.",
+      "a": "The order of operands does not affect the product: a × b = b × a for any integers a and b."
+    },
+    {
+      "q": "Define the associative property of multiplication for integers.",
+      "a": "The grouping of operands does not affect the product: (a × b) × c = a × (b × c) for any integers a, b, and c."
+    },
+    {
+      "q": "State the distributive property of multiplication over addition.",
+      "a": "a × (b + c) = (a × b) + (a × c) for any integers a, b, and c."
+    },
+    {
+      "q": "How do you determine the sign of a product with multiple negative integers?",
+      "a": "Count the negative factors. Even count → positive result. Odd count → negative result."
+    },
+    {
+      "q": "If a product has 4 negative factors, what is the sign of the result?",
+      "a": "Positive. Since 4 is even, the product is positive."
+    },
+    {
+      "q": "If a product has 5 negative factors, what is the sign of the result?",
+      "a": "Negative. Since 5 is odd, the product is negative."
+    },
+    {
+      "q": "What is division in terms of multiplication?",
+      "a": "Division is the inverse of multiplication. If b × c = a, then a ÷ b = c (where b ≠ 0)."
+    },
+    {
+      "q": "State the sign rule for dividing integers with the same sign.",
+      "a": "Same signs → Positive quotient. Example: (-20) ÷ (-4) = 5 and 20 ÷ 4 = 5."
+    },
+    {
+      "q": "State the sign rule for dividing integers with different signs.",
+      "a": "Different signs → Negative quotient. Example: (-20) ÷ 4 = -5 and 20 ÷ (-4) = -5."
+    },
+    {
+      "q": "What is the result of dividing zero by any non-zero integer?",
+      "a": "Always zero. 0 ÷ a = 0 for any non-zero integer a."
+    },
+    {
+      "q": "Is division commutative for integers?",
+      "a": "No. Division is not commutative. For example, 20 ÷ 4 = 5, but 4 ÷ 20 = 0.2 (not equal)."
+    },
+    {
+      "q": "Is division associative for integers?",
+      "a": "No. Division is not associative. For example, (16 ÷ 4) ÷ 2 = 2, but 16 ÷ (4 ÷ 2) = 8 (not equal)."
+    },
+    {
+      "q": "What is the order of operations (BODMAS) for integer expressions?",
+      "a": "Brackets/Parentheses first, then Multiplication and Division (left to right), then Addition and Subtraction (left to right)."
+    },
+    {
+      "q": "Simplify: (-3) + (-2)",
+      "a": "-5. Adding two negative numbers gives a negative result with magnitude = sum of magnitudes."
+    },
+    {
+      "q": "Simplify: (-3) - (-2)",
+      "a": "-1. This is (-3) + 2 = -1. Subtracting a negative is adding its additive inverse."
+    },
+    {
+      "q": "Simplify: 4 × (-6)",
+      "a": "-24. Positive × Negative = Negative."
+    },
+    {
+      "q": "Simplify: (-4) × (-6)",
+      "a": "24. Negative × Negative = Positive."
+    },
+    {
+      "q": "Simplify: (-12) ÷ 3",
+      "a": "-4. Negative ÷ Positive = Negative."
+    },
+    {
+      "q": "Simplify: (-12) ÷ (-3)",
+      "a": "4. Negative ÷ Negative = Positive."
+    },
+    {
+      "q": "What is (-1) × (-1) × (-1)?",
+      "a": "-1. Three negative factors (odd) → negative result. Magnitude: 1 × 1 × 1 = 1."
+    },
+    {
+      "q": "What is (-1) × (-1) × (-1) × (-1)?",
+      "a": "1. Four negative factors (even) → positive result. Magnitude: 1 × 1 × 1 × 1 = 1."
+    },
+    {
+      "q": "Write the formula for the commutative property of multiplication.",
+      "a": "a × b = b × a for any integers a and b."
+    },
+    {
+      "q": "Write the formula for the associative property of multiplication.",
+      "a": "(a × b) × c = a × (b × c) for any integers a, b, and c."
+    },
+    {
+      "q": "Write the formula for the distributive property.",
+      "a": "a × (b + c) = (a × b) + (a × c) for any integers a, b, and c."
+    },
+    {
+      "q": "What does 'magnitude' of an integer mean?",
+      "a": "The distance of a number from zero on the number line, always non-negative. The magnitude of both 5 and -5 is 5."
+    },
+    {
+      "q": "What is the dividend in the division expression 36 ÷ 6?",
+      "a": "36. The dividend is the number being divided."
+    },
+    {
+      "q": "What is the divisor in the division expression 36 ÷ 6?",
+      "a": "6. The divisor is the number by which we divide."
+    },
+    {
+      "q": "What is the quotient in the division expression 36 ÷ 6 = 6?",
+      "a": "6. The quotient is the result of division."
+    },
+    {
+      "q": "Can we divide any integer by zero?",
+      "a": "No. Division by zero is undefined in mathematics."
+    },
+    {
+      "q": "If a × b = 0, what can we conclude about a and b?",
+      "a": "At least one of them must be zero. Either a = 0 or b = 0 (or both)."
+    },
+    {
+      "q": "True or False: (-7) × 3 = 3 × (-7)",
+      "a": "True. Multiplication is commutative: both equal -21."
+    },
+    {
+      "q": "True or False: (10 ÷ 5) ÷ 2 = 10 ÷ (5 ÷ 2)",
+      "a": "False. Division is not associative. LHS = 1, RHS = 4."
+    },
+    {
+      "q": "Evaluate: (-2) × (3 + 4)",
+      "a": "-14. Using distributive property: (-2) × 7 = -14. Or: ((-2) × 3) + ((-2) × 4) = -6 + (-8) = -14."
+    },
+    {
+      "q": "What is the additive inverse of -15?",
+      "a": "15. The additive inverse of -15 is -(-15) = 15."
+    },
+    {
+      "q": "What integer, when multiplied by (-4), gives 36?",
+      "a": "-9. Since (-4) × (-9) = 36."
+    },
+    {
+      "q": "True or False: The product of an even number of negative integers is always positive.",
+      "a": "True. Even count of negative factors → positive product."
+    },
+    {
+      "q": "True or False: The product of an odd number of negative integers is always negative.",
+      "a": "True. Odd count of negative factors → negative product."
+    },
+    {
+      "q": "If x ÷ (-5) = 3, what is x?",
+      "a": "-15. Since (-5) × 3 = -15."
+    },
+    {
+      "q": "Simplify: (-8) - 6",
+      "a": "-14. This is (-8) + (-6) = -14."
+    },
+    {
+      "q": "Simplify: 5 - (-9)",
+      "a": "14. This is 5 + 9 = 14. Subtracting a negative equals adding its additive inverse."
+    },
+    {
+      "q": "What is the result of (-1) × any integer a?",
+      "a": "-a (the additive inverse of a). Example: (-1) × 10 = -10."
+    },
+    {
+      "q": "True or False: For any integer a, 1 × a = a",
+      "a": "True. Multiplying by 1 is the identity operation."
+    },
+    {
+      "q": "In the token model, what do green and red tokens represent?",
+      "a": "Green token = +1 (positive), Red token = -1 (negative)."
+    },
+    {
+      "q": "What is the result of adding a positive and its corresponding negative integer?",
+      "a": "Zero. For example, 7 + (-7) = 0. They are additive inverses."
+    },
+    {
+      "q": "Simplify: (-5) × (-2) × 3",
+      "a": "30. Two negative factors (even) → positive. Magnitude: 5 × 2 × 3 = 30."
+    },
+    {
+      "q": "Is the set of integers closed under multiplication?",
+      "a": "Yes. The product of any two integers is always an integer."
+    },
+    {
+      "q": "Is the set of integers closed under division?",
+      "a": "No. The division of two integers may not be an integer. Example: 5 ÷ 2 = 2.5 (not an integer)."
+    },
+    {
+      "q": "What does it mean that multiplication is commutative?",
+      "a": "The order in which we multiply two numbers does not change the product. a × b = b × a."
+    },
+    {
+      "q": "What does it mean that multiplication is associative?",
+      "a": "The way we group three numbers for multiplication does not change the product. (a × b) × c = a × (b × c)."
+    },
+    {
+      "q": "Evaluate: 0 × (-100)",
+      "a": "0. Zero times any integer is zero."
+    },
+    {
+      "q": "True or False: (-3) × 4 = -(3 × 4)",
+      "a": "True. Both equal -12."
+    },
+    {
+      "q": "If two integers have opposite signs and their product is negative, are they the same?",
+      "a": "Yes. Opposite signs always give a negative product."
+    },
+    {
+      "q": "What is the multiplicand in: 7 × (-8)?",
+      "a": "-8. The multiplicand is the number being multiplied."
+    },
+    {
+      "q": "What is the multiplier in: 7 × (-8)?",
+      "a": "7. The multiplier is the number that multiplies another."
+    },
+    {
+      "q": "Simplify using distributive property: 6 × (2 + (-5))",
+      "a": "-18. Using distributive property: (6 × 2) + (6 × (-5)) = 12 + (-30) = -18."
+    },
+    {
+      "q": "Can the result of a ÷ b be the same as b ÷ a?",
+      "a": "Only in special cases. For example, 4 ÷ 4 = 1 and 4 ÷ 4 = 1 are equal. In general, a ÷ b ≠ b ÷ a."
+    },
+    {
+      "q": "What integer, when added to -7, gives zero?",
+      "a": "7. Since -7 + 7 = 0, and 7 is the additive inverse of -7."
+    },
+    {
+      "q": "Is (-15) ÷ (-3) positive or negative?",
+      "a": "Positive. Negative ÷ Negative = Positive. Result: 5."
+    },
+    {
+      "q": "Is (-15) ÷ 3 positive or negative?",
+      "a": "Negative. Negative ÷ Positive = Negative. Result: -5."
+    },
+    {
+      "q": "True or False: The additive inverse of 0 is 0.",
+      "a": "True. The additive inverse of 0 is -0 = 0."
+    },
+    {
+      "q": "What is |-7|? (Absolute value / Magnitude)",
+      "a": "7. The magnitude of -7 is 7 (distance from zero)."
+    },
+    {
+      "q": "What is |0|?",
+      "a": "0. The magnitude of 0 is 0."
+    },
+    {
+      "q": "Evaluate: (-4) × (-3) ÷ (-2)",
+      "a": "-6. First: (-4) × (-3) = 12. Then: 12 ÷ (-2) = -6."
+    },
+    {
+      "q": "If a = -6 and b = 2, what is a × b?",
+      "a": "-12. (-6) × 2 = -12."
+    },
+    {
+      "q": "If a = -6 and b = 2, what is a ÷ b?",
+      "a": "-3. (-6) ÷ 2 = -3."
+    }
+  ]
+}

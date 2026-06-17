@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Some Applications of Trigonometry",
+    "chapter_number": 9
+  },
+  "summary": [
+    {
+      "category": "Line of Sight and Angles",
+      "points": [
+        "The line of sight is the straight line drawn from the observer's eye to the point on the object being viewed.",
+        "The angle of elevation is the angle between the line of sight and the horizontal when the object is above eye level; the angle of depression is when the object is below eye level.",
+        "Both angles of elevation and depression are measured from the horizontal line and form acute angles in right-angled triangles used for calculations."
+      ]
+    },
+    {
+      "category": "Solving Heights and Distances",
+      "points": [
+        "Trigonometric ratios (sin, cos, tan) are applied to right-angled triangles formed in height and distance problems to find unknown heights or distances.",
+        "The process involves drawing a diagram, identifying the right-angled triangle, selecting the appropriate trigonometric ratio based on known and unknown sides, and solving the resulting equation.",
+        "The observer's height must be accounted for when the observer is not at ground level; it is added to or subtracted from calculated vertical distances."
+      ]
+    },
+    {
+      "category": "Key Problem-Solving Techniques",
+      "points": [
+        "For single angle problems: use tan θ = opposite/adjacent when horizontal distance and angle are known to find height; use tan θ or sin θ when height and angle are known to find distance.",
+        "For multiple angle problems: set up separate equations from different angles and solve simultaneously to find multiple unknowns such as height and horizontal distance.",
+        "Alternate interior angles property shows that angle of elevation from one point equals angle of depression from another when both observe the same object along parallel horizontal lines."
+      ]
+    }
+  ]
+}

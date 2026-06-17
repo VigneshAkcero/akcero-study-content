@@ -1,0 +1,235 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Diversity in the Living World",
+    "chapter_number": 2
+  },
+  "notes": [
+    {
+      "section_title": "Understanding Biodiversity",
+      "topics": [
+        {
+          "topic_name": "What is Biodiversity?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Biodiversity refers to the variety of plants and animals found in a particular region. Every member played a different role, and plants and animals are deeply interdependent for food, shelter, and reproduction."
+            },
+            {
+              "type": "activity",
+              "id": "2.1",
+              "title": "A Nature Walk",
+              "procedure": [
+                "Observe plants, insects, birds, and animals in a park or forest.",
+                "Note features like stem type, leaf shape, flower colour, and animal movement.",
+                "Record observations in a structured table."
+              ],
+              "observation": "Nature is filled with diverse smells, sounds, and structures (grasses, bushes, trees)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Grouping Plants and Animals",
+      "topics": [
+        {
+          "topic_name": "The Importance of Grouping",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Grouping (classification) makes it easier to understand and study the world by organizing things based on similarities and differences."
+            },
+            {
+              "type": "activity",
+              "id": "2.3",
+              "title": "Sorting by Features",
+              "procedure": [
+                "Collect pictures of various plants and animals.",
+                "Group them based on common features like height, color, habitat, or movement."
+              ],
+              "conclusion": "Criteria for grouping can vary (e.g., someone might group by height, others by the presence of flowers)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "How to Group Plants?",
+      "topics": [
+        {
+          "topic_name": "Grouping by Height and Stem",
+          "content": [
+            {
+              "type": "table",
+              "headers": ["Group", "Height", "Stem Nature", "Branching", "Examples"],
+              "rows": [
+                ["Herbs", "Short", "Green and tender", "No thick wood", "Tomato, Wheat"],
+                ["Shrubs", "Medium", "Brown, hard but thin", "Branching near ground", "Rose, Hibiscus"],
+                ["Trees", "Tall", "Thick, hard, and woody", "Branching high up", "Mango, Neem"]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Other Forms",
+              "text": "Climbers use support to grow upwards, while Creepers spread along the ground."
+            }
+          ]
+        },
+        {
+          "topic_name": "Grouping by Leaf Venation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The pattern of veins on a leaf is called venation."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Reticulate Venation: Net-like pattern on both sides of a middle vein (e.g., Hibiscus, Chickpea).",
+                "Parallel Venation: Veins run parallel to each other (e.g., Banana, Grass, Wheat)."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Grouping by Roots",
+          "content": [
+            {
+              "type": "note",
+              "title": "Root Types",
+              "text": "Taproot: One main root with smaller side roots (e.g., Mustard). Fibrous Roots: A bunch of similar-sized thin roots (e.g., Grass)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Grouping by Seeds (Cotyledons)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Seeds can be grouped based on the number of cotyledons (seed leaves)."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Dicotyledons (Dicots): Seeds with two cotyledons (e.g., Chickpea/Chana).",
+                "Monocotyledons (Monocots): Seeds with one cotyledon (e.g., Maize)."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Important Corelations",
+              "text": "Dicots usually have reticulate venation and taproots. Monocots usually have parallel venation and fibrous roots."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "How to Group Animals?",
+      "topics": [
+        {
+          "topic_name": "Movement and Body Parts",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Animals use different body parts for movement (flying, running, crawling, hopping)."
+            },
+            {
+              "type": "table",
+              "headers": ["Animal", "Movement", "Body Part"],
+              "rows": [
+                ["Ant", "Walking", "Legs"],
+                ["Fish", "Swimming", "Fins"],
+                ["Pigeon", "Flying/Walking", "Wings/Legs"]
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Habitat-Based Grouping",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A habitat is the place where a plant or animal lives, providing food, water, air, and shelter."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Terrestrial: Land-dwelling (Forests, Deserts, Mountains).",
+                "Aquatic: Water-dwelling (Ponds, Oceans).",
+                "Amphibians: Live on both land and water (e.g., Frogs)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Adaptations in Different Surroundings",
+      "topics": [
+        {
+          "topic_name": "Survivor Features",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Adaptations are special features that enable survival in a specific region."
+            },
+            {
+              "type": "list",
+              "title": "Examples of Adaptations",
+              "items": [
+                "Desert: Fleshy stems (Cactus) to store water. Camels have long legs/wide hooves (hot) vs short legs/2 humps (cold).",
+                "Mountains: Conical shapes and sloping branches (Deodar) to let snow slide off.",
+                "Oceans: Streamlined bodies in fish for easy swimming."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Conservation and Success Stories",
+      "topics": [
+        {
+          "topic_name": "Notable Scientists",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Janaki Ammal was a botanist who documented plant biodiversity and led the 'Save Silent Valley' movement. Salim Ali (Birdman of India) extensively studied bird habitats and helped preserve regions like Keoladeo National Park."
+            }
+          ]
+        },
+        {
+          "topic_name": "Conservation Projects",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Project Tiger (1973): To protect declining Bengal Tiger populations.",
+                "Cheetah Reintroduction Project (2022).",
+                "Sacred Groves: Traditionally community-protected forest patches, rich in medicinal plants."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Biodiversity", "definition": "The variety of living organisms in a particular region." },
+    { "term": "Adapatation", "definition": "Special features that enable plants and animals to survive in a particular region." },
+    { "term": "Habitat", "definition": "The natural environment where a plant or animal lives." },
+    { "term": "Venation", "definition": "The pattern of veins on a leaf (parallel or reticulate)." },
+    { "term": "Cotyledon", "definition": "The part of a seed that provides food for the developing plant." },
+    { "term": "Sacred Grove", "definition": "A community-protected forest patch with religious or traditional significance." }
+  ],
+  "summary_points": [
+    "Nature is filled with a vast diversity of plants and animals that depend on each other.",
+    "Grouping based on features like stem type, leaf venation, and root structure helps categorize plants.",
+    "Animals are grouped based on their movements and habitats.",
+    "Adaptations are essential features that help organisms survive in extreme environments like deserts and mountains.",
+    "Habitat damage is a major cause of biodiversity loss, making conservation efforts (like Project Tiger and Sacred Groves) vital."
+  ]
+}

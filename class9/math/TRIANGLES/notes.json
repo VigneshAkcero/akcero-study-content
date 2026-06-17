@@ -1,0 +1,295 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Triangles",
+    "chapter_number": 7
+  },
+  "notes": [
+    {
+      "section_title": "7.1 Introduction",
+      "topics": [
+        {
+          "topic_name": "Basics of a Triangle",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A closed figure formed by three intersecting lines is called a triangle. The word 'Tri' means 'three'. A triangle has three sides, three angles, and three vertices."
+            },
+            {
+              "type": "paragraph",
+              "text": "For example, in triangle ABC, denoted as ΔABC, the line segments AB, BC, and CA are the three sides. The angles formed are ∠A, ∠B, and ∠C. The points of intersection A, B, and C are the three vertices."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "7.2 Congruence of Triangles",
+      "topics": [
+        {
+          "topic_name": "Congruent Figures",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Figures that have the identical shape and the identical size are known as congruent figures. The term 'congruent' means equal in all respects."
+            },
+            {
+              "type": "list",
+              "title": "Real-Life Examples of Congruence",
+              "items": [
+                "Two copies of photographs of the exact same size.",
+                "Two coins of the same denomination minted in the same year that cover each other completely.",
+                "Ice tray moulds designed identically to produce uniformly shaped ice cubes."
+              ]
+            },
+            {
+              "type": "activity",
+              "id": "7.1",
+              "title": "Superposition of Figures",
+              "procedure": [
+                "Draw two circles of the same radius.",
+                "Place one circle over the other."
+              ],
+              "observation": "They cover each other completely, establishing that they are congruent circles. The same logic applies to squares with equal side lengths or equilateral triangles with equal sides.",
+              "conclusion": "Figures that exactly superimpose on one another are congruent."
+            }
+          ]
+        },
+        {
+          "topic_name": "Congruence in Triangles",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Two triangles are congruent if the sides and angles of one triangle are equal to the corresponding sides and angles of the other triangle."
+            },
+            {
+              "type": "note",
+              "title": "Symbolic Representation",
+              "text": "If triangle PQR is congruent to triangle ABC, it is symbolically written as ΔPQR ≅ ΔABC."
+            },
+            {
+              "type": "paragraph",
+              "text": "The ordering of vertices is strictly mathematically significant. If ΔPQR ≅ ΔABC, it specifically means point P corresponds to A, Q to B, and R to C. Consequently, PQ covers AB, QR covers BC, and RP covers CA."
+            },
+            {
+              "type": "note",
+              "title": "CPCT",
+              "text": "In congruent triangles, corresponding parts are equal. This is universally abbreviated as 'CPCT' (Corresponding Parts of Congruent Triangles)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "7.3 Criteria for Congruence of Triangles",
+      "topics": [
+        {
+          "topic_name": "Axiom 7.1: SAS Congruence Rule",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statement: Two triangles are congruent if two sides and the included angle of one triangle are equal to the two sides and the included angle of the other triangle."
+            },
+            {
+              "type": "paragraph",
+              "text": "This property is accepted as universally true as an axiom since it cannot be cleanly proven with previously known geometric results."
+            },
+            {
+              "type": "note",
+              "title": "Importance of Included Angle",
+              "text": "For the SAS rule to hold, the equal angle strictly MUST be the angle trapped (included) between the two equal pairs of sides. Combinations like ASS or SSA do not guarantee congruence."
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 7.1: ASA Congruence Rule",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statement: Two triangles are congruent if two angles and the included side of one triangle are equal to two angles and the included side of the other triangle."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof approach (using SAS): To prove ΔABC ≅ ΔDEF given ∠B = ∠E, ∠C = ∠F, and BC = EF, three theoretical cases must be examined regarding the lengths of sides AB and DE."
+            },
+            {
+              "type": "list",
+              "title": "Proof Cases",
+              "items": [
+                "Case 1: Assume AB = DE. Here, alongside ∠B = ∠E and BC = EF, the triangles are proven congruent directly via the SAS axiom.",
+                "Case 2: Assume AB > DE. Take a point P on AB such that PB = DE. Congruence of ΔPBC and ΔDEF via SAS proves ∠PCB = ∠DFE, conflicting with the given ∠ACB = ∠DFE. This contradiction dictates P must strictly coincide with A, meaning AB must identically equal DE.",
+                "Case 3: Assume AB < DE. Following the inverse of the logic in Case 2, taking a point M on DE such that ME = AB results in the same conclusion: AB must equal DE."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "AAS Congruence Concept",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "If any two pairs of angles in two triangles are identically equal, the third pair must mathematically be equal due to the angle sum property of triangles (180°)."
+            },
+            {
+              "type": "note",
+              "title": "AAS Rule",
+              "text": "Therefore, two triangles are congruent if any two pairs of angles and one pair of corresponding sides are equal. This is an extension of the ASA rule, commonly known as AAS Congruence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "7.4 Some Properties of a Triangle",
+      "topics": [
+        {
+          "topic_name": "Isosceles Triangles",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A triangle in which exactly two of its sides are equal in length is formally classified as an isosceles triangle."
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 7.2: Angles Opposite to Equal Sides",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statement: Angles opposite to equal sides of an isosceles triangle are themselves equal."
+            },
+            {
+              "type": "list",
+              "title": "Proof Method",
+              "items": [
+                "Given ΔABC with AB = AC.",
+                "Draw an angle bisector from ∠A, letting it intersect side BC at point D.",
+                "Analyze ΔBAD and ΔCAD: AB = AC (given), ∠BAD = ∠CAD (construction), and AD = AD (common side).",
+                "By the SAS congruence axiom, ΔBAD ≅ ΔCAD.",
+                "As corresponding parts of congruent triangles (CPCT), ∠B = ∠C."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 7.3: Converse Property",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statement: The sides opposite to equal angles of a triangle are themselves equal."
+            },
+            {
+              "type": "paragraph",
+              "text": "This acts as the mathematical converse to Theorem 7.2. It can be logically proven using the previously established ASA congruence rule."
+            },
+            {
+              "type": "note",
+              "title": "Application to Equilateral Triangles",
+              "text": "Using these theorems, we can deduce that since all sides of an equilateral triangle are equal, all of its opposite angles are equal, resulting in each internal angle strictly measuring 60°."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "7.5 Some More Criteria for Congruence of Triangles",
+      "topics": [
+        {
+          "topic_name": "Theorem 7.4: SSS Congruence Rule",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statement: If three sides of one triangle are systematically equal to the three corresponding sides of another triangle, then the two triangles are definitively congruent."
+            },
+            {
+              "type": "paragraph",
+              "text": "Unlike triangles constructed with only three equal angles (which can vary in size indefinitely), triangles locked geometrically by three specified side lengths are entirely rigid, ensuring congruence."
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 7.5: RHS Congruence Rule",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statement: If in two right-angled triangles the hypotenuse and one side of one triangle are correspondingly equal to the hypotenuse and one side of the other triangle, then the two triangles are identically congruent."
+            },
+            {
+              "type": "note",
+              "title": "RHS Breakdown",
+              "text": "RHS specifically stands for Right angle - Hypotenuse - Side. This serves as an exception where the right angle does not need to be 'included' between the matched equal sides for congruence to strictly hold."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Triangle",
+      "definition": "A closed, two-dimensional geometric figure naturally formed by three distinct intersecting straight lines, possessing three sides, three interior angles, and three vertices."
+    },
+    {
+      "term": "Congruent Figures",
+      "definition": "Geometrical representations that are mathematically identical in both defining shape and absolute size. They coincide completely when accurately superimposed."
+    },
+    {
+      "term": "Correspondence",
+      "definition": "The exact one-to-one matching relationship defined between the specific vertices, angles, and sides of two geometric figures undergoing congruence consideration."
+    },
+    {
+      "term": "CPCT",
+      "definition": "A foundational abbreviation for 'Corresponding Parts of Congruent Triangles', establishing that corresponding sides and angles extracted from proven congruent triangles are completely equal."
+    },
+    {
+      "term": "Included Angle",
+      "definition": "The specific internal angle physically trapped or situated between two specified consecutive sides of a given polygon."
+    },
+    {
+      "term": "SAS (Side-Angle-Side)",
+      "definition": "A fundamental axiom denoting congruence given two identified sides and their precisely included interior angle."
+    },
+    {
+      "term": "ASA (Angle-Side-Angle)",
+      "definition": "A proven theorem designating congruence explicitly reliant on two separate given angles and their common inclusively matched side."
+    },
+    {
+      "term": "AAS (Angle-Angle-Side)",
+      "definition": "An extension theorem confirming congruence formed from two matched pairs of angles acting in correlation with one independent corresponding side length not trapped between them."
+    },
+    {
+      "term": "Isosceles Triangle",
+      "definition": "A categorized triangle that definitively contains at minimum two side lengths that are quantifiably equal."
+    },
+    {
+      "term": "Equilateral Triangle",
+      "definition": "An inherently symmetrical triangle defined intrinsically by holding exactly three side lengths uniformly equal to each other. Internally all corresponding angles uniformly measure exactly 60°."
+    },
+    {
+      "term": "SSS (Side-Side-Side)",
+      "definition": "A criterion enforcing absolute congruence fundamentally based purely on matching equality exclusively across all three respective pairs of sides."
+    },
+    {
+      "term": "RHS (Right angle - Hypotenuse - Side)",
+      "definition": "A structured congruence requirement applied restrictively exclusively to right-angled triangles, leaning on equivalence of their hypotenuse and any one of their straight legs."
+    },
+    {
+      "term": "Hypotenuse",
+      "definition": "The definitively longest individual side present in any right-angled triangle, permanently established directly opposite to the fixed right (90°) geometric angle."
+    }
+  ],
+  "summary_points": [
+    "Two geometric figures are completely congruent if they inherently hold precisely the same shape alongside exactly identically matching size distributions.",
+    "Two circles are definitively considered identically congruent provided they maintain completely matching equal radii measurements.",
+    "If two separate triangles, ABC and PQR, represent congruence properly aligned using correspondence A ↔ P, B ↔ Q, and C ↔ R, the mathematical expression symbolically noted is ΔABC ≅ ΔPQR.",
+    "The SAS Congruence Rule dictates that absolute triangle congruence exists if two given sides alongside their direct included angle respectively mirror exactly on a second corresponding triangle model.",
+    "The ASA Congruence Theorem requires exact equality extending specifically across two unique internal angles and their inherently shared joining segment.",
+    "Driven purely out of internal angle geometric sums scaling strictly towards 180°, the AAS Congruence strategy confirms a matching relationship off two loose angles paired to an isolated side length.",
+    "The angles positioned physically directly opposite corresponding equal length sides within any categorized triangle systematically maintain true equal measurement spans.",
+    "Conversely, straight length segments located directly across completely identically equal scaled angles universally balance identically equivalent to one another.",
+    "By systemic definition tied to equal side structuring, every single internal corner of an exactly classified equilateral triangle rigidly forms a 60° corner separation exclusively.",
+    "The SSS rule enforces a strict geometric duplication specifically where completely verified matched tracking coordinates pair all three line segment measurements evenly over both referenced triangles identically.",
+    "The RHS Congruence system establishes explicit rigid structural equivalency across right-oriented geometries by matching purely the primary expansive hypotenuse coupled with one distinct matching directional side."
+  ]
+}

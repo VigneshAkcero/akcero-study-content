@@ -1,0 +1,220 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Linear Equations in Two Variables",
+    "chapter_number": 4
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is a linear equation in two variables? Write the general form.",
+      "answer": "A linear equation in two variables is an equation that contains two unknown quantities. The general form is ax + by + c = 0, where a, b, and c are real numbers and a and b are not both zero.",
+      "solution": "A linear equation in two variables must have exactly two variables (usually x and y) and when both variables appear with power 1, and the equation can be arranged in the form ax + by + c = 0. The conditions are: (1) a, b, c are real numbers, (2) a and b cannot both be zero (otherwise there would be no two variables). If both a and b are zero, the equation becomes c = 0, which is either always true or always false, not an equation in two variables."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Convert the equation 3x + 4y = 12 into the form ax + by + c = 0 and identify the values of a, b, and c.",
+      "answer": "3x + 4y - 12 = 0; a = 3, b = 4, c = -12",
+      "solution": "Starting with 3x + 4y = 12, we rearrange by moving all terms to one side: 3x + 4y - 12 = 0. Comparing with ax + by + c = 0: a = 3 (coefficient of x), b = 4 (coefficient of y), c = -12 (the constant term)."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Check whether the ordered pair (2, 3) is a solution of the equation 2x + y = 7.",
+      "answer": "Yes, (2, 3) is a solution because substituting x = 2 and y = 3 gives 2(2) + 3 = 4 + 3 = 7, which satisfies the equation.",
+      "solution": "To verify if (2, 3) is a solution, substitute x = 2 and y = 3 into the equation 2x + y = 7. Left side: 2(2) + 3 = 4 + 3 = 7. Right side: 7. Since left side = right side, the ordered pair (2, 3) is a solution of the equation."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Is (1, 1) a solution of the equation x + 2y = 5? Show your work.",
+      "answer": "No, (1, 1) is not a solution because substituting x = 1 and y = 1 gives 1 + 2(1) = 3 ≠ 5.",
+      "solution": "To check if (1, 1) is a solution of x + 2y = 5, substitute x = 1 and y = 1: 1 + 2(1) = 1 + 2 = 3. Since 3 ≠ 5, the equation is not satisfied. Therefore, (1, 1) is not a solution of x + 2y = 5."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Write the equation x = 5 as a linear equation in two variables.",
+      "answer": "x = 5 can be written as 1·x + 0·y - 5 = 0 or 1·x + 0·y = 5 or simply x + 0·y = 5.",
+      "solution": "The equation x = 5 contains only one variable explicitly. To write it as a linear equation in two variables, we include y with coefficient 0. This gives: 1·x + 0·y = 5, which in standard form is x + 0·y - 5 = 0. Here a = 1, b = 0, c = -5. Note that the coefficient of y is 0, which is allowed since a and b are not both zero."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Find one solution of the equation 2x + 3y = 12 by setting x = 0.",
+      "answer": "When x = 0: 2(0) + 3y = 12, so 3y = 12, giving y = 4. The solution is (0, 4).",
+      "solution": "To find a solution by setting x = 0: Substitute x = 0 into 2x + 3y = 12: 2(0) + 3y = 12, which simplifies to 3y = 12. Dividing both sides by 3: y = 4. Therefore, the ordered pair (0, 4) is a solution of the equation. We can verify: 2(0) + 3(4) = 0 + 12 = 12 ✓"
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Find one solution of the equation x + y = 10 by setting y = 0.",
+      "answer": "When y = 0: x + 0 = 10, so x = 10. The solution is (10, 0).",
+      "solution": "To find a solution by setting y = 0: Substitute y = 0 into x + y = 10: x + 0 = 10, which simplifies to x = 10. Therefore, the ordered pair (10, 0) is a solution. Verification: 10 + 0 = 10 ✓"
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "How many solutions does a linear equation in two variables have?",
+      "answer": "A linear equation in two variables has infinitely many solutions.",
+      "solution": "Unlike a linear equation in one variable which has a unique solution, a linear equation in two variables has infinitely many solutions. This is because for any value of x we choose, we can find a corresponding value of y that satisfies the equation, and vice versa. When plotted on a Cartesian plane, all these solutions form a straight line containing infinitely many points."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Convert y = 3x - 5 into the standard form ax + by + c = 0 and identify a, b, c.",
+      "answer": "-3x + y + 5 = 0 or 3x - y - 5 = 0; if using -3x + y + 5 = 0, then a = -3, b = 1, c = 5; if using 3x - y - 5 = 0, then a = 3, b = -1, c = -5.",
+      "solution": "Starting with y = 3x - 5, we rearrange to bring all terms to one side: y - 3x + 5 = 0, which can be written as -3x + y + 5 = 0. Comparing with ax + by + c = 0: a = -3, b = 1, c = 5. Alternatively, multiplying by -1 gives 3x - y - 5 = 0 with a = 3, b = -1, c = -5. Both forms are correct representations of the same equation."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Find two solutions of the equation 2x + 3y = 18 by finding the x-intercept and y-intercept.",
+      "answer": "x-intercept (when y = 0): 2x = 18, so x = 9. Solution: (9, 0). y-intercept (when x = 0): 3y = 18, so y = 6. Solution: (0, 6).",
+      "solution": "For the x-intercept, set y = 0: 2x + 3(0) = 18 → 2x = 18 → x = 9. So one solution is (9, 0). For the y-intercept, set x = 0: 2(0) + 3y = 18 → 3y = 18 → y = 6. So another solution is (0, 6). These intercepts are quick reference points and give us two distinct solutions of the equation."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Find three different solutions of the equation x + 2y = 8.",
+      "answer": "When x = 0: y = 4, giving (0, 4). When y = 0: x = 8, giving (8, 0). When x = 2: y = 3, giving (2, 3).",
+      "solution": "Solution 1 (y-intercept): Set x = 0: 0 + 2y = 8 → y = 4. Solution: (0, 4).\nSolution 2 (x-intercept): Set y = 0: x + 0 = 8 → x = 8. Solution: (8, 0).\nSolution 3 (choosing x = 2): Substitute x = 2: 2 + 2y = 8 → 2y = 6 → y = 3. Solution: (2, 3).\nVerification: (0, 4): 0 + 2(4) = 8 ✓; (8, 0): 8 + 0 = 8 ✓; (2, 3): 2 + 2(3) = 8 ✓"
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Determine whether the points (3, 1), (0, 5), and (6, -1) are solutions of 2x - y = 5.",
+      "answer": "(3, 1): 2(3) - 1 = 5 ✓ is a solution. (0, 5): 2(0) - 5 = -5 ≠ 5 ✗ not a solution. (6, -1): 2(6) - (-1) = 13 ≠ 5 ✗ not a solution.",
+      "solution": "Check (3, 1): 2(3) - 1 = 6 - 1 = 5. Since 5 = 5, (3, 1) is a solution.\nCheck (0, 5): 2(0) - 5 = 0 - 5 = -5. Since -5 ≠ 5, (0, 5) is not a solution.\nCheck (6, -1): 2(6) - (-1) = 12 + 1 = 13. Since 13 ≠ 5, (6, -1) is not a solution.\nTherefore, only (3, 1) is a solution of the equation 2x - y = 5."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Express the statement 'The sum of two numbers is 15' as a linear equation in two variables.",
+      "answer": "Let the two numbers be x and y. The equation is x + y = 15 or in standard form x + y - 15 = 0.",
+      "solution": "The problem mentions two unknown numbers. Let x represent the first number and y represent the second number. The statement 'the sum of two numbers is 15' means x + y = 15. This is a linear equation in two variables with a = 1, b = 1, c = -15 (in standard form x + y - 15 = 0). Note that this equation has infinitely many solutions, such as (0, 15), (5, 10), (7, 8), etc."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Express as a linear equation: 'One number is 3 times another number.'",
+      "answer": "Let x and y be the two numbers. The equation is x = 3y or in standard form x - 3y = 0.",
+      "solution": "Let x be one number and y be the other number. The statement 'one number is 3 times another' means x = 3y. This can be rewritten as x - 3y = 0 in standard form, where a = 1, b = -3, c = 0. Some solutions include (0, 0), (3, 1), (6, 2), (-3, -1), etc."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Find the value of k if (2, -1) is a solution of 3x + ky = 4.",
+      "answer": "Substituting (2, -1): 3(2) + k(-1) = 4 → 6 - k = 4 → k = 2.",
+      "solution": "Since (2, -1) is a solution of 3x + ky = 4, the coordinates must satisfy the equation. Substitute x = 2 and y = -1: 3(2) + k(-1) = 4 → 6 - k = 4 → -k = -2 → k = 2. Verification: With k = 2, the equation is 3x + 2y = 4. Check: 3(2) + 2(-1) = 6 - 2 = 4 ✓"
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "If (4, m) is a solution of x - 2y = 0, find the value of m.",
+      "answer": "Substituting (4, m): 4 - 2m = 0 → 2m = 4 → m = 2.",
+      "solution": "Since (4, m) is a solution of x - 2y = 0, substitute x = 4 and y = m: 4 - 2m = 0. Solving for m: 2m = 4 → m = 2. Therefore, the ordered pair is (4, 2). Verification: 4 - 2(2) = 4 - 4 = 0 ✓"
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Can 2x + 3y - 5 = 0 be represented as a linear equation in two variables? Explain why or why not.",
+      "answer": "Yes, it is a linear equation in two variables because it is in the form ax + by + c = 0 with a = 2, b = 3, c = -5, and a and b are not both zero.",
+      "solution": "The equation 2x + 3y - 5 = 0 matches the general form ax + by + c = 0 where a = 2, b = 3, and c = -5. Since both variables x and y appear with power 1, and a and b are not both zero (a = 2 ≠ 0 and b = 3 ≠ 0), this is indeed a valid linear equation in two variables. It represents a straight line on the Cartesian plane with infinitely many solutions."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Is 0·x + 0·y + 3 = 0 a linear equation in two variables? Justify your answer.",
+      "answer": "No, it is not a linear equation in two variables because a = 0 and b = 0, violating the condition that a and b cannot both be zero.",
+      "solution": "For an equation ax + by + c = 0 to be a linear equation in two variables, we require that a and b are not both zero. In the equation 0·x + 0·y + 3 = 0, we have a = 0 and b = 0, which means both coefficients are zero. This simplifies to 3 = 0, which is a contradiction and not a valid equation. Therefore, this does not represent a linear equation in two variables."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "A student claims that (5, 2) is a solution of both x + 2y = 9 and 2x - y = 8. Verify this claim and explain your reasoning.",
+      "answer": "For x + 2y = 9: 5 + 2(2) = 5 + 4 = 9 ✓. For 2x - y = 8: 2(5) - 2 = 10 - 2 = 8 ✓. Yes, (5, 2) is a solution of both equations.",
+      "solution": "To verify the claim, substitute x = 5 and y = 2 into each equation.\nFor equation 1 (x + 2y = 9): 5 + 2(2) = 5 + 4 = 9 ✓ The equation is satisfied.\nFor equation 2 (2x - y = 8): 2(5) - 2 = 10 - 2 = 8 ✓ The equation is satisfied.\nSince (5, 2) satisfies both equations, it is indeed a solution of both. This means (5, 2) is a common solution or intersection point of these two linear equations."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Show that the equation x + y - 7 = 0 and 2x + 2y - 14 = 0 have the same set of solutions.",
+      "answer": "The second equation is 2 times the first equation. Since multiplying an equation by a non-zero constant does not change its solutions, both equations have the same set of solutions.",
+      "solution": "First equation: x + y - 7 = 0 or x + y = 7.\nSecond equation: 2x + 2y - 14 = 0. Dividing by 2: x + y - 7 = 0.\nWe see that the second equation is 2 times the first equation. By the property of equations, multiplying both sides by a non-zero constant (here, 2) does not change the solution set. Any ordered pair (x, y) that satisfies x + y = 7 will also satisfy 2x + 2y = 14, and vice versa. Therefore, both equations have identical sets of solutions: all points of the form (a, 7-a) where a is any real number."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Consider the equation ax + by = 12. If (3, 2) and (6, 0) are both solutions, find the values of a and b.",
+      "answer": "From (3, 2): 3a + 2b = 12. From (6, 0): 6a = 12, so a = 2. Substituting a = 2 in first equation: 3(2) + 2b = 12 → 6 + 2b = 12 → b = 3.",
+      "solution": "Since (3, 2) is a solution: 3a + 2b = 12 ... (1)\nSince (6, 0) is a solution: 6a + 0·b = 12 → 6a = 12 → a = 2 ... (2)\nSubstituting a = 2 into equation (1): 3(2) + 2b = 12 → 6 + 2b = 12 → 2b = 6 → b = 3.\nTherefore, a = 2 and b = 3, making the equation 2x + 3y = 12.\nVerification: (3, 2): 2(3) + 3(2) = 6 + 6 = 12 ✓; (6, 0): 2(6) + 3(0) = 12 + 0 = 12 ✓"
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "If the equation 3x + py + 6 = 0 has (2, -4) as a solution, find p. Then, identify another solution by setting x = 0.",
+      "answer": "Substituting (2, -4): 3(2) + p(-4) + 6 = 0 → 6 - 4p + 6 = 0 → 12 - 4p = 0 → p = 3. The equation is 3x + 3y + 6 = 0. When x = 0: 3(0) + 3y + 6 = 0 → 3y = -6 → y = -2. Another solution is (0, -2).",
+      "solution": "Step 1: Find p by using the given solution (2, -4).\nSubstitute x = 2, y = -4 into 3x + py + 6 = 0:\n3(2) + p(-4) + 6 = 0\n6 - 4p + 6 = 0\n12 - 4p = 0\n4p = 12\np = 3\n\nStep 2: The equation becomes 3x + 3y + 6 = 0.\n\nStep 3: Find another solution by setting x = 0:\n3(0) + 3y + 6 = 0\n3y + 6 = 0\n3y = -6\ny = -2\n\nAnother solution is (0, -2).\nVerification: 3(0) + 3(-2) + 6 = 0 - 6 + 6 = 0 ✓"
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Prove that infinitely many solutions exist for the equation 2x + 3y = 15 by providing a general form for all solutions.",
+      "answer": "For any real number t, the ordered pair (t, (15 - 2t)/3) is a solution. As t can take infinitely many values, there are infinitely many solutions.",
+      "solution": "To show infinitely many solutions exist, we can express y in terms of a parameter t.\nStarting with 2x + 3y = 15:\nLet x = t, where t is any real number.\nSubstituting into the equation: 2t + 3y = 15\n3y = 15 - 2t\ny = (15 - 2t)/3\n\nFor each value of t (which can be any real number), we get a unique value of y, giving us an ordered pair (t, (15 - 2t)/3).\n\nExamples:\n- When t = 0: (0, 5) [Since y = (15 - 0)/3 = 5]\n- When t = 3: (3, 3) [Since y = (15 - 6)/3 = 3]\n- When t = 6: (6, 1) [Since y = (15 - 12)/3 = 1]\n- When t = -3: (-3, 7) [Since y = (15 + 6)/3 = 7]\n\nSince t can be any real number and there are infinitely many real numbers, there are infinitely many solutions. This geometric representation shows that all these solutions lie on the straight line 2x + 3y = 15."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Compare the equations x + y = 5 and x - y = 5. Without plotting, explain why they must have different solution sets.",
+      "answer": "For x + y = 5, some solutions are (0, 5), (5, 0), (2, 3). For x - y = 5, some solutions are (5, 0), (6, 1), (7, 2). The solution sets are different because the relationships between x and y are different in each equation.",
+      "solution": "In the first equation x + y = 5, the two variables have coefficients of the same sign and same magnitude.\nIn the second equation x - y = 5, the coefficients have opposite signs.\n\nLet's find specific solutions:\nFor x + y = 5: Setting y = 0 gives x = 5, so (5, 0) is a solution. Setting x = 0 gives y = 5, so (0, 5) is a solution.\nFor x - y = 5: Setting y = 0 gives x = 5, so (5, 0) is a solution. Setting x = 0 gives -y = 5, so y = -5, giving (0, -5).\n\nNotice that (0, 5) is a solution of the first equation but not the second (since 0 - 5 = -5 ≠ 5).\nAlso, (0, -5) is a solution of the second equation but not the first (since 0 + (-5) = -5 ≠ 5).\n\nSince the two equations have different coefficient relationships, they represent two different lines on the Cartesian plane, hence they have different solution sets. The only common solution is (5, 0)."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Given the equation px + 3y + 6 = 0, if both (1, -2) and (0, -2) are solutions, find the value of p and determine if this is consistent.",
+      "answer": "From (0, -2): 0 + 3(-2) + 6 = 0 → -6 + 6 = 0 ✓. From (1, -2): p + 3(-2) + 6 = 0 → p - 6 + 6 = 0 → p = 0. However, if p = 0, then b = 3 ≠ 0, which is acceptable. The equation becomes 0·x + 3y + 6 = 0 or 3y + 6 = 0, which has all points of form (x, -2) as solutions for any x.",
+      "solution": "Check (0, -2) in px + 3y + 6 = 0:\np(0) + 3(-2) + 6 = 0\n0 - 6 + 6 = 0\n0 = 0 ✓ This is satisfied for any value of p.\n\nCheck (1, -2) in px + 3y + 6 = 0:\np(1) + 3(-2) + 6 = 0\np - 6 + 6 = 0\np = 0\n\nSo p = 0, and the equation becomes 0·x + 3y + 6 = 0 or 3y + 6 = 0.\n\nThis is a valid linear equation in two variables because a = 0 and b = 3, and they are not both zero (b ≠ 0).\n\nThe equation 3y + 6 = 0 simplifies to y = -2, which means every point of the form (x, -2) for any real number x is a solution. This is consistent with both (1, -2) and (0, -2) being solutions. In fact, infinitely many solutions exist: (-1, -2), (0, -2), (1, -2), (2, -2), etc."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "For the equation 2x - 3y = k, find three different values of k such that (2, 1) becomes a solution for each.",
+      "answer": "There is only one value of k: Substituting (2, 1): 2(2) - 3(1) = k → 4 - 3 = k → k = 1. An ordered pair can be a solution for only one value of k.",
+      "solution": "For a given ordered pair to be a solution of an equation of the form 2x - 3y = k, there is only one corresponding value of k.\n\nSubstitute (2, 1):\n2(2) - 3(1) = k\n4 - 3 = k\nk = 1\n\nTherefore, (2, 1) is a solution of 2x - 3y = 1, but not for any other value of k.\n\nThis demonstrates an important principle: a linear equation ax + by = k can be thought of as a family of parallel lines (for different values of k). The point (2, 1) lies on exactly one line in this family—the line 2x - 3y = 1.\n\nNote: The question seems to assume multiple values are possible, but mathematically, an ordered pair determines a unique value of k in the equation 2x - 3y = k."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Explain why the equation x² + y = 5 is NOT a linear equation in two variables despite containing two variables.",
+      "answer": "It is not a linear equation because the variable x appears with power 2 (x²), not power 1. Linear equations must have all variables with power 1.",
+      "solution": "A linear equation in two variables must satisfy the condition that both variables appear with power 1. In the equation x² + y = 5, the variable x has power 2, making it a quadratic equation in x and a linear equation in y combined, not a linear equation in two variables.\n\nThe general form of a linear equation in two variables is ax + by + c = 0, where both x and y appear with exponent 1.\n\nExamples of what makes an equation non-linear:\n- x² + y = 5 (x has power 2)\n- x + y² = 5 (y has power 2)\n- xy + 3 = 0 (product of variables)\n- 1/x + y = 5 (x in denominator, which means negative power)\n\nTherefore, x² + y = 5 is a non-linear equation in two variables, specifically a quadratic equation."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Given two solutions of an equation: (0, 4) and (4, 0). Determine if the equation could be x + y = 4. Verify and explain.",
+      "answer": "Yes, the equation x + y = 4 has both (0, 4) and (4, 0) as solutions. Verification: (0, 4): 0 + 4 = 4 ✓. (4, 0): 4 + 0 = 4 ✓.",
+      "solution": "To determine if x + y = 4 is consistent with the given solutions:\n\nVerify (0, 4): Substitute x = 0, y = 4: 0 + 4 = 4 ✓\nVerify (4, 0): Substitute x = 4, y = 0: 4 + 0 = 4 ✓\n\nBoth solutions satisfy the equation. In fact, for any linear equation in two variables, once we know two distinct solutions, the equation is uniquely determined (assuming the equation contains both variables).\n\nGeometrically, two distinct points determine a unique line. The points (0, 4) and (4, 0) lie on the line x + y = 4. The intercepts are: y-intercept at (0, 4) and x-intercept at (4, 0), which are exactly the given points.\n\nThis is a useful method to find equations: if you know two solutions, you can either (1) find the equation algebraically using simultaneous equations, or (2) verify if a proposed equation matches the solutions."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "The equation ax + 3y = 6 passes through points (0, 2) and (3, 0). Find the value of a and verify both points are solutions.",
+      "answer": "From (0, 2): a(0) + 3(2) = 6 → 6 = 6 ✓ (satisfied for any a). From (3, 0): a(3) + 3(0) = 6 → 3a = 6 → a = 2. The equation is 2x + 3y = 6. Verification: (0, 2): 2(0) + 3(2) = 6 ✓; (3, 0): 2(3) + 3(0) = 6 ✓.",
+      "solution": "To find a, use the given solutions:\n\nUsing point (0, 2):\na(0) + 3(2) = 6\n0 + 6 = 6\nThis is an identity true for all values of a.\n\nUsing point (3, 0):\na(3) + 3(0) = 6\n3a = 6\na = 2\n\nTherefore, a = 2, and the equation is 2x + 3y = 6.\n\nVerification:\n- For (0, 2): 2(0) + 3(2) = 0 + 6 = 6 ✓\n- For (3, 0): 2(3) + 3(0) = 6 + 0 = 6 ✓\n\nNote: The first solution (0, 2) is the y-intercept, and the second solution (3, 0) is the x-intercept. Both intercepts are key reference points for linear equations."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Analyze the equation 0·x + by + c = 0. What type of line does it represent on the Cartesian plane? Give an example.",
+      "answer": "It represents a horizontal line because x has coefficient 0, meaning y is constant regardless of x value. Example: 0·x + 2y - 8 = 0 simplifies to y = 4, a horizontal line parallel to the x-axis.",
+      "solution": "For the equation 0·x + by + c = 0 where b ≠ 0 (to ensure it's a valid linear equation in two variables):\n\nRearranging: by + c = 0\nby = -c\ny = -c/b\n\nThis means y is a constant value regardless of what x is. On the Cartesian plane, this represents a horizontal line at a constant y-value.\n\nExample: Consider 0·x + 2y - 8 = 0\n2y = 8\ny = 4\n\nThis is a horizontal line passing through y = 4. Every point on this line has the form (x, 4) for any real number x.\nSolutions include: (-2, 4), (0, 4), (1, 4), (5, 4), etc.\n\nSimilarly, if we had the equation ax + 0·y + c = 0 where a ≠ 0, it would represent a vertical line at constant x-value.\n\nThese special cases illustrate how linear equations in two variables can reduce to one variable when one coefficient is zero."
+    }
+  ]
+}

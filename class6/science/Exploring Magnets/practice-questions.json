@@ -1,0 +1,185 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Exploring Magnets",
+    "chapter_number": 4
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What are naturally occurring magnets called?",
+      "answer": "Lodestones.",
+      "solution": "Naturally occurring magnets were discovered in ancient times and are known as lodestones."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Name three metals that are attracted to a magnet.",
+      "answer": "Iron, Nickel, and Cobalt.",
+      "solution": "Materials like iron, nickel, and cobalt are magnetic and are attracted towards a magnet."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What are the two poles of a magnet?",
+      "answer": "North pole and South pole.",
+      "solution": "Every magnet has two ends called the North pole and the South pole."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "True or False: A freely suspended magnet always rests in the East-West direction.",
+      "answer": "False.",
+      "solution": "A freely suspended magnet always comes to rest in the North-South direction."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What is the small device used for finding directions using a magnetic needle?",
+      "answer": "Magnetic compass.",
+      "solution": "A magnetic compass was developed to find directions based on the directive property of magnets."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Which pole of a compass needle is usually painted red?",
+      "answer": "The North-seeking pole (North pole).",
+      "solution": "The end of the needle which rests in the North direction is usually painted red for identification."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "Explain the difference between magnetic and non-magnetic materials with examples.",
+      "answer": "Magnetic materials are attracted to magnets (e.g., iron, nickel); non-magnetic ones are not (e.g., wood, plastic).",
+      "solution": "Materials that stick to a magnet are called magnetic (e.g., iron, cobalt). Materials that do not stick are called non-magnetic (e.g., rubber, glass, plastic)."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "Where is the magnetic strength of a bar magnet maximum?",
+      "answer": "At its poles (the two ends).",
+      "solution": "By rolling a magnet in iron filings, we observe that most filings stick near the ends, which are the poles, indicating maximum magnetic strength there."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Can a single magnetic pole exist? Justify.",
+      "answer": "No, poles always exist in pairs.",
+      "solution": "If a magnet is broken into pieces, each piece will still have a North and a South pole. A single isolated pole cannot exist."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Why does a freely suspended magnet always point in the North-South direction?",
+      "answer": "Because the Earth behaves like a giant magnet.",
+      "solution": "A freely suspended magnet aligns itself with the North-South direction due to the interaction with Earth's own magnetic field."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "What is 'matsya-yantra' (machchhyantra) and its historical use?",
+      "answer": "An ancient Indian magnetized fish device used by sailors for naviation at sea.",
+      "solution": "Matsya-yantra was an iron piece shaped like a fish, magnetized and kept in a vessel of oil, used by Indians for finding directions at sea."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Describe the basic rule of attraction and repulsion between two magnets.",
+      "answer": "Like poles repel each other, whereas unlike poles attract each other.",
+      "solution": "The North-North or South-South poles of two magnets repel, while a North-South pairing attracts."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "How can you identify a piece of metal as a magnet using only another magnet?",
+      "answer": "Repulsion is the surest test for identifying a magnet.",
+      "solution": "If one end of the metal is repelled by a pole of a magnet, it is confirmed as a magnet. Attraction alone doesn't prove it, as non-magnetized iron is also attracted."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "Briefly describe the 'stroking method' to make your own magnet.",
+      "answer": "Repeatedly rubbing a magnet along the length of an iron piece in one direction.",
+      "solution": "Place an iron bar on a table. Move one pole of a magnet along its length 30-40 times, lifting it each time and starting from the same end, without changing the pole or direction."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "Explain an activity to show that magnetic forces can act through non-magnetic materials.",
+      "answer": "Place a cardboard/glass between a magnet and iron objects; the magnet will still attract them.",
+      "solution": "Using a cardboard or thin plastic sheet between a bar magnet and a compass needle shows that the needle still deflects, proving magnetic effect acts through them."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Hard",
+      "question": "Why are 'keepers' used for storing bar magnets and how are they arranged?",
+      "answer": "To prevent demagnetization over time.",
+      "solution": "Bar magnets are kept in pairs with unlike poles on the same side, separated by a piece of wood, with two pieces of soft iron (keepers) placed across the ends."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "State three things that can cause a magnet to lose its properties.",
+      "answer": "Heating, hammering, and dropping from a height.",
+      "solution": "Magnets can become demagnetized if they are heated, hammered, or dropped roughly."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "If you are given three identical metal bars and only two are magnets, how do you identify them using only the bars?",
+      "answer": "By checking for repulsion between any two or all ends of the bars.",
+      "solution": "Bring the ends of the bars together. The non-magnetic iron piece will be attracted by all ends of both magnets. However, the two magnets will repel each other at their like poles."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Why should magnets be kept away from mobile phones and television sets?",
+      "answer": "To avoid demagnetization and interference with the devices' electronics.",
+      "solution": "Strong magnets can interfere with the data and functioning of electronic devices like remotes, mobile phones, and computers."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "How can you find the North pole of a bar magnet which has no markings?",
+      "answer": "By suspending it freely; the end pointing North is the North pole.",
+      "solution": "Suspend the bar magnet using a thread. Once it comes to rest, the end that seeks the geographical North direction is the North pole."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Easy",
+      "question": "What happens when you bring the South pole of a magnet near the North pole of a compass needle?",
+      "answer": "They attract each other and the needle moves closer.",
+      "solution": "Since they are unlike poles, they will exhibit attraction."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "Explain why sailors in olden times used the property of magnets for navigation.",
+      "answer": "Because magnets provide a reliable way to find directions when landmarks or stars are not visible.",
+      "solution": "The sailors utilized the constant North-South directive property of suspended magnets (and later compasses) to navigate through storms or cloudy skies."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "Are all parts of a bar magnet equally magnetic? Substantiate.",
+      "answer": "No, the poles are more magnetic than the center.",
+      "solution": "Iron filings observations show that maximum filings stick to the ends (poles), while very few stick to the middle, proving unequal magnetic distribution."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Easy",
+      "question": "What is the shape of the magnet inside a laboratory compass?",
+      "answer": "The shape of a needle.",
+      "solution": "A magnetic compass contains a thin magnetic needle mounted on a pivot point."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Describe one fun activity that demonstrates the repulsion between like poles.",
+      "answer": "Placing magnets on matchbox cars so they push each other away without touching.",
+      "solution": "Fix magnets onto two toy cars with like poles facing each other. As one car is pushed toward the other, the second car will move away due to magnetic repulsion."
+    }
+  ]
+}

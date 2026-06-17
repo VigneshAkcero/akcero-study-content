@@ -1,0 +1,504 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Physics",
+    "chapter_name": "Work and Energy",
+    "chapter_number": 10
+  },
+  "notes": [
+    {
+      "section_title": "Introduction: Energy in Life and Nature",
+      "topics": [
+        {
+          "topic_name": "Understanding Energy and Work in Everyday Context",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "All living beings require energy to survive and perform daily activities. Food is the primary energy source for humans and animals. Activities like playing, singing, reading, writing, thinking, jumping, cycling, and running all require energy. Strenuous activities demand more energy than light activities."
+            },
+            {
+              "type": "paragraph",
+              "text": "Machines and engines also require energy to function. Engines that use fuel like petrol and diesel convert chemical energy into mechanical energy to perform work. Understanding how energy is transferred and transformed is fundamental to comprehending natural phenomena and technological applications."
+            },
+            {
+              "type": "paragraph",
+              "text": "In this chapter, we explore work, energy, and power—three closely related concepts that help us interpret and analyze motion, forces, and their effects in the physical world."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "10.1 Work: Scientific Definition and Meaning",
+      "topics": [
+        {
+          "topic_name": "Work in Everyday Life vs. Scientific Definition",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In everyday language, 'work' refers to any useful physical or mental labour. Studying, thinking, reading, discussing problems—all are considered work in common parlance. However, the scientific definition of work is much more specific and different from everyday usage."
+            },
+            {
+              "type": "example",
+              "title": "Example: Work vs. Hard Work",
+              "description": "Kamali studies hard for examinations, spending countless hours reading, writing, and solving problems. She expends significant energy and is 'working hard' in everyday terms. However, in scientific terms, this may involve very little or no 'work' because there is often no displacement of objects involved. In contrast, climbing stairs or lifting objects involves significant work scientifically because forces produce displacements."
+            },
+            {
+              "type": "example",
+              "title": "Example: Pushing a Rock Without Displacement",
+              "description": "You push a huge rock with tremendous effort, but the rock doesn't move. You become exhausted and have definitely expended energy. However, scientifically, you have done zero work on the rock because there is no displacement. Your effort goes into overcoming static friction, but since the rock doesn't move, no work is done by your force on the rock."
+            },
+            {
+              "type": "example",
+              "title": "Example: Holding a Load on Your Head",
+              "description": "You hold a heavy load on your head while standing still for several minutes. You become tired and feel you've exerted yourself significantly. However, scientifically, you have done zero work on the load because there is no displacement. The force you apply (upward) balances gravity (downward), keeping the load stationary. Work requires both force AND displacement."
+            }
+          ]
+        },
+        {
+          "topic_name": "Two Conditions for Work to Be Done",
+          "content": [
+            {
+              "type": "note",
+              "title": "Scientific Definition of Work",
+              "text": "Work is done on an object only when BOTH of the following conditions are satisfied: (1) A force must act on the object, AND (2) The object must be displaced (move) in the direction of the applied force. If either condition is missing, no work is done."
+            },
+            {
+              "type": "paragraph",
+              "text": "Pushing a pebble on a surface causes it to move—work is done. A girl pulling a trolley causes displacement—work is done. Lifting a book through a height applies force and causes upward displacement—work is done. Each example satisfies both conditions."
+            },
+            {
+              "type": "paragraph",
+              "text": "If force exists but no displacement occurs (pushing stationary rock), work is zero. If displacement occurs but no force acts (object sliding on frictionless surface without friction), work is zero. Both force and displacement are necessary."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "10.1.3 Work Done by a Constant Force",
+      "topics": [
+        {
+          "topic_name": "Mathematical Definition and Formula for Work",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When a constant force F acts on an object and displaces it through a distance s in the direction of the force, the work done is defined as the product of force and displacement."
+            },
+            {
+              "type": "note",
+              "title": "Work Formula",
+              "text": "W = F × s, where W is work (joules), F is force (newtons), and s is displacement in the direction of force (metres). Work is a scalar quantity with magnitude only, no direction."
+            },
+            {
+              "type": "paragraph",
+              "text": "The unit of work is newton-metre (N·m), which is equivalent to a joule (J). By definition, 1 joule is the work done when a 1 N force displaces an object by 1 m in the direction of the force."
+            },
+            {
+              "type": "example",
+              "title": "Example 10.1: Calculating Work",
+              "description": "A force of 5 N acts on an object, displacing it 2 m in the direction of the force. Work done W = F × s = 5 N × 2 m = 10 N·m = 10 J. This means 10 joules of work are performed on the object."
+            },
+            {
+              "type": "note",
+              "title": "Critical Observation",
+              "text": "From W = F × s, if force F = 0, then W = 0 (no force, no work). If displacement s = 0, then W = 0 (no displacement, no work). This mathematically confirms the two conditions for work: both force and displacement must be non-zero."
+            }
+          ]
+        },
+        {
+          "topic_name": "Positive and Negative Work",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Work can be positive or negative depending on the relationship between force direction and displacement direction."
+            },
+            {
+              "type": "note",
+              "title": "Positive Work",
+              "text": "Work done is POSITIVE when the force acts in the direction of displacement. Example: A baby pulls a toy car forward; the applied force and displacement are in the same direction. The baby does positive work on the car."
+            },
+            {
+              "type": "note",
+              "title": "Negative Work",
+              "text": "Work done is NEGATIVE when the force acts opposite to the direction of displacement. Example: A retarding force opposes motion; friction acts opposite to the direction an object moves. Negative work is denoted as W = -F × s or W = F × (-s)."
+            },
+            {
+              "type": "example",
+              "title": "Example: Gravity Doing Work",
+              "description": "When you lift an object upward, you apply an upward force, and the displacement is upward. Your force does POSITIVE work on the object. However, gravity acts downward while the object moves upward. Gravity does NEGATIVE work on the object. When the object falls back down, gravity acts downward and displacement is downward, so gravity does POSITIVE work."
+            },
+            {
+              "type": "paragraph",
+              "text": "Both positive and negative work have physical significance. Positive work increases an object's energy or speed; negative work decreases energy or speed. This connection between work and energy is fundamental to understanding motion and forces."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "10.2 Energy: Concept and Forms",
+      "topics": [
+        {
+          "topic_name": "Understanding Energy and Its Forms",
+          "content": [
+            {
+              "type": "definition",
+              "term": "Energy",
+              "meaning": "The capacity of an object or system to do work. An object having the capability to do work is said to possess energy. The unit of energy is the same as work: joule (J). Larger unit: kilojoule (kJ), where 1 kJ = 1000 J."
+            },
+            {
+              "type": "paragraph",
+              "text": "Energy is not directly observable, but its effects are. A fast-moving cricket ball hitting a wicket knocks it away—the ball's motion gives it energy. A raised hammer falling on a nail drives it into wood—the hammer's height and motion give it energy. A wound-up toy car starts moving when released—the compressed spring has stored energy."
+            },
+            {
+              "type": "paragraph",
+              "text": "When an object with energy exerts a force on another object, energy is transferred. The first object loses energy while the second gains energy. This energy transfer manifests as work done. The object performing work loses energy; the object on which work is done gains energy."
+            },
+            {
+              "type": "list",
+              "title": "Common Forms of Energy",
+              "items": [
+                "Mechanical Energy (Kinetic Energy + Potential Energy)",
+                "Heat Energy (thermal energy from temperature differences)",
+                "Chemical Energy (stored in chemical bonds, released during reactions)",
+                "Electrical Energy (energy of moving charges in circuits)",
+                "Light Energy (energy carried by electromagnetic radiation)",
+                "Nuclear Energy (energy in atomic nuclei)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "10.2.2 Kinetic Energy",
+      "topics": [
+        {
+          "topic_name": "Definition and Formula for Kinetic Energy",
+          "content": [
+            {
+              "type": "definition",
+              "term": "Kinetic Energy",
+              "meaning": "The energy possessed by an object due to its motion. A moving object can do work: a bullet can penetrate targets, wind turns windmills, flowing water turns turbines. All possess kinetic energy."
+            },
+            {
+              "type": "paragraph",
+              "text": "The faster an object moves, the more kinetic energy it possesses. A table tennis ball and a cricket ball of the same size moving at the same speed have different kinetic energies because of different masses. A fast-moving bullet causes more damage than a slow-moving one of the same mass because it has more kinetic energy."
+            },
+            {
+              "type": "note",
+              "title": "Kinetic Energy Formula",
+              "text": "The kinetic energy of an object of mass m moving with velocity v is: E_k = (1/2) × m × v². Kinetic energy increases with mass and is proportional to the square of velocity. Doubling velocity quadruples kinetic energy for the same mass."
+            },
+            {
+              "type": "paragraph",
+              "text": "This formula is derived from the work-energy theorem. When a force accelerates an object from rest to velocity v, the work done equals the kinetic energy gained: W = (1/2)mv² - 0 = (1/2)mv²."
+            },
+            {
+              "type": "example",
+              "title": "Example 10.3: Calculating Kinetic Energy",
+              "description": "An object of mass 15 kg moves at a uniform velocity of 4 m/s. Its kinetic energy is E_k = (1/2) × 15 × 4² = (1/2) × 15 × 16 = 120 J. If the velocity increases to 8 m/s, kinetic energy becomes E_k = (1/2) × 15 × 8² = 480 J (quadrupled, as expected from v² dependence)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "10.2.3 Potential Energy",
+      "topics": [
+        {
+          "topic_name": "Definition and Types of Potential Energy",
+          "content": [
+            {
+              "type": "definition",
+              "term": "Potential Energy",
+              "meaning": "The energy possessed by an object due to its position or configuration (shape). It is 'potential' because it has the potential to do work but is not currently doing so."
+            },
+            {
+              "type": "paragraph",
+              "text": "A stretched rubber band can do work when released. A compressed spring can push an object. A raised object can fall and do work. An object in a stretched or compressed state has stored energy due to its shape. These are examples of potential energy stored due to position or configuration."
+            },
+            {
+              "type": "list",
+              "title": "Examples of Potential Energy",
+              "items": [
+                "A raised book above a table (gravitational potential energy)",
+                "A stretched bow with an arrow (elastic potential energy)",
+                "A compressed spring (elastic potential energy)",
+                "A charged battery (chemical potential energy)",
+                "A rubber band stretched on a toy car (elastic potential energy)"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Gravitational Potential Energy",
+          "content": [
+            {
+              "type": "definition",
+              "term": "Gravitational Potential Energy",
+              "meaning": "The energy possessed by an object due to its position at a height above the ground or a reference level. It is the ability of the object to do work due to gravity."
+            },
+            {
+              "type": "note",
+              "title": "Gravitational Potential Energy Formula",
+              "text": "E_p = m × g × h, where E_p is potential energy (J), m is mass (kg), g is acceleration due to gravity (≈10 m/s²), and h is height above reference level (m). Potential energy is directly proportional to mass, gravity, and height."
+            },
+            {
+              "type": "paragraph",
+              "text": "This formula is derived from work done against gravity. To raise an object of mass m through height h requires a force equal to its weight (mg) acting upward through distance h. Work done = mg × h = mgh, which becomes the object's potential energy."
+            },
+            {
+              "type": "example",
+              "title": "Example 10.5: Calculating Gravitational Potential Energy",
+              "description": "An object of mass 10 kg is at a height of 6 m above ground. Its potential energy is E_p = 10 × 10 × 6 = 600 J. If raised to 12 m height, E_p = 10 × 10 × 12 = 1200 J (doubled, because height doubled)."
+            },
+            {
+              "type": "note",
+              "title": "Reference Level for Potential Energy",
+              "text": "Potential energy depends on the chosen reference level (zero level). An object at a certain height has specific potential energy relative to ground, but different potential energy relative to the ground floor of a different building. The CHANGE in potential energy is independent of reference level and is physically meaningful."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "10.2.5 Conservation of Energy and Energy Transformation",
+      "topics": [
+        {
+          "topic_name": "Law of Conservation of Energy",
+          "content": [
+            {
+              "type": "note",
+              "title": "Law of Conservation of Energy",
+              "text": "Energy can be converted (transformed) from one form to another, but the total energy of an isolated system remains constant. Energy is neither created nor destroyed; it only changes form. The total energy before transformation equals total energy after transformation."
+            },
+            {
+              "type": "paragraph",
+              "text": "This fundamental law applies universally to all types of transformations: mechanical, thermal, chemical, electrical, nuclear, and more. Whenever energy disappears from one form, it reappears in another form (or multiple forms) in equal total amount."
+            },
+            {
+              "type": "example",
+              "title": "Example: Freely Falling Object",
+              "description": "An object of mass m is dropped from height h. Initially: Potential energy = mgh, Kinetic energy = 0, Total energy = mgh. Midway through fall (height h/2): Potential energy = mg(h/2), Kinetic energy = mg(h/2), Total energy = mgh (same). Just before impact (h = 0): Potential energy = 0, Kinetic energy = mgh, Total energy = mgh (still same). Potential energy continuously converts to kinetic energy, but total mechanical energy remains constant."
+            },
+            {
+              "type": "paragraph",
+              "text": "In this free fall, we observe the continuous transformation of potential energy into kinetic energy. The decrease in potential energy equals the increase in kinetic energy. Total mechanical energy (E_total = E_p + E_k) is conserved throughout the motion. This conservation principle is powerful: it allows us to solve motion problems without knowing the complex forces involved during motion."
+            }
+          ]
+        },
+        {
+          "topic_name": "Energy Transformations in Nature and Technology",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Energy transformations are everywhere: solar panels convert light energy to electrical energy, motors convert electrical energy to mechanical energy, batteries convert chemical energy to electrical energy, engines convert chemical energy to mechanical energy through heat, hydroelectric dams convert potential energy to kinetic energy and then to electrical energy."
+            },
+            {
+              "type": "list",
+              "title": "Common Energy Conversions in Daily Life",
+              "items": [
+                "Bicycle: Chemical energy (food) → Mechanical energy (motion and work against friction)",
+                "Incandescent bulb: Electrical energy → Light energy + Heat energy",
+                "Pendulum: Potential energy ↔ Kinetic energy (continuous conversion at each swing)",
+                "Photosynthesis: Light energy → Chemical energy (stored in glucose)",
+                "Hydroelectric power: Gravitational potential energy → Kinetic energy → Electrical energy",
+                "Car engine: Chemical energy (fuel) → Heat energy → Mechanical energy (motion)"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "In real systems, some energy is always converted to heat due to friction, air resistance, and other dissipative forces. This heat is thermal energy that eventually dissipates. However, the total energy (including heat) remains conserved—it's just in a less useful form. This is why machines require ongoing energy input to maintain operation against friction and resistive forces."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "10.3 Rate of Doing Work: Power",
+      "topics": [
+        {
+          "topic_name": "Understanding Power and Its Significance",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Two people may climb stairs to the same height, doing the same amount of work. However, if one climbs quickly and the other slowly, they differ in how fast they do the work. Similarly, two vehicles may travel the same distance against friction, doing the same work. But the more powerful vehicle does it in less time. The concept of power measures the RATE at which work is done."
+            },
+            {
+              "type": "definition",
+              "term": "Power",
+              "meaning": "The rate of doing work or the rate of transfer of energy. It measures how fast work is done or energy is transferred. Mathematically: Power P = Work done / Time taken = W / t."
+            },
+            {
+              "type": "note",
+              "title": "Power Formula",
+              "text": "P = W / t, where P is power (watts), W is work (joules), and t is time (seconds). The SI unit of power is watt (W). By definition, 1 watt is the power when 1 joule of work is done in 1 second. 1 W = 1 J/s. Larger unit: kilowatt (kW), where 1 kW = 1000 W."
+            },
+            {
+              "type": "example",
+              "title": "Example 10.7: Comparing Power of Two Girls Climbing",
+              "description": "Two girls, each of weight 400 N, climb stairs through height 8 m. Girl A takes 20 seconds, Girl B takes 50 seconds. Work done by each = 400 N × 8 m = 3200 J (same). Power of A = 3200 J / 20 s = 160 W. Power of B = 3200 J / 50 s = 64 W. Girl A is more powerful, completing the same work in less time. Higher power indicates faster energy transfer or work rate."
+            }
+          ]
+        },
+        {
+          "topic_name": "Average Power and Power Variations",
+          "content": [
+            {
+              "type": "note",
+              "title": "Average Power",
+              "text": "An object's power may vary over time. The concept of average power is useful for such cases: Average Power = Total work done / Total time taken. For constant power, average power equals instantaneous power."
+            },
+            {
+              "type": "paragraph",
+              "text": "A car accelerating from rest does varying work at different times—more power is delivered during acceleration, less while maintaining constant speed. Electric devices may have varying power consumption. Using average power over the entire time period gives a practical measure of energy consumption or work rate."
+            },
+            {
+              "type": "example",
+              "title": "Example 10.8: Power of Running Up Stairs",
+              "description": "A boy of mass 50 kg runs up a staircase of 45 steps in 9 seconds. Height of each step = 15 cm, so total height = 45 × 0.15 = 6.75 m. Work done against gravity = mgh = 50 × 10 × 6.75 = 3375 J. Power = 3375 J / 9 s = 375 W. This represents the average power delivered while climbing."
+            }
+          ]
+        },
+        {
+          "topic_name": "Alternative Power Formulas",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Since work can be expressed as W = F × s, power can be written in alternative forms depending on the context."
+            },
+            {
+              "type": "note",
+              "title": "Power Formula Variations",
+              "text": "P = W / t = (F × s) / t = F × (s/t) = F × v, where v = s/t is velocity. For lifting objects: P = (mg × h) / t = mgh / t. For objects in motion: P = Force × Velocity. These alternative forms allow calculating power in different situations."
+            },
+            {
+              "type": "paragraph",
+              "text": "The formula P = F × v shows that power depends on both force applied and velocity achieved. A car engine producing high force at low speed may have same power as an engine producing lower force at higher speed if their products equal. This relationship is useful for analyzing mechanical systems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Work-Energy Relationship and Practical Implications",
+      "topics": [
+        {
+          "topic_name": "Work-Energy Theorem",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The work-energy theorem states that the net work done on an object equals the change in its kinetic energy. This connects work (a force concept) with kinetic energy (a motion concept), showing how forces change motion."
+            },
+            {
+              "type": "note",
+              "title": "Work-Energy Theorem",
+              "text": "Net work done on an object = Change in kinetic energy. W_net = ΔE_k = (1/2)m(v_f)² - (1/2)m(v_i)². If net work is positive, kinetic energy increases and object speeds up. If negative, kinetic energy decreases and object slows down."
+            },
+            {
+              "type": "example",
+              "title": "Example 10.4: Work to Change Velocity",
+              "description": "A 1500 kg car accelerates from 30 km/h to 60 km/h. Initial velocity u = 30 km/h = 25/3 m/s, final velocity v = 60 km/h = 50/3 m/s. Initial KE = (1/2) × 1500 × (25/3)² = 156250/3 J. Final KE = (1/2) × 1500 × (50/3)² = 625000/3 J. Work done = Final KE - Initial KE = 468750/3 ≈ 156250 J. This is the minimum work required to accelerate the car, ignoring friction."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Work",
+      "definition": "The product of force and displacement in the direction of force (W = F × s). Requires both force AND displacement to be non-zero. Unit: joule (J)."
+    },
+    {
+      "term": "Joule",
+      "definition": "The SI unit of work and energy. 1 joule = 1 newton × 1 metre. It is the work done when a 1 N force displaces an object by 1 m."
+    },
+    {
+      "term": "Energy",
+      "definition": "The capacity of an object to do work. An object possessing energy can exert forces and cause displacements. Unit: joule (J)."
+    },
+    {
+      "term": "Kinetic Energy",
+      "definition": "The energy possessed by an object due to its motion. Formula: E_k = (1/2)mv². Increases with mass and the square of velocity."
+    },
+    {
+      "term": "Potential Energy",
+      "definition": "The energy possessed by an object due to its position or configuration. Stored energy that has potential to do work."
+    },
+    {
+      "term": "Gravitational Potential Energy",
+      "definition": "The energy of an object due to its height above a reference level. Formula: E_p = mgh. Depends on mass, gravity, and height."
+    },
+    {
+      "term": "Mechanical Energy",
+      "definition": "The sum of kinetic energy and potential energy of an object. E_total = E_k + E_p. Conserved in isolated systems without dissipative forces."
+    },
+    {
+      "term": "Conservation of Energy",
+      "definition": "Fundamental law stating that total energy in an isolated system remains constant. Energy is transformed but never created or destroyed."
+    },
+    {
+      "term": "Power",
+      "definition": "The rate of doing work or rate of energy transfer. Formula: P = W/t. SI unit: watt (W). 1 watt = 1 joule per second."
+    },
+    {
+      "term": "Watt",
+      "definition": "The SI unit of power. 1 watt is the power when 1 joule of work is done in 1 second (1 W = 1 J/s)."
+    },
+    {
+      "term": "Kilowatt",
+      "definition": "A larger unit of power. 1 kilowatt (kW) = 1000 watts. Commonly used for electrical power and engine power."
+    },
+    {
+      "term": "Average Power",
+      "definition": "The power calculated over a time period when power varies. Average Power = Total work / Total time."
+    },
+    {
+      "term": "Positive Work",
+      "definition": "Work done when force and displacement are in the same direction. Positive work increases object's energy or speed."
+    },
+    {
+      "term": "Negative Work",
+      "definition": "Work done when force and displacement are in opposite directions. Negative work decreases object's energy or speed."
+    },
+    {
+      "term": "Work-Energy Theorem",
+      "definition": "States that the net work done on an object equals its change in kinetic energy. W_net = ΔE_k."
+    },
+    {
+      "term": "Elastic Potential Energy",
+      "definition": "The energy stored in stretched or compressed elastic objects (springs, rubber bands) due to change in shape."
+    },
+    {
+      "term": "Chemical Energy",
+      "definition": "Energy stored in chemical bonds. Released during chemical reactions. Example: energy in food, fuel, batteries."
+    },
+    {
+      "term": "Heat Energy",
+      "definition": "Energy associated with temperature and thermal motion of particles. Produced by friction, resistance, and combustion."
+    },
+    {
+      "term": "Electrical Energy",
+      "definition": "Energy of moving electric charges in circuits. Converted from other forms in generators and power plants."
+    },
+    {
+      "term": "Energy Transformation",
+      "definition": "Conversion of energy from one form to another. Example: potential to kinetic (falling object), chemical to electrical (battery)."
+    }
+  ],
+  "summary_points": [
+    "Work is done on an object only when both conditions are met: (1) a force acts on the object, AND (2) the object is displaced. Work formula: W = F × s. Unit: joule (J). Work can be positive (force and displacement same direction) or negative (opposite directions).",
+    "Energy is the capacity to do work. Kinetic energy (E_k = 1/2 mv²) is energy due to motion and increases with velocity squared. Potential energy (E_p = mgh) is energy due to position/height. Total mechanical energy = E_k + E_p.",
+    "Law of Conservation of Energy: Total energy remains constant in isolated systems. Energy transforms from one form to another (potential ↔ kinetic, chemical → electrical, etc.) but total amount is conserved. Dissipative forces (friction) convert mechanical energy to heat.",
+    "Power is the rate of doing work: P = W/t. SI unit: watt (W). 1 watt = 1 joule per second. Average power = Total work / Total time. More powerful machines or people do the same work in less time.",
+    "Work-Energy Theorem: Net work done on an object equals change in kinetic energy (W_net = ΔE_k). This connects forces to motion: forces do work, work changes kinetic energy, kinetic energy changes velocity and momentum.",
+    "Real systems involve energy dissipation due to friction, air resistance, and other resistive forces that convert mechanical energy to heat. However, including heat energy, total energy is still conserved—it's just in less useful forms.",
+    "Power determines efficiency of machines and people. A 160 W person climbs faster than a 64 W person. A 100 W light bulb consumes energy faster than a 40 W bulb. Power is crucial for rating engines, appliances, and athletic performance.",
+    "Energy transformations power all activities: food (chemical) → muscle work (mechanical), fuel (chemical) → engine (mechanical/heat), sunlight (light) → photosynthesis (chemical), battery (chemical) → electric current → light/heat.",
+    "Work by gravity depends only on height change, not path taken. An object raised 10 m directly or by a gentle slope gains the same potential energy (mgh). Similarly, work by gravity on falling objects depends only on vertical displacement.",
+    "Potential energy is relative to chosen reference level, but changes in potential energy and kinetic energy relationships are independent of reference. Understanding energy transformations is key to solving motion problems without detailed force analysis."
+  ]
+}

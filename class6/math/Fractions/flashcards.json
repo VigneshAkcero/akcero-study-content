@@ -1,0 +1,25 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Fractions",
+    "chapter_number": 7
+  },
+  "flashcards": [
+    { "q": "What is a fraction?", "a": "A number representing an equal share of items or a part of a whole." },
+    { "q": "What is a fractional unit (unit fraction)?", "a": "A fraction with 1 as the numerator (e.g., $\\frac{1}{2}, \\frac{1}{10}$)." },
+    { "q": "What does the numerator of a fraction indicate?", "a": "The number of fractional units that are being considered/taken." },
+    { "q": "What does the denominator of a fraction indicate?", "a": "The total number of equal parts the whole is divided into." },
+    { "q": "In the fraction $\\frac{3}{5}$, which is the denominator?", "a": "5" },
+    { "q": "True or False: $\\frac{1}{9}$ is greater than $\\frac{1}{5}$.", "a": "False. $\\frac{1}{9}$ is smaller because the same whole is divided into more parts." },
+    { "q": "What is a mixed fraction?", "a": "A number containing a whole number part and a proper fraction part." },
+    { "q": "How can you identify a fraction greater than 1?", "a": "The numerator will be larger than the denominator." },
+    { "q": "Define equivalent fractions.", "a": "Fractions that represent the same share or the same point on a number line." },
+    { "q": "When is a fraction in its simplest form?", "a": "When the numerator and denominator have no common factor other than 1." },
+    { "q": "What is the key step in comparing fractions with different denominators?", "a": "Convert them into equivalent fractions with a common denominator." },
+    { "q": "What is the result of $\\frac{1}{2} + \\frac{1}{2}$?", "a": "1" },
+    { "q": "How many $\\frac{1}{4}$ pieces make a half?", "a": "2 pieces (since $\\frac{2}{4} = \\frac{1}{2}$)." },
+    { "q": "What is the simplest form of $\\frac{10}{20}$?", "a": "$\\frac{1}{2}$" },
+    { "q": "True or False: $2 \\frac{1}{2}$ is an improper fraction.", "a": "False. It is a mixed fraction. The improper form is $\\frac{5}{2}$." }
+  ]
+}

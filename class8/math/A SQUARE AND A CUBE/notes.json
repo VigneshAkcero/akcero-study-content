@@ -1,0 +1,508 @@
+{
+  "chapter_info": {
+    "class": 8,
+    "subject": "Mathematics",
+    "chapter_name": "A Square and A Cube",
+    "chapter_number": 1
+  },
+  "notes": [
+    {
+      "section_title": "Introduction: The Locker Puzzle",
+      "topics": [
+        {
+          "topic_name": "Understanding the Locker Puzzle and Factors",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The locker puzzle presents an interesting mathematical scenario. 100 people are assigned numbers 1 to 100. Person n toggles (opens or closes) every nth locker. Person 1 opens all lockers; Person 2 toggles every 2nd locker; Person 3 toggles every 3rd locker, and so on. After all 100 people complete their turns, some lockers remain open."
+            },
+            {
+              "type": "paragraph",
+              "text": "The key insight is that each locker is toggled by people whose numbers are factors of the locker number. For example, locker #6 is toggled by persons 1, 2, 3, and 6 (all factors of 6). A locker remains open if it is toggled an odd number of times, and remains closed if toggled an even number of times."
+            },
+            {
+              "type": "example",
+              "title": "Example 1: Analysis of Locker #6",
+              "text": "Locker #6: Person 1 opens it, Person 2 closes it, Person 3 opens it, Person 6 closes it. Total toggles = 4 (even). Final state: closed. The factors are 1, 2, 3, 6, which form pairs: (1,6) and (2,3)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Most numbers have an even number of factors because each factor can be paired with another factor whose product equals the number. However, some numbers have an odd number of factors—when a factor pairs with itself."
+            },
+            {
+              "type": "example",
+              "title": "Example 2: Numbers with Odd Number of Factors",
+              "text": "Number 1: 1 × 1 = 1. Factors: {1}. Count = 1 (odd). Number 4: 1 × 4 = 4, 2 × 2 = 4. Factors: {1, 2, 4}. The pair (2,2) has matching factors. Count = 3 (odd). Number 9: 1 × 9 = 9, 3 × 3 = 9. Factors: {1, 3, 9}. Count = 3 (odd)."
+            },
+            {
+              "type": "rule",
+              "title": "Key Discovery: Square Numbers and Odd Factors",
+              "text": "Only square numbers (numbers that can be expressed as n × n) have an odd number of factors. This is because the factor n pairs with itself, breaking the usual partner-pair pattern. Therefore, in the locker puzzle, the open lockers are exactly those numbered with perfect squares: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100."
+            },
+            {
+              "type": "note",
+              "title": "The Puzzle Solution",
+              "text": "Lockers that remain open: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100. The puzzle asks for the first five prime numbers (lockers toggled exactly twice), which are: 2, 3, 5, 7, 11. Prime numbers have exactly two factors (1 and themselves), so they are toggled exactly twice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.1 Square Numbers",
+      "topics": [
+        {
+          "topic_name": "Definition and Notation of Square Numbers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A square number is a number that can be expressed as the product of a number with itself. Geometrically, if we arrange unit squares in a square pattern with side length n, the total number of unit squares is n × n = n². These numbers are called 'square' because they can be arranged as perfect squares."
+            },
+            {
+              "type": "example",
+              "title": "Example 3: Square Numbers from Geometric Area",
+              "text": "Side length 1: Area = 1 × 1 = 1 sq. unit. Side length 2: Area = 2 × 2 = 4 sq. units. Side length 3: Area = 3 × 3 = 9 sq. units. Side length 4: Area = 4 × 4 = 16 sq. units. Side length 5: Area = 5 × 5 = 25 sq. units."
+            },
+            {
+              "type": "rule",
+              "title": "Notation for Squares",
+              "text": "We write n × n = n², read as 'n squared'. For example: 1² = 1, 2² = 4, 3² = 9, 4² = 16, 5² = 25. In general, for any number n, the square is n² = n × n."
+            },
+            {
+              "type": "definition",
+              "title": "Perfect Squares",
+              "text": "The squares of natural numbers are called perfect squares. These are: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225, and so on. All perfect squares are positive integers."
+            },
+            {
+              "type": "note",
+              "title": "Squares of Fractions and Decimals",
+              "text": "We can find squares of non-integer numbers too. For example: (3/5)² = (3/5) × (3/5) = 9/25. Similarly, (2.5)² = 2.5 × 2.5 = 6.25. These are not perfect squares (only squares of natural numbers are), but they demonstrate that squaring applies to all real numbers."
+            }
+          ]
+        },
+        {
+          "topic_name": "Patterns and Properties of Perfect Squares",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Observing the perfect squares reveals interesting patterns. Studying the units digits, the number of trailing zeros, and the differences between consecutive squares provides insights into which numbers can be perfect squares."
+            },
+            {
+              "type": "rule",
+              "title": "Units Digit Pattern of Perfect Squares",
+              "text": "Perfect squares can only end in 0, 1, 4, 5, 6, or 9. They never end in 2, 3, 7, or 8. This is because: 0² ends in 0, 1² ends in 1, 2² ends in 4, 3² ends in 9, 4² ends in 6, 5² ends in 5, 6² ends in 6, 7² ends in 9, 8² ends in 4, 9² ends in 1."
+            },
+            {
+              "type": "example",
+              "title": "Example 4: Using Units Digit to Eliminate Non-Squares",
+              "text": "Is 132 a perfect square? It ends in 2, which is impossible for a perfect square. Therefore, 132 is not a perfect square. Is 243 a perfect square? It ends in 3, which is impossible. Therefore, 243 is not a perfect square."
+            },
+            {
+              "type": "note",
+              "title": "Important: Units Digit Limitation",
+              "text": "While we can use the units digit to determine that a number is NOT a perfect square (if it ends in 2, 3, 7, or 8), we cannot use it to confirm that a number IS a perfect square. For example, 26 ends in 6 (which is a valid units digit), but 26 is not a perfect square. Further checking is required."
+            },
+            {
+              "type": "paragraph",
+              "text": "Numbers ending in 1 or 9 produce squares ending in 1. Numbers ending in 4 or 6 produce squares ending in 6. Numbers ending in 2 or 8 produce squares ending in 4. Numbers ending in 3 or 7 produce squares ending in 9. Numbers ending in 5 produce squares ending in 5. Numbers ending in 0 produce squares ending in 0."
+            },
+            {
+              "type": "rule",
+              "title": "Zeros at the End of Perfect Squares",
+              "text": "Perfect squares can only have an even number of zeros at the end. For example: 10² = 100 (two zeros), 100² = 10,000 (four zeros), 1000² = 1,000,000 (six zeros). A number ending in an odd number of zeros (like 10, 100, 1,000,000 with 3, 5, or 7 zeros) cannot be a perfect square."
+            },
+            {
+              "type": "example",
+              "title": "Example 5: Zeros Pattern in Squares",
+              "text": "10² = 100 (1 and 2 zeros → 2 zeros in square), 20² = 400 (1 and 1 zero → 2 zeros in square), 100² = 10,000 (2 and 2 zeros → 4 zeros in square), 200² = 40,000 (2 and 2 zeros → 4 zeros in square)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Perfect Squares and Odd Numbers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "There is a beautiful relationship between perfect squares and the sum of consecutive odd numbers. Every perfect square equals the sum of the first n consecutive odd numbers, starting from 1."
+            },
+            {
+              "type": "example",
+              "title": "Example 6: Squares as Sums of Odd Numbers",
+              "text": "1 = 1 = 1². 1 + 3 = 4 = 2². 1 + 3 + 5 = 9 = 3². 1 + 3 + 5 + 7 = 16 = 4². 1 + 3 + 5 + 7 + 9 = 25 = 5². 1 + 3 + 5 + 7 + 9 + 11 = 36 = 6²."
+            },
+            {
+              "type": "rule",
+              "title": "Pattern: Sum of First n Odd Numbers",
+              "text": "The sum of the first n odd numbers equals n². Expressed mathematically: 1 + 3 + 5 + ... + (2n − 1) = n². The nth odd number is given by 2n − 1."
+            },
+            {
+              "type": "paragraph",
+              "text": "This pattern can be observed geometrically. Each odd number represents adding another L-shaped layer to a square, increasing its side by one unit."
+            },
+            {
+              "type": "example",
+              "title": "Example 7: Finding Square from Consecutive Odd Numbers",
+              "text": "To find 36² given that 35² = 1225: The 36th odd number is 2(36) − 1 = 71. Therefore, 36² = 35² + 71 = 1225 + 71 = 1296."
+            },
+            {
+              "type": "note",
+              "title": "Testing if a Number is a Perfect Square",
+              "text": "A number can be tested as a perfect square by successively subtracting odd numbers starting from 1 until reaching 0. If you reach exactly 0, the number is a perfect square, and the count of odd numbers subtracted is the square root."
+            },
+            {
+              "type": "example",
+              "title": "Example 8: Successive Subtraction Test",
+              "text": "Is 25 a perfect square? 25 − 1 = 24, 24 − 3 = 21, 21 − 5 = 16, 16 − 7 = 9, 9 − 9 = 0. We subtracted 5 odd numbers, so 25 = 5². Is 38 a perfect square? 38 − 1 = 37, 37 − 3 = 34, 34 − 5 = 29, 29 − 7 = 22, 22 − 9 = 13, 13 − 11 = 2, 2 − 13 = −11. We get a negative result without reaching 0, so 38 is not a perfect square."
+            }
+          ]
+        },
+        {
+          "topic_name": "Numbers Between Consecutive Squares",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Between two consecutive perfect squares n² and (n+1)², there are always 2n numbers. This pattern shows an interesting relationship between squares."
+            },
+            {
+              "type": "example",
+              "title": "Example 9: Numbers Between Consecutive Squares",
+              "text": "Between 1² = 1 and 2² = 4: numbers are 2, 3. Count = 2 = 2(1). Between 2² = 4 and 3² = 9: numbers are 5, 6, 7, 8. Count = 4 = 2(2). Between 3² = 9 and 4² = 16: numbers are 10, 11, 12, 13, 14, 15. Count = 6 = 2(3). Between 4² = 16 and 5² = 25: numbers are 17 to 24. Count = 8 = 2(4)."
+            },
+            {
+              "type": "rule",
+              "title": "General Pattern",
+              "text": "Between n² and (n+1)², there are exactly 2n non-square numbers. Therefore, (n+1)² − n² = 2n + 1 (which is the (n+1)th odd number)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Perfect Squares and Prime Factorization",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A number is a perfect square if and only if each prime factor in its prime factorization appears an even number of times. This provides a systematic method to identify perfect squares."
+            },
+            {
+              "type": "example",
+              "title": "Example 10: Perfect Squares via Prime Factorization",
+              "text": "Is 36 a perfect square? 36 = 2² × 3². Both primes appear an even number of times (2 appears twice, 3 appears twice), so 36 is a perfect square. Its square root is 2 × 3 = 6. Is 48 a perfect square? 48 = 2⁴ × 3¹. The prime 3 appears an odd number of times (once), so 48 is not a perfect square."
+            },
+            {
+              "type": "rule",
+              "title": "Prime Factorization Criterion for Perfect Squares",
+              "text": "A number n is a perfect square if in its prime factorization, n = p₁^(2a₁) × p₂^(2a₂) × ... × pₖ^(2aₖ), where all exponents are even. The square root is √n = p₁^(a₁) × p₂^(a₂) × ... × pₖ^(aₖ)."
+            },
+            {
+              "type": "paragraph",
+              "text": "This method is more reliable than checking units digits or divisibility, as it provides a definitive answer about whether a number is a perfect square."
+            }
+          ]
+        },
+        {
+          "topic_name": "Square Roots",
+          "content": [
+            {
+              "type": "definition",
+              "title": "Square Root Definition",
+              "text": "The square root of a number y is a value x such that x² = y. The positive square root is denoted by √y. For example, √9 = 3 because 3² = 9. Every positive perfect square has two integer square roots: a positive and a negative. For example, √64 = ±8."
+            },
+            {
+              "type": "rule",
+              "title": "Square Root Notation",
+              "text": "For a perfect square n², √(n²) = |n| = n (for positive n). In mathematics, the symbol √ typically denotes the positive square root unless otherwise specified."
+            },
+            {
+              "type": "example",
+              "title": "Example 11: Finding Square Roots",
+              "text": "√1 = 1, √4 = 2, √9 = 3, √16 = 4, √25 = 5, √36 = 6, √49 = 7, √64 = 8, √81 = 9, √100 = 10."
+            },
+            {
+              "type": "paragraph",
+              "text": "To find the square root of a large number, we can use estimation by finding nearby perfect squares, or use the prime factorization method by taking the even roots of prime factors."
+            },
+            {
+              "type": "example",
+              "title": "Example 12: Estimating Square Roots",
+              "text": "To find √250: We know 15² = 225 and 16² = 256. Since 250 is closer to 256, √250 ≈ 16 (but slightly less). More precisely, 15 < √250 < 16."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.2 Cubic Numbers",
+      "topics": [
+        {
+          "topic_name": "Definition and Properties of Cubic Numbers",
+          "content": [
+            {
+              "type": "definition",
+              "title": "Cubic Numbers",
+              "text": "A cubic number (or cube) is a number that can be expressed as the product of a number with itself three times. Mathematically, n³ = n × n × n. For example, 1, 8, 27, 64, 125, ... are cubic numbers (1³, 2³, 3³, 4³, 5³, ...)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Geometrically, a cubic number represents the volume of a cube with integer side length. If a cube has side length n units, its volume is n³ cubic units."
+            },
+            {
+              "type": "example",
+              "title": "Example 13: Cubic Numbers from Volume",
+              "text": "A cube with side 1 unit has volume 1³ = 1 cubic unit. A cube with side 2 units has volume 2³ = 8 cubic units (composed of 2 × 2 × 2 = 8 unit cubes). A cube with side 3 units has volume 3³ = 27 cubic units. A cube with side 4 units has volume 4³ = 64 cubic units. A cube with side 5 units has volume 5³ = 125 cubic units."
+            },
+            {
+              "type": "definition",
+              "title": "Perfect Cubes",
+              "text": "Perfect cubes are the cubes of natural numbers: 1, 8, 27, 64, 125, 216, 343, 512, 729, 1000, and so on. These are denoted as 1³, 2³, 3³, 4³, 5³, 6³, 7³, 8³, 9³, 10³, respectively."
+            },
+            {
+              "type": "rule",
+              "title": "Units Digit Pattern of Perfect Cubes",
+              "text": "Unlike perfect squares, perfect cubes can end in any digit from 0 to 9. The units digit of a cube depends on the units digit of the base number: 0³ ends in 0, 1³ ends in 1, 2³ ends in 8, 3³ ends in 7, 4³ ends in 4, 5³ ends in 5, 6³ ends in 6, 7³ ends in 3, 8³ ends in 2, 9³ ends in 9."
+            },
+            {
+              "type": "example",
+              "title": "Example 14: Units Digit Patterns for Cubes",
+              "text": "12³ ends in 8 (since 2³ ends in 8). 17³ ends in 3 (since 7³ ends in 3). 23³ ends in 7 (since 3³ ends in 7). 34³ ends in 4 (since 4³ ends in 4). 45³ ends in 5 (since 5³ ends in 5)."
+            },
+            {
+              "type": "note",
+              "title": "True/False: Units Digit and Perfect Cubes",
+              "text": "The cube of any odd number is odd. The cube of any even number is even. If a number ends in 8, it cannot be the cube of an even number (since even numbers cubed end in 0, 2, 4, 6, or 8—but specifically, 2ⁿ cubed patterns). Not all numbers ending in 8 are cubes."
+            }
+          ]
+        },
+        {
+          "topic_name": "Perfect Cubes and Consecutive Odd Numbers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Similar to perfect squares being sums of consecutive odd numbers, there is a pattern for perfect cubes using consecutive odd numbers. Each perfect cube equals the sum of a specific sequence of consecutive odd numbers."
+            },
+            {
+              "type": "example",
+              "title": "Example 15: Cubes as Sums of Odd Numbers",
+              "text": "1 = 1 = 1³. 3 + 5 = 8 = 2³. 7 + 9 + 11 = 27 = 3³. 13 + 15 + 17 + 19 = 64 = 4³. 21 + 23 + 25 + 27 + 29 = 125 = 5³."
+            },
+            {
+              "type": "paragraph",
+              "text": "The pattern shows that n³ is the sum of n consecutive odd numbers. The starting odd number for n³ follows a pattern based on the previous cubes and odd number sequences."
+            },
+            {
+              "type": "rule",
+              "title": "Pattern for Cube as Sum of Odd Numbers",
+              "text": "n³ is the sum of n consecutive odd numbers. The first odd number in this sequence for n³ is [n(n-1) + 1]. For example, for 4³, the first odd number is 4(3) + 1 = 13, and 4³ = 13 + 15 + 17 + 19 = 64."
+            }
+          ]
+        },
+        {
+          "topic_name": "Perfect Cubes and Prime Factorization",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A number is a perfect cube if and only if each prime factor in its prime factorization appears a number of times that is divisible by 3. This is analogous to the perfect square criterion but requires multiples of 3 instead of 2."
+            },
+            {
+              "type": "example",
+              "title": "Example 16: Perfect Cubes via Prime Factorization",
+              "text": "Is 3375 a perfect cube? 3375 = 3³ × 5³. Both primes appear three times (divisible by 3), so 3375 is a perfect cube. Its cube root is 3 × 5 = 15. Is 500 a perfect cube? 500 = 2² × 5³. The prime 2 appears twice (not divisible by 3), so 500 is not a perfect cube."
+            },
+            {
+              "type": "rule",
+              "title": "Prime Factorization Criterion for Perfect Cubes",
+              "text": "A number n is a perfect cube if in its prime factorization, n = p₁^(3a₁) × p₂^(3a₂) × ... × pₖ^(3aₖ), where all exponents are divisible by 3. The cube root is ∛n = p₁^(a₁) × p₂^(a₂) × ... × pₖ^(aₖ)."
+            },
+            {
+              "type": "table",
+              "headers": ["Prime Factorization of Number", "Prime Factorization of Its Cube"],
+              "rows": [
+                ["4 = 2²", "4³ = 64 = 2⁶"],
+                ["6 = 2 × 3", "6³ = 216 = 2³ × 3³"],
+                ["15 = 3 × 5", "15³ = 3375 = 3³ × 5³"],
+                ["12 = 2² × 3", "12³ = 1728 = 2⁶ × 3³"]
+              ]
+            },
+            {
+              "type": "observation",
+              "title": "Pattern in Cube Factorization",
+              "text": "When a number is cubed, each prime factor's exponent is tripled. For example, if n = 2² × 3, then n³ = 2⁶ × 3³. This is because (2² × 3)³ = (2²)³ × 3³ = 2⁶ × 3³."
+            }
+          ]
+        },
+        {
+          "topic_name": "Cube Roots",
+          "content": [
+            {
+              "type": "definition",
+              "title": "Cube Root Definition",
+              "text": "The cube root of a number y is a value x such that x³ = y. It is denoted by ∛y (or y^(1/3)). For example, ∛8 = 2 because 2³ = 8. Unlike square roots, every real number (positive, negative, or zero) has exactly one real cube root."
+            },
+            {
+              "type": "rule",
+              "title": "Cube Root Notation and Properties",
+              "text": "For a perfect cube n³, ∛(n³) = n. For example, ∛(2³) = 2, ∛(27) = ∛(3³) = 3. Cube roots of negative numbers are also defined: ∛(−8) = −2 because (−2)³ = −8."
+            },
+            {
+              "type": "example",
+              "title": "Example 17: Finding Cube Roots",
+              "text": "∛1 = 1, ∛8 = 2, ∛27 = 3, ∛64 = 4, ∛125 = 5, ∛216 = 6, ∛343 = 7, ∛512 = 8, ∛729 = 9, ∛1000 = 10."
+            },
+            {
+              "type": "paragraph",
+              "text": "To find the cube root of a number, we can use prime factorization. Group the prime factors into triplets (groups of three), and multiply one factor from each triplet. The result is the cube root."
+            },
+            {
+              "type": "example",
+              "title": "Example 18: Finding Cube Root using Prime Factorization",
+              "text": "Find ∛3375. Step 1: 3375 = 3 × 3 × 3 × 5 × 5 × 5 = 3³ × 5³. Step 2: Group into triplets: (3 × 3 × 3) and (5 × 5 × 5). Step 3: Take one from each: 3 × 5 = 15. Therefore, ∛3375 = 15."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.3 Successive Differences",
+      "topics": [
+        {
+          "topic_name": "Differences Between Consecutive Perfect Squares",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The differences between consecutive perfect squares form the sequence of odd numbers. Computing successive differences (differences of differences) eventually produces a constant sequence, revealing the underlying structure of perfect squares."
+            },
+            {
+              "type": "example",
+              "title": "Example 19: Successive Differences for Perfect Squares",
+              "text": "Perfect Squares: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, ... Level 1 (First differences): 3, 5, 7, 9, 11, 13, 15, 17, 19, ... Level 2 (Second differences): 2, 2, 2, 2, 2, 2, 2, 2, ..."
+            },
+            {
+              "type": "rule",
+              "title": "Pattern of Successive Differences",
+              "text": "For perfect squares: Level 1 differences are consecutive odd numbers: (2n − 1) for the difference between n² and (n+1)². Level 2 differences are all constant = 2. This is because the difference between odd numbers is always 2."
+            },
+            {
+              "type": "note",
+              "title": "Mathematical Explanation",
+              "text": "The difference between consecutive squares is: (n+1)² − n² = n² + 2n + 1 − n² = 2n + 1. This is the (n+1)th odd number. The difference between consecutive odd numbers is always 2, creating a constant level 2 difference."
+            }
+          ]
+        },
+        {
+          "topic_name": "Successive Differences for Perfect Cubes",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Similar to perfect squares, we can compute successive differences for perfect cubes. This process requires more levels before reaching a constant difference."
+            },
+            {
+              "type": "example",
+              "title": "Example 20: Successive Differences for Perfect Cubes",
+              "text": "Perfect Cubes: 1, 8, 27, 64, 125, 216, ... Level 1 (First differences): 7, 19, 37, 61, 91, ... Level 2 (Second differences): 12, 18, 24, 30, ... Level 3 (Third differences): 6, 6, 6, ..."
+            },
+            {
+              "type": "rule",
+              "title": "Pattern for Cubes",
+              "text": "For perfect cubes: Level 1 differences: (n+1)³ − n³ = 3n² + 3n + 1. Level 2 differences: differences of Level 1. Level 3 differences: constant = 6. This shows that cubes require three levels to reach a constant difference, compared to two levels for squares."
+            },
+            {
+              "type": "note",
+              "title": "General Pattern Observation",
+              "text": "For nth power numbers (squares, cubes, fourth powers, etc.), it takes n successive difference levels to reach a constant value. This is related to the fundamental theorem of calculus and the properties of polynomial differences."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Square Number",
+      "definition": "A number that can be expressed as the product of a number with itself, denoted as n² = n × n. For example, 25 = 5²."
+    },
+    {
+      "term": "Perfect Square",
+      "definition": "The square of a natural number. The first few perfect squares are 1, 4, 9, 16, 25, 36, 49, 64, 81, 100."
+    },
+    {
+      "term": "Cubic Number (Cube)",
+      "definition": "A number that can be expressed as the product of a number with itself three times, denoted as n³ = n × n × n. For example, 64 = 4³."
+    },
+    {
+      "term": "Perfect Cube",
+      "definition": "The cube of a natural number. The first few perfect cubes are 1, 8, 27, 64, 125, 216, 343, 512, 729, 1000."
+    },
+    {
+      "term": "Square Root",
+      "definition": "The value that, when multiplied by itself, gives the original number. The positive square root of y is denoted by √y. For example, √16 = 4."
+    },
+    {
+      "term": "Cube Root",
+      "definition": "The value that, when multiplied by itself three times, gives the original number. The cube root of y is denoted by ∛y. For example, ∛27 = 3."
+    },
+    {
+      "term": "Factor",
+      "definition": "A number that divides another number exactly without a remainder. For example, the factors of 12 are 1, 2, 3, 4, 6, and 12."
+    },
+    {
+      "term": "Prime Factorization",
+      "definition": "The expression of a number as a product of prime numbers. For example, 60 = 2² × 3 × 5."
+    },
+    {
+      "term": "Units Digit",
+      "definition": "The rightmost digit of a number; the ones place. For example, the units digit of 247 is 7."
+    },
+    {
+      "term": "Prime Number",
+      "definition": "A natural number greater than 1 that has exactly two factors: 1 and itself. Examples: 2, 3, 5, 7, 11, 13."
+    },
+    {
+      "term": "Successive Differences",
+      "definition": "The process of repeatedly finding differences between consecutive terms in a sequence until a pattern or constant value emerges."
+    },
+    {
+      "term": "Exponent (Power)",
+      "definition": "The number that indicates how many times a base number is multiplied by itself. In n², the exponent is 2; in n³, the exponent is 3."
+    },
+    {
+      "term": "Locker Puzzle",
+      "definition": "A mathematical puzzle involving 100 lockers toggled by 100 people, demonstrating the relationship between factors and perfect squares."
+    },
+    {
+      "term": "Varga",
+      "definition": "Sanskrit term used in ancient India for both a square figure and the square of a number; also refers to squared power."
+    },
+    {
+      "term": "Ghana",
+      "definition": "Sanskrit term used in ancient India for a solid cube and the cube (third power) of a number."
+    },
+    {
+      "term": "Mula",
+      "definition": "Sanskrit word meaning 'root' (of a plant) or 'basis', used in ancient India for the mathematical operations of finding square and cube roots."
+    },
+    {
+      "term": "Odd Number",
+      "definition": "A number not divisible by 2; numbers ending in 1, 3, 5, 7, or 9. Examples: 1, 3, 5, 7, 9, 11, 13."
+    },
+    {
+      "term": "Even Number",
+      "definition": "A number divisible by 2; numbers ending in 0, 2, 4, 6, or 8. Examples: 2, 4, 6, 8, 10, 12."
+    }
+  ],
+  "summary_points": [
+    "A square number (or perfect square) is a number that can be expressed as n × n = n². Geometrically, it represents the area of a square with side length n units.",
+    "Perfect squares can only end in digits 0, 1, 4, 5, 6, or 9. They can never end in 2, 3, 7, or 8. However, a number ending in one of the valid digits is not necessarily a perfect square.",
+    "Perfect squares can only have an even number of zeros at the end. A number ending in an odd number of zeros cannot be a perfect square.",
+    "Every perfect square can be expressed as the sum of the first n consecutive odd numbers, where n is the square root. For example, 25 = 1 + 3 + 5 + 7 + 9 = 5².",
+    "Between two consecutive perfect squares n² and (n+1)², there are exactly 2n non-square numbers.",
+    "A number is a perfect square if and only if each prime factor in its prime factorization appears an even number of times.",
+    "The square root of a number y is a value x such that x² = y, denoted as √y. Every positive perfect square has two integer square roots: a positive and negative value.",
+    "A cubic number (or perfect cube) is a number that can be expressed as n × n × n = n³. Geometrically, it represents the volume of a cube with side length n units.",
+    "Perfect cubes can end in any digit from 0 to 9. The units digit of a cube follows a specific pattern based on the units digit of the base number.",
+    "Every perfect cube can be expressed as the sum of n consecutive odd numbers. For example, 8 = 3 + 5 and 27 = 7 + 9 + 11.",
+    "A number is a perfect cube if and only if each prime factor in its prime factorization appears a number of times divisible by 3.",
+    "The cube root of a number y is a value x such that x³ = y, denoted as ∛y. Unlike square roots, every real number has exactly one real cube root.",
+    "Successive differences of perfect squares: Level 1 gives odd numbers, Level 2 is constant (2). Successive differences of perfect cubes: Level 3 is constant (6).",
+    "The locker puzzle demonstrates that only lockers numbered with perfect squares remain open, as only perfect squares have an odd number of factors.",
+    "In ancient India, the term 'varga' referred to squares, 'ghana' to cubes, and 'mula' (root) was used for square and cube roots. These Sanskrit terms were later adapted into Arabic and European languages.",
+    "Prime factorization provides a reliable method to identify perfect squares and cubes by checking if exponents are even (for squares) or divisible by 3 (for cubes)."
+  ]
+}

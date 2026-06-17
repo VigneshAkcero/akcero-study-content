@@ -1,0 +1,136 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Chemical Reactions and Equations",
+    "chapter_number": 1
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What fundamentally defines a chemical reaction during a physical experiment?",
+      "answer": "A process where initial substances undergo a change to form entirely new substances with distinctly different physical and chemical properties.",
+      "solution": "When a chemical change occurs, the bonds between atoms in the original matter are broken and rearranged to form fundamentally different chemical structures, confirming a chemical reaction."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What terms specifically classify the original substances actively undergoing a chemical change and the final substances produced?",
+      "answer": "The original substances are termed 'reactants', while the final new substances are uniquely termed 'products'.",
+      "solution": "In any standard chemical equation, the reactants are uniformly written on the left-hand side showing the starting materials, while the products naturally appear on the right-hand side following the directional arrow."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What is an unbalanced chemical equation formally designated as in chemical terminology?",
+      "answer": "A skeletal chemical equation.",
+      "solution": "A skeletal equation successfully lists the accurate chemical formulas for both the reactive elements and outcome products, but lacks properly distributed coefficients, leaving the atom counts mismatched between sides."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Why identically must every single chemical equation be completely and accurately balanced?",
+      "answer": "To universally satisfy the fundamental law of conservation of mass.",
+      "solution": "The law of conservation of mass decisively dictates that matter can neither be created nor mysteriously destroyed during a chemical reaction. Therefore, the absolute total mass and specific atom count of each element must remain strictly identical on both the reactant and product sides."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What uniquely defines a combination chemical reaction?",
+      "answer": "A reaction where two or more individual reactants merge together structurally to form a single unique product.",
+      "solution": "If multiple elements or compounds seamlessly combine (like Carbon and Oxygen uniting to form Carbon Dioxide: C + O₂ → CO₂), the specific presence of a singular final outcome product accurately identifies it as a combination reaction."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Which specific category of chemical reaction safely requires an external active input of energy, such as thermal heat, light, or electricity, to proceed?",
+      "answer": "A decomposition reaction (which operates inherently as an endothermic reaction).",
+      "solution": "Decomposition safely requires external aggressive energy to physically break down the cohesive internal bonds holding a single integrated chemical reactant together, successfully splitting it identically into two or more simplified products."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What explicitly characterizes the active mechanics of a displacement reaction?",
+      "answer": "A scenario where a chemically more reactive element independently displaces or removes a distinctly less reactive element from an existing compound.",
+      "solution": "Due to hierarchical variances in the reactivity series, a highly potent element has the structural capability to break the bonds of a weaker integrated element, ejecting it and aggressively taking its place within the compound."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What primary condition essentially classifies a reaction as exothermic?",
+      "answer": "The explicit evolutionary release of thermal heat energy safely outward into the surrounding environment occurring alongside the formation of products.",
+      "solution": "Exothermic reactions produce active surplus heat as chemical bonds structurally reform, naturally resulting in a strictly verifiable elevation in the measurable temperature uniformly tracked around the external reaction vessel."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "During a paired redox reaction, what identically happens structurally to a localized substance when it undergoes 'reduction'?",
+      "answer": "The substance chemically loses isolated oxygen atoms or actively gains attached hydrogen atoms.",
+      "solution": "Reduction is theoretically defined as the direct measurable loss of electronegative oxygen atoms strictly from a molecule, or equivalently, the structural addition of electropositive hydrogen atoms to that exact specific molecule."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "What environmental oxidative process drives the slow visible physical degradation of exposed iron metal over extended periods?",
+      "answer": "Corrosion, commonly referred to specifically for iron as 'rusting'.",
+      "solution": "When exposed to active atmospheric elements structurally acting as natural oxidizers, such as trapped air moisture and ambient oxygen, iron slowly transitions entirely into a brittle reddish-brown completely oxidized compound (iron oxide), progressively weakening the metal framework."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "If a solid magnesium ribbon burns with a dazzling white flame to systematically form a white powder, write safely the explicitly balanced chemical equation accurately detailing this exact specific reaction.",
+      "answer": "2Mg(s) + O₂(g) → 2MgO(s)",
+      "solution": "Magnesium aggressively reacts fully with ambient oxygen gas. The skeletal equation is Mg + O₂ → MgO. To explicitly balance the two unique oxygen atoms safely contained inside the starting O₂ molecule, correctly placing a coefficient of 2 identically in front of the MgO outcome naturally requires safely placing a matching 2 efficiently facing the Mg reactant, strictly validating conservation universally."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Why is the biological process of cellular respiration firmly classified identically as a reliable exothermic reaction?",
+      "answer": "Because it actively breaks down glucose molecules effectively combining them with oxygen safely to output and functionally release massive amounts of structured energy.",
+      "solution": "Biological digestion uniquely transforms food into basic glucose. This glucose is systematically oxidized accurately in our cells forming identically water and carbon dioxide. The crucial chemical objective and identical functional byproduct of this internal sequence uniquely is the substantial release of utilized thermal active energy strictly required correctly for living safely."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "During the formal thermal decomposition experiment actively heavily heating ferrous sulphate crystals, what distinct verifiable sensory observation dynamically signals identifying securely the evolving reaction?",
+      "answer": "The characteristic recognizable foul smell mimicking the scent of burning sulphur.",
+      "solution": "Applying intensive focal heat thoroughly decomposes explicitly the ferrous sulphate crystals cleanly into solid ferric oxide alongside two distinct evolving gases: sulphur dioxide (SO₂) and sulphur trioxide (SO₃). These specifically escaping explicit gaseous compounds accurately give completely off the uniquely suffocating reliably pungent smell."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Explicitly identify the designated substance effectively oxidized securely and the substance correctly efficiently reduced uniquely evaluating accurately the specified reaction: CuO + H₂ → Cu + H₂O.",
+      "answer": "Hydrogen (H₂) is explicitly oxidized accurately into forming H₂O, while Copper oxide (CuO) explicitly is functionally reduced strictly into Cu.",
+      "solution": "Carefully tracking the oxygen cleanly verifies determining the transfer realistically. The H₂ uniformly gains exactly an oxygen atom symmetrically transforming explicitly into H₂O reliably resulting identically in tracking its oxidation. Simultaneously cleanly, CuO identically securely loses accurately its attached identical oxygen forming uniquely isolated elemental Copper, exactly indicating safely securely its direct reduction."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Explain cleanly logically why explicitly the decomposition uniquely of silver chloride perfectly securely serves identically correctly actively utilized primarily focusing exactly in black and white photography applications.",
+      "answer": "Because ambient light efficiently generates identically a photolytic decomposition entirely breaking down exclusively the white silver chloride uniformly into a dark grey strictly visible elemental silver.",
+      "solution": "Applying exact light exposure correctly triggers predictably safely a specialized endothermic photolytic breakdown. 2AgCl(s) explicitly completely reacts to environmental light uniquely safely splitting cleanly directly outputting identically 2Ag(s) + Cl₂(g). Creating safely tracking exactly this newly formed grey completely silver layer securely capturing effectively developing exact the precise visual photographic trace securely."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Hard",
+      "question": "Consider the reaction: 3Fe(s) + 4H₂O(g) → Fe₃O₄(s) + 4H₂(g). Explain why the state symbol for water is listed as (g) instead of (l).",
+      "answer": "Iron does not react with cold or hot liquid water; it only reacts with water in the highly energized state of steam.",
+      "solution": "The physical state (g) indicates water is used in the form of steam. Because iron is moderately reactive, the extra thermal energy in steam is required to drive the chemical reaction to produce magnetic iron oxide and hydrogen gas."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Hard",
+      "question": "A shiny brown coloured element 'X' on heating in air becomes coated with a black compound. Identify element 'X' and provide the balanced chemical equation detailing exactly why this color change occurs.",
+      "answer": "Element X is copper. The black compound is copper(II) oxide formed by oxidation: 2Cu(s) + O₂(g) → 2CuO(s).",
+      "solution": "Copper is a shiny brown metal. When heated in the presence of atmospheric oxygen, it undergoes an oxidation reaction to form a surface layer of black copper(II) oxide, visually changing its appearance."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "Predict the outcome and analytically explain the type of reaction occurring when an aqueous solution of sodium sulphate completely mixes with aqueous barium chloride.",
+      "answer": "A double displacement reaction actively occurs safely producing an insoluble white precipitate definitively identified as barium sulphate: Na₂SO₄(aq) + BaCl₂(aq) → BaSO₄(s) + 2NaCl(aq).",
+      "solution": "The sulphate ions and chloride ions mutually exchange places between the sodium and barium cations. The resulting barium sulphate is highly insoluble in water, immediately falling out of the solution as a visible white solid precipitate."
+    }
+  ]
+}

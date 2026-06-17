@@ -1,0 +1,220 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Our Environment",
+    "chapter_number": 13
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What are the biotic and abiotic components of an ecosystem?",
+      "answer": "Biotic components include all living organisms (plants, animals, microorganisms); Abiotic components include physical factors like temperature, rainfall, wind, soil, and minerals.",
+      "solution": "An ecosystem consists of living organisms (biotic) and their non-living surroundings (abiotic). Both components interact to maintain a healthy balance in nature."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What is the primary role of producers in a food chain?",
+      "answer": "Producers convert solar energy into chemical energy (food) using inorganic substances and chlorophyll.",
+      "solution": "All green plants and certain bacteria are producers. They use photosynthesis to synthesize organic compounds like sugar and starch from inorganic materials using the Sun's radiant energy."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Give an example of a simple 3-step food chain and specify the organisms involved.",
+      "answer": "Grass (Producer) \u2192 Goat (Primary Consumer) \u2192 Human (Secondary Consumer).",
+      "solution": "A common 3-step food chain can be found in grassland: Grass is eaten by a goat, which in turn is consumed by a human. Each organism occupies a different trophic level."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Why are bacteria and fungi classified as decomposers?",
+      "answer": "They break down dead remains and waste products of organisms into simpler inorganic substances.",
+      "solution": "Decomposers break down complex organic matter from dead plants and animals into inorganic substances that go back into the soil and are reused by plants, ensuring the recycling of nutrients."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Classify gardens and crop-fields as natural or artificial ecosystems.",
+      "answer": "Both are human-made or artificial ecosystems.",
+      "solution": "Natural ecosystems include forests, ponds, and lakes. Artificial ecosystems, like gardens and crop-fields, are created and maintained by humans."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "In a food chain, what does each step or level represent?",
+      "answer": "Each step or level represents a 'trophic level'.",
+      "solution": "A food chain consists of various biotic levels. The producers are at the first trophic level, followed by primary, secondary, and tertiary consumers at subsequent levels."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What is the approx percentage of energy of sunlight that terrestrial green plants capture and convert into food energy?",
+      "answer": "Approximately $1\\%$.",
+      "solution": "Green plants capture only about $1\\%$ of the energy of sunlight that falls on their leaves and convert it into chemical food energy to support the ecosystem."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What is the function of the ozone layer in the atmosphere?",
+      "answer": "It shields the surface of the earth from damaging Ultraviolet (UV) radiation from the Sun.",
+      "solution": "Ozone performs an essential protective function at higher levels of the atmosphere by filtering out high-energy UV radiation, which can cause skin cancer and other health issues in humans."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Define biodegradable substances.",
+      "answer": "Substances that are broken down by biological processes (like the action of bacteria or fungi).",
+      "solution": "Materials such as paper, vegetable peels, and animal waste can be broken down naturally by biological agents; these are called biodegradable substances."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Name two human activities that impact the environment mentioned in the chapter.",
+      "answer": "Depletion of the ozone layer and waste disposal.",
+      "solution": "Human actions like the use of CFCs (affecting the ozone layer) and the generation of large amounts of garbage (affecting soil and water) are major environmental problems discussed."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Why is the flow of energy in an ecosystem considered unidirectional?",
+      "answer": "Energy captured by autotrophs does not revert to the sun, and energy passing to heterotrophs does not return to autotrophs.",
+      "solution": "Energy moves progressively through trophic levels and is progressively lost as heat. Once energy is transferred to a higher level or lost to the environment, it is no longer available to the previous level."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Explain why food chains generally consist of only 3 or 4 trophic levels.",
+      "answer": "Because energy progressively diminishes at each level, leaving very little usable energy after four levels.",
+      "solution": "Following the $10\\%$ rule, $90\\%$ of energy is lost as heat or used for digestion/work at each level. After 3 or 4 levels, the remaining energy is too low to sustain another level of consumers."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "If $10,000\\text{ J}$ of energy is available at the producer level, how much energy will potentially be available to the secondary consumer?",
+      "answer": "$100\\text{ J}$.",
+      "solution": "Using the $10\\%$ rule: (1) Primary consumer level = $10,000 \\times 0.10 = 1000\\text{ J}$. (2) Secondary consumer level = $1000 \\times 0.10 = 100\\text{ J}$."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Contrast food chains and food webs.",
+      "answer": "A food chain is a straight line of feeding relationships; a food web is a complex network formed by many interconnected food chains.",
+      "solution": "In nature, each organism is eaten by two or more other kinds of organisms. Instead of a single straight line, the relationship is a series of branching lines representing multiple interconnected paths of energy."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "What is the role of decomposers in maintaining the natural replenishment of the soil?",
+      "answer": "They recycle nutrients by breaking dead organic matter into simple inorganic substances for plant use.",
+      "solution": "Without decomposers, dead plants and animals would pile up, and essential minerals would remain locked in organic matter. Decomposers ensure that life-supporting inorganic substances return to the soil for reuse by producers."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "How do harmful chemicals like pesticides enter the human body through the food chain?",
+      "answer": "They are absorbed by plants from soil/water, passed through consumers, and accumulated most heavily in humans at the top level.",
+      "solution": "Non-degradable pesticides used on crops are absorbed by plants. These chemicals accumulate progressively at each trophic level (Biological Magnification). Since humans are at the top, they receive the highest concentrations."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Why do some human-made materials like plastics persist for a long time in the environment?",
+      "answer": "Because bacteria and other saprophytes do not possess specific enzymes to break them down.",
+      "solution": "Enzymes are specific in their action. While bacteria can break down organic matter, they cannot break down the complex bonds in plastics. Physical processes like heat and pressure act slowly, leading to long-term persistence."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "What was the significance of the 1987 UNEP agreement?",
+      "answer": "It succeeded in forging a global agreement to freeze CFC production at 1986 levels to protect the ozone layer.",
+      "solution": "The agreement aimed to limit the emission of synthetic chemicals like chlorofluorocarbons (CFCs), which were linked to the alarming thinning of the ozone layer in the 1980s."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Mention any two ways in which non-biodegradable waste affects the environment.",
+      "answer": "(1) They persist for a long time causing pollution; (2) They can harm members of the ecosystem through ingestion or chemical interference.",
+      "solution": "Non-biodegradable substances, like plastics and pesticides, stay in the environment for years, clogging drains, polluting soil/water, and causing harmful effects through biological magnification."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Why are top predators like humans most affected by pesticides in the environment?",
+      "answer": "Due to biological magnification, which causes chemical concentration to increase at each higher trophic level.",
+      "solution": "Harmful chemicals are not easily degradable or excreted. As an organism eats many individuals of the previous level, the chemical burden is concentrated. Humans at the highest level accumulate the maximum residue."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Explain the chemical process of ozone formation in the upper atmosphere.",
+      "answer": "UV radiation splits molecular oxygen ($\\mathrm{O_2}$) into individual oxygen atoms (O), which then combine with another molecule of $\\mathrm{O_2}$ to form ozone ($\\mathrm{O_3}$).",
+      "solution": "Reaction: (1) $\\mathrm{O_2 \\xrightarrow{UV} O + O}$. (2) $\\mathrm{O + O_2 \\rightarrow O_3}$. The higher energy UV radiations are the primary agents for both splitting oxygen and driving ozone synthesis."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "A terrestrial ecosystem receives $1,000,000\\text{ J}$ of solar energy. Calculate the energy available at the fourth trophic level.",
+      "answer": "$10\\text{ J}$.",
+      "solution": "(i) Captured by Producers ($1\\%$) = $10,000\\text{ J}$. (ii) Primary Consumers ($10\\%$) = $1000\\text{ J}$. (iii) Secondary Consumers ($10\\%$) = $100\\text{ J}$. (iv) Tertiary Consumers ($10\\%$) = $10\\text{ J}$."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Compare the advantages and disadvantages of using disposable kulhads versus disposable paper cups.",
+      "answer": "Kulhads are biodegradable but their large-scale production depletes fertile top-soil. Paper cups are biodegradable and do not affect top-soil.",
+      "solution": "While kulhads (clay cups) were seen as an eco-friendly alternative to plastic, making millions daily would waste fertile soil. Paper cups are currently the preferred balanced choice for hygiene and environment conservation."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "What will happen if we kill all the organisms at one trophic level (e.g., consumers)?",
+      "answer": "The population of the lower level (producers) will increase uncontrollably, while the population of the higher level will starve to death.",
+      "solution": "Removing a level disrupts the balance of the ecosystem. It stops energy transfer to higher levels and removes the natural population control for lower levels, leading to catastrophic ecological collapse."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Why is the potential impact of removing organisms from different trophic levels different?",
+      "answer": "Because different levels perform different roles, like fixing energy (producers) or recycling nutrients (decomposers).",
+      "solution": "Removing producers stops energy supply; removing decomposers stops nutrient recycling. While all are connected, the scale of immediate impact on biological processes and population explosions varies by level."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "How do improvements in lifestyle currently contribute to environmental deterioration according to the text?",
+      "answer": "Rising lifestyles lead to higher consumption and more waste generation, especially non-biodegradable packaging.",
+      "solution": "With better lifestyles, waste volume increases. Changes in attitude toward disposable convenience and plastic-heavy packaging mean more of this waste is non-biodegradable, putting severe pressure on the environment."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Why is an aquarium considered a 'human-made' ecosystem despite having natural plants and fish?",
+      "answer": "Because it is an artificial, self-sustaining system designed by humans that requires external maintenance like oxygen pumping and cleaning.",
+      "solution": "Unlike natural ponds that have balanced biological cycles for cleaning and oxygenation, an aquarium needs humans to provide food, oxygen (aerators), and periodic cleaning to prevent waste build-up."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Why is biological magnification not equal for all members of a food web?",
+      "answer": "It varies because levels depend on the organism's position in the food chain and its specific feeding habits.",
+      "solution": " Magnification increases as we go higher. Organisms at the top of long food chains accumulate much more than those in shorter chains. Humans, occupying the apex, suffer the highest concentration of non-degradable chemicals."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Suggest two practical methods for a household to reduce the problem of waste disposal.",
+      "answer": "(1) Separating biodegradable and non-biodegradable waste for composting/recycling. (2) Reducing usage of disposable plastic items.",
+      "solution": "Households can compost kitchen waste into manure (reducing landfill pressure) and ensure plastic/metal/glass goes to recycling centers. Using re-usable bags and reducing single-use packaging also minimizes waste."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Are biological magnification levels different in Different ecosystems? Explain.",
+      "answer": "Yes, they depend on the food chain's length, the initial chemical input, and the types of organisms present.",
+      "solution": "An aquatic food chain (Phytoplankton \u2192 Small fish \u2192 Large fish \u2192 Bird) might show different magnification rates compared to a terrestrial one (Grass \u2192 Goat \u2192 Human) based on the absorption rates of the chemicals involved."
+    }
+  ]
+}

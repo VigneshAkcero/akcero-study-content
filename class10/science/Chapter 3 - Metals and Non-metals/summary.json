@@ -1,0 +1,31 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Metals and Non-metals",
+    "chapter_number": 3
+  },
+  "summary": [
+    {
+      "category": "Physical and Chemical Properties",
+      "points": [
+        "Metals are characteristically lustrous, malleable, ductile, and excellent electrical conductors, whereas non-metals generally lack these distinct physical traits.",
+        "Metals readily shed valence electrons to form positive ions and basic oxides, while non-metals accept electrons to form negative ions and acidic oxides."
+      ]
+    },
+    {
+      "category": "Reactivity Series and Ionic Bonding",
+      "points": [
+        "The reactivity series systematically ranks metals by their decreasing chemical vigor, establishing their capacity to displace lesser elements from combined salt solutions.",
+        "Metals interact directly with non-metals via full electron transfer to forge strong, rigid, high-melting ionic chemical compounds."
+      ]
+    },
+    {
+      "category": "Metallurgy and Corrosion",
+      "points": [
+        "Raw metallic elements are purified from natural crust ores utilizing thermal roasting, calcination, or electrolytic reduction directly determined by their measured reactivity.",
+        "Environmental atmospheric corrosion progressively disintegrates exposed metals, a destructive oxidation process efficiently preventable via industrial galvanisation or protective alloying."
+      ]
+    }
+  ]
+}

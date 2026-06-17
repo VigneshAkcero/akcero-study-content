@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Social Science",
+    "chapter_name": "Understanding the Weather",
+    "chapter_number": 2
+  },
+  "summary": [
+    {
+      "category": "Defining Weather and Atmospheric Layers",
+      "points": [
+        "Weather is the temporary state of the atmosphere at a specific time and place, primarily occurring in the troposphere (6-18 km altitude).",
+        "The troposphere is the densest layer of the atmosphere where life exists and all major weather phenomena take place.",
+        "Variations in air temperature cause the troposphere to be thicker at the equator and thinner at the poles."
+      ]
+    },
+    {
+      "category": "The Elements of Weather",
+      "points": [
+        "The five measurable elements of weather are temperature, precipitation, atmospheric pressure, wind, and humidity.",
+        "Atmospheric pressure decreases with altitude, leading to lower oxygen levels and the need for acclimatisation in high mountain regions.",
+        "Relative humidity determines the rate of evaporation; high humidity slows down cooling and makes the environment feel warmer."
+      ]
+    },
+    {
+      "category": "Weather Instruments and Forecasting",
+      "points": [
+        "Specialized instruments like the rain gauge, barometer, anemometer, and hygrometer are used to monitor weather patterns systematically.",
+        "Meteorology uses data from automated weather stations (AWS) to provide early warnings for disasters like cyclones and heat waves.",
+        "Historical weather prediction relied on observing natural clues like animal behavior and plant responses to atmospheric changes."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "A Peek Beyond the Point",
+    "chapter_number": 3
+  },
+  "summary": [
+    {
+      "category": "Decimals and Smaller Units",
+      "points": [
+        "When precise measurements are needed, we divide units into smaller parts: 1 unit = 10 tenths (1/10), and 1 tenth = 10 hundredths (1/100); this allows measurement of lengths like 2 7/10 cm or 4 3/10 and 5/100 units accurately.",
+        "A tenth (0.1) and a hundredth (0.01) follow the same base-10 principle used in whole numbers, making it easy to add and subtract decimals by arranging digits by place value.",
+        "Zeros after the decimal point do not change value (0.2 = 0.20 = 0.200), but zeros in the middle do matter (0.2 ≠ 0.02); trailing zeros can be omitted when writing decimal numbers."
+      ]
+    },
+    {
+      "category": "Decimal Place Value System and Notation",
+      "points": [
+        "The decimal point (.) marks the separation between whole numbers and fractional parts; place values to the right of the decimal point are 10 times smaller than the place value to their left, extending the Indian place-value system to numbers smaller than 1.",
+        "A number like 234 tenths equals 23.4 in decimal form, and 234 hundredths equals 2.34; understanding how to express fractional units as decimals is crucial for accurate representation and comparison.",
+        "The decimal system is based on 10 because it naturally extends the place-value principle: each place is 10 times the next (ones, tenths, hundredths, thousandths, etc.), making calculations and conversions systematic and manageable."
+      ]
+    },
+    {
+      "category": "Comparing Decimals and Metric Conversions",
+      "points": [
+        "To compare decimals, compare digits at each place value from left to right; the first difference found (e.g., 6.456 < 6.465 because 5 < 6 in the hundredths place) determines which number is larger.",
+        "In the metric system, 1 cm = 10 mm, 1 m = 100 cm, 1 kg = 1000 g; these base-10 relationships make metric conversions straightforward using decimal notation (e.g., 56 mm = 5.6 cm, 254 g = 0.254 kg).",
+        "Decimals can be located precisely on a number line by dividing intervals into 10 equal parts; magnifying successive intervals reveals positions of decimals with more decimal places (e.g., locating 4.185)."
+      ]
+    }
+  ]
+}

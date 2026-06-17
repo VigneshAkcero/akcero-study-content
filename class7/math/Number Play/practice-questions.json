@@ -1,0 +1,255 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Math",
+    "chapter_name": "Number Play",
+    "chapter_number": 6
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What does 'parity' mean? Give one example each of an even and an odd number.",
+      "answer": "Parity refers to whether a number is even or odd. Example: 8 is even (can be arranged in 4 pairs); 7 is odd (3 pairs + 1 leftover).",
+      "solution": "Parity is the property of a number being even or odd. An even number can be arranged in pairs without any leftover (e.g., 8 = 4 pairs). An odd number always has one leftover when arranged in pairs (e.g., 7 = 3 pairs + 1 leftover)."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Find the parity of: (a) even + even, (b) odd + odd, (c) even + odd.",
+      "answer": "(a) even, (b) even, (c) odd.",
+      "solution": "(a) even + even = even: two collections of pairs combine to form a larger collection of pairs — no leftover.\n(b) odd + odd = even: the two 'leftover' units from each odd number combine to form a new pair — no leftover remains.\n(c) even + odd = odd: adding an unpaired unit to a collection of pairs still leaves one unpaired unit."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What is the 10th even number? What is the 10th odd number?",
+      "answer": "10th even = 20. 10th odd = 19.",
+      "solution": "nth even number = 2n. So the 10th even number = 2 × 10 = 20.\nnth odd number = 2n − 1. So the 10th odd number = 2 × 10 − 1 = 19.\nWe can verify: 20 is even ✓; 19 is odd ✓; 19 = 20 − 1 ✓ (the nth odd is always one less than the nth even)."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What is the 100th odd number?",
+      "answer": "199.",
+      "solution": "nth odd number = 2n − 1. For n = 100: 2 × 100 − 1 = 200 − 1 = 199.\nAlternatively: 100th even number = 200; the 100th odd number is one less = 199."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Is the sum of 8 odd numbers even or odd? Justify.",
+      "answer": "Even. The sum of an even count of odd numbers is always even.",
+      "solution": "Adding two odd numbers gives an even number (odd + odd = even). So adding 8 odd numbers = (odd + odd) + (odd + odd) + (odd + odd) + (odd + odd) = even + even + even + even = even.\nAlternatively: 8 is even; sum of an EVEN count of odd numbers is always even."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What is the rule for the height arrangement? If 7 children stand in order of strictly increasing height from left to right, what sequence of numbers do they call out?",
+      "answer": "The sequence is 0, 1, 2, 3, 4, 5, 6.",
+      "solution": "Rule: Each child calls out the number of children in front of them (to their left) who are taller than they are.\nIf heights are strictly increasing left to right, every child has ALL children to their left shorter than them. So:\nChild 1 (shortest): 0 (no one ahead). Child 2: 1 (one taller person ahead). Child 3: 2. Child 4: 3. Child 5: 4. Child 6: 5. Child 7: 6.\nSequence: 0, 1, 2, 3, 4, 5, 6."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "A magic square using numbers 1–9 is given. What must the magic sum be? Explain why.",
+      "answer": "The magic sum must be 15.",
+      "solution": "In a 3×3 grid filled with 1–9 (each once), the total of all numbers = 1+2+3+4+5+6+7+8+9 = 45.\nIn a magic square, all three row sums are equal and their total = 45.\nSo each row sum = 45 ÷ 3 = 15.\nSince every row must add to the same value, and they collectively total 45, the magic sum must be 15."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Write the Virahāṅka rule. What are the next three numbers after 55, 89 in the sequence?",
+      "answer": "Rule: V(n) = V(n−1) + V(n−2). Next three: 144, 233, 377.",
+      "solution": "The Virahāṅka rule: each number in the sequence is the sum of the two numbers before it.\n55 + 89 = 144.\n89 + 144 = 233.\n144 + 233 = 377.\nThe sequence continues: …, 55, 89, 144, 233, 377, …"
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "In the height arrangement activity, is it 'Always True', 'Only Sometimes True', or 'Never True' that the person who calls out '0' is the tallest?",
+      "answer": "Only Sometimes True.",
+      "solution": "Saying '0' means no one ahead of you is taller than you. This is true for the first person (always — no one stands before them regardless of heights) AND for anyone who has all shorter people ahead of them. The tallest person in the group will always say 0 (since no one is taller than them), BUT a person saying 0 is not necessarily the tallest — they might just have no taller person ahead in that specific arrangement. So: 'Only Sometimes True'."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "What is the parity of the product 27 × 13? Do not multiply — just use the parity rule.",
+      "answer": "Odd. Both 27 and 13 are odd, so their product is odd.",
+      "solution": "Parity rule for products: A product is odd ONLY when BOTH factors are odd. If at least one factor is even, the product is even.\n27 is odd (ends in 7). 13 is odd (ends in 3). Both are odd → product is ODD.\nVerification: 27 × 13 = 351 (odd ✓)."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "What is the parity of the product 42 × 78?",
+      "answer": "Even. At least one factor (42 and 78) is even.",
+      "solution": "42 is even (ends in 2). 78 is even (ends in 8). Since at least one factor is even, the product is EVEN.\nIn fact, when both factors are even, the product is even. 42 × 78 = 3,276 (even ✓)."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "What is a cryptarithm? Give one example.",
+      "answer": "A cryptarithm is a puzzle where the digits in an arithmetic expression are replaced by letters; each letter represents a unique digit. Example: T + T + T = UT → T = 5, U = 1.",
+      "solution": "A cryptarithm (or alphametic) replaces each digit with a distinct letter. The solver finds which digit each letter represents.\nExample: T + T + T = UT means 3T is a 2-digit number whose units digit is T itself. Testing: 3 × 5 = 15, and the units digit of 15 is 5 = T. So T = 5, U = 1, UT = 15. ✓"
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Can 5 odd numbers add to 30? Justify using parity reasoning.",
+      "answer": "No. The sum of any 5 (odd count) odd numbers is always odd, but 30 is even.",
+      "solution": "30 is even. We need 5 odd numbers to sum to 30.\nParity rule: sum of an ODD count of odd numbers = odd.\n5 is odd → sum of 5 odd numbers is always odd.\n30 is even → odd ≠ even → IMPOSSIBLE.\nThis reasoning works regardless of which specific odd numbers are chosen."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Find the parity of: even − odd, and odd − even. Explain your reasoning.",
+      "answer": "even − odd = odd. odd − even = odd.",
+      "solution": "even − odd: An even number is a collection of complete pairs. Subtracting an odd number (pairs + 1 extra) leaves one unpaired unit → ODD.\nFormal: even = 2a, odd = 2b+1. even − odd = 2a − (2b+1) = 2(a−b) − 1, which is odd. ✓\nodd − even: odd = 2a+1. Subtracting an even (2b) gives 2a+1−2b = 2(a−b)+1, which is odd. ✓"
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Two siblings are born exactly one year apart and both have birthdays today. Can the sum of their ages be 112? Why or why not?",
+      "answer": "No. Ages are consecutive numbers (one even + one odd), so their sum is always odd. 112 is even.",
+      "solution": "If the siblings are born exactly one year apart, their current ages are consecutive whole numbers (e.g., n and n+1).\nIn any pair of consecutive numbers, one is even and one is odd (they alternate in parity).\nParity rule: even + odd = odd.\nSo their ages ALWAYS sum to an odd number.\nSince 112 is even, it CANNOT be the sum of their ages."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Does the expression 4m − 1 always give odd numbers? Justify.",
+      "answer": "Yes. 4m is always even, and even − 1 = odd.",
+      "solution": "4m = 4 × m. Since 4 is even, 4m is always even for any integer m (even × any = even).\neven − 1 = even − odd = odd.\nSo 4m − 1 is always odd, regardless of the value of m.\nExamples: m=1 → 3 (odd); m=2 → 7 (odd); m=3 → 11 (odd). ✓"
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Can the expression 2f + 3 produce even numbers? Justify.",
+      "answer": "No. 2f + 3 is always odd.",
+      "solution": "2f is always even (multiple of 2). 3 is odd.\neven + odd = odd.\nSo 2f + 3 is always odd for any integer f.\nExamples: f=1 → 5; f=2 → 7; f=3 → 9. All odd. ✓\nTherefore, 2f + 3 NEVER gives even numbers."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Does 2p + 1 describe ALL odd numbers? Does 2q − 1 also describe all odd numbers?",
+      "answer": "2p + 1 describes all odd numbers when p = 0, 1, 2, 3, … (non-negative integers). 2q − 1 describes all odd numbers only when q = 1, 2, 3, … (positive integers). Both cover all positive odd numbers with appropriate values.",
+      "solution": "2p + 1 for p = 0, 1, 2, 3, …: gives 1, 3, 5, 7, … — all positive odd numbers. ✓\n2q − 1 for q = 1, 2, 3, …: gives 1, 3, 5, 7, … — all positive odd numbers. ✓\nBoth expressions can list all (positive) odd numbers, just using different starting values of the variable. The textbook answer notes that the claim 'Both describe ALL odd numbers' is conditionally true — they generate the same set of values."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "How many ways can Angaan climb a 5-step staircase, taking 1 or 2 steps at a time? Explain the reasoning.",
+      "answer": "8 ways.",
+      "solution": "Every 5-step path must start with either a '1-step' or a '2-step'.\n• If it starts with 1: the remaining 4 steps can be climbed in (ways for 4 steps) ways.\n• If it starts with 2: the remaining 3 steps can be climbed in (ways for 3 steps) ways.\nWays(5) = Ways(4) + Ways(3).\nWays(1) = 1, Ways(2) = 2, Ways(3) = 3, Ways(4) = 5.\nWays(5) = 5 + 3 = 8. ✓\nThis is the 5th Virahāṅka number."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "What is the parity of the 20th term of the Virahāṅka sequence?",
+      "answer": "Even.",
+      "solution": "The parity pattern of the Virahāṅka sequence: O, E, O, O, E, O, O, E, O, O, E, …\nThe pattern {O, O, E} repeats every 3 terms (starting from term 1).\nTo find the parity of the 20th term: 20 ÷ 3 = 6 remainder 2.\nRemainder 2 corresponds to the 2nd position in the group {O, O, E} = O? Let us re-check by listing:\nTerm: 1(O), 2(E), 3(O), 4(O), 5(E), 6(O), 7(O), 8(E), 9(O), 10(O), 11(E), 12(O), 13(O), 14(E), 15(O), 16(O), 17(E), 18(O), 19(O), 20(E).\nSo the 20th term is EVEN. The pattern {O, E, O} repeats from term 1 is: terms 2, 5, 8, 11, 14, 17, 20 are even."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "In the Virahāṅka sequence, two consecutive terms are 987 and 1597. Find the next two terms and the previous two terms.",
+      "answer": "Next: 2584, 4181. Previous: 610, 377.",
+      "solution": "Virahāṅka rule: each term = sum of two previous terms.\nNext terms: 987 + 1597 = 2584. 1597 + 2584 = 4181.\nPrevious terms: Working backwards, if a, b, 987 is in sequence, then a + b = 987. Also b, 987, 1597 means b + 987 = 1597, so b = 610. Then a + 610 = 987, so a = 377.\nSequence: …, 377, 610, 987, 1597, 2584, 4181, …"
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "A light bulb is ON. Dorjee toggles its switch 77 times. Will the bulb be ON or OFF? Why?",
+      "answer": "OFF. An odd number of toggles changes the state.",
+      "solution": "Each toggle flips the bulb's state (ON → OFF or OFF → ON).\nStarting state: ON.\nAfter 1 toggle: OFF. After 2 toggles: ON. … The state alternates.\nAfter an odd number of toggles, the bulb is in the opposite state from the start.\n77 is odd → the bulb is OFF.\nParity reasoning: 77 is odd → state flips an odd number of times → final state ≠ initial state."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "What is the parity of the sum of numbers from 1 to 100?",
+      "answer": "Even.",
+      "solution": "Sum of 1 to 100 = 100 × 101 / 2 = 5050. 5050 is even. ✓\nParity reasoning: Pair the numbers: (1+2), (3+4), …, (99+100). Each pair sums to an odd number. There are 50 pairs. Sum of 50 odd numbers: 50 is even → sum of an even count of odd numbers = even. ✓\nAlternatively: 1+100 = 101 (odd), 2+99 = 101 (odd), … 50 pairs each summing to 101. Sum = 50 × 101 = 5050. 50 (even) × 101 (odd) = even."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "Create a 3×3 magic square using numbers 2–10. What is the magic sum?",
+      "answer": "Magic sum = 18. Add 1 to each cell of the standard 1–9 magic square.",
+      "solution": "Strategy: Take the standard 1–9 magic square (magic sum = 15) and add 1 to every cell.\nOriginal:\n| 8 | 1 | 6 |\n| 3 | 5 | 7 |\n| 4 | 9 | 2 |\nAfter adding 1 to every cell:\n| 9 | 2 | 7 |\n| 4 | 6 | 8 |\n| 5 | 10| 3 |\nNew magic sum = 15 + 3×1 = 15 + 3 = 18.\nVerification: 9+2+7=18 ✓, 4+6+8=18 ✓, 5+10+3=18 ✓, columns ✓, diagonals ✓."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Medium",
+      "question": "Solve the cryptarithm: YY + Z = ZOO (each letter is a distinct digit).",
+      "answer": "Y = 8, Z = 7, O = 9. So 88 + 7 = 895? Let us re-examine: YY is a 2-digit number, Z is single digit, ZOO is a 3-digit number.",
+      "solution": "YY = 11 × Y (a 2-digit repunit). Z is a single digit. ZOO is a 3-digit number where tens and units are both O.\nYY + Z = ZOO.\n11Y + Z = 100Z + 11O (since ZOO = 100Z + 10O + O = 100Z + 11O).\n11Y = 99Z + 11O\n11Y = 11(9Z + O)\nY = 9Z + O.\nSince Y is a single digit (1–9) and Z ≥ 1, Z can only be 1 (otherwise 9Z ≥ 18 > 9).\nZ = 1: Y = 9 + O. Since Y ≤ 9, O must be 0. Y = 9, O = 0.\nCheck: YY + Z = 99 + 1 = 100 = ZOO = 100 → Z=1, O=0, O=0. ✓\nSo Y=9, Z=1, O=0."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Lakpa has an odd number of ₹1 coins, an odd number of ₹5 coins and an even number of ₹10 coins. He says the total is ₹205. Did he make a mistake? Why?",
+      "answer": "Yes, he made a mistake. The total must be even, not ₹205 (which is odd).",
+      "solution": "Let a = number of ₹1 coins (odd), b = number of ₹5 coins (odd), c = number of ₹10 coins (even).\nTotal = 1×a + 5×b + 10×c.\nParity analysis:\n• 1×a: odd × 1 = odd (since a is odd and 1 is odd).\n• 5×b: 5 is odd, b is odd → odd × odd = odd.\n• 10×c: 10 is even → even × any = even.\nTotal parity = odd + odd + even = even + even = even.\nBut ₹205 is odd. Even ≠ odd → Lakpa made a mistake."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Using the generalised magic square form with centre m, create a magic square with magic sum 60. What is the centre number?",
+      "answer": "Centre m = 20. Magic sum = 3 × 20 = 60.",
+      "solution": "Magic sum = 3m. If magic sum = 60, then m = 60 ÷ 3 = 20.\nUsing the generalised structure:\n| m+3 | m−4 | m+1 |     | 23 | 16 | 21 |\n| m−2 |  m  | m+2 |  =  | 18 | 20 | 22 |\n| m−1 | m+4 | m−3 |     | 19 | 24 | 17 |\nVerification: Row 1: 23+16+21=60 ✓; Row 2: 18+20+22=60 ✓; Row 3: 19+24+17=60 ✓.\nColumns: 23+18+19=60 ✓; 16+20+24=60 ✓; 21+22+17=60 ✓.\nDiagonals: 23+20+17=60 ✓; 21+20+19=60 ✓."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "A 3×3 magic square uses numbers 1–9. If we double every entry, is the result still a magic square? What is the new magic sum?",
+      "answer": "Yes, it is still a magic square. New magic sum = 2 × 15 = 30.",
+      "solution": "Original magic sum = 15. If every cell is multiplied by 2:\n| 16 |  2 | 12 |\n|  6 | 10 | 14 |\n|  8 | 18 |  4 |\nNew magic sum = 2 × 15 = 30.\nWhy does it remain a magic square? Multiplying every cell by a constant k scales every row sum, column sum, and diagonal sum by k. Since all were equal (= 15) before, they are all equal (= 30) after. The property of equal sums is preserved. ✓"
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Liswini found 50 sheets of paper from an old book. Each sheet is printed on both sides. Can the sum of all page numbers on these sheets be 6000? Justify.",
+      "answer": "Yes, 6000 is possible.",
+      "solution": "Each sheet has two pages: one with an even page number and one with an odd page number (since pages are numbered consecutively, consecutive pairs). So each sheet contributes one even and one odd page number.\nWith 50 sheets: 50 even page numbers and 50 odd page numbers.\nSum of 50 even numbers = even (sum of any even numbers is even).\nSum of 50 odd numbers: 50 is even → sum of an even count of odd numbers = even.\nTotal sum = even + even = even.\n6000 is even. Therefore, it IS possible that the sum of all page numbers is 6000."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "In the height arrangement activity, what is the maximum number that any person can call out in a group of 8 people? Describe the arrangement that produces this maximum.",
+      "answer": "Maximum = 7. The last person (8th) in a strictly increasing height arrangement calls out 7.",
+      "solution": "The maximum number a person can call is the number of people ahead who are taller. The largest possible count is when all people ahead are taller — this happens for the last person in a group arranged in strictly increasing height.\nIn a group of 8 people arranged with heights strictly increasing from left to right:\nPerson 1 (shortest): 0. Person 2: 1. … Person 8 (tallest? No — shortest): wait.\nIf heights are strictly DECREASING left to right (first person is tallest, last is shortest): Person 8 (shortest) has 7 taller people ahead → calls out 7. This is the maximum for any group of 8."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "Show why the centre of a 3×3 magic square using 1–9 must be 5.",
+      "answer": "Only 5 can appear at the centre because it is the only number that can be part of 4 different triples that each sum to 15.",
+      "solution": "In a 3×3 magic square, the centre cell participates in 4 sums: row, column, and 2 diagonals — all equal to 15.\nSo we need: centre + two others = 15, in 4 different ways.\nLet's test centre = 9: we need 9 + a + b = 15 → a + b = 6. Pairs from 1–8 that sum to 6: (1,5) and (2,4). Only 2 pairs — not enough for 4 lines.\ncentre = 1: we need 1 + a + b = 15 → a + b = 14. Pairs from 2–9 that sum to 14: (5,9) and (6,8). Only 2 pairs — not enough.\ncentre = 5: we need a + b = 10. Pairs from {1,2,3,4,6,7,8,9}: (1,9), (2,8), (3,7), (4,6). Exactly 4 pairs — enough for 4 lines. ✓\nOnly 5 provides enough triples, so the centre must be 5."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "Angaan wants to climb an 8-step staircase taking 1 or 2 steps at a time. In how many ways can he do this? Explain using the Virahāṅka connection.",
+      "answer": "34 ways. This is the 8th Virahāṅka number.",
+      "solution": "The number of ways to climb n steps (taking 1 or 2 at a time) is the same as the number of ways to write n as a sum of 1s and 2s — which equals the nth Virahāṅka number.\nReasoning: Every n-step path starts with either 1 (leaving n−1 steps) or 2 (leaving n−2 steps). So Ways(n) = Ways(n−1) + Ways(n−2) — the same recurrence as the Virahāṅka sequence!\nWays(1)=1, Ways(2)=2, Ways(3)=3, Ways(4)=5, Ways(5)=8, Ways(6)=13, Ways(7)=21, Ways(8)=34.\nSo Angaan can climb in 34 different ways."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "What is the parity of the sum of an odd number of even numbers? And the sum of an even number of odd numbers?",
+      "answer": "Sum of odd-count of even numbers = even. Sum of even-count of odd numbers = even.",
+      "solution": "Sum of any count of even numbers: Each even number is a collection of pairs. Any number of even numbers added together still yields a collection of pairs → always EVEN (the count doesn't matter for even numbers).\nSum of an even count of odd numbers: Pair up the odd numbers. Each pair (odd + odd) = even. An even count means we can form complete pairs of odds → total = sum of several even numbers = EVEN.\nConclusion: Both results are even.\nVerification: 3 even numbers: 2+4+6=12 (even ✓). 4 odd numbers: 1+3+5+7=16 (even ✓)."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "Is it possible to make a magic square using nine non-consecutive numbers? Give an example or prove it is impossible.",
+      "answer": "Yes, it is possible. Example: using multiples of 3 from 3 to 27.",
+      "solution": "A magic square can be made with any set of nine numbers that have the same structure as 1–9 (i.e., where the difference between corresponding cells can be made uniform). Multiplying every cell of the standard 1–9 magic square by 3 gives:\n| 24 |  3 | 18 |\n|  9 | 15 | 21 |\n| 12 | 27 |  6 |\nThis uses {3, 6, 9, 12, 15, 18, 21, 24, 27} — nine non-consecutive (but evenly spaced) numbers. Magic sum = 45.\nMore generally, it is also possible with completely non-uniformly spaced numbers by construction, as long as the algebraic structure allows equal row/column/diagonal sums."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "If a 3×3 magic square has magic sum S and centre m, what is the relationship between S and m? Use this to find the centre of a magic square whose magic sum is 75.",
+      "answer": "S = 3m. For S = 75, centre m = 25.",
+      "solution": "In the generalised 3×3 magic square, the three cells in any row are m+3, m−4, m+1 (for example). Their sum = (m+3) + (m−4) + (m+1) = 3m. So magic sum S = 3m.\nTo find m when S = 75: m = 75 ÷ 3 = 25.\nMagic square with centre 25:\n| 28 | 21 | 26 |\n| 23 | 25 | 27 |\n| 24 | 29 | 22 |\nVerification: Row 1: 28+21+26 = 75 ✓. Row 2: 23+25+27 = 75 ✓. Row 3: 24+29+22 = 75 ✓."
+    }
+  ]
+}

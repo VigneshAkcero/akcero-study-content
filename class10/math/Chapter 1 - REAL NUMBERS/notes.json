@@ -1,0 +1,385 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Real Numbers",
+    "chapter_number": 1
+  },
+  "notes": [
+    {
+      "section_title": "1.1 Introduction to Real Numbers",
+      "topics": [
+        {
+          "topic_name": "Overview of Real Numbers and Positive Integers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In previous classes, you have studied real numbers and encountered irrational numbers. This chapter continues the discussion on real numbers and focuses on important properties of positive integers. The two main theorems studied in this chapter are Euclid's Division Algorithm and the Fundamental Theorem of Arithmetic. These theorems form the foundation of number theory and have numerous applications in solving problems related to divisibility of integers. Understanding these theorems provides deep insight into the structure and properties of integers."
+            },
+            {
+              "type": "note",
+              "title": "Real Numbers Overview",
+              "text": "Real numbers include all rational numbers (which can be expressed as p/q where p, q are integers and q ≠ 0) and irrational numbers (which cannot be expressed as p/q). The set of real numbers is denoted by ℝ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.2 Euclid's Division Algorithm",
+      "topics": [
+        {
+          "topic_name": "Statement and Understanding of Euclid's Division Algorithm",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Euclid's Division Algorithm is one of the most important algorithms in number theory. It is based on the division process you are familiar with from elementary school. When we divide one positive integer by another, we get a quotient and a remainder. Euclid's Division Algorithm formalizes this process and states that for any two positive integers a and b, we can write a = bq + r, where q is the quotient and r is the remainder. This relationship always holds with the constraint that r is smaller than b."
+            },
+            {
+              "type": "note",
+              "title": "Euclid's Division Algorithm Statement",
+              "text": "If a and b are any two positive integers with b ≠ 0, then there exist unique integers q (quotient) and r (remainder) such that: a = bq + r, where 0 ≤ r < b. Here, a is the dividend, b is the divisor, q is the quotient, and r is the remainder."
+            },
+            {
+              "type": "paragraph",
+              "text": "The condition 0 ≤ r < b ensures that the remainder is always non-negative and strictly less than the divisor. If r = 0, then a is divisible by b, or b is a factor of a. If r ≠ 0, then b does not divide a, and the remainder r is the 'leftover' after division."
+            },
+            {
+              "type": "example",
+              "title": "Applying Euclid's Division Algorithm",
+              "content": "Example 1: Divide 32 by 5. Using the algorithm: 32 = 5 × 6 + 2. Here, a = 32, b = 5, q = 6, r = 2. The condition 0 ≤ 2 < 5 is satisfied.\n\nExample 2: Divide 45 by 9. 45 = 9 × 5 + 0. Here, a = 45, b = 9, q = 5, r = 0. Since r = 0, 9 divides 45 exactly.\n\nExample 3: Find the quotient and remainder when 155 is divided by 12. 155 = 12 × 12 + 11. Here, q = 12, r = 11. We can verify: 12 × 12 = 144, and 144 + 11 = 155. ✓"
+            }
+          ]
+        },
+        {
+          "topic_name": "Finding HCF (Highest Common Factor) Using Euclid's Algorithm",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "One of the most important applications of Euclid's Division Algorithm is finding the HCF (also called GCD—Greatest Common Divisor) of two positive integers. The HCF of two numbers a and b is the largest positive integer that divides both a and b without leaving a remainder. Euclid's Algorithm provides an efficient method to find the HCF by repeatedly applying the division algorithm until the remainder becomes zero. The divisor at that step is the HCF."
+            },
+            {
+              "type": "note",
+              "title": "Euclid's Algorithm for Finding HCF",
+              "text": "To find HCF(a, b) where a > b: Apply division algorithm repeatedly: a = bq₁ + r₁. If r₁ = 0, then HCF(a,b) = b. If r₁ ≠ 0, then apply algorithm to b and r₁: b = r₁q₂ + r₂. Continue until remainder becomes 0. The last non-zero remainder is the HCF(a,b)."
+            },
+            {
+              "type": "paragraph",
+              "text": "The process works because of the following property: HCF(a, b) = HCF(b, r) where r is the remainder when a is divided by b. This property allows us to reduce the problem to smaller numbers at each step until we reach a remainder of zero, at which point the HCF is found."
+            },
+            {
+              "type": "example",
+              "title": "Finding HCF Using Euclid's Algorithm",
+              "content": "Example 1: Find HCF(96, 404).\nStep 1: 404 = 96 × 4 + 20 (so HCF(404, 96) = HCF(96, 20))\nStep 2: 96 = 20 × 4 + 16 (so HCF(96, 20) = HCF(20, 16))\nStep 3: 20 = 16 × 1 + 4 (so HCF(20, 16) = HCF(16, 4))\nStep 4: 16 = 4 × 4 + 0 (so HCF(16, 4) = 4)\nTherefore, HCF(96, 404) = 4.\n\nExample 2: Find HCF(867, 255).\nStep 1: 867 = 255 × 3 + 102\nStep 2: 255 = 102 × 2 + 51\nStep 3: 102 = 51 × 2 + 0\nTherefore, HCF(867, 255) = 51."
+            }
+          ]
+        },
+        {
+          "topic_name": "Significance and Applications of Euclid's Algorithm",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Euclid's Division Algorithm is significant because it provides an efficient computational method for finding the HCF of two numbers, which is a fundamental concept in number theory and has practical applications. The algorithm is elegant because it reduces the problem size at each step, ensuring that it terminates in a finite number of steps. This makes it one of the oldest and most efficient algorithms in mathematics. The algorithm is still used in modern cryptography and computer science."
+            },
+            {
+              "type": "paragraph",
+              "text": "Applications include: (i) Simplifying fractions to their lowest terms (by dividing numerator and denominator by their HCF). (ii) Finding the Least Common Multiple (LCM) using the relationship: HCF(a,b) × LCM(a,b) = a × b. (iii) Solving Diophantine equations and problems in cryptography. (iv) Understanding the structure of the integers and divisibility properties."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.3 The Fundamental Theorem of Arithmetic",
+      "topics": [
+        {
+          "topic_name": "Statement and Understanding of the Fundamental Theorem",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Fundamental Theorem of Arithmetic is one of the most important theorems in mathematics. It states that every composite number (a number greater than 1 that has factors other than 1 and itself) can be expressed as a product of prime numbers, and this factorisation is unique except for the order in which the prime factors occur. This means that every composite number has exactly one way of being expressed as a product of primes (regardless of the order in which we write them)."
+            },
+            {
+              "type": "note",
+              "title": "Fundamental Theorem of Arithmetic",
+              "text": "Every composite number can be factorised as a product of primes in a unique way, except for the order of the prime factors. Mathematically: If n is a composite number, then n = p₁^a₁ × p₂^a₂ × ... × pₖ^aₖ, where p₁, p₂, ..., pₖ are distinct primes and a₁, a₂, ..., aₖ are positive integers. This factorisation is unique up to the order of the factors."
+            },
+            {
+              "type": "paragraph",
+              "text": "For example, 12 can be written as 2 × 2 × 3 or 2 × 3 × 2 or 3 × 2 × 2, but all of these are considered the same factorisation. When we write 12 in standard form with prime factors in ascending order, we get 12 = 2² × 3. Similarly, 32760 = 2³ × 3² × 5 × 7 × 13 is the unique prime factorisation in standard form."
+            },
+            {
+              "type": "example",
+              "title": "Prime Factorisation Examples",
+              "content": "Example 1: Find the prime factorisation of 32760.\nUsing a factor tree or repeated division:\n32760 = 2 × 16380 = 2 × 2 × 8190 = 2 × 2 × 2 × 4095 = 2³ × 4095\n4095 = 3 × 1365 = 3 × 3 × 455 = 3² × 455\n455 = 5 × 91 = 5 × 7 × 13\nTherefore, 32760 = 2³ × 3² × 5 × 7 × 13\n\nExample 2: Find the prime factorisation of 360.\n360 = 2 × 180 = 2 × 2 × 90 = 2 × 2 × 2 × 45 = 2³ × 45\n45 = 9 × 5 = 3² × 5\nTherefore, 360 = 2³ × 3² × 5"
+            }
+          ]
+        },
+        {
+          "topic_name": "Applications: Finding HCF and LCM Using Prime Factorisation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Using the Fundamental Theorem of Arithmetic, we can find the HCF and LCM of two or more numbers by examining their prime factorisations. The HCF is found by taking the lowest power of each common prime factor. The LCM is found by taking the highest power of each prime factor that appears in any of the numbers."
+            },
+            {
+              "type": "note",
+              "title": "Finding HCF and LCM from Prime Factorisations",
+              "text": "HCF = Product of lowest powers of all common prime factors. LCM = Product of highest powers of all prime factors appearing in the numbers. For two numbers a and b: HCF(a,b) × LCM(a,b) = a × b"
+            },
+            {
+              "type": "example",
+              "title": "Finding HCF and LCM Using Prime Factorisation",
+              "content": "Example 1: Find HCF and LCM of 6 and 20.\n6 = 2 × 3\n20 = 2² × 5\nCommon prime factors: 2 (with lowest power 2¹)\nHCF(6, 20) = 2¹ = 2\nAll prime factors: 2, 3, 5 (with highest powers 2², 3¹, 5¹)\nLCM(6, 20) = 2² × 3 × 5 = 4 × 3 × 5 = 60\nVerification: HCF × LCM = 2 × 60 = 120 = 6 × 20 ✓\n\nExample 2: Find HCF and LCM of 96 and 404.\n96 = 2⁵ × 3\n404 = 2² × 101\nCommon prime factor: 2 (with lowest power 2²)\nHCF(96, 404) = 2² = 4\nAll prime factors: 2, 3, 101 (with highest powers 2⁵, 3¹, 101¹)\nLCM(96, 404) = 2⁵ × 3 × 101 = 32 × 3 × 101 = 9696\nVerification: 4 × 9696 = 38784 = 96 × 404 ✓"
+            }
+          ]
+        },
+        {
+          "topic_name": "Application: Proving Numbers End with Zero",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A number ends with the digit zero if and only if it is divisible by 10, which means it must have both 2 and 5 as prime factors. Using the Fundamental Theorem of Arithmetic and its uniqueness, we can determine whether a number (or an expression) can end with zero by checking if both 2 and 5 appear in its prime factorisation."
+            },
+            {
+              "type": "example",
+              "title": "Proving When a Number Ends with Zero",
+              "content": "Example 1: Can 4ⁿ ever end with the digit zero, for any natural number n?\n4ⁿ = (2²)ⁿ = 2²ⁿ\nThe only prime factor of 4ⁿ is 2. Since 5 does not appear in the prime factorisation, 4ⁿ is never divisible by 10, and therefore can never end with the digit zero for any natural number n.\n\nExample 2: Can 6ⁿ ever end with the digit zero, for any natural number n?\n6ⁿ = (2 × 3)ⁿ = 2ⁿ × 3ⁿ\nThe prime factors of 6ⁿ are 2 and 3. Since 5 does not appear, 6ⁿ can never be divisible by 10, so it can never end with zero.\n\nExample 3: Can 20ⁿ ever end with only the digit zero (i.e., is 20ⁿ always divisible by 10)?\n20ⁿ = (2² × 5)ⁿ = 2²ⁿ × 5ⁿ\nThe prime factors are 2 and 5, so 20ⁿ is always divisible by 10, and therefore always ends with at least one zero. In fact, 20ⁿ = 2²ⁿ × 5ⁿ contains n factors of 10 (since min(2n, n) = n), so 20ⁿ always ends with exactly n zeros."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.4 Revisiting Irrational Numbers",
+      "topics": [
+        {
+          "topic_name": "Definition and Examples of Irrational Numbers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "An irrational number is a real number that cannot be expressed in the form p/q, where p and q are integers with q ≠ 0. In other words, irrational numbers are real numbers that are not rational. Irrational numbers have non-terminating, non-repeating decimal expansions. Some well-known irrational numbers include π (pi), e (Euler's number), and square roots of non-perfect squares like √2, √3, √5, √15."
+            },
+            {
+              "type": "note",
+              "title": "Irrational Numbers Definition",
+              "text": "A number is irrational if it cannot be written as p/q where p and q are integers and q ≠ 0. Irrational numbers have infinite, non-repeating decimal representations. Examples: π, e, √2, √3, √5, (√2/√3), 0.101001001000100001..."
+            },
+            {
+              "type": "paragraph",
+              "text": "The distinction between rational and irrational numbers is important. A rational number has a terminating decimal expansion (like 0.5 = 1/2) or a repeating decimal expansion (like 0.333... = 1/3). An irrational number's decimal expansion neither terminates nor repeats."
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 1.2: Proving Divisibility from Square Divisibility",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Before proving that certain numbers are irrational, we need an important lemma: If a prime number p divides a², then p must also divide a. This theorem is fundamental and uses the Fundamental Theorem of Arithmetic in its proof. It helps establish a key step in proving the irrationality of numbers like √2."
+            },
+            {
+              "type": "note",
+              "title": "Theorem 1.2",
+              "text": "Let p be a prime number. If p divides a², then p divides a, where a is a positive integer. Proof: From the Fundamental Theorem of Arithmetic, if p divides a², then p must be one of the prime factors of a². Since the prime factorisation is unique, the only prime factors of a² are the primes that appear in the factorisation of a. Therefore, p must divide a."
+            },
+            {
+              "type": "example",
+              "title": "Application of Theorem 1.2",
+              "content": "Example: If 5 divides n², does 5 divide n?\nBy Theorem 1.2, yes. If 5 appears in the prime factorisation of n², then 5 must appear in the prime factorisation of n (since the primes in n² are exactly those in n, each with doubled exponent). Therefore, 5 divides n."
+            }
+          ]
+        },
+        {
+          "topic_name": "Proving √2 is Irrational (Proof by Contradiction)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "We prove that √2 is irrational using the method of proof by contradiction. We assume the opposite (that √2 is rational) and show that this leads to a logical contradiction, thereby proving that √2 must be irrational."
+            },
+            {
+              "type": "note",
+              "title": "Theorem 1.3: √2 is Irrational",
+              "text": "The square root of 2 (√2) is an irrational number and cannot be expressed as p/q where p and q are integers with q ≠ 0."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof: Assume, to the contrary, that √2 is rational. Then we can find integers r and s (with s ≠ 0) such that √2 = r/s. Assume r and s are coprime (have no common factor other than 1). Squaring both sides: 2 = r²/s², which gives 2s² = r². This means r² is divisible by 2. By Theorem 1.2, r is divisible by 2, so r = 2c for some integer c. Substituting: 2s² = (2c)² = 4c², which simplifies to s² = 2c². This means s² is divisible by 2, so s is divisible by 2. But now both r and s are divisible by 2, contradicting the fact that they are coprime. This contradiction shows our assumption was wrong, so √2 must be irrational."
+            },
+            {
+              "type": "example",
+              "title": "Detailed Proof that √2 is Irrational",
+              "content": "Proof (Detailed):\nAssume √2 is rational. Then √2 = p/q for some integers p and q with q ≠ 0.\nAssume p and q are coprime (HCF(p,q) = 1).\nSquaring: 2 = p²/q²\nRearranging: 2q² = p² ... (1)\nFrom (1), p² is even, so p is even (by Theorem 1.2). Let p = 2k for some integer k.\nSubstituting into (1): 2q² = (2k)² = 4k²\nDividing by 2: q² = 2k² ... (2)\nFrom (2), q² is even, so q is even.\nBut if both p and q are even, they have a common factor 2, contradicting that they are coprime.\nTherefore, √2 cannot be rational, so √2 is irrational. ∎"
+            }
+          ]
+        },
+        {
+          "topic_name": "Proving √3, √5, and General √p for Prime p are Irrational",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The same method used to prove √2 is irrational can be generalised to prove that √p is irrational for any prime number p. The key insight is that Theorem 1.2 applies to any prime p, not just 2. If p divides n², then p divides n for any prime p and integer n."
+            },
+            {
+              "type": "example",
+              "title": "Proving √3 is Irrational",
+              "content": "Proof: Assume √3 is rational. Then √3 = p/q for some coprime integers p and q.\nSquaring: 3 = p²/q², so 3q² = p²\nThis means p² is divisible by 3, so p is divisible by 3 (by Theorem 1.2 with prime 3).\nLet p = 3c. Then 3q² = 9c², so q² = 3c²\nThis means q² is divisible by 3, so q is divisible by 3.\nBut then both p and q are divisible by 3, contradicting that they are coprime.\nTherefore, √3 is irrational. ∎\n\nSimilarly, √5, √7, √11, etc. (square roots of any prime) are irrational by the same argument."
+            }
+          ]
+        },
+        {
+          "topic_name": "Properties of Rational and Irrational Operations",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Important properties involving rational and irrational numbers: (i) The sum of a rational and an irrational number is irrational. (ii) The difference of a rational and an irrational number is irrational. (iii) The product of a non-zero rational number and an irrational number is irrational. (iv) The quotient of a non-zero rational number and an irrational number is irrational. These properties can be proven using proof by contradiction."
+            },
+            {
+              "type": "example",
+              "title": "Proving Sum of Rational and Irrational is Irrational",
+              "content": "Example: Prove that 5 - √3 is irrational.\nAssume 5 - √3 is rational. Then 5 - √3 = p/q for some integers p and q.\nRearranging: √3 = 5 - p/q = (5q - p)/q\nSince p and q are integers, (5q - p)/q is rational.\nBut this means √3 is rational, contradicting the fact that √3 is irrational.\nTherefore, 5 - √3 is irrational. ∎\n\nExample: Prove that 3√2 is irrational.\nAssume 3√2 is rational. Then 3√2 = p/q for some integers p and q.\nRearranging: √2 = p/(3q)\nSince p and 3q are integers, p/(3q) is rational.\nBut this means √2 is rational, contradicting that √2 is irrational.\nTherefore, 3√2 is irrational. ∎"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.5 Decimal Expansion of Rational Numbers",
+      "topics": [
+        {
+          "topic_name": "Terminating and Non-terminating Decimal Expansions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Every rational number p/q (where p and q are integers and q ≠ 0) has a decimal expansion that either terminates (ends) or is non-terminating but repeating (the same sequence of digits repeats infinitely). The type of decimal expansion depends on the prime factorisation of the denominator q."
+            },
+            {
+              "type": "note",
+              "title": "Rational Number Decimal Expansions",
+              "text": "A rational number p/q has: (i) A terminating decimal expansion if the denominator q (in lowest terms) has only 2 and/or 5 as prime factors. (ii) A non-terminating repeating decimal expansion if the denominator q has prime factors other than 2 and 5."
+            },
+            {
+              "type": "paragraph",
+              "text": "For a fraction p/q in lowest terms, if q = 2^a × 5^b where a and b are non-negative integers, then p/q has a terminating decimal expansion. The number of decimal places equals max(a, b). If q has any other prime factors (like 3, 7, 11, etc.), then the decimal expansion is non-terminating and repeating."
+            },
+            {
+              "type": "example",
+              "title": "Determining Terminating or Repeating Decimals",
+              "content": "Example 1: Does 3/8 have a terminating decimal?\n8 = 2³, which has only 2 as a prime factor.\nTherefore, 3/8 has a terminating decimal: 3/8 = 0.375 (3 decimal places) ✓\n\nExample 2: Does 1/6 have a terminating decimal?\n6 = 2 × 3. The denominator has 3 as a prime factor (other than 2 or 5).\nTherefore, 1/6 has a non-terminating repeating decimal: 1/6 = 0.1666... = 0.1̄6̄ (the 6 repeats)\n\nExample 3: Does 17/40 have a terminating decimal?\n40 = 2³ × 5¹. The denominator has only 2 and 5 as prime factors.\nTherefore, 17/40 has a terminating decimal: 17/40 = 0.425 (3 decimal places, since max(3,1) = 3) ✓\n\nExample 4: Does 5/6 have a terminating decimal?\n6 = 2 × 3. The denominator has 3 as a prime factor.\nTherefore, 5/6 has a non-terminating repeating decimal: 5/6 = 0.8333... = 0.8̄3̄"
+            }
+          ]
+        },
+        {
+          "topic_name": "Connection to Fundamental Theorem of Arithmetic",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Fundamental Theorem of Arithmetic is crucial for understanding why certain denominators produce terminating decimals while others produce repeating ones. The prime factorisation of the denominator completely determines the nature of the decimal expansion. This demonstrates how the fundamental properties of integers directly influence the representation of rational numbers in decimal form."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Euclid's Division Algorithm",
+      "definition": "A method for finding the greatest common divisor (HCF/GCD) of two positive integers by repeatedly applying the division algorithm: a = bq + r, where 0 ≤ r < b, until the remainder becomes zero."
+    },
+    {
+      "term": "Dividend",
+      "definition": "In the division algorithm a = bq + r, the dividend is the number being divided (a)."
+    },
+    {
+      "term": "Divisor",
+      "definition": "In the division algorithm a = bq + r, the divisor is the number dividing the dividend (b)."
+    },
+    {
+      "term": "Quotient",
+      "definition": "In the division algorithm a = bq + r, the quotient is the result of division (q), the number of times the divisor goes into the dividend."
+    },
+    {
+      "term": "Remainder",
+      "definition": "In the division algorithm a = bq + r, the remainder is the leftover after division (r), where 0 ≤ r < b."
+    },
+    {
+      "term": "HCF (Highest Common Factor)",
+      "definition": "Also called GCD (Greatest Common Divisor), the largest positive integer that divides two or more numbers without leaving a remainder."
+    },
+    {
+      "term": "LCM (Least Common Multiple)",
+      "definition": "The smallest positive integer that is divisible by two or more given numbers. Related to HCF by: HCF(a,b) × LCM(a,b) = a × b."
+    },
+    {
+      "term": "Fundamental Theorem of Arithmetic",
+      "definition": "Every composite number can be expressed as a product of prime numbers in a unique way, except for the order of the prime factors."
+    },
+    {
+      "term": "Prime Factorisation",
+      "definition": "The expression of a number as a product of its prime factors, written uniquely in the form p₁^a₁ × p₂^a₂ × ... × pₖ^aₖ where p₁, p₂, ..., pₖ are distinct primes."
+    },
+    {
+      "term": "Composite Number",
+      "definition": "A positive integer greater than 1 that has at least one positive divisor other than 1 and itself. In other words, a number that is not prime."
+    },
+    {
+      "term": "Prime Number",
+      "definition": "A natural number greater than 1 that has no positive divisors other than 1 and itself. Examples: 2, 3, 5, 7, 11, 13, ..."
+    },
+    {
+      "term": "Coprime (or Relatively Prime)",
+      "definition": "Two positive integers are coprime if their greatest common divisor (HCF) is 1, meaning they share no common prime factors."
+    },
+    {
+      "term": "Irrational Number",
+      "definition": "A real number that cannot be expressed as p/q where p and q are integers with q ≠ 0. Irrational numbers have non-terminating, non-repeating decimal expansions."
+    },
+    {
+      "term": "Rational Number",
+      "definition": "A real number that can be expressed as p/q where p and q are integers with q ≠ 0. Rational numbers have either terminating or non-terminating repeating decimal expansions."
+    },
+    {
+      "term": "Real Numbers",
+      "definition": "The set of all numbers that include both rational numbers (like integers and fractions) and irrational numbers (like π and √2). Denoted by ℝ."
+    },
+    {
+      "term": "Proof by Contradiction",
+      "definition": "A proof technique where we assume the opposite of what we want to prove, show that this assumption leads to a logical contradiction, and conclude that our original statement must be true."
+    },
+    {
+      "term": "Terminating Decimal",
+      "definition": "A decimal expansion that ends after a finite number of digits. Examples: 0.5, 0.375, 0.25. Occurs for rational numbers p/q where the denominator q has only 2 and/or 5 as prime factors."
+    },
+    {
+      "term": "Non-terminating Repeating Decimal",
+      "definition": "A decimal expansion that does not end but has a sequence of digits that repeats infinitely. Examples: 0.333... (= 1/3), 0.1666... (= 1/6). Occurs for rational numbers p/q where the denominator q has prime factors other than 2 and 5."
+    },
+    {
+      "term": "Theorem 1.2",
+      "definition": "If a prime number p divides a² (where a is a positive integer), then p divides a. This theorem is essential for proving the irrationality of numbers like √2."
+    },
+    {
+      "term": "Divisible",
+      "definition": "A number a is divisible by a number b if a = bq for some integer q, meaning the remainder r in the division algorithm a = bq + r equals zero."
+    },
+    {
+      "term": "Factor (or Divisor)",
+      "definition": "A positive integer that divides another positive integer without leaving a remainder. For example, the factors of 12 are 1, 2, 3, 4, 6, and 12."
+    }
+  ],
+  "summary_points": [
+    "Euclid's Division Algorithm states that for any two positive integers a and b with b ≠ 0, there exist unique integers q and r such that a = bq + r, where 0 ≤ r < b. This algorithm is used to find the HCF (Greatest Common Divisor) of two numbers by repeatedly applying the division process until the remainder becomes zero.",
+    "The HCF of two numbers can be efficiently found using Euclid's Algorithm by noting that HCF(a,b) = HCF(b,r) where r is the remainder when a is divided by b. This reduces the problem to smaller numbers until the remainder is zero, at which point the last non-zero remainder is the HCF.",
+    "The Fundamental Theorem of Arithmetic states that every composite number can be expressed as a product of prime numbers in a unique way (except for the order of factors). This theorem is fundamental to number theory and ensures the uniqueness of prime factorisation.",
+    "Using prime factorisation, the HCF of two numbers is the product of the lowest powers of all common prime factors, while the LCM is the product of the highest powers of all prime factors appearing in either number. The relationship HCF(a,b) × LCM(a,b) = a × b always holds.",
+    "A number ends with the digit zero if and only if it is divisible by 10 (having both 2 and 5 as prime factors). Using the Fundamental Theorem of Arithmetic, we can determine whether expressions like 4ⁿ or 6ⁿ can end with zero by checking their prime factorisation.",
+    "Irrational numbers are real numbers that cannot be expressed as p/q where p and q are integers with q ≠ 0. They have non-terminating, non-repeating decimal expansions. Examples include π, e, √2, √3, and √5.",
+    "Theorem 1.2 states that if a prime p divides a², then p must divide a. This theorem, grounded in the Fundamental Theorem of Arithmetic, is crucial for proving the irrationality of numbers like √2, √3, and √p for any prime p.",
+    "√2 is irrational, proven using proof by contradiction. Assuming √2 = p/q where p and q are coprime, we derive that both p and q must be even, contradicting their coprimality. Therefore, √2 cannot be rational.",
+    "The general proof that √p is irrational (for any prime p) follows the same method as proving √2 is irrational, using Theorem 1.2 adapted for the prime p instead of 2.",
+    "Important properties: (i) The sum or difference of a rational and an irrational number is irrational. (ii) The product of a non-zero rational number and an irrational number is irrational. (iii) These properties can be proven using proof by contradiction.",
+    "A rational number p/q (in lowest terms) has a terminating decimal expansion if and only if the denominator q has only 2 and/or 5 as prime factors. The number of decimal places equals the maximum of the exponents of 2 and 5 in q's factorisation.",
+    "If the denominator of a rational number p/q (in lowest terms) has prime factors other than 2 and 5 (such as 3, 7, 11, etc.), then its decimal expansion is non-terminating and repeating.",
+    "The Fundamental Theorem of Arithmetic, combined with analysis of prime factorisation of denominators, completely determines whether a rational number has a terminating or repeating decimal expansion, demonstrating the deep connection between the structure of integers and decimal representations."
+  ]
+}

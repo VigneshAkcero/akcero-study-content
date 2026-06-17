@@ -1,0 +1,41 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "The Human Eye and the Colorful World",
+    "chapter_number": 10
+  },
+  "flashcards": [
+    { "q": "What is the function of the retina in the human eye?", "a": "It acts as a light-sensitive screen where the lens forms a real and inverted image." },
+    { "q": "Define 'Accommodation' of the eye.", "a": "The ability of the eye lens to adjust its focal length to focus on objects at different distances." },
+    { "q": "What is the 'near point' of a normal human eye?", "a": "25 cm." },
+    { "q": "What is the 'far point' of a normal human eye?", "a": "Infinity." },
+    { "q": "Which part of the eye controls the amount of light entering it?", "a": "The pupil (regulated by the iris)." },
+    { "q": "Name the muscles that modify the curvature of the eye lens.", "a": "Ciliary muscles." },
+    { "q": "What is 'Cataract'?", "a": "A condition where the eye lens becomes milky and cloudy, causing vision loss." },
+    { "q": "Define 'Myopia'.", "a": "Nearsightedness; the inability to see distant objects clearly because the image forms in front of the retina." },
+    { "q": "Define 'Hypermetropia'.", "a": "Farsightedness; the inability to see nearby objects clearly because the image forms behind the retina." },
+    { "q": "What is 'Presbyopia'?", "a": "A defect of vision caused by aging, resulting in a loss of accommodation power." },
+    { "q": "Which lens is used to correct Myopia?", "a": "Concave lens (diverging lens)." },
+    { "q": "Which lens is used to correct Hypermetropia?", "a": "Convex lens (converging lens)." },
+    { "q": "What are 'Bifocal Lenses'?", "a": "Lenses containing both concave (top) and convex (bottom) parts, used to correct presbyopia." },
+    { "q": "How many corneal blind people can receive vision from one pair of donated eyes?", "a": "Up to four people." },
+    { "q": "Define 'Dispersion' of light.", "a": "The splitting of white light into its component colors (VIBGYOR) when passing through a prism." },
+    { "q": "What is a 'Spectrum'?", "a": "The band of colored components obtained after the dispersion of light." },
+    { "q": "Which color in the visible spectrum bends the least through a prism?", "a": "Red." },
+    { "q": "Which color in the visible spectrum bends the most through a prism?", "a": "Violet." },
+    { "q": "What acronym is used to remember the sequence of colors in a spectrum?", "a": "VIBGYOR (Violet, Indigo, Blue, Green, Yellow, Orange, Red)." },
+    { "q": "Name the scientist who first used a prism to obtain the spectrum of sunlight.", "a": "Isaac Newton." },
+    { "q": "What are the two atmospheric processes involved in rainbow formation besides reflection?", "a": "Refraction and Dispersion." },
+    { "q": "Define 'Atmospheric Refraction'.", "a": "The bending of light caused by layers of the Earth's atmosphere with varying refractive indices." },
+    { "q": "Why do stars appear higher than their actual position?", "a": "Due to continuous atmospheric refraction bending the starlight towards the normal." },
+    { "q": "Why do stars twinkle?", "a": "Due to the fluctuating apparent position and brightness caused by atmospheric refraction of point-source light." },
+    { "q": "By how many minutes is the sunrise advanced due to atmospheric refraction?", "a": "2 minutes." },
+    { "q": "What is the 'Tyndall Effect'?", "a": "The scattering of light by colloidal particles which makes the light beam's path visible." },
+    { "q": "Why does the clear sky appear blue?", "a": "Because fine air molecules scatter shorter-wavelength blue light more strongly than red light." },
+    { "q": "Why does the sky appear black to an astronaut?", "a": "Because there is no atmosphere to scatter light in space." },
+    { "q": "Why are danger signal lights red?", "a": "Red is least scattered by fog or smoke, making it visible even at a distance." },
+    { "q": "Why does the sun appear reddish at sunrise and sunset?", "a": "Shorter blue wavelengths are scattered away during the long path through the atmosphere, leaving primarily red light." },
+    { "q": "Define 'Angle of Deviation' for a prism.", "a": "The angle between the direction of the incident ray and the emergent ray." }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Fractions",
+    "chapter_number": 7
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "If 1 cake is divided equally among 8 children, what fraction of the cake does each child receive?",
+      "answer": "$\\frac{1}{8}$",
+      "solution": "When one whole item is divided into 8 equal parts, each part represents the fractional unit $\\frac{1}{8}$."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Which fraction is larger: $\\frac{1}{7}$ or $\\frac{1}{12}$? Give a reason.",
+      "answer": "$\\frac{1}{7}$",
+      "solution": "As the denominator increases, the size of each share decreases. Since $7 < 12$, each share of $\\frac{1}{7}$ is larger than a share of $\\frac{1}{12}$."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "In the fraction $\\frac{13}{19}$, identify the numerator and the denominator.",
+      "answer": "Numerator: 13, Denominator: 19",
+      "solution": "The top number is the numerator (13) and the bottom number is the denominator (19)."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Medium",
+      "question": "Mark $\\frac{3}{5}$ on a number line. Explain the steps.",
+      "answer": "Divide the unit 0-1 into 5 equal parts and pick the 3rd mark.",
+      "solution": "1. Draw a number line and mark points 0 and 1.\n2. Divide the distance between 0 and 1 into 5 equal parts.\n3. Starting from 0, the third mark represents $\\frac{3}{5}$."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Medium",
+      "question": "Convert the improper fraction $\\frac{17}{5}$ into a mixed fraction.",
+      "answer": "$3 \\frac{2}{5}$",
+      "solution": "Divide 17 by 5: $17 \\div 5 = 3$ with a remainder of 2. So, $\\frac{17}{5} = 3 + \\frac{2}{5} = 3 \\frac{2}{5}$."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "Write $4 \\frac{3}{7}$ as an improper fraction.",
+      "answer": "$\\frac{31}{7}$",
+      "solution": "To convert a mixed fraction to an improper fraction: $(Whole \\times Denominator) + Numerator = (4 \\times 7) + 3 = 28 + 3 = 31$. So, the fraction is $\\frac{31}{7}$."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "Find two fractions equivalent to $\\frac{2}{3}$.",
+      "answer": "$\\frac{4}{6}$ and $\\frac{6}{9}$ (others possible)",
+      "solution": "Multiply the numerator and denominator by the same number:\n1. $\\frac{2 \\times 2}{3 \\times 2} = \\frac{4}{6}$\n2. $\\frac{2 \\times 3}{3 \\times 3} = \\frac{6}{9}$"
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "Check if $\\frac{4}{5}$ and $\\frac{12}{15}$ are equivalent fractions.",
+      "answer": "Yes",
+      "solution": "Reduce $\\frac{12}{15}$ to its simplest form by dividing both by 3: $\\frac{12 \\div 3}{15 \\div 3} = \\frac{4}{5}$. Since they reduce to the same value, they are equivalent."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Hard",
+      "question": "Express $\\frac{48}{72}$ in its simplest form.",
+      "answer": "$\\frac{2}{3}$",
+      "solution": "Divide both by their highest common factor (24):\n$\\frac{48 \\div 24}{72 \\div 24} = \\frac{2}{3}$. Alternatively, divide by 2, then 2, then 2, then 3."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Hard",
+      "question": "Arrange $\\frac{2}{3}, \\frac{3}{4},$ and $\\frac{5}{6}$ in ascending order.",
+      "answer": "$\\frac{2}{3} < \\frac{3}{4} < \\frac{5}{6}$",
+      "solution": "Common denominator = 12.\n$\\frac{2}{3} = \\frac{8}{12}$\n$\\frac{3}{4} = \\frac{9}{12}$\n$\\frac{5}{6} = \\frac{10}{12}$\nComparing numerators: $8 < 9 < 10$. So, $\\frac{2}{3} < \\frac{3}{4} < \\frac{5}{6}$."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "Add: $\\frac{3}{11} + $\\frac{5}{11}$.",
+      "answer": "$\\frac{8}{11}$",
+      "solution": "Since the denominators are the same, add the numerators: $3 + 5 = 8$. The sum is $\\frac{8}{11}$."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Subtract $\\frac{4}{9}$ from $\\frac{7}{9}$.",
+      "answer": "$\\frac{3}{9}$ (or $\\frac{1}{3}$)",
+      "solution": "$\\frac{7}{9} - \\frac{4}{9} = \\frac{7-4}{9} = \\frac{3}{9}$. Simplified: $\\frac{1}{3}$."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Calculate: $\\frac{2}{5} + \\frac{1}{4}$.",
+      "answer": "$\\frac{13}{20}$",
+      "solution": "Using Brahmagupta's method:\n1. Common denominator = $5 \\times 4 = 20$.\n2. $\\frac{2}{5} = \\frac{2 \\times 4}{20} = \\frac{8}{20}$\n3. $\\frac{1}{4} = \\frac{1 \\times 5}{20} = \\frac{5}{20}$\n4. Sum = $\\frac{8+5}{20} = \\frac{13}{20}$."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "Find the difference: $\\frac{5}{6} - \\frac{2}{3}$.",
+      "answer": "$\\frac{1}{6}$",
+      "solution": "Common denominator = 6.\n$\\frac{2}{3} = \\frac{2 \\times 2}{6} = \\frac{4}{6}$.\n$\\frac{5}{6} - \\frac{4}{6} = \\frac{1}{6}$."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "Jaya's school is $\\frac{7}{10}$ km from home. She travels $\\frac{1}{2}$ km by auto and walks the rest. How far does she walk?",
+      "answer": "$\\frac{1}{5}$ km",
+      "solution": "Walking distance = Total - Auto distance = $\\frac{7}{10} - \\frac{1}{2}$.\nCommon denominator = 10.\n$\\frac{1}{2} = \\frac{5}{10}$.\n$\\frac{7}{10} - \\frac{5}{10} = \\frac{2}{10} = \\frac{1}{5}$ km."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Hard",
+      "question": "Rahim mixes $\\frac{3}{4}$ litres of red paint with $\\frac{1}{3}$ litres of white paint. What is the total volume of paint?",
+      "answer": "$1 \\frac{1}{12}$ litres",
+      "solution": "Total = $\\frac{3}{4} + \\frac{1}{3}$.\nCommon denominator = 12.\n$\\frac{3}{4} = \\frac{9}{12}$ and $\\frac{1}{3} = \\frac{4}{12}$.\nTotal = $\\frac{13}{12} = 1 \\frac{1}{12}$ litres."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "If 4 rotis are shared equally among 6 children, how much does each get? Give your answer in simplest form.",
+      "answer": "$\\frac{2}{3}$ roti",
+      "solution": "Share = $4 \\div 6 = \\frac{4}{6}$.\nSimplifying $\\frac{4}{6}$ by dividing by 2: $\\frac{2}{3}$ roti."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Easy",
+      "question": "What is a 'mixed number'?",
+      "answer": "A number containing a whole part and a fractional part.",
+      "solution": "A mixed fraction (or mixed number) is a combination of a whole number and a proper fraction (a fraction less than 1)."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "Write 1 as a sum of three different fractional units.",
+      "answer": "$\\frac{1}{2} + \\frac{1}{3} + \\frac{1}{6} = 1$",
+      "solution": "Common denominator = 6.\n$\\frac{3}{6} + \\frac{2}{6} + \\frac{1}{6} = \\frac{6}{6} = 1$."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Subtract $1 \\frac{1}{2}$ from $3 \\frac{3}{4}$.",
+      "answer": "$2 \\frac{1}{4}$",
+      "solution": "1. Convert to improper fractions: $3 \\frac{3}{4} = \\frac{15}{4}$ and $1 \\frac{1}{2} = \\frac{3}{2}$.\n2. Common denominator = 4: $\\frac{3}{2} = \\frac{6}{4}$.\n3. Subtract: $\\frac{15}{4} - \\frac{6}{4} = \\frac{9}{4} = 2 \\frac{1}{4}$."
+    }
+  ]
+}

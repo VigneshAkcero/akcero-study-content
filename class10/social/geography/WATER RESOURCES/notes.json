@@ -1,0 +1,87 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Geography",
+    "chapter_name": "Water Resources",
+    "chapter_number": 3
+  },
+  "notes": [
+    {
+      "topic": "Water Scarcity and the Need for Conservation",
+      "content": "Despite three-fourths of the earth being covered in water, only a small proportion is fresh water. Most of this freshwater is obtained from surface run-off and groundwater, which is continually recharged through the hydrological cycle. Water scarcity is predicted to affect nearly two billion people by 2025. Scarcity is often not just about low rainfall but is an outcome of over-exploitation, excessive use, and unequal access to water among different social groups.",
+      "subtopics": [
+        {
+          "title": "Quantitative Scarcity",
+          "description": "Driven by a large and growing population, leading to higher domestic consumption and food demand. To produce more food, water is over-exploited for irrigation, particularly for dry-season agriculture. Intensive industrialization and urbanization further deplete resources, as industries are heavy users of water and energy (hydropower)."
+        },
+        {
+          "title": "Qualitative Scarcity",
+          "description": "Situations where water is physically available but unsuitable for use due to pollution. Major pollutants include domestic and industrial wastes, chemicals, pesticides, and fertilizers used in agriculture, making water hazardous for human health."
+        },
+        {
+          "title": "Government Initiatives",
+          "description": "Schemes like **Atal Bhujal Yojana (Atal Jal)** focus on behavioural changes and smart water management in stressed areas. The **Jal Jeevan Mission (JJM)** aims to provide 55 litres of potable piped water per capita per day to every rural household."
+        }
+      ]
+    },
+    {
+      "topic": "Multi-Purpose River Projects and Integrated Management",
+      "content": "India has a long tradition of hydraulic engineering, from ancient dams to modern multi-purpose projects. Multi-purpose projects, often called the 'temples of modern India' by Jawaharlal Nehru, integrate various uses of water such as irrigation, electricity generation, flood control, and fish breeding to foster rapid industrialization and agricultural growth.",
+      "subtopics": [
+        {
+          "title": "Historical Context",
+          "description": "Examples include Sringaverapura (1st Century BC - Ganga flood harvesting), Chandragupta Maurya's dams, Bhopal Lake (11th Century), and the Hauz Khas tank (14th Century - built by Iltutmish for Siri Fort)."
+        },
+        {
+          "title": "Modern Projects",
+          "description": "The **Bhakra-Nangal project** (Sutluj-Beas basin) combines hydel power and irrigation. The **Hirakud project** (Mahanadi basin) integrates water conservation with flood control. The **Sardar Sarovar Dam** (Narmada River) is one of the largest, providing irrigation to drought-prone areas in Gujarat and Rajasthan."
+        },
+        {
+          "title": "Ecological and Social Concerns",
+          "description": "Large dams have faced opposition (e.g., Narmada Bachao Andolan) due to the displacement of local communities, natural flow disruption, excessive sedimentation (resulting in rockier stream beds), and the submergence of existing forest vegetation. Some dams have triggered floods due to reservoir sedimentation and even induced earthquakes."
+        },
+        {
+          "title": "Disputes",
+          "description": "Competition for water leads to inter-state disputes, such as the **Krishna-Godavari dispute** triggered by Maharashtra's diversion of water at Koyna, affecting downstream agriculture in Karnataka and Andhra Pradesh."
+        }
+      ]
+    },
+    {
+      "topic": "Rainwater Harvesting Techniques",
+      "content": "Given the limitations of large dams, traditional water harvesting systems offer socio-economic and environmentally viable alternatives. Ancient systems were based on deep local knowledge of rainfall regimes and soil types.",
+      "subtopics": [
+        {
+          "title": "Regional Methods",
+          "description": "**Guls/Kuls** (Western Himalayas) for hill agriculture; **Khadins** (Jaisalmer) and **Johads** (other parts of Rajasthan) which convert agricultural fields into rain-fed storage structures; **Inundation channels** (Bengal flood plains)."
+        },
+        {
+          "title": "Rooftop Rainwater Harvesting (Tanka System)",
+          "description": "Common in semi-arid regions of Rajasthan (Bikaner, Phalodi, Barmer). Underground tanks (**tankas**) as large as rooms are built inside houses to store **Palar Pani** (purest form of natural water). While the Indira Gandhi Canal has reduced reliance, many still prefer the taste of tanka water."
+        },
+        {
+          "title": "Modern Case Studies",
+          "description": "In **Shillong, Meghalaya**, despite high rainfall nearby (Mawsynram), households rely on rooftop harvesting. In **Gendathur, Karnataka**, 200 households have earned the village a reputation for being 'rich in rainwater'. **Tamil Nadu** is the first state to make rooftop rainwater harvesting compulsory by law."
+        },
+        {
+          "title": "Bamboo Drip Irrigation",
+          "description": "A 200-year-old system in Meghalaya using bamboo pipes to tap stream and spring water, reducing 18-20 litres per minute to 20-80 drops at the plant site."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Hydrological Cycle", "definition": "The continuous movement of water on, above, and below the surface of the Earth, ensuring water is a renewable resource." },
+    { "term": "Multi-purpose Project", "definition": "A river project involving a dam that serves multiple uses integrated with one another, such as power, irrigation, and flood control." },
+    { "term": "Tankas", "definition": "Underground tanks traditionally built in Rajasthan houses to store rooftop rainwater for drinking." },
+    { "term": "Palar Pani", "definition": "Common term for rainwater in parts of Rajasthan, considered the purest form of natural water." },
+    { "term": "Guls / Kuls", "definition": "Diversion channels built in hilly regions of the Himalayas for agricultural irrigation." }
+  ],
+  "summary_points": [
+    "Three-fourths of the earth is water-covered, but freshwater is a limited, renewable resource maintained by the hydrological cycle.",
+    "Water scarcity is caused by quantitative factors (over-population, irrigation, industries) and qualitative factors (pollution from wastes and chemicals).",
+    "Jawaharlal Nehru called multi-purpose dams the 'temples of modern India' for their role in integrated development and economic growth.",
+    "While dams provide hydel power and irrigation, they are criticized for causing displacement, flow disruption, and reservoir sedimentation.",
+    "Traditional rainwater harvesting like the Tanka system (Rajasthan) and Guls/Kuls (Himalayas) are viable, eco-friendly alternatives to large dams.",
+    "Bamboo drip irrigation in Meghalaya and Tamil Nadu's rainwater mandates highlight innovative regional approaches to water management."
+  ]
+}

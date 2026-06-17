@@ -1,0 +1,527 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Area",
+    "chapter_number": 7
+  },
+  "notes": [
+    {
+      "section_title": "Introduction: Measuring Area",
+      "topics": [
+        {
+          "topic_name": "What is Area?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Area is a measure of the amount of surface enclosed within a closed figure. Unlike perimeter, which measures the boundary (length of the edges), area measures the space inside a shape. We measure area by counting the number of unit squares (squares of side length 1 unit) that can fit inside a region."
+            },
+            {
+              "type": "note",
+              "title": "Unit Squares",
+              "text": "A unit square is a square with side length 1 cm (or 1 m, 1 inch, etc., depending on the context). The area of a unit square is 1 cm² (or 1 m², 1 in², etc.)."
+            },
+            {
+              "type": "paragraph",
+              "text": "For example, if a rectangle can contain exactly 28 unit squares (each of 1 cm²), then the area of that rectangle is 28 cm². If a shape contains half unit squares, we count those fractional parts as well."
+            }
+          ]
+        },
+        {
+          "topic_name": "Why Perimeter Cannot Measure Area",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Perimeter is the length of the boundary of a shape, while area is the space inside. These are independent properties — two shapes can have the same perimeter but different areas, and vice versa."
+            },
+            {
+              "type": "note",
+              "title": "Key Insight",
+              "text": "Perimeter cannot be used as a measure of area. It is possible to find two regions where Region 1 has a larger perimeter than Region 2, but Region 1 has a smaller area than Region 2. This shows that perimeter and area are distinct concepts."
+            },
+            {
+              "type": "example",
+              "title": "Example: Rectangle Comparison",
+              "text": "A rectangle with length 10 cm and width 1 cm has a perimeter of 2(10 + 1) = 22 cm and an area of 10 × 1 = 10 cm². A rectangle with length 6 cm and width 4 cm has a perimeter of 2(6 + 4) = 20 cm and an area of 6 × 4 = 24 cm². The first rectangle has a larger perimeter (22 cm > 20 cm) but smaller area (10 cm² < 24 cm²)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "7.1 Rectangle and Squares",
+      "topics": [
+        {
+          "topic_name": "Area of a Rectangle",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A rectangle is a quadrilateral with four right angles. When we place unit squares inside a rectangle, we find that the number of unit squares equals the product of the length and width of the rectangle."
+            },
+            {
+              "type": "formula",
+              "title": "Area of a Rectangle",
+              "formula": "Area = length × width",
+              "explanation": "The length and width are measured in the same unit (cm, m, inches, etc.), and the area is expressed in square units (cm², m², in², etc.)."
+            },
+            {
+              "type": "example",
+              "title": "Example: Calculating Rectangle Area",
+              "text": "A rectangle has length 7 cm and width 4 cm. The area contains 7 × 4 = 28 unit squares, so the area is 28 cm². Another rectangle with length 8 cm and width 3 cm contains 8 × 3 = 24 unit squares, so its area is 24 cm². The first rectangle requires more rangoli powder to colour."
+            }
+          ]
+        },
+        {
+          "topic_name": "Area of a Square",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A square is a special rectangle where all four sides are equal. If a square has side length 's', then its area is the product of two equal sides."
+            },
+            {
+              "type": "formula",
+              "title": "Area of a Square",
+              "formula": "Area = side × side = s²",
+              "explanation": "For a square with side length 5 cm, the area is 5 × 5 = 25 cm²."
+            },
+            {
+              "type": "note",
+              "title": "Dividing a Square into Equal Parts",
+              "text": "A square can be divided into 4 equal parts in infinitely many ways. If you take any division, you can compress one part along one edge and expand it along another edge by the same magnitude. This maintains equal areas for all 4 parts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Triangles",
+      "topics": [
+        {
+          "topic_name": "Area of a Triangle",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A triangle can be positioned inside a rectangle. When we draw the diagonal of a rectangle, it divides the rectangle into two congruent (identical) triangles. Therefore, each triangle has exactly half the area of the rectangle."
+            },
+            {
+              "type": "formula",
+              "title": "Area of a Triangle",
+              "formula": "Area = (1/2) × base × height",
+              "explanation": "The base is any side of the triangle, and the height is the perpendicular distance from the opposite vertex to the base. The base and height must be perpendicular to each other."
+            },
+            {
+              "type": "example",
+              "title": "Example: Triangle in a Rectangle",
+              "text": "A rectangle has length 7 cm and width 4 cm. Its area is 28 cm². A triangle formed by the diagonal of this rectangle has area = (1/2) × 7 × 4 = 14 cm², which is exactly half the rectangle's area."
+            },
+            {
+              "type": "note",
+              "title": "Formula Validity for All Triangles",
+              "text": "The area formula (1/2) × base × height holds for all types of triangles — acute, right-angled, and obtuse. For obtuse triangles, the height is measured outside the triangle as a perpendicular from the opposite vertex."
+            },
+            {
+              "type": "paragraph",
+              "text": "To understand why this works for all triangles, consider an obtuse triangle ABC. The area can be calculated as the difference of two triangles: Area(ABC) = Area(ADC) − Area(ADB), where both ADC and ADB can be enclosed in rectangles. This gives: Area(ABC) = (1/2) × h × DC − (1/2) × h × DB = (1/2) × h × (DC − DB) = (1/2) × h × BC."
+            }
+          ]
+        },
+        {
+          "topic_name": "Important Properties of Triangles",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Triangles formed by drawing diagonals in a rectangle are always equal in area due to their geometric properties. Additionally, when you draw a line from a vertex to the midpoint of the opposite side in any triangle, it divides the triangle into two triangles of equal area."
+            },
+            {
+              "type": "note",
+              "title": "Key Property: Medians Divide Equally",
+              "text": "In a triangle, the line joining a vertex to the midpoint of its opposite side (called a median) divides the triangle into two triangles of equal areas. This is because both resulting triangles share the same height but have equal bases (since the midpoint divides the opposite side into two equal parts)."
+            },
+            {
+              "type": "example",
+              "title": "Example: Using Area to Find Unknown Sides",
+              "text": "A triangle ABC has base AX = 15 units and height (perpendicular distance from B to line AC) of 4 units. Area = (1/2) × 15 × 4 = 30 sq. units. If the same triangle has another base AC and we want to find the height BY perpendicular to AC, and AC = 4 units, then: 30 = (1/2) × 4 × BY, which gives BY = 15 units."
+            }
+          ]
+        },
+        {
+          "topic_name": "Triangles Between Parallel Lines",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When multiple triangles share the same base and have their third vertices on a line parallel to the base, all these triangles have equal areas. This is because they all have the same base and the same height (the perpendicular distance between the parallel lines)."
+            },
+            {
+              "type": "note",
+              "title": "Property of Parallel Lines",
+              "text": "If line l is parallel to line BC, and multiple points lie on line l, then all triangles formed by connecting these points to B and C have the same area. The area depends only on the base BC and the distance between the parallel lines, not on the position of the third vertex."
+            },
+            {
+              "type": "paragraph",
+              "text": "A practical application involves finding the path with the minimum perimeter. Using the reflection principle (similar to how light reflects in a mirror), if you need to go from point B to a point on line l and then to point C, the shortest path is obtained when the point on line l lies on the straight line connecting B to the reflection of C across line l."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Area of Polygons",
+      "topics": [
+        {
+          "topic_name": "Area of Any Polygon",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Any polygon can be divided into triangles by drawing diagonals from one vertex to all non-adjacent vertices. Once a polygon is divided into triangles, the total area of the polygon is the sum of the areas of all the individual triangles."
+            },
+            {
+              "type": "example",
+              "title": "Example: Quadrilateral Division",
+              "text": "A quadrilateral ABCD can be divided into two triangles by drawing diagonal BD. The area of ABCD = Area(ABD) + Area(BCD). Each triangle area can be calculated using the formula (1/2) × base × height."
+            },
+            {
+              "type": "note",
+              "title": "General Method for Polygons",
+              "text": "For any polygon with n sides, you can divide it into (n − 2) triangles. For example: Triangle (3 sides) → 1 triangle; Quadrilateral (4 sides) → 2 triangles; Pentagon (5 sides) → 3 triangles; Hexagon (6 sides) → 4 triangles."
+            }
+          ]
+        },
+        {
+          "topic_name": "Area of a Quadrilateral",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "For a general quadrilateral, if you know the diagonal and the perpendicular distances from the two other vertices to the diagonal, you can calculate the area."
+            },
+            {
+              "type": "formula",
+              "title": "Area of Quadrilateral with Known Diagonal",
+              "formula": "Area = (1/2) × diagonal × (h₁ + h₂)",
+              "explanation": "Where h₁ and h₂ are the perpendicular distances from the two vertices (not on the diagonal) to the diagonal."
+            },
+            {
+              "type": "example",
+              "title": "Example: Quadrilateral ABCD",
+              "text": "If diagonal AC = 22 cm, perpendicular from B to AC is BM = 3 cm, and perpendicular from D to AC is DN = 3 cm, then Area = (1/2) × 22 × (3 + 3) = (1/2) × 22 × 6 = 66 cm²."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Parallelogram",
+      "topics": [
+        {
+          "topic_name": "Properties and Area of a Parallelogram",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A parallelogram is a quadrilateral with opposite sides parallel and equal in length. A key property is that a parallelogram can be converted into a rectangle of equal area through a process called dissection."
+            },
+            {
+              "type": "note",
+              "title": "Dissection Method",
+              "text": "To convert a parallelogram ABCD into a rectangle: Draw a perpendicular AX from vertex A to the opposite side CD (or its extension). Cut the parallelogram along AX. This divides it into triangle AXD and trapezium ABCX. The triangle AXD can be rearranged to fit exactly on the other side to form a rectangle."
+            },
+            {
+              "type": "paragraph",
+              "text": "Why does this work? In triangle AXD and triangle BYC (where Y is the point where we extend and draw a perpendicular from B): BY = AX (both are heights of the parallelogram), angle BYC = angle AXD = 90°, and BC = AD (opposite sides of parallelogram). By RHS (Right-angle Hypotenuse-Side) congruency, triangle AXD ≅ triangle BYC. This means the triangle fits perfectly into the space to form a rectangle."
+            },
+            {
+              "type": "formula",
+              "title": "Area of a Parallelogram",
+              "formula": "Area = base × height",
+              "explanation": "The height is the perpendicular distance between two parallel sides (the base and the opposite side). Any side of the parallelogram can be chosen as the base; the corresponding height is the perpendicular distance from that base to the opposite side."
+            },
+            {
+              "type": "example",
+              "title": "Example: Finding Area of Parallelogram",
+              "text": "A parallelogram has base 10 cm and height 6 cm. Area = 10 × 6 = 60 cm². If we choose a different side (8 cm) as the base, the corresponding height would be (60/8) = 7.5 cm."
+            },
+            {
+              "type": "note",
+              "title": "Important Property",
+              "text": "Parallelograms with the same base and height have equal areas, regardless of how 'slanted' they are. This is because area depends only on the base and the perpendicular height, not on the slant angle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Rhombus",
+      "topics": [
+        {
+          "topic_name": "Properties and Area of a Rhombus",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A rhombus is a special parallelogram where all four sides are equal in length. The most important property is that its diagonals are perpendicular bisectors of each other. This property allows us to derive a special formula for the area of a rhombus."
+            },
+            {
+              "type": "note",
+              "title": "Perpendicular Bisectors",
+              "text": "In a rhombus ABCD with diagonals AC and BD intersecting at point O: The diagonals bisect each other at right angles. This means O is the midpoint of both diagonals, and angle AOB = angle BOC = angle COD = angle DOA = 90°."
+            },
+            {
+              "type": "paragraph",
+              "text": "A rhombus can be divided into two isosceles triangles (ABD and CBD) by one diagonal. Each of these triangles can be converted into a rectangle by dissection. The two rectangles can then be joined to form a single rectangle WXYZ."
+            },
+            {
+              "type": "formula",
+              "title": "Area of a Rhombus (Using Diagonals)",
+              "formula": "Area = (1/2) × d₁ × d₂",
+              "explanation": "Where d₁ and d₂ are the lengths of the two diagonals. The diagonals of a rhombus are perpendicular, which makes this formula work."
+            },
+            {
+              "type": "example",
+              "title": "Example: Rhombus with Known Diagonals",
+              "text": "A rhombus has diagonals of length 20 cm and 15 cm. Area = (1/2) × 20 × 15 = 150 cm²."
+            },
+            {
+              "type": "paragraph",
+              "text": "Alternative method: A rhombus can also be treated as a parallelogram. If you know one side and the height, you can use Area = base × height. However, the diagonal method is more convenient when diagonals are given."
+            },
+            {
+              "type": "note",
+              "title": "Deriving the Diagonal Formula",
+              "text": "If the diagonals of rhombus ABCD are AC and BD intersecting at O, then the rhombus is divided into 4 right triangles. Area(ABD) = (1/2) × AO × BD and Area(CBD) = (1/2) × CO × BD. Total area = (1/2) × (AO + CO) × BD = (1/2) × AC × BD."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Trapezium",
+      "topics": [
+        {
+          "topic_name": "Properties and Area of a Trapezium",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A trapezium is a quadrilateral with one pair of parallel sides. The parallel sides are called bases, and the perpendicular distance between them is called the height."
+            },
+            {
+              "type": "formula",
+              "title": "Area of a Trapezium",
+              "formula": "Area = (1/2) × height × (sum of parallel sides) = (1/2) × h × (a + b)",
+              "explanation": "Where 'a' and 'b' are the lengths of the two parallel sides (bases), and 'h' is the perpendicular distance (height) between them."
+            },
+            {
+              "type": "note",
+              "title": "Derivation Using Rectangle and Triangles",
+              "text": "Consider trapezium WXYZ with WX ∥ ZY. Draw perpendiculars WM and XN from W and X to line ZY. This creates rectangle WXNM and two triangles MWZ and NXY. Area = Area(MWZ) + Area(WXNM) + Area(NXY) = (1/2) × h × MZ + a × h + (1/2) × h × NY. Simplifying: Area = (1/2) × h × (MZ + NY + 2a). Since MZ + NY + a = b (the longer base), we get Area = (1/2) × h × (a + b)."
+            },
+            {
+              "type": "example",
+              "title": "Example: Trapezium Area Calculation",
+              "text": "A trapezium has parallel sides of length 10 cm and 6 cm, with height 8 cm. Area = (1/2) × 8 × (10 + 6) = (1/2) × 8 × 16 = 64 cm²."
+            },
+            {
+              "type": "note",
+              "title": "Alternative Derivation: Using Two Copies",
+              "text": "If you take two identical copies of a trapezium and rotate one 180°, then join them along the non-parallel side, you get a parallelogram. The area of the parallelogram is h × (a + b), so the area of one trapezium is (1/2) × h × (a + b). This elegant method shows why the formula works."
+            },
+            {
+              "type": "paragraph",
+              "text": "The trapezium formula also applies to trapeziums of different shapes — whether the sides are slanted or the trapezium appears 'irregular'. As long as you know the two parallel sides and the perpendicular height between them, the formula works."
+            }
+          ]
+        },
+        {
+          "topic_name": "Special Cases and Applications",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "An isosceles trapezium is a trapezium where the non-parallel sides are equal in length. Such trapeziums have a vertical line of symmetry, which can be used to simplify calculations. A trapezium can be converted into a rectangle of equal area using dissection methods, making it easier to visualize and understand the area formula."
+            },
+            {
+              "type": "note",
+              "title": "Converting Trapezium to Rectangle",
+              "text": "Given a trapezium ABCD with parallel sides AB = a and CD = b, you can find the vertices of an equivalent rectangle EFGH. The rectangle has width (a + b)/2 (the average of the two parallel sides) and the same height as the trapezium."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Areas in Real Life",
+      "topics": [
+        {
+          "topic_name": "Unit Conversions for Area",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In real-world applications, areas are measured in various units: centimeters (cm), meters (m), inches (in), feet (ft), etc. It is important to convert between these units when necessary."
+            },
+            {
+              "type": "formula",
+              "title": "Linear and Area Conversion",
+              "formula": "1 in = 2.54 cm\n1 in² = 2.54² cm² = 6.4516 cm²",
+              "explanation": "When converting linear units to area units, you must square the conversion factor. For example, to convert 10 in² to cm²: 10 in² = 10 × 6.4516 cm² = 64.516 cm²."
+            },
+            {
+              "type": "example",
+              "title": "Example: Converting Area Units",
+              "text": "An A4 sheet has dimensions 21 cm × 29.7 cm. Area = 21 × 29.7 = 623.7 cm². If you want to express this in in²: 623.7 cm² ÷ 6.4516 cm²/in² ≈ 96.6 in²."
+            },
+            {
+              "type": "example",
+              "title": "Example: Converting from in² to cm²",
+              "text": "If a surface area is 161.29 cm², convert to in²: 161.29 cm² ÷ 6.4516 = 25 in² (approximately)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Larger Area Units",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "For larger areas like classrooms, houses, or land plots, we use different units: 1 ft² = 144 in² (since 1 ft = 12 in), 1 m² = 10,000 cm² (since 1 m = 100 cm), 1 km² = 1,000,000 m² (since 1 km = 1000 m)."
+            },
+            {
+              "type": "formula",
+              "title": "Larger Area Conversions",
+              "formula": "1 ft² = 144 in²\n1 m² = 10,000 cm²\n1 km² = 1,000,000 m²\n1 acre = 43,560 ft²",
+              "explanation": "These conversions are used when measuring practical areas like agricultural land, classrooms, or cities."
+            },
+            {
+              "type": "note",
+              "title": "Local Units of Area",
+              "text": "Different regions in India use traditional units of area measurement such as bigha, gaj, katha, dhur, cent, and ankanam. These units vary by region and are still used in local transactions, though they are being gradually replaced by standard metric units."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Summary of Area Formulas",
+      "topics": [
+        {
+          "topic_name": "Complete Reference of Area Formulas",
+          "content": [
+            {
+              "type": "table",
+              "title": "Area Formulas Summary",
+              "headers": ["Shape", "Formula", "Description"],
+              "rows": [
+                ["Rectangle", "length × width", "Product of two adjacent sides"],
+                ["Square", "side²", "All sides equal"],
+                ["Triangle", "(1/2) × base × height", "Half the product of base and perpendicular height"],
+                ["Parallelogram", "base × height", "Product of base and perpendicular height"],
+                ["Rhombus", "(1/2) × d₁ × d₂", "Half the product of the two diagonals"],
+                ["Trapezium", "(1/2) × height × (a + b)", "Half the product of height and sum of parallel sides"],
+                ["Quadrilateral (with diagonal)", "(1/2) × diagonal × (h₁ + h₂)", "Using diagonal and perpendicular distances from other vertices"]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Key Observations",
+              "text": "All area formulas involve a base and a height (perpendicular distance). For triangles and trapeziums, the factor (1/2) appears because these shapes are 'parts' of parallelograms or rectangles. Understanding this relationship helps in remembering and deriving formulas."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Area",
+      "definition": "The measure of the amount of surface enclosed within a closed figure, typically measured in square units (cm², m², in², etc.)."
+    },
+    {
+      "term": "Unit Square",
+      "definition": "A square with side length 1 unit. Used as a standard measure for area, with an area of 1 square unit."
+    },
+    {
+      "term": "Perimeter",
+      "definition": "The total length of the boundary of a closed figure. Perimeter and area are independent properties."
+    },
+    {
+      "term": "Base",
+      "definition": "Any side of a polygon, typically chosen as the reference side for calculating area. The base is often the horizontal side or the side to which a perpendicular is drawn."
+    },
+    {
+      "term": "Height",
+      "definition": "The perpendicular distance from the base to the opposite vertex or side. Always measured at a right angle (90°) to the base."
+    },
+    {
+      "term": "Rectangle",
+      "definition": "A quadrilateral with four right angles and opposite sides equal and parallel."
+    },
+    {
+      "term": "Square",
+      "definition": "A special rectangle where all four sides are equal in length."
+    },
+    {
+      "term": "Triangle",
+      "definition": "A polygon with three sides and three vertices. The area of a triangle is half the area of a rectangle with the same base and height."
+    },
+    {
+      "term": "Parallelogram",
+      "definition": "A quadrilateral with opposite sides parallel and equal in length. Opposite angles are also equal."
+    },
+    {
+      "term": "Rhombus",
+      "definition": "A special parallelogram where all four sides are equal in length. Its diagonals are perpendicular bisectors of each other."
+    },
+    {
+      "term": "Diagonal",
+      "definition": "A line segment connecting two non-adjacent vertices of a polygon."
+    },
+    {
+      "term": "Trapezium",
+      "definition": "A quadrilateral with exactly one pair of parallel sides. The parallel sides are called bases, and the perpendicular distance between them is the height."
+    },
+    {
+      "term": "Isosceles Trapezium",
+      "definition": "A trapezium where the non-parallel sides are equal in length. Such trapeziums have a vertical line of symmetry."
+    },
+    {
+      "term": "Dissection",
+      "definition": "The process of cutting a figure into pieces and rearranging them to form a different figure of the same area. Used to derive area formulas."
+    },
+    {
+      "term": "Perpendicular",
+      "definition": "A line or segment that meets another line or surface at a right angle (90°)."
+    },
+    {
+      "term": "Median of a Triangle",
+      "definition": "A line segment from a vertex of a triangle to the midpoint of the opposite side. Medians divide a triangle into two triangles of equal area."
+    },
+    {
+      "term": "Congruent",
+      "definition": "Having exactly the same shape and size. Congruent figures have equal areas."
+    },
+    {
+      "term": "Polygon",
+      "definition": "A closed figure made up of straight line segments. Examples: triangle, quadrilateral, pentagon, hexagon, etc."
+    },
+    {
+      "term": "Quadrilateral",
+      "definition": "A polygon with four sides and four vertices."
+    },
+    {
+      "term": "Acre",
+      "definition": "A unit of area used for measuring land, equal to 43,560 square feet."
+    }
+  ],
+  "summary_points": [
+    "Area measures the amount of surface enclosed within a closed figure by counting unit squares. It is different from perimeter, which measures the boundary length.",
+    "Perimeter and area are independent properties. Two shapes can have the same perimeter but different areas, and vice versa.",
+    "Area of a rectangle = length × width. All rectangles with the same length and width have the same area, regardless of orientation.",
+    "Area of a square = side². A square is a special case of a rectangle where all sides are equal.",
+    "Area of a triangle = (1/2) × base × height. This formula holds for all types of triangles (acute, right-angled, obtuse).",
+    "A diagonal of a rectangle divides it into two congruent triangles, each with area equal to half the rectangle's area.",
+    "In any triangle, a median (line from vertex to midpoint of opposite side) divides the triangle into two triangles of equal area.",
+    "Triangles with the same base and vertices on parallel lines have equal areas because they share the same base and height.",
+    "Any polygon can be divided into triangles, and its area is the sum of the areas of these triangles.",
+    "Area of a parallelogram = base × height. A parallelogram can be dissected and rearranged into a rectangle of the same area.",
+    "Parallelograms with the same base and height have equal areas, regardless of their slant.",
+    "Area of a rhombus = (1/2) × d₁ × d₂, where d₁ and d₂ are the lengths of the diagonals. A rhombus is a parallelogram with all sides equal.",
+    "Area of a trapezium = (1/2) × height × (sum of parallel sides). A trapezium can be dissected and rearranged into a rectangle.",
+    "For a quadrilateral with known diagonal, area = (1/2) × diagonal × (h₁ + h₂), where h₁ and h₂ are perpendicular distances from the other vertices.",
+    "Unit conversions for area: 1 in² = 6.4516 cm², 1 ft² = 144 in², 1 m² = 10,000 cm², 1 km² = 1,000,000 m², 1 acre = 43,560 ft².",
+    "In real-life applications, areas of land are often measured in acres, feet squared, or meters squared. Different regions use local units like bigha, gaj, katha, dhur, and cent.",
+    "The key to all area formulas is identifying a suitable base and its corresponding perpendicular height. Area formulas can be derived using dissection and rearrangement of shapes."
+  ]
+}

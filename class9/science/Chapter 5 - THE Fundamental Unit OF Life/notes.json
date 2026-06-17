@@ -1,0 +1,461 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "The Fundamental Unit of Life",
+    "chapter_number": 5
+  },
+  "notes": [
+    {
+      "section_title": "5.1 What are Living Organisms Made Up of?",
+      "topics": [
+        {
+          "topic_name": "Discovery of the Cell",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Robert Hooke (1665) observed a thin slice of cork under a self-designed microscope and saw compartments resembling a honeycomb. He called them 'cells' (Latin: 'a little room'). This was the first recorded observation that living things appear to consist of separate units."
+            },
+            {
+              "type": "list",
+              "title": "Key Milestones in Cell Biology",
+              "items": [
+                "Robert Hooke (1665): First observed cells in cork using a primitive microscope.",
+                "Leeuwenhoek (1674): Discovered free-living cells (microorganisms) in pond water using an improved microscope.",
+                "Robert Brown (1831): Discovered the nucleus in the cell.",
+                "Purkinje (1839): Coined the term 'protoplasm' for the fluid substance of the cell.",
+                "Schleiden (1838) & Schwann (1839): Proposed the Cell Theory — all plants and animals are composed of cells; the cell is the basic unit of life.",
+                "Virchow (1855): Expanded cell theory — 'All cells arise from pre-existing cells' (Omnis cellula e cellula).",
+                "Discovery of the electron microscope (1940): Enabled observation of the detailed internal structure of cells and organelles."
+              ]
+            },
+            {
+              "type": "activity",
+              "id": "5.1",
+              "title": "Activity 5.1 — Observing Onion Peel Cells",
+              "procedure": [
+                "Peel the epidermis from the concave side of an onion bulb using forceps.",
+                "Place in a watch glass of water to prevent drying.",
+                "Transfer a small, flat piece to a glass slide with a drop of water.",
+                "Add a drop of safranin solution and place a cover slip (avoid air bubbles).",
+                "Observe under low power, then high power of a compound microscope."
+              ],
+              "observation": "Rectangular box-like structures arranged regularly — the cells of the onion peel. All cells look similar regardless of the size of the onion.",
+              "conclusion": "Cells are the basic building units of organisms. Onion bulbs of different sizes are made of cells of the same size — cell size does not depend on organism size."
+            },
+            {
+              "type": "activity",
+              "id": "5.2",
+              "title": "Activity 5.2 — Comparing Cells from Different Plant Parts",
+              "procedure": [
+                "Prepare temporary mounts of leaf peels, root tips, and onion peels of different sizes.",
+                "Observe under microscope and compare shape, size, and structure."
+              ],
+              "conclusion": "Cells from different parts may differ in shape and size, but all share a fundamental organisation: cell membrane, cytoplasm, and nucleus. Shape and size are related to the specific function the cell performs."
+            }
+          ]
+        },
+        {
+          "topic_name": "Unicellular and Multicellular Organisms",
+          "content": [
+            {
+              "type": "note",
+              "title": "Unicellular vs Multicellular",
+              "text": "Unicellular organisms: entire body = single cell; it performs ALL life functions. Examples: Amoeba, Chlamydomonas, Paramoecium, bacteria.\n\nMulticellular organisms: many specialised cells grouped together, each performing specific functions. Examples: most fungi, plants, animals (including humans). A human has a heart to pump blood, a stomach to digest food, etc.\n\nEvery multicellular organism begins from a SINGLE CELL (fertilised egg). Cells divide to produce cells of their own kind. All cells arise from pre-existing cells."
+            },
+            {
+              "type": "note",
+              "title": "Cell Organelles and Division of Labour",
+              "text": "Just as multicellular organisms have division of labour among organs, individual cells have division of labour among cell organelles. Each organelle performs a specific function (e.g., making material, clearing waste). All cells — regardless of organism or function — have the same types of organelles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.2 What is a Cell Made Up of?",
+      "topics": [
+        {
+          "topic_name": "Overview of Cell Structure — Three Basic Components",
+          "content": [
+            {
+              "type": "list",
+              "title": "Three Features Present in Every Cell",
+              "items": [
+                "Plasma membrane (cell membrane): outermost covering, regulates entry/exit.",
+                "Nucleus: controls all cellular activities, contains genetic material.",
+                "Cytoplasm: fluid content enclosed by plasma membrane, contains organelles."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "5.2.1 Plasma Membrane (Cell Membrane)",
+          "content": [
+            {
+              "type": "note",
+              "title": "Plasma Membrane",
+              "text": "The plasma membrane is the outermost covering of the cell (in animal cells). It separates the cell's internal contents from the external environment and regulates the entry and exit of substances. It is called a selectively permeable membrane because it allows some materials in/out but prevents movement of others.\n\nComposition: made of organic molecules — lipids and proteins. Can only be seen using an electron microscope."
+            },
+            {
+              "type": "note",
+              "title": "Movement of Substances Across the Plasma Membrane",
+              "text": "1. Diffusion: spontaneous movement of substances from a region of high concentration to a region of low concentration — does NOT require energy.\n   • CO₂ (cellular waste) accumulates inside the cell → moves out by diffusion.\n   • O₂ level drops inside → O₂ enters by diffusion.\n   • Gases (CO₂, O₂) cross the membrane by diffusion.\n\n2. Osmosis: diffusion of WATER molecules specifically through a selectively permeable membrane from a region of low solute concentration (high water concentration) to a region of high solute concentration (low water concentration).\n   Water movement is affected by: the amount of substance dissolved in water (solute concentration).\n\n3. Endocytosis: the plasma membrane is flexible — it can engulf food/materials from outside the cell. Amoeba acquires food by this process.\n\n4. Active transport: some molecules move in/out of the cell using energy — operates against the concentration gradient."
+            },
+            {
+              "type": "note",
+              "title": "Types of Solutions and Effect on Cells (Osmosis)",
+              "text": "1. Hypotonic solution: external solution is MORE dilute (higher water concentration) than cell contents. Cell GAINS water by osmosis → cell SWELLS.\n\n2. Isotonic solution: external solution has SAME solute concentration as cell. NO net movement of water. Cell STAYS SAME SIZE.\n\n3. Hypertonic solution: external solution is MORE CONCENTRATED (lower water concentration) than cell contents. Cell LOSES water by osmosis → cell SHRINKS."
+            },
+            {
+              "type": "activity",
+              "id": "5.3",
+              "title": "Activity 5.3 — Osmosis in De-shelled Egg",
+              "procedure": [
+                "(a) Remove shell by dissolving in dilute HCl (shell = mostly CaCO₃). Place de-shelled egg in pure water for 5 minutes.",
+                "(b) Place a similar de-shelled egg in concentrated salt solution for 5 minutes."
+              ],
+              "observation": "(a) Egg swells — water enters by osmosis (pure water is hypotonic compared to egg contents). (b) Egg shrinks — water leaves by osmosis (concentrated salt solution is hypertonic).",
+              "conclusion": "The thin skin of the egg acts as a selectively permeable membrane. Water moves from lower solute concentration to higher solute concentration by osmosis."
+            },
+            {
+              "type": "activity",
+              "id": "5.4",
+              "title": "Activity 5.4 — Osmosis in Raisins",
+              "procedure": [
+                "Place dried raisins/apricots in plain water for some time.",
+                "Then place them in a concentrated sugar or salt solution."
+              ],
+              "observation": "(a) Raisins gain water and swell in plain water. (b) Raisins lose water and shrink in concentrated solution.",
+              "conclusion": "Raisins are already partially dry (hypertonic compared to plain water) → gain water. In concentrated solution, raisins become hypotonic → lose water. Demonstrates osmosis through the raisin skin membrane."
+            }
+          ]
+        },
+        {
+          "topic_name": "5.2.2 Cell Wall",
+          "content": [
+            {
+              "type": "note",
+              "title": "Cell Wall",
+              "text": "Present in: plant cells, fungi, and bacteria. ABSENT in animal cells.\nLocation: lies OUTSIDE the plasma membrane.\nComposition: mainly cellulose (a complex carbohydrate). Provides structural strength to plants.\nFunction: (1) gives rigid shape, (2) provides protection, (3) allows plant/fungal/bacterial cells to withstand hypotonic conditions without bursting — the wall exerts equal and opposite pressure (wall pressure/turgor pressure) to resist swelling."
+            },
+            {
+              "type": "note",
+              "title": "Plasmolysis",
+              "text": "When a living plant cell loses water through osmosis (in a hypertonic solution), the cell contents (protoplasm) shrink and pull away from the cell wall. This phenomenon is called plasmolysis. The cell wall does not shrink with the protoplasm."
+            },
+            {
+              "type": "activity",
+              "id": "5.6",
+              "title": "Activity 5.6 — Observing Plasmolysis in Rhoeo Leaf",
+              "procedure": [
+                "Mount Rhoeo leaf peel in water on a slide. Observe under high power — note chloroplasts.",
+                "Add a strong sugar or salt solution on the mounted slide. Wait 1 minute. Observe.",
+                "Repeat with a boiled leaf — observe effects."
+              ],
+              "observation": "In living cells: after adding strong solution, the cytoplasm shrinks away from the cell wall (plasmolysis). In boiled (dead) cells: plasmolysis does NOT occur.",
+              "conclusion": "Only LIVING cells can show osmosis and plasmolysis. Dead cells cannot regulate water movement — their membranes have lost selective permeability."
+            }
+          ]
+        },
+        {
+          "topic_name": "5.2.3 Nucleus",
+          "content": [
+            {
+              "type": "activity",
+              "id": "5.7",
+              "title": "Activity 5.7 — Observing Human Cheek Cells",
+              "procedure": [
+                "Gently scrape the inside of the cheek with an ice-cream spoon.",
+                "Transfer material to a glass slide with a drop of water.",
+                "Add a drop of methylene blue solution. Place cover slip.",
+                "Observe under microscope."
+              ],
+              "observation": "Flat, irregular, thin cells. Each has a dark-stained, spherical/oval structure near the centre — this is the nucleus.",
+              "conclusion": "All living cells (plant and animal) contain a nucleus. Stains like methylene blue, safranin, and iodine help make the nucleus more visible."
+            },
+            {
+              "type": "note",
+              "title": "Structure and Function of the Nucleus",
+              "text": "Structure:\n• Nuclear membrane: double-layered covering. Has pores that allow transfer of material between nucleus and cytoplasm.\n• Nucleoplasm: fluid inside the nucleus.\n• Chromosomes: rod-shaped, visible only when cell is about to divide. Made of DNA and protein.\n• Chromatin material: form of DNA when cell is NOT dividing — appears as entangled, thread-like mass.\n• DNA (Deoxyribonucleic Acid): contains information for inheritance of characters. Also contains information for constructing and organising cells.\n• Genes: functional segments of DNA.\n\nFunctions of the Nucleus:\n(1) Controls all cellular activities — directs chemical activities.\n(2) Plays a central role in cellular reproduction (cell division).\n(3) Determines how the cell will develop (along with environment).\n(4) Contains genetic information for inheritance from parents to offspring."
+            },
+            {
+              "type": "note",
+              "title": "Prokaryotes vs Eukaryotes",
+              "text": "Prokaryotes (pro = primitive/primary, karyon = nucleus):\n• No nuclear membrane — DNA is directly in the cytoplasm in an undefined region called the nucleoid.\n• No membrane-bound organelles (except poorly organised cytoplasmic parts).\n• Generally smaller (1–10 μm).\n• Single chromosome.\n• Ribosomes present (but small).\n• Example: bacteria.\n\nEukaryotes (eu = true, karyon = nucleus):\n• Well-defined nucleus with nuclear membrane.\n• Membrane-bound organelles (ER, Golgi, mitochondria, etc.).\n• Generally larger (5–100 μm).\n• More than one chromosome.\n• Example: all plants, animals, fungi (most multicellular organisms)."
+            },
+            {
+              "type": "table",
+              "headers": ["Feature", "Prokaryotic Cell", "Eukaryotic Cell"],
+              "rows": [
+                ["Size", "Generally small (1–10 µm)", "Generally large (5–100 µm)"],
+                ["Nuclear region", "Poorly defined; no nuclear membrane; called nucleoid", "Well-defined nucleus, surrounded by nuclear membrane"],
+                ["Chromosomes", "Single chromosome (no nuclear membrane)", "More than one chromosome"],
+                ["Membrane-bound organelles", "Absent", "Present (ER, Golgi, mitochondria, plastids, etc.)"],
+                ["Examples", "Bacteria (all prokaryotes)", "Plants, animals, fungi, protists"]
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "5.2.4 Cytoplasm",
+          "content": [
+            {
+              "type": "note",
+              "title": "Cytoplasm",
+              "text": "The cytoplasm is the fluid content inside the plasma membrane (excluding the nucleus). It takes up very little stain under a microscope. It contains many specialised cell organelles, each performing a specific function.\n\nKey significance: In eukaryotic cells, membrane-bound organelles separate chemical reactions from each other within the cytoplasm, allowing complex, highly ordered cellular processes. In prokaryotes, no membrane-bound organelles are present — these functions are performed by the cytoplasm itself.\n\nViruses: lack membranes and no internal organelles — they cannot perform life functions independently and must use a host cell's machinery to reproduce. This explains why viruses are not considered living until they enter a host cell."
+            }
+          ]
+        },
+        {
+          "topic_name": "5.2.5 Cell Organelles",
+          "content": [
+            {
+              "type": "note",
+              "title": "(i) Endoplasmic Reticulum (ER)",
+              "text": "Structure: large network of membrane-bound tubes and sheets; looks like long tubules or oblong bags (vesicles).\nTwo types:\n1. Rough ER (RER): has ribosomes on its surface → appears rough under microscope.\n   → Ribosomes are sites of PROTEIN synthesis.\n   → Proteins made here are sent to various parts of the cell via ER.\n2. Smooth ER (SER): NO ribosomes; smooth surface.\n   → Manufactures fat molecules (LIPIDS) important for cell function.\n   → In liver cells: SER plays a crucial role in detoxifying poisons and drugs.\n\nFunction of ER overall:\n(1) Transport channel: carries materials (especially proteins) between various regions of cytoplasm and between cytoplasm and nucleus.\n(2) Membrane biogenesis: proteins and lipids made in ER help build the cell membrane.\n(3) Cytoplasmic framework: provides surface for biochemical activities."
+            },
+            {
+              "type": "note",
+              "title": "(ii) Golgi Apparatus",
+              "text": "Structure: system of membrane-bound flattened sacs (cisterns) arranged in parallel stacks; often connected to ER membranes.\n\nFunctions:\n(1) Receives material synthesised near the ER.\n(2) Packages, modifies, and dispatches materials to targets inside and outside the cell.\n(3) Synthesis: can make complex sugars from simple sugars.\n(4) Formation of lysosomes."
+            },
+            {
+              "type": "note",
+              "title": "(iii) Lysosomes",
+              "text": "Structure: membrane-bound sacs filled with powerful digestive (hydrolytic) enzymes. These enzymes are made by the RER.\n\nFunctions:\n(1) Cell's waste disposal system — keep the cell clean.\n(2) Break down foreign material entering the cell (bacteria, food).\n(3) Digest worn-out and damaged organelles — cellular housekeeping.\n\nKey term: 'Suicide bags':\nDuring cellular disturbance or damage, lysosomes may burst and their enzymes digest the cell's own contents. Hence called 'suicide bags' of the cell."
+            },
+            {
+              "type": "note",
+              "title": "(iv) Mitochondria",
+              "text": "Common name: 'Powerhouses of the cell'.\n\nStructure:\n• Double membrane covering: outer membrane = porous (allows passage of materials); inner membrane = deeply folded inward (cristae) → increases surface area for ATP-generating reactions.\n• Have their own DNA and ribosomes (can make some of their own proteins).\n\nFunction:\n• Release energy for cellular activities in the form of ATP (Adenosine Triphosphate).\n• ATP = 'energy currency of the cell' — body uses energy stored in ATP for: (1) making new chemical compounds, (2) mechanical work (muscle contraction).\n\nUnique feature: mitochondria have their own DNA and ribosomes → semi-autonomous organelle. (Same as plastids.)"
+            },
+            {
+              "type": "note",
+              "title": "(v) Plastids",
+              "text": "Present in: PLANT CELLS ONLY (and some algae). Absent in animal cells.\n\nTypes:\n1. Chromoplasts (coloured plastids): contain pigments.\n   → Chloroplasts: contain chlorophyll (green pigment) + yellow/orange pigments. Essential for PHOTOSYNTHESIS.\n2. Leucoplasts (white/colourless plastids): STORAGE organelles.\n   → Store starch (energy), oils, and protein granules.\n\nInternal structure of Chloroplast:\n• Numerous membrane layers (thylakoids) embedded in a fluid called the stroma.\n• Have their own DNA and ribosomes (like mitochondria — semi-autonomous).\n\nChloroplast in photosynthetic prokaryotes: chlorophyll is associated with membranous vesicles, NOT with chloroplasts."
+            },
+            {
+              "type": "note",
+              "title": "(vi) Vacuoles",
+              "text": "Structure: membrane-bound storage sacs for solid or liquid contents.\n\nIn animal cells: small, multiple, scattered vacuoles.\nIn plant cells: very large central vacuole — may occupy 50–90% of the cell volume. Full of cell sap.\n\nFunctions of vacuoles in plants:\n(1) Maintain turgidity and rigidity of the cell.\n(2) Store important substances: amino acids, sugars, organic acids, proteins.\n(3) Store waste products.\n\nIn single-celled organisms (Amoeba): food vacuole contains food items that have been engulfed. Contractile vacuoles expel excess water and waste from the cell."
+            },
+            {
+              "type": "table",
+              "headers": ["Organelle", "Present in", "Key Function", "Unique Feature"],
+              "rows": [
+                ["Plasma membrane", "All cells", "Selectively permeable barrier; regulates entry/exit", "Made of lipids and proteins"],
+                ["Cell wall", "Plant, fungal, bacterial cells only", "Structural support; prevents bursting in hypotonic medium", "Made of cellulose (in plants)"],
+                ["Nucleus", "All eukaryotic cells", "Controls all cell activities; contains DNA/genes", "Double nuclear membrane with pores"],
+                ["Endoplasmic Reticulum (RER)", "All active eukaryotic cells", "Protein synthesis (ribosomes on surface)", "Rough due to ribosomes"],
+                ["Endoplasmic Reticulum (SER)", "All active eukaryotic cells", "Lipid synthesis; detoxification (liver)", "Smooth — no ribosomes"],
+                ["Golgi Apparatus", "All eukaryotic cells", "Packaging, modification, and dispatch of cellular products", "Flat stacked cisterns"],
+                ["Lysosomes", "All eukaryotic cells", "Digestion of waste and foreign material; cell housekeeping", "Called 'suicide bags' — burst when cell is damaged"],
+                ["Mitochondria", "All eukaryotic cells", "ATP production; powerhouse of cell", "Own DNA and ribosomes"],
+                ["Plastids — Chloroplasts", "Plant cells only", "Photosynthesis (contain chlorophyll)", "Own DNA and ribosomes"],
+                ["Plastids — Leucoplasts", "Plant cells only", "Storage of starch, oils, proteins", "Colourless/white"],
+                ["Vacuoles", "All cells (large in plants)", "Storage; maintain turgidity in plants; food/waste in unicellular organisms", "Occupy up to 50–90% of plant cell volume"]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Plant Cell vs Animal Cell — Comparison",
+      "topics": [
+        {
+          "topic_name": "Differences Between Plant and Animal Cells",
+          "content": [
+            {
+              "type": "table",
+              "headers": ["Feature", "Plant Cell", "Animal Cell"],
+              "rows": [
+                ["Cell wall", "Present (cellulose)", "Absent"],
+                ["Plastids", "Present (chloroplasts, leucoplasts, chromoplasts)", "Absent"],
+                ["Vacuoles", "Large central vacuole (50–90% of volume)", "Small, multiple, scattered vacuoles"],
+                ["Plasma membrane", "Present (inside cell wall)", "Present (outermost boundary)"],
+                ["Nucleus", "Present", "Present"],
+                ["Mitochondria", "Present", "Present"],
+                ["ER, Golgi, Lysosomes", "Present", "Present"],
+                ["Centrioles", "Generally absent", "Present (for cell division)"]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Cell Division",
+      "topics": [
+        {
+          "topic_name": "Types of Cell Division",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "New cells are formed for: (1) growth, (2) replacing dead or injured cells, (3) forming gametes for reproduction. The process is called cell division."
+            },
+            {
+              "type": "note",
+              "title": "Mitosis",
+              "text": "Mitosis = division for GROWTH AND REPAIR.\n• Mother cell divides → 2 identical daughter cells.\n• Daughter cells have the SAME number of chromosomes as the mother cell.\n• Used for: growth of body, repair of tissues.\n• Occurs in: most body (somatic) cells."
+            },
+            {
+              "type": "note",
+              "title": "Meiosis",
+              "text": "Meiosis = division for REPRODUCTION (gamete formation).\n• Involves TWO consecutive divisions.\n• Mother cell → 4 new cells.\n• Daughter cells have HALF the number of chromosomes as the mother cell.\n• Why half?: so that when two gametes (egg + sperm) fuse at fertilisation, the resulting cell (zygote) has the full chromosome number — otherwise chromosome number would double each generation.\n• Occurs in: reproductive organs only (testes, ovaries, anthers)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Cell",
+      "definition": "The basic structural and functional unit of life. The smallest unit capable of performing all life functions independently. All living organisms are made of one or more cells."
+    },
+    {
+      "term": "Cell Theory",
+      "definition": "The theory (Schleiden 1838, Schwann 1839, Virchow 1855) stating: (1) All living things are made of cells. (2) The cell is the basic unit of life. (3) All cells arise from pre-existing cells."
+    },
+    {
+      "term": "Unicellular Organism",
+      "definition": "An organism whose entire body consists of a single cell that performs all life functions. Examples: Amoeba, Chlamydomonas, Paramoecium, bacteria."
+    },
+    {
+      "term": "Multicellular Organism",
+      "definition": "An organism made of many cells. Different cells are specialised for different functions. Examples: most fungi, plants, animals."
+    },
+    {
+      "term": "Plasma Membrane (Cell Membrane)",
+      "definition": "The outermost covering of the cell (in animal cells). Made of lipids and proteins. A selectively permeable membrane — allows some substances in/out but prevents others. Enables endocytosis."
+    },
+    {
+      "term": "Selectively Permeable Membrane",
+      "definition": "A membrane that allows only certain substances to pass through it while blocking others. The plasma membrane is selectively permeable."
+    },
+    {
+      "term": "Diffusion",
+      "definition": "Spontaneous movement of a substance from a region of high concentration to a region of low concentration, without requiring energy. CO₂ and O₂ cross the cell membrane by diffusion."
+    },
+    {
+      "term": "Osmosis",
+      "definition": "The net diffusion of water molecules across a selectively permeable membrane from a region of high water concentration (low solute) to a region of low water concentration (high solute)."
+    },
+    {
+      "term": "Hypotonic Solution",
+      "definition": "A solution with lower solute concentration (higher water concentration) than the cell. Cell placed in hypotonic solution gains water and swells."
+    },
+    {
+      "term": "Isotonic Solution",
+      "definition": "A solution with solute concentration equal to that of the cell. No net movement of water — cell stays the same size."
+    },
+    {
+      "term": "Hypertonic Solution",
+      "definition": "A solution with higher solute concentration (lower water concentration) than the cell. Cell placed in hypertonic solution loses water and shrinks."
+    },
+    {
+      "term": "Endocytosis",
+      "definition": "The process by which the flexible plasma membrane engulfs food or material from outside the cell and takes it in. Example: Amoeba acquires food by endocytosis."
+    },
+    {
+      "term": "Cell Wall",
+      "definition": "A rigid outer covering present outside the plasma membrane in plant, fungal, and bacterial cells. In plants, made of cellulose. Provides structural support and allows cells to withstand hypotonic conditions without bursting."
+    },
+    {
+      "term": "Plasmolysis",
+      "definition": "The shrinkage and pulling away of the protoplasm (cell contents) from the cell wall when a plant cell loses water in a hypertonic solution."
+    },
+    {
+      "term": "Nucleus",
+      "definition": "The control centre of the eukaryotic cell. Enclosed by a double-layered nuclear membrane with pores. Contains DNA (as chromatin/chromosomes) and directs all cellular activities."
+    },
+    {
+      "term": "Nucleoid",
+      "definition": "The undefined nuclear region in prokaryotic cells where DNA is located, without a surrounding nuclear membrane."
+    },
+    {
+      "term": "Chromatin",
+      "definition": "The thread-like material (DNA + protein) present in the nucleus of a non-dividing cell. Condenses into chromosomes during cell division."
+    },
+    {
+      "term": "Chromosomes",
+      "definition": "Rod-shaped structures made of DNA and protein, visible when the cell is about to divide. Carry genes — the units of heredity."
+    },
+    {
+      "term": "Gene",
+      "definition": "A functional segment of DNA that contains the information needed to construct and organise cells, and to determine specific traits inherited from parents."
+    },
+    {
+      "term": "Prokaryote",
+      "definition": "An organism whose cells lack a defined nucleus (no nuclear membrane) and membrane-bound organelles. Examples: bacteria. (pro = primitive, karyon = nucleus)"
+    },
+    {
+      "term": "Eukaryote",
+      "definition": "An organism whose cells have a well-defined nucleus enclosed by a nuclear membrane and membrane-bound organelles. Examples: plants, animals, fungi. (eu = true, karyon = nucleus)"
+    },
+    {
+      "term": "Cytoplasm",
+      "definition": "The fluid content inside the plasma membrane excluding the nucleus. Contains all membrane-bound organelles in eukaryotic cells."
+    },
+    {
+      "term": "Endoplasmic Reticulum (ER)",
+      "definition": "A network of membrane-bound tubes and sheets. RER has ribosomes and makes proteins; SER makes lipids. Functions in transport, membrane biogenesis, and detoxification (SER in liver)."
+    },
+    {
+      "term": "Golgi Apparatus",
+      "definition": "System of stacked, membrane-bound flattened sacs (cisterns). Packages, modifies, and dispatches cellular products (proteins and lipids) to targets inside and outside the cell. Also forms lysosomes."
+    },
+    {
+      "term": "Lysosomes",
+      "definition": "Membrane-bound sacs filled with powerful digestive enzymes (made by RER). Digest foreign material and old organelles. Called 'suicide bags' because they can digest the cell's own contents when the cell is damaged."
+    },
+    {
+      "term": "Mitochondria",
+      "definition": "Double-membrane organelles that produce ATP (adenosine triphosphate) — the energy currency of the cell. Called 'powerhouses of the cell'. Have own DNA and ribosomes."
+    },
+    {
+      "term": "ATP (Adenosine Triphosphate)",
+      "definition": "The energy currency of the cell. Produced by mitochondria. Used for making new chemical compounds and for mechanical work within the cell."
+    },
+    {
+      "term": "Plastids",
+      "definition": "Membrane-bound organelles present ONLY in plant cells. Types: Chromoplasts (coloured — chloroplasts have chlorophyll for photosynthesis) and Leucoplasts (colourless — store starch, oils, proteins). Have own DNA and ribosomes."
+    },
+    {
+      "term": "Chloroplast",
+      "definition": "A chromoplast containing chlorophyll (green pigment) + other pigments. Site of photosynthesis in plant cells. Has own DNA and ribosomes. Inner membranes embedded in stroma."
+    },
+    {
+      "term": "Vacuole",
+      "definition": "A membrane-bound storage sac. Large central vacuole in plant cells provides turgidity and stores cell sap. Small in animal cells. In Amoeba, food vacuole stores food."
+    },
+    {
+      "term": "Protoplasm",
+      "definition": "The fluid substance of the cell — the total living content of the cell (nucleus + cytoplasm). Term coined by Purkinje (1839)."
+    },
+    {
+      "term": "Mitosis",
+      "definition": "Type of cell division for growth and repair: mother cell → 2 identical daughter cells with the SAME chromosome number."
+    },
+    {
+      "term": "Meiosis",
+      "definition": "Type of cell division for gamete formation: involves 2 consecutive divisions: mother cell → 4 daughter cells with HALF the chromosome number. Occurs in reproductive organs."
+    }
+  ],
+  "summary_points": [
+    "The cell is the fundamental structural and functional unit of life. Robert Hooke (1665) first observed cells in cork. Key milestones: Leeuwenhoek (1674) — free-living cells; Brown (1831) — nucleus; Schleiden & Schwann (1838–39) — Cell Theory; Virchow (1855) — all cells from pre-existing cells.",
+    "Unicellular organisms (Amoeba, bacteria, Paramoecium) perform all life functions in a single cell. Multicellular organisms have specialised cells. All multicellular organisms begin from a single cell; cells divide to produce cells of their own kind.",
+    "Every cell has three basic features: (1) plasma membrane, (2) nucleus (or nucleoid in prokaryotes), (3) cytoplasm. Cell organelles within the cytoplasm perform specific functions — this is division of labour within the cell.",
+    "The plasma membrane is a selectively permeable barrier made of lipids and proteins. Substances cross it by: (i) diffusion (CO₂, O₂ — along concentration gradient, no energy), (ii) osmosis (water — from low solute to high solute through membrane), (iii) endocytosis (engulfing food — Amoeba), (iv) active transport (using energy, against gradient).",
+    "Osmosis: hypotonic solution → cell gains water and swells; isotonic solution → no net water movement; hypertonic solution → cell loses water and shrinks. Activity 5.3 (de-shelled egg) and Activity 5.4 (raisins) demonstrate osmosis. Only LIVING cells (not dead cells) show osmosis (Activity 5.6 — boiled Rhoeo leaf).",
+    "Cell wall is present in plant, fungal, and bacterial cells (cellulose in plants). It provides rigidity and prevents bursting in hypotonic media. Plasmolysis = shrinkage of cell contents away from cell wall in hypertonic solution.",
+    "Nucleus (eukaryotes): double nuclear membrane with pores; contains chromatin (DNA + protein) → condenses to chromosomes during division; contains genes (functional DNA segments). Controls all cellular activities and reproduction.",
+    "Prokaryotes: no nuclear membrane (nucleoid region), no membrane-bound organelles, single chromosome, smaller (1–10 µm). Eukaryotes: nuclear membrane, membrane-bound organelles, multiple chromosomes, larger (5–100 µm).",
+    "Endoplasmic Reticulum: RER (ribosomes present) → protein synthesis + transport; SER (smooth) → lipid synthesis, detoxification. Golgi Apparatus: stacked cisterns → packages, modifies, and dispatches cell products; forms lysosomes.",
+    "Lysosomes (suicide bags): filled with digestive enzymes (made by RER) → digest foreign material and old organelles; burst during cell damage and digest cell. Mitochondria (powerhouses): double membrane (cristae increase surface area) → produce ATP (energy currency); have own DNA and ribosomes.",
+    "Plastids (plants only): Chloroplasts — contain chlorophyll, site of photosynthesis, own DNA and ribosomes. Leucoplasts — store starch, oils, proteins. Vacuoles — large in plants (50–90% volume), store cell sap, maintain turgidity; small in animals; food vacuoles in Amoeba.",
+    "Cell Division: Mitosis — for growth and repair; mother cell → 2 identical daughter cells (same chromosome number). Meiosis — for gamete formation; 2 consecutive divisions → 4 daughter cells with HALF the chromosome number."
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "How do Organisms Reproduce?",
+    "chapter_number": 7
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Is reproduction an essential life process for the survival of an individual organism? Justify your answer.",
+      "answer": "No, reproduction is not necessary for the survival of an individual organism, unlike nutrition, respiration, or excretion.",
+      "solution": "Unlike life processes such as nutrition, respiration, or excretion, reproduction is not necessary to maintain the life of an individual organism. If an organism were to stop reproducing, it would not die as a result. Instead, reproduction requires a lot of energy. Its main function is to create more individuals belonging to a single species, ensuring the continuation of that species rather than the survival of the individual."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What is the basic event in reproduction that ensures body designs are similar between generations?",
+      "answer": "The basic event in reproduction is the creation of a DNA copy.",
+      "solution": "Organisms look similar because their body designs and blueprints are similar. The information for the inheritance of these features from parents to the next generation is contained in DNA (Deoxyribo Nucleic Acid) molecules in the cell nucleus. Therefore, the creation of a DNA copy is the most fundamental event in reproduction, ensuring that the offspring receive the necessary blueprints to develop similar body designs."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Medium",
+      "question": "During reproduction, a cell makes a copy of its DNA. Why doesn't the cell simply push the copied DNA out to form a new individual?",
+      "answer": "Because the pushed-out DNA copy would lack the organised cellular apparatus required to maintain life processes.",
+      "solution": "Keeping one copy of DNA in the original cell and simply pushing the newly copied DNA out would not work. The naked DNA copy pushed out would not have any organised cellular structure or machinery (like ribosomes, mitochondria, etc.) necessary for maintaining basic life processes. Therefore, DNA copying must invariably be accompanied by the creation of an additional cellular apparatus so each DNA copy has its own functioning environment when the cell eventually divides."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Medium",
+      "question": "If DNA copying is a fundamental part of reproduction, why are the DNA copies generated subtly different from the original?",
+      "answer": "Because no bio-chemical reaction is absolutely reliable, leading to natural variations during the copying process.",
+      "solution": "The process of copying DNA involves complex bio-chemical reactions. However, no bio-chemical reaction is absolutely reliable or error-free. It is expected that the cellular mechanism copying the DNA will have some variations each time it operates. Consequently, while the generated DNA copies are very similar to the original, they are not completely identical. This inherent inaccuracy leads to subtle variations in the surviving cells, forming the basis for evolution."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Hard",
+      "question": "A specific population of bacteria thrives in temperate waters. Suddenly, due to an environmental shift, the water temperature increases significantly. Explain how variation ensures the survival of this species despite the drastic change in their niche.",
+      "answer": "Most bacteria will die, but a few variants resistant to heat will survive and reproduce, saving the species from extinction.",
+      "solution": "Populations use their reproductive ability to fill well-defined niches in the ecosystem. If a population of bacteria is heavily suited to temperate waters (their niche), a drastic increase in water temperature would ordinarily wipe out the entire population since their body design is not built for heat. However, because DNA copying involves subtle variations, some individual bacteria might naturally possess a variation that makes them resistant to higher temperatures. While the majority of the population will perish, these few heat-resistant variants will survive. They will grow and reproduce, re-establishing the population in the newly changed niche. Thus, variation provides a critical survival advantage for the species over time."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Identify the mode of asexual reproduction observed in Leishmania and Plasmodium.",
+      "answer": "Leishmania reproduces by binary fission (in a definite orientation), while Plasmodium reproduces by multiple fission.",
+      "solution": "Both Leishmania and Plasmodium are single-celled organisms that reproduce asexually through fission. Leishmania, which causes kala-azar and has a whip-like structure at one end, reproduces via binary fission exactly in a definite orientation related to that structure. On the other hand, the malarial parasite Plasmodium divides into many daughter cells simultaneously, a process known as multiple fission."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Which specific regenerative process allows Hydra to develop a new individual as an outgrowth on its body?",
+      "answer": "Budding.",
+      "solution": "Hydra utilises its regenerative cells to reproduce through a process known as budding. Due to repeated cell division at one specific site, a bud develops as an outgrowth. This bud continues to grow into a tiny individual and eventually detaches from the parent body when fully mature to become a new, independent organism."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What is the common method of reproduction for the bread mould Rhizopus?",
+      "answer": "Spore formation.",
+      "solution": "The bread mould (Rhizopus) reproduces asexually through spore formation. While its thread-like hyphae are non-reproductive, it develops tiny blob-on-a-stick structures called sporangia. These sporangia contain specialised cells or spores, which are protected by thick walls. Upon coming into contact with a moist surface, these spores begin to grow into new Rhizopus individuals."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Name the reproductive mode where simple multi-cellular organisms simply break into smaller pieces upon maturation to form new individuals.",
+      "answer": "Fragmentation.",
+      "solution": "Fragmentation is an asexual reproduction method used by multi-cellular organisms with relatively simple body organisations. For instance, upon maturation, the filamentous Spirogyra simply breaks up into smaller pieces. Each of these distinct pieces, or fragments, then independently grows into a whole new complete individual."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Contrast binary fission in Amoeba with that in Leishmania.",
+      "answer": "Binary fission in Amoeba can occur in any plane, whereas in Leishmania, it occurs in a definite orientation relative to its whip-like structure.",
+      "solution": "While both Amoeba and Leishmania are unicellular organisms that reproduce via binary fission (splitting into two equal halves), the execution differs. Amoeba lacks highly specialised structures, meaning the splitting of the two cells during division can take place across an arbitrary, irregular plane. Leishmania shows somewhat greater cellular organisation, possessing a whip-like structure at one functional end. As a result, its binary fission must occur in a very specific, definite orientation relative to these structures to ensure both daughter cells form properly."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Distinguish between fragmentation and regeneration as modes of asexual reproduction.",
+      "answer": "Fragmentation is the natural breaking of an organism into parts upon maturation to form new individuals, whereas regeneration is the ability of broken or cut body parts to grow into a new individual, often not a primary reproductive method.",
+      "solution": "Fragmentation is a functional, natural method of reproduction for simple multi-cellular organisms (like Spirogyra), where the organism naturally breaks into smaller pieces upon reaching maturity. Each piece then grows into a new individual. Regeneration, observed in organisms like Hydra and Planaria, is the capability to regrow a complete organism from a cut or broken body part using specialised proliferating cells. Crucially, regeneration is rarely the primary reproductive strategy, as organisms do not normally depend on being physically cut up in order to reproduce."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Why is it impractical for highly complex multi-cellular organisms to reproduce by simple fragmentation or cell-by-cell division?",
+      "answer": "Because complex organisms have specialised cells organised into specific tissues and organs, making simple cell-by-cell division disorganised and unviable.",
+      "solution": "Complex multi-cellular organisms are not merely random collections of cells. Their specialised cells are meticulously organised into tissues, and tissues are further organised into organs that are placed at definite positions within the body design. In such a highly ordered structure, unregulated cell-by-cell division or simple fragmentation would fail entirely to reconstruct the complex architecture of tissues and organs. Therefore, these organisms require complex reproductive strategies involving a single specialised cell type capable of growing, proliferating, and eventually manifesting into different cell types under the right circumstances."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "In an experiment studying vegetative propagation in a potato, a student cuts the potato into two types of pieces: Group A contains a noticeable notch (or 'eye'), while Group B has a completely smooth surface. If placed on moist cotton, which group will develop fresh green shoots, and why?",
+      "answer": "Group A will develop shoots because the notches contain buds necessary for vegetative propagation.",
+      "solution": "Vegetative propagation in plants like the potato relies on specific vegetative parts developing into a new plant under correct conditions. The notches or 'eyes' on the surface of a potato are actually auxiliary buds. These buds are the crucial structures capable of dividing and differentiating to produce fresh shoots and roots. The pieces in Group B lack these buds. Therefore, only the potato pieces in Group A, containing the bud/notch, will possess the regenerative capability to sprout fresh green shoots and roots when supplied with moisture."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "A farmer intends to quickly grow a large number of disease-free ornamental plants from a single parent plant that has lost the ability to produce seeds. What specific advanced technique of vegetative propagation should they use, and how does it work?",
+      "answer": "They should use tissue culture, where cells from the growing tip are placed in an artificial medium to form a callus and then differentiated using hormones.",
+      "solution": "The optimal technique is tissue culture. Instead of using prominent parts of the plant, tissue culture works by removing tissue or separating cells from the highly active growing tip of the single parent plant. These cells are placed in an artificial nutrient medium where they divide rapidly to form a small group of cells known as a callus. This callus is entirely isolated and thus remains disease-free. The callus is then transferred to another artificial medium containing specific plant hormones which induce growth and differentiation into small plantlets. These plantlets can then be transferred to soil to mature. This method allows the vast, rapid generation of clones from a seedless plant in controlled conditions."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "Critically analyze why a horticulturist might prefer to use methods of vegetative propagation rather than sowing seeds when growing jasmine or rose plants.",
+      "answer": "Vegetative propagation allows plants to bear flowers earlier, enables the propagation of seedless plants, and ensures genetic similarity to the parent.",
+      "solution": "A horticulturist might heavily favour vegetative propagation for three distinct reasons. First, plants raised through methods like grafting or cutting can bear flowers and fruits much earlier than plants that are painstakingly produced from seeds, speeding up the agricultural cycle. Second, it guarantees successful propagation for specific plants like roses, jasmine, and bananas, which have largely lost the capacity to produce viable seeds over time. Finally, and crucially for commercial quality control, all new plants produced this way are genetically similar to the parent plant. This ensures that a favoured hybrid or high-yielding characteristic is preserved identically in the offspring, whereas seeds (the product of sexual reproduction) introduce genetic variation that might dilute the desired traits."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Easy",
+      "question": "Identify the male and female reproductive parts within an angiosperm flower.",
+      "answer": "The male reproductive part is the stamen, and the female reproductive part is the pistil.",
+      "solution": "In angiosperms (flowering plants), the reproductive organs are located within the flower itself. The stamen serves as the male reproductive part and is responsible for producing the yellowish powder known as pollen grains. Conversely, the pistil is situated in the centre of the flower and functions as the female reproductive part, containing the ovary at its swollen base."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Easy",
+      "question": "Differentiate between unisexual and bisexual flowers based on their reproductive organs.",
+      "answer": "Unisexual flowers contain either stamens or a pistil, while bisexual flowers contain both.",
+      "solution": "Flowers are classified based on the presence of reproductive organs. A flower is termed unisexual if it contains only one type of reproductive organ—either stamens (male) or a pistil (female). Examples include papaya and watermelon flowers. On the other hand, a flower is deemed bisexual if it inherently contains both stamens and a pistil within the same structure, as seen in Hibiscus and mustard flowers."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Why is meiosis a necessary solution for organisms that engage in sexual reproduction?",
+      "answer": "Meiosis halves the amount of DNA in germ-cells, preventing the DNA content from doubling in each new generation.",
+      "solution": "Sexual reproduction fundamentally involves combining DNA copies from two different individuals to create a new generation. If somatic (regular body) cells were to fuse directly, the new individual would inexplicably possess twice the amount of DNA and chromosomes compared to the previous generation, severely messing up the control of the cellular apparatus. To solve this, organisms utilize a specialised cell division called meiosis. Meiosis is restricted to special lineages of cells and results in the formation of germ-cells (gametes) that possess exactly half the number of chromosomes and half the amount of DNA. When two germ-cells combine during fertilisation, the original, vital DNA content is successfully re-established in the new offspring."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Distinguish between self-pollination and cross-pollination. What environmental agents assist in cross-pollination?",
+      "answer": "Self-pollination occurs within the same flower, while cross-pollination moves pollen between different flowers with the help of agents like wind, water, or animals.",
+      "solution": "For sexual reproduction in plants, pollen must be physically transferred from the stamen to the sticky stigma of a pistil. If this crucial transfer occurs entirely within the structural confines of the very same flower, the process is referred to as self-pollination. However, if the pollen produced by one flower is transferred to the receptive stigma of a completely different flower, it is termed cross-pollination. Since flowers cannot move, cross-pollination strictly requires external agents to physically move the pollen; these agents include abiotic elements like wind or water, or biotic elements like insects and other animals."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "What is the function of the tube that grows out of a pollen grain after it successfully lands on a suitable stigma?",
+      "answer": "It serves as a passageway for the male germ-cell to travel through the style and reach the female germ-cells in the ovary.",
+      "solution": "Once a pollen grain lands on a compatible stigma through pollination, its male germ-cells are still physically separated from the female germ-cells (egg cells) which reside deep within the ovules of the ovary. To bridge this vast distance, a specialised pollen tube grows out from the pollen grain. This tube tunnels its way downward through the entire length of the elongated style, effectively creating a dedicated conduit. The male germ-cell travels down this tube to eventually reach the ovary, allowing subsequent fertilisation to take place."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Summarise the sequence of developmental events in a flower immediately following the successful fertilisation of the egg cell, culminating in germination.",
+      "answer": "The zygote divides to form an embryo within the ovule; the ovule becomes a seed; the surrounding ovary ripens into a fruit; eventually, the resting seed develops into a seedling (germination).",
+      "solution": "The process of post-fertilization development in flowering plants happens in a sequential fashion. Firstly, the fusion of the male and female germ-cells produces a zygote. This single-celled zygote rapidly divides several times to form a multi-cellular embryo situated securely within the ovule. Over time, the ovule develops a tough protective coat, gradually converting into a robust seed containing the embryonic future plant. Concurrently, the swollen ovary enveloping the ovules grows rapidly and ripens, transforming into a fruit, while other floral parts (petals, sepals, stamens) typically shrivel and fall off. When the resulting seed is placed under appropriate environmental conditions (moisture, warmth), the embryo within awakens and develops into a new seedling—this final awakening process is known as germination."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "Asexual reproduction involves variations occurring through minor errors during DNA copying. Why does the sexual mode of reproduction accelerate the generation of variations within a species population?",
+      "answer": "Sexual reproduction combines completely different sets of accumulated variations from two distinct individuals into a novel combination.",
+      "solution": "In asexual reproduction, DNA-copying mechanisms are largely precise; variations rely wholly on infrequent, slow bio-chemical errors during cell division. Since drastic errors lead to cell death, only minor variations accumulate over long periods. Sexual reproduction effectively bypasses this slow pace. Instead of waiting for a single lineage to incur random mutations, sexual reproduction combines the genetic material—and thus the previously accumulated, successful variations—from two completely separate individuals in a population. Since these variations come from currently living individuals, they are already proven to lack immediately lethal effects. Pooling DNA forces the creation of a completely novel combination of traits in every single generation, thereby vastly speeding up the generation of useful variation necessary for species survival."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Easy",
+      "question": "List two physical changes observed exclusively in girls during the onset of puberty.",
+      "answer": "Increase in breast size (along with darkening of nipples) and the onset of the menstrual cycle.",
+      "solution": "While body enlargement happens throughout childhood, puberty introduces completely new changes signifying sexual maturation. For girls specifically, these exclusive changes include the beginning of increased breast size (with the darkening of the skin of the nipples) and the commencement of the menstrual cycle (menstruation). Both signal the maturation of female reproductive tissues."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Easy",
+      "question": "Where are the male and female germ-cells produced in human beings?",
+      "answer": "Male germ-cells (sperms) are produced in the testes; female germ-cells (eggs) are produced in the ovaries.",
+      "solution": "In the human reproductive systems, specialised organs are tasked with gamete production. The formation of male germ-cells, or sperms, occurs in the testes, which are situated outside the abdominal cavity. Conversely, the female germ-cells, or eggs (ova), are manufactured in the ovaries, which also store thousands of immature eggs from birth."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Easy",
+      "question": "What is the specific function of the vas deferens in the male reproductive system?",
+      "answer": "It acts as a transport tube, delivering formed sperms from the testes towards the urethra.",
+      "solution": "The male reproductive system consists of the sites of sperm formation and the delivery pathways. Once the sperms are formed within the testes, they require a conduit to exit. The vas deferens acts as this delivery tube, transferring the sperms outwards and eventually uniting with a tube coming from the urinary bladder to form a common passage via the urethra."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Easy",
+      "question": "Define menstruation in human females.",
+      "answer": "Menstruation is the monthly shedding of the thickened uterine lining accompanied by blood and mucous when fertilisation does not occur.",
+      "solution": "Every month, a female's uterus heavily prepares to receive and nurture a fertilised egg by dramatically thickening its lining with rich blood supply. If the released egg is not fertilised by a sperm, this elaborate lining is no longer required. Consequently, the thick, spongy lining predictably breaks down and slowly exits the body through the vagina as a mixture of blood and mucous. This regular, recurring cycle is known as menstruation, lasting roughly two to eight days."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Medium",
+      "question": "Why are the testes located outside the abdominal cavity in a structure called the scrotum?",
+      "answer": "Because sperm formation strictly requires a temperature slightly lower than the normal internal body temperature.",
+      "solution": "The testes are the core organ responsible for the formation of male germ-cells (sperms). The bio-chemical process of generating viable sperms is highly sensitive to temperature. The normal internal temperature of the human abdominal cavity is too warm for optimal sperm formulation. Therefore, the testes are evolutionarily located outside the abdominal cavity in a pouch called the scrotum, which maintains the requisite lower temperature to safely and effectively produce sperms."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Medium",
+      "question": "In the male reproductive system, what crucial role do the prostate gland and seminal vesicles play?",
+      "answer": "They add specific fluid secretions to the sperms, making their transport easier and supplying them with nutrition.",
+      "solution": "Sperms are tiny, highly motile bodies consisting primarily of genetic material and a long tail. As they travel along the path of the vas deferens, auxiliary glands—namely the prostate and the seminal vesicles—contribute their own complex secretions. These secretions mix to form a vital fluid medium. This fluid significantly eases the physical transport of the sperms and crucially provides them with the required biological nutrition they need to survive the journey towards the female germ-cell."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Medium",
+      "question": "Describe the journey and subsequent development of a fertilised egg inside the female reproductive system.",
+      "answer": "The fertilised egg forms a zygote, divides to become an embryo, moves down the oviduct, and implants into the uterine lining where it develops into a foetus.",
+      "solution": "Following sexual intercourse, motile sperms travel upward through the vaginal passage into the oviduct (fallopian tube), where one may successfully encounter and fuse with the released egg. This fusion yields a fertilised egg, or zygote. The zygote immediately begins dividing rapidly to form a ball of cells called an embryo. The embryo travels down the oviduct and is implanted directly into the thick, blood-rich lining of the uterus. Here, it continuously draws nutrition, grows, and systematically develops organs to become a foetus, culminating in childbirth after approximately nine months of development."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Medium",
+      "question": "What is the placenta, and how does its structure facilitate its function between the mother and the developing embryo?",
+      "answer": "The placenta is a disc-like tissue joining the embryo to the uterine wall; its villi structures provide a large surface area for exchanging glucose, oxygen, and waste.",
+      "solution": "The placenta is a highly specialised disc-like tissue firmly embedded in the uterine wall, serving as a biological bridge between the mother and the child. Structurally, on the embryo's side of the tissue, it contains numerous finger-like projections called villi. These villi are surrounded by substantial blood spaces generated from the mother's side. This intricate, highly folded structure provides a massively increased surface area. This vast surface area is strictly necessary to effectively and rapidly pass vital glucose and oxygen from the mother's blood to the growing embryo, and to reversibly transfer generated metabolic waste substances from the embryo back into the mother's blood for removal."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Medium",
+      "question": "List two sexually transmitted diseases caused by bacterial infections and two caused by viral infections.",
+      "answer": "Bacterial: Gonorrhoea and Syphilis. Viral: Warts and HIV-AIDS.",
+      "solution": "Because the sexual act represents a profoundly intimate connection of bodies, a considerable variety of diseases can be transmitted. These are generally referred to as sexually transmitted diseases (STDs). According to the chapter, gonorrhoea and syphilis are prominent examples of STDs caused by bacterial infections. Conversely, warts and the severe condition HIV-AIDS are STDs caused by viral infections. The use of a condom during sexual acts can help prevent the transmission of many of these diseases to some extent."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "Analyze the differing mechanisms of action between mechanical contraceptive barriers, hormonal oral pills, and surgical blocks.",
+      "answer": "Mechanical barriers halt physical sperm-egg contact, hormonal pills prevent egg release, and surgical methods permanently block the transit pathways for gametes.",
+      "solution": "Contraceptive methods avoid pregnancy by manipulating different stages of the reproductive process. Mechanical barriers (like condoms for the penis or coverings for the vagina) work through simple physical obstruction; they physically capture or block sperms so they never reach the egg, simultaneously providing some protection against STDs. Hormonal contraceptives are ingested orally as pills; they chemically alter the body's natural hormonal balance to ensure eggs are simply not released from the ovary, making fertilisation physically impossible, though this can trigger bodily side-effects. Surgical blocks are anatomical interventions; surgery blocks the vas deferens in males (preventing sperm transfer output) or the fallopian tube in females (preventing the egg from ever reaching the uterus). Fertilisation cannot take place in either situation, acting as a highly safe, long-term barrier method."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "A society notices an alarming decline in its child sex ratio over a decade. Explain the biological and illicit surgical practices that contribute to this socio-demographic crisis.",
+      "answer": "The decline is caused by reckless, illegal sex-selective abortion of female foetuses using misused surgical methods to terminate unwanted pregnancies.",
+      "solution": "For a healthy, balanced society, a heavily skewed female-male sex ratio is detrimental. A declining child sex ratio in specific societal sections is usually the direct result of illicit practices targeting female children. In medical settings, surgery can be used safely for removing unwanted pregnancies. However, this same surgical intervention is frequently misused by people who specifically do not want a female child. Through prohibited prenatal sex determination, they detect the gender of the growing embryo. If it is female, they employ surgery to execute reckless female foeticide. It is this explicit, targeted removal of female foetuses before birth that causes the alarming and unbalanced decline in the child sex ratio."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "If a woman is using an intra-uterine device like the copper-T for contraception, critically evaluate its effectiveness in preventing pregnancy versus its effectiveness in preventing sexually transmitted diseases.",
+      "answer": "The copper-T effectively prevents pregnancy by disrupting the uterine environment but provides absolutely zero protection against sexually transmitted diseases.",
+      "solution": "Contraceptive strategies are not universally protective against all risks of sexual activity. An intra-uterine device such as the copper-T or loop is physically placed inside the uterus by a professional. It is highly effective at preventing pregnancy strictly because it mechanically and chemically irritates the uterine environment, actively preventing the implantation of a fertilised embryo. However, because it is placed completely internally and does not provide an external or physical barrier, it allows the unrestricted exchange of bodily fluids during the sexual act. Therefore, while it stops pregnancy, a copper-T will offer absolutely no help or protection against the transmission of bacterial or viral sexually transmitted diseases (like HIV, warts, syphilis), which are only mitigated by external coverings like condoms."
+    }
+  ]
+}

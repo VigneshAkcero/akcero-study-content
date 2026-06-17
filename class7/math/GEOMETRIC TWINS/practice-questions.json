@@ -1,0 +1,255 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Math",
+    "chapter_name": "Geometric Twins",
+    "chapter_number": 1
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What does it mean for two figures to be congruent?",
+      "answer": "Two figures are congruent if they have the same shape and size and can be superimposed exactly one over the other.",
+      "solution": "Congruent figures are exact copies of each other. When one is placed over the other (after rotation or flipping if needed), they fit perfectly with no part sticking out. The key conditions are: same shape AND same size. Two figures of the same shape but different sizes are NOT congruent."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Can a figure be rotated or flipped when checking for congruence? Justify your answer.",
+      "answer": "Yes. Rotation and flipping are allowed when checking congruence, as they do not change the shape or size of the figure.",
+      "solution": "Congruence is about having the same shape and size. Rotating a figure changes its orientation but not its dimensions. Similarly, flipping (reflecting) a figure produces a mirror image of the same shape and size. Since neither operation alters the measurements, a figure may be rotated or flipped before superimposing to check congruence."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "State the SSS condition for congruence of triangles.",
+      "answer": "If all three sides of one triangle are equal to the corresponding three sides of another triangle, then the two triangles are congruent (SSS condition).",
+      "solution": "SSS stands for Side-Side-Side. If in ΔABC and ΔPQR, AB = PQ, BC = QR, and CA = RP, then by the SSS condition, ΔABC ≅ ΔPQR. All three side lengths must match; knowing only two sides are equal is not enough to guarantee congruence by SSS."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "State the SAS condition for congruence of triangles.",
+      "answer": "If two sides and the included angle (the angle between those two sides) of one triangle are equal to the corresponding two sides and included angle of another triangle, the triangles are congruent (SAS condition).",
+      "solution": "SAS stands for Side-Angle-Side. The angle must be the included angle — meaning it must lie between the two given sides. For example, if AB = XY, AC = XZ, and ∠A = ∠X (∠A is between AB and AC), then ΔABC ≅ ΔXYZ by SAS. If the angle is NOT between the given sides, it is an SSA case, which does not guarantee congruence."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What is the hypotenuse of a right-angled triangle?",
+      "answer": "The hypotenuse is the side opposite to the right angle (90°) in a right-angled triangle. It is always the longest side.",
+      "solution": "In a right-angled triangle, the right angle is 90°. The side directly opposite this angle is called the hypotenuse. For example, in ΔABC with ∠B = 90°, the side AC (opposite to ∠B) is the hypotenuse. The hypotenuse is always the longest side because the right angle is the largest angle in such a triangle."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "State the RHS condition for congruence.",
+      "answer": "If the hypotenuse and one leg of a right-angled triangle are equal to the hypotenuse and corresponding leg of another right-angled triangle, the two triangles are congruent (RHS condition).",
+      "solution": "RHS stands for Right angle-Hypotenuse-Side. For RHS to apply: (1) Both triangles must be right-angled. (2) Their hypotenuses must be equal. (3) One leg (other side) must also be equal. For example, if ∠B = ∠Y = 90°, AC = XZ (hypotenuses), and BC = YZ (one leg), then ΔABC ≅ ΔXYZ by RHS."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Does knowing only the three angles of a triangle guarantee congruence with another triangle having the same three angles? Why or why not?",
+      "answer": "No. Knowing only three equal angles (AAA) does not guarantee congruence. The triangles may have the same shape but different sizes.",
+      "solution": "If two triangles have the same three angles (e.g., 30°, 70°, 80°), we can draw many triangles with these angles but different side lengths. They all have the same shape (are similar) but are not necessarily the same size. Since congruence requires both same shape AND same size, AAA alone is insufficient. We also need at least one pair of equal sides."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "If ΔHEN ≅ ΔBIG, identify: (a) the side equal to HE, (b) the angle equal to ∠N, (c) the vertex corresponding to N.",
+      "answer": "(a) BI, (b) ∠G, (c) G.",
+      "solution": "From ΔHEN ≅ ΔBIG, the correspondence is H↔B, E↔I, N↔G.\n(a) HE corresponds to BI, so HE = BI.\n(b) ∠N corresponds to ∠G, so ∠N = ∠G.\n(c) The vertex corresponding to N is G."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "What are the angles of an equilateral triangle? How do we know?",
+      "answer": "Each angle of an equilateral triangle is 60°.",
+      "solution": "In an equilateral triangle, all three sides are equal. By the isosceles triangle property (angles opposite equal sides are equal): since AB = AC, ∠B = ∠C; since AB = BC, ∠A = ∠C. Therefore ∠A = ∠B = ∠C. Since the angles of a triangle sum to 180°, we have 3 × angle = 180°, giving each angle = 60°."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "State the ASA condition for triangle congruence.",
+      "answer": "If two angles and the included side (side between the two angles) of one triangle are equal to the corresponding two angles and included side of another triangle, the triangles are congruent (ASA condition).",
+      "solution": "ASA stands for Angle-Side-Angle. The side must be the included side — lying between the two given angles. For example, if ∠B = ∠Y, BC = YZ, and ∠C = ∠Z (BC is between ∠B and ∠C), then ΔABC ≅ ΔXYZ by ASA."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "In an isosceles triangle PQR, PQ = PR. Which two angles are equal?",
+      "answer": "∠Q and ∠R are equal (angles opposite the equal sides).",
+      "solution": "By the isosceles triangle theorem, angles opposite equal sides are equal. Here PQ = PR. The angle opposite PQ is ∠R (at vertex R), and the angle opposite PR is ∠Q (at vertex Q). Therefore ∠Q = ∠R."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "Write two correct ways of expressing the congruence if ΔABC ≅ ΔPQR.",
+      "answer": "ΔBCA ≅ ΔQRP and ΔCAB ≅ ΔRPQ (any cyclic rotation of the vertices, maintaining the same correspondence).",
+      "solution": "The congruence ΔABC ≅ ΔPQR means A↔P, B↔Q, C↔R. Any writing that preserves this correspondence is correct. Cyclic rotations maintain the same order of vertices: ΔBCA ≅ ΔQRP (B↔Q, C↔R, A↔P ✓) and ΔCAB ≅ ΔRPQ (C↔R, A↔P, B↔Q ✓). However, ΔABC ≅ ΔPRQ would be incorrect as it would imply B↔R, which is wrong."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "State the AAS condition and explain why it guarantees congruence even though the side is not between the two angles.",
+      "answer": "AAS: two angles and a non-included side are equal. It guarantees congruence because the third angle is fixed by the angle sum property (180°), converting it effectively into an ASA case.",
+      "solution": "AAS stands for Angle-Angle-Side. Suppose in ΔABC and ΔXYZ: ∠A = ∠X, ∠C = ∠Z, and BC = YZ (non-included side). Since ∠A + ∠B + ∠C = 180° and ∠X + ∠Y + ∠Z = 180°, and ∠A = ∠X, ∠C = ∠Z, we get ∠B = ∠Y. Now we have ∠B = ∠Y, BC = YZ, and ∠C = ∠Z — which is the ASA condition with BC as the included side. Therefore ΔABC ≅ ΔXYZ. The third angle is not independent; it is determined by the other two."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Explain why the SSA condition does NOT guarantee congruence of two triangles.",
+      "answer": "Because given two sides and a non-included angle, two different (non-congruent) triangles can be constructed that both satisfy the given measurements.",
+      "solution": "Consider constructing a triangle with PQ = 6 cm, QR = 4 cm, and ∠P = 30°. Draw PQ = 6 cm and a ray from P at 30°. From Q, draw an arc of radius 4 cm. This arc cuts the ray at two different points R and S (when the arc intersects the ray in two places). Both ΔPQR and ΔPQS satisfy the SSA conditions (PQ, QR or QS, and ∠P are as given), yet the two triangles are not congruent. Hence SSA does not guarantee a unique triangle, so it does not guarantee congruence."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "In ΔABC and ΔDEF, AB = DE = 5 cm, BC = EF = 7 cm, and ∠B = ∠E = 60°. Are the triangles congruent? Name the condition used.",
+      "answer": "Yes, ΔABC ≅ ΔDEF by the SAS condition.",
+      "solution": "Given: AB = DE = 5 cm, BC = EF = 7 cm, and ∠B = ∠E = 60°. Here ∠B is the angle between sides AB and BC in ΔABC, and ∠E is the angle between DE and EF in ΔDEF. So the angle is the included angle between the two given sides in both triangles. By the SAS (Side-Angle-Side) condition: ΔABC ≅ ΔDEF, with correspondence A↔D, B↔E, C↔F."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "ABCD is a rectangle. The diagonal BD divides it into two triangles ΔABD and ΔCDB. Show that the two triangles are congruent and state which condition you used.",
+      "answer": "ΔABD ≅ ΔCDB by the SSS condition.",
+      "solution": "In rectangle ABCD:\n• AB = CD (opposite sides of a rectangle are equal).\n• AD = CB (opposite sides of a rectangle are equal).\n• BD = BD (common side, the diagonal).\nAll three sides of ΔABD are equal to the corresponding sides of ΔCDB. By the SSS condition, ΔABD ≅ ΔCDB.\nCorrect vertex correspondence: A↔C, B↔D, D↔B (so that equal sides overlap: AB↔CD, AD↔CB, BD↔BD)."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "In isosceles triangle ABC with AB = AC and ∠A = 40°, find ∠B and ∠C.",
+      "answer": "∠B = ∠C = 70°.",
+      "solution": "Since AB = AC in ΔABC, by the isosceles triangle theorem, ∠B = ∠C (angles opposite equal sides are equal).\nSum of angles of a triangle = 180°:\n∠A + ∠B + ∠C = 180°\n40° + ∠B + ∠C = 180°\n∠B + ∠C = 140°.\nSince ∠B = ∠C: 2∠B = 140°, so ∠B = 70°.\nTherefore ∠B = ∠C = 70°."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "ΔABC and ΔXYZ are right-angled triangles with ∠B = ∠Y = 90°, hypotenuse AC = XZ = 13 cm, and BC = YZ = 5 cm. Are they congruent? State the condition used.",
+      "answer": "Yes, ΔABC ≅ ΔXYZ by the RHS condition.",
+      "solution": "Given: ∠B = ∠Y = 90° (right angles), AC = XZ = 13 cm (hypotenuses are equal), BC = YZ = 5 cm (one leg is equal).\nThe RHS (Right angle-Hypotenuse-Side) condition requires: both triangles are right-angled ✓, hypotenuses are equal ✓, and one corresponding leg is equal ✓. All three conditions are met. Therefore ΔABC ≅ ΔXYZ by RHS, with correspondence A↔X, B↔Y, C↔Z."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "What measurements would you take to confirm that two given rectangles are congruent?",
+      "answer": "Measure the length and breadth of both rectangles. They are congruent if and only if their lengths are equal and their breadths are equal.",
+      "solution": "A rectangle is fully determined by its length (l) and breadth (b). Two rectangles are congruent if and only if they have the same length and the same breadth. Measuring only one dimension (e.g., the diagonal or just one side) is not sufficient — two rectangles can have the same diagonal or the same length but different shapes and sizes."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "In ΔABC and ΔXYZ, ∠A = ∠X = 35°, ∠C = ∠Z = 75°, and BC = YZ = 4 cm. Are the triangles congruent? Name and state the condition.",
+      "answer": "Yes, ΔABC ≅ ΔXYZ by the AAS condition.",
+      "solution": "Given: ∠A = ∠X = 35°, ∠C = ∠Z = 75°, BC = YZ = 4 cm.\nNote that BC is not between ∠A and ∠C (it is opposite ∠A), so the side BC is a non-included side. This is the AAS case.\nTo verify: ∠B = 180° − 35° − 75° = 70°. Similarly ∠Y = 70°. Now ∠B = ∠Y = 70°, BC = YZ = 4 cm, ∠C = ∠Z = 75° — this satisfies the ASA condition too (BC is the included side between ∠B and ∠C).\nTherefore ΔABC ≅ ΔXYZ."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "O is the midpoint of both segments AD and BC. Prove that AB = DC.",
+      "answer": "AB = DC because ΔAOB ≅ ΔDOC by the SAS condition.",
+      "solution": "Since O is the midpoint of AD: AO = OD.\nSince O is the midpoint of BC: BO = OC.\n∠AOB = ∠DOC (vertically opposite angles).\nIn ΔAOB and ΔDOC:\n• AO = OD (given)\n• BO = OC (given)\n• ∠AOB = ∠DOC (vertically opposite angles)\nBy the SAS condition (two sides and the included angle), ΔAOB ≅ ΔDOC.\nSince the triangles are congruent, their corresponding sides are equal: AB = DC."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "In the figure ABCD is a rectangle. Prove that ΔABC ≅ ΔCDA using the SSS condition, and list all pairs of corresponding parts.",
+      "answer": "ΔABC ≅ ΔCDA by SSS. Corresponding parts: AB↔CD, BC↔DA, AC↔CA; ∠ABC↔∠CDA, ∠BAC↔∠DCA, ∠BCA↔∠DAC.",
+      "solution": "In rectangle ABCD:\n• AB = CD (opposite sides equal)\n• BC = DA (opposite sides equal)\n• AC = CA (common diagonal)\nBy SSS condition: ΔABC ≅ ΔCDA (A↔C, B↔D, C↔A).\nCorresponding sides: AB↔CD, BC↔DA, AC↔CA.\nCorresponding angles: ∠BAC↔∠DCA, ∠ABC↔∠CDA, ∠BCA↔∠DAC.\nNote: ΔABC is also congruent to ΔCDA written the other way, illustrating congruence in two different vertex correspondences."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "In ΔABC, AB = AC and ∠A = 100°. Find the base angles. Is this an obtuse or acute triangle?",
+      "answer": "∠B = ∠C = 40°. This is an obtuse triangle.",
+      "solution": "Since AB = AC, by the isosceles triangle theorem, ∠B = ∠C.\n∠A + ∠B + ∠C = 180°\n100° + 2∠B = 180°\n2∠B = 80°\n∠B = 40°.\nSo ∠B = ∠C = 40°.\nSince one angle (∠A = 100°) is greater than 90°, ΔABC is an obtuse triangle."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "In ΔABC, AB = BC = CA = 6 cm. Find all the angles of the triangle.",
+      "answer": "∠A = ∠B = ∠C = 60°.",
+      "solution": "Since AB = BC = CA, ΔABC is an equilateral triangle.\nIn an equilateral triangle, all three sides are equal, so by the isosceles triangle property:\n• AB = AC ⟹ ∠B = ∠C\n• AB = BC ⟹ ∠A = ∠C\nTherefore ∠A = ∠B = ∠C.\nSince ∠A + ∠B + ∠C = 180°, we get 3∠A = 180°, so ∠A = 60°.\nAll three angles are 60°."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Medium",
+      "question": "In ΔABC, AB = DE, BC = EF, CA = FD. Write the congruence statement and list all corresponding angles.",
+      "answer": "ΔABC ≅ ΔDEF. Corresponding angles: ∠A = ∠D, ∠B = ∠E, ∠C = ∠F.",
+      "solution": "Given: AB = DE, BC = EF, CA = FD.\nMatching sides: AB↔DE, BC↔EF, CA↔FD.\nThis gives vertex correspondence A↔D, B↔E, C↔F.\nBy the SSS condition: ΔABC ≅ ΔDEF.\nSince the triangles are congruent, all corresponding angles are equal:\n∠A = ∠D, ∠B = ∠E, ∠C = ∠F."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "In ΔABC, AB = AD, CB = CD. Show that ΔABC ≅ ΔADC. Also show that AC bisects ∠BAD and ∠BCD.",
+      "answer": "ΔABC ≅ ΔADC by SSS. Since corresponding angles ∠BAC = ∠DAC and ∠BCA = ∠DCA, AC bisects both ∠BAD and ∠BCD.",
+      "solution": "In ΔABC and ΔADC:\n• AB = AD (given)\n• CB = CD (given)\n• AC = AC (common side)\nBy the SSS condition: ΔABC ≅ ΔADC (with A↔A, B↔D, C↔C).\nSince the triangles are congruent, their corresponding angles are equal:\n• ∠BAC = ∠DAC → AC divides ∠BAD into two equal parts → AC bisects ∠BAD. ✓\n• ∠BCA = ∠DCA → AC divides ∠BCD into two equal parts → AC bisects ∠BCD. ✓"
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Given that ∠ABC = ∠DBC and ∠ACB = ∠DCB in the figure, show that ∠BAC = ∠BDC. Are triangles ABC and DBC congruent?",
+      "answer": "Yes, ΔABC ≅ ΔDBC by the ASA condition, therefore ∠BAC = ∠BDC.",
+      "solution": "In ΔABC and ΔDBC:\n• ∠ABC = ∠DBC (given)\n• BC = BC (common side — the included side between the two given angles)\n• ∠ACB = ∠DCB (given)\nBy the ASA condition (two angles and the included side BC): ΔABC ≅ ΔDBC (with A↔D, B↔B, C↔C).\nSince the triangles are congruent, all corresponding parts are equal. In particular, ∠BAC = ∠BDC (corresponding angles). ✓"
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "ABCD is a square. Prove that ΔABC ≅ ΔADC.",
+      "answer": "ΔABC ≅ ΔADC by the SSS condition.",
+      "solution": "In a square ABCD, all sides are equal: AB = BC = CD = DA.\nIn ΔABC and ΔADC:\n• AB = AD (sides of the square)\n• BC = DC (sides of the square)\n• AC = AC (common diagonal)\nBy the SSS condition: ΔABC ≅ ΔADC (with A↔A, B↔D, C↔C).\nNote: ΔABC is also congruent to ΔCDA (A↔C, B↔D, C↔A) by SSS, showing the same pair of triangles can sometimes be expressed in more than one correct vertex correspondence."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "In ΔDFE and ΔGED, DF = DG and FE = GE. Is ΔDFE ≅ ΔGED? State the condition and identify corresponding parts.",
+      "answer": "Yes, ΔDFE ≅ ΔGED by the SSS condition.",
+      "solution": "In ΔDFE and ΔGED:\n• DF = GE? — Let us carefully match sides. The sides of ΔDFE are DF, FE, and DE. The sides of ΔGED are GE, ED, and DG.\nGiven: DF = DG and FE = GE. Also DE = ED (common side).\nMatching: DF↔GE (both equal to DG = GE... wait — DF = DG and FE = GE. Let us use DE as common.\nIn ΔDFE and ΔGED: DF = GE (if DF = DG = GE — not directly stated).\nBetter approach: DF = DG (given), FE = GE (given), DE = DE (common). So ΔDFE and ΔDGE share side DE. In ΔDFE: sides DF, FE, DE. In ΔDGE: sides DG, GE, DE. Since DF = DG, FE = GE, and DE = DE, by SSS: ΔDFE ≅ ΔDGE. The vertex correspondence is D↔D, F↔G, E↔E. Equal corresponding angles: ∠FDE = ∠GDE, ∠DEF = ∠DEG, ∠DFE = ∠DGE."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "In an isosceles triangle, the altitude from the apex (vertex between the two equal sides) to the base always bisects the base. Prove this using congruence.",
+      "answer": "The altitude from the apex bisects the base because the two resulting right triangles are congruent by the RHS condition.",
+      "solution": "Let ΔABC be isosceles with AB = AC. Let D be the foot of the altitude from A to BC (so AD ⊥ BC).\nConsider ΔADB and ΔADC:\n• ∠ADB = ∠ADC = 90° (AD is altitude)\n• AB = AC (given equal sides — these are the hypotenuses)\n• AD = AD (common leg)\nBy the RHS condition: ΔADB ≅ ΔADC.\nSince the triangles are congruent, their corresponding sides are equal: BD = DC.\nTherefore, D is the midpoint of BC, meaning the altitude from A bisects the base BC. ✓"
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "In ΔABC, OB = OC and OA = OD. Show that AB is parallel to CD. (Hint: AD is a transversal; look for equal alternate angles.)",
+      "answer": "AB is parallel to CD because alternate interior angles are equal, proved via congruence.",
+      "solution": "Consider ΔAOB and ΔDOC:\n• OA = OD (given)\n• OB = OC (given)\n• ∠AOB = ∠DOC (vertically opposite angles)\nBy SAS: ΔAOB ≅ ΔDOC (A↔D, O↔O, B↔C).\nTherefore, corresponding angles ∠OAB = ∠ODC.\nNow, AD is a transversal cutting lines AB and CD. The angles ∠OAB and ∠ODC are alternate interior angles (on opposite sides of the transversal). Since these alternate angles are equal (∠OAB = ∠ODC), the lines AB and CD must be parallel."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "A is the centre of a circle, and two radii AB and AC are drawn. If ∠BAC = 120°, find ∠ABC and ∠ACB.",
+      "answer": "∠ABC = ∠ACB = 30°.",
+      "solution": "Since A is the centre of the circle and B, C are points on the circle, AB and AC are radii of the circle. Therefore AB = AC (all radii of a circle are equal).\nTriangle ABC is isosceles with AB = AC. By the isosceles triangle theorem: ∠ABC = ∠ACB.\nAngle sum: ∠BAC + ∠ABC + ∠ACB = 180°\n120° + 2∠ABC = 180°\n2∠ABC = 60°\n∠ABC = 30°.\nSo ∠ABC = ∠ACB = 30°."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "Two triangles have two sides and the angle opposite to the longer of the two sides equal. Must they be congruent? Explain.",
+      "answer": "Yes, in this specific case congruence is guaranteed, as only one valid triangle can be constructed.",
+      "solution": "This is a special case of SSA. In general, SSA does not guarantee congruence because the arc (drawn from one endpoint with the given side length) can intersect the reference line at two points. However, when the given side opposite to the angle is longer than the other given side, the arc can only intersect the reference line at one valid point on the correct side. This eliminates the ambiguity, and so the triangle is unique — meaning any two triangles satisfying these measurements must be congruent. This is why SSA can sometimes guarantee congruence in specific configurations, even though the general SSA case does not."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "In ΔPQR, PQ = PR. The bisector of ∠P meets QR at M. Show that QM = MR and PM ⊥ QR.",
+      "answer": "QM = MR and PM ⊥ QR, proved by showing ΔPQM ≅ ΔPRM by SAS.",
+      "solution": "In ΔPQM and ΔPRM:\n• PQ = PR (given, isosceles)\n• PM = PM (common side)\n• ∠QPM = ∠RPM (PM is the angle bisector of ∠P)\nBy the SAS condition: ΔPQM ≅ ΔPRM (P↔P, Q↔R, M↔M).\nFrom congruence:\n1. QM = RM (corresponding sides) → M is the midpoint of QR → QM = MR. ✓\n2. ∠PMQ = ∠PMR (corresponding angles). But ∠PMQ + ∠PMR = 180° (angles on a straight line). So 2∠PMQ = 180°, giving ∠PMQ = 90°. Therefore PM ⊥ QR. ✓"
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "Can two triangles be congruent to each other in more than one vertex correspondence? Give an example.",
+      "answer": "Yes. In an equilateral triangle ΔABC, ΔABC ≅ ΔBCA ≅ ΔCAB (and three more), giving six valid correspondences.",
+      "solution": "For a general scalene triangle (all sides and angles different), there is exactly one valid vertex correspondence when two triangles are congruent. However, for triangles with some equal parts, multiple correspondences can work. Example: In a square ABCD, the diagonal BD divides it into ΔABD and ΔCDB. The congruence ΔABD ≅ ΔCDB holds with A↔C, B↔D, D↔B. Rearranging gives ΔBDA ≅ ΔDBC as another valid way. For an equilateral triangle where all sides are equal (AB = BC = CA), any permutation of vertices gives a valid congruence: ΔABC ≅ ΔBCA ≅ ΔCAB ≅ ΔACB ≅ ΔBAC ≅ ΔCBA — six correspondences in all."
+    }
+  ]
+}

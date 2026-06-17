@@ -1,0 +1,404 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Quadratic Equations",
+    "chapter_number": 4
+  },
+  "notes": [
+    {
+      "section_title": "4.1 Introduction",
+      "topics": [
+        {
+          "topic_name": "What is a Quadratic Equation?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A quadratic equation in the variable x is an equation of the form ax² + bx + c = 0, where a, b, c are real numbers and a ≠ 0. The condition a ≠ 0 is essential because if a = 0, the equation becomes linear (bx + c = 0), not quadratic. The term 'quadratic' comes from the Latin word 'quadratus', meaning 'square'."
+            },
+            {
+              "type": "note",
+              "title": "Standard Form",
+              "text": "The expression ax² + bx + c = 0 is called the standard form of a quadratic equation. Here, ax² is the quadratic term (a is the leading coefficient), bx is the linear term, and c is the constant term. Terms may appear in any order in a given equation, but we rewrite them in standard form to identify a, b, and c clearly."
+            },
+            {
+              "type": "list",
+              "title": "Examples of Quadratic Equations",
+              "items": [
+                "2x² + x - 300 = 0 (from the prayer hall problem)",
+                "2x² - 3x + 1 = 0",
+                "4x - 3x² + 2 = 0 (rewritten as -3x² + 4x + 2 = 0)",
+                "1 - x² + 300 = 0 (rewritten as -x² + 301 = 0)",
+                "x² = 0",
+                "x² - 2x + 1 = 0"
+              ]
+            },
+            {
+              "type": "example",
+              "title": "The Prayer Hall Problem (From 4.1 Introduction)",
+              "description": "A charity trust decides to build a prayer hall with a carpet area of 300 m². The length is one metre more than twice the breadth. If breadth = x metres, then length = (2x + 1) metres. Area = x(2x + 1) = 300, which gives 2x² + x = 300, or 2x² + x - 300 = 0. This is a quadratic equation arising from a real-life situation."
+            },
+            {
+              "type": "paragraph",
+              "text": "Many situations in mathematics, physics, engineering, and commerce lead to quadratic equations. Finding the dimensions of a rectangular plot, projectile motion, maximizing profit, and solving geometric problems all involve quadratic equations."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "4.2 Quadratic Equations",
+      "topics": [
+        {
+          "topic_name": "Identifying Quadratic Equations",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To check whether an equation is quadratic, first rewrite it in the form ax² + bx + c = 0 by collecting all terms on one side. Then verify that a ≠ 0. If, after simplification, the highest power of x is 2 and the equation is non-trivial, it is quadratic."
+            },
+            {
+              "type": "list",
+              "title": "Steps to Verify if an Equation is Quadratic",
+              "items": [
+                "Step 1: Expand all products and simplify.",
+                "Step 2: Move all terms to one side.",
+                "Step 3: Identify the highest power of x.",
+                "Step 4: If the highest power is 2 and a ≠ 0, the equation is quadratic.",
+                "Step 5: If the highest power is less than 2, the equation is linear or lower degree."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example 1: Checking (x - 2)² + 1 = 2x - 3",
+              "description": "Expand LHS: (x - 2)² + 1 = x² - 4x + 4 + 1 = x² - 4x + 5. Rewrite the equation: x² - 4x + 5 = 2x - 3. Rearrange: x² - 4x + 5 - 2x + 3 = 0, which gives x² - 6x + 8 = 0. Since a = 1 ≠ 0 and the highest power is 2, this is a quadratic equation."
+            },
+            {
+              "type": "example",
+              "title": "Example 2: Checking x(x + 1) + 8 = (x + 2)(x - 2)",
+              "description": "Expand LHS: x(x + 1) + 8 = x² + x + 8. Expand RHS: (x + 2)(x - 2) = x² - 4. Rewrite: x² + x + 8 = x² - 4. Rearrange: x² + x + 8 - x² + 4 = 0, which gives x + 12 = 0. The highest power is 1, not 2. This is NOT a quadratic equation; it is linear."
+            },
+            {
+              "type": "example",
+              "title": "Example 3: Checking x(2x + 3) = x² + 1",
+              "description": "Expand LHS: x(2x + 3) = 2x² + 3x. Rewrite: 2x² + 3x = x² + 1. Rearrange: 2x² + 3x - x² - 1 = 0, which gives x² + 3x - 1 = 0. Since a = 1 ≠ 0 and the highest power is 2, this is a quadratic equation."
+            },
+            {
+              "type": "example",
+              "title": "Example 4: Checking (x + 2)³ = x³ - 4",
+              "description": "Expand LHS: (x + 2)³ = x³ + 6x² + 12x + 8. Rewrite: x³ + 6x² + 12x + 8 = x³ - 4. Rearrange: x³ + 6x² + 12x + 8 - x³ + 4 = 0, which simplifies to 6x² + 12x + 12 = 0, or x² + 2x + 2 = 0 (dividing by 6). This is a quadratic equation. (Note: Although it initially appears cubic, the x³ terms cancel, making it quadratic.)"
+            },
+            {
+              "type": "note",
+              "title": "Important Caution",
+              "text": "Always simplify an equation fully before concluding whether it is quadratic or not. Some equations that appear quadratic may reduce to linear after simplification, while some that appear cubic may become quadratic after cancellation."
+            }
+          ]
+        },
+        {
+          "topic_name": "Representing Situations as Quadratic Equations",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Real-world situations can often be represented as quadratic equations. The key is to define variables for unknowns, translate conditions into algebraic form, and simplify to get the standard form ax² + bx + c = 0."
+            },
+            {
+              "type": "example",
+              "title": "Example 5: Marbles Problem",
+              "description": "John and Jivanti together have 45 marbles. Both lost 5 marbles each, and the product of their remaining marbles is 124. Find the initial number of marbles John had. Let x = John's marbles, then Jivanti has (45 - x) marbles. After loss: John has (x - 5), Jivanti has (40 - x). Product: (x - 5)(40 - x) = 124. Expand: 40x - x² - 200 + 5x = 124, which gives -x² + 45x - 200 = 124, or x² - 45x + 324 = 0."
+            },
+            {
+              "type": "example",
+              "title": "Example 6: Cottage Industry Problem",
+              "description": "A cottage industry produces toys. Cost per toy (in rupees) = 55 - (number of toys produced in a day). If total cost on a day is ₹750, find the number of toys. Let x = number of toys. Cost per toy = (55 - x). Total cost = x(55 - x) = 750. Expand: 55x - x² = 750, which gives x² - 55x + 750 = 0."
+            },
+            {
+              "type": "list",
+              "title": "Common Real-World Contexts",
+              "items": [
+                "Geometry: Finding dimensions of rectangular plots, radius of circles, sides of polygons.",
+                "Physics: Projectile motion, time to reach maximum height, distance fallen.",
+                "Commerce: Cost, revenue, and profit optimization problems.",
+                "Combinatorics: Selecting items where products or sums satisfy conditions."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "4.3 Solution of a Quadratic Equation by Factorisation",
+      "topics": [
+        {
+          "topic_name": "Understanding Roots",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A root (or solution) of the quadratic equation ax² + bx + c = 0 is a real number α such that aα² + bα + c = 0. In other words, when we substitute α for x, the equation is satisfied. A quadratic equation can have at most two roots (since the polynomial ax² + bx + c has degree 2)."
+            },
+            {
+              "type": "note",
+              "title": "Zeros vs Roots",
+              "text": "The zeros of the quadratic polynomial p(x) = ax² + bx + c and the roots of the equation ax² + bx + c = 0 are the same. Both refer to values of x for which the expression equals zero."
+            },
+            {
+              "type": "example",
+              "title": "Verification of a Root",
+              "description": "For the equation 2x² - 3x + 1 = 0, check if x = 1 is a root: Substitute x = 1: 2(1)² - 3(1) + 1 = 2 - 3 + 1 = 0 ✓. So x = 1 is a root. Check if x = 1/2 is a root: Substitute x = 1/2: 2(1/2)² - 3(1/2) + 1 = 2(1/4) - 3/2 + 1 = 1/2 - 3/2 + 1 = 0 ✓. So x = 1/2 is also a root."
+            }
+          ]
+        },
+        {
+          "topic_name": "Factorisation Method",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The factorisation method involves expressing the quadratic ax² + bx + c as a product of two linear factors, then using the property that if a product is zero, at least one of the factors must be zero. This method was introduced in Chapter 2 for polynomials and is applied here to solve equations."
+            },
+            {
+              "type": "list",
+              "title": "Steps of Factorisation Method",
+              "items": [
+                "Step 1: Write the equation in standard form ax² + bx + c = 0.",
+                "Step 2: Factorise the quadratic expression on the left side into two linear factors (if possible).",
+                "Step 3: Set each factor equal to zero.",
+                "Step 4: Solve the resulting linear equations to get the roots.",
+                "Step 5: Verify the roots by substituting back into the original equation."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The key step is factorisation. We often use the method of splitting the middle term: for ax² + bx + c, find two numbers whose product is ac and whose sum is b, then split the bx term accordingly."
+            },
+            {
+              "type": "example",
+              "title": "Example 7: Solving 2x² - 5x + 3 = 0 by Factorisation",
+              "description": "We need to factorise 2x² - 5x + 3. Here, a = 2, c = 3, so ac = 6. We look for two numbers whose product is 6 and sum is -5. These are -2 and -3. Split the middle term: 2x² - 2x - 3x + 3 = 0. Group: 2x(x - 1) - 3(x - 1) = 0. Factor: (2x - 3)(x - 1) = 0. So 2x - 3 = 0 or x - 1 = 0, giving x = 3/2 or x = 1. Verification: For x = 3/2: 2(3/2)² - 5(3/2) + 3 = 9/2 - 15/2 + 3 = (9 - 15 + 6)/2 = 0 ✓. For x = 1: 2(1)² - 5(1) + 3 = 2 - 5 + 3 = 0 ✓."
+            },
+            {
+              "type": "example",
+              "title": "Example 8: Solving 6x² - x - 2 = 0 by Factorisation",
+              "description": "Here, a = 6, c = -2, so ac = -12. We look for two numbers whose product is -12 and sum is -1. These are -4 and 3 (since -4 × 3 = -12 and -4 + 3 = -1). Split: 6x² - 4x + 3x - 2 = 0. Group: 2x(3x - 2) + 1(3x - 2) = 0. Factor: (3x - 2)(2x + 1) = 0. So 3x - 2 = 0 or 2x + 1 = 0, giving x = 2/3 or x = -1/2."
+            },
+            {
+              "type": "example",
+              "title": "Example 9: Solving 3x² - 2√6x + 2 = 0 by Factorisation",
+              "description": "Here, a = 3, c = 2, so ac = 6. We look for two numbers whose product is 6 and sum is -2√6. These are -√6 and -√6. Split: 3x² - √6x - √6x + 2 = 0. Group: √3x(√3x - √2) - √2(√3x - √2) = 0. Factor: (√3x - √2)(√3x - √2) = 0, or (√3x - √2)² = 0. This gives x = √(2/3) as a repeated root (appears twice)."
+            },
+            {
+              "type": "note",
+              "title": "When Factorisation is Not Possible",
+              "text": "Some quadratic equations cannot be factorised using rational numbers. In such cases, the quadratic formula must be used instead. The discriminant (b² - 4ac) helps determine if rational roots exist."
+            }
+          ]
+        },
+        {
+          "topic_name": "Application: Prayer Hall Dimensions",
+          "content": [
+            {
+              "type": "example",
+              "title": "Example 10: Finding Prayer Hall Dimensions",
+              "description": "From the introduction, the breadth x must satisfy 2x² + x - 300 = 0. Factorise by splitting the middle term: ac = 2(-300) = -600. Find two numbers whose product is -600 and sum is 1. These are 25 and -24. Split: 2x² + 25x - 24x - 300 = 0. Group: x(2x + 25) - 12(2x + 25) = 0. Factor: (2x + 25)(x - 12) = 0. So x = -25/2 or x = 12. Since breadth cannot be negative, x = 12 m. Length = 2(12) + 1 = 25 m. Verification: Area = 25 × 12 = 300 m² ✓."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "4.4 Nature of Roots",
+      "topics": [
+        {
+          "topic_name": "The Quadratic Formula",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When factorisation is difficult or impossible, the quadratic formula provides a general method to find roots. For any quadratic equation ax² + bx + c = 0 with a ≠ 0, the roots are given by: x = [-b ± √(b² - 4ac)] / (2a), provided b² - 4ac ≥ 0."
+            },
+            {
+              "type": "note",
+              "title": "Derivation Context",
+              "text": "The quadratic formula can be derived by completing the square on the general equation ax² + bx + c = 0. The term b² - 4ac inside the square root is called the discriminant, which determines the nature of the roots."
+            }
+          ]
+        },
+        {
+          "topic_name": "The Discriminant and Nature of Roots",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The discriminant Δ = b² - 4ac determines whether the roots are real or complex, and whether they are distinct or equal. The value of Δ tells us the nature of the roots without necessarily finding them."
+            },
+            {
+              "type": "list",
+              "title": "Nature of Roots Based on Discriminant",
+              "items": [
+                "If Δ = b² - 4ac > 0: The equation has two distinct real roots. The roots are x = [-b + √Δ] / (2a) and x = [-b - √Δ] / (2a).",
+                "If Δ = b² - 4ac = 0: The equation has two equal real roots (a repeated root). Both roots are x = -b / (2a).",
+                "If Δ = b² - 4ac < 0: The equation has no real roots (the roots are complex/imaginary)."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Geometric Interpretation",
+              "text": "Geometrically, the quadratic equation ax² + bx + c = 0 represents the x-intercepts (or zeros) of the parabola y = ax² + bx + c. If Δ > 0, the parabola crosses the x-axis at two points. If Δ = 0, the parabola touches the x-axis at one point. If Δ < 0, the parabola does not touch the x-axis."
+            },
+            {
+              "type": "example",
+              "title": "Example 11: Finding Nature of Roots for 2x² - 4x + 3 = 0",
+              "description": "Here, a = 2, b = -4, c = 3. Discriminant: Δ = (-4)² - 4(2)(3) = 16 - 24 = -8 < 0. Since Δ < 0, the equation has no real roots. The roots are complex/imaginary."
+            },
+            {
+              "type": "example",
+              "title": "Example 12: Finding Nature of Roots for 3x² - 2x + 1/3 = 0",
+              "description": "Here, a = 3, b = -2, c = 1/3. Discriminant: Δ = (-2)² - 4(3)(1/3) = 4 - 4 = 0. Since Δ = 0, the equation has two equal real roots. The repeated root is x = -b / (2a) = 2 / 6 = 1/3."
+            },
+            {
+              "type": "example",
+              "title": "Example 13: Pole on Circular Park Boundary",
+              "description": "A pole must be erected on a circular park boundary (diameter 13 m) such that the difference of distances from two diametrically opposite gates is 7 m. Let BP = x (distance from gate B). Then AP = x + 7 (from the difference condition). Since AB is a diameter, angle APB = 90° (Thales' theorem). By Pythagoras: AP² + BP² = AB², so (x + 7)² + x² = 13² = 169. Expand: x² + 14x + 49 + x² = 169, giving 2x² + 14x - 120 = 0, or x² + 7x - 60 = 0. Discriminant: Δ = 7² - 4(1)(-60) = 49 + 240 = 289 > 0. Since Δ > 0, the equation has two distinct real roots, meaning it is possible to place the pole. Using the quadratic formula: x = [-7 ± √289] / 2 = [-7 ± 17] / 2. So x = 5 or x = -12. Since distance is positive, x = 5 m from gate B and 12 m from gate A."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "4.5 Applications and Problem Solving",
+      "topics": [
+        {
+          "topic_name": "Word Problems Reducible to Quadratic Equations",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Many real-world problems can be modeled using quadratic equations. The approach involves identifying the unknowns, setting up equations based on given conditions, solving the quadratic equation, and interpreting the solution in the context of the problem."
+            },
+            {
+              "type": "list",
+              "title": "Types of Word Problems",
+              "items": [
+                "Consecutive integer problems: Finding numbers with given sum or product properties.",
+                "Area and dimension problems: Finding lengths and widths of rectangles or sides of other shapes.",
+                "Age problems: Determining past or future ages using product or sum conditions.",
+                "Work and rate problems: Finding time to complete tasks working alone or together.",
+                "Profit and loss problems: Maximizing or minimizing profit given cost and revenue functions."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example 14: Consecutive Positive Integers Problem",
+              "description": "The product of two consecutive positive integers is 306. Find the integers. Let x = first integer, then x + 1 = second integer. Equation: x(x + 1) = 306, which gives x² + x - 306 = 0. Factorise: We need two numbers with product -306 and sum 1. These are 18 and -17. So x² + 18x - 17x - 306 = 0, giving (x + 18)(x - 17) = 0. Roots: x = -18 or x = 17. Since we need positive integers, x = 17. The integers are 17 and 18. Verification: 17 × 18 = 306 ✓."
+            },
+            {
+              "type": "example",
+              "title": "Example 15: Age Problem",
+              "description": "Rohan's mother is 26 years older than him. The product of their ages 3 years from now will be 360. Find Rohan's present age. Let x = Rohan's present age. Mother's age = x + 26. In 3 years: Rohan's age = x + 3, Mother's age = x + 29. Equation: (x + 3)(x + 29) = 360. Expand: x² + 29x + 3x + 87 = 360, giving x² + 32x + 87 - 360 = 0, or x² + 32x - 273 = 0. Using the quadratic formula or factorisation, find two numbers with product -273 and sum 32. These are 39 and -7. So (x + 39)(x - 7) = 0, giving x = -39 or x = 7. Since age is positive, x = 7. Rohan is 7 years old. Verification: Mother is 33. In 3 years: Rohan is 10, Mother is 36. Product: 10 × 36 = 360 ✓."
+            },
+            {
+              "type": "example",
+              "title": "Example 16: Train Speed Problem",
+              "description": "A train travels 480 km at uniform speed. If the speed were 8 km/h less, it would take 3 hours more. Find the original speed. Let v = original speed (km/h). Time = Distance/Speed = 480/v. With reduced speed: Time = 480/(v - 8). Equation: 480/(v - 8) - 480/v = 3. Simplify: [480v - 480(v - 8)] / [v(v - 8)] = 3, which gives 480 × 8 / [v(v - 8)] = 3, so 3840 / [v(v - 8)] = 3. Thus v(v - 8) = 1280, or v² - 8v - 1280 = 0. Factorise or use the quadratic formula: v = [8 ± √(64 + 5120)] / 2 = [8 ± √5184] / 2 = [8 ± 72] / 2. So v = 40 or v = -32. Since speed is positive, v = 40 km/h. Verification: Original time = 480/40 = 12 hours. Reduced speed time = 480/32 = 15 hours. Difference = 3 hours ✓."
+            }
+          ]
+        },
+        {
+          "topic_name": "Checking Feasibility of Solutions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When solving word problems, both roots from the quadratic equation must be checked against the context. Not all mathematical solutions are valid in the real-world context. For example, negative lengths, negative ages, or speeds less than a certain value may not make sense."
+            },
+            {
+              "type": "note",
+              "title": "Important Caution",
+              "text": "Always interpret the solution in the context of the problem. A root that is mathematically valid may not be contextually valid. For instance, if the problem asks for a length, negative roots should be rejected. If it asks for the number of items, fractional or negative roots should be rejected."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Quadratic Equation",
+      "definition": "An equation of the form ax² + bx + c = 0, where a, b, c are real numbers and a ≠ 0. It is a polynomial equation of degree 2."
+    },
+    {
+      "term": "Standard Form",
+      "definition": "The form ax² + bx + c = 0, where all terms are on one side and arranged in descending order of degree. Here, a is the quadratic coefficient, b is the linear coefficient, and c is the constant term."
+    },
+    {
+      "term": "Root (or Solution)",
+      "definition": "A value of x that satisfies the quadratic equation, i.e., makes the equation true. A quadratic equation has at most two roots."
+    },
+    {
+      "term": "Zero of a Polynomial",
+      "definition": "A value of x for which the polynomial evaluates to zero. The zeros of the quadratic polynomial ax² + bx + c and the roots of the equation ax² + bx + c = 0 are the same."
+    },
+    {
+      "term": "Factorisation Method",
+      "definition": "A method of solving quadratic equations by expressing the quadratic as a product of two linear factors and setting each factor to zero."
+    },
+    {
+      "term": "Quadratic Formula",
+      "definition": "The formula x = [-b ± √(b² - 4ac)] / (2a) that gives the roots of any quadratic equation ax² + bx + c = 0."
+    },
+    {
+      "term": "Discriminant",
+      "definition": "The expression Δ = b² - 4ac that appears under the square root in the quadratic formula. It determines the nature of the roots: real and distinct (Δ > 0), real and equal (Δ = 0), or complex (Δ < 0)."
+    },
+    {
+      "term": "Distinct Roots",
+      "definition": "Two different real roots obtained when the discriminant is positive (Δ > 0). The roots are given by x = [-b + √Δ] / (2a) and x = [-b - √Δ] / (2a)."
+    },
+    {
+      "term": "Equal Roots (Repeated Root)",
+      "definition": "A single real root that occurs twice when the discriminant is zero (Δ = 0). The root is x = -b / (2a), and we say the equation has a repeated or double root."
+    },
+    {
+      "term": "No Real Roots",
+      "definition": "When the discriminant is negative (Δ < 0), the quadratic equation has no real roots. The roots are complex or imaginary numbers."
+    },
+    {
+      "term": "Middle Term Splitting",
+      "definition": "A factorisation technique where the linear term bx is split into two terms whose sum is bx and whose associated quadratic terms have a common factor, allowing the quadratic to be factorised."
+    },
+    {
+      "term": "Completing the Square",
+      "definition": "An algebraic method of solving quadratic equations by rewriting the quadratic expression as a perfect square binomial. This method leads to the derivation of the quadratic formula."
+    },
+    {
+      "term": "Thales' Theorem",
+      "definition": "A geometric theorem stating that if a triangle is inscribed in a circle such that one side is a diameter, then the angle opposite to the diameter is a right angle (90°)."
+    },
+    {
+      "term": "Parabola",
+      "definition": "The graph of a quadratic function y = ax² + bx + c. It is a U-shaped or inverted U-shaped curve. The x-intercepts of the parabola are the roots of the corresponding quadratic equation."
+    },
+    {
+      "term": "Coefficients",
+      "definition": "The constants a, b, and c in the quadratic equation ax² + bx + c = 0. Here, a is the leading coefficient (must be non-zero), b is the linear coefficient, and c is the constant term."
+    },
+    {
+      "term": "Leading Coefficient",
+      "definition": "The coefficient a of the x² term in ax² + bx + c = 0. The condition a ≠ 0 is essential to ensure the equation is quadratic, not linear."
+    },
+    {
+      "term": "Consistent and Consistent with Unique Solution",
+      "definition": "For quadratic equations, when the discriminant Δ > 0 or Δ = 0, the equation has real roots and is considered to have a solution."
+    },
+    {
+      "term": "Inconsistent (for Quadratic Context)",
+      "definition": "When the discriminant Δ < 0, the quadratic equation has no real roots, though it has complex roots."
+    }
+  ],
+  "summary_points": [
+    "A quadratic equation is of the form ax² + bx + c = 0 with a ≠ 0. After simplification, if the highest power of x is 2, the equation is quadratic.",
+    "A root of a quadratic equation is a value of x that satisfies the equation. A quadratic equation has at most two roots.",
+    "The factorisation method involves expressing the quadratic as a product of linear factors, setting each to zero, and solving. This works when the quadratic can be easily factorised.",
+    "The quadratic formula x = [-b ± √(b² - 4ac)] / (2a) provides roots for any quadratic equation and is used when factorisation is difficult.",
+    "The discriminant Δ = b² - 4ac determines the nature of roots: Δ > 0 gives two distinct real roots, Δ = 0 gives two equal real roots, and Δ < 0 gives no real roots.",
+    "Many real-world situations (area problems, age problems, projectile motion, profit optimization) reduce to quadratic equations.",
+    "When solving word problems, both roots must be checked for validity in the problem's context. Not all mathematical solutions are contextually valid.",
+    "The quadratic formula and discriminant are derived from the method of completing the square, which is an alternative technique for solving quadratics.",
+    "Geometrically, the roots of a quadratic equation are the x-intercepts (zeros) of the parabola y = ax² + bx + c.",
+    "Special cases include equations with one variable missing (e.g., ax² + c = 0, which becomes a pure quadratic) and repeated roots (when Δ = 0)."
+  ]
+}

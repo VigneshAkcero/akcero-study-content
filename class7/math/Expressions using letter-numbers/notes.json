@@ -1,0 +1,148 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Expressions using letter-numbers",
+    "chapter_number": 4
+  },
+  "notes": {
+    "sections": [
+      {
+        "section_number": 1,
+        "section_title": "The Notion of Letter-Numbers",
+        "content": "Letter-numbers are symbols (usually letters like a, b, c, etc.) used to represent unknown or variable quantities. They help express mathematical relationships and patterns concisely.\n\nExample 1: Shabnam is 3 years older than Aftab. If Aftab's age is denoted by 'a', then Shabnam's age is a + 3. When a = 23, Shabnam's age = 23 + 3 = 26 years.\n\nExample 2: A matchstick pattern shows L-shapes. Each L needs 2 matchsticks. If n is the number of L's, then matchsticks needed = 2n.\n\nExample 3: Coconut costs ₹35 each, jaggery costs ₹60 per kg. For c coconuts and j kg jaggery, total cost = 35c + 60j.\n\nAlgebraic expressions are mathematical expressions containing letter-numbers along with numbers and operations. They allow us to write general rules and formulas that work for any value of the variables.\n\nKey observations:\n- Letter-numbers represent any number until a specific value is given\n- Different letters represent different quantities\n- Algebraic expressions preserve all arithmetic rules that apply to numbers"
+      },
+      {
+        "section_number": 2,
+        "section_title": "Understanding and Evaluating Algebraic Expressions",
+        "content": "An algebraic expression becomes a number when we substitute specific values for the letter-numbers (variables).\n\nEvaluating expressions:\n- Replace the letter-number with its given value\n- Perform the arithmetic operations following order of operations (BODMAS/PEMDAS)\n- Simplify to get the final numerical answer\n\nExample: Find the value of 5m + 3 when m = 2\nReplacing m with 2: 5 × 2 + 3 = 10 + 3 = 13\n\nWriting expressions from descriptions:\n- 5 more than a number d: d + 5\n- 4 less than a number d: d - 4\n- 13 times a number d: 13d or 13 × d\n- 2 less than 13 times a number: 13d - 2\n\nDescribing situations:\nAlgebraic expressions can model real-world scenarios:\n- A shopkeeper sells pens for ₹x and notebooks for ₹y. The cost of 8 pens and 3 notebooks is 8x + 3y\n- A factory makes 15 chairs daily. After j days with k chairs breaking: 15j - 2k\n\nFormulas are algebraic expressions that describe general mathematical relationships:\n- Perimeter of square with side q: 4q\n- Perimeter of equilateral triangle with side a: 3a\n- Rectangle perimeter with length l and breadth b: 2l + 2b or 2(l + b)"
+      },
+      {
+        "section_number": 3,
+        "section_title": "Omission of the Multiplication Symbol",
+        "content": "In algebra, the multiplication symbol (×) is often omitted for clarity and conciseness.\n\nConventions:\n- When a number is multiplied by a letter-number, write the number first followed by the letter: 7k means 7 × k\n- 4n means 4 times n\n- 2a means 2 times a\n- When a letter-number multiplies another letter-number, write them together: ab means a × b\n\nExample sequence: The multiples of 4 are 4, 8, 12, 16, ...\n- 3rd term = 4 × 3\n- 29th term = 4 × 29\n- nth term = 4n (not 4 × n)\n\nImportant distinction:\n- 5u means 5 times u (multiplication)\n- 5 + u means 5 more than u (addition)\nThese are different operations and produce different values.\n\nSimplifying with omitted symbols:\n- 3 + 2 × (y - 1) = 3 + 2y - 2 = 2y + 1\n- The expression 2y + 1 involves the term 2y (two times y) and the constant term 1\n\nOrder of operations still applies:\n- Brackets first\n- Multiplication before addition/subtraction\n- Addition and subtraction left to right"
+      },
+      {
+        "section_number": 4,
+        "section_title": "Like Terms and Unlike Terms",
+        "content": "Like terms are terms that contain the same letter-numbers (variables) raised to the same powers.\n\nExamples of like terms:\n- 5c, 3c, 10c (all contain only c)\n- 12n, -4n (both contain only n)\n- 7p, 8p, -3p (all contain only p)\n\nUnlike terms are terms with different letter-numbers or different powers.\n\nExamples of unlike terms:\n- 18c and 11d (different variables c and d)\n- 5x and 5x² (different powers of x)\n- 3xy and 3x (different variables)\n\nKey rule: Only like terms can be combined and simplified into a single term.\n\nCombining like terms:\n- 5c + 3c + 10c = (5 + 3 + 10)c = 18c (uses distributive property)\n- 12n - 4n = (12 - 4)n = 8n\n- 7p + 8p - 3p = (7 + 8 - 3)p = 12p\n\nCannot combine unlike terms:\n- 18c + 11d cannot be simplified further\n- 5x + 3y + 2 cannot be simplified further\n- They must be left in their expanded form\n\nPractical example: Money from selling items\n- Day 1: 5 pencils at c rupees each = 5c\n- Day 2: 3 pencils at c rupees each = 3c\n- Day 3: 10 pencils at c rupees each = 10c\n- Total = 5c + 3c + 10c = 18c rupees"
+      },
+      {
+        "section_number": 5,
+        "section_title": "Simplification of Algebraic Expressions",
+        "content": "Simplifying algebraic expressions means reducing them to their simplest form by combining like terms using the distributive property.\n\nStep-by-step process:\n1. Write the expression as a sum of terms\n2. Group like terms together\n3. Combine like terms using addition/subtraction\n4. Write the simplified form\n\nExample 1: Simplify l + b + l + b\nGrouping: (l + l) + (b + b) = 2l + 2b\nThis is the simplified perimeter formula for a rectangle.\n\nExample 2: Simplify (40x + 75y) - (6x + 10y)\nRemoving brackets: 40x + 75y - 6x - 10y\nGrouping like terms: (40x - 6x) + (75y - 10y)\nCombining: 34x + 65y\n\nExample 3: Simplify 4(x + y) - y\nUsing distributive property: 4x + 4y - y\nCombining like terms: 4x + (4 - 1)y = 4x + 3y\n\nUsing distributive property:\n- a(b + c) = ab + ac\n- a(b - c) = ab - ac\n- 3(2x + 5) = 6x + 15\n\nBrackets with negative sign:\n- -(a + b) = -a - b\n- -(a - b) = -a + b = b - a\n- 5 - (2 - 6z) = 5 - 2 + 6z = 3 + 6z\n\nOrder of simplification:\nEvaluate operations in this order: Brackets → Multiplication → Addition/Subtraction"
+      },
+      {
+        "section_number": 6,
+        "section_title": "Adding and Subtracting Algebraic Expressions",
+        "content": "Adding or subtracting algebraic expressions follows the same rules as with numbers.\n\nAdding expressions:\n- Remove brackets (no sign change needed when adding)\n- Combine like terms\n- Write in simplified form\n\nExample: Add (4d - 7c + 9) and (8c - 11 + 9d)\nRemoving brackets: 4d - 7c + 9 + 8c - 11 + 9d\nGrouping like terms: 4d + 9d - 7c + 8c + 9 - 11\nCombining: 13d + c - 2\n\nSubtracting expressions:\n- Remove brackets (change all signs in the expression being subtracted)\n- Combine like terms\n- Write in simplified form\n\nExample: Subtract (9a - 6b + 14) from (6a + 9b - 18)\nRemoving brackets: 6a + 9b - 18 - (9a - 6b + 14) = 6a + 9b - 18 - 9a + 6b - 14\nGrouping: (6a - 9a) + (9b + 6b) + (-18 - 14)\nCombining: -3a + 15b - 32\n\nAlternative view:\nSubtraction can be written as addition of negatives:\n(40x + 75y) - (6x + 10y) = (40x + 75y) + (-6x - 10y)\n\nFinal form:\nAlways check that:\n- All like terms are combined\n- No brackets remain\n- Terms are in standard form (number coefficient before letter-number)"
+      },
+      {
+        "section_number": 7,
+        "section_title": "Patterns and Algebraic Expressions",
+        "content": "Algebraic expressions are powerful tools for discovering, describing, and verifying patterns.\n\nSequence patterns:\nConsider the matchstick triangle pattern:\n- Step 1: 3 matchsticks (1 triangle)\n- Step 2: 5 matchsticks (2 triangles)\n- Step 3: 7 matchsticks (3 triangles)\n- Pattern: Each step adds 2 matchsticks\n- Formula: n-th step has 2n + 1 matchsticks\n\nAlternative formula: 3 + 2(n - 1) = 3 + 2n - 2 = 2n + 1\n\nDetecting patterns:\nFor a matchstick triangle pattern:\n- Observe how the number increases (by 2 each time)\n- Find the initial value (3 at step 1)\n- Write the pattern formula using position/step number\n\nRepeating border patterns:\nIn a saree border with designs A, B, C repeating:\n- Design A appears at positions: 1, 4, 7, 10, ... → Formula: 3n - 2\n- Design B appears at positions: 2, 5, 8, 11, ... → Formula: 3n - 1\n- Design C appears at positions: 3, 6, 9, 12, ... → Formula: 3n\n\nPredicting positions:\nGiven position number, find which design appears:\n- If position ≡ 0 (mod 3): Design C\n- If position ≡ 1 (mod 3): Design A\n- If position ≡ 2 (mod 3): Design B\nExample: Position 122 = 40 × 3 + 2, so Design B appears\n\nCalendar patterns (2×2 grid):\nIn any 2×2 grid with top-left number a:\n- Top-left: a, Top-right: a + 1\n- Bottom-left: a + 7, Bottom-right: a + 8\n- Diagonal sums: a + (a + 8) = 2a + 8 and (a + 1) + (a + 7) = 2a + 8\n- Both diagonals always have equal sums!"
+      },
+      {
+        "section_number": 8,
+        "section_title": "Formula Detective: Finding Hidden Patterns",
+        "content": "Number machines and pattern deduction involve finding the algebraic formula that describes a relationship between inputs and outputs.\n\nMethod for finding formulas:\n1. Observe what happens to the inputs\n2. Track how the output changes\n3. Write a description in words\n4. Convert the description to an algebraic expression\n5. Verify with multiple examples\n\nExample: A number machine with inputs a and b:\n- Input (5, 2) → Output 8: 2 × 5 - 2 = 8 ✓\n- Input (10, 3) → Output 17: 2 × 10 - 3 = 17 ✓\n- Formula: 2a - b\n\nCreating your own formulas:\nDesign a number machine:\n- Choose an operation (like: double the first, subtract the second)\n- Write as expression: 2a - b\n- Test with several inputs to verify consistency\n\nFormula from description:\nProblem: \"Snail climbs up u cm during day, slips down d cm at night, for 10 days and nights\"\nDaily progress: (u - d) cm\nTotal distance after 10 cycles: 10(u - d) = 10u - 10d\n\nFormula from practical situation:\nProblem: \"Train travels between Yahapur and Vahapur with 3 equal segments, time t minutes per segment, stops 2 minutes at each station\"\nNumber of segments: 4 (including final)\nTravel time: 4t\nStop time: 3 × 2 = 6 minutes\nTotal time: 4t + 6 minutes\n\nUse substitution to verify:\nIf t = 4: Total time = 4(4) + 6 = 22 minutes"
+      },
+      {
+        "section_number": 9,
+        "section_title": "Why Patterns Hold: Algebraic Verification",
+        "content": "One of the most powerful uses of algebra is proving that patterns always hold true, not just for a few cases but for all possible values.\n\nThe power of general variables:\nInstead of checking a pattern with specific numbers (which takes infinite time), we use letter-numbers to represent any number and show the pattern works universally.\n\nExample 1: Diagonal sums in calendar 2×2 grids\nClaim: Diagonal sums are always equal\nProof:\n- Let top-left number = a (any number)\n- Other positions: a+1, a+7, a+8 (derived from calendar structure where days increase by 1 across and 7 down)\n- First diagonal: a + (a + 8) = 2a + 8\n- Second diagonal: (a + 1) + (a + 7) = 2a + 8\n- Both equal 2a + 8, so pattern holds for ANY value of a ✓\n\nExample 2: Cross sum in calendar patterns\nFive numbers in a cross pattern (center at a):\n- Positions: a-8, a-1, a, a+1, a+8\n- Sum: (a - 8) + (a - 1) + a + (a + 1) + (a + 8) = 5a\n- The sum is always 5 times the center number!\n\nExample 3: Matchstick pattern \nClaim: nth step needs 2n + 1 matchsticks\nProof: Each step (after step 1) adds 2 matchsticks. Start with 3 (step 1).\n- Step 1: 3 = 2(1) + 1\n- Step 2: 3 + 2 = 5 = 2(2) + 1\n- Step n: 3 + 2(n - 1) = 3 + 2n - 2 = 2n + 1 ✓\n\nThis algebraic approach:\n- Proves patterns for infinitely many cases simultaneously\n- Provides understanding of WHY the pattern works\n- Eliminates need to test individual cases"
+      },
+      {
+        "section_number": 10,
+        "section_title": "Applications and Problem-Solving with Algebraic Expressions",
+        "content": "Algebraic expressions solve real-world problems efficiently by modeling situations and allowing predictions.\n\nCost and revenue problems:\n- Jowar roti ₹30 per plate, Pulao ₹20 per plate\n- If x plates roti and y plates pulao ordered: Total revenue = 30x + 20y\n- Can calculate instantly for any quantities\n\nCustomer counting:\n- p customers bought only champak flowers\n- q customers bought only marigold\n- r customers bought both\n- Flags given: p + q + r (each customer gets one, count only once even if they bought both)\n\nCycling distance problem:\n- Week 1: 5 km daily = 5 × 7 = 35 km total\n- Week 2: (5 + z) km daily = (5 + z) × 7 = 35 + 7z km total\n- Week 3: (5 + 2z) km daily = (5 + 2z) × 7 = 35 + 14z km total\n- Total after 3 weeks: 35 + (35 + 7z) + (35 + 14z) = 105 + 21z km\n\nRope cutting patterns:\n- Cut once: 2 pieces\n- Fold once then cut: 3 pieces\n- Fold twice then cut: 4 pieces\n- Fold r times then cut: (r + 2) pieces\n\nGrid position finding:\nIn a 4-column grid with numbers 1, 2, 3, ...\n- Row r, Column c contains: 4r - 4 + c (or similar formula depending on structure)\n- Can determine any number's position using algebra\n\nStrategic approach:\n1. Identify quantities (known and unknown)\n2. Write algebraic expression for the required answer\n3. Substitute values to solve specific cases\n4. Use the expression for general predictions"
+      }
+    ],
+    "glossary": [
+      {
+        "term": "Letter-numbers",
+        "definition": "Symbols (usually letters like a, b, x, y) used to represent unknown or variable quantities in mathematical expressions."
+      },
+      {
+        "term": "Algebraic expression",
+        "definition": "A mathematical phrase containing letter-numbers, numbers, and operations (addition, subtraction, multiplication, division) combined according to mathematical rules."
+      },
+      {
+        "term": "Variable",
+        "definition": "A letter-number that can take on different values. It represents an unknown quantity that can change."
+      },
+      {
+        "term": "Constant",
+        "definition": "A fixed number in an algebraic expression that does not change. For example, in 3x + 5, the 3 and 5 are constants."
+      },
+      {
+        "term": "Term",
+        "definition": "A part of an algebraic expression separated by addition or subtraction signs. For example, in 3x + 5y - 2, the terms are 3x, 5y, and -2."
+      },
+      {
+        "term": "Coefficient",
+        "definition": "The number that multiplies a variable. In the expression 5x, the coefficient is 5. In the expression x, the coefficient is 1."
+      },
+      {
+        "term": "Like terms",
+        "definition": "Terms that contain the same variable(s) with the same powers. For example, 3x and 5x are like terms. Only like terms can be combined."
+      },
+      {
+        "term": "Unlike terms",
+        "definition": "Terms that contain different variables or variables with different powers. For example, 3x and 3y are unlike terms. They cannot be combined."
+      },
+      {
+        "term": "Simplification",
+        "definition": "The process of combining like terms and removing brackets to reduce an algebraic expression to its simplest or most concise form."
+      },
+      {
+        "term": "Distributive property",
+        "definition": "The property that states a(b + c) = ab + ac. It allows us to multiply a factor by each term inside brackets."
+      },
+      {
+        "term": "Formula",
+        "definition": "An algebraic expression that describes a general mathematical relationship or rule. For example, the formula for the perimeter of a square is 4s."
+      },
+      {
+        "term": "Substitution",
+        "definition": "The process of replacing a variable with a specific number value to calculate the numerical value of an algebraic expression."
+      },
+      {
+        "term": "Equation",
+        "definition": "A mathematical statement showing that two expressions are equal, typically written with an equals sign (=). For example, 2x + 3 = 7."
+      },
+      {
+        "term": "Pattern",
+        "definition": "A regular, repeating sequence or relationship that can be described using algebraic expressions. Examples include number sequences and geometric designs."
+      },
+      {
+        "term": "Verification",
+        "definition": "The process of proving that an algebraic expression, formula, or pattern is correct by checking it with different values or logical reasoning."
+      },
+      {
+        "term": "Bracket removal",
+        "definition": "The process of eliminating parentheses from an expression using the distributive property, being careful to handle negative signs correctly."
+      },
+      {
+        "term": "Omission of multiplication sign",
+        "definition": "The convention in algebra where the multiplication symbol (×) is left out. For example, 5x means 5 × x, and ab means a × b."
+      },
+      {
+        "term": "Expanding",
+        "definition": "The process of opening brackets and writing an expression in its extended form. For example, 3(x + 2) expands to 3x + 6."
+      }
+    ],
+    "summary_points": [
+      "Letter-numbers (variables) represent unknown or variable quantities and are used to write algebraic expressions that model mathematical relationships and real-world situations concisely.",
+      "Algebraic expressions follow the same arithmetic rules as numerical expressions—they can be evaluated by substituting specific values for variables and following order of operations.",
+      "The multiplication symbol is omitted in algebra for clarity: 7k means 7 × k, and distinguishing between 5u (multiplication) and 5 + u (addition) is crucial.",
+      "Like terms contain the same variables and can be combined using addition and subtraction, while unlike terms cannot be simplified further and must be left as separate terms.",
+      "Simplification involves combining like terms, using the distributive property a(b + c) = ab + ac, and carefully handling brackets especially with negative signs outside them.",
+      "Adding and subtracting algebraic expressions follows the same procedures as numbers: remove brackets, group like terms, and combine to write the simplified result.",
+      "Algebraic expressions are powerful tools for discovering and describing patterns (sequences, repeating designs, calendar relationships) that occur in mathematics and the real world.",
+      "Formula detection involves observing how quantities change, describing the pattern in words, and converting it to an algebraic expression that can be verified with multiple examples.",
+      "Algebraic verification proves that patterns hold universally by using variables to represent any number, eliminating the need to check infinitely many individual cases separately.",
+      "Real-world applications of algebraic expressions include calculating costs and revenues, predicting quantities over different scenarios, and solving practical problems efficiently through substitution and simplification."
+    ]
+  }
+}

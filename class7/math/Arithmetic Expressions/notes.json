@@ -1,0 +1,140 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Arithmetic Expressions",
+    "chapter_number": 2
+  },
+  "sections": [
+    {
+      "section_number": "2.1",
+      "section_title": "Simple Expressions",
+      "content": "An arithmetic expression is a mathematical phrase formed using numbers and operations. Common operations include addition (+), subtraction (-), multiplication (×), and division (÷).\n\nExamples of arithmetic expressions:\n• 13 + 2 (read as 'the sum of 13 and 2')\n• 20 - 4 (read as 'the difference of 20 and 4')\n• 12 × 5 (read as 'the product of 12 and 5')\n• 18 ÷ 3 (read as 'the quotient of 18 and 3')\n\nValue of an expression: Every arithmetic expression has a value, which is the number it evaluates to. For example:\n• 13 + 2 = 15\n• 20 - 4 = 16\n• 12 × 5 = 60\n• 18 ÷ 3 = 6\n\nDifferent expressions can have the same value. For instance, all these expressions have the value 12:\n• 10 + 2 = 12\n• 15 - 3 = 12\n• 3 × 4 = 12\n• 24 ÷ 2 = 12\n\nComparison of expressions: We compare expressions based on their values using:\n• = (equal to)\n• > (greater than)\n• < (less than)\n\nExamples:\n• 10 + 2 > 7 + 1 (because 12 > 8)\n• 13 - 2 < 4 × 3 (because 11 < 12)\n• 5 + 5 = 10 × 1 (because 10 = 10)"
+    },
+    {
+      "section_number": "2.2",
+      "section_title": "Order of Operations and Brackets",
+      "content": "When an expression has multiple operations, we need rules to determine in what order to evaluate it. Just as punctuation marks clarify meaning in language, brackets and the concept of 'terms' clarify order in mathematics.\n\nBrackets: Brackets indicate which operation should be performed first. When evaluating an expression with brackets, evaluate the expression inside the brackets before performing other operations.\n\nExample 1: 30 + 5 × 4\nWithout brackets, this is ambiguous. We could do:\n• Addition first: (30 + 5) × 4 = 35 × 4 = 140 (incorrect for this context)\n• Multiplication first: 30 + (5 × 4) = 30 + 20 = 50 (correct)\n\nTo specify the correct order, we write: 30 + (5 × 4) = 30 + 20 = 50\n\nExample 2: 100 - (15 + 56)\nHere, we first add the numbers in brackets: (15 + 56) = 71\nThen subtract from 100: 100 - 71 = 29\nWithout brackets, 100 - 15 + 56 = 141 (incorrect)\n\nExample 3: 500 - (250 - 100)\nFirst evaluate inside brackets: 250 - 100 = 150\nThen subtract from 500: 500 - 150 = 350\nNote: This is different from 500 - 250 - 100 = 150"
+    },
+    {
+      "section_number": "2.3",
+      "section_title": "Understanding Terms",
+      "content": "Terms are the parts of an expression separated by addition (+) signs when the expression is viewed as a sum of its parts.\n\nHow to identify terms:\n1. First, convert all subtractions to additions using negative numbers\n2. Terms are then the individual parts being added\n\nExample 1: 12 + 7\nTerms: 12 and 7\nThe expression is a sum of two positive terms.\n\nExample 2: 83 - 14\nRewrite as: 83 + (-14)\nTerms: 83 and -14\nSubtraction is treated as adding the negative.\n\nExample 3: 13 - 2 + 6\nRewrite as: 13 + (-2) + 6\nTerms: 13, -2, and 6\n\nExample 4: 5 + 6 × 3\nRewrite as: 5 + (6 × 3)\nTerms: 5 and (6 × 3)\nNote: Products and quotients are treated as single terms (not broken down further)\n\nExample 5: 30 + 5 × 4 is evaluated as:\nTerms: 30 and (5 × 4)\nFirst evaluate the term: 5 × 4 = 20\nThen add: 30 + 20 = 50\n\nKey principle: When an expression has multiple operations without brackets, we first evaluate multiplication and division within each term, then add or subtract the resulting terms."
+    },
+    {
+      "section_number": "2.4",
+      "section_title": "Commutative and Associative Properties of Addition",
+      "content": "When working with expressions having only addition (all subtractions converted to additions), two important properties apply:\n\nCommutative Property (Swapping):\nChanging the order of adding terms does not change the sum.\n• 6 + (-4) = 2\n• (-4) + 6 = 2\nBoth equal 2.\n\nIn general: a + b = b + a\n\nExample: (-7) + 10 + (-11) can be added in any order:\n• [(-7) + 10] + (-11) = 3 + (-11) = -8\n• (-7) + [10 + (-11)] = (-7) + (-1) = -8\n• (-7) + (-11) + 10 = (-18) + 10 = -8\n\nAssociative Property (Grouping):\nChanging how we group terms (using brackets) does not change the sum.\n• (a + b) + c = a + (b + c)\n\nExample: (-7) + 10 + (-11)\n• [(-7) + 10] + (-11) = 3 - 11 = -8\n• (-7) + [10 + (-11)] = -7 - 1 = -8\n\nPractical use: These properties allow us to rearrange and group terms to make calculations easier.\n\nExample: 25 + 37 + 75 + 63\nInstead of adding left to right, group: (25 + 75) + (37 + 63) = 100 + 100 = 200\n\nKey insight: Because of these properties, in expressions with only addition, the order of operations doesn't matter—the result is the same regardless of which terms we add first."
+    },
+    {
+      "section_number": "2.5",
+      "section_title": "Removing Brackets Part I",
+      "content": "When brackets are preceded by an addition sign, we can remove them without changing the signs of the terms inside.\n\nRule for addition: a + (b + c) = a + b + c\n\nExample: 28 + (35 - 10) = 28 + 35 - 10 = 53\nThe terms 35 and -10 keep their original signs.\n\nWhen brackets are preceded by a subtraction sign, the signs of ALL terms inside must be reversed when removing the brackets.\n\nRule for subtraction: a - (b + c) = a - b - c\n\nExample 1: 200 - (40 + 3)\n• Without brackets: 200 - 40 - 3 = 157\n• The +40 becomes -40, and +3 becomes -3\n\nExample 2: 100 - (15 + 56)\n• Without brackets: 100 - 15 - 56 = 29\n• Method 1: Evaluate brackets first: 100 - 71 = 29\n• Method 2: Remove brackets with sign changes: 100 - 15 - 56 = 29\nBoth methods give the same answer.\n\nWhen there's subtraction inside brackets: a - (b - c) = a - b + c\n\nExample: 500 - (250 - 100)\n• Without brackets: 500 - 250 + 100 = 350\n• The -100 becomes +100 when removing brackets preceded by negative\n\nUnderstanding the logic:\nWhen we subtract a difference, some of that difference is \"regained.\" For instance:\n• 500 - (250 - 100) means: Take 250, but then add back the 100 that was subtracted from it\n• This is equivalent to: 500 - 250 + 100\n\nKey principle: When removing brackets preceded by a negative sign, flip all the signs inside: + becomes -, and - becomes +."
+    },
+    {
+      "section_number": "2.6",
+      "section_title": "Distributive Property (Removing Brackets Part II)",
+      "content": "The distributive property describes how multiplication distributes over addition and subtraction when brackets are present.\n\nDistributive Property of Multiplication:\nWhen a number multiplies a sum, it's the same as multiplying each term then adding:\na × (b + c) = a × b + a × c\n\nExample 1: 2 × (43 + 24)\nMethod 1: Evaluate brackets first: 2 × 67 = 134\nMethod 2: Distribute: (2 × 43) + (2 × 24) = 86 + 48 = 134\nBoth give 134.\n\nExample 2: (4 + 3) × 5\n• Brackets first: 7 × 5 = 35\n• Distribute: (4 × 5) + (3 × 5) = 20 + 15 = 35\n• Also: 4 × 5 + 3 × 5 = 35\n\nDistributive Property with Subtraction:\na × (b - c) = a × b - a × c\n\nExample: 5 × (12 - 8)\n• Brackets first: 5 × 4 = 20\n• Distribute: (5 × 12) - (5 × 8) = 60 - 40 = 20\n\nFactoring (Reverse Distribution):\nIf two terms share a common factor, we can factor it out:\na × b + a × c = a × (b + c)\n\nExample: 14 × 10 - 6 × 10\nBoth terms have factor 10:\n14 × 10 - 6 × 10 = (14 - 6) × 10 = 8 × 10 = 80\n\nAlternative form: 98 × 10 + 98 × 3 = 98 × (10 + 3) = 98 × 13\n\nPhrasing: \"The multiple of a sum (or difference) is the same as the sum (or difference) of the multiples.\"\n\nUse in mental math:\nExample: 97 × 25\n= (100 - 3) × 25\n= (100 × 25) - (3 × 25)\n= 2500 - 75\n= 2425\n\nThis method is often faster than standard multiplication!"
+    },
+    {
+      "section_number": "2.7",
+      "section_title": "Manipulating Terms in Expressions",
+      "content": "When changing one or more terms in an expression, we can determine how the value changes using logical reasoning rather than complete recalculation.\n\nIncreasing or Decreasing a Term:\nIf we increase a term by a certain amount, the entire expression's value increases by that same amount.\n\nExample: 53 + (-16) = 37\n• If 53 becomes 54 (increase by 1): 54 + (-16) = 38 (increase by 1)\n• If 53 becomes 52 (decrease by 1): 52 + (-16) = 36 (decrease by 1)\n\nWorking with Negative Numbers:\nWhen a term is negative, increasing it (making it less negative) decreases the change.\n\nExample: 53 + (-16) = 37\n• If -16 becomes -15 (increase by 1, or becomes less negative): The sum 53 + (-15) = 38 (increases by 1)\n• If -16 becomes -17 (decrease by 1, or becomes more negative): The sum 53 + (-17) = 36 (decreases by 1)\n\nMultiple Changes:\nWhen multiple terms change, add up all the individual changes.\n\nExample: 53 + (-16) = 37\n• If 53 becomes 54 (increase by 1) AND -16 becomes -15 (increase by 1):\n• 54 + (-15) = 39 (increase by 2 total)\n\nDecomposing Numbers:\nWe can break a number into parts to understand changes:\n54 = 53 + 1 (so 54 is 1 more than 53)\n-15 = -16 + 1 (so -15 is 1 more than -16)\n\nPractical applications:\nExample: 423 + _____ = 419 + _____\nAsking: \"What number makes these equal?\"\nIf 423 becomes 419 (decrease by 4), then to keep the sums equal, we need to increase the second blank by 4."
+    },
+    {
+      "section_number": "2.8",
+      "section_title": "Putting It All Together: Evaluating Complex Expressions",
+      "content": "To evaluate a complex arithmetic expression, follow these systematic steps:\n\nStep 1: Identify and evaluate all terms with brackets first\n• Always do operations inside brackets before anything else\n\nStep 2: Within terms, perform multiplication and division\n• Evaluate all products and quotients\n\nStep 3: Add or subtract the evaluated terms\n• Combine the results from Step 2\n\nExample 1: 30 + 5 × 4 - 8 ÷ 2\nTerms: 30, (5 × 4), and (8 ÷ 2)\nEvaluate each: 30, 20, and 4\nCombine: 30 + 20 - 4 = 46\n\nExample 2: 5 × (3 + 2) + 7 × 8 + 3\nIdentify terms: (5 × [3+2]), (7 × 8), and 3\nEvaluate brackets: 5 × 5, 7 × 8, and 3\nEvaluate: 25, 56, and 3\nCombine: 25 + 56 + 3 = 84\n\nExample 3: 28 - 7 + 8\nTerms: 28, -7, and 8\nAdd/subtract: 28 - 7 + 8 = 29\n\nExample 4: 48 - 10 × 2 + 16 ÷ 2\nTerms: 48, (10 × 2), and (16 ÷ 2)\nEvaluate: 48, 20, and 8\nCombine: 48 - 20 + 8 = 36\n\nChecking for equal expressions:\nTwo expressions are equal if they have the same value. Use bracket-removal rules and distributive property to rewrite expressions for comparison.\n\nExample: Is 2 × 43 + 2 × 24 equal to 2 × (43 + 24)?\nUsing distributive property: 2 × (43 + 24) = 2 × 43 + 2 × 24\nYes, they're equal."
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Arithmetic Expression",
+      "definition": "A mathematical phrase formed using numbers and operations (addition, subtraction, multiplication, division) without an equals sign."
+    },
+    {
+      "term": "Value of an Expression",
+      "definition": "The number that an arithmetic expression evaluates to or equals when all operations are performed."
+    },
+    {
+      "term": "Bracket",
+      "definition": "Symbols ( ) used in expressions to indicate which operations should be performed first. Operations inside brackets must be completed before operations outside."
+    },
+    {
+      "term": "Term",
+      "definition": "A single part of an expression that is separated by + or − signs. Multiplication and division within a term are evaluated together before addition/subtraction."
+    },
+    {
+      "term": "Commutative Property of Addition",
+      "definition": "The property stating that changing the order of adding terms does not change the sum: a + b = b + a."
+    },
+    {
+      "term": "Associative Property of Addition",
+      "definition": "The property stating that changing how terms are grouped (with brackets) does not change the sum: (a + b) + c = a + (b + c)."
+    },
+    {
+      "term": "Distributive Property",
+      "definition": "The property stating that multiplication distributes over addition and subtraction: a × (b + c) = a × b + a × c."
+    },
+    {
+      "term": "Factoring",
+      "definition": "The process of reversing the distributive property by extracting a common factor: a × b + a × c = a × (b + c)."
+    },
+    {
+      "term": "Negative Term",
+      "definition": "A term with a negative sign, representing subtraction in an expression. For example, in 83 − 14, we write it as 83 + (−14), where −14 is a negative term."
+    },
+    {
+      "term": "Order of Operations",
+      "definition": "The rules determining which calculations to perform first in an expression: brackets first, then multiplication/division within terms, then addition/subtraction of terms."
+    },
+    {
+      "term": "Inverse (of an operation)",
+      "definition": "The opposite operation or number: subtraction is the inverse of addition; division is the inverse of multiplication. For example, the inverse of 14 is −14."
+    },
+    {
+      "term": "Equality Sign",
+      "definition": "The symbol (=) showing that the expression on the left has the same value as the expression on the right."
+    },
+    {
+      "term": "Greater Than",
+      "definition": "The symbol (>) showing that the expression on the left has a larger value than the expression on the right."
+    },
+    {
+      "term": "Less Than",
+      "definition": "The symbol (<) showing that the expression on the left has a smaller value than the expression on the right."
+    },
+    {
+      "term": "Multiplication Sign",
+      "definition": "The symbol (× or •) indicating that two numbers should be multiplied together."
+    },
+    {
+      "term": "Division Sign",
+      "definition": "The symbol (÷ or /) indicating that one number should be divided by another."
+    },
+    {
+      "term": "Addends",
+      "definition": "The numbers being added in an addition expression. Terms with their signs in an expression where all operations are viewed as addition."
+    },
+    {
+      "term": "Sum",
+      "definition": "The result obtained by adding two or more numbers or terms."
+    },
+    {
+      "term": "Difference",
+      "definition": "The result obtained by subtracting one number or term from another."
+    }
+  ],
+  "summary_points": [
+    "An arithmetic expression is a mathematical phrase using numbers and operations; its value is determined by evaluating all operations according to the order of operations rules.",
+    "Brackets indicate which operations should be evaluated first; when brackets are preceded by a subtraction sign, the signs of terms inside reverse when removed.",
+    "Terms are parts of an expression separated by addition signs; identifying terms correctly helps determine the order in which operations should be performed.",
+    "The commutative property of addition states that the order of adding terms doesn't matter: a + b = b + a, allowing flexible rearrangement of terms.",
+    "The associative property of addition states that grouping terms in different ways doesn't change the sum: (a + b) + c = a + (b + c), enabling strategic grouping for easier calculation.",
+    "The distributive property connects multiplication and addition: a × (b + c) = (a × b) + (a × c), allowing brackets to be removed or terms to be factored.",
+    "When evaluating expressions without brackets, multiplication and division are performed within each term first, then terms are combined using addition and subtraction.",
+    "When one term in an expression increases or decreases, the entire expression's value changes by the same amount; this reasoning allows calculation without complete re-evaluation.",
+    "Two expressions are equal if and only if they evaluate to the same value; bracket-removal rules and distributive property help rewrite expressions to prove equality.",
+    "Understanding arithmetic expressions and their manipulation through properties like commutative, associative, and distributive is fundamental to algebra and all higher mathematics."
+  ]
+}

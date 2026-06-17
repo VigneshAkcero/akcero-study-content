@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Mathematics",
+    "chapter_name": "Number Play",
+    "chapter_number": 5
+  },
+  "summary": [
+    {
+      "category": "Parity and Consecutive Operations",
+      "points": [
+        "When any four numbers are combined with ± signs in eight different ways (a±b±c±d), all eight expressions have the same parity (all even or all odd), regardless of the four numbers chosen. This is because switching a sign changes the value by an even amount (e.g., changing +b to −b changes the result by 2b). An algebraic expression always gives an even number if it contains a factor of 2 (like 2a+2b=2(a+b)) or is composed of even terms (like 4m+2n=2(2m+n)). Parity rules: odd±odd=even, even±even=even, odd±even=odd."
+      ]
+    },
+    {
+      "category": "Divisibility Rules and Shortcuts",
+      "points": [
+        "Quick divisibility checks exist for all numbers: 2 (last digit even), 5 (last digit 0 or 5), 10 (last digit 0), 4 (last 2 digits divisible by 4), 8 (last 3 digits divisible by 8). For 9: sum of digits divisible by 9. For 3: sum of digits divisible by 3. For 11: alternating sum (units+, tens−, hundreds+, ...) divisible by 11 OR difference (odd-position sums − even-position sums) divisible by 11. For composite numbers (6=2×3, 12=4×3, 18=2×9): check divisibility of coprime factors. Key properties: if a divides both m and n, then a divides m+n and m−n; if a is divisible by both coprime b and c, then a is divisible by b×c."
+      ]
+    },
+    {
+      "category": "Digital Roots and Number Patterns",
+      "points": [
+        "Digital root is found by repeatedly summing digits until one digit remains; it equals the remainder when divided by 9 (digital root 9 if divisible by 9). Example: 489710 → 4+8+9+7+1+0=29 → 2+9=11 → 1+1=2 (digital root=2). Divisibility by 9 ⟺ digital root 9. Multiples of 3 have digital roots 3, 6, or 9 (following pattern 3,6,9,3,6,9,...). Digital roots of a sum equal the digital root of the sum of digital roots: DR(a+b)=DR(DR(a)+DR(b)). Products of consecutive integers have guaranteed divisibility: 2 consecutive divisible by 2, 3 consecutive by 6, 4 consecutive by 24, 5 consecutive by 120."
+      ]
+    },
+    {
+      "category": "Cryptarithmetic and Problem Solving",
+      "points": [
+        "Cryptarithmetic puzzles use rules: each letter = one digit (0−9), different letters = different digits, first digit ≠ 0. Solutions require combining divisibility properties with systematic reasoning. For multiplication like PQ×8=RS (2-digit×1-digit=2-digit), determine the range: 10×8=80 (valid, but if P≠Q) and 13×8=104 (3-digit, invalid), so PQ∈{10,11,12}. For complex multiplications like BYE×6=RAY, use constraints: B=1 (else result 4-digit), Y∈{0,2,4,6,8} (Y×6 must end in Y, and Y even), leading to systematic elimination. Repeated-digit results (like GGG) equal G×111, severely constraining solutions. Divisibility testing for unknowns: 31z5 divisible by 9 ⟹ 3+1+z+5=9+z divisible by 9 ⟹ z∈{0,9} (two solutions)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "THE OTHER SIDE OF ZERO",
+    "chapter_number": 10
+  },
+  "flashcards": [
+    { "q": "What is an integer?", "a": "A set of numbers including counting numbers, their negatives, and zero." },
+    { "q": "Is zero a positive or negative number?", "a": "Neither." },
+    { "q": "In banking, what represents a positive movement or addition to balance?", "a": "A credit." },
+    { "q": "In banking, what represents a negative movement or reduction in balance?", "a": "A debit." },
+    { "q": "What is the reference point (0 m) for geographical heights?", "a": "Sea level." },
+    { "q": "What is the freezing point of water on the Celsius scale?", "a": "$0^\\circ C$" },
+    { "q": "What is an additive inverse?", "a": "The number that, when added to a given number, results in zero." },
+    { "q": "In the token model, what is a 'zero pair'?", "a": "A pair of one positive and one negative token that cancels each other out." },
+    { "q": "Which side of zero do negative numbers lie on a number line?", "a": "The left side." },
+    { "q": "What is the result of adding a number to its additive inverse?", "a": "Zero (0)." },
+    { "q": "What does UNL stand for in number line visualization?", "a": "Unmarked Number Line." },
+    { "q": "Subtracting a negative number is equivalent to?", "a": "Adding its corresponding positive number (inverse)." },
+    { "q": "Between -15 and -2, which integer is larger?", "a": "-2" },
+    { "q": "What is the additive inverse of 0?", "a": "0" },
+    { "q": "To move from Floor -5 to Floor 0, what button must you press?", "a": "+5" },
+    { "q": "What is the sum of two negative integers always?", "a": "Always negative." },
+    { "q": "What is the sum of any number and zero?", "a": "The same number." },
+    { "q": "Which direction results in smaller numbers on a number line?", "a": "Left (backward) direction." },
+    { "q": "If temperature is $-10^\\circ C$ and it rises by $10^\\circ C$, what is it?", "a": "$0^\\circ C$" },
+    { "q": "Are there infinitely many negative integers?", "a": "Yes, they go down without end, just as positive integers go up." }
+  ]
+}

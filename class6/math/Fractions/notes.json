@@ -1,0 +1,234 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Fractions",
+    "chapter_number": 7
+  },
+  "notes": [
+    {
+      "section_title": "Fractional Units and Equal Shares",
+      "topics": [
+        {
+          "topic_name": "What is a Fraction?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Fractions tell us how much each share is when a whole thing is shared equally among a number of people. For example, if one roti is shared between 2 children, each gets $\\frac{1}{2}$ (one half)."
+            },
+            {
+              "type": "activity",
+              "title": "Sharing Roti",
+              "procedure": [
+                "Take 1 roti and divide it between 2 children.",
+                "Take another roti and divide it among 4 children."
+              ],
+              "observation": "When more children share the same roti, each child's share becomes smaller.",
+              "conclusion": "$\\frac{1}{2} > \\frac{1}{4}$ because sharing with more people results in a smaller part."
+            },
+            {
+              "type": "note",
+              "title": "Fractional Units (Unit Fractions)",
+              "text": "When one unit is divided into several equal parts, each part is called a fractional unit or unit fraction. Examples: $\\frac{1}{2}, \\frac{1}{3}, \\frac{1}{10}, \\frac{1}{100}$."
+            },
+            {
+              "type": "example",
+              "title": "Example-1",
+              "question": "Three guavas together weigh 1 kg. If they are roughly the same size, what is the weight of each guava?",
+              "solution": "Weight of 3 guavas = 1 kg.\nSince they are shared equally into 3 parts, each guava weighs $\\frac{1}{3}$ kg."
+            },
+            {
+              "type": "example",
+              "title": "Example-2",
+              "question": "Four friends ordered 3 glasses of sugarcane juice and shared it equally. How much did each one drink?",
+              "solution": "3 glasses shared among 4 friends.\nEach friend's share = $3 \\div 4 = \\frac{3}{4}$ of a glass."
+            }
+          ]
+        },
+        {
+          "topic_name": "Historical Context",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Fractions have been used in India since ancient times. In the Rig Veda, $\\frac{3}{4}$ is called 'tri-pada'. In colloquial Hindi, it's called 'teen paav' and in Tamil, 'mukkaal'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Numerator, Denominator and Number Line",
+      "topics": [
+        {
+          "topic_name": "Reading Fractions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In a fraction like $\\frac{5}{6}$, the top number (5) is the numerator and the bottom number (6) is the denominator."
+            },
+            {
+              "type": "note",
+              "title": "Understanding Denominator",
+              "text": "The denominator tells us the size of the fractional unit (how many equal parts the whole is divided into), and the numerator tells us how many such units are there."
+            }
+          ]
+        },
+        {
+          "topic_name": "Fractions on a Number Line",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Fractions can be marked on a number line by dividing the unit distance (0 to 1) into equal parts based on the denominator."
+            },
+            {
+              "type": "activity",
+              "title": "Mapping a Number Line",
+              "procedure": [
+                "Mark points 0 and 1 on a line.",
+                "Divide the space between 0 and 1 into 2 equal parts to mark $\\frac{1}{2}$.",
+                "Divide it into 5 equal parts to mark $\\frac{1}{5}, \\frac{2}{5}, \\frac{3}{5}, \\frac{4}{5}$."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Mixed Fractions",
+      "topics": [
+        {
+          "topic_name": "Fractions Greater Than One",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When the numerator is larger than the denominator, the fraction represents a value greater than 1 unit."
+            },
+            {
+              "type": "note",
+              "title": "Mixed Numbers",
+              "text": "A mixed number or mixed fraction contains a whole number part and a fractional part (less than 1)."
+            },
+            {
+              "type": "example",
+              "title": "Example-3",
+              "question": "How many whole units are there in $\\frac{7}{2}$?",
+              "solution": "$\\frac{7}{2} = \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2}$\nSince $2 \\times \\frac{1}{2} = 1$, we have: $(2/2) + (2/2) + (2/2) + (1/2) = 1 + 1 + 1 + \\frac{1}{2} = 3 \\frac{1}{2}$.\nSo, there are 3 whole units."
+            },
+            {
+              "type": "example",
+              "title": "Example-4",
+              "question": "Write $\\frac{19}{6}$ as a mixed fraction.",
+              "solution": "Divide 19 by 6:\n$19 = (3 \\times 6) + 1$\nSo, $\\frac{19}{6} = 3 + \\frac{1}{6} = 3 \\frac{1}{6}$."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Equivalent Fractions and Simplest Form",
+      "topics": [
+        {
+          "topic_name": "Equivalent Fractions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Fractions that represent the same share or the same length on a number line are called equivalent fractions. Example: $\\frac{1}{2} = \\frac{2}{4} = \\frac{4}{8}$."
+            },
+            {
+              "type": "activity",
+              "title": "Fraction Wall",
+              "procedure": [
+                "Take paper strips of equal length.",
+                "Fold one into 2 equal parts, another into 4, and another into 8.",
+                "Compare the lengths of $\\frac{1}{2}, \\frac{2}{4},$ and $\\frac{4}{8}$."
+              ],
+              "conclusion": "The lengths are equal, proving they are equivalent fractions."
+            }
+          ]
+        },
+        {
+          "topic_name": "Expressing in Lowest Terms",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A fraction is in its lowest terms (or simplest form) if the numerator and denominator have no common factor except 1."
+            },
+            {
+              "type": "example",
+              "title": "Example-5",
+              "question": "Reduce $\\frac{36}{60}$ to its simplest form.",
+              "solution": "Step 1: Both are divisible by 2. $\\frac{36\\div2}{60\\div2} = \\frac{18}{30}$.\nStep 2: Both are divisible by 2 again. $\\frac{18\\div2}{30\\div2} = \\frac{9}{15}$.\nStep 3: Both are divisible by 3. $\\frac{9\\div3}{15\\div3} = \\frac{3}{5}$.\nSince 3 and 5 have no more common factors, the simplest form is $\\frac{3}{5}$."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Comparing, Adding and Subtracting",
+      "topics": [
+        {
+          "topic_name": "Comparing Fractions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To compare fractions with different denominators, convert them into equivalent fractions with a common denominator."
+            },
+            {
+              "type": "example",
+              "title": "Example-6",
+              "question": "Which is greater, $\\frac{4}{5}$ or $\\frac{7}{9}$?",
+              "solution": "Find a common denominator: $5 \\times 9 = 45$.\n$\\frac{4}{5} = \\frac{4\\times9}{5\\times9} = \\frac{36}{45}$.\n$\\frac{7}{9} = \\frac{7\\times5}{9\\times5} = \\frac{35}{45}$.\nSince $36 > 35$, we have $\\frac{4}{5} > \\frac{7}{9}$."
+            }
+          ]
+        },
+        {
+          "topic_name": "Addition and Subtraction (Brahmagupta's Method)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In 628 CE, the Indian mathematician Brahmagupta described a general method for adding and subtracting fractions by reducing them to a common denominator."
+            },
+            {
+              "type": "list",
+              "title": "Brahmagupta's Method Steps",
+              "items": [
+                "Find a common multiple of the denominators.",
+                "Convert each fraction into an equivalent fraction with this common denominator.",
+                "Add or subtract the numerators while keeping the denominator the same."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example-7",
+              "question": "Find the sum: $\\frac{1}{4} + \\frac{1}{3}$.",
+              "solution": "Common denominator = $4 \\times 3 = 12$.\n$\\frac{1}{4} = \\frac{3}{12}$ and $\\frac{1}{3} = \\frac{4}{12}$.\n$\\frac{3}{12} + \\frac{4}{12} = \\frac{7}{12}$."
+            },
+            {
+              "type": "example",
+              "title": "Example-8",
+              "question": "Solve: $\\frac{3}{4} - \\frac{2}{3}$.",
+              "solution": "Common denominator = 12.\n$\\frac{3}{4} = \\frac{9}{12}$ and $\\frac{2}{3} = \\frac{8}{12}$.\n$\\frac{9}{12} - \\frac{8}{12} = \\frac{1}{12}$."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Fraction", "definition": "A part of a whole or a share from a total collection." },
+    { "term": "Fractional Unit", "definition": "One part out of equal parts of a whole (unit fraction)." },
+    { "term": "Numerator", "definition": "The top number of a fraction, indicating how many parts are taken." },
+    { "term": "Denominator", "definition": "The bottom number of a fraction, indicating total equal parts in a whole." },
+    { "term": "Mixed Fraction", "definition": "A number consisting of a whole part and a fractional part." },
+    { "term": "Equivalent Fractions", "definition": "Fractions that represent the same value or part." },
+    { "term": "Lowest Terms", "definition": "A fraction where the numerator and denominator have no common factor other than 1." }
+  ],
+  "summary_points": [
+    "Fractions represent equal shares and parts of a whole.",
+    "A unit fraction (fractional unit) has 1 as the numerator.",
+    "Fractions can be compared, marked on number lines, and classified as mixed fractions if greater than 1.",
+    "Equivalent fractions show that different representations can denote the same portion.",
+    "Brahmagupta's method is used to add and subtract fractions by finding a common denominator.",
+    "Indian mathematicians significantly contributed to the development of fraction notation and arithmetic rules."
+  ]
+}

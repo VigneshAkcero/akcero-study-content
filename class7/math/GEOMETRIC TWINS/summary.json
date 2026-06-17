@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Math",
+    "chapter_name": "Geometric Twins",
+    "chapter_number": 1
+  },
+  "summary": [
+    {
+      "category": "Congruence of Figures",
+      "points": [
+        "Figures that have the same shape and size are congruent; they can be superimposed exactly one over the other, and may be rotated or flipped before superimposing.",
+        "To recreate a figure exactly, sufficient measurements must be taken — for example, two arm lengths alone do not fix a shape, but two arm lengths plus the included angle do.",
+        "For two circles to be congruent their radii must be equal; for two rectangles, both length and breadth must respectively match."
+      ]
+    },
+    {
+      "category": "Conditions for Triangle Congruence",
+      "points": [
+        "Five conditions guarantee congruence: SSS (all three sides equal), SAS (two sides and the included angle equal), ASA (two angles and the included side equal), AAS (two angles and a non-included side equal), and RHS (right angle, hypotenuse, and one leg equal in right-angled triangles).",
+        "SSA (two sides and a non-included angle) does NOT guarantee congruence — two different triangles can share the same SSA measurements; AAA (three equal angles) also does NOT guarantee congruence as it produces similar but not necessarily congruent triangles.",
+        "When writing ΔABC ≅ ΔXYZ, the vertex order specifies the correspondence — A↔X, B↔Y, C↔Z — and all corresponding sides and angles are automatically equal."
+      ]
+    },
+    {
+      "category": "Angles in Special Triangles",
+      "points": [
+        "In any triangle, angles opposite to equal sides are equal; in an isosceles triangle (two equal sides), the two base angles are equal — proved using the RHS congruence of the two halves formed by the altitude.",
+        "In an equilateral triangle all three sides are equal, so by the isosceles property all three angles are also equal; since they sum to 180°, each angle is exactly 60°.",
+        "Congruence is a powerful tool for deducing geometric properties — the angle properties of isosceles and equilateral triangles are formally proved using congruence conditions, not just observed."
+      ]
+    }
+  ]
+}

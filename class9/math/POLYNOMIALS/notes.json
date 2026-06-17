@@ -1,0 +1,427 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Polynomials",
+    "chapter_number": 2
+  },
+  "notes": [
+    {
+      "section_title": "2.1 Introduction",
+      "topics": [
+        {
+          "topic_name": "Algebraic Expressions and Polynomials",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In earlier classes, you studied algebraic expressions and learned how to add, subtract, multiply, and divide them. You also learned algebraic identities such as (x + y)² = x² + 2xy + y², (x - y)² = x² - 2xy + y², and x² - y² = (x + y)(x - y). These identities are fundamental tools for factorisation and simplification. This chapter focuses on a particular type of algebraic expression called a polynomial, along with the terminology related to it, the Remainder Theorem, the Factor Theorem, and their applications in factorisation."
+            },
+            {
+              "type": "note",
+              "title": "What is a Polynomial?",
+              "text": "A polynomial is an algebraic expression where the exponents of all variables are whole numbers (non-negative integers). Polynomials form the foundation of algebra and have extensive applications in mathematics, physics, and engineering."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.2 Polynomials in One Variable",
+      "topics": [
+        {
+          "topic_name": "Definition and Structure of Polynomials in One Variable",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A polynomial in one variable x is an algebraic expression of the form p(x) = aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₁x + a₀, where a₀, a₁, a₂, ..., aₙ are constants (called coefficients) and aₙ ≠ 0. The exponent n is a whole number. For example, x² + 2x, x³ - x² + 4x + 7, and 3y² + 5y are polynomials in one variable. Similarly, expressions like x + 1/x, √x + 3, and ∛y + y² are NOT polynomials because they contain negative exponents or fractional exponents, which are not whole numbers."
+            },
+            {
+              "type": "note",
+              "title": "Constants in Polynomials",
+              "text": "A constant such as 2, -5, or 7 is also a polynomial. These are called constant polynomials. The constant polynomial 0 is called the zero polynomial and plays an important role in polynomial theory."
+            },
+            {
+              "type": "paragraph",
+              "text": "Polynomials can be written using functional notation. For example, we write p(x) = 2x² + 5x - 3 or q(y) = 3y³ - 4y + √11 to denote polynomials with specific variables. This notation allows us to easily evaluate polynomials at specific values of the variable."
+            }
+          ]
+        },
+        {
+          "topic_name": "Terms and Coefficients",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Each part of a polynomial separated by addition or subtraction is called a term. For instance, in the polynomial x² + 2x, the terms are x² and 2x. In the polynomial 3y² + 5y + 7, the terms are 3y², 5y, and 7. In the polynomial -x³ + 4x² + 7x - 2, the four terms are -x³, 4x², 7x, and -2."
+            },
+            {
+              "type": "note",
+              "title": "Coefficients",
+              "text": "Each term has a coefficient, which is the constant multiplying the variable(s). In the polynomial -x³ + 4x² + 7x - 2, the coefficient of x³ is -1, the coefficient of x² is 4, the coefficient of x is 7, and -2 is the constant term (coefficient of x⁰). In the polynomial x² - x + 7, the coefficient of x is -1."
+            },
+            {
+              "type": "example",
+              "title": "Identifying Terms and Coefficients",
+              "content": "Consider the polynomial p(x) = 5x³ - 2x² + 3x - 7. The terms are: 5x³, -2x², 3x, and -7. The coefficients are: 5 (for x³), -2 (for x²), 3 (for x), and -7 (constant term)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Classification by Number of Terms",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Polynomials are classified based on the number of terms they contain. A polynomial with one term is called a monomial. Examples include 2x, 5x³, -3y, and u⁴. A polynomial with exactly two terms is called a binomial. Examples include x + 1, x² - x, y⁹ + 1, and u¹⁵ - u² + 1. A polynomial with exactly three terms is called a trinomial. Examples include x + x² + π, u + u² - 2, √2 + x - x², and y⁴ + y + 5."
+            },
+            {
+              "type": "note",
+              "title": "Classification Summary",
+              "text": "Monomial: one term (e.g., 7x). Binomial: two terms (e.g., x + 1). Trinomial: three terms (e.g., x² + 2x + 1). Polynomials with more than three terms do not have special names."
+            }
+          ]
+        },
+        {
+          "topic_name": "Degree of a Polynomial",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The degree of a polynomial is the highest power of the variable in the polynomial. For example, in the polynomial 3x⁷ - 4x⁶ + x + 9, the term with the highest power is 3x⁷, so the degree is 7. In the polynomial 5y⁶ - 4y² - 6, the highest power is 6, so the degree is 6. For a non-zero constant polynomial like 5, which can be written as 5x⁰, the degree is 0. The degree of the zero polynomial is not defined."
+            },
+            {
+              "type": "note",
+              "title": "Degree Definition",
+              "text": "The degree of a polynomial p(x) is the highest power of the variable x that appears in the polynomial with a non-zero coefficient."
+            },
+            {
+              "type": "example",
+              "title": "Finding Degree of Polynomials",
+              "content": "(i) For p(x) = x⁵ - x⁴ + 3, the highest power is 5, so the degree is 5. (ii) For q(y) = 2 - y² - y³ + 2y⁸, the highest power is 8, so the degree is 8. (iii) For r(x) = 2 (a constant), the degree is 0."
+            }
+          ]
+        },
+        {
+          "topic_name": "Types of Polynomials by Degree",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Polynomials are also classified by their degree. A polynomial of degree one is called a linear polynomial. Examples include 4x + 5, 2y, t + √2, and 3 - u. A linear polynomial in x has the form ax + b where a ≠ 0 and a, b are constants. A linear polynomial has exactly one or two terms and can have at most two terms."
+            },
+            {
+              "type": "paragraph",
+              "text": "A polynomial of degree two is called a quadratic polynomial. Examples include 2x² + 5, 5x² + 3x + π, x², and x² + (2/5)x. A quadratic polynomial in x has the form ax² + bx + c where a ≠ 0 and a, b, c are constants. A quadratic polynomial can have at most three terms."
+            },
+            {
+              "type": "paragraph",
+              "text": "A polynomial of degree three is called a cubic polynomial. Examples include 4x³, 2x³ + 1, 5x³ + x², 6x³ - x, 6 - x³, and 2x³ + 4x² + 6x + 7. A cubic polynomial in x has the form ax³ + bx² + cx + d where a ≠ 0 and a, b, c, d are constants. A cubic polynomial can have at most four terms."
+            },
+            {
+              "type": "note",
+              "title": "General Form of Degree n Polynomial",
+              "text": "A polynomial in one variable x of degree n (where n is a natural number) is an expression of the form: aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₁x + a₀, where a₀, a₁, ..., aₙ are constants and aₙ ≠ 0."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.3 Zeroes of a Polynomial",
+      "topics": [
+        {
+          "topic_name": "Definition and Evaluation of Polynomials",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To find the value of a polynomial p(x) at a specific value of x, we substitute that value into the polynomial. For example, if p(x) = 5x³ - 2x² + 3x - 2 and we want to find p(1), we substitute x = 1 into the polynomial: p(1) = 5(1)³ - 2(1)² + 3(1) - 2 = 5 - 2 + 3 - 2 = 4. Similarly, p(0) = 5(0)³ - 2(0)² + 3(0) - 2 = -2."
+            },
+            {
+              "type": "example",
+              "title": "Evaluating Polynomials",
+              "content": "(i) For p(x) = 5x² - 3x + 7 at x = 1: p(1) = 5(1)² - 3(1) + 7 = 5 - 3 + 7 = 9. (ii) For q(y) = 3y³ - 4y + √11 at y = 2: q(2) = 3(2)³ - 4(2) + √11 = 24 - 8 + √11 = 16 + √11. (iii) For p(t) = 4t⁴ + 5t³ - t² + 6 at t = a: p(a) = 4a⁴ + 5a³ - a² + 6."
+            }
+          ]
+        },
+        {
+          "topic_name": "Zeroes of a Polynomial",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A zero of a polynomial p(x) is a number c such that p(c) = 0. In other words, when we substitute c for x, the polynomial equals zero. For example, consider p(x) = x - 1. When we substitute x = 1, we get p(1) = 1 - 1 = 0. Therefore, 1 is a zero of the polynomial x - 1. Similarly, 2 is a zero of q(x) = x - 2 because q(2) = 2 - 2 = 0."
+            },
+            {
+              "type": "note",
+              "title": "Zeroes and Roots",
+              "text": "The zero of a polynomial p(x) is also called a root of the polynomial equation p(x) = 0. Finding the zeroes of a polynomial is equivalent to solving the polynomial equation p(x) = 0."
+            },
+            {
+              "type": "paragraph",
+              "text": "Important observations: (i) A zero of a polynomial need not be 0 itself. (ii) 0 may be a zero of a polynomial. For example, in p(x) = x² - 2x, both p(0) = 0 and p(2) = 0, so both 0 and 2 are zeroes. (iii) Every linear polynomial has exactly one and only one zero. (iv) A polynomial can have more than one zero. (v) A non-zero constant polynomial has no zero. For instance, the polynomial 5 has no zero because 5 ≠ 0 for any value of x. (vi) By convention, every real number is a zero of the zero polynomial."
+            },
+            {
+              "type": "example",
+              "title": "Finding and Verifying Zeroes",
+              "content": "(i) Check whether -2 and 2 are zeroes of p(x) = x + 2. p(2) = 2 + 2 = 4 ≠ 0, so 2 is not a zero. p(-2) = -2 + 2 = 0, so -2 is a zero. (ii) Find a zero of p(x) = 2x + 1. Setting p(x) = 0: 2x + 1 = 0 → x = -1/2. Therefore, -1/2 is a zero. (iii) Verify whether 2 and 0 are zeroes of p(x) = x² - 2x. p(2) = 2² - 2(2) = 4 - 4 = 0 ✓. p(0) = 0² - 2(0) = 0 ✓. Both are zeroes."
+            }
+          ]
+        },
+        {
+          "topic_name": "Zeroes of Linear Polynomials",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "For a linear polynomial p(x) = ax + b where a ≠ 0, finding the zero means solving ax + b = 0. This gives x = -b/a. Therefore, a linear polynomial has exactly one zero, which is x = -b/a. For example, the zero of p(x) = x - 1 is x = 1 (since -(-1)/1 = 1). The zero of p(x) = x + 2 is x = -2 (since -2/1 = -2). The zero of p(x) = 2x + 1 is x = -1/2 (since -1/2 = -1/2)."
+            },
+            {
+              "type": "note",
+              "title": "Linear Polynomial Zeroes",
+              "text": "A linear polynomial ax + b (where a ≠ 0) has exactly one zero, which is x = -b/a."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.4 Factorisation of Polynomials",
+      "topics": [
+        {
+          "topic_name": "The Remainder Theorem",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Remainder Theorem states that if a polynomial p(x) is divided by a linear polynomial (x - a), then the remainder is p(a). This theorem is useful for finding the remainder without performing long division. For example, if p(x) = x³ + 3x² + 5x + 6 is divided by (x + 2), which is (x - (-2)), the remainder is p(-2) = (-2)³ + 3(-2)² + 5(-2) + 6 = -8 + 12 - 10 + 6 = 0."
+            },
+            {
+              "type": "note",
+              "title": "Remainder Theorem Statement",
+              "text": "If p(x) is a polynomial of degree n ≥ 1 and a is any real number, then the remainder when p(x) is divided by (x - a) is p(a)."
+            }
+          ]
+        },
+        {
+          "topic_name": "The Factor Theorem",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Factor Theorem is a special case of the Remainder Theorem. It states that if p(x) is a polynomial of degree n ≥ 1 and a is any real number, then (x - a) is a factor of p(x) if and only if p(a) = 0. In other words, (x - a) is a factor of p(x) if and only if a is a zero of p(x). This theorem provides a powerful tool for factorisation: we find a value of x for which p(x) = 0, and then (x - that value) is a factor."
+            },
+            {
+              "type": "note",
+              "title": "Factor Theorem Statement",
+              "text": "If p(x) is a polynomial of degree n ≥ 1 and a is any real number, then: (i) (x - a) is a factor of p(x) if and only if p(a) = 0. (ii) If (x - a) is a factor of p(x), then p(a) = 0."
+            },
+            {
+              "type": "example",
+              "title": "Applying the Factor Theorem",
+              "content": "(i) Examine whether (x + 2) is a factor of p(x) = x³ + 3x² + 5x + 6. The zero of (x + 2) is -2. p(-2) = (-2)³ + 3(-2)² + 5(-2) + 6 = -8 + 12 - 10 + 6 = 0. Since p(-2) = 0, (x + 2) is a factor. (ii) Find the value of k if (x - 1) is a factor of p(x) = 4x³ + 3x² - 4x + k. By the Factor Theorem, p(1) = 0. p(1) = 4(1)³ + 3(1)² - 4(1) + k = 4 + 3 - 4 + k = 0 → k = -3."
+            }
+          ]
+        },
+        {
+          "topic_name": "Factorisation of Quadratic Polynomials",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A quadratic polynomial ax² + bx + c (where a ≠ 0) can be factorised by splitting the middle term. We look for two numbers p and q such that p + q = b and pq = ac. Then we rewrite the polynomial as ax² + px + qx + c and factor by grouping. For example, to factorise 6x² + 17x + 5, we need p + q = 17 and pq = 6 × 5 = 30. The pairs of factors of 30 are (1, 30), (2, 15), (3, 10), (5, 6). Since 2 + 15 = 17, we use p = 2 and q = 15. Then 6x² + 17x + 5 = 6x² + 2x + 15x + 5 = 2x(3x + 1) + 5(3x + 1) = (3x + 1)(2x + 5)."
+            },
+            {
+              "type": "note",
+              "title": "Splitting Method for Quadratic Polynomials",
+              "text": "To factorise ax² + bx + c: Find two numbers whose sum is b and whose product is ac. Split the middle term using these numbers and factor by grouping."
+            },
+            {
+              "type": "example",
+              "title": "Factorising Quadratic Polynomials",
+              "content": "(i) Factorise y² - 5y + 6. We need two numbers with sum -5 and product 6. These are -2 and -3. y² - 5y + 6 = (y - 2)(y - 3). (ii) Factorise 6x² + 17x + 5. We need two numbers with sum 17 and product 30. These are 2 and 15. 6x² + 17x + 5 = 6x² + 2x + 15x + 5 = 2x(3x + 1) + 5(3x + 1) = (3x + 1)(2x + 5)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Factorisation of Cubic Polynomials",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "For cubic polynomials, we use the Factor Theorem to find at least one factor. We test potential zeroes (which are factors of the constant term) until we find one where p(a) = 0. Then (x - a) is a factor. We can divide the polynomial by this factor to get a quadratic, which we then factorise. For example, to factorise p(x) = x³ - 23x² + 142x - 120, we test factors of 120. We find p(1) = 1 - 23 + 142 - 120 = 0, so (x - 1) is a factor. Dividing, we get (x - 1)(x² - 22x + 120) = (x - 1)(x - 10)(x - 12)."
+            },
+            {
+              "type": "note",
+              "title": "Factorisation of Cubic Polynomials",
+              "text": "Use the Factor Theorem to find a zero by testing factors of the constant term. Once you find a zero a, (x - a) is a factor. Divide the polynomial by (x - a) to get a quadratic, then factorise the quadratic."
+            },
+            {
+              "type": "example",
+              "title": "Factorising a Cubic Polynomial",
+              "content": "Factorise x³ - 23x² + 142x - 120. Test x = 1: p(1) = 1 - 23 + 142 - 120 = 0. So (x - 1) is a factor. By polynomial division or regrouping: x³ - 23x² + 142x - 120 = x³ - x² - 22x² + 22x + 120x - 120 = x²(x - 1) - 22x(x - 1) + 120(x - 1) = (x - 1)(x² - 22x + 120). Factorising x² - 22x + 120: we need two numbers with sum -22 and product 120, which are -10 and -12. So x² - 22x + 120 = (x - 10)(x - 12). Therefore, x³ - 23x² + 142x - 120 = (x - 1)(x - 10)(x - 12)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.5 Algebraic Identities",
+      "topics": [
+        {
+          "topic_name": "Review of Basic Algebraic Identities",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "An algebraic identity is an algebraic equation that is true for all values of the variables occurring in it. You have studied the following basic identities: (I) (x + y)² = x² + 2xy + y², (II) (x - y)² = x² - 2xy + y², (III) x² - y² = (x + y)(x - y), (IV) (x + a)(x + b) = x² + (a + b)x + ab. These identities are used for expanding expressions, factorising, and simplifying computations."
+            },
+            {
+              "type": "note",
+              "title": "Basic Identities Summary",
+              "text": "Identity I: (x + y)² = x² + 2xy + y². Identity II: (x - y)² = x² - 2xy + y². Identity III: x² - y² = (x + y)(x - y). Identity IV: (x + a)(x + b) = x² + (a + b)x + ab."
+            },
+            {
+              "type": "example",
+              "title": "Using Basic Identities",
+              "content": "(i) Find (x + 3)². Using Identity I with y = 3: (x + 3)² = x² + 2(x)(3) + 3² = x² + 6x + 9. (ii) Evaluate 105 × 106 without direct multiplication. 105 × 106 = (100 + 5)(100 + 6) = 100² + (5 + 6)(100) + (5)(6) = 10000 + 1100 + 30 = 11130 (using Identity IV with x = 100, a = 5, b = 6)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Extended Identity for Three Variables",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The basic identity (x + y)² = x² + 2xy + y² can be extended to three variables. Let x + y = t. Then (x + y + z)² = (t + z)² = t² + 2tz + z² = (x + y)² + 2(x + y)z + z² = x² + 2xy + y² + 2xz + 2yz + z² = x² + y² + z² + 2xy + 2yz + 2zx."
+            },
+            {
+              "type": "note",
+              "title": "Identity V: Extended to Three Variables",
+              "text": "(x + y + z)² = x² + y² + z² + 2xy + 2yz + 2zx. This identity consists of three square terms and three product terms."
+            },
+            {
+              "type": "example",
+              "title": "Expanding Three-Variable Squares",
+              "content": "(i) Write (3a + 4b + 5c)² in expanded form. Using Identity V: (3a + 4b + 5c)² = (3a)² + (4b)² + (5c)² + 2(3a)(4b) + 2(4b)(5c) + 2(5c)(3a) = 9a² + 16b² + 25c² + 24ab + 40bc + 30ac. (ii) Expand (4a - 2b - 3c)². Using Identity V with (4a) + (-2b) + (-3c): = (4a)² + (-2b)² + (-3c)² + 2(4a)(-2b) + 2(-2b)(-3c) + 2(-3c)(4a) = 16a² + 4b² + 9c² - 16ab + 12bc - 24ac."
+            }
+          ]
+        },
+        {
+          "topic_name": "Cube Identities",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The cube of a binomial can be expanded using the identity (x + y)³ = (x + y)(x + y)² = (x + y)(x² + 2xy + y²) = x³ + 2x²y + xy² + x²y + 2xy² + y³ = x³ + 3x²y + 3xy² + y³ = x³ + y³ + 3xy(x + y). Similarly, by replacing y with -y, we get (x - y)³ = x³ - 3x²y + 3xy² - y³ = x³ - y³ - 3xy(x - y)."
+            },
+            {
+              "type": "note",
+              "title": "Identity VI and VII: Cube Identities",
+              "text": "Identity VI: (x + y)³ = x³ + y³ + 3xy(x + y) = x³ + 3x²y + 3xy² + y³. Identity VII: (x - y)³ = x³ - y³ - 3xy(x - y) = x³ - 3x²y + 3xy² - y³."
+            },
+            {
+              "type": "example",
+              "title": "Expanding and Evaluating Cubes",
+              "content": "(i) Write (3a + 4b)³ in expanded form. Using Identity VI: (3a + 4b)³ = (3a)³ + (4b)³ + 3(3a)(4b)(3a + 4b) = 27a³ + 64b³ + 36ab(3a + 4b) = 27a³ + 64b³ + 108a²b + 144ab². (ii) Evaluate (104)³. 104 = 100 + 4, so (104)³ = (100 + 4)³ = 100³ + 4³ + 3(100)(4)(100 + 4) = 1000000 + 64 + 124800 = 1124864."
+            }
+          ]
+        },
+        {
+          "topic_name": "Identity for Sum of Three Cubes",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A useful identity for factorising expressions involving three cubes is: x³ + y³ + z³ - 3xyz = (x + y + z)(x² + y² + z² - xy - yz - zx). This identity can be verified by expanding the right-hand side. When x + y + z = 0, we get the important result x³ + y³ + z³ = 3xyz."
+            },
+            {
+              "type": "note",
+              "title": "Identity VIII: Sum of Three Cubes",
+              "text": "x³ + y³ + z³ - 3xyz = (x + y + z)(x² + y² + z² - xy - yz - zx). Special case: If x + y + z = 0, then x³ + y³ + z³ = 3xyz."
+            },
+            {
+              "type": "example",
+              "title": "Factorising Using the Sum of Cubes Identity",
+              "content": "(i) Factorise 8x³ + y³ + 27z³ - 18xyz. Recognize that 8x³ = (2x)³, y³ = y³, 27z³ = (3z)³, and 18xyz = 3(2x)(y)(3z). Using Identity VIII: 8x³ + y³ + 27z³ - 18xyz = (2x + y + 3z)[(2x)² + y² + (3z)² - (2x)(y) - (y)(3z) - (2x)(3z)] = (2x + y + 3z)(4x² + y² + 9z² - 2xy - 3yz - 6xz). (ii) If x + y + z = 0, show that x³ + y³ + z³ = 3xyz. From the identity, if x + y + z = 0, then x³ + y³ + z³ - 3xyz = 0 × (x² + y² + z² - xy - yz - zx) = 0, so x³ + y³ + z³ = 3xyz."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polynomial",
+      "definition": "An algebraic expression of the form aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₁x + a₀, where all exponents are non-negative integers and aₙ ≠ 0."
+    },
+    {
+      "term": "Term",
+      "definition": "A single part of a polynomial, consisting of a coefficient multiplied by a variable raised to a power."
+    },
+    {
+      "term": "Coefficient",
+      "definition": "The constant multiplying a variable in a term. For example, in 5x², the coefficient is 5."
+    },
+    {
+      "term": "Monomial",
+      "definition": "A polynomial with exactly one term, such as 3x or 5x³."
+    },
+    {
+      "term": "Binomial",
+      "definition": "A polynomial with exactly two terms, such as x + 1 or x² - 4."
+    },
+    {
+      "term": "Trinomial",
+      "definition": "A polynomial with exactly three terms, such as x² + 2x + 1."
+    },
+    {
+      "term": "Degree of a Polynomial",
+      "definition": "The highest power of the variable in a polynomial. For example, the degree of x³ + 2x² + 5 is 3."
+    },
+    {
+      "term": "Linear Polynomial",
+      "definition": "A polynomial of degree one, having the form ax + b where a ≠ 0."
+    },
+    {
+      "term": "Quadratic Polynomial",
+      "definition": "A polynomial of degree two, having the form ax² + bx + c where a ≠ 0."
+    },
+    {
+      "term": "Cubic Polynomial",
+      "definition": "A polynomial of degree three, having the form ax³ + bx² + cx + d where a ≠ 0."
+    },
+    {
+      "term": "Zero of a Polynomial",
+      "definition": "A value of the variable for which the polynomial equals zero. If p(a) = 0, then a is a zero of p(x)."
+    },
+    {
+      "term": "Root",
+      "definition": "Another term for the zero of a polynomial equation. If p(x) = 0 and p(a) = 0, then a is a root."
+    },
+    {
+      "term": "Factor Theorem",
+      "definition": "A theorem stating that (x - a) is a factor of p(x) if and only if p(a) = 0."
+    },
+    {
+      "term": "Remainder Theorem",
+      "definition": "A theorem stating that when p(x) is divided by (x - a), the remainder is p(a)."
+    },
+    {
+      "term": "Factorisation",
+      "definition": "The process of expressing a polynomial as a product of simpler polynomials."
+    },
+    {
+      "term": "Algebraic Identity",
+      "definition": "An algebraic equation that is true for all values of the variables, such as (x + y)² = x² + 2xy + y²."
+    },
+    {
+      "term": "Zero Polynomial",
+      "definition": "The polynomial where all coefficients are zero, denoted as 0. Its degree is undefined."
+    },
+    {
+      "term": "Constant Polynomial",
+      "definition": "A polynomial that consists of only a constant term, such as 5 or -3. Non-zero constant polynomials have degree 0."
+    }
+  ],
+  "summary_points": [
+    "A polynomial in one variable x is an algebraic expression of the form aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₁x + a₀, where a₀, a₁, ..., aₙ are constants with aₙ ≠ 0, and all exponents are non-negative integers.",
+    "Polynomials are classified by number of terms: monomials (1 term), binomials (2 terms), and trinomials (3 terms).",
+    "The degree of a polynomial is the highest power of the variable; linear (degree 1), quadratic (degree 2), and cubic (degree 3) polynomials have specific forms and properties.",
+    "The zero of a polynomial p(x) is a number c such that p(c) = 0; every linear polynomial has exactly one zero, while higher-degree polynomials can have multiple zeroes.",
+    "The Remainder Theorem states that when p(x) is divided by (x - a), the remainder is p(a).",
+    "The Factor Theorem establishes that (x - a) is a factor of p(x) if and only if p(a) = 0, providing a systematic method for factorisation.",
+    "Quadratic polynomials can be factorised by splitting the middle term: find two numbers whose sum is the middle coefficient and whose product is the product of the leading coefficient and constant term.",
+    "Cubic polynomials are factorised by first finding one zero using the Factor Theorem, then dividing by the corresponding linear factor to obtain a quadratic, which is then factorised.",
+    "Fundamental algebraic identities include: (x + y)² = x² + 2xy + y², (x - y)² = x² - 2xy + y², x² - y² = (x + y)(x - y), and (x + a)(x + b) = x² + (a + b)x + ab.",
+    "Extended identities for three variables: (x + y + z)² = x² + y² + z² + 2xy + 2yz + 2zx, and x³ + y³ + z³ - 3xyz = (x + y + z)(x² + y² + z² - xy - yz - zx).",
+    "Cube identities: (x + y)³ = x³ + 3x²y + 3xy² + y³ and (x - y)³ = x³ - 3x²y + 3xy² - y³; when x + y + z = 0, then x³ + y³ + z³ = 3xyz.",
+    "Algebraic identities are tools for expanding expressions, factorising polynomials, and simplifying computations without direct multiplication."
+  ]
+}

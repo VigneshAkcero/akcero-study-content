@@ -1,0 +1,206 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Measurement of Length and Motion",
+    "chapter_number": 5
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is the smallest unit of length mentioned in the story that can be measured using a 15-cm scale?",
+      "answer": "Millimetre (mm).",
+      "solution": "A 15-cm scale is typically divided into millimetres, which are 0.1 cm each."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Identify two body parts used for non-standard measurement mentioned in the textbook.",
+      "answer": "Handspan (balisht) and foot/stride.",
+      "solution": "The chapter lists handspan, arm-length, foot, and stride as units that vary between individuals."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Why did people adopt the International System of Units (SI units)?",
+      "answer": "To avoid confusion caused by measurements that differ from person to person.",
+      "solution": "Standard units ensure that a measurement of the same length remains the same value regardless of who takes it."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Which SI symbol represents the unit 'kilometre'?",
+      "answer": "km (in lowercase).",
+      "solution": "As per standard rules, unit symbols like km, m, cm, and mm are written in lowercase letters."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "True or False: A pendulum swinging to and fro is an example of rectilinear motion.",
+      "answer": "False.",
+      "solution": "To-and-fro motion about a fixed position is called oscillatory motion, not linear (rectilinear) motion."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "Convert a length of 2.5 kilometres into metres.",
+      "answer": "2500 metres.",
+      "solution": "1 km = 1000 m. Therefore, 2.5 km = 2.5 × 1000 m = 2500 m."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "A student measures a pencil starting from the 1.0 cm mark on a broken scale. The final reading is 7.5 cm. What is the actual length?",
+      "answer": "6.5 cm.",
+      "solution": "Actual length = Final reading - Initial reading = 7.5 cm - 1.0 cm = 6.5 cm."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "Explain the correct position of the eye while reading a scale.",
+      "answer": "Directly above the point where the measurement is being taken.",
+      "solution": "Positioning the eye directly above (Position B in the textbook) avoids parallax errors that occur when viewing from a side angle."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "How can you measure the length of a curved verandah arch using string lights?",
+      "answer": "By using a thread to trace the arch, then measuring the thread against a metre scale.",
+      "solution": "Since a straight scale cannot bend, a thread or flexible tape is used to capture the curved boundary first."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Define 'Reference point' with an example from the text.",
+      "answer": "A fixed object or point from which distance is measured; e.g., Delhi used as a reference for kilometre stones.",
+      "solution": "A fixed point allows for consistent observations of distance and motion regardless of the observer's location."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "A car is moving on a long, straight highway. What type of motion is this?",
+      "answer": "Linear (or rectilinear) motion.",
+      "solution": "Motion along a straight line path is called linear motion."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Hard",
+      "question": "Calculate the thickness of 10 identical coins in millimetres if each coin is 2.5 mm thick.",
+      "answer": "25 mm.",
+      "solution": "Total thickness = Number of coins × Thickness per coin = 10 × 2.5 mm = 25 mm."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "Compare the motion of a spinning merry-go-round and a vibrating metal strip.",
+      "answer": "The merry-go-round shows circular motion; the metal strip shows oscillatory motion.",
+      "solution": "Circular motion follows a round path; oscillatory motion moves to and fro about a fixed point."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "Why are circular and oscillatory motions both considered periodic nature?",
+      "answer": "Because they repeat their path after a fixed interval of time.",
+      "solution": "Periodic motion is any motion that repeats itself regularly, which both circular and to-and-fro paths do."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "A bicycle wheel of circumference 2 metres makes 50 full turns. Calculate the total distance covered.",
+      "answer": "100 metres.",
+      "solution": "Distance = Circumference × Number of turns = 2 m × 50 = 100 metres."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Hard",
+      "question": "Deepa's mother asks for 2 metres of cloth and also mentions 'char angula'. Explain why 'metre' is a better unit than 'angula'.",
+      "answer": "Because angula varies according to finger width, while a metre is a globally fixed standard.",
+      "solution": "Non-standard units like angula depend on the individual's size, making it inconsistent for commerce or science."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Match the units: (i) Delhi to Lucknow distance (ii) Coin thickness (iii) Eraser length.",
+      "answer": "(i) kilometre (ii) millimetre (iii) centimetre.",
+      "solution": "Appropriate units are chosen based on the size of the object: km for long distances, mm for small thickness, and cm for hand-held items."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "An object moves 5 cm from its reference point every second. Is it in motion or at rest? Explain.",
+      "answer": "In motion, because its position changes with respect to the reference point over time.",
+      "solution": "By definition, if position relative to a fixed point changes as time passes, the object is in motion."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Easy",
+      "question": "What ancient Indian units mentioned in the chapter used finger widths or distance metrics?",
+      "answer": "Angula, Dhanusa, and Yojana.",
+      "solution": "Ancient literature specifies these units, and archaeological scales found in Harappan sites verify their historical use."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "How many centimetres make one inch?",
+      "answer": "2.54 cm.",
+      "solution": "As per the 'Do you know?' section, 1 inch equals exactly 2.54 centimetres."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Suppose you are on a ship with no windows on a perfectly calm sea. Why can't you easily tell if it is moving?",
+      "answer": "Because there is no external reference point to compare your position change with.",
+      "solution": "Without a fixed reference point (like coastlines or stars), internal position doesn't change, making constant speed indistinguishable from rest."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "A roller-coaster ball moves in a straight line, then loops, then vibrates. Match the motions.",
+      "answer": "Straight: Linear; Loop: Circular; Vibrates: Oscillatory.",
+      "solution": "Objects can transition between different types of motion depending on their path constraints."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "Express 1 metre in millimetres using unit conversion rules.",
+      "answer": "1000 mm.",
+      "solution": "1 m = 100 cm and 1 cm = 10 mm. Thus, 1 m = 100 × 10 = 1000 mm."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Easy",
+      "question": "What is the standard abbreviation for half a kilometre?",
+      "answer": "0.5 km or 500 m.",
+      "solution": "Unit symbols like km and m allow for clear mathematical expressions of fractional distances."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Medium",
+      "question": "Why is a flexible measuring tape better than a metal rod for measuring a student's waist?",
+      "answer": "Because a flexible tape can follow the curved girth of the body.",
+      "solution": "Tailor's tapes are designed to wrap around curved surfaces which a rigid metal rod cannot do."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Explain how a 'Jones Counter' works based on the wheel rotation principle.",
+      "answer": "It counts the number of wheel turns to professionally measure distances of races.",
+      "solution": "Knowing the wheel's circumference and the number of turns allows for high-precision distance calculation."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Easy",
+      "question": "True or False: $1 \\mathrm { k m } = 1 0 0 \\mathrm { c m }$.",
+      "answer": "False.",
+      "solution": "1 km = 100,000 cm (1000 m × 100 cm/m). 1 m is what equals 100 cm."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Describe the motion of a stone tied to a thread and whirled in the air.",
+      "answer": "It follows a circular path, becoming an example of circular motion.",
+      "solution": "Whirling a weight on a string keeps it at a fixed distance from the hand, creating a circular trajectory."
+    }
+  ]
+}

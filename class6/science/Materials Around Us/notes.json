@@ -1,0 +1,197 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Materials Around Us",
+    "chapter_number": 6
+  },
+  "notes": [
+    {
+      "section_title": "Understanding Materials",
+      "topics": [
+        {
+          "topic_name": "Objects and Materials",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Any substance used to create an object is called a material. Common materials include paper, wood, metal, plastic, glass, and clay."
+            },
+            {
+              "type": "activity",
+              "id": "6.1",
+              "title": "Identifying Materials",
+              "procedure": [
+                "Observe objects around you and identify the materials they are made of."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Historical Context",
+              "text": "Pottery in India dates back 7,000-8,000 years (Lahuradewa, Mehrgarh). The Harappan Civilization (2600-1900 BCE) perfected wheel-turned pottery with red surfaces and black designs. Baked clay is called 'terracotta'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Classification and Properties",
+      "topics": [
+        {
+          "topic_name": "Classification",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Classification is the method of arranging objects into groups based on common properties. This helps in studying patterns and finding items easily."
+            },
+            {
+              "type": "activity",
+              "id": "6.2, 6.3 & 6.4",
+              "title": "Grouping and Purpose",
+              "procedure": [
+                "Group objects by shape, color, or material.",
+                "Observe how different balls bounce based on their material.",
+                "Think why a tumbler is made of glass/plastic and not cloth."
+              ],
+              "conclusion": "Material choice depends on properties and the intended purpose of the object."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Key Properties of Materials",
+      "topics": [
+        {
+          "topic_name": "Appearance and Hardness",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Lustre: Shiny surfaces, typically found in metals like gold, copper, and iron. Metals may look dull due to air/moisture."
+            },
+            {
+              "type": "paragraph",
+              "text": "Hardness: Hard materials are difficult to compress/scratch (e.g., stone, iron). Soft materials are easy to compress (e.g., sponge, rubber)."
+            },
+            {
+              "type": "activity",
+              "id": "6.5",
+              "title": "Feeling Materials",
+              "procedure": ["Touch objects to categorize them as hard or soft."]
+            }
+          ]
+        },
+        {
+          "topic_name": "Transparency",
+          "content": [
+            {
+              "type": "list",
+              "title": "Categories of Transparency",
+              "items": [
+                "Transparent: See clearly through (Glass, Water, Air).",
+                "Opaque: Cannot see through (Wood, Metals, Cardboard).",
+                "Translucent: See partially/hazy (Butter paper, Frosted glass)."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Solubility in Water",
+          "content": [
+            {
+              "type": "activity",
+              "id": "6.7",
+              "title": "Mixing in Water",
+              "procedure": [
+                "STIR: Sugar, Salt (Soluble - disappear).",
+                "STIR: Chalk powder, Sand, Sawdust (Insoluble - do not disappear)."
+              ],
+              "conclusion": "Materials that disappear are soluble; others are insoluble. Water dissolves many substances, which is vital for the human body and aquatic life (dissolved oxygen)."
+            },
+            {
+              "type": "note",
+              "title": "ORS (Oral Rehydration Solution)",
+              "text": "Made by mixing 6 teaspoons of sugar and 1/2 teaspoon of salt in 1 litre of boiled-cooled water. Used to treat dehydration."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Matter: Mass and Volume",
+      "topics": [
+        {
+          "topic_name": "Defining Matter",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Matter is anything that occupies space and has mass. Mass is the quantity of matter. Volume is the space occupied by matter."
+            },
+            {
+              "type": "activity",
+              "id": "6.8",
+              "title": "Measuring Mass",
+              "procedure": ["Weigh cups of water, sand, and pebbles to compare mass."]
+            }
+          ]
+        },
+        {
+          "topic_name": "Units and Measurements",
+          "content": [
+            {
+              "type": "table",
+              "headers": ["Property", "SI Unit", "Abbreviation", "Other Units"],
+              "rows": [
+                ["Mass", "kilogram", "kg", "gram (g)"],
+                ["Volume", "cubic metre", "m³", "litre (L), millilitre (mL)"]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "SI Rules",
+              "text": "Always leave a space between number and unit (e.g., 5 kg). Abbreviate litre as capital L and millilitre as mL."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Traditional Indian Categorization",
+      "topics": [
+        {
+          "topic_name": "Ayurvedic Gunas",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Ayurveda describes matter using 20 properties (gunas) arranged in 10 pairs of opposites. These describe physical matter, food, and living systems."
+            },
+            {
+              "type": "list",
+              "title": "Examples of Gunas",
+              "items": [
+                "Guru (Heavy) vs Laghu (Light)",
+                "Sheet (Cold) vs Ushna (Hot)",
+                "Kathina (Hard) vs Mridu (Soft)",
+                "Sthira (Stable) vs Chala (Moving)"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Material", "definition": "A substance used to make an object." },
+    { "term": "Lustre", "definition": "The shiny appearance of a material's surface." },
+    { "term": "Matter", "definition": "Anything that has mass and occupies space." },
+    { "term": "Classification", "definition": "The process of grouping objects based on common properties." },
+    { "term": "Translucent", "definition": "Material through which objects can be seen but not clearly." },
+    { "term": "Soluble", "definition": "Capable of being dissolved in a liquid (like water)." }
+  ],
+  "summary_points": [
+    "Objects are made of one or more materials chosen based on their properties.",
+    "Materials are classified by appearance (lustre), hardness, transparency, and solubility.",
+    "Anything with mass and volume is matter.",
+    "SI units include kg for mass and m³ for volume (often mL/L for liquids).",
+    "Ancient systems like Ayurveda classified matter using 20 opposite properties (gunas)."
+  ]
+}

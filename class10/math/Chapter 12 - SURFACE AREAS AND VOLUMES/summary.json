@@ -1,0 +1,28 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Surface Areas and Volumes",
+    "chapter_number": 12
+  },
+  "summary": [
+    {
+      "category": "Surface Area of Combinations",
+      "points": [
+        "A combination of solids is formed by joining two or more basic solids (cylinder, cone, hemisphere, sphere, cube, cuboid). When calculating total surface area (TSA), only exposed surfaces are counted; surfaces where solids are joined are excluded. Common combinations include: cylinder with hemispheres at both ends (TSA = 2πrh + 4πr²); cone on cylinder with exposed base (TSA = πrl + 2πrh + πr²); hemisphere on cube (TSA = cube surfaces + hemisphere curved surface, adjusted for the joined area)."
+      ]
+    },
+    {
+      "category": "Volume of Combinations",
+      "points": [
+        "The volume of a combination of solids equals the sum of the volumes of all component solids: V_total = V₁ + V₂ + ... No volume is excluded or deducted when solids are joined. For example: cylinder with hemisphere on top has V = πr²h + (2/3)πr³; cylinder with hemispherical depression has V = πr²h − (2/3)πr³. The key principle is that volumes are always additive regardless of arrangement."
+      ]
+    },
+    {
+      "category": "Problem-Solving and Applications",
+      "points": [
+        "Systematic approach: (1) Identify all component solids in the combination. (2) Calculate exposed surface area or total volume for each component using standard formulas. (3) For surface area, exclude joined surfaces; for volume, add all components. (4) Apply unit conversions when needed (1 m³ = 1000 litres = 10⁶ cm³). Real-world applications include paint requirements (surface area), storage capacity (volume), material estimation, and engineering design optimization. Drawing clear diagrams is essential for accurate problem-solving."
+      ]
+    }
+  ]
+}

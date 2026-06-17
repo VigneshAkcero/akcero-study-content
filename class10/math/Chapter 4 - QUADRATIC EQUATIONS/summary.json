@@ -1,0 +1,42 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Quadratic Equations",
+    "chapter_number": 4
+  },
+  "summary": [
+    {
+      "category": "Definition and Standard Form",
+      "points": [
+        "A quadratic equation in variable x is of the form ax² + bx + c = 0, where a, b, c are real numbers and a ≠ 0.",
+        "The term 'quadratic' refers to the degree 2 (the highest power of x). If a = 0 after simplification, the equation is linear, not quadratic.",
+        "Many real-life situations (dimensions, motion, profit, age) are modeled as quadratic equations."
+      ]
+    },
+    {
+      "category": "Solving by Factorisation",
+      "points": [
+        "The factorisation method expresses the quadratic as a product of two linear factors, then sets each factor to zero and solves.",
+        "The middle term splitting technique (finding two numbers whose product is ac and sum is b) helps factorise the quadratic expression.",
+        "If factorisation is not easily possible, the quadratic formula is used instead."
+      ]
+    },
+    {
+      "category": "Quadratic Formula and Discriminant",
+      "points": [
+        "The quadratic formula is x = [-b ± √(b² - 4ac)] / (2a), which gives the roots of any quadratic equation.",
+        "The discriminant Δ = b² - 4ac determines the nature of roots: if Δ > 0, two distinct real roots; if Δ = 0, two equal real roots; if Δ < 0, no real roots.",
+        "The discriminant also has geometric significance: it determines whether the parabola y = ax² + bx + c intersects the x-axis at two points, one point, or not at all."
+      ]
+    },
+    {
+      "category": "Applications and Problem-Solving",
+      "points": [
+        "Word problems involving two unknowns are translated into quadratic equations by defining variables and setting up equations based on given conditions.",
+        "Both roots obtained from solving must be verified for contextual validity; negative lengths, negative ages, or impossible values must be rejected.",
+        "Common applications include finding dimensions of rectangles, determining ages, solving geometry problems involving circles and triangles, and optimizing profit and cost."
+      ]
+    }
+  ]
+}

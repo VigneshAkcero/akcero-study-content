@@ -1,0 +1,38 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Life Processes",
+    "chapter_number": 5
+  },
+  "summary": [
+    {
+      "category": "Nutrition",
+      "points": [
+        "Autotrophs like green plants use light and chlorophyll to synthesize energy-rich carbohydrates through photosynthesis.",
+        "Heterotrophs, including humans, ingest complex food broken down by biological catalysts called enzymes like amylase and pepsin."
+      ]
+    },
+    {
+      "category": "Respiration",
+      "points": [
+        "Cells release energy by breaking down glucose into ATP through aerobic (with oxygen) or anaerobic (without oxygen) pathways.",
+        "Human respiration is facilitated by the massive surface area of alveoli where oxygen and carbon dioxide are exchanged."
+      ]
+    },
+    {
+      "category": "Transportation",
+      "points": [
+        "The human heart drives a system of double circulation through arteries, veins, and capillaries to deliver nutrients and remove wastes.",
+        "Plants transport water and minerals via xylem using transpiration pull, while phloem translocates products of photosynthesis using energy."
+      ]
+    },
+    {
+      "category": "Excretion",
+      "points": [
+        "Metabolic nitrogenous wastes are removed from the blood by kidneys through massive filtration and selective reabsorption in nephrons.",
+        "Plants excrete through diverse methods such as transpiration, storing waste in vacuoles or dead tissues, and shedding leaves."
+      ]
+    }
+  ]
+}

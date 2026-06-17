@@ -1,0 +1,42 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Light – Reflection and Refraction",
+    "chapter_number": 9
+  },
+  "flashcards": [
+    { "q": "What is reflection of light?", "a": "The bouncing back of light rays into the same medium when they strike a polished or shiny surface." },
+    { "q": "State the two laws of reflection.", "a": "(1) Angle of incidence = Angle of reflection; (2) Incident ray, reflected ray, and normal at the point of incidence all lie in the same plane." },
+    { "q": "What is a spherical mirror?", "a": "A mirror whose reflecting surface forms part of the surface of a hollow sphere." },
+    { "q": "Define the 'Pole' (P) of a spherical mirror.", "a": "The geometric centre of the reflecting surface of the mirror." },
+    { "q": "What is the 'Centre of Curvature' (C) of a spherical mirror?", "a": "The centre of the sphere of which the reflecting surface of the mirror forms a part." },
+    { "q": "Define the 'Principal Axis' of a spherical mirror.", "a": "The straight line passing through the pole and the centre of curvature of the mirror." },
+    { "q": "What is the 'Aperture' of a spherical mirror?", "a": "The diameter of the circular outline of the reflecting surface." },
+    { "q": "Define the 'Principal Focus' (F) of a concave mirror.", "a": "The point on the principal axis where rays parallel to the axis actually meet after reflection." },
+    { "q": "Define 'Focal Length' (f) of a spherical mirror.", "a": "The distance between the pole and the principal focus of the mirror." },
+    { "q": "What is the relationship between Radius of Curvature (R) and Focal Length (f)?", "a": "R = 2f (For mirrors with small apertures)." },
+    { "q": "List two common uses of concave mirrors.", "a": "Torch reflectors, vehicle headlights, shaving mirrors, and dentist mirrors." },
+    { "q": "Why are convex mirrors used as rear-view mirrors in vehicles?", "a": "They always give an erect, diminished image and provide a wider field of view." },
+    { "q": "What does a negative sign in magnification (m) signify?", "a": "The image is real and inverted." },
+    { "q": "What does a positive sign in magnification (m) signify?", "a": "The image is virtual and erect." },
+    { "q": "State the Mirror Formula.", "a": "1/v + 1/u = 1/f" },
+    { "q": "Define Refraction of light.", "a": "The bending of light as it passes obliquely from one transparent medium to another due to a change in speed." },
+    { "q": "What is Snell's Law of refraction?", "a": "The ratio of the sine of the angle of incidence to the sine of the angle of refraction is a constant (sin i / sin r = n)." },
+    { "q": "What is the 'Refractive Index'?", "a": "The ratio of the speed of light in vacuum (or medium 1) to its speed in a given medium (or medium 2)." },
+    { "q": "What is the absolute refractive index of a medium?", "a": "n_m = c / v (where c is speed of light in vacuum and v is speed in the medium)." },
+    { "q": "Define 'Optical Density'.", "a": "The measure of a medium's ability to refract light; higher refractive index means higher optical density." },
+    { "q": "What is a lens?", "a": "A transparent material bound by two surfaces, at least one of which is spherical." },
+    { "q": "Define a 'Convex Lens'.", "a": "A lens thicker at the middle than at the edges; also called a converging lens." },
+    { "q": "Define a 'Concave Lens'.", "a": "A lens thinner at the middle than at the edges; also called a diverging lens." },
+    { "q": "Define 'Optical Centre' (O) of a lens.", "a": "The central point of the lens through which light passes without any deviation." },
+    { "q": "State the Lens Formula.", "a": "1/v - 1/u = 1/f" },
+    { "q": "What is the 'Power' of a lens?", "a": "The degree of convergence or divergence of light rays; it is the reciprocal of the focal length (P = 1/f)." },
+    { "q": "Name the SI unit of power of a lens.", "a": "Dioptre (D)." },
+    { "q": "Define 1 Dioptre.", "a": "The power of a lens whose focal length is exactly 1 metre." },
+    { "q": "What is the sign of power for a convex lens?", "a": "Positive (+)." },
+    { "q": "What is the sign of power for a concave lens?", "a": "Negative (-)." },
+    { "q": "What happens to the speed of light when it enters an optically denser medium?", "a": "Its speed decreases." },
+    { "q": "How is net power (P) calculated for lenses in contact?", "a": "By taking the algebraic sum of individual powers: P = P1 + P2 + P3 + ..." }
+  ]
+}

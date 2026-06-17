@@ -1,0 +1,141 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Temperature and its Measurement",
+    "chapter_number": 7
+  },
+  "notes": [
+    {
+      "section_title": "Understanding Hotness and Coldness",
+      "topics": [
+        {
+          "topic_name": "Limitations of Sense of Touch",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Our sense of touch is subjective. For example, if you dip one hand in warm water and another in ice-cold water, and then both in tap water, each hand will perceive the tap water temperature differently. Thus, touch is not a reliable measure of hotness or coldness."
+            },
+            {
+              "type": "activity",
+              "title": "Activity 7.1: Testing Sense of Touch",
+              "content": "Using three containers (Warm, Tap, and Ice-cold), this activity proves that the SAME water can feel both cool and warm simultaneously to different hands."
+            }
+          ]
+        },
+        {
+          "topic_name": "Temperature and Thermometers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Temperature is a reliable measure of the hotness or coldness of a body. A thermometer is the device used for this measurement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Types of Thermometers",
+      "topics": [
+        {
+          "topic_name": "Clinical Thermometers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Used to measure human body temperature. Types include: 1) Mercury (toxic, traditional), 2) Digital (uses heat sensors, safer), and 3) Infrared (non-contact, measures from a distance)."
+            },
+            {
+              "type": "note",
+              "title": "Clinical Range",
+              "text": "Human body temperature normally stays between 35\u00b0C and 42\u00b0C."
+            }
+          ]
+        },
+        {
+          "topic_name": "Laboratory Thermometers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Composed of a long glass tube with a bulb containing alcohol or mercury. They have a wider range (-10\u00b0C to 110\u00b0C)."
+            },
+            {
+              "type": "example",
+              "title": "Example 1",
+              "description": "If a laboratory thermometer has 10 small divisions between 0\u00b0C and 10\u00b0C, find the value of one small division.",
+              "solution": "1) Identify the difference between marks: 10\u00b0C - 0\u00b0C = 10\u00b0C.\n2) Count the number of divisions: 10.\n3) Calculate (Difference \u00f7 Divisions): 10 \u00f7 10 = 1\u00b0C.\nEach small division reads 1\u00b0C."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Temperature Scales and Units",
+      "topics": [
+        {
+          "topic_name": "Measurement Scales",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "1) Celsius Scale (\u00b0C): Most common for clinical/daily use. Normal body temp = 37.0\u00b0C.\n2) Fahrenheit Scale (\u00b0F): Normal body temp = 98.6\u00b0F.\n3) Kelvin Scale (K): The SI unit of temperature. It has no degree (\u00b0) sign."
+            },
+            {
+              "type": "example",
+              "title": "Example 2",
+              "description": "Convert a normal human body temperature of 37\u00b0C into the Kelvin scale.",
+              "solution": "Formula: Temp in K = Temp in \u00b0C + 273.15.\nCalculation: 37 + 273.15 = 310.15 K.\nThe temperature is 310.15 K."
+            },
+            {
+              "type": "example",
+              "title": "Example 3",
+              "description": "Komal mentions she has a '101 degree' fever. On which scale is she likely measuring, and why?",
+              "solution": "She is using the Fahrenheit scale (\u00b0F). On the Celsius scale, body temperature does not go above 42\u00b0C. A reading of 101\u00b0C would be boiling water temperature, which is impossible for a human body."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Practical Thermometry",
+      "topics": [
+        {
+          "topic_name": "Precautions and Protocol",
+          "content": [
+            {
+              "type": "activity",
+              "title": "Measuring with Lab Thermometer",
+              "content": "Keep the thermometer vertical. Bulb must not touch sides/bottom of container. Read while immersed. Eye level must align with the liquid column top."
+            },
+            {
+              "type": "note",
+              "title": "Thermal Constants",
+              "text": "Water temperature remains constant at 100\u00b0C while boiling and at 0\u00b0C (ice) while melting."
+            }
+          ]
+        },
+        {
+          "topic_name": "Absolute Zero and Extreme Temps",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Lowest possible temperature is -273.15\u00b0C (0 K), called Absolute Zero. The Sun's core can reach 15 million \u00b0C; there is no upper limit to temperature."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Thermometer", "definition": "A device used to measure temperature accurately." },
+    { "term": "Celsius", "definition": "A scale where 37.0 is normal body temperature." },
+    { "term": "Absolute Zero", "definition": "The lowest possible theoretical temperature (-273.15\u00b0C)." },
+    { "term": "Kelvin (K)", "definition": "The SI unit of temperature." },
+    { "term": "Infrared Thermometer", "definition": "A non-contact device that measures temperature from a distance." }
+  ],
+  "summary_points": [
+    "Temperature provides a reliable measure of hotness/coldness (unlike sense of touch).",
+    "Clinical thermometers measure body temp (35\u00b0C to 42\u00b0C); Normal is ~37.0\u00b0C.",
+    "Laboratory thermometers measure wider ranges (-10\u00b0C to 110\u00b0C) and must be read while immersed.",
+    "SI unit of temperature is Kelvin (K). Conversion: K = \u00b0C + 273.15.",
+    "Anna Mani was an eminent Indian meteorologist known for her work on weather instruments."
+  ]
+}

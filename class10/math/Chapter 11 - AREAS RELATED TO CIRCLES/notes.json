@@ -1,0 +1,291 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Areas Related to Circles",
+    "chapter_number": 11
+  },
+  "notes": [
+    {
+      "section_title": "11.1 Areas of Sector and Segment of a Circle",
+      "topics": [
+        {
+          "topic_name": "Introduction to Sectors and Segments",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A circle can be divided into regions by radii and chords. Understanding the areas of these regions is important in many practical applications such as designing circular lawns, sectors of land, and portions of circular surfaces."
+            },
+            {
+              "type": "note",
+              "title": "Sector Definition",
+              "text": "A sector of a circle is the region enclosed by two radii and the arc connecting them. It resembles a 'pie slice'. The angle formed by the two radii at the center is called the angle of the sector."
+            },
+            {
+              "type": "note",
+              "title": "Segment Definition",
+              "text": "A segment of a circle is the region enclosed by a chord and the arc subtended by the chord. It is the portion of the circle that lies on one side of the chord."
+            },
+            {
+              "type": "paragraph",
+              "text": "Every chord divides a circle into two segments: the minor segment (smaller part) and the major segment (larger part). Similarly, every pair of radii creates two sectors: the minor sector and the major sector. Unless specified otherwise, 'sector' and 'segment' refer to the minor versions."
+            }
+          ]
+        },
+        {
+          "topic_name": "Derivation of Area of a Sector",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To find the area of a sector with angle θ (in degrees) and radius r, we use the unitary method. The entire circle can be considered as a sector with angle 360°."
+            },
+            {
+              "type": "paragraph",
+              "text": "When the angle is 360°, the area equals πr². Therefore, when the angle is 1°, the area is πr²/360. When the angle is θ degrees, the area is θ/360 × πr²."
+            },
+            {
+              "type": "note",
+              "title": "Area of a Sector Formula",
+              "text": "For a circle with radius r and sector angle θ (in degrees): Area of sector = (θ/360) × πr². This formula shows that the area is directly proportional to the angle of the sector."
+            },
+            {
+              "type": "example",
+              "id": "sector1",
+              "title": "Example 1: Finding Sector Area",
+              "problem": "Find the area of a sector with radius 6 cm and angle 60°.",
+              "solution": "Using the formula: Area = (60/360) × π × 6² = (1/6) × π × 36 = 6π cm². If π ≈ 3.14, then Area ≈ 18.84 cm²."
+            }
+          ]
+        },
+        {
+          "topic_name": "Arc Length of a Sector",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Just as the area of a sector is a fraction of the circle's total area, the arc length is a fraction of the circle's circumference. The entire circle has circumference 2πr."
+            },
+            {
+              "type": "note",
+              "title": "Arc Length Formula",
+              "text": "For a circle with radius r and sector angle θ (in degrees): Length of arc = (θ/360) × 2πr = (θ × πr)/180. This can also be written as (θ/360) × 2πr."
+            },
+            {
+              "type": "example",
+              "id": "arc1",
+              "title": "Example 2: Finding Arc Length",
+              "problem": "A minute hand of a clock has length 10 cm. Find the arc length swept by it in 15 minutes.",
+              "solution": "In 15 minutes, the minute hand sweeps an angle of (15/60) × 360° = 90°. Using arc length formula: Arc length = (90/360) × 2π × 10 = (1/4) × 20π = 5π cm ≈ 15.7 cm."
+            }
+          ]
+        },
+        {
+          "topic_name": "Area of a Segment",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The area of a segment is not immediately given by a simple formula. Instead, we calculate it by finding the difference between the area of the sector and the area of the triangle formed by the two radii and the chord."
+            },
+            {
+              "type": "note",
+              "title": "Area of Segment Formula",
+              "text": "Area of segment = Area of sector − Area of triangle formed by the two radii and the chord. Mathematically: Area of segment = (θ/360) × πr² − (1/2) × r² × sin θ, where θ is in degrees."
+            },
+            {
+              "type": "paragraph",
+              "text": "The triangular portion is an isosceles triangle with two sides equal to the radius r and the angle between them equal to θ. The area of this triangle is (1/2) × r² × sin θ when θ is in degrees (or we can use (1/2)r²sin(θ × π/180) if θ is given in degrees but we need to convert)."
+            },
+            {
+              "type": "example",
+              "id": "seg1",
+              "title": "Example 3: Finding Segment Area",
+              "problem": "Find the area of a segment of a circle with radius 7 cm and sector angle 60°.",
+              "solution": "Area of sector = (60/360) × π × 7² = (1/6) × π × 49 = 49π/6 cm². For the triangle, we need sin 60° = √3/2. Area of triangle = (1/2) × 7² × sin 60° = (1/2) × 49 × (√3/2) = (49√3)/4 cm². Area of segment = 49π/6 − 49√3/4 = 49(π/6 − √3/4) cm²."
+            }
+          ]
+        },
+        {
+          "topic_name": "Major Sector and Major Segment",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "For any minor sector with angle θ, the major sector has angle (360° − θ). Similarly, the major segment corresponds to the major sector."
+            },
+            {
+              "type": "list",
+              "title": "Relationships for Major Regions",
+              "items": [
+                "Area of major sector = πr² − Area of minor sector",
+                "Area of major segment = πr² − Area of minor segment",
+                "Angle of major sector = 360° − Angle of minor sector"
+              ]
+            },
+            {
+              "type": "example",
+              "id": "major1",
+              "title": "Example 4: Major Sector Area",
+              "problem": "If the minor sector has area 20 cm² and the radius is 5 cm, find the area of the major sector.",
+              "solution": "Area of circle = πr² = π × 25 ≈ 78.5 cm². Area of major sector = 78.5 − 20 = 58.5 cm²."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "11.2 Applications to Real-World Problems",
+      "topics": [
+        {
+          "topic_name": "Practical Applications of Sector and Segment Areas",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The formulas for sector and segment areas are applied in many real-world scenarios. Understanding these helps in solving practical geometry problems."
+            },
+            {
+              "type": "list",
+              "title": "Common Applications",
+              "items": [
+                "Circular field design: Finding the area of a sector-shaped field for agricultural planning.",
+                "Clock hands: Calculating the area swept by clock hands in specified time periods.",
+                "Architectural design: Designing circular arches, domes, and other curved structures.",
+                "Landscaping: Planning gardens with circular sections and determining areas for different plantings.",
+                "Engineering: Designing gears, wheels, and other circular mechanical components.",
+                "Navigation: Calculating sectors of circles for pie charts, radar displays, and map projections."
+              ]
+            },
+            {
+              "type": "example",
+              "id": "app1",
+              "title": "Example 5: Horse Grazing Problem",
+              "problem": "A horse is tethered to a corner of a square field of side 30 m with a rope of length 10 m. Find the area it can graze.",
+              "solution": "The horse can graze in a sector of a circle with radius 10 m and angle 90° (since it's at a corner of the square). Area = (90/360) × π × 10² = (1/4) × 100π = 25π m² ≈ 78.5 m²."
+            },
+            {
+              "type": "example",
+              "id": "app2",
+              "title": "Example 6: Lighthouse Problem",
+              "problem": "A lighthouse spreads red light over a sector of angle 80° to a distance of 16.5 km. Find the area of sea covered by the light.",
+              "solution": "Area = (80/360) × π × (16.5)² = (2/9) × π × 272.25 ≈ 189.97 km²."
+            }
+          ]
+        },
+        {
+          "topic_name": "Strategies for Complex Problems",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When solving complex problems involving multiple sectors, segments, or combinations of shapes, a systematic approach is essential."
+            },
+            {
+              "type": "list",
+              "title": "Problem-Solving Strategy",
+              "items": [
+                "Draw a clear diagram labeling all given information and unknown quantities.",
+                "Identify all sectors, segments, or combinations involved.",
+                "Break complex regions into simpler shapes (sectors, triangles, etc.).",
+                "Apply appropriate formulas for each component.",
+                "Combine results, being careful about whether to add or subtract areas.",
+                "Verify your answer makes sense in the context."
+              ]
+            },
+            {
+              "type": "example",
+              "id": "complex1",
+              "title": "Example 7: Overlapping Sectors",
+              "problem": "Two sectors of a circle with radius 5 cm have angles 45° and 60°. If they overlap in a sector of angle 15°, find the total area covered.",
+              "solution": "Area of first sector = (45/360) × π × 25 = (1/8) × 25π. Area of second sector = (60/360) × π × 25 = (1/6) × 25π. Area of overlap = (15/360) × π × 25 = (1/24) × 25π. Total area = (1/8) × 25π + (1/6) × 25π − (1/24) × 25π = 25π(1/8 + 1/6 − 1/24) = 25π(3/24 + 4/24 − 1/24) = 25π(6/24) = 25π/4 cm²."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "11.3 Key Formulas Summary",
+      "topics": [
+        {
+          "topic_name": "Formula Reference",
+          "content": [
+            {
+              "type": "table",
+              "headers": ["Quantity", "Formula", "Where"],
+              "rows": [
+                ["Area of circle", "πr²", "r = radius"],
+                ["Circumference of circle", "2πr", "r = radius"],
+                ["Area of sector", "(θ/360) × πr²", "θ = angle in degrees, r = radius"],
+                ["Arc length", "(θ/360) × 2πr", "θ = angle in degrees, r = radius"],
+                ["Area of triangle (isosceles)", "(1/2)r² sin θ", "r = radius, θ = angle between radii"],
+                ["Area of segment", "Area of sector − Area of triangle", "Segment = Sector − Triangle"],
+                ["Area of major sector", "πr² − Area of minor sector", "For regions with angle > 180°"],
+                ["Area of major segment", "πr² − Area of minor segment", "For regions with chord closer to center"]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sector",
+      "definition": "A region of a circle enclosed by two radii and the arc connecting them; resembles a pie slice."
+    },
+    {
+      "term": "Segment",
+      "definition": "A region of a circle enclosed by a chord and the arc subtending the chord."
+    },
+    {
+      "term": "Angle of Sector",
+      "definition": "The angle formed by the two radii at the center of the circle that define the sector."
+    },
+    {
+      "term": "Minor Sector",
+      "definition": "The smaller of the two sectors created when a circle is divided by two radii; has angle less than 180°."
+    },
+    {
+      "term": "Major Sector",
+      "definition": "The larger of the two sectors created when a circle is divided by two radii; has angle greater than 180°."
+    },
+    {
+      "term": "Minor Segment",
+      "definition": "The smaller of the two segments created when a chord divides the circle; lies on the side of the shorter arc."
+    },
+    {
+      "term": "Major Segment",
+      "definition": "The larger of the two segments created when a chord divides the circle; lies on the side of the longer arc."
+    },
+    {
+      "term": "Arc",
+      "definition": "A portion of the circumference of a circle between two points."
+    },
+    {
+      "term": "Chord",
+      "definition": "A straight line segment joining two points on the circle."
+    },
+    {
+      "term": "Radius",
+      "definition": "The distance from the center of the circle to any point on the circle."
+    },
+    {
+      "term": "Arc Length",
+      "definition": "The length of a curved portion of the circle's circumference."
+    },
+    {
+      "term": "Isosceles Triangle",
+      "definition": "A triangle with two equal sides; in the context of sectors, formed by two radii and a chord."
+    },
+    {
+      "term": "Circumference",
+      "definition": "The total perimeter of a circle, equal to 2πr."
+    },
+    {
+      "term": "Degree Measure",
+      "definition": "The measure of an angle where a full circle = 360°."
+    }
+  ],
+  "summary_points": [
+    "A sector is a pie-shaped region bounded by two radii and an arc. A segment is a region bounded by a chord and an arc. Both have minor (smaller) and major (larger) versions. The area of a minor sector with angle θ (in degrees) and radius r is (θ/360) × πr², and the arc length is (θ/360) × 2πr.",
+    "The area of a segment equals the area of its corresponding sector minus the area of the isosceles triangle formed by the two radii and the chord. For a sector angle θ and radius r: Area of segment = (θ/360) × πr² − (1/2)r² sin θ, where sin θ must be calculated for θ in degrees.",
+    "Major sectors and segments can be found by subtracting the minor versions from the total circle area (πr²). The angle of a major sector is 360° minus the angle of the minor sector. A full understanding of the relationships between these quantities is essential for solving real-world problems.",
+    "Practical applications include calculating grazing areas for tethered animals, designing circular architectural elements, determining areas swept by clock hands or radar beams, and planning circular garden sections. Problem-solving requires drawing clear diagrams, identifying component shapes, and systematically applying formulas.",
+    "Key insight: The ratio of the sector area to the total circle area equals the ratio of the sector angle to 360°. This proportionality relationship holds for arc lengths as well: (sector angle/360°) = (sector area/total area) = (arc length/circumference)."
+  ]
+}

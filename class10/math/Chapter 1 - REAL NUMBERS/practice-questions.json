@@ -1,0 +1,290 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Real Numbers",
+    "chapter_number": 1
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Apply Euclid's Division Algorithm to find the quotient and remainder when 455 is divided by 12. Express the result in the form a = bq + r.",
+      "answer": "455 = 12 × 37 + 11, where q = 37 and r = 11",
+      "solution": "Using Euclid's Division Algorithm: a = bq + r where 0 ≤ r < b. Here a = 455, b = 12. Dividing: 455 ÷ 12 = 37.9166... So q = 37. Checking: 12 × 37 = 444. Remainder r = 455 - 444 = 11. Verification: 0 ≤ 11 < 12 ✓. Therefore, 455 = 12 × 37 + 11."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "State Euclid's Division Algorithm formally and explain what each term (a, b, q, r) represents.",
+      "answer": "If a and b are positive integers with b ≠ 0, then there exist unique integers q and r such that a = bq + r, where 0 ≤ r < b.",
+      "solution": "Euclid's Division Algorithm: a = bq + r, where: a = dividend (the number being divided), b = divisor (the number dividing a), q = quotient (the result of division), r = remainder (leftover after division), with the constraint 0 ≤ r < b. This algorithm is based on the long division process and guarantees unique values of q and r for any two positive integers a and b with b ≠ 0."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Find HCF(96, 404) using Euclid's Division Algorithm step by step.",
+      "answer": "HCF(96, 404) = 4",
+      "solution": "Step 1: 404 = 96 × 4 + 20. So HCF(404, 96) = HCF(96, 20).\nStep 2: 96 = 20 × 4 + 16. So HCF(96, 20) = HCF(20, 16).\nStep 3: 20 = 16 × 1 + 4. So HCF(20, 16) = HCF(16, 4).\nStep 4: 16 = 4 × 4 + 0. So HCF(16, 4) = 4.\nTherefore, HCF(96, 404) = 4."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Find HCF(867, 255) using Euclid's Division Algorithm.",
+      "answer": "HCF(867, 255) = 51",
+      "solution": "Step 1: 867 = 255 × 3 + 102. HCF(867, 255) = HCF(255, 102).\nStep 2: 255 = 102 × 2 + 51. HCF(255, 102) = HCF(102, 51).\nStep 3: 102 = 51 × 2 + 0. HCF(102, 51) = 51.\nTherefore, HCF(867, 255) = 51."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Write the complete prime factorisation of 32760.",
+      "answer": "32760 = 2³ × 3² × 5 × 7 × 13",
+      "solution": "Using prime factorisation (factor tree or repeated division): 32760 = 2 × 16380 = 2 × 2 × 8190 = 2 × 2 × 2 × 4095 = 2³ × 4095. Now 4095 = 3 × 1365 = 3 × 3 × 455 = 3² × 455. Then 455 = 5 × 91 = 5 × 7 × 13. Therefore, 32760 = 2³ × 3² × 5 × 7 × 13."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Express 360 as a product of its prime factors in standard form.",
+      "answer": "360 = 2³ × 3² × 5",
+      "solution": "360 = 2 × 180 = 2 × 2 × 90 = 2 × 2 × 2 × 45 = 2³ × 45. Then 45 = 9 × 5 = 3² × 5. Therefore, 360 = 2³ × 3² × 5."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "State the Fundamental Theorem of Arithmetic.",
+      "answer": "Every composite number can be expressed as a product of prime numbers in a unique way, except for the order of the prime factors.",
+      "solution": "The Fundamental Theorem of Arithmetic asserts that: (i) Every composite number (positive integer > 1 that is not prime) can be written as a product of primes. (ii) This prime factorisation is unique—there is exactly one way to express a composite number as a product of primes (ignoring order). Mathematically: n = p₁^a₁ × p₂^a₂ × ... × pₖ^aₖ, where p₁ < p₂ < ... < pₖ are primes and a₁, a₂, ..., aₖ are positive integers. This uniqueness is the key insight that makes the theorem fundamental."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "State Theorem 1.2 about prime divisibility.",
+      "answer": "If p is a prime number and p divides a², then p divides a.",
+      "solution": "Theorem 1.2: Let p be a prime number. If p divides a² (where a is a positive integer), then p divides a. Proof sketch: By the Fundamental Theorem of Arithmetic, if p divides a², then p must be one of the prime factors of a². Since prime factorisation is unique and the primes in a² are exactly those in a (with doubled exponents), p must also be a prime factor of a, so p divides a."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Identify which of the following numbers are rational and which are irrational: (i) π (ii) 7/11 (iii) √2 (iv) 0.5 (v) 0.101001001000...",
+      "answer": "(i) Irrational, (ii) Rational, (iii) Irrational, (iv) Rational, (v) Irrational",
+      "solution": "(i) π cannot be expressed as p/q, so it's irrational. (ii) 7/11 is in the form p/q, so it's rational. (iii) √2 cannot be expressed as p/q (proven later), so it's irrational. (iv) 0.5 = 1/2, so it's rational. (v) 0.101001001000... is non-terminating and non-repeating, so it's irrational."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Define an irrational number. Give three examples of irrational numbers.",
+      "answer": "An irrational number is a real number that cannot be expressed as p/q where p and q are integers with q ≠ 0. Examples: π, √2, √3 (or e, √5, √7, etc.)",
+      "solution": "Definition: A number is irrational if it cannot be written in the form p/q (p, q integers, q ≠ 0). Irrational numbers have non-terminating, non-repeating decimal expansions. Examples: π ≈ 3.14159..., √2 ≈ 1.41421..., √3 ≈ 1.73205..., e ≈ 2.71828... (or any √p where p is a non-perfect-square prime)."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Find HCF(6, 20) and LCM(6, 20) using prime factorisation, then verify that HCF × LCM = product of the numbers.",
+      "answer": "HCF = 2, LCM = 60; Verification: 2 × 60 = 120 = 6 × 20",
+      "solution": "Prime factorisation: 6 = 2 × 3, 20 = 2² × 5. HCF (lowest powers of common factors): 2¹ = 2. LCM (highest powers of all factors): 2² × 3 × 5 = 4 × 3 × 5 = 60. Verification: HCF × LCM = 2 × 60 = 120. Also, 6 × 20 = 120. ✓"
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Find HCF(96, 404) and LCM(96, 404) using prime factorisation.",
+      "answer": "HCF = 4, LCM = 9696",
+      "solution": "Prime factorisation: 96 = 2⁵ × 3, 404 = 2² × 101. HCF (lowest powers of common factors): 2² = 4. LCM (highest powers of all factors): 2⁵ × 3 × 101 = 32 × 3 × 101 = 9696. Verification: 4 × 9696 = 38784 = 96 × 404. ✓"
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Can 4ⁿ (for any natural number n) ever end with the digit 0? Justify using the Fundamental Theorem of Arithmetic.",
+      "answer": "No, 4ⁿ can never end with the digit 0",
+      "solution": "A number ends with 0 if and only if it is divisible by 10 = 2 × 5, meaning it must have both 2 and 5 as prime factors. For 4ⁿ: 4ⁿ = (2²)ⁿ = 2²ⁿ. The only prime factor is 2; 5 never appears in the prime factorisation. By the uniqueness part of the Fundamental Theorem of Arithmetic, 4ⁿ cannot be divisible by 10. Therefore, 4ⁿ can never end with 0 for any natural number n."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Can 6ⁿ ever end with the digit 0? Use prime factorisation to justify.",
+      "answer": "No, 6ⁿ can never end with 0",
+      "solution": "6ⁿ = (2 × 3)ⁿ = 2ⁿ × 3ⁿ. The prime factors are only 2 and 3; 5 never appears. Since 6ⁿ is never divisible by 10 (which requires both 2 and 5), it can never end with 0."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Explain why 20ⁿ always ends with at least one zero, and determine how many zeros 20ⁿ ends with.",
+      "answer": "20ⁿ ends with exactly n zeros",
+      "solution": "20ⁿ = (2² × 5)ⁿ = 2²ⁿ × 5ⁿ. Number of factors of 10 = min(2n, n) = n. Therefore, 20ⁿ = 10ⁿ × 2ⁿ, which ends with exactly n zeros. For example: 20¹ = 20 (1 zero), 20² = 400 (2 zeros), 20³ = 8000 (3 zeros)."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Determine whether √2 is rational or irrational. Outline the proof strategy.",
+      "answer": "√2 is irrational; proof uses contradiction and Theorem 1.2",
+      "solution": "Assume √2 = p/q where p, q are coprime integers. Then 2q² = p², so p² is divisible by 2. By Theorem 1.2, p is divisible by 2, so p = 2k. Substituting: 2q² = 4k², giving q² = 2k². So q² is divisible by 2, meaning q is divisible by 2. But then both p and q are divisible by 2, contradicting that they are coprime. Therefore, √2 cannot be rational, so √2 is irrational."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Prove that √3 is irrational using the same method as for √2.",
+      "answer": "√3 is irrational; proof by contradiction using Theorem 1.2 with prime 3",
+      "solution": "Assume √3 = p/q where p, q are coprime. Squaring: 3q² = p². So p² is divisible by 3. By Theorem 1.2 (with prime 3), p is divisible by 3, so p = 3m. Then 3q² = 9m², giving q² = 3m². So q² is divisible by 3, meaning q is divisible by 3. But then both p and q are divisible by 3, contradicting coprimality. Therefore, √3 is irrational."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Prove that 5 - √3 is irrational.",
+      "answer": "5 - √3 is irrational; proof by contradiction",
+      "solution": "Assume 5 - √3 is rational. Then 5 - √3 = p/q for some integers p, q. Rearranging: √3 = 5 - p/q = (5q - p)/q. Since p, q are integers, (5q - p)/q is rational. But this would mean √3 is rational, contradicting that √3 is irrational. Therefore, 5 - √3 must be irrational."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Prove that 3√2 is irrational.",
+      "answer": "3√2 is irrational; proof by contradiction",
+      "solution": "Assume 3√2 is rational. Then 3√2 = p/q for some integers p, q. Rearranging: √2 = p/(3q). Since p and 3q are integers, p/(3q) is rational. But this means √2 is rational, contradicting that √2 is irrational. Therefore, 3√2 is irrational."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Determine whether 7/8 has a terminating or non-terminating decimal expansion. Justify.",
+      "answer": "7/8 has a terminating decimal expansion",
+      "solution": "Write 8 in its prime factorisation: 8 = 2³. Since 8 has only 2 as a prime factor (no factors of 5), the fraction 7/8 has a terminating decimal expansion. The number of decimal places = max(3, 0) = 3. Converting: 7/8 = 0.875."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "Determine whether 1/6 has a terminating or non-terminating decimal expansion. If non-terminating, is it repeating?",
+      "answer": "1/6 has a non-terminating repeating decimal expansion",
+      "solution": "Prime factorisation of 6: 6 = 2 × 3. Since 3 is a prime factor other than 2 or 5, the fraction 1/6 has a non-terminating repeating decimal: 1/6 = 0.1666... = 0.1̄6̄."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "Determine the nature of the decimal expansion of 17/40 and find its decimal form.",
+      "answer": "17/40 has a terminating decimal expansion: 0.425",
+      "solution": "Prime factorisation of 40: 40 = 2³ × 5¹. Both 2 and 5 appear, so the decimal terminates. Number of decimal places = max(3, 1) = 3. Converting: 17/40 = 0.425 (3 decimal places)."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "Determine the nature of the decimal expansion of 5/6 (terminating or repeating) and explain why.",
+      "answer": "5/6 has a non-terminating repeating decimal expansion",
+      "solution": "Prime factorisation of 6: 6 = 2 × 3. Since 3 (a prime other than 2 and 5) divides the denominator, the decimal is non-terminating and repeating: 5/6 = 0.8333... = 0.8̄3̄."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "For a fraction p/q in lowest terms, state the condition for a terminating decimal expansion and explain why this condition works.",
+      "answer": "Denominator q has only 2 and/or 5 as prime factors",
+      "solution": "A decimal terminates if we can write it as a/10ⁿ for some integers a and n. This is possible if and only if q divides 10ⁿ for some n. Since 10 = 2 × 5, the only prime factors of 10ⁿ are 2 and 5. Therefore, q must have only 2 and/or 5 as prime factors. If q has any other prime factor (like 3, 7, 11), the denominator can never divide a power of 10, resulting in a repeating decimal."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Prove using Euclid's Division Algorithm that if a divides b and b divides c, then a divides c.",
+      "answer": "Transitivity of divisibility is proven using definitions",
+      "solution": "If a divides b, then b = aq for some integer q. If b divides c, then c = br for some integer r. Substituting: c = (aq)r = a(qr). Since q and r are integers, qr is an integer. Therefore, c = a × (qr), meaning a divides c. This shows divisibility is transitive."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "If HCF(a, b) = 5 and a = 25, find all possible values of b.",
+      "answer": "b must be a multiple of 5 but not a multiple of 25; b = 5k where k is not divisible by 5",
+      "solution": "If HCF(a, b) = 5 with a = 25, then: (i) 5 divides both a and b. (ii) 5 is the largest common divisor. Since a = 25 = 5², any common divisor must divide 25, so it's from {1, 5, 25}. For HCF to be exactly 5 (not 25), b cannot be divisible by 25. Therefore, b = 5k where k is any positive integer not divisible by 5. Examples: b ∈ {5, 10, 15, 20, 30, 35, ...} but not {25, 50, 75, ...}."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Explain why every even perfect square is divisible by 4 using prime factorisation.",
+      "answer": "If n is even, n = 2m, so n² = 4m², making it divisible by 4",
+      "solution": "If n is even, then n = 2k for some integer k. Squaring: n² = (2k)² = 4k². This shows n² is divisible by 4. Alternatively, using prime factorisation: if n is even, then 2 is a prime factor of n. When we square n, the exponent of 2 doubles. So if 2¹ divides n, then 2² divides n². Therefore, n² is always divisible by 4."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Prove that √6 is irrational without using direct division like √2.",
+      "answer": "Assume √6 = p/q coprime, then 6q² = p², but prime factorisation leads to contradiction",
+      "solution": "Assume √6 = p/q where p, q are coprime. Squaring: 6q² = p². So 6 divides p², meaning 2 and 3 both divide p². By Theorem 1.2, both 2 and 3 divide p. So p = 2 × 3 × m = 6m. Then 6q² = 36m², giving q² = 6m². So 6 divides q², meaning both 2 and 3 divide q. But then both p and q are divisible by 6, contradicting coprimality. Therefore, √6 is irrational."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "If n is odd, prove that n² is also odd using Euclid's Division Algorithm and the Fundamental Theorem of Arithmetic concepts.",
+      "answer": "If n is odd, n has no factor of 2, so n² also has no factor of 2, making it odd",
+      "solution": "If n is odd, then n is not divisible by 2. In terms of prime factorisation, 2 does not appear in the prime factorisation of n. When we square n, we square each prime factor's exponent, but no new primes are introduced. Therefore, 2 still does not appear in the prime factorisation of n². This means n² is not divisible by 2, so n² is odd. Alternatively: n = 2k + 1 (odd), so n² = (2k + 1)² = 4k² + 4k + 1 = 2(2k² + 2k) + 1, which is odd."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Prove that the sum of a rational and an irrational number is always irrational.",
+      "answer": "Proof by contradiction: if sum were rational, subtraction would make irrational rational",
+      "solution": "Let r be a rational number and i be an irrational number. Assume r + i = s for some rational number s. Then i = s - r. Since both s and r are rational, their difference s - r is also rational (closure of rationals under subtraction). But this means i is rational, contradicting that i is irrational. Therefore, r + i must be irrational."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "Prove that the product of a non-zero rational number and an irrational number is irrational.",
+      "answer": "Proof by contradiction: if product were rational, division would make irrational rational",
+      "solution": "Let r ≠ 0 be rational and i be irrational. Assume r × i = p for some rational number p. Then i = p/r. Since r ≠ 0 and both p and r are rational, the quotient p/r is also rational (closure of non-zero rationals under division). But this means i is rational, contradicting that i is irrational. Therefore, r × i must be irrational."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "Show that √2 + √3 is irrational. (Hint: Assume it's rational and use proof by contradiction.)",
+      "answer": "√2 + √3 is irrational; assumption leads to √6 being rational, a contradiction",
+      "solution": "Assume √2 + √3 = r for some rational r. Then √3 = r - √2. Squaring: 3 = r² - 2r√2 + 2 = (r² + 2) - 2r√2. Rearranging: 2r√2 = r² + 2 - 3 = r² - 1. So √2 = (r² - 1)/(2r). Since r is rational and r ≠ 0 (if r = 0, then √3 = -√2, which is impossible), the right side is rational. This would mean √2 is rational, a contradiction. Therefore, √2 + √3 is irrational."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "Explain why √p is irrational for any prime number p, using a generalised version of the proof for √2.",
+      "answer": "For prime p: assume √p = a/b coprime, then p divides a² implies p divides a, leading to contradiction",
+      "solution": "For any prime p, assume √p = a/b where a, b are coprime. Squaring: pb² = a². So p divides a². By Theorem 1.2 (which holds for any prime), p divides a. So a = pk. Then pb² = p²k², giving b² = pk². So p divides b². Again by Theorem 1.2, p divides b. But then both a and b are divisible by p, contradicting that they are coprime. Therefore, √p is irrational for any prime p."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "Given that HCF(a, b) = 12, express a and b in terms of their prime factorisation and find constraints on their other factors.",
+      "answer": "Both a and b must have 2² × 3 as factors; HCF is their common part",
+      "solution": "If HCF(a, b) = 12 = 2² × 3, then: (i) Both a and b have at least 2² and 3¹ in their prime factorisation. (ii) a = 2² × 3 × k₁ and b = 2² × 3 × k₂, where k₁ and k₂ are coprime positive integers (no common prime factors except 1). (iii) The HCF takes the lowest powers of all common primes: if both had 2³, the HCF would include 2³, not 2². Therefore, at least one must have exactly 2². This constraint ensures HCF(a,b) = 2² × 3 = 12."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "If a = 2⁴ × 3² × 5 and b = 2² × 3³ × 7, find HCF(a,b) and LCM(a,b), then verify the relationship HCF × LCM = a × b.",
+      "answer": "HCF = 2² × 3² = 36, LCM = 2⁴ × 3³ × 5 × 7 = 15120, HCF × LCM = a × b = 544320",
+      "solution": "HCF (lowest powers of common primes): 2² × 3² = 4 × 9 = 36. LCM (highest powers of all primes): 2⁴ × 3³ × 5 × 7 = 16 × 27 × 5 × 7 = 15120. Verification: a = 2⁴ × 3² × 5 = 16 × 9 × 5 = 720. b = 2² × 3³ × 7 = 4 × 27 × 7 = 756. a × b = 720 × 756 = 544320. HCF × LCM = 36 × 15120 = 544320. ✓"
+    },
+    {
+      "id": "q36",
+      "difficulty": "Hard",
+      "question": "Determine the decimal expansion type for the following fractions and justify: (i) 3/16 (ii) 7/12 (iii) 13/30",
+      "answer": "(i) Terminating (3 decimal places), (ii) Non-terminating repeating, (iii) Non-terminating repeating",
+      "solution": "(i) 16 = 2⁴, so 3/16 terminates. Decimal places = 4. 3/16 = 0.1875. (ii) 12 = 2² × 3, has prime 3, so non-terminating repeating. 7/12 = 0.58333... (iii) 30 = 2 × 3 × 5, has prime 3, so non-terminating repeating. 13/30 = 0.4333..."
+    },
+    {
+      "id": "q37",
+      "difficulty": "Hard",
+      "question": "For which fractions with denominator 60 will the decimal expansion terminate? Find the condition on the numerator.",
+      "answer": "No fraction with denominator 60 in lowest terms has a terminating decimal",
+      "solution": "60 = 2² × 3 × 5. For a decimal to terminate, the denominator must have only 2 and/or 5 as prime factors. Since 3 divides 60, any fraction a/60 in lowest terms either: (i) Has denominator 60 (with a coprime to 60), meaning 3 still divides the denominator, so non-terminating repeating. (ii) Reduces to a form where the denominator has 3, so still non-terminating repeating. Therefore, no fraction p/60 in lowest terms has a terminating decimal expansion."
+    },
+    {
+      "id": "q38",
+      "difficulty": "Hard",
+      "question": "Prove that 7 × 11 × 13 + 13 is a composite number without computing the exact value.",
+      "answer": "7 × 11 × 13 + 13 = 13(7 × 11 + 1) = 13 × 78, which is composite",
+      "solution": "Factor: 7 × 11 × 13 + 13 = 13(7 × 11 + 1) = 13 × 78. Since both 13 and 78 are greater than 1, the number 13 × 78 is composite (it has 13 and 78 as factors other than 1 and itself). Notably, 78 = 2 × 3 × 13, so the factorisation is 13² × 2 × 3."
+    },
+    {
+      "id": "q39",
+      "difficulty": "Hard",
+      "question": "Explain why 7 × 6 × 5 × 4 × 3 × 2 × 1 + 5 must be composite.",
+      "answer": "The expression equals 5(7 × 6 × 4 × 3 × 2 × 1 + 1), making 5 a factor, so it's composite",
+      "solution": "Factor: 7 × 6 × 5 × 4 × 3 × 2 × 1 + 5 = 5(7 × 6 × 4 × 3 × 2 × 1 + 1). Let k = 7 × 6 × 4 × 3 × 2 × 1 + 1. Then the number equals 5k. For this to be prime, we'd need k = 1, giving 5. But k = (7 × 6 × 4 × 3 × 2 × 1) + 1 = 1008 + 1 = 1009 ≠ 1. Since both 5 and k are greater than 1, the number is composite."
+    },
+    {
+      "id": "q40",
+      "difficulty": "Hard",
+      "question": "Show that if HCF(a,b) = 1 (a and b are coprime) and a divides bc, then a divides c.",
+      "answer": "Since a divides bc and HCF(a,b) = 1, prime factorisation shows a must divide c",
+      "solution": "Since a divides bc, we have bc = am for some integer m. Since HCF(a,b) = 1, a and b share no common prime factors. All prime factors of a must come from c (since bc = am and a's factors must appear in am, but not in b). Therefore, if p is a prime factor of a with exponent k, then p appears with exponent k in bc. Since b and a are coprime, p doesn't divide b significantly (exponent 0), so p^k must divide c. This holds for all prime factors of a, so a divides c."
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Electricity",
+    "chapter_number": 11
+  },
+  "notes": [
+    {
+      "section_title": "11.1 Electric Current and Circuit",
+      "topics": [
+        {
+          "topic_name": "Introduction to Current",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Electric current is the rate of flow of electric charges. In metallic conductors, it is the flow of electrons. Conventionally, current direction is opposite to the direction of electron flow (from positive to negative terminal)."
+            },
+            {
+              "type": "formula",
+              "equation": "I = Q/t",
+              "description": "Where I is current, Q is net charge, and t is time."
+            },
+            {
+              "type": "note",
+              "title": "SI Unit of Charge and Current",
+              "text": "The SI unit of charge is Coulomb (C). One electron has a charge of 1.6 x 10^-19 C. The SI unit of current is Ampere (A). 1 A = 1 C/s."
+            },
+            {
+              "type": "example",
+              "id": "11.1",
+              "text": "A current of 0.5 A is drawn by a filament of an electric bulb for 10 minutes. The amount of charge that flows through the circuit is Q = I x t = 0.5 A x 600 s = 300 C."
+            }
+          ]
+        },
+        {
+          "topic_name": "Electric Circuit",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "An electric circuit is a continuous and closed path for electric current. A switch provides the conducting link between the source (cell/battery) and the component (bulb)."
+            },
+            {
+              "type": "note",
+              "title": "Ammeter",
+              "text": "An instrument used to measure electric current. It is always connected in 'series' in a circuit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "11.2 Electric Potential and Potential Difference",
+      "topics": [
+        {
+          "topic_name": "Potential Difference (V)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Electric potential difference between two points is defined as the work done to move a unit charge from one point to the other."
+            },
+            {
+              "type": "formula",
+              "equation": "V = W/Q",
+              "description": "Where V is potential difference, W is work done, and Q is charge."
+            },
+            {
+              "type": "note",
+              "title": "SI Unit of Potential Difference",
+              "text": "The SI unit is Volt (V). 1 V is defined as 1 Joule of work done to move 1 Coulomb of charge (1 V = 1 J/C)."
+            },
+            {
+              "type": "example",
+              "id": "11.2",
+              "text": "Work done in moving a charge of 2 C across points with a potential difference of 12 V is W = V x Q = 12 V x 2 C = 24 J."
+            },
+            {
+              "type": "note",
+              "title": "Voltmeter",
+              "text": "An instrument used to measure potential difference. It is always connected in 'parallel' across the points."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "11.4 Ohm's Law",
+      "topics": [
+        {
+          "topic_name": "The Law",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Ohm's law states that the potential difference (V) across the ends of a metallic wire in an electric circuit is directly proportional to the current (I) flowing through it, provided its temperature remains constant."
+            },
+            {
+              "type": "formula",
+              "equation": "V = IR",
+              "description": "Where R is a constant called resistance."
+            },
+            {
+              "type": "activity",
+              "id": "11.1",
+              "title": "Verifying Ohm's Law",
+              "procedure": [
+                "Set up a circuit with a nichrome wire, an ammeter, a voltmeter, and four cells of 1.5 V each.",
+                "Note ammeter (I) and voltmeter (V) readings for 1, 2, 3, and 4 cells.",
+                "Plot a V-I graph; observe it is a straight line passing through the origin.",
+                "Calculate V/I ratio for each case; it remains constant."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Resistance (R)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Resistance is the property of a conductor to resist the flow of charges. Its SI unit is ohm (Ω). 1 Ω = 1 V / 1 A."
+            },
+            {
+              "type": "list",
+              "title": "Key Points",
+              "items": [
+                "Current is inversely proportional to resistance (if V is constant).",
+                "Variable resistance (Rheostat) is used to regulate current without changing the voltage source."
+              ]
+            },
+            {
+              "type": "activity",
+              "id": "11.2",
+              "title": "Current in Different Components",
+              "procedure": [
+                "Connect a nichrome wire, a torch bulb, and a 10 W bulb in the gap XY of a circuit one by one.",
+                "Observe that ammeter readings are different, indicating different resistances."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "11.5 Factors on which Resistance Depends",
+      "topics": [
+        {
+          "topic_name": "Dependence Factors",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The resistance of a uniform metallic conductor is directly proportional to its length (l), inversely proportional to its area of cross-section (A), and depends on the nature of the material."
+            },
+            {
+              "type": "formula",
+              "equation": "R = ρ(l/A)",
+              "description": "Where ρ (rho) is electrical resistivity."
+            },
+            {
+              "type": "activity",
+              "id": "11.3",
+              "title": "Factors Affecting Resistance",
+              "procedure": [
+                "Using nichrome wires: double the length, current halves; use thicker wire, current increases.",
+                "Use a copper wire of same l and A; current changes compared to nichrome."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Resistivity (ρ)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Resistivity is a characteristic property of the material. Metals and alloys have low resistivity (10^-8 to 10^-6 Ωm), while insulators have high resistivity (10^12 to 10^17 Ωm)."
+            },
+            {
+              "type": "list",
+              "title": "Applications of Resistivity",
+              "items": [
+                "Alloys have higher resistivity and don't oxidize readily at high temperatures (used in heating devices like irons).",
+                "Tungsten is used for bulb filaments due to high melting point.",
+                "Copper and aluminum are used for transmission lines due to low resistivity."
+              ]
+            },
+            {
+              "type": "example",
+              "id": "11.4",
+              "text": "A heater draws 4 A at 60 V (R = 15 Ω). At 120 V, it will draw I = V/R = 120/15 = 8 A."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "11.6 Resistance of a System of Resistors",
+      "topics": [
+        {
+          "topic_name": "Resistors in Series",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In series, resistors are joined end to end. The current remains the same through each resistor, while the total potential difference is the sum of individual potential differences."
+            },
+            {
+              "type": "formula",
+              "equation": "Rs = R1 + R2 + R3",
+              "description": "Equivalent resistance is greater than any individual resistance."
+            },
+            {
+              "type": "activity",
+              "id": "11.5",
+              "title": "Potential Difference in Series",
+              "procedure": [
+                "Connect three resistors in series with a voltmeter across individual resistors and across the whole combination.",
+                "Observe that V = V1 + V2 + V3."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Resistors in Parallel",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In parallel, resistors are connected between the same two points. The potential difference remains the same across each, while the total current is the sum of currents in branches."
+            },
+            {
+              "type": "formula",
+              "equation": "1/Rp = 1/R1 + 1/R2 + 1/R3",
+              "description": "Equivalent resistance is less than the smallest individual resistance."
+            },
+            {
+              "type": "activity",
+              "id": "11.6",
+              "title": "Current in Parallel Branches",
+              "procedure": [
+                "Connect ammeters in branch paths and main path; observe I = I1 + I2 + I3."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Advantages of Parallel Circuit",
+              "text": "It divides current according to needs of gadgets, and a failure in one component doesn't break the entire circuit (unlike series)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "11.7 Heating Effect of Electric Current",
+      "topics": [
+        {
+          "topic_name": "Joule's Law of Heating",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Energy expended by a source to maintain current is dissipated as heat in a resistor."
+            },
+            {
+              "type": "formula",
+              "equation": "H = I^2 Rt",
+              "description": "Heat produced is directly proportional to square of current, resistance, and time."
+            },
+            {
+              "type": "example",
+              "id": "11.11",
+              "text": "100 J of heat is produced each second in a 4 Ω resistor. I = sqrt(H/Rt) = sqrt(100/4) = 5 A. Potential difference V = IR = 20 V."
+            }
+          ]
+        },
+        {
+          "topic_name": "Practical Applications",
+          "content": [
+            {
+              "type": "list",
+              "title": "Uses of Heating Effect",
+              "items": [
+                "Electric Iron, Toaster, Heater, Kettle.",
+                "Electric Bulb: Tungsten filament emits light at high temperatures (filled with nitrogen/argon).",
+                "Electric Fuse: Safety device melts and breaks the circuit during high current (placed in series)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "11.8 Electric Power",
+      "topics": [
+        {
+          "topic_name": "Definition and Units",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Electric power is the rate at which electric energy is dissipated or consumed."
+            },
+            {
+              "type": "formula",
+              "equation": "P = VI = I^2 R = V^2/R",
+              "description": "The SI unit is watt (W). 1 W = 1 V x 1 A."
+            },
+            {
+              "type": "note",
+              "title": "Electrical Energy",
+              "text": "Commercial unit is kilowatt hour (kWh) or 'unit'. 1 kWh = 3.6 x 10^6 J."
+            },
+            {
+              "type": "example",
+              "id": "11.13",
+              "text": "A 400 W refrigerator operates 8 hr/day for 30 days. Energy = 400 x 8 x 30 = 96 kWh. At Rs 3/unit, cost = 96 x 3 = Rs 288."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Electric Current", "definition": "The rate of flow of electric charges through a conductor." },
+    { "term": "Electric Circuit", "definition": "A continuous and closed path of an electric current." },
+    { "term": "Potential Difference", "definition": "Work done to move a unit charge from one point to another in an electric circuit." },
+    { "term": "Ohm's Law", "definition": "V = IR; states that potential difference is proportional to current at constant temperature." },
+    { "term": "Resistance", "definition": "The property of a conductor to resist the flow of charges through it." },
+    { "term": "Resistivity", "definition": "A characteristic property of a material measuring its opposition to current flow." },
+    { "term": "Joule's Law of Heating", "definition": "H = I^2Rt; relates heat produced in a resistor to current, resistance, and time." },
+    { "term": "Electric Power", "definition": "The rate at which electric energy is consumed or dissipated." },
+    { "term": "Electric Fuse", "definition": "A safety device that melts and breaks the circuit to prevent damage from excessive current." }
+  ],
+  "summary_points": [
+    "A flow of electrons constitutes electric current; its SI unit is Ampere (A).",
+    "Potential difference (measured in Volts) is required to set electrons in motion.",
+    "Ohm's Law (V = IR) defines the linear relationship between voltage and current for a conductor.",
+    "Resistance depends on length, cross-sectional area, and nature of the material (Resistivity).",
+    "Equivalent resistance in series is the sum of resistances; in parallel, it is the sum of reciprocals.",
+    "Joule's heating effect (H = I^2Rt) is used in appliances like irons, bulbs, and fuses.",
+    "Electrical power (P = VI) is measured in watts; the commercial unit of energy is kWh."
+  ]
+}

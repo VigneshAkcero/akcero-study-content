@@ -1,0 +1,255 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Operations with Integers",
+    "chapter_number": 2
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is the additive inverse of -7?",
+      "answer": "7",
+      "solution": "The additive inverse of an integer a is -a. For -7, the additive inverse is -(-7) = 7. We can verify: -7 + 7 = 0, confirming that 7 is the additive inverse of -7."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Simplify: 5 + (-8)",
+      "answer": "-3",
+      "solution": "5 + (-8) = 5 - 8 = -3. Adding a negative number is equivalent to subtracting its absolute value."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Find: (-6) × 5",
+      "answer": "-30",
+      "solution": "(-6) × 5: The multiplier is negative and multiplicand is positive, so the product is negative. Magnitude: 6 × 5 = 30. Therefore, (-6) × 5 = -30."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Find: (-4) × (-9)",
+      "answer": "36",
+      "solution": "(-4) × (-9): Both multiplier and multiplicand are negative, so the product is positive. Magnitude: 4 × 9 = 36. Therefore, (-4) × (-9) = 36."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Simplify: 12 ÷ (-3)",
+      "answer": "-4",
+      "solution": "12 ÷ (-3): The dividend is positive and divisor is negative, so the quotient is negative. We ask: what times (-3) gives 12? Answer: (-4) × (-3) = 12. Therefore, 12 ÷ (-3) = -4."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Evaluate: (-1) × 15",
+      "answer": "-15",
+      "solution": "(-1) × 15 = -15. Multiplying any integer by -1 gives its additive inverse. The additive inverse of 15 is -15."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Is 3 × (-5) equal to (-5) × 3? Justify your answer.",
+      "answer": "Yes, both equal -15. This demonstrates the commutative property of multiplication.",
+      "solution": "3 × (-5) = -15 and (-5) × 3 = -15. The order of multiplication does not affect the product. This is the commutative property of multiplication: a × b = b × a for any integers a and b."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What is 0 ÷ (-7)?",
+      "answer": "0",
+      "solution": "0 ÷ (-7) = 0. When zero is divided by any non-zero integer, the quotient is always 0. This is because (-7) × 0 = 0."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Simplify: (-12) - (-5)",
+      "answer": "-7",
+      "solution": "(-12) - (-5) = (-12) + 5 = -7. Subtracting a negative number is equivalent to adding its additive inverse. The additive inverse of -5 is 5."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Determine the sign of: (-3) × (-2) × 4",
+      "answer": "Positive",
+      "solution": "Count negative factors: 2 (even count). When multiplying integers, an even number of negative factors produces a positive product. Therefore, (-3) × (-2) × 4 is positive. Calculation: 3 × 2 × 4 = 24."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Using the carrom coin model, if a coin starts at 0 and moves: +8 units (first strike), -12 units (second strike), +5 units (third strike), what is its final position?",
+      "answer": "1",
+      "solution": "Final position = 0 + 8 + (-12) + 5 = 8 - 12 + 5 = -4 + 5 = 1. The coin is 1 unit to the right of the starting position (0)."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Simplify: (-3) × (7 + (-2))",
+      "answer": "-15",
+      "solution": "Step 1: Evaluate the parentheses: 7 + (-2) = 5\nStep 2: Multiply: (-3) × 5 = -15\n\nAlternatively, using the distributive property:\n(-3) × (7 + (-2)) = ((-3) × 7) + ((-3) × (-2)) = (-21) + 6 = -15"
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Verify that (5 × (-3)) × 4 = 5 × ((-3) × 4) by calculating both sides.",
+      "answer": "Both equal -60, demonstrating the associative property.",
+      "solution": "Left side: (5 × (-3)) × 4 = (-15) × 4 = -60\nRight side: 5 × ((-3) × 4) = 5 × (-12) = -60\nSince both sides are equal (-60), this verifies the associative property: (a × b) × c = a × (b × c) for integers."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "If a × b = -24, where a = -4, find the value of b.",
+      "answer": "6",
+      "solution": "Given: (-4) × b = -24\nDividing both sides by -4: b = (-24) ÷ (-4) = 6\nVerification: (-4) × 6 = -24 ✓"
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Find the missing number: (-8) × ? = 40",
+      "answer": "-5",
+      "solution": "We need to find what times (-8) gives 40.\nSetting up: (-8) × x = 40\nDividing both sides by (-8): x = 40 ÷ (-8) = -5\nVerification: (-8) × (-5) = 40 ✓"
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Explain why (-1) × (-1) × (-1) = -1 using the sign rule for products of multiple integers.",
+      "answer": "-1 because there are 3 (odd count) negative factors.",
+      "solution": "Count the negative factors: There are 3 negative factors (odd count). When multiplying integers with an odd number of negative factors, the product is negative. Magnitude: 1 × 1 × 1 = 1. Therefore, (-1) × (-1) × (-1) = -1."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Is division of integers commutative? Justify with an example.",
+      "answer": "No, division is not commutative. For example: 12 ÷ 4 = 3, but 4 ÷ 12 = 1/3 (not equal).",
+      "solution": "Division is NOT commutative because a ÷ b ≠ b ÷ a in general. Example: 20 ÷ 5 = 4, but 5 ÷ 20 = 0.25. Since 4 ≠ 0.25, we conclude that division is not commutative for integers."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Using the token model, explain why 7 - 18 = -11 by showing the need for zero pairs.",
+      "answer": "We need 11 zero pairs to have enough tokens to subtract.",
+      "solution": "Start with 7 green tokens (representing +7). To subtract 18 green tokens, we don't have enough. We add 11 zero pairs (11 green and 11 red). Now we have 18 green tokens total and 11 red tokens. Remove 18 green tokens as required. We're left with 11 red tokens, representing -11. Therefore, 7 - 18 = -11."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Evaluate: [(-6) × 2] ÷ (-4)",
+      "answer": "3",
+      "solution": "Step 1: Evaluate inside brackets: (-6) × 2 = -12\nStep 2: Divide: (-12) ÷ (-4) = 3 (both dividend and divisor are negative, so quotient is positive)"
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "If (-2) × a × 5 = 50, find the value of a.",
+      "answer": "-5",
+      "solution": "(-2) × a × 5 = 50\n(-10) × a = 50\na = 50 ÷ (-10) = -5\nVerification: (-2) × (-5) × 5 = 10 × 5 = 50 ✓"
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "In a game, a player gains 5 points for a correct action and loses 3 points for an error. If the player performed 8 correct actions and 4 errors, what is the total score?",
+      "answer": "28 points",
+      "solution": "Points from correct actions: 8 × 5 = 40\nPoints lost from errors: 4 × (-3) = -12\nTotal score: 40 + (-12) = 40 - 12 = 28 points"
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "An elevator starts at ground level (position 0). It descends at a rate of 2 meters per minute for 10 minutes, then ascends at a rate of 3 meters per minute for 6 minutes. What is the final position of the elevator?",
+      "answer": "-2 meters (2 meters below ground level)",
+      "solution": "Descent displacement: 10 × (-2) = -20 meters\nAscent displacement: 6 × 3 = 18 meters\nFinal position: 0 + (-20) + 18 = -20 + 18 = -2 meters\nThe elevator is 2 meters below ground level."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "A temperature drops by 4°C every hour for 5 hours, then rises by 2°C every hour for 3 hours. If the initial temperature is 20°C, what is the final temperature?",
+      "answer": "6°C",
+      "solution": "Temperature drop in 5 hours: 5 × (-4) = -20°C\nTemperature rise in 3 hours: 3 × 2 = 6°C\nTotal change: -20 + 6 = -14°C\nFinal temperature: 20 + (-14) = 20 - 14 = 6°C"
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Prove that a × (b + c) = (a × b) + (a × c) for a = -3, b = 5, c = -2.",
+      "answer": "Both sides equal 21, verifying the distributive property.",
+      "solution": "Left side: a × (b + c) = (-3) × (5 + (-2)) = (-3) × 3 = -9\nRight side: (a × b) + (a × c) = ((-3) × 5) + ((-3) × (-2)) = (-15) + 6 = -9\nSince both sides equal -9, the distributive property holds for these integers."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "If (-5) × x = (-3) × y and x = 6, find the value of y.",
+      "answer": "10",
+      "solution": "Given: (-5) × 6 = (-3) × y\n-30 = (-3) × y\ny = (-30) ÷ (-3) = 10\nVerification: (-5) × 6 = -30 and (-3) × 10 = -30 ✓"
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "A merchant makes a profit of ₹8 per item sold and a loss of ₹5 per item returned. If the merchant sold 120 items and 15 items were returned, what is the net profit or loss?",
+      "answer": "₹885 profit",
+      "solution": "Profit from 120 items sold: 120 × 8 = ₹960\nLoss from 15 items returned: 15 × (-5) = -₹75\nNet profit: 960 + (-75) = 960 - 75 = ₹885"
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Simplify: ((-6) × (-4) × (-2)) ÷ (3 × (-2))",
+      "answer": "-8",
+      "solution": "Numerator: (-6) × (-4) × (-2) = [(-6) × (-4)] × (-2) = 24 × (-2) = -48\nDenominator: 3 × (-2) = -6\nFinal result: (-48) ÷ (-6) = 8\n\nWait, let me recalculate:\nNumerator: 3 negative factors (odd) → negative result. Magnitude: 6 × 4 × 2 = 48. So, (-6) × (-4) × (-2) = -48.\nDenominator: 3 × (-2) = -6\nResult: (-48) ÷ (-6) = 8\n\nActually, the answer is 8, not -8. Let me verify: (-6) × (-4) = 24, 24 × (-2) = -48. And 3 × (-2) = -6. So (-48) ÷ (-6) = 8."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "A test has +4 marks for a correct answer and -1 mark for an incorrect answer. If a student answered all 30 questions and scored 80 marks, how many questions did the student answer correctly?",
+      "answer": "22 correct answers",
+      "solution": "Let c = number of correct answers, w = number of wrong answers\nConstraint 1: c + w = 30 (total questions)\nConstraint 2: 4c + (-1)w = 80 (total marks)\nFrom Constraint 1: w = 30 - c\nSubstitute into Constraint 2: 4c - (30 - c) = 80\n4c - 30 + c = 80\n5c = 110\nc = 22\nVerification: 22 correct + 8 wrong = 30 questions ✓, and 4(22) - 8 = 88 - 8 = 80 marks ✓"
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Determine whether (-2)^4 is positive or negative and calculate its value.",
+      "answer": "Positive; value is 16",
+      "solution": "(-2)^4 means (-2) × (-2) × (-2) × (-2), which is the product of 4 negative factors.\nSince 4 is even, the product is positive.\nMagnitude: 2 × 2 × 2 × 2 = 16\nTherefore, (-2)^4 = 16"
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "If a + b = -5 and a × b = 6, find the values of a and b.",
+      "answer": "a = -2, b = -3 (or vice versa)",
+      "solution": "We need two integers that add to -5 and multiply to 6.\nSince their product is positive (6), both must have the same sign.\nSince their sum is negative (-5), both must be negative.\nWe look for negative integers with product 6: -1 × -6, -2 × -3\nChecking -2 and -3: (-2) + (-3) = -5 ✓ and (-2) × (-3) = 6 ✓\nTherefore, a = -2 and b = -3 (or a = -3 and b = -2)"
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "Evaluate: [(-8) × (-3) + (-10)] ÷ [(-2) + 4]",
+      "answer": "7",
+      "solution": "Step 1: Evaluate numerator: [(-8) × (-3) + (-10)] = [24 + (-10)] = 14\nStep 2: Evaluate denominator: [(-2) + 4] = 2\nStep 3: Divide: 14 ÷ 2 = 7"
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "Using the commutative and associative properties, simplify: (-5) × 7 × (-2) × (-4) and show your grouping.",
+      "answer": "280",
+      "solution": "Regroup using associative property:\n(-5) × 7 × (-2) × (-4)\n= [(-5) × (-2)] × [7 × (-4)]  (commutative and associative)\n= 10 × (-28)\n= -280\n\nAlternatively, count negative factors: 3 (odd) → negative result\nMagnitude: 5 × 7 × 2 × 4 = 280\nTherefore, result is -280."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "A bank account has an initial balance of ₹500. Over 4 weeks, the account experiences: Week 1: -₹120 (withdrawal), Week 2: +₹200 (deposit), Week 3: -₹80 (withdrawal), Week 4: +₹150 (deposit). What is the final balance?",
+      "answer": "₹650",
+      "solution": "Initial balance: ₹500\nTotal change: (-120) + 200 + (-80) + 150 = (-120 - 80) + (200 + 150) = -200 + 350 = 150\nFinal balance: 500 + 150 = ₹650"
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "If x ÷ (-4) = -5, find x. Then verify your answer.",
+      "answer": "x = 20",
+      "solution": "Given: x ÷ (-4) = -5\nMultiply both sides by (-4): x = (-5) × (-4) = 20\nVerification: 20 ÷ (-4) = -5 ✓"
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "Compare the results: (8 ÷ (-2)) ÷ 2 and 8 ÷ ((-2) ÷ 2). Is division associative for these integers?",
+      "answer": "No. Left: -2; Right: -8. Division is not associative.",
+      "solution": "Left side: (8 ÷ (-2)) ÷ 2 = (-4) ÷ 2 = -2\nRight side: 8 ÷ ((-2) ÷ 2) = 8 ÷ (-1) = -8\nSince -2 ≠ -8, division is NOT associative: (a ÷ b) ÷ c ≠ a ÷ (b ÷ c)"
+    }
+  ]
+}

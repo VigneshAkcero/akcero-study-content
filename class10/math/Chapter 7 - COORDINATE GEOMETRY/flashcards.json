@@ -1,0 +1,174 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Coordinate Geometry",
+    "chapter_number": 7
+  },
+  "flashcards": [
+    {
+      "q": "What is the abscissa of a point?",
+      "a": "The x-coordinate of a point; it represents the perpendicular distance from the y-axis."
+    },
+    {
+      "q": "What is the ordinate of a point?",
+      "a": "The y-coordinate of a point; it represents the perpendicular distance from the x-axis."
+    },
+    {
+      "q": "What are the coordinates of the origin?",
+      "a": "The origin is denoted as O(0, 0)."
+    },
+    {
+      "q": "What form do points on the x-axis have?",
+      "a": "Points on the x-axis have the form (x, 0), where the y-coordinate is always zero."
+    },
+    {
+      "q": "What form do points on the y-axis have?",
+      "a": "Points on the y-axis have the form (0, y), where the x-coordinate is always zero."
+    },
+    {
+      "q": "Name the four quadrants and their sign properties.",
+      "a": "Quadrant I: (+, +); Quadrant II: (−, +); Quadrant III: (−, −); Quadrant IV: (+, −)."
+    },
+    {
+      "q": "State the distance formula.",
+      "a": "For points P(x₁, y₁) and Q(x₂, y₂), distance PQ = √[(x₂ − x₁)² + (y₂ − y₁)²]."
+    },
+    {
+      "q": "What is the distance of a point P(x, y) from the origin?",
+      "a": "Distance from origin = √(x² + y²)."
+    },
+    {
+      "q": "Is the distance formula derived from which theorem?",
+      "a": "The distance formula is derived from the Pythagorean theorem."
+    },
+    {
+      "q": "What condition must three points satisfy to be collinear?",
+      "a": "Three points A, B, C are collinear if the sum of two distances equals the third: AB + BC = AC (or any permutation)."
+    },
+    {
+      "q": "State the section formula for internal division.",
+      "a": "If P(x, y) divides AB internally in ratio m₁:m₂, then x = (m₁x₂ + m₂x₁)/(m₁ + m₂) and y = (m₁y₂ + m₂y₁)/(m₁ + m₂)."
+    },
+    {
+      "q": "What is the midpoint formula?",
+      "a": "The midpoint M of segment joining A(x₁, y₁) and B(x₂, y₂) is M = ((x₁ + x₂)/2, (y₁ + y₂)/2)."
+    },
+    {
+      "q": "In what ratio does the midpoint divide a line segment?",
+      "a": "The midpoint divides the line segment in the ratio 1:1."
+    },
+    {
+      "q": "What do the diagonals of a parallelogram do?",
+      "a": "The diagonals of a parallelogram bisect each other; their midpoints are the same."
+    },
+    {
+      "q": "What condition identifies a square among quadrilaterals?",
+      "a": "All four sides are equal, both diagonals are equal, and diagonals are perpendicular to each other."
+    },
+    {
+      "q": "What condition identifies a rhombus among quadrilaterals?",
+      "a": "All four sides are equal; diagonals bisect each other at right angles."
+    },
+    {
+      "q": "What condition identifies a rectangle among quadrilaterals?",
+      "a": "Opposite sides are equal, diagonals are equal, and they bisect each other."
+    },
+    {
+      "q": "How do you find if two points are equidistant from a third point?",
+      "a": "Calculate the distances from the third point to each of the two points; if the distances are equal, the points are equidistant."
+    },
+    {
+      "q": "What is a perpendicular bisector?",
+      "a": "A line that passes through the midpoint of a segment and is perpendicular to it; all points on it are equidistant from the endpoints."
+    },
+    {
+      "q": "How do you identify an equilateral triangle using distance?",
+      "a": "Calculate all three sides; if all three are equal, the triangle is equilateral."
+    },
+    {
+      "q": "How do you identify an isosceles triangle using distance?",
+      "a": "Calculate all three sides; if exactly two sides are equal, the triangle is isosceles."
+    },
+    {
+      "q": "How do you identify a right-angled triangle using distance?",
+      "a": "Calculate all three sides; if a² + b² = c² (Pythagorean relation), the triangle is right-angled."
+    },
+    {
+      "q": "What does it mean for a point to divide a segment internally in ratio m₁:m₂?",
+      "a": "The point lies between the endpoints and PA/PB = m₁/m₂, where A and B are the endpoints."
+    },
+    {
+      "q": "State the distance between two points on the x-axis.",
+      "a": "If A(a, 0) and B(b, 0) are on the x-axis, distance AB = |b − a|."
+    },
+    {
+      "q": "State the distance between two points on the y-axis.",
+      "a": "If C(0, c) and D(0, d) are on the y-axis, distance CD = |d − c|."
+    },
+    {
+      "q": "What is internal division?",
+      "a": "When a point P lies between two endpoints A and B on a line segment and divides it in a specific ratio."
+    },
+    {
+      "q": "What is external division?",
+      "a": "When a point P lies outside the segment AB on the extended line and divides it externally in a given ratio."
+    },
+    {
+      "q": "How do you find the ratio in which a point divides a segment?",
+      "a": "If P(x, y) divides AB in ratio k:1, use the section formula rearranged: k = (x − x₁)/(x₂ − x) or (y − y₁)/(y₂ − y)."
+    },
+    {
+      "q": "What is the significance of the coordinate axes?",
+      "a": "The coordinate axes provide a reference system to locate every point uniquely on a plane using ordered pairs."
+    },
+    {
+      "q": "State three properties of a square that can be verified using distance.",
+      "a": "All four sides are equal, both diagonals are equal, and the diagonals are perpendicular to each other."
+    },
+    {
+      "q": "How does distance formula help in verifying the type of quadrilateral?",
+      "a": "By comparing side lengths and diagonal lengths, we can identify if a quadrilateral is a parallelogram, rectangle, rhombus, or square."
+    },
+    {
+      "q": "What is the relationship between the distance formula and the Pythagorean theorem?",
+      "a": "The distance formula is a direct application of the Pythagorean theorem to the coordinate plane, where the distance is the hypotenuse."
+    },
+    {
+      "q": "If a point lies on the line segment AB, what must be true?",
+      "a": "The point must satisfy the collinearity condition: the sum of distances from the point to the endpoints equals the distance between the endpoints."
+    },
+    {
+      "q": "What are trisection points?",
+      "a": "Points that divide a line segment into three equal parts; they divide the segment in ratios 1:2 and 2:1."
+    },
+    {
+      "q": "How do you find the coordinates of trisection points?",
+      "a": "Use the section formula twice: first with ratio 1:2 to find one point, then with ratio 2:1 to find the other."
+    },
+    {
+      "q": "What is the relationship between abscissa and x-coordinate?",
+      "a": "The abscissa and x-coordinate are the same; they both represent the horizontal distance from the y-axis."
+    },
+    {
+      "q": "What is the relationship between ordinate and y-coordinate?",
+      "a": "The ordinate and y-coordinate are the same; they both represent the vertical distance from the x-axis."
+    },
+    {
+      "q": "Can the distance between two points be negative?",
+      "a": "No, distance is always non-negative. We take the positive square root in the distance formula."
+    },
+    {
+      "q": "If two points have the same x-coordinate, what can you say about them?",
+      "a": "They lie on a vertical line parallel to the y-axis; the distance between them is |y₂ − y₁|."
+    },
+    {
+      "q": "If two points have the same y-coordinate, what can you say about them?",
+      "a": "They lie on a horizontal line parallel to the x-axis; the distance between them is |x₂ − x₁|."
+    },
+    {
+      "q": "What does it mean if the midpoint of a segment coincides with the origin?",
+      "a": "The two endpoints are symmetric about the origin; if one is (a, b), the other is (−a, −b)."
+    }
+  ]
+}

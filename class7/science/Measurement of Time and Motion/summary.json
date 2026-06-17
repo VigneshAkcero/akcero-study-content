@@ -1,0 +1,28 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Science",
+    "chapter_name": "Measurement of Time and Motion",
+    "chapter_number": 8
+  },
+  "summary": [
+    {
+      "category": "Historical Time Measurement and Simple Pendulum",
+      "points": [
+        "Humans measured time using natural cycles (Sun's rising/setting). Ancient devices included sundials, water clocks, and hourglasses. The simple pendulum, invented by Christiaan Huygens (inspired by Galileo), revolutionized timekeeping. A simple pendulum's time period (time for one oscillation) depends on its length but not on the bob's mass, making it reliable for measuring equal intervals of time."
+      ]
+    },
+    {
+      "category": "Speed, Distance, and Time Relationship",
+      "points": [
+        "Speed is the distance covered in unit time. The SI unit of speed is metre per second (m/s) or kilometre per hour (km/h). The fundamental relationship is: Speed = Distance / Time; Distance = Speed × Time; Time = Distance / Speed. Average speed is total distance divided by total time, used when speed varies during motion."
+      ]
+    },
+    {
+      "category": "Uniform and Non-uniform Linear Motion",
+      "points": [
+        "Linear motion is movement along a straight line. Uniform linear motion has constant speed and covers equal distances in equal time intervals. Non-uniform linear motion has changing speed and covers unequal distances in equal time intervals. Most real-world motion is non-uniform, making average speed concept essential for practical applications."
+      ]
+    }
+  ]
+}

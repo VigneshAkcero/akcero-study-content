@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Math",
+    "chapter_name": "Finding Common Ground",
+    "chapter_number": 3
+  },
+  "summary": [
+    {
+      "category": "Highest Common Factor (HCF)",
+      "points": [
+        "The Highest Common Factor (HCF) or Greatest Common Divisor (GCD) is the greatest number that divides two or more numbers without leaving a remainder. It can be found by listing common factors or using prime factorisation.",
+        "Prime factorisation is the process of expressing a number as a product of prime numbers. To find HCF using prime factorisation, identify common prime factors and multiply the lowest powers of these factors.",
+        "Real-world applications of HCF include finding the largest tile size for flooring without cutting, determining maximum bag sizes for packing items equally, and optimizing distribution of resources."
+      ]
+    },
+    {
+      "category": "Lowest Common Multiple (LCM)",
+      "points": [
+        "The Lowest Common Multiple (LCM) is the smallest positive number that is divisible by two or more numbers. It can be found by listing common multiples or using prime factorisation.",
+        "To find LCM using prime factorisation, identify all prime factors from both numbers and multiply the highest powers of these factors. This method is efficient even for large numbers.",
+        "Real-world applications of LCM include scheduling recurring events (e.g., determining when activities coincide), planning production cycles, and solving problems involving periodic intervals."
+      ]
+    },
+    {
+      "category": "Fundamental Property and Patterns",
+      "points": [
+        "The fundamental property states: HCF(a, b) × LCM(a, b) = a × b. This relationship connects HCF and LCM and is useful for calculations and verification.",
+        "Special patterns exist for HCF: consecutive numbers have HCF = 1; if one number is a multiple of another, HCF = the smaller number; co-prime numbers (HCF = 1) have LCM = their product.",
+        "Mathematical thinking involves making conjectures (unproven claims from observed patterns) and generalisations (proven statements). Testing and proving relationships between HCF and LCM strengthens problem-solving skills."
+      ]
+    }
+  ]
+}

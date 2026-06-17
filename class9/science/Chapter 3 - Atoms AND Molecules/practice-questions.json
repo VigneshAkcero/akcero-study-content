@@ -1,0 +1,220 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Atoms and Molecules",
+    "chapter_number": 3
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "State the Law of Conservation of Mass. What precaution must be taken during a chemical reaction experiment to verify this law?",
+      "answer": "Mass can neither be created nor destroyed in a chemical reaction. The reaction must be carried out in a sealed/closed container so that no matter (especially gases) can escape.",
+      "solution": "Law of Conservation of Mass: Total mass of reactants = Total mass of products.\nPrecaution: In Activity 3.1, a cork is placed on the conical flask before mixing the solutions. If the flask is open and gaseous products escape, the measured mass of products would appear less than reactants — falsely seeming to violate the law. The cork ensures no matter leaves the system, confirming that mass is truly conserved."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "In a reaction, 5.3 g of sodium carbonate reacted with 6 g of acetic acid. The products were 2.2 g of carbon dioxide, 0.9 g of water, and 8.2 g of sodium acetate. Verify the Law of Conservation of Mass.",
+      "answer": "Reactants: 5.3 + 6 = 11.3 g. Products: 2.2 + 0.9 + 8.2 = 11.3 g. Mass is conserved. ✓",
+      "solution": "Mass of reactants = mass of Na₂CO₃ + mass of acetic acid = 5.3 + 6 = 11.3 g.\nMass of products = mass of CO₂ + mass of H₂O + mass of sodium acetate = 2.2 + 0.9 + 8.2 = 11.3 g.\nSince mass of reactants = mass of products = 11.3 g, the Law of Conservation of Mass is verified."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Hydrogen and oxygen combine in the ratio 1:8 by mass to form water. What mass of oxygen is required to react completely with 3 g of hydrogen?",
+      "answer": "24 g of oxygen.",
+      "solution": "By the Law of Constant Proportions, H:O = 1:8 by mass in water.\nIf hydrogen = 3 g, then oxygen = 3 × 8 = 24 g.\nCheck: 3 g H + 24 g O = 27 g water. Ratio: 3:24 = 1:8 ✓."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "State two postulates of Dalton's atomic theory. Which postulate explains the Law of Conservation of Mass?",
+      "answer": "Any two of the six postulates. Postulate (ii) — atoms cannot be created or destroyed in a chemical reaction — explains the Law of Conservation of Mass.",
+      "solution": "Six postulates of Dalton's atomic theory: (i) All matter is made of tiny atoms; (ii) Atoms are indivisible — cannot be created or destroyed; (iii) Atoms of a given element are identical in mass and chemical properties; (iv) Atoms of different elements differ in mass and properties; (v) Atoms combine in small whole-number ratios to form compounds; (vi) The number and kind of atoms in a compound is constant.\nPostulate (ii) explains Law of Conservation of Mass: since atoms cannot be created or destroyed, the total number of atoms (and hence total mass) must be the same before and after a reaction.\nPostulate (vi) explains Law of Definite Proportions: since the ratio of atoms is constant in a given compound, the mass ratio of elements is also constant."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Define atomic mass unit (u). On what standard is it currently based?",
+      "answer": "1 u = 1/12th the mass of one atom of carbon-12. This standard was adopted in 1961.",
+      "solution": "Atomic mass unit (u) — previously called 'amu', now written as 'u' (unified mass unit).\nDefinition: One atomic mass unit = exactly 1/12th the mass of one atom of the carbon-12 isotope.\nWhy carbon-12?: (1) Carbon reacts with a large number of elements. (2) Using this standard gives most elements near whole-number atomic masses.\nRelative atomic mass: the ratio of the average mass of one atom of an element to 1/12th the mass of one carbon-12 atom."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Write the symbols of the following elements correctly: aluminium, cobalt, chlorine, hydrogen, gold, iron, silver, sodium.",
+      "answer": "Aluminium=Al, Cobalt=Co, Chlorine=Cl, Hydrogen=H, Gold=Au, Iron=Fe, Silver=Ag, Sodium=Na.",
+      "solution": "Rules: First letter uppercase; second letter (if any) lowercase.\n• Aluminium → Al (first two letters of English name).\n• Cobalt → Co (not CO — O would mean oxygen).\n• Chlorine → Cl (first letter + a later letter).\n• Hydrogen → H (single letter).\n• Gold → Au (from Latin: aurum).\n• Iron → Fe (from Latin: ferrum).\n• Silver → Ag (from Latin: argentum).\n• Sodium → Na (from Latin: natrium).\nNote: Co (cobalt) ≠ CO (carbon monoxide) — case matters."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What is atomicity? Give the atomicity of: argon, hydrogen, phosphorus, sulphur, ozone.",
+      "answer": "Atomicity is the number of atoms in one molecule of an element. Argon=1 (monoatomic), Hydrogen=2 (diatomic, H₂), Phosphorus=4 (tetraatomic, P₄), Sulphur=8 (polyatomic, S₈), Ozone=3 (triatomic, O₃).",
+      "solution": "Atomicity tells us how many atoms make up one molecule of an element.\n• Argon (Ar): monoatomic — exists as single atoms (noble gas, unreactive).\n• Hydrogen (H₂): diatomic — 2 hydrogen atoms bonded.\n• Phosphorus (P₄): tetraatomic — 4 phosphorus atoms bonded in a tetrahedral structure.\n• Sulphur (S₈): polyatomic — 8 sulphur atoms in a ring structure.\n• Ozone (O₃): triatomic — 3 oxygen atoms. (Regular oxygen O₂ is diatomic.)"
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What is the difference between a cation and an anion? Give two examples of each.",
+      "answer": "Cation: positively charged ion (metal loses electrons), e.g., Na⁺, Ca²⁺. Anion: negatively charged ion (non-metal gains electrons), e.g., Cl⁻, O²⁻.",
+      "solution": "Cation (+): formed when an atom loses one or more electrons. Metals typically form cations.\nExamples: Na⁺ (sodium), K⁺ (potassium), Mg²⁺ (magnesium), Al³⁺ (aluminium), NH₄⁺ (ammonium — polyatomic).\nAnion (−): formed when an atom gains one or more electrons. Non-metals typically form anions.\nExamples: Cl⁻ (chloride), O²⁻ (oxide), S²⁻ (sulphide), N³⁻ (nitride), SO₄²⁻ (sulphate — polyatomic).\nIn an ionic compound like NaCl, the cation (Na⁺) and anion (Cl⁻) balance each other so the overall compound is neutral."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Give the names and formulae of three polyatomic ions.",
+      "answer": "Hydroxide: OH⁻; Sulphate: SO₄²⁻; Ammonium: NH₄⁺.",
+      "solution": "Polyatomic ions are groups of atoms that carry a net charge and act as a single unit in reactions.\n• Hydroxide: OH⁻ (1 oxygen + 1 hydrogen, charge −1). Found in bases like NaOH, Ca(OH)₂.\n• Sulphate: SO₄²⁻ (1 sulphur + 4 oxygen, charge −2). Found in Na₂SO₄, CuSO₄.\n• Ammonium: NH₄⁺ (1 nitrogen + 4 hydrogen, charge +1). Found in NH₄Cl, (NH₄)₂SO₄.\nOther examples: Nitrate NO₃⁻, Carbonate CO₃²⁻, Phosphate PO₄³⁻, Hydrogen carbonate HCO₃⁻, Sulphite SO₃²⁻."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Calculate the molecular mass of: (a) Water H₂O, (b) Carbon dioxide CO₂, (c) Ammonia NH₃.",
+      "answer": "(a) 18 u, (b) 44 u, (c) 17 u.",
+      "solution": "Atomic masses: H=1u, O=16u, C=12u, N=14u.\n(a) H₂O: 2×1 + 1×16 = 2 + 16 = 18 u.\n(b) CO₂: 1×12 + 2×16 = 12 + 32 = 44 u.\n(c) NH₃: 1×14 + 3×1 = 14 + 3 = 17 u."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "What is the difference between molecular mass and formula unit mass? When do we use formula unit mass?",
+      "answer": "Molecular mass is used for covalent/molecular compounds (discrete molecules). Formula unit mass is used for ionic compounds (which do not exist as discrete molecules but as extended ionic lattices). Both are calculated the same way.",
+      "solution": "Molecular mass: sum of atomic masses of all atoms in one molecule. Used for substances that exist as discrete molecules (e.g., H₂O, CO₂, HNO₃).\nFormula unit mass: sum of atomic masses of all atoms in one formula unit. Used for ionic compounds like NaCl, MgCl₂, CaCl₂ — because ionic compounds do not form individual molecules but consist of a lattice of positive and negative ions.\nCalculation method is identical for both:\n• NaCl (formula unit mass): 1×23 + 1×35.5 = 58.5 u.\n• H₂O (molecular mass): 2×1 + 1×16 = 18 u."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "Write the chemical formula for: (a) Sodium chloride, (b) Magnesium oxide, (c) Hydrogen sulphide.",
+      "answer": "(a) NaCl, (b) MgO, (c) H₂S.",
+      "solution": "(a) Sodium chloride: Na⁺ (valency 1) + Cl⁻ (valency 1). Criss-cross → Na₁Cl₁ = NaCl.\n(b) Magnesium oxide: Mg²⁺ (valency 2) + O²⁻ (valency 2). Criss-cross → Mg₂O₂. Simplify (÷2) → MgO.\n(c) Hydrogen sulphide: H (valency 1) + S (valency 2). Criss-cross → H₂S₁ = H₂S."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "3.0 g of carbon is burnt in 8.0 g of oxygen to produce 11.0 g of carbon dioxide. If 3.0 g of carbon is burnt in 50.0 g of oxygen, what mass of CO₂ is produced? Which law governs this?",
+      "answer": "Only 11.0 g of CO₂ is produced. 42 g of oxygen remains unreacted. Governed by the Law of Constant Proportions.",
+      "solution": "From the first experiment: 3.0 g C + 8.0 g O₂ → 11.0 g CO₂.\nSo the fixed ratio C:O₂ = 3:8 (by Law of Constant Proportions).\nIn the second case: 3.0 g C is available. It needs 3×(8/3) = 8.0 g of O₂ to react completely.\nAlthough 50.0 g O₂ is available, only 8.0 g will react with 3.0 g C.\nO₂ is in excess: 50.0 − 8.0 = 42.0 g O₂ remains unreacted.\nCO₂ produced = same as before = 11.0 g.\nGoverning law: Law of Constant Proportions — the ratio in which C and O₂ combine is always 3:8 by mass."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Write the chemical formulae of the following using the criss-cross method: (a) Magnesium chloride, (b) Aluminium oxide, (c) Calcium hydroxide, (d) Sodium carbonate.",
+      "answer": "(a) MgCl₂, (b) Al₂O₃, (c) Ca(OH)₂, (d) Na₂CO₃.",
+      "solution": "(a) MgCl₂: Mg²⁺ (valency 2), Cl⁻ (valency 1). Criss-cross: Mg₁Cl₂ → MgCl₂.\n(b) Al₂O₃: Al³⁺ (valency 3), O²⁻ (valency 2). Criss-cross: Al₂O₃ (no simplification possible since GCD of 2 and 3 is 1).\n(c) Ca(OH)₂: Ca²⁺ (valency 2), OH⁻ (valency 1). Criss-cross: Ca₁(OH)₂. Bracket needed because 2 hydroxide ions are present → Ca(OH)₂.\n(d) Na₂CO₃: Na⁺ (valency 1), CO₃²⁻ (valency 2). Criss-cross: Na₂(CO₃)₁. Bracket not needed for single carbonate → Na₂CO₃."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Write the chemical formulae of: (a) Copper nitrate, (b) Aluminium chloride, (c) Calcium carbonate, (d) Ammonium sulphate.",
+      "answer": "(a) Cu(NO₃)₂, (b) AlCl₃, (c) CaCO₃, (d) (NH₄)₂SO₄.",
+      "solution": "(a) Copper nitrate: Cu²⁺ (valency 2), NO₃⁻ (valency 1). Criss-cross → Cu₁(NO₃)₂ = Cu(NO₃)₂.\n(b) Aluminium chloride: Al³⁺ (valency 3), Cl⁻ (valency 1). Criss-cross → Al₁Cl₃ = AlCl₃.\n(c) Calcium carbonate: Ca²⁺ (valency 2), CO₃²⁻ (valency 2). Criss-cross → Ca₂(CO₃)₂. Simplify (÷2) → CaCO₃.\n(d) Ammonium sulphate: NH₄⁺ (valency 1), SO₄²⁻ (valency 2). Criss-cross → (NH₄)₂(SO₄)₁ = (NH₄)₂SO₄."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Calculate the molecular mass of: (a) HNO₃, (b) C₂H₆, (c) CH₃OH (methanol).",
+      "answer": "(a) 63 u, (b) 30 u, (c) 32 u.",
+      "solution": "Atomic masses: H=1, N=14, O=16, C=12.\n(a) HNO₃: 1×H + 1×N + 3×O = 1 + 14 + 48 = 63 u.\n(b) C₂H₆: 2×C + 6×H = 2×12 + 6×1 = 24 + 6 = 30 u.\n(c) CH₃OH: This is methanol with formula CH₄O. Atoms: 1C + 4H + 1O = 12 + 4 + 16 = 32 u."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Calculate the formula unit mass of: (a) NaCl, (b) CaCl₂, (c) K₂CO₃. (Given: Na=23, Ca=40, Cl=35.5, K=39, C=12, O=16).",
+      "answer": "(a) 58.5 u, (b) 111 u, (c) 138 u.",
+      "solution": "(a) NaCl: 1×23 + 1×35.5 = 23 + 35.5 = 58.5 u.\n(b) CaCl₂: 1×40 + 2×35.5 = 40 + 71 = 111 u.\n(c) K₂CO₃: 2×39 + 1×12 + 3×16 = 78 + 12 + 48 = 138 u.\nNote: We use 'formula unit mass' (not molecular mass) for these because NaCl, CaCl₂, and K₂CO₃ are ionic compounds that exist as lattices of ions, not discrete molecules."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "A 0.24 g sample of a compound of boron and oxygen contains 0.096 g of boron and 0.144 g of oxygen. Calculate the percentage composition by mass.",
+      "answer": "Boron: 40%, Oxygen: 60%.",
+      "solution": "Total mass of sample = 0.24 g.\nMass of boron = 0.096 g. Mass of oxygen = 0.144 g.\nCheck: 0.096 + 0.144 = 0.24 g ✓ (Law of Conservation of Mass).\nPercentage of boron = (0.096 / 0.24) × 100 = 40%.\nPercentage of oxygen = (0.144 / 0.24) × 100 = 60%.\nVerification: 40% + 60% = 100% ✓."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "The ratio by mass of atoms in ammonia is N:H = 14:3. Using atomic masses (N=14, H=1), find the ratio by number of atoms in ammonia and deduce its molecular formula.",
+      "answer": "Ratio by number = N:H = 1:3. Molecular formula: NH₃.",
+      "solution": "Step 1: Ratio by mass = N:H = 14:3.\nStep 2: Divide each by its atomic mass: N → 14/14 = 1; H → 3/1 = 3.\nStep 3: Simplest whole-number ratio by number of atoms = N:H = 1:3.\nConclusion: 1 nitrogen atom combines with 3 hydrogen atoms → molecular formula = NH₃.\nThis confirms: mass of 1 N + mass of 3 H = 14 + 3 = 17 u, and the mass ratio is 14:3, consistent with the given data."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Why do we write Ca(OH)₂ and not CaOH₂? What rule does this illustrate?",
+      "answer": "Ca(OH)₂ is correct because 2 hydroxide (OH⁻) polyatomic ions are present. Brackets are mandatory when multiple polyatomic ions appear in a formula — CaOH₂ would incorrectly suggest 1 oxygen and 2 separate hydrogen atoms.",
+      "solution": "Ca²⁺ has valency 2 and OH⁻ has valency 1. Using criss-cross: Ca₁(OH)₂ = Ca(OH)₂.\nThe bracket around (OH) shows that the entire hydroxide group OH occurs twice as a unit. So the compound has: 1 Ca, 2 O, 2 H atoms — but the 2 O and 2 H are part of 2 complete OH⁻ units.\nIf written as CaOH₂, it incorrectly implies 1 oxygen atom separate from 2 hydrogen atoms — a completely different (wrong) structure with no chemical meaning for calcium.\nRule: When 2 or more polyatomic ions are present, enclose the ion formula in brackets and write the number as subscript outside."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "The symbol for cobalt is Co. Why must the second letter be lowercase? What confusion would arise if it were written as CO?",
+      "answer": "CO (uppercase) represents carbon monoxide — a compound of carbon (C) and oxygen (O), not the element cobalt. The lowercase 'o' in Co distinguishes the element cobalt from the compound CO.",
+      "solution": "IUPAC rule: the first letter of a symbol is uppercase; the second letter is always lowercase.\n• Co = cobalt (element, atomic number 27, a metal).\n• CO = carbon monoxide (a compound of C + O — a toxic gas).\nIf cobalt were written as 'CO', it would be indistinguishable from carbon monoxide in chemical formulae. Similarly: Al vs. A+L (aluminium vs. two separate elements), Cl vs. C+L (chlorine vs. carbon + something). This is why case sensitivity is crucial in chemical notation."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "In CO₂, the mass ratio of C:O = 3:8. Using atomic masses (C=12, O=16), verify this ratio and deduce the formula.",
+      "answer": "C:O by number = 1:2. Mass ratio = 12:(2×16) = 12:32 = 3:8. ✓ Formula: CO₂.",
+      "solution": "Given mass ratio C:O = 3:8.\nDivide by atomic masses: C → 3/12 = 0.25; O → 8/16 = 0.5.\nSimplest ratio by atoms = 0.25:0.5 = 1:2 (multiply both by 4).\nSo 1 carbon atom + 2 oxygen atoms → formula CO₂.\nVerification: mass of C + mass of 2 O = 12 + 2×16 = 12 + 32 = 44 u. Ratio = 12:32 = 3:8 ✓."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Dalton's atomic theory stated that atoms are indivisible. Yet we know today that atoms are made of subatomic particles. Does this mean Dalton's theory is wrong? Explain with reasoning.",
+      "answer": "Dalton's theory is not entirely wrong — it still successfully explains the laws of chemical combination. Atoms are indeed indivisible in chemical reactions; they are only split in nuclear reactions (not chemical ones). The theory is a useful model, not a complete description of atomic structure.",
+      "solution": "Dalton said atoms are indivisible. Modern science has shown atoms contain protons, neutrons, and electrons (subatomic particles discovered after Dalton's time). So the statement 'atoms are indivisible' is not literally true at the nuclear level.\nHowever, in ALL CHEMICAL REACTIONS:\n• Atoms are NOT split — no chemical reaction breaks an atom into protons/electrons.\n• Atoms only rearrange — bonds break and form between WHOLE atoms.\nSo for the purpose of chemistry (chemical reactions), atoms behave as indivisible units. Dalton's postulate is valid for chemistry.\nSplitting atoms requires nuclear reactions — entirely different from chemical reactions (millions of times more energy).\nConclusion: Dalton's theory correctly explains Law of Conservation of Mass and Law of Definite Proportions and remains the foundation of chemistry, even though atomic structure has been refined since 1808."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Why was carbon-12 chosen as the standard for atomic mass in 1961 instead of the original oxygen-16 standard?",
+      "answer": "Carbon-12 provided a universally unambiguous standard (a single specific isotope), while 'naturally occurring oxygen' varied due to the presence of oxygen isotopes (O-16, O-17, O-18), leading to inconsistencies. Carbon-12 was pure and gave stable, reproducible values.",
+      "solution": "Before 1961, 1/16th the mass of naturally occurring oxygen was used as the standard. The problem: naturally occurring oxygen is a mixture of three isotopes — O-16 (most common), O-17, and O-18. Chemists using oxygen as a mixture and physicists using pure O-16 arrived at slightly different values for atomic masses — causing inconsistency.\nSolution: Carbon-12 (a specific, pure isotope with no ambiguity) was chosen as the universal standard in 1961. Advantages:\n(1) It is a single, specific, stable isotope.\n(2) Its mass is reproducible and unambiguous.\n(3) It gives most elements near-whole-number relative atomic masses.\n(4) Carbon forms compounds with almost all other elements, making it a convenient reference."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Write the formulae and calculate the molecular/formula unit mass of: (a) Aluminium sulphate Al₂(SO₄)₃, (b) Ammonium phosphate (NH₄)₃PO₄. (Given: Al=27, S=32, O=16, N=14, H=1, P=31.)",
+      "answer": "(a) 342 u. (b) 149 u.",
+      "solution": "(a) Al₂(SO₄)₃:\nComponents: 2 Al + 3 SO₄ = 2 Al + 3 S + 12 O.\nMass = 2×27 + 3×32 + 12×16 = 54 + 96 + 192 = 342 u.\n\n(b) (NH₄)₃PO₄:\nComponents: 3 NH₄ + 1 PO₄ = 3 N + 12 H + 1 P + 4 O.\nMass = 3×14 + 12×1 + 1×31 + 4×16 = 42 + 12 + 31 + 64 = 149 u.\n\nFormula derivation:\n(a) Al³⁺ (valency 3) + SO₄²⁻ (valency 2). Criss-cross → Al₂(SO₄)₃.\n(b) NH₄⁺ (valency 1) + PO₄³⁻ (valency 3). Criss-cross → (NH₄)₃PO₄."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Two compounds of nitrogen and oxygen are: compound A (N:O = 7:8 by mass) and compound B (N:O = 7:16 by mass). Find the formula of each compound and explain which law their relationship demonstrates.",
+      "answer": "Compound A: N:O by atoms = 7/14 : 8/16 = 0.5:0.5 = 1:1 → NO. Compound B: N:O = 7/14 : 16/16 = 0.5:1 = 1:2 → NO₂. Their relationship demonstrates the Law of Multiple Proportions.",
+      "solution": "Atomic masses: N=14, O=16.\nCompound A — N:O by mass = 7:8:\n• By atoms: N = 7/14 = 0.5; O = 8/16 = 0.5. Ratio = 1:1 → Formula: NO.\nCompound B — N:O by mass = 7:16:\n• By atoms: N = 7/14 = 0.5; O = 16/16 = 1.0. Ratio = 1:2 → Formula: NO₂.\n\nRelationship: For the same mass of nitrogen (7 g), compound A has 8 g oxygen and compound B has 16 g oxygen. Their oxygen masses are in a simple ratio: 8:16 = 1:2.\nThis is the Law of Multiple Proportions: when two elements combine to form more than one compound, the masses of one element that combine with a fixed mass of the other are in simple whole-number ratios."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Atoms of most elements cannot exist independently. Explain why, with examples of what they form instead. Name two exceptions to this rule.",
+      "answer": "Most atoms are chemically reactive and form bonds with other atoms to achieve stability — they form molecules or ions. Exceptions: noble gas atoms (He, Ne, Ar, Kr, Xe, Rn) — monoatomic, chemically inert.",
+      "solution": "Most atoms have incomplete outermost electron shells and are therefore energetically unstable as isolated atoms. They react to achieve a more stable electron configuration by:\n• Forming molecules: sharing electrons with other atoms (covalent bonds). E.g., hydrogen atoms (H) pair up → H₂; oxygen → O₂; nitrogen → N₂.\n• Forming ions: losing or gaining electrons to form ionic compounds. E.g., Na loses 1 electron → Na⁺, Cl gains 1 electron → Cl⁻ → together form NaCl.\n• Forming giant structures: metals and carbon form large networks — no discrete molecules.\nExceptions — Noble gases (Group 18): He, Ne, Ar, Kr, Xe, Rn. Their outermost electron shells are completely filled — they are chemically inert and exist naturally as monoatomic gases."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Calculate the percentage composition by mass of each element in ammonia (NH₃). (Given: N=14, H=1.)",
+      "answer": "N: 82.35%; H: 17.65%.",
+      "solution": "Molecular formula of ammonia: NH₃. Molecular mass = 14 + 3×1 = 14 + 3 = 17 u.\nMass contribution of N = 14 u. Mass contribution of H = 3×1 = 3 u.\n\nPercentage of N = (14/17) × 100 = 82.35%.\nPercentage of H = (3/17) × 100 = 17.65%.\n\nCheck: 82.35% + 17.65% = 100% ✓.\nThis result is consistent with the Law of Constant Proportions — every sample of ammonia, regardless of source, will always contain 82.35% nitrogen and 17.65% hydrogen by mass."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Iron shows two valencies: Fe²⁺ (Iron II) and Fe³⁺ (Iron III). Write the formulae of iron(II) sulphate, iron(III) sulphate, iron(II) chloride, iron(III) oxide, and calculate the molecular/formula unit mass of iron(II) sulphate. (Fe=56, S=32, O=16, Cl=35.5.)",
+      "answer": "FeSO₄; Fe₂(SO₄)₃; FeCl₂; Fe₂O₃. Molecular mass of FeSO₄ = 152 u.",
+      "solution": "Valency of SO₄²⁻ = 2, Cl⁻ = 1, O²⁻ = 2.\n\n1. Iron(II) sulphate: Fe²⁺ (2) + SO₄²⁻ (2). Same valency → criss-cross gives Fe₂(SO₄)₂ → simplify → FeSO₄.\nMass of FeSO₄: Fe + S + 4O = 56 + 32 + 64 = 152 u.\n\n2. Iron(III) sulphate: Fe³⁺ (3) + SO₄²⁻ (2). Criss-cross → Fe₂(SO₄)₃.\n\n3. Iron(II) chloride: Fe²⁺ (2) + Cl⁻ (1). Criss-cross → Fe₁Cl₂ = FeCl₂.\n\n4. Iron(III) oxide: Fe³⁺ (3) + O²⁻ (2). Criss-cross → Fe₂O₃.\n\nKey point: Roman numerals in names indicate which valency of iron is used — crucial to distinguish between these different compounds."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Why is the Law of Constant Proportions also called the Law of Definite Proportions? How does Dalton's theory provide a theoretical basis for this law?",
+      "answer": "They are the same law — 'constant' and 'definite' both mean the ratio is always fixed. Dalton explains it through Postulate (vi): the relative number and kinds of atoms in a compound are constant — fixed atom ratios → fixed mass ratios.",
+      "solution": "The Law of Constant Proportions = Law of Definite Proportions (same law, two names). Both mean: in any pure compound, elements are present in fixed, invariable mass ratios regardless of source or method of preparation.\nExample: water always has H:O = 1:8 by mass, whether from rivers, rain, laboratory synthesis, or electrolysis.\n\nDalton's theoretical basis (Postulate vi): 'The relative number and kinds of atoms in a given compound are constant.' In water, there are always exactly 2 hydrogen atoms for every 1 oxygen atom (H₂O). Since an oxygen atom always has a mass of 16u and a hydrogen atom always has a mass of 1u:\nMass ratio = 2×1 : 1×16 = 2 : 16 = 1 : 8.\nBecause atom ratio is fixed (2H:1O) and atomic masses are fixed (H=1, O=16), the mass ratio is fixed (1:8) — this is why the law holds.\nIf atoms had variable masses or combined in variable ratios (contradicting Dalton), the law would not hold."
+    }
+  ]
+}

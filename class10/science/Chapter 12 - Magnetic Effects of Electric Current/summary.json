@@ -1,0 +1,32 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Magnetic Effects of Electric Current",
+    "chapter_number": 12
+  },
+  "summary": [
+    {
+      "category": "Magnetic Fields and Currents",
+      "points": [
+        "A current-carrying wire behaves like a magnet, producing a magnetic field in its surrounding region.",
+        "Magnetic field lines are visual representations of the field's direction and strength; they form continuous closed loops from North to South pole outside the magnet.",
+        "The magnetic field around a straight conductor consists of concentric circles, whose direction is given by the Right-Hand Thumb Rule."
+      ]
+    },
+    {
+      "category": "Field Patterns and Electromagnets",
+      "points": [
+        "The field pattern depends on the conductor's shape: circular loops contribute to a field at the center, while solenoids produce a uniform field inside similar to a bar magnet.",
+        "A solenoid with a soft iron core creates an electromagnet, which is used for various technological and medical applications (e.g., MRI)."
+      ]
+    },
+    {
+      "category": "Force on Conductors and Safety",
+      "points": [
+        "A magnetic field exerts force on a current-carrying conductor; the direction is determined by Fleming's Left-Hand Rule and is maximum when current and field are perpendicular.",
+        "Domestic circuits (220 V, 50 Hz) use Live (Red), Neutral (Black), and Earth (Green) wires; safety is ensured through grounding (Earthing) and the use of fuses to prevent overloading and short-circuiting."
+      ]
+    }
+  ]
+}

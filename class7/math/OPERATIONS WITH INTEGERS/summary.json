@@ -1,0 +1,23 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Operations with Integers",
+    "chapter_number": 2
+  },
+  "summary": [
+    {
+      "category": "Fundamentals and Operations",
+      "points": [
+        "Integers (positive, negative, zero) can be represented on a number line; using models like carrom coins and tokens helps visualize operations. Subtraction of integers equals adding the additive inverse: a - b = a + (-b).",
+        "For multiplication and division of integers, the sign rules are: Same signs (both + or both -) produce a positive result; different signs produce a negative result. The magnitude equals the product/quotient of individual magnitudes."
+      ]
+    },
+    {
+      "category": "Properties and Rules",
+      "points": [
+        "Integer multiplication is commutative (a × b = b × a), associative ((a × b) × c = a × (b × c)), and distributive over addition (a × (b + c) = (a × b) + (a × c)). For products of multiple integers: even count of negatives → positive result; odd count → negative result."
+      ]
+    }
+  ]
+}

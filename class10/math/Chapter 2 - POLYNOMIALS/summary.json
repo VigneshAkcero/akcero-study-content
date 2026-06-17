@@ -1,0 +1,39 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Polynomials",
+    "chapter_number": 2
+  },
+  "summary": [
+    {
+      "category": "Zeroes of Polynomials and Geometric Meaning",
+      "points": [
+        "A real number k is a zero of polynomial p(x) if p(k) = 0. Geometrically, zeroes are x-coordinates of points where the graph y = p(x) intersects the x-axis. A polynomial of degree n has at most n real zeroes. Linear polynomials have exactly one zero (or none for degenerate cases). Quadratic polynomials have at most 2 zeroes (can have 0, 1, or 2 depending on the discriminant). Cubic polynomials have at most 3 zeroes.",
+        "For a quadratic polynomial ax² + bx + c: If discriminant Δ = b² - 4ac > 0, there are two distinct real zeroes (parabola crosses x-axis at two points). If Δ = 0, there is one repeated real zero (parabola is tangent to x-axis). If Δ < 0, there are no real zeroes (parabola doesn't touch x-axis). The parabola opens upward if a > 0 and downward if a < 0."
+      ]
+    },
+    {
+      "category": "Relationship Between Zeroes and Coefficients",
+      "points": [
+        "For quadratic ax² + bx + c with zeroes α and β: Sum of zeroes: α + β = -b/a. Product of zeroes: αβ = c/a. Given sum S and product P, the quadratic polynomial is x² - Sx + P or a(x² - Sx + P).",
+        "For cubic ax³ + bx² + cx + d with zeroes α, β, γ: Sum of zeroes: α + β + γ = -b/a. Sum of products two at a time: αβ + βγ + γα = c/a. Product of all zeroes: αβγ = -d/a. These relationships allow finding polynomials from given zeroes or determining zeroes from polynomial coefficients."
+      ]
+    },
+    {
+      "category": "Polynomial Division and Related Theorems",
+      "points": [
+        "The Division Algorithm for polynomials states: If p(x) and g(x) are polynomials with g(x) ≠ 0, then p(x) = g(x)·q(x) + r(x), where q(x) is the quotient and r(x) is the remainder with degree less than degree of g(x) or r(x) = 0. This provides a systematic way to divide polynomials.",
+        "The Remainder Theorem: When p(x) is divided by (x - a), the remainder is p(a). When p(x) is divided by (x + a), the remainder is p(-a). This allows quick determination of remainders without full polynomial division.",
+        "The Factor Theorem: (x - a) is a factor of p(x) if and only if p(a) = 0. Equivalently, a is a zero of p(x) if and only if (x - a) is a factor. If (x - a) is a factor, then p(x) = (x - a)·q(x) for some polynomial q(x). This theorem connects zeroes and factors systematically."
+      ]
+    },
+    {
+      "category": "Polynomial Evaluation and Applications",
+      "points": [
+        "The value of polynomial p(x) at x = k, denoted p(k), is found by substituting k for x. For a linear polynomial ax + b, the zero is x = -b/a. Using zeroes-coefficients relationships, we can construct polynomials from given zeroes or factorize polynomials systematically.",
+        "The geometric interpretation of zeroes through graphs provides visual insight: the x-intercepts of y = p(x) are the zeroes. For quadratics, the discriminant determines whether the parabola crosses (two zeroes), touches (one zero), or misses (no real zeroes) the x-axis. For cubics, the curve can cross the x-axis 1, 2, or 3 times, corresponding to 1, 2, or 3 real zeroes."
+      ]
+    }
+  ]
+}

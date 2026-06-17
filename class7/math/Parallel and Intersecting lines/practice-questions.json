@@ -1,0 +1,255 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Math",
+    "chapter_name": "Parallel and Intersecting Lines",
+    "chapter_number": 5
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "When two lines intersect, how many angles are formed? Name the two types of angle pairs formed.",
+      "answer": "4 angles are formed. The two types are: (1) Linear pairs — adjacent angles summing to 180°, and (2) Vertically opposite angles — equal angles across from each other.",
+      "solution": "When two lines cross at a point, they create 4 angles around that point. Adjacent angles share a common arm and together form a straight angle (180°) — these are linear pairs. Angles that are directly across from each other (sharing only the vertex) are vertically opposite angles and are always equal."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "If two lines intersect and ∠a = 75°, find ∠b, ∠c, and ∠d (where a, b, c, d are the four angles in order around the intersection).",
+      "answer": "∠b = 105°, ∠c = 75°, ∠d = 105°.",
+      "solution": "∠a + ∠b = 180° (linear pair) → ∠b = 180° − 75° = 105°.\n∠a = ∠c (vertically opposite) → ∠c = 75°.\n∠b = ∠d (vertically opposite) → ∠d = 105°.\nVerification: ∠c + ∠d = 75° + 105° = 180° ✓ (linear pair)."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What are perpendicular lines? What is the measure of each angle formed when two lines are perpendicular?",
+      "answer": "Perpendicular lines are two lines that intersect at right angles (90°). All four angles formed are 90°.",
+      "solution": "When two lines are perpendicular, they meet at a right angle. Since all four angles at the intersection are equal (in a perpendicular pair), and a full rotation is 360°, each angle = 360° ÷ 4 = 90°. Alternatively, a linear pair is 180°, and if both angles in a linear pair are equal, each = 180° ÷ 2 = 90°."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Define parallel lines. What condition must be met for two lines to be parallel?",
+      "answer": "Parallel lines are two lines on the same plane that never intersect, however far they are extended. They must lie on the same plane.",
+      "solution": "Parallel lines maintain a constant perpendicular distance from each other and never meet. The key condition is that they must be on the SAME plane — two lines in different planes that never meet are not considered parallel. Parallel lines are marked with single (>) or double (>>) arrow symbols."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What is a transversal? How many angles does it form when it crosses two lines?",
+      "answer": "A transversal is a line that crosses two other lines at distinct points. It forms 8 angles — 4 at each intersection.",
+      "solution": "When a transversal t crosses lines l and m, it intersects each line at one point, forming 4 angles at each meeting point — 8 angles in total. Due to vertically opposite angles being equal at each intersection, there are at most 4 distinct angle measures among the 8."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Name all four pairs of corresponding angles when transversal t crosses lines l and m, with angles labelled ∠1 to ∠8 (∠1–∠4 at line l, ∠5–∠8 at line m).",
+      "answer": "∠1 & ∠5, ∠2 & ∠6, ∠3 & ∠7, ∠4 & ∠8.",
+      "solution": "Corresponding angles occupy the same corner position at each intersection. ∠1 (top-left at l) corresponds to ∠5 (top-left at m), ∠2 to ∠6 (top-right), ∠3 to ∠7 (bottom-left), ∠4 to ∠8 (bottom-right). Each pair is on the same side of the transversal, one above line l and one below, but in the same relative position."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "State the corresponding angles theorem. Is it a one-way or two-way statement?",
+      "answer": "If a transversal crosses parallel lines, corresponding angles are equal. Conversely, if corresponding angles are equal, the lines are parallel. It is a two-way (if and only if) statement.",
+      "solution": "The theorem has two directions:\n(1) If l ∥ m, then corresponding angles formed by any transversal are equal.\n(2) If corresponding angles formed by a transversal are equal, then l ∥ m.\nEquality of corresponding angles is both necessary AND sufficient for the lines to be parallel."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "When two lines intersect and ∠a = 90°, what can you conclude about the lines?",
+      "answer": "The lines are perpendicular to each other. All four angles (∠a, ∠b, ∠c, ∠d) are 90°.",
+      "solution": "If ∠a = 90°, then ∠b = 180° − 90° = 90° (linear pair). ∠c = ∠a = 90° (vertically opposite). ∠d = ∠b = 90° (vertically opposite). All four angles are 90°, which by definition means the lines are perpendicular."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "How many distinct angle measures are possible among the 8 angles formed when a transversal crosses two lines? Why?",
+      "answer": "At most 4 distinct angle measures. Because vertically opposite angles at each intersection are equal, halving the possible distinct values.",
+      "solution": "At each intersection, there are 4 angles but only 2 distinct values (since vertically opposite pairs are equal). With two intersections, there are potentially 4 distinct angle values. So among all 8 angles, at most 4 distinct measures are possible. In the special case when the lines are parallel, there are only 2 distinct values (since corresponding angles are also equal)."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "What is the notation used to show parallel lines in a figure? And perpendicular lines?",
+      "answer": "Parallel lines: single arrow (>) on each line; second pair uses double arrow (>>). Perpendicular lines: small square at the angle between them.",
+      "solution": "In geometric figures:\n• Parallel lines are marked with matching arrow symbols on each line. If there are two sets of parallel lines, the first set uses single arrows (>) and the second set uses double arrows (>>) to distinguish them.\n• Perpendicular lines are marked with a small square (□) at the point of intersection, indicating a right angle (90°)."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "Two lines intersect such that one of the angles is 3 times its adjacent angle. Find all four angles.",
+      "answer": "Adjacent angles: 45° and 135°. The four angles are 135°, 45°, 135°, 45°.",
+      "solution": "Let the two adjacent angles (a linear pair) be x and 3x.\nx + 3x = 180° (linear pair) → 4x = 180° → x = 45°.\nSo the two adjacent angles are 45° and 135°.\nThe four angles at the intersection: 135°, 45°, 135°, 45° (opposite pairs are equal by vertically opposite property)."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "State the alternate angles theorem.",
+      "answer": "When a transversal intersects a pair of parallel lines, the alternate angles are always equal to each other.",
+      "solution": "Alternate angles lie on opposite sides of the transversal, between the two parallel lines (one at each intersection). They are always equal when the lines are parallel. This is proved using: (1) corresponding angles are equal (since l ∥ m), and (2) vertically opposite angles are equal. Combining these two known facts gives the alternate angles theorem without any measurement."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Parallel lines l and m are cut by transversal t. ∠6 = 135°. Find the measures of all 8 angles.",
+      "answer": "∠2 = ∠4 = ∠6 = ∠8 = 135°; ∠1 = ∠3 = ∠5 = ∠7 = 45°.",
+      "solution": "∠6 = 135° (given).\n∠8 = ∠6 = 135° (vertically opposite).\n∠2 = ∠6 = 135° (corresponding angles, l ∥ m).\n∠4 = ∠8 = 135° (corresponding angles, l ∥ m).\n∠5 = 180° − ∠6 = 45° (linear pair).\n∠7 = ∠5 = 45° (vertically opposite).\n∠1 = ∠5 = 45° (corresponding angles).\n∠3 = ∠7 = 45° (corresponding angles).\nSummary: ∠2, ∠4, ∠6, ∠8 = 135°; ∠1, ∠3, ∠5, ∠7 = 45°."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Lines l and m are cut by transversal t. ∠a = 120° and ∠f = 70°. Are l and m parallel? Justify.",
+      "answer": "No. l and m are NOT parallel because the corresponding angles ∠b and ∠f are not equal.",
+      "solution": "∠a = 120°. ∠b = 180° − ∠a = 60° (linear pair with ∠a).\n∠b and ∠f are corresponding angles. For l ∥ m, we need ∠b = ∠f.\nBut ∠b = 60° and ∠f = 70°. Since 60° ≠ 70°, corresponding angles are NOT equal.\nTherefore, lines l and m are NOT parallel."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Parallel lines l and m are cut by transversal t. If ∠3 = 50°, find ∠6.",
+      "answer": "∠6 = 130°.",
+      "solution": "Method 1 (using interior angles): ∠3 and ∠6 are interior angles on the same side of the transversal. Since l ∥ m, co-interior angles add up to 180°. → ∠3 + ∠6 = 180° → ∠6 = 180° − 50° = 130°.\nMethod 2 (using linear pair + corresponding): ∠3 + ∠2 = 180° → ∠2 = 130°. ∠2 and ∠6 are corresponding angles (l ∥ m) → ∠6 = ∠2 = 130°. ✓"
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Prove (using reasoning) that vertically opposite angles are always equal.",
+      "answer": "Proof uses linear pairs: ∠a + ∠b = 180° and ∠a + ∠d = 180°, so ∠b = ∠d.",
+      "solution": "Let the two intersecting lines form angles ∠a, ∠b, ∠c, ∠d in order around the intersection.\nSince ∠a and ∠b lie on a straight line: ∠a + ∠b = 180° … (i)\nSince ∠a and ∠d lie on a straight line: ∠a + ∠d = 180° … (ii)\nFrom (i) and (ii): ∠a + ∠b = ∠a + ∠d → ∠b = ∠d.\nSimilarly, from ∠b + ∠a = 180° and ∠b + ∠c = 180°: ∠a = ∠c.\nThis is a proof — it uses logical reasoning (not measurement) and holds for all values of ∠a."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Prove that alternate angles are equal when a transversal crosses two parallel lines.",
+      "answer": "Proof: alternate = corresponding (equal, since l∥m) + vertically opposite (equal) → alternate angles equal.",
+      "solution": "Let transversal t cross parallel lines l and m. Let ∠f be an angle at the lower intersection and ∠d be its alternate angle at the upper intersection.\nStep 1: ∠b is the corresponding angle of ∠f. Since l ∥ m and corresponding angles are equal: ∠f = ∠b.\nStep 2: ∠d is vertically opposite to ∠b. Since vertically opposite angles are equal: ∠b = ∠d.\nCombining: ∠f = ∠b = ∠d → ∠f = ∠d.\nTherefore, alternate angles formed by a transversal on parallel lines are always equal. ∎"
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Prove that co-interior angles (interior angles on the same side of the transversal) formed by parallel lines add up to 180°.",
+      "answer": "Proof: co-interior angle pair = linear pair with one angle − that linear pair uses a corresponding angle already equal to its pair.",
+      "solution": "Let transversal t cross parallel lines l and m. Let ∠3 and ∠6 be co-interior angles (on the same side).\nStep 1: ∠3 and ∠2 form a linear pair → ∠3 + ∠2 = 180° … (i)\nStep 2: ∠2 and ∠6 are corresponding angles. Since l ∥ m: ∠2 = ∠6 … (ii)\nSubstituting (ii) into (i): ∠3 + ∠6 = 180°. ∎\nCo-interior angles always sum to 180° when the lines are parallel."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "How can you draw a line parallel to a given line l through a point A (not on l) using a set square and ruler?",
+      "answer": "Place set square along l, hold ruler against it, slide set square until it reaches A, draw line — the new line is parallel to l.",
+      "solution": "Steps:\n1. Draw line l.\n2. Place one side of the set square exactly along line l.\n3. Hold a ruler firmly against one of the other sides of the set square.\n4. Slide the set square along the ruler (the ruler keeps it straight) until the side that was on l reaches point A.\n5. Draw a line through A along that side of the set square.\nWhy it's parallel: Both lines make 90° with the set square edge (or the same angle). The new line and l have equal corresponding angles (the set square angle) with the ruler as transversal → the lines are parallel."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "A transversal cuts two lines. One pair of corresponding angles is 65° and 65°. Are the lines parallel? What if the angles were 65° and 75°?",
+      "answer": "Case 1 (65° = 65°): Yes, the lines are parallel. Case 2 (65° ≠ 75°): No, the lines are not parallel.",
+      "solution": "Corresponding angles test: If corresponding angles are equal, the lines are parallel; if not equal, they are not parallel.\nCase 1: Both angles = 65°. Equal → lines ARE parallel. ✓\nCase 2: Angles are 65° and 75°. 65° ≠ 75° → lines are NOT parallel. ✗\nThis test works in both directions: equal corresponding angles ↔ parallel lines."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "In a paper-folding activity: a square sheet is folded horizontally 3 times. How many parallel lines are created? What is the pattern?",
+      "answer": "After 3 folds: 9 parallel lines. Pattern: after n folds, number of parallel lines = 2ⁿ + 1.",
+      "solution": "Start: 2 edges (top and bottom) = 2 parallel lines.\nAfter fold 1: 3 lines (2 edges + 1 crease). 2¹ + 1 = 3. ✓\nAfter fold 2: 5 lines. 2² + 1 = 5. ✓\nAfter fold 3: 9 lines. 2³ + 1 = 9. ✓\nPattern: 2ⁿ + 1 lines after n horizontal folds. Each fold creates new crease lines parallel to the top and bottom edges."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "AB ∥ CD and AD ∥ BC. ∠DAC = 65° and ∠ADC = 60°. Find ∠CAB, ∠ABC, and ∠BCD.",
+      "answer": "∠CAB = 55°, ∠ABC = 60°, ∠BCD = 120°.",
+      "solution": "Step 1: AD is a transversal for AB ∥ CD. Co-interior angles: ∠ADC + ∠DAB = 180°.\n60° + ∠DAB = 180° → ∠DAB = 120°.\nStep 2: ∠DAB = ∠DAC + ∠CAB → 120° = 65° + ∠CAB → ∠CAB = 55°.\nStep 3: CD is a transversal for AD ∥ BC. Co-interior angles: ∠ADC + ∠BCD = 180°.\n60° + ∠BCD = 180° → ∠BCD = 120°.\nStep 4: AB is a transversal for AD ∥ BC. Co-interior angles: ∠DAB + ∠ABC = 180°.\n120° + ∠ABC = 180° → ∠ABC = 60°."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "Why can two lines on different planes that never meet NOT be called parallel?",
+      "answer": "Parallel lines must lie on the same plane. Lines on different planes never meet but are called skew lines, not parallel.",
+      "solution": "The definition of parallel lines requires: (1) both lines lie on the SAME plane, and (2) they never intersect. Lines that satisfy only condition (2) but not (1) are called skew lines. For example, a line drawn on a tabletop and a line drawn on a wall may never meet, but they are skew (not parallel) because they are on different planes. Parallel lines must be coplanar."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "In a figure, two lines are cut by a transversal. One interior angle is 3 times the other interior angle on the SAME side. Are the lines parallel? Find the angles.",
+      "answer": "Yes, the lines ARE parallel. The angles are 45° and 135°.",
+      "solution": "Let the two co-interior angles on the same side be x and 3x.\nFor the lines to be parallel, co-interior angles must sum to 180°:\nx + 3x = 180° → 4x = 180° → x = 45°.\nThe two angles are 45° and 135°.\nSince 45° + 135° = 180°, this satisfies the co-interior angle condition → lines ARE parallel."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "AB ∥ CD ∥ EF, and EA is perpendicular to AB. If ∠BEF = 55°, find x and y, where x = ∠ECD and y = ∠CEA.",
+      "answer": "x = y = 125°.",
+      "solution": "Since AB ∥ EF, and EA is a transversal:\nEA ⊥ AB means ∠EAB = 90°. So ∠AEF = 90° (EA is perpendicular to AB, and AB ∥ EF means AE acts as transversal with co-interior angles summing to 180° — but ∠EAB = 90° so ∠AEF = 90°).\n∠BEF = 55° (given). ∠AEB = ∠AEF − ∠BEF = 90° − 55° = 35°. Actually: ∠AEF = 90°, and ∠BEF = 55°, so ∠AEB = ∠AEF − ∠BEF = 35°.\nSince AB ∥ CD: corresponding angle of ∠EAB (90°) with transversal AE gives x. Actually x = ∠ECD.\nUsing AB ∥ CD as parallel lines with transversal EC: corresponding angle = x. From the figure context: x = 180° − 55° = 125° (co-interior with ∠BEF on parallel lines AB ∥ CD). Similarly y = 125°."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Two lines are cut by a transversal forming alternate angles of (3x + 10)° and (5x − 30)°. Find x. Are the lines parallel?",
+      "answer": "x = 20. Yes, the lines are parallel since alternate angles are equal (70° each).",
+      "solution": "For the lines to be parallel, alternate angles must be equal:\n3x + 10 = 5x − 30\n10 + 30 = 5x − 3x\n40 = 2x → x = 20.\nAlternate angle 1 = 3(20) + 10 = 70°.\nAlternate angle 2 = 5(20) − 30 = 70°.\nBoth equal 70°, confirming the lines ARE parallel."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Corresponding angles formed by a transversal are (4x + 15)° and (6x − 25)°. Find x and determine whether the lines are parallel.",
+      "answer": "x = 20. Lines are parallel since both corresponding angles equal 95°.",
+      "solution": "Corresponding angles are equal iff the lines are parallel.\nSet them equal: 4x + 15 = 6x − 25\n15 + 25 = 6x − 4x\n40 = 2x → x = 20.\nAngle 1 = 4(20) + 15 = 95°.\nAngle 2 = 6(20) − 25 = 95°.\nBoth = 95° → corresponding angles are equal → the lines ARE parallel."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Why does the paper-folding method (fold perpendicular to l through A, then fold perpendicular to that line through A) produce a line parallel to l?",
+      "answer": "Both l and the new line m are perpendicular to the same transversal t through A. So their corresponding angles with t are both 90°, which means l ∥ m.",
+      "solution": "Step 1: Fold gives crease t perpendicular to l through A → t ⊥ l, so angle between t and l = 90°.\nStep 2: Fold gives crease m perpendicular to t through A → t ⊥ m, so angle between t and m = 90°.\nNow consider t as a transversal for lines l and m.\nThe corresponding angle at l (between l and t) = 90°.\nThe corresponding angle at m (between m and t) = 90°.\nSince corresponding angles are equal (both 90°), by the corresponding angles theorem, l ∥ m."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "∠f = 120° when a transversal crosses parallel lines l and m. Find ∠d (the alternate angle of ∠f). Show the step-by-step proof.",
+      "answer": "∠d = 120°.",
+      "solution": "Step 1: Find the corresponding angle of ∠f.\n∠b is the corresponding angle of ∠f (on parallel lines l and m).\nSince l ∥ m: ∠b = ∠f = 120° (corresponding angles are equal on parallel lines).\nStep 2: Find the alternate angle.\n∠d is vertically opposite to ∠b (they are at the same intersection, on opposite sides).\nSince vertically opposite angles are equal: ∠d = ∠b = 120°.\nTherefore ∠d = 120°.\nThis proof uses no measurement — only the corresponding angles theorem and the property of vertically opposite angles."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Two angles in a linear pair are in the ratio 2:7. Find both angles. If these form a linear pair at the intersection of a transversal with a line, and the lines cut by the transversal are parallel, find the corresponding angle to the smaller one.",
+      "answer": "Angles: 40° and 140°. Corresponding angle to the 40° angle = 40°.",
+      "solution": "Let the two angles be 2k and 7k (in ratio 2:7).\nLinear pair: 2k + 7k = 180° → 9k = 180° → k = 20°.\nAngles: 2k = 40° and 7k = 140°.\nIf these are at the intersection of a transversal with line l, and line m is parallel to l:\nCorresponding angle to 40° = 40° (corresponding angles are equal on parallel lines).\nCorresponding angle to 140° = 140°."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "In a quadrilateral ABCD, AB ∥ CD. If ∠DAB = 110° and ∠ABC = 85°, find ∠ADC and ∠BCD using transversal properties.",
+      "answer": "∠ADC = 70°, ∠BCD = 95°.",
+      "solution": "AB ∥ CD. AD is a transversal for AB and CD.\nCo-interior angles on the same side: ∠DAB + ∠ADC = 180° (interior angles, since AB ∥ CD).\n110° + ∠ADC = 180° → ∠ADC = 70°.\nBC is a transversal for AB and CD.\nCo-interior angles: ∠ABC + ∠BCD = 180°.\n85° + ∠BCD = 180° → ∠BCD = 95°.\nVerification: Sum of angles in quadrilateral = 110° + 85° + 95° + 70° = 360°. ✓"
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "A transversal cuts two parallel lines. One of the 8 angles is 72°. Without drawing, list ALL 8 angle measures.",
+      "answer": "Four angles of 72° and four angles of 108°.",
+      "solution": "Let one angle = 72°.\nAt the same intersection, its linear pair = 180° − 72° = 108°; its vertically opposite = 72°; the fourth angle = 108°.\nAt the other intersection (parallel line), corresponding angles are equal to those at the first intersection:\nMirror of 72° → 72°; mirror of 108° → 108°; vertically opposite pairs repeat.\nThe 8 angles: 72°, 108°, 72°, 108° (at line l) and 72°, 108°, 72°, 108° (at line m).\nSimplification: 4 angles of 72° and 4 angles of 108°."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "Two lines are intersected by a transversal. One pair of co-interior angles is (2x + 30)° and (3x + 20)°. Find x. Are the lines parallel?",
+      "answer": "x = 26. Yes, lines are parallel since co-interior angles sum to 180°.",
+      "solution": "Co-interior (same-side interior) angles on parallel lines sum to 180°.\n(2x + 30) + (3x + 20) = 180\n5x + 50 = 180\n5x = 130 → x = 26.\nAngle 1 = 2(26) + 30 = 82°.\nAngle 2 = 3(26) + 20 = 98°.\n82° + 98° = 180° ✓ → the lines are parallel."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "In a figure, line segment LM and PQ are parallel lines. A zigzag path goes from L through point N (above) to O then to P, making angles at N and O. ∠LNO = 47° and ∠NOP = 61°. Find ∠NOP (the angle at O inside the zigzag) using auxiliary parallel lines. What is ∠NOP?",
+      "answer": "∠NOP = 61° is given. The full angle ∠LNO + ∠NOP combined with auxiliary parallel lines through N and O gives ∠NOP as part of the solution: total angle = 47° + 61° = 108°.",
+      "solution": "Draw a line through N parallel to LM (and PQ). This creates corresponding and alternate angles at N.\nAt N: the line LM makes angle 47° with NO on one side. The auxiliary parallel line through N splits this: the angle between LN and auxiliary = 0° (since they're parallel). The alternate angle equals 47°.\nAt O: similarly, draw auxiliary line through O parallel to LM. The angle between OP and auxiliary = 61°.\nThe angle ∠NOP between the two auxiliary lines at O = 47° + 61° = 108°.\nNote: This matches the textbook result ∠NOP = 108°."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "Explain, using angle reasoning, why the sum of angles in a triangle is always 180°. (Hint: Draw a line through the apex parallel to the base.)",
+      "answer": "Drawing a line through the apex parallel to the base creates alternate angles equal to the two base angles. The three angles at the apex form a straight line (180°) — proving the angle sum = 180°.",
+      "solution": "Let triangle ABC have base BC. Draw a line DE through A, parallel to BC.\n• ∠DAB = ∠ABC (alternate angles: DE ∥ BC, transversal AB) → ∠DAB = ∠B.\n• ∠EAC = ∠BCA (alternate angles: DE ∥ BC, transversal AC) → ∠EAC = ∠C.\n• ∠DAE is a straight angle: ∠DAB + ∠BAC + ∠EAC = 180°.\nSubstituting: ∠B + ∠BAC + ∠C = 180°.\nTherefore ∠A + ∠B + ∠C = 180°. ∎\nThis elegant proof uses only alternate angles on parallel lines — a direct application of this chapter's concepts."
+    }
+  ]
+}

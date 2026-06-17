@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Mathematics",
+    "chapter_name": "Working with Fractions",
+    "chapter_number": 8
+  },
+  "summary": [
+    {
+      "category": "Multiplication of Fractions",
+      "points": [
+        "Multiplication of a whole number by a fraction is performed using the rule: (numerator/denominator) × whole number = (whole number ÷ denominator) × numerator. When both numbers are fractions, Brahmagupta's formula applies: (a/b) × (c/d) = (a × c)/(b × d).",
+        "The geometric interpretation shows that multiplying two fractions is equivalent to finding the area of a rectangle with fractional sides; common factors can be cancelled before multiplication to simplify calculations.",
+        "When multiplying, if both numbers are between 0 and 1, the product is smaller than both numbers. If both are greater than 1, the product is larger than both. The order of multiplication does not matter (commutative property)."
+      ]
+    },
+    {
+      "category": "Division of Fractions",
+      "points": [
+        "Division of fractions is the inverse operation of multiplication and is performed using Brahmagupta's formula: (a/b) ÷ (c/d) = (a/b) × (d/c). This converts division into multiplication by the reciprocal of the divisor.",
+        "The reciprocal of a fraction a/b is b/a; when a fraction is multiplied by its reciprocal, the product is always 1. Division by a divisor between 0 and 1 produces a quotient greater than the dividend, while division by a divisor greater than 1 produces a smaller quotient.",
+        "Real-world problems involving sharing, distribution, and measurement can be solved systematically using fraction division rules, such as finding how much each person receives when dividing quantities equally."
+      ]
+    },
+    {
+      "category": "Applications and Patterns",
+      "points": [
+        "Fractions are essential for solving practical problems involving areas of rectangles with fractional dimensions, water tank filling rates, land distribution, and equal sharing among multiple people or groups.",
+        "Special patterns emerge in consecutive fraction operations, such as the telescoping product (1 − 1/2) × (1 − 1/3) × (1 − 1/4) × ... × (1 − 1/n) = 1/n, demonstrating the power and elegance of fraction arithmetic.",
+        "The theory of fractions and systematic rules for arithmetic operations were developed by Indian mathematicians like Brahmagupta (628 CE) and Bhāskara II (1150 CE), later transmitted to Europe and becoming fundamental to modern mathematics worldwide."
+      ]
+    }
+  ]
+}

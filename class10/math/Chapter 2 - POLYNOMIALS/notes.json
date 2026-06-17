@@ -1,0 +1,361 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Polynomials",
+    "chapter_number": 2
+  },
+  "notes": [
+    {
+      "section_title": "2.1 Polynomials: A Review and Introduction",
+      "topics": [
+        {
+          "topic_name": "Polynomial Definition and Degree",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A polynomial in one variable x is an algebraic expression of the form aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₁x + a₀, where a₀, a₁, ..., aₙ are constants (called coefficients) and aₙ ≠ 0. The highest power n of the variable x in a polynomial is called the degree of the polynomial. For example, 4x + 2 is a polynomial of degree 1, 2y² - 3y + 4 is of degree 2, and 5x³ - 4x² + x - √2 is of degree 3. Expressions like 1/(x-1), √x + 2, and 1/(x² + 2x + 3) are NOT polynomials because they contain negative exponents or fractional exponents."
+            },
+            {
+              "type": "note",
+              "title": "Classification by Degree",
+              "text": "Linear polynomial (degree 1): ax + b, where a ≠ 0. Example: 2x - 3. Quadratic polynomial (degree 2): ax² + bx + c, where a ≠ 0. Example: 2x² + 3x - 5. Cubic polynomial (degree 3): ax³ + bx² + cx + d, where a ≠ 0. Example: x³ - 2x² + 5x - 1."
+            }
+          ]
+        },
+        {
+          "topic_name": "Value of a Polynomial at a Point",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "If p(x) is a polynomial and k is any real number, the value of p(x) at x = k, denoted p(k), is obtained by replacing x with k in the polynomial. For example, if p(x) = x² - 3x - 4, then p(2) = 2² - 3(2) - 4 = 4 - 6 - 4 = -6, and p(0) = 0 - 0 - 4 = -4."
+            },
+            {
+              "type": "example",
+              "title": "Evaluating Polynomials",
+              "content": "Example: Find p(-1) and p(4) for p(x) = x² - 3x - 4.\np(-1) = (-1)² - 3(-1) - 4 = 1 + 3 - 4 = 0.\np(4) = 4² - 3(4) - 4 = 16 - 12 - 4 = 0."
+            }
+          ]
+        },
+        {
+          "topic_name": "Zeroes of a Polynomial",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A real number k is called a zero of polynomial p(x) if p(k) = 0. In other words, the zeroes of a polynomial are the values of x for which the polynomial equals zero. For a linear polynomial ax + b (where a ≠ 0), the zero is x = -b/a. For example, the zero of 2x + 3 is x = -3/2."
+            },
+            {
+              "type": "note",
+              "title": "Zero of a Linear Polynomial",
+              "text": "For a linear polynomial ax + b where a ≠ 0, the unique zero is x = -b/a = -(Constant term)/(Coefficient of x)."
+            },
+            {
+              "type": "paragraph",
+              "text": "The relationship between zeroes and coefficients is fundamental. For the zero x = -b/a of ax + b, we observe that this is related directly to the coefficients a and b. A key question in this chapter is: Do zeroes of quadratic and cubic polynomials also have such relationships with their coefficients?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.2 Geometrical Meaning of Zeroes of a Polynomial",
+      "topics": [
+        {
+          "topic_name": "Graphical Interpretation of Zeroes",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The zeroes of a polynomial p(x) have an important geometric interpretation: they are the x-coordinates of the points where the graph of y = p(x) intersects the x-axis. This is because at these points, y = p(x) = 0, meaning the graph touches the x-axis. This geometric perspective provides valuable insight into the nature and number of zeroes a polynomial can have."
+            },
+            {
+              "type": "note",
+              "title": "Geometric Meaning of Zeroes",
+              "text": "The zeroes of p(x) are the x-coordinates of points where the curve y = p(x) intersects the x-axis. Equivalently, they are the roots of the equation p(x) = 0."
+            }
+          ]
+        },
+        {
+          "topic_name": "Linear Polynomial: Graphical Perspective",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The graph of a linear polynomial y = ax + b (where a ≠ 0) is a straight line. This line intersects the x-axis at exactly one point, namely at (-b/a, 0). The x-coordinate of this intersection point is the unique zero of the linear polynomial. For example, the line y = 2x + 3 intersects the x-axis at (-3/2, 0), and -3/2 is the zero of the polynomial 2x + 3."
+            },
+            {
+              "type": "example",
+              "title": "Linear Polynomial Intersection",
+              "content": "For y = 2x + 3 with points (-2, -1) and (2, 7): Setting y = 0: 0 = 2x + 3 → x = -3/2. The graph intersects the x-axis at (-3/2, 0), confirming the zero is -3/2."
+            }
+          ]
+        },
+        {
+          "topic_name": "Quadratic Polynomial: Graphical Perspective and Cases",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The graph of a quadratic polynomial y = ax² + bx + c (where a ≠ 0) is a parabola. The shape depends on the sign of a: if a > 0, the parabola opens upward (∪); if a < 0, it opens downward (∩). The number of times this parabola intersects the x-axis determines the number of real zeroes the quadratic polynomial has. There are three cases:"
+            },
+            {
+              "type": "paragraph",
+              "text": "Case (i): The parabola intersects the x-axis at two distinct points. The x-coordinates of these two points are two distinct real zeroes of the quadratic polynomial. For example, y = x² - 3x - 4 crosses the x-axis at x = -1 and x = 4 (since the polynomial has zeroes -1 and 4)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Case (ii): The parabola touches the x-axis at exactly one point (the vertex lies on the x-axis). In this case, the quadratic polynomial has two equal zeroes (or one zero with multiplicity 2). The x-coordinate of the point of tangency is this repeated zero. This occurs when the discriminant b² - 4ac = 0."
+            },
+            {
+              "type": "paragraph",
+              "text": "Case (iii): The parabola does not intersect the x-axis at all—it lies entirely above (if a > 0) or entirely below (if a < 0) the x-axis. In this case, the quadratic polynomial has no real zeroes. This occurs when the discriminant b² - 4ac < 0, and any zeroes are complex numbers."
+            },
+            {
+              "type": "note",
+              "title": "Number of Real Zeroes of a Quadratic",
+              "text": "A quadratic polynomial can have: (i) Two distinct real zeroes (discriminant > 0), (ii) One real zero (repeated, discriminant = 0), or (iii) No real zeroes (discriminant < 0). At most 2 real zeroes total."
+            }
+          ]
+        },
+        {
+          "topic_name": "Cubic Polynomial: Graphical Perspective",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The graph of a cubic polynomial y = ax³ + bx² + cx + d (where a ≠ 0) is a smooth curve that can have various shapes. Unlike quadratic parabolas, cubic curves can cross the x-axis multiple times. A cubic polynomial of degree 3 can have at most 3 real zeroes. The graph may intersect the x-axis at 1, 2, or 3 distinct points. For example, the polynomial x³ - 4x has zeroes at x = -2, 0, and 2, and the curve crosses the x-axis at three points."
+            },
+            {
+              "type": "note",
+              "title": "Cubic Polynomial Characteristics",
+              "text": "A cubic polynomial can have: (i) Three distinct real zeroes, (ii) One distinct zero and one repeated zero, (iii) One real zero and two complex conjugate zeroes. At most 3 real zeroes total."
+            }
+          ]
+        },
+        {
+          "topic_name": "General Principle: Degree and Number of Zeroes",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A fundamental principle in algebra is that a polynomial of degree n can have at most n real zeroes. This follows from the Fundamental Theorem of Algebra. Geometrically, this corresponds to the fact that the graph of y = p(x) can intersect the x-axis at most n times. For degree 1 (linear): at most 1 zero. For degree 2 (quadratic): at most 2 zeroes. For degree 3 (cubic): at most 3 zeroes. In general, degree n: at most n zeroes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.3 Relationship Between Zeroes and Coefficients of a Polynomial",
+      "topics": [
+        {
+          "topic_name": "Linear Polynomial: Sum and Product Relations",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "For a linear polynomial ax + b (a ≠ 0), the single zero is α = -b/a. This can be rewritten to show relationships with coefficients: α = -b/a = -(Constant term)/(Coefficient of x)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Quadratic Polynomial: Sum and Product of Zeroes",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "For a quadratic polynomial ax² + bx + c (a ≠ 0) with zeroes α and β, there are important relationships between the zeroes and the coefficients. These relationships can be derived algebraically. If α and β are the zeroes, then the polynomial can be written as a(x - α)(x - β) = a[x² - (α + β)x + αβ] = ax² - a(α + β)x + aαβ. Comparing with ax² + bx + c, we get: -a(α + β) = b and aαβ = c."
+            },
+            {
+              "type": "note",
+              "title": "Quadratic Zeroes-Coefficients Relations",
+              "text": "For quadratic ax² + bx + c with zeroes α and β: (i) Sum of zeroes: α + β = -b/a. (ii) Product of zeroes: αβ = c/a. These are also written as: α + β = -(Coefficient of x)/(Coefficient of x²). αβ = (Constant term)/(Coefficient of x²)."
+            },
+            {
+              "type": "example",
+              "title": "Verifying Quadratic Relations",
+              "content": "Example: For p(x) = x² - 3x - 4 with zeroes -1 and 4. Sum: -1 + 4 = 3 = -(-3)/1 = -b/a ✓. Product: (-1)(4) = -4 = -4/1 = c/a ✓. Example: For p(x) = 6x² - 5x - 6 (which can be factored as (2x - 3)(3x + 2)), zeroes are 3/2 and -2/3. Sum: 3/2 + (-2/3) = 9/6 - 4/6 = 5/6 = -(-5)/6 = -b/a ✓. Product: (3/2)(-2/3) = -1 = -6/6 = c/a ✓."
+            }
+          ]
+        },
+        {
+          "topic_name": "Finding Quadratic Polynomial from Sum and Product of Zeroes",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Given the sum and product of zeroes, we can construct a quadratic polynomial. If the sum of zeroes is S and the product is P, then the quadratic polynomial is x² - Sx + P. More generally, if we want a polynomial with leading coefficient a, it is a[x² - Sx + P] = ax² - aSx + aP."
+            },
+            {
+              "type": "example",
+              "title": "Constructing Quadratic from Zeroes Relations",
+              "content": "Example: Find a quadratic polynomial with sum of zeroes = -3 and product = 2. The polynomial is x² - (-3)x + 2 = x² + 3x + 2. We can verify: if we factor x² + 3x + 2 = (x + 1)(x + 2), the zeroes are -1 and -2. Sum: -1 + (-2) = -3 ✓. Product: (-1)(-2) = 2 ✓. Example: Find a quadratic with sum 1/4 and product -1. Polynomial: x² - (1/4)x + (-1) = x² - x/4 - 1. Or with a = 4: 4x² - x - 4."
+            }
+          ]
+        },
+        {
+          "topic_name": "Cubic Polynomial: Relationships Between Zeroes and Coefficients",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "For a cubic polynomial ax³ + bx² + cx + d (a ≠ 0) with zeroes α, β, and γ, there are three important relationships. These can be derived by expanding a(x - α)(x - β)(x - γ) and comparing coefficients with ax³ + bx² + cx + d."
+            },
+            {
+              "type": "note",
+              "title": "Cubic Zeroes-Coefficients Relations",
+              "text": "For cubic ax³ + bx² + cx + d with zeroes α, β, γ: (i) Sum of zeroes: α + β + γ = -b/a. (ii) Sum of products taken two at a time: αβ + βγ + γα = c/a. (iii) Product of all zeroes: αβγ = -d/a. These are also written as: α + β + γ = -(Coefficient of x²)/(Coefficient of x³). αβ + βγ + γα = (Coefficient of x)/(Coefficient of x³). αβγ = -(Constant term)/(Coefficient of x³)."
+            },
+            {
+              "type": "example",
+              "title": "Verifying Cubic Relations",
+              "content": "Example: For p(x) = 2x³ - 5x² - 14x + 8 with zeroes 4, -2, and 1/2. Sum: 4 + (-2) + 1/2 = 5/2 = -(-5)/2 = -b/a ✓. Sum of products two at a time: 4(-2) + (-2)(1/2) + (1/2)(4) = -8 - 1 + 2 = -7 = -14/2 = c/a ✓. Product: 4(-2)(1/2) = -4 = -8/2 = -d/a ✓. Example: For p(x) = 3x³ - 5x² - 11x - 3 with zeroes 3, -1, -1/3. Sum: 3 + (-1) + (-1/3) = 5/3 = -(-5)/3 = -b/a ✓. Sum of products: 3(-1) + (-1)(-1/3) + (-1/3)(3) = -3 + 1/3 - 1 = -11/3 = -11/3 = c/a ✓. Product: 3(-1)(-1/3) = 1 = -(-3)/3 = -d/a ✓."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.4 Division Algorithm for Polynomials",
+      "topics": [
+        {
+          "topic_name": "Statement of Division Algorithm",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Division Algorithm for polynomials is analogous to the division algorithm for integers. It states that if p(x) and g(x) are two polynomials with g(x) ≠ 0, then there exist unique polynomials q(x) (quotient) and r(x) (remainder) such that p(x) = g(x)·q(x) + r(x), where either r(x) = 0 or degree of r(x) < degree of g(x). This is a fundamental tool for polynomial arithmetic and factorization."
+            },
+            {
+              "type": "note",
+              "title": "Polynomial Division Algorithm",
+              "text": "For polynomials p(x) and g(x) with g(x) ≠ 0: p(x) = g(x)·q(x) + r(x), where q(x) is the quotient and r(x) is the remainder. The remainder is either 0 or has degree less than the degree of g(x)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Remainder Theorem",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Remainder Theorem is a special case of the Division Algorithm. It states: If a polynomial p(x) is divided by (x - a), then the remainder is p(a). This is because when dividing p(x) by the linear polynomial (x - a), the remainder r(x) must have degree less than 1, so it must be a constant. By the division algorithm: p(x) = (x - a)·q(x) + r. Setting x = a: p(a) = 0·q(a) + r, so r = p(a)."
+            },
+            {
+              "type": "note",
+              "title": "Remainder Theorem",
+              "text": "When polynomial p(x) is divided by (x - a), the remainder is p(a). Alternatively: When p(x) is divided by (x + a), the remainder is p(-a)."
+            },
+            {
+              "type": "example",
+              "title": "Applying Remainder Theorem",
+              "content": "Example: Find the remainder when p(x) = x³ - 3x² + 4x - 12 is divided by (x - 2). By the Remainder Theorem, remainder = p(2) = 2³ - 3(2)² + 4(2) - 12 = 8 - 12 + 8 - 12 = -8. Example: Find the remainder when p(x) = x² + 3x + 5 is divided by (x + 1). Remainder = p(-1) = (-1)² + 3(-1) + 5 = 1 - 3 + 5 = 3."
+            }
+          ]
+        },
+        {
+          "topic_name": "Factor Theorem",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Factor Theorem is another important consequence of the Division Algorithm. It states: (x - a) is a factor of polynomial p(x) if and only if p(a) = 0. In other words, (x - a) is a factor of p(x) precisely when a is a zero of p(x). This provides a systematic method to find factors and zeroes of polynomials."
+            },
+            {
+              "type": "note",
+              "title": "Factor Theorem",
+              "text": "(x - a) is a factor of p(x) ⟺ p(a) = 0. Similarly, (x + a) is a factor of p(x) ⟺ p(-a) = 0. If (x - a) is a factor of p(x), then a is a zero of p(x), and p(x) can be written as p(x) = (x - a)·q(x) for some polynomial q(x)."
+            },
+            {
+              "type": "example",
+              "title": "Using Factor Theorem",
+              "content": "Example: Check if (x - 2) is a factor of p(x) = x³ - 3x² + 4x - 8. We check: p(2) = 2³ - 3(2)² + 4(2) - 8 = 8 - 12 + 8 - 8 = -4 ≠ 0. So (x - 2) is NOT a factor. Example: Check if (x + 1) is a factor of p(x) = x³ + 3x² + 3x + 1. We check: p(-1) = (-1)³ + 3(-1)² + 3(-1) + 1 = -1 + 3 - 3 + 1 = 0. So (x + 1) IS a factor. In fact, p(x) = (x + 1)³."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Polynomial",
+      "definition": "An algebraic expression of the form aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₁x + a₀, where a₀, a₁, ..., aₙ are constants and aₙ ≠ 0. All exponents are non-negative integers."
+    },
+    {
+      "term": "Degree of a Polynomial",
+      "definition": "The highest power of the variable in a polynomial. For example, the degree of x³ - 2x + 1 is 3."
+    },
+    {
+      "term": "Linear Polynomial",
+      "definition": "A polynomial of degree 1, of the form ax + b where a ≠ 0. Example: 2x - 3."
+    },
+    {
+      "term": "Quadratic Polynomial",
+      "definition": "A polynomial of degree 2, of the form ax² + bx + c where a ≠ 0. Example: x² - 5x + 6."
+    },
+    {
+      "term": "Cubic Polynomial",
+      "definition": "A polynomial of degree 3, of the form ax³ + bx² + cx + d where a ≠ 0. Example: x³ - 2x² + 3x - 1."
+    },
+    {
+      "term": "Zero of a Polynomial",
+      "definition": "A real number k such that p(k) = 0. The zero is also called a root of the polynomial or the equation p(x) = 0."
+    },
+    {
+      "term": "Value of a Polynomial",
+      "definition": "The result obtained by substituting a specific value for the variable in a polynomial. Denoted p(k) where k is the value substituted for x."
+    },
+    {
+      "term": "x-intercept",
+      "definition": "A point where the graph of a function crosses the x-axis, having coordinates (a, 0). For y = p(x), the x-intercepts correspond to the zeroes of p(x)."
+    },
+    {
+      "term": "Parabola",
+      "definition": "The U-shaped or inverted U-shaped curve that is the graph of a quadratic polynomial. Opens upward if a > 0, downward if a < 0."
+    },
+    {
+      "term": "Discriminant",
+      "definition": "For quadratic ax² + bx + c, the expression Δ = b² - 4ac. Determines the nature of zeroes: Δ > 0 (two distinct real zeroes), Δ = 0 (one repeated real zero), Δ < 0 (no real zeroes)."
+    },
+    {
+      "term": "Sum of Zeroes",
+      "definition": "For quadratic ax² + bx + c with zeroes α, β: α + β = -b/a. For cubic ax³ + bx² + cx + d with zeroes α, β, γ: α + β + γ = -b/a."
+    },
+    {
+      "term": "Product of Zeroes",
+      "definition": "For quadratic ax² + bx + c with zeroes α, β: αβ = c/a. For cubic ax³ + bx² + cx + d with zeroes α, β, γ: αβγ = -d/a."
+    },
+    {
+      "term": "Division Algorithm for Polynomials",
+      "definition": "For polynomials p(x) and g(x) with g(x) ≠ 0, there exist unique polynomials q(x) and r(x) such that p(x) = g(x)·q(x) + r(x), where either r(x) = 0 or degree of r(x) < degree of g(x)."
+    },
+    {
+      "term": "Quotient Polynomial",
+      "definition": "The polynomial q(x) obtained when dividing p(x) by g(x). In p(x) = g(x)·q(x) + r(x), q(x) is the quotient."
+    },
+    {
+      "term": "Remainder Polynomial",
+      "definition": "The polynomial r(x) obtained when dividing p(x) by g(x). In p(x) = g(x)·q(x) + r(x), r(x) is the remainder, with degree less than degree of g(x)."
+    },
+    {
+      "term": "Remainder Theorem",
+      "definition": "When polynomial p(x) is divided by (x - a), the remainder is the constant p(a)."
+    },
+    {
+      "term": "Factor Theorem",
+      "definition": "(x - a) is a factor of p(x) if and only if p(a) = 0. Equivalently, a is a zero of p(x) if and only if (x - a) is a factor."
+    },
+    {
+      "term": "Factor of a Polynomial",
+      "definition": "A polynomial that divides another polynomial with zero remainder. If (x - a) is a factor of p(x), then p(x) = (x - a)·q(x) for some polynomial q(x)."
+    },
+    {
+      "term": "Repeated Zero",
+      "definition": "A zero that occurs more than once. A quadratic can have a repeated zero (multiplicity 2) when the discriminant is zero. Geometrically, the parabola is tangent to the x-axis."
+    },
+    {
+      "term": "Distinct Zeroes",
+      "definition": "Zeroes that are all different from each other. A quadratic with two distinct zeroes has a discriminant > 0 and crosses the x-axis at two different points."
+    }
+  ],
+  "summary_points": [
+    "A polynomial p(x) of degree n has the form aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₁x + a₀ where aₙ ≠ 0. Linear, quadratic, and cubic polynomials are degree 1, 2, and 3 respectively.",
+    "A real number k is a zero of p(x) if and only if p(k) = 0. Geometrically, zeroes are x-coordinates of points where the graph y = p(x) intersects the x-axis.",
+    "A linear polynomial ax + b (a ≠ 0) has exactly one zero: x = -b/a. A quadratic polynomial can have 0, 1, or 2 real zeroes. A cubic polynomial can have 1, 2, or 3 real zeroes. A degree n polynomial has at most n real zeroes.",
+    "For quadratic ax² + bx + c with zeroes α and β: Sum α + β = -b/a, Product αβ = c/a. The discriminant Δ = b² - 4ac determines the nature: Δ > 0 (two distinct real zeroes), Δ = 0 (one repeated zero), Δ < 0 (no real zeroes).",
+    "For cubic ax³ + bx² + cx + d with zeroes α, β, γ: Sum α + β + γ = -b/a, Sum of products two at a time αβ + βγ + γα = c/a, Product αβγ = -d/a. These relationships allow finding polynomials from zeroes or determining zeroes from coefficients.",
+    "Given the sum S and product P of two zeroes, the quadratic polynomial is x² - Sx + P. More generally, if a is the leading coefficient: ax² - aSx + aP.",
+    "The Remainder Theorem states: When p(x) is divided by (x - a), the remainder is p(a). This provides a quick way to find remainders without performing full polynomial division.",
+    "The Factor Theorem states: (x - a) is a factor of p(x) if and only if p(a) = 0. This provides a systematic method to find factors and establish relationships between zeroes and factors.",
+    "The Division Algorithm for polynomials states: p(x) = g(x)·q(x) + r(x), where q(x) is the quotient and r(x) is the remainder with degree less than degree of g(x). This is the basis for polynomial division.",
+    "The geometric interpretation shows that the shape and behavior of the polynomial graph depend on its degree and leading coefficient. Quadratic graphs are parabolas; cubic graphs are smooth S-shaped curves that can cross the x-axis up to 3 times.",
+    "The relationships between zeroes and coefficients are fundamental because they allow us to construct polynomials with desired zeroes, factorize polynomials, and understand the structure of polynomial equations without explicitly finding all zeroes."
+  ]
+}

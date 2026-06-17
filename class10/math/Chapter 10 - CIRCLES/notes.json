@@ -1,0 +1,420 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Circles",
+    "chapter_number": 10
+  },
+  "notes": [
+    {
+      "section_title": "10.1 Introduction: Positions of a Line and a Circle",
+      "topics": [
+        {
+          "topic_name": "Three Possible Positions of a Line with Respect to a Circle",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When a line and a circle are given in a plane, there are exactly three possible relationships between them based on the number of common points they share."
+            },
+            {
+              "type": "list",
+              "title": "The Three Cases",
+              "items": [
+                "Non-intersecting line: The line PQ and the circle have no common point. The line does not touch or cross the circle.",
+                "Secant: The line PQ intersects the circle at two distinct points (A and B). A secant is a line that cuts through the circle.",
+                "Tangent: The line PQ touches the circle at exactly one point (A). This line is called a tangent to the circle."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "These are the only three possible positions. No other configuration is possible between a line and a circle. Understanding these distinctions is fundamental to the study of tangents and their properties."
+            },
+            {
+              "type": "note",
+              "title": "Real-World Application",
+              "text": "A pulley fitted over a well, as seen in traditional water-drawing systems, demonstrates the concept of a tangent. The rope on both sides of the pulley acts as tangent lines to the circular pulley, touching it at exactly one point."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "10.2 Tangent to a Circle",
+      "topics": [
+        {
+          "topic_name": "Definition and Existence of Tangents",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A tangent to a circle is a line that intersects the circle at exactly one point. At that unique point of intersection, the tangent is said to touch the circle."
+            },
+            {
+              "type": "activity",
+              "id": "10.1",
+              "title": "Activity 1: Understanding Tangent as a Limiting Case of Secant",
+              "procedure": [
+                "Take a circular wire and attach a straight wire AB at a point P on the circular wire.",
+                "Rotate the wire AB about point P in a plane.",
+                "Observe the positions where AB intersects the circle at P and another point (Q₁, Q₂, Q₃, etc.).",
+                "Continue rotating until AB intersects the circle only at point P."
+              ],
+              "observation": "As the wire AB rotates towards the position A'B', the second point of intersection gradually moves closer to P. Eventually, it coincides with P, and the line becomes a tangent.",
+              "conclusion": "A tangent to a circle is a special case of a secant where the two endpoints of the corresponding chord coincide. There is only one tangent at any given point on a circle."
+            },
+            {
+              "type": "activity",
+              "id": "10.2",
+              "title": "Activity 2: Tangents Parallel to a Secant",
+              "procedure": [
+                "Draw a circle and a secant PQ of the circle on a paper.",
+                "Draw multiple lines parallel to the secant on both sides of it.",
+                "Observe the lengths of the chords cut by these parallel lines."
+              ],
+              "observation": "As the parallel lines move away from the original secant, the chord length gradually decreases. Eventually, the chord length becomes zero, indicating a tangent position.",
+              "conclusion": "For any given secant, there are exactly two tangents parallel to it—one on each side. This demonstrates that tangents are limiting positions of secants."
+            }
+          ]
+        },
+        {
+          "topic_name": "Point of Contact",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The common point where a tangent touches the circle is called the point of contact. The tangent is said to touch the circle at this specific point."
+            },
+            {
+              "type": "note",
+              "title": "Key Property",
+              "text": "At any point on a circle, there exists exactly one tangent line. This tangent is unique and distinct from all other possible lines through that point."
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 10.1: Perpendicularity of Tangent and Radius",
+          "content": [
+            {
+              "type": "note",
+              "title": "Theorem Statement",
+              "text": "The tangent at any point of a circle is perpendicular to the radius through the point of contact."
+            },
+            {
+              "type": "paragraph",
+              "text": "This is one of the most fundamental theorems in circle geometry. It establishes the geometric relationship between the tangent line and the radius at the point where they meet."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof: Consider a circle with centre O and a tangent XY at point P. We need to prove that OP ⊥ XY. Take any point Q on the tangent XY (other than P) and join OQ. Since Q lies on the tangent and not on the circle, Q must be outside the circle. Therefore, OQ > OP (where OP is the radius). This inequality holds for every point on line XY except point P. Consequently, OP is the shortest distance from O to any point on XY. A line is perpendicular to another line at the point where the perpendicular distance is shortest. Therefore, OP is perpendicular to XY."
+            },
+            {
+              "type": "paragraph",
+              "text": "This theorem has profound implications: the radius to the point of contact is always perpendicular to the tangent at that point, forming a 90° angle."
+            },
+            {
+              "type": "note",
+              "title": "Practical Observation",
+              "text": "When a wheel rolls on the ground, the radius through the point of contact with the ground is perpendicular to the ground (which acts as a tangent to the wheel). This is why wheels can roll smoothly—the tangent and radius are always at right angles."
+            }
+          ]
+        },
+        {
+          "topic_name": "Corollaries and Remarks",
+          "content": [
+            {
+              "type": "list",
+              "title": "Important Consequences of Theorem 10.1",
+              "items": [
+                "At any point on a circle, there is one and only one tangent line.",
+                "The tangent at any point is perpendicular to the radius at that point, creating a 90° angle.",
+                "The line containing the radius through the point of contact is sometimes called the 'normal' to the circle at that point."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "10.3 Number of Tangents from a Point",
+      "topics": [
+        {
+          "topic_name": "Tangents from Points Inside, On, and Outside the Circle",
+          "content": [
+            {
+              "type": "activity",
+              "id": "10.3",
+              "title": "Activity 3: Exploring Tangents from Different Point Locations",
+              "procedure": [
+                "Case 1: Take a point P inside the circle. Try to draw lines through P.",
+                "Case 2: Take a point P on the circle. Draw lines through P.",
+                "Case 3: Take a point P outside the circle. Draw lines through P."
+              ],
+              "observation": "Case 1: All lines through an interior point intersect the circle at two points (secants). No tangent exists. Case 2: There is exactly one line through a point on the circle that touches it at only that point (tangent). Case 3: There are exactly two lines through an exterior point that touch the circle at exactly one point each (tangents).",
+              "conclusion": "The number of tangents depends on the position of the point relative to the circle. The three cases are mutually exclusive and exhaustive."
+            }
+          ]
+        },
+        {
+          "topic_name": "Case 1: Point Inside the Circle",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "If a point P lies inside a circle, there is no tangent to the circle passing through this point."
+            },
+            {
+              "type": "paragraph",
+              "text": "Reason: Any line passing through an interior point P will intersect the circle at two distinct points (creating a secant), not at just one point. Therefore, no tangent can exist through an interior point."
+            }
+          ]
+        },
+        {
+          "topic_name": "Case 2: Point On the Circle",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "If a point P lies on a circle, there is one and only one tangent to the circle passing through this point."
+            },
+            {
+              "type": "paragraph",
+              "text": "This is the tangent at the point P itself, as established in the previous section. Any other line through P will either intersect the circle at another point (making it a secant) or will miss the circle entirely."
+            }
+          ]
+        },
+        {
+          "topic_name": "Case 3: Point Outside the Circle",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "If a point P lies outside a circle, there are exactly two tangents to the circle from this point."
+            },
+            {
+              "type": "paragraph",
+              "text": "Let T₁ and T₂ be the two points where these tangents touch the circle. The segments PT₁ and PT₂ are called the lengths of the tangents from P to the circle."
+            },
+            {
+              "type": "note",
+              "title": "Length of a Tangent",
+              "text": "The length of a tangent from an external point to a circle is the distance from the external point to the point of contact on the circle."
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 10.2: Equal Lengths of Tangents from External Point",
+          "content": [
+            {
+              "type": "note",
+              "title": "Theorem Statement",
+              "text": "The lengths of tangents drawn from an external point to a circle are equal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof: Let O be the centre of the circle, P an external point, and PQ and PR be two tangents from P touching the circle at Q and R respectively. We need to prove that PQ = PR. Join OP, OQ, and OR. By Theorem 10.1, ∠OQP = 90° and ∠ORP = 90° (since the tangent is perpendicular to the radius). In right triangles OQP and ORP: OQ = OR (radii of the same circle), OP = OP (common side), and ∠OQP = ∠ORP = 90°. By the RHS (Right angle-Hypotenuse-Side) congruence criterion, triangle OQP ≅ triangle ORP. Therefore, PQ = PR (corresponding parts of congruent triangles)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Alternative Proof using Pythagoras Theorem: PQ² = OP² - OQ² and PR² = OP² - OR². Since OQ = OR (radii), we have PQ² = PR², which gives PQ = PR."
+            },
+            {
+              "type": "note",
+              "title": "Important Corollary",
+              "text": "The line OP (joining the external point and the centre) bisects the angle ∠QPR. That is, OP is the angle bisector of ∠QPR. This means ∠OPQ = ∠OPR."
+            }
+          ]
+        },
+        {
+          "topic_name": "Worked Example 1: Chord of Concentric Circles",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Prove that in two concentric circles, the chord of the larger circle which touches the smaller circle is bisected at the point of contact."
+            },
+            {
+              "type": "paragraph",
+              "text": "Solution: Consider two concentric circles C₁ (larger) and C₂ (smaller) with common centre O. Let AB be a chord of the larger circle C₁ that touches the smaller circle C₂ at point P. We need to prove that AP = BP. Join OP. Since AB is tangent to C₂ at P, by Theorem 10.1, OP ⊥ AB. Now, AB is a chord of C₁ and OP is perpendicular to AB. By the property that a perpendicular from the centre of a circle bisects any chord, we conclude that OP bisects AB. Therefore, AP = BP."
+            }
+          ]
+        },
+        {
+          "topic_name": "Worked Example 2: Angle Between Tangents",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Two tangents TP and TQ are drawn to a circle with centre O from an external point T. Prove that ∠PTQ = 2∠OPQ."
+            },
+            {
+              "type": "paragraph",
+              "text": "Solution: Let ∠PTQ = θ. Since TP = TQ (tangents from external point are equal), triangle TPQ is isosceles. Therefore, ∠TPQ = ∠TQP = (1/2)(180° - θ) = 90° - (θ/2). By Theorem 10.1, ∠OPT = 90° (radius perpendicular to tangent). Thus, ∠OPQ = ∠OPT - ∠TPQ = 90° - (90° - θ/2) = θ/2. This gives ∠PTQ = 2∠OPQ."
+            }
+          ]
+        },
+        {
+          "topic_name": "Worked Example 3: Tangent Length from Chord",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "PQ is a chord of length 8 cm of a circle of radius 5 cm. The tangents at P and Q intersect at a point T. Find the length TP."
+            },
+            {
+              "type": "paragraph",
+              "text": "Solution: Join OT, intersecting PQ at R. Triangle TPQ is isosceles (TP = TQ by Theorem 10.2) and TO is the angle bisector of ∠PTQ. Therefore, OT ⊥ PQ and OT bisects PQ, giving PR = RQ = 4 cm. Using Pythagoras theorem in triangle OPR: OR = √(OP² - PR²) = √(5² - 4²) = √(25 - 16) = 3 cm. Since ∠TPR + ∠RPO = 90° and ∠TPR + ∠PTR = 90°, we have ∠RPO = ∠PTR. Therefore, right triangle TRP is similar to right triangle PRO (by AA similarity). This gives TP/PO = RP/RO, so TP/5 = 4/3, which gives TP = 20/3 cm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "10.4 Properties and Applications of Tangents",
+      "topics": [
+        {
+          "topic_name": "Tangents at Ends of Diameter",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "An important property: If two tangents are drawn at the ends of a diameter of a circle, these tangents are parallel to each other."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof: Let AB be a diameter with centre O. Let the tangent at A be line ℓ₁ and the tangent at B be line ℓ₂. By Theorem 10.1, ℓ₁ ⊥ OA and ℓ₂ ⊥ OB. Since A, O, and B are collinear (AB is a diameter), both ℓ₁ and ℓ₂ are perpendicular to the same line AB. Therefore, ℓ₁ ∥ ℓ₂ (lines perpendicular to the same line are parallel)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Perpendicular from Centre to Tangent",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The perpendicular from the centre of a circle to a tangent passes through the point of contact."
+            },
+            {
+              "type": "paragraph",
+              "text": "This is a direct consequence of Theorem 10.1. If XY is a tangent at point P and O is the centre, then the perpendicular from O to line XY is precisely the line OP, which passes through P (the point of contact)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Tangent Length and Radius Relationship",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "If an external point is at distance d from the centre and the radius is r, then the length of the tangent from that point is given by: Tangent Length = √(d² - r²) (where d > r)"
+            },
+            {
+              "type": "paragraph",
+              "text": "This formula comes from applying Pythagoras theorem to the right triangle formed by the radius, the tangent, and the line joining the external point to the centre."
+            }
+          ]
+        },
+        {
+          "topic_name": "Quadrilateral Circumscribing a Circle",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When a quadrilateral ABCD is drawn to circumscribe a circle (i.e., all four sides are tangent to the circle), a special property holds: AB + CD = AD + BC."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof: Let the circle touch sides AB, BC, CD, and DA at points P, Q, R, and S respectively. By Theorem 10.2, tangents from the same external point are equal. From vertex A: AP = AS. From vertex B: BP = BQ. From vertex C: CQ = CR. From vertex D: DR = DS. Adding the first and third equations: AP + CQ = AS + CR. Adding the second and fourth: BP + DR = BQ + DS. Rearranging: AB + CD = (AP + BP) + (CR + DR) = (AS + BQ) + (CQ + DS) = (AS + DS) + (BQ + CQ) = AD + BC."
+            }
+          ]
+        },
+        {
+          "topic_name": "Triangle Circumscribing a Circle",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When a triangle ABC circumscribes a circle (all three sides are tangent to the circle), tangent segments from each vertex to the two points of tangency on the adjacent sides are equal."
+            },
+            {
+              "type": "paragraph",
+              "text": "If the circle touches BC at D, CA at E, and AB at F, then: AF = AE (tangents from A), BF = BD (tangents from B), and CD = CE (tangents from C). This property is useful in solving problems involving the perimeter and sides of such triangles."
+            }
+          ]
+        },
+        {
+          "topic_name": "Angle Between Two Tangents",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The angle between two tangents drawn from an external point and the angle subtended by the chord (joining the points of contact) at the centre are supplementary."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof: Let P be external, with tangents PT₁ and PT₂ touching the circle at T₁ and T₂. Let ∠PT₁T₂ = θ. Then in quadrilateral OPT₁T₂, we have ∠OT₁P = 90° (radius perpendicular to tangent), ∠OT₂P = 90°, and ∠T₁PT₂ + ∠T₁OT₂ = 360° - 90° - 90° = 180°. Therefore, the angle at P and the angle at O are supplementary."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Tangent",
+      "definition": "A line that intersects a circle at exactly one point, called the point of contact. The tangent is perpendicular to the radius at the point of contact."
+    },
+    {
+      "term": "Secant",
+      "definition": "A line that intersects a circle at two distinct points. A secant cuts through the circle at these two points."
+    },
+    {
+      "term": "Non-intersecting Line",
+      "definition": "A line that has no common points with a circle; it neither touches nor intersects the circle."
+    },
+    {
+      "term": "Point of Contact",
+      "definition": "The single point where a tangent line touches a circle. At this point, the tangent is perpendicular to the radius."
+    },
+    {
+      "term": "External Point",
+      "definition": "A point located outside the circle, at a distance from the centre greater than the radius."
+    },
+    {
+      "term": "Length of Tangent",
+      "definition": "The distance from an external point to the point of contact where a tangent touches the circle. For an external point at distance d from the centre of a circle with radius r, the tangent length is √(d² - r²)."
+    },
+    {
+      "term": "Concentric Circles",
+      "definition": "Two or more circles having the same centre but different radii."
+    },
+    {
+      "term": "Circumscribing Circle (Circumcircle)",
+      "definition": "A circle that passes through all vertices of a polygon; the polygon is inscribed in the circle."
+    },
+    {
+      "term": "Inscribed Polygon / Circumscribing Polygon",
+      "definition": "A polygon is inscribed in a circle if all its vertices lie on the circle. A polygon circumscribes a circle if all its sides are tangent to the circle."
+    },
+    {
+      "term": "Normal",
+      "definition": "The line containing the radius through the point of contact of a tangent to a circle. The normal is perpendicular to the tangent."
+    },
+    {
+      "term": "Chord",
+      "definition": "A line segment joining two points on a circle. A secant contains a chord."
+    },
+    {
+      "term": "Radius",
+      "definition": "A line segment from the centre of a circle to any point on the circle. All radii of a circle are equal."
+    },
+    {
+      "term": "Centre of a Circle",
+      "definition": "The fixed point from which all points on the circle are equidistant. The distance from the centre to any point on the circle is the radius."
+    },
+    {
+      "term": "Diameter",
+      "definition": "A chord that passes through the centre of the circle. The length of the diameter is twice the radius."
+    }
+  ],
+  "summary_points": [
+    "A circle and a line have three possible relationships: no common points (non-intersecting), two common points (secant), or one common point (tangent).",
+    "A tangent to a circle is a line that touches the circle at exactly one point called the point of contact.",
+    "The fundamental property: The tangent to a circle at any point is perpendicular to the radius drawn to that point of contact (Theorem 10.1).",
+    "At any given point on a circle, there exists exactly one tangent line.",
+    "From a point inside a circle, no tangent can be drawn. From a point on the circle, exactly one tangent exists. From a point outside the circle, exactly two tangents can be drawn.",
+    "The lengths of two tangents drawn from the same external point to a circle are equal (Theorem 10.2). The line joining the external point and the centre bisects the angle between the two tangents.",
+    "For an external point at distance d from the centre of a circle with radius r, the tangent length is √(d² - r²).",
+    "Tangents drawn at the ends of a diameter are parallel to each other.",
+    "In a quadrilateral circumscribing a circle, the sum of opposite sides are equal: AB + CD = AD + BC.",
+    "In a triangle circumscribing a circle, tangent segments from each vertex to the two points of tangency on adjacent sides are equal.",
+    "The angle between two tangents from an external point and the angle subtended by the chord (joining points of contact) at the centre are supplementary angles that sum to 180°.",
+    "In two concentric circles, any chord of the larger circle that touches the smaller circle is bisected at the point of contact.",
+    "Real-world applications of tangent properties include wheel mechanics, pulley systems, and engineering designs where smooth contact and perpendicularity are important."
+  ]
+}

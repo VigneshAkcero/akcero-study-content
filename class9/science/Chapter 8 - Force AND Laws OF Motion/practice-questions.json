@@ -1,0 +1,255 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Physics",
+    "chapter_name": "Force and Laws of Motion",
+    "chapter_number": 8
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Define force in your own words and list three different effects that force can produce on an object.",
+      "answer": "Force is a push, pull, or hit that acts on an object. Three effects of force are: (1) Change the magnitude of velocity (speed up or slow down), (2) Change the direction of motion, (3) Change the shape or size of an object (deformation).",
+      "solution": "Force is understood through its effects since it cannot be directly seen or felt. A force can: accelerate an object (change speed), deflect an object (change direction), or deform an object (change shape/size). These are the primary effects that demonstrate the presence and magnitude of a force."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What is the difference between balanced and unbalanced forces? Give one example of each.",
+      "answer": "Balanced forces: Two or more forces of equal magnitude acting in opposite directions with zero net effect. Example: A book resting on a table (normal force upward equals weight downward). Unbalanced forces: Forces with non-zero net effect. Example: Pushing a box on frictionless floor (applied force > no opposing force).",
+      "solution": "Balanced forces result in zero net force, so no acceleration occurs. Unbalanced forces have a non-zero resultant, producing acceleration. The key distinction is whether the vector sum of all forces equals zero (balanced) or not (unbalanced). This determines whether an object will change its state of motion."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "State Newton's First Law of Motion in your own words. What is inertia?",
+      "answer": "Newton's First Law: An object continues in its state of rest or uniform motion unless an unbalanced force acts on it. Inertia is the natural tendency of an object to resist changes in its state of motion or rest. Mass is the quantitative measure of inertia.",
+      "solution": "The first law is also called the Law of Inertia because it describes how objects naturally resist acceleration. Inertia is not a force but a property of matter. All objects possess inertia—heavier objects have greater inertia and require larger forces to accelerate. This explains why an empty box is easier to push than a filled box."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Explain why a passenger falls forward when a bus suddenly brakes, using Newton's First Law.",
+      "answer": "When the bus brakes, an unbalanced force (friction) acts on the bus, decelerating it. By Newton's First Law, the passenger's body continues in its original state of motion (forward) due to inertia until a force acts on it. The passenger moves forward relative to the bus until hitting the seat or dashboard.",
+      "solution": "The bus decelerates due to friction with the road, but the passenger's body, not in direct contact with the braking mechanism, maintains its original velocity due to inertia. This creates the sensation of being pushed forward. Safety belts apply a force to decelerate the passenger along with the bus, preventing injury."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Define momentum. What are its SI units?",
+      "answer": "Momentum is the product of an object's mass and velocity (p = m·v). It is a vector quantity with the same direction as velocity. It represents the 'quantity of motion' an object possesses. SI unit: kilogram-metre per second (kg·m/s).",
+      "solution": "Momentum combines two aspects of motion: how much matter is moving (mass) and how fast it is moving (velocity). An object with large mass or high velocity has large momentum. The SI unit kg·m/s can also be written as kg·m·s⁻¹. Momentum is crucial for understanding collisions and interactions between objects."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "State Newton's Second Law of Motion. What is the SI unit of force?",
+      "answer": "Newton's Second Law: The rate of change of momentum of an object is proportional to the applied unbalanced force in the direction of force. Mathematically: F = m·a, where F is force, m is mass, and a is acceleration. SI unit of force: Newton (N), where 1 N = 1 kg·m/s².",
+      "solution": "The second law quantifies how force affects motion. It shows that force is not needed to maintain motion, only to change it (accelerate). The greater the force applied to an object, the greater its acceleration. For a given force, lighter objects accelerate more than heavier objects (a = F/m). The unit newton is defined such that 1 kg accelerates at 1 m/s² under 1 N force."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "State Newton's Third Law of Motion. Give two examples from daily life.",
+      "answer": "Newton's Third Law: To every action, there is an equal and opposite reaction. The two forces act simultaneously on different objects. Example 1: When you push a wall, the wall pushes you back with equal force. Example 2: A rocket expels gases downward; the gases push the rocket upward with equal force.",
+      "solution": "The third law emphasizes that forces always come in pairs acting on different objects. These action-reaction pairs are equal in magnitude but opposite in direction. Crucially, they do NOT cancel because they act on different objects. Each force can independently produce acceleration in its respective object based on the object's mass."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Calculate the force required to accelerate a 1500 kg car at 2 m/s². Use Newton's Second Law.",
+      "answer": "Given: m = 1500 kg, a = 2 m/s². Using F = m·a: F = 1500 × 2 = 3000 N.",
+      "solution": "Newton's Second Law (F = m·a) directly gives us the force. Substituting the values: F = 1500 kg × 2 m/s² = 3000 kg·m/s² = 3000 N. This means a 3000 N force is necessary to accelerate a 1500 kg car at 2 m/s². If we want the same car to accelerate at 4 m/s², we would need 6000 N (double the force for double the acceleration)."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "A 2 kg object experiences a force of 10 N. What is its acceleration?",
+      "answer": "Given: m = 2 kg, F = 10 N. Using F = m·a, we get a = F/m = 10/2 = 5 m/s².",
+      "solution": "Rearranging F = m·a to solve for acceleration: a = F/m. This shows acceleration is directly proportional to force and inversely proportional to mass. For this object, 10 N of force produces 5 m/s² acceleration. If the same force acted on a 10 kg object, acceleration would be only 1 m/s²."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Calculate the momentum of a 1000 kg car moving at 20 m/s.",
+      "answer": "Given: m = 1000 kg, v = 20 m/s. Using p = m·v: p = 1000 × 20 = 20,000 kg·m/s.",
+      "solution": "Momentum is simply the product of mass and velocity. The car has a momentum of 20,000 kg·m/s in the direction of its motion. This represents the 'quantity of motion' the car possesses. To stop this car (reduce momentum to zero), a large force must be applied for some time."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Explain why it is easier to catch a ball thrown slowly than a ball thrown at high speed, using the concepts of momentum and force.",
+      "answer": "A slowly thrown ball has less momentum (p = m·v, lower v means lower p). When catching, your hand applies a force to reduce momentum to zero. For low momentum, small force is sufficient. A fast ball has high momentum, requiring larger force (or longer time with smaller force) to stop. By F·t = Δp, catching time can be increased by pulling hand backward to reduce force, preventing injury.",
+      "solution": "The impulse-momentum theorem (F·t = Δp) is key. A faster ball requires greater change in momentum. To reduce force applied to your hand, you can increase the time over which momentum changes by pulling your hand backward with the ball. This is why fielders in cricket pull their hands back when catching fast balls—they increase time t, thereby reducing force F for the same momentum change Δp. Without this technique, the large force could injure your hand."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Two objects A and B have the same mass but A is moving at 10 m/s while B is at rest. Which has greater inertia? Explain.",
+      "answer": "Both have the same inertia because inertia is measured by mass, not velocity. Since both have equal mass, they have equal inertia. However, A has greater momentum (p = m·v, A has velocity while B has none). Inertia (resistance to acceleration) is independent of velocity; only mass matters.",
+      "solution": "A common misconception is confusing momentum with inertia. Inertia is a property of matter measured by mass—it quantifies resistance to acceleration. Momentum is the product of mass and velocity. An object at rest and a moving object of the same mass have equal inertia but different momentum. A moving object requires greater force to stop (change its motion) because it has momentum, not because it has more inertia."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "A ball is thrown upward into the air. At the highest point of its trajectory, what is the acceleration? Is the velocity zero at this point?",
+      "answer": "At the highest point, acceleration is NOT zero—it is still approximately 10 m/s² (or 9.8 m/s²) downward due to gravity. However, velocity IS zero at the highest point (instantaneously, before the ball starts descending). Acceleration is not zero because gravity continues to act on the ball.",
+      "solution": "This common misconception confuses velocity with acceleration. Velocity is zero at the highest point (instantaneously), but acceleration is not. Gravity continuously exerts a downward force on the ball, producing downward acceleration. This acceleration causes the velocity to change from upward (before peak) to downward (after peak). If acceleration were zero at the peak, the ball would remain at rest—but it doesn't; it begins descending. This demonstrates that force (gravity) is still acting even when velocity momentarily becomes zero."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "A wooden block is on a horizontal table. When you push with a small force, it doesn't move. When you push harder, it starts moving. Explain this in terms of static and kinetic friction.",
+      "answer": "Initially, static friction (up to a maximum value) balances your applied force, keeping the block at rest (balanced forces). When your applied force exceeds the maximum static friction, the block begins to move. Once moving, kinetic friction (smaller than static friction) acts opposite to motion. As long as applied force > kinetic friction, the block accelerates (unbalanced forces).",
+      "solution": "Static friction is a self-adjusting force that balances applied force up to a certain maximum limit. When applied force exceeds this limit, static friction cannot balance it anymore, and the block accelerates. Kinetic friction is constant (typically less than maximum static friction) and acts opposite to motion. To maintain constant velocity, applied force must equal kinetic friction (balanced forces). To accelerate, applied force must exceed kinetic friction (unbalanced forces). This explains why initial motion requires a larger push than maintaining motion."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Two unequal forces act on an object in opposite directions. Predict whether the object will move, and if so, in which direction.",
+      "answer": "The object will move in the direction of the larger force. Since the forces are unequal, their resultant (net force) is non-zero and points toward the larger force. By Newton's Second Law, this unbalanced force produces acceleration in the direction of the net force.",
+      "solution": "The magnitude of net force = difference between the two forces, pointing toward the larger force. This net force produces acceleration a = F_net / m. The object will accelerate continuously in the direction of larger force. The magnitude of acceleration depends on how much larger one force is compared to the other. If the forces were equal, the net force would be zero, and the object would not move."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "A block slides on a horizontal surface with friction. If you apply a horizontal force equal to kinetic friction, what is the acceleration of the block? Explain.",
+      "answer": "The acceleration is zero. When applied force equals kinetic friction, the net force is zero (forces are balanced). By Newton's Second Law, a = F_net / m = 0 / m = 0. The block moves at constant velocity (if already moving) or remains at rest (if stationary).",
+      "solution": "This is a direct application of Newton's Second Law. Net force = Applied force - Kinetic friction = F - F = 0. Zero net force means zero acceleration, so velocity remains constant. If the block was already moving, it continues with the same velocity. If it was at rest, it remains at rest. This principle is used in vehicles: to maintain constant velocity on a road, the engine must provide a force equal to friction and air resistance."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "A force F acts on a 2 kg object, producing an acceleration of 3 m/s². What acceleration would the same force produce on a 6 kg object?",
+      "answer": "First, find F using the 2 kg object: F = m·a = 2 × 3 = 6 N. For the 6 kg object: a = F/m = 6/6 = 1 m/s².",
+      "solution": "This demonstrates the inverse relationship between mass and acceleration for a constant force. The 6 kg object has three times the mass of the 2 kg object, so it experiences one-third the acceleration. Doubling mass halves acceleration for the same force. This is why heavy objects are harder to accelerate—more mass requires more force to achieve the same acceleration. The relationship a = F/m shows acceleration is inversely proportional to mass when force is constant."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Derive the relationship between force and momentum change (impulse-momentum theorem) starting from F = m·a.",
+      "answer": "Starting with F = m·a and substituting a = (v - u) / t: F = m(v - u) / t. Rearranging: F·t = m(v - u) = m·v - m·u = p_final - p_initial = Δp. Therefore, F·t = Δp, showing impulse equals momentum change.",
+      "solution": "This derivation shows the deep connection between force and momentum. Impulse (F·t) is the product of force and time. Momentum change (Δp) is the difference between final and initial momentum. The theorem states these are always equal. This explains why increasing time reduces required force for the same momentum change—fundamental principle in safety devices like airbags, padding, and catching techniques in sports."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "A 1000 kg car moving at 20 m/s comes to rest in 5 seconds after brakes are applied. Calculate: (a) the deceleration, (b) the braking force, (c) the momentum change.",
+      "answer": "(a) a = (v - u) / t = (0 - 20) / 5 = -4 m/s². (b) F = m·a = 1000 × (-4) = -4000 N (magnitude: 4000 N). (c) Δp = m·Δv = 1000 × (0 - 20) = -20,000 kg·m/s (magnitude: 20,000 kg·m/s).",
+      "solution": "The negative signs indicate deceleration and force opposite to motion. Using a = Δv/Δt, we find deceleration of 4 m/s². The braking force required is 4000 N (opposing motion). The momentum decreases by 20,000 kg·m/s. Note: F·t = 4000 × 5 = 20,000 N·s, which equals the magnitude of momentum change (Δp = 20,000 kg·m/s), confirming the impulse-momentum theorem."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Explain why a gun recoils backward when fired, even though the recoil force equals the bullet's launch force. Why is the gun's recoil slower than the bullet's speed?",
+      "answer": "By Newton's Third Law, the force launching the bullet forward (action) equals the force pushing the gun backward (reaction). However, recoil speed is much slower because the gun's mass is much larger than the bullet's. Using F = m·a: same force (F) produces smaller acceleration in larger mass (gun) and larger acceleration in smaller mass (bullet). Thus a_bullet >> a_gun, so v_bullet >> v_gun.",
+      "solution": "This is a classic example showing that equal forces produce different accelerations in objects with different masses. The bullet (small mass) receives the same impulse as the gun (large mass) over the same time. By p = m·v, if masses differ greatly, velocities differ greatly. The bullet's momentum magnitude equals the gun's momentum magnitude (by conservation), but since p = m·v: m_bullet × v_bullet = m_gun × v_gun. With m_gun >> m_bullet, we get v_gun << v_bullet. This is why guns have little recoil compared to bullet speed."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "Two spring balances are connected in a line. When you pull one end with 50 N, what readings do both balances show?",
+      "answer": "Both spring balances show 50 N. The first balance reads the applied force (50 N), and the second balance reads the reaction force from the object being pulled (also 50 N). By Newton's Third Law, action and reaction forces are equal in magnitude.",
+      "solution": "This demonstrates Newton's Third Law experimentally. When you pull the first balance with 50 N, it exerts 50 N on the second balance. By Newton's Third Law, the second balance exerts 50 N back on the first. Both balances measure the same force magnitude because the force is transmitted through the system. The second balance doesn't 'add' to the force; it simply measures the reaction force. This is true even if the second balance is attached to a wall—the wall exerts 50 N back through the balance."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "A batsman hits a cricket ball of mass 150 g with a bat, changing the ball's velocity from -15 m/s (toward batsman) to +25 m/s (away from batsman) in 0.05 seconds. Calculate: (a) the change in momentum, (b) the average force exerted by the bat, (c) the impulse delivered.",
+      "answer": "(a) m = 0.15 kg, Δv = 25 - (-15) = 40 m/s. Δp = m·Δv = 0.15 × 40 = 6 kg·m/s. (b) F = Δp / t = 6 / 0.05 = 120 N. (c) Impulse = F·t = 120 × 0.05 = 6 N·s = Δp (confirming impulse equals momentum change).",
+      "solution": "This problem integrates multiple concepts. The ball's initial velocity is negative (toward batsman) and final velocity is positive (away from batsman), giving a total velocity change of 40 m/s. The momentum change is 6 kg·m/s. Using impulse-momentum theorem, the average force exerted is 120 N over 0.05 seconds. The large momentum change relative to small mass explains why the ball travels far—much of the bat's impulse converts to velocity. The impulse of 6 N·s equals the momentum change, confirming F·t = Δp."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "A 5 kg block initially at rest is pulled across a rough surface by a horizontal force of 30 N. The kinetic friction force is 10 N. Calculate: (a) the net force, (b) the acceleration, (c) the velocity after 4 seconds, (d) the distance traveled in 4 seconds.",
+      "answer": "(a) F_net = Applied force - Friction = 30 - 10 = 20 N. (b) a = F_net / m = 20 / 5 = 4 m/s². (c) v = u + a·t = 0 + 4 × 4 = 16 m/s. (d) s = u·t + (1/2)·a·t² = 0 + (1/2) × 4 × 16 = 32 m.",
+      "solution": "This problem requires understanding net force and its relationship to acceleration. The applied force is not the only force—friction opposes motion. The net force is the difference, giving net acceleration of 4 m/s². Using kinematic equations (derived from constant acceleration), we find velocity and distance. After 4 seconds, the block reaches 16 m/s and travels 32 m. If applied force equaled friction (30 N = 10 N is false), the block would move at constant velocity or not move at all. The unbalanced force ensures continuous acceleration."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Explain why airbags save lives in car collisions using Newton's Second Law and the impulse-momentum theorem.",
+      "answer": "In a collision, a passenger's momentum must change from high velocity to zero (or low velocity) in a short time. Without airbag: F = Δp / Δt is very large because Δt is very small (rapid collision with hard dashboard). This large force causes injury. With airbag: Δt increases (passenger's momentum changes over longer time as airbag cushions impact), so F = Δp / Δt becomes smaller. Smaller force causes less injury. Principle: F·t = Δp; for fixed Δp, increasing t reduces F.",
+      "solution": "Airbags work by extending the time duration over which a passenger's momentum decreases. Without airbag, collision with the dashboard is nearly instantaneous (very small Δt), requiring enormous force to stop. This force causes injury. Airbags inflate to create a cushion, increasing the time from milliseconds to tens of milliseconds. By impulse-momentum theorem (F·t = Δp), for the same momentum change, longer time means smaller force. Similar principles apply to: padded landing mats in high jump (increase contact time, reduce force on athlete), catching techniques in sports (pull hand back to increase time), and crumple zones in cars (increase deformation time to reduce deceleration rate)."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Two objects with masses m₁ = 2 kg and m₂ = 3 kg experience the same force F = 12 N. If both start from rest, which reaches a greater velocity in 5 seconds? Calculate both velocities.",
+      "answer": "For m₁: a₁ = F / m₁ = 12 / 2 = 6 m/s². v₁ = u + a·t = 0 + 6 × 5 = 30 m/s. For m₂: a₂ = F / m₂ = 12 / 3 = 4 m/s². v₂ = u + a·t = 0 + 4 × 5 = 20 m/s. The 2 kg object reaches 30 m/s (greater velocity). Lighter objects accelerate faster for the same force.",
+      "solution": "This demonstrates the inverse relationship between mass and acceleration (a = F/m). The lighter object experiences greater acceleration and thus greater velocity change over the same time period. Although both experience the same force, the lighter object's smaller mass results in 1.5 times greater acceleration. After 5 seconds, it reaches 30 m/s compared to 20 m/s for the heavier object. However, the momentum of both objects differs: p₁ = 2 × 30 = 60 kg·m/s and p₂ = 3 × 20 = 60 kg·m/s. Interestingly, both have equal momentum change (both experienced same impulse F·t = 12 × 5 = 60 N·s), but different velocities because of their different masses."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "A car on a horizontal road experiences a driving force of 8000 N and a resistance force (friction + air resistance) of 2000 N. The car's mass is 1600 kg. Calculate: (a) the net force, (b) the acceleration, (c) time to reach 25 m/s from rest.",
+      "answer": "(a) F_net = 8000 - 2000 = 6000 N. (b) a = 6000 / 1600 = 3.75 m/s². (c) v = u + a·t, so 25 = 0 + 3.75·t, giving t = 25 / 3.75 ≈ 6.67 seconds.",
+      "solution": "Real-world motion involves multiple forces. The net driving force is the engine's driving force minus all resistance forces. This net force produces acceleration. The car accelerates at 3.75 m/s² (less than if there were no resistance). To reach 25 m/s requires approximately 6.67 seconds. If resistance were zero, only 6.67 seconds would be needed too (same time because acceleration would be higher). The resistance force significantly impacts real motion—without resistance, cars would accelerate much faster, and fuel efficiency would be vastly different."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Two colliding objects A (2 kg, 5 m/s) and B (3 kg, -2 m/s) stick together after collision. Using momentum conservation (which is independent of forces during collision), find their final velocity.",
+      "answer": "Initial momentum of A: p_A = 2 × 5 = 10 kg·m/s. Initial momentum of B: p_B = 3 × (-2) = -6 kg·m/s. Total initial momentum: p_initial = 10 + (-6) = 4 kg·m/s. After collision: (m_A + m_B)·v_final = p_initial. (2 + 3)·v_final = 4. v_final = 4 / 5 = 0.8 m/s.",
+      "solution": "This problem introduces conservation of momentum, which applies during collisions regardless of the complex internal forces. The total momentum before collision equals total momentum after collision (no external forces). Object A initially moves at 5 m/s, and B moves at -2 m/s (opposite direction). Their combined momentum is 4 kg·m/s. After sticking together, they move at 0.8 m/s in A's original direction. Note: Kinetic energy is not conserved in inelastic collisions (objects sticking), but momentum always is. This principle is fundamental to understanding collisions without needing to know the impact forces."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Explain why it is dangerous to jump from a moving vehicle (train or bus). Use Newton's Laws and the concept of inertia.",
+      "answer": "While on the vehicle, your body is in the same state of motion as the vehicle. When you jump off, your feet land with zero velocity relative to ground, but your body retains the vehicle's velocity due to inertia (First Law). Your legs cannot instantly stop your body's horizontal motion. Result: your body moves forward relative to ground, causing loss of balance and potential falls. The relative velocity between your body and legs creates injury risk.",
+      "solution": "This is a practical application of the First Law and inertia. Your body, moving with the vehicle at velocity v, tends to continue at v when feet hit the ground (Newton's First Law). An unbalanced force (friction between feet and ground) is required to change your body's motion from v to near-zero. This friction force acts upward through your legs. If the vehicle's speed is high, the required deceleration is large, and friction may not be sufficient to keep feet planted. Your body slides forward while legs remain stationary, causing falls. This is why jumping from slow-moving vehicles is safer—smaller deceleration required."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "A 70 kg athlete lands from a height of 2 meters in two different ways: (a) rigid landing (rigid legs), landing time ≈ 0.01 s, and (b) flexible landing (knees bent), landing time ≈ 0.5 s. Calculate the average force on legs in both cases. Why is flexible landing safer? (Use g = 10 m/s²)",
+      "answer": "Velocity before impact: v² = u² + 2gs, so v² = 0 + 2 × 10 × 2 = 40, giving v = √40 ≈ 6.32 m/s. Momentum change: Δp = m·Δv = 70 × 6.32 = 442.4 kg·m/s. (a) Rigid landing: F = Δp / Δt = 442.4 / 0.01 = 44,240 N. (b) Flexible landing: F = 442.4 / 0.5 = 884.8 N. Flexible landing is safer because force is ~50 times smaller.",
+      "solution": "This dramatic example shows the power of impulse-momentum theorem. Both landings must dissipate the same momentum change (same mass and velocity change). However, flexible landing increases contact time by 50 times. By F·t = Δp, increasing time reduces force proportionally. 44,240 N force can break bones; 884.8 N is manageable. This principle is why: athletes bend knees, gymnasts use mats, cars have crumple zones, and people roll when falling. Increasing deceleration time protects against injury. This single principle explains multiple real-world safety features and athletic techniques."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "A constant force of 50 N acts on an object initially at rest for 8 seconds, then the force is removed. If the object's mass is 10 kg and friction is negligible, describe the object's motion in two phases and calculate velocity at end of each phase.",
+      "answer": "Phase 1 (0-8 s, force applied): a = F / m = 50 / 10 = 5 m/s². v = u + a·t = 0 + 5 × 8 = 40 m/s. Phase 2 (after 8 s, force removed): By Newton's First Law, with no external force and negligible friction, object continues at 40 m/s (constant velocity). The object accelerates uniformly to 40 m/s in Phase 1, then maintains 40 m/s indefinitely in Phase 2.",
+      "solution": "This illustrates the contrast between the two laws: Second Law (with force) and First Law (without force). In Phase 1, the net force of 50 N produces constant acceleration of 5 m/s², linearly increasing velocity. At t = 8 s, velocity reaches 40 m/s. The instant the force is removed (t > 8 s), there is no net force. By the First Law, the object continues in uniform motion at 40 m/s—velocity remains constant forever (ignoring friction in idealized scenario). This shows force is required only to change motion, not to maintain it. If friction were present, Phase 2 would involve deceleration until the object stops."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "A block slides down a frictionless inclined plane. Is the block accelerating? Does Newton's First Law apply? Explain.",
+      "answer": "Yes, the block is accelerating. Gravity provides a net force component along the plane. Newton's First Law states the object remains at rest or uniform motion only if NO unbalanced force acts. Here, gravity (unbalanced force) acts on the block, so acceleration occurs. The First Law still applies—it explains why (net force exists, so acceleration must occur). The block's velocity increases continuously as it slides down.",
+      "solution": "A common misconception: thinking Newton's First Law doesn't apply if acceleration occurs. Actually, the First Law explains why acceleration happens—when unbalanced forces are present. On the incline, gravity is resolved into components: perpendicular (balanced by normal force) and parallel to incline (unbalanced, causes acceleration). The unbalanced component produces acceleration down the plane. Newton's laws work together: First Law explains conditions for constant motion (zero net force) or rest (zero net force). When net force is non-zero (as here), the Second Law applies (F = m·a), giving acceleration. Both laws are always applicable—they describe different scenarios."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "Two teams play tug-of-war. Team A pulls with 1000 N, Team B pulls with 1200 N. The rope doesn't break. Analyze the forces and explain which team pulls the rope, and why does the rope not break?",
+      "answer": "Net force on rope = 1200 - 1000 = 200 N toward Team B. The rope accelerates toward Team B. By Newton's Third Law, when Team B pulls rope with 1200 N (action), rope pulls Team B with 1200 N (reaction). Similarly, rope pulls Team A with 1000 N. The rope experiences equal and opposite forces from both teams. Tension in rope ≈ 1000 N (or 1200 N depending on which segment). Rope doesn't break because the internal tension doesn't exceed its breaking strength. The net force determines rope's acceleration, not whether it breaks.",
+      "solution": "This illustrates misconceptions about action-reaction. The rope doesn't 'experience' forces from both teams that add up to 2200 N causing it to break. Instead: Team B pulls rope backward (action) with 1200 N; rope pulls Team B forward (reaction) with 1200 N. Team A pulls rope forward (action) with 1000 N; rope pulls Team A backward (reaction) with 1000 N. The rope's motion is determined by the net force (200 N toward B), which produces acceleration. The tension throughout the rope is approximately 1100 N (average), which the rope can withstand. The rope breaks when tension exceeds its breaking strength, not when forces are large—it's the internal tension, not the net force, that matters for breaking."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "A ball falls from a height under gravity (g = 10 m/s²). After 3 seconds, it hits the ground and comes to rest in 0.1 seconds due to collision. Calculate: (a) velocity just before impact, (b) deceleration during collision, (c) average impact force if mass = 0.5 kg.",
+      "answer": "(a) v = u + g·t = 0 + 10 × 3 = 30 m/s. (b) Deceleration: a = Δv / Δt = (0 - 30) / 0.1 = -300 m/s² (magnitude: 300 m/s²). (c) F = m|a| = 0.5 × 300 = 150 N.",
+      "solution": "During the fall (3 seconds), gravity accelerates the ball at 10 m/s², reaching 30 m/s by impact. During collision (0.1 seconds), the ball's velocity changes from 30 m/s to 0. This requires deceleration of 300 m/s²—very large! The impact force is 150 N. Note: this impact force is much larger than weight (weight = mg = 0.5 × 10 = 5 N). The collision requires large deceleration in short time, producing large force. If the collision time were longer (e.g., 0.5 seconds instead of 0.1), deceleration would be 60 m/s², requiring only 30 N—6 times smaller force. This demonstrates why soft surfaces increase collision time and reduce impact force."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "Derive Newton's First Law from Newton's Second Law (F = m·a). Under what condition does the First Law apply?",
+      "answer": "From F = m·a, if F = 0 (no net external force), then 0 = m·a. Since mass m ≠ 0, we must have a = 0 (zero acceleration). Zero acceleration means velocity is constant (v = u). If u = 0 (object at rest), then v = 0 (remains at rest). If u ≠ 0, then v = u (continues with constant velocity). This is exactly Newton's First Law: objects remain at rest or in uniform motion when no net force acts. The First Law applies when F_net = 0.",
+      "solution": "This mathematical derivation shows that Newton's First Law is a special case of the Second Law—specifically when net force is zero. The Second Law (F = m·a) is more general and includes the First Law as a limiting case. This demonstrates the logical hierarchy of Newton's laws: the First Law defines the condition for uniform motion (zero acceleration), and the Second Law explains what happens when this condition is violated (non-zero force produces non-zero acceleration). Understanding this connection deepens comprehension of how forces affect motion."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "A person of mass 60 kg stands in an elevator. Calculate the normal force exerted by the floor in three scenarios: (a) elevator at rest, (b) elevator accelerating upward at 2 m/s², (c) elevator accelerating downward at 2 m/s². (Use g = 10 m/s²)",
+      "answer": "(a) At rest: N = mg = 60 × 10 = 600 N (normal force equals weight). (b) Upward acceleration: N - mg = ma, so N = m(g + a) = 60(10 + 2) = 720 N. (c) Downward acceleration: mg - N = ma, so N = m(g - a) = 60(10 - 2) = 480 N.",
+      "solution": "This problem applies Newton's Second Law with multiple forces (normal force upward, weight downward). (a) When at rest, net force is zero, so normal force equals weight. (b) During upward acceleration, the normal force must be greater than weight to provide the net upward force (N - mg = ma). The person feels heavier. (c) During downward acceleration, the normal force must be less than weight. The net force (mg - N) points downward, providing downward acceleration. The person feels lighter. If downward acceleration equaled g (free fall), N would be zero—the person would feel weightless. This explains why people feel lighter in descending elevators and heavier in ascending elevators. The normal force (apparent weight) changes based on acceleration."
+    }
+  ]
+}

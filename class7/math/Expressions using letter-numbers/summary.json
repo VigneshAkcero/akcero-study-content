@@ -1,0 +1,31 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Expressions using letter-numbers",
+    "chapter_number": 4
+  },
+  "summary": [
+    {
+      "category": "Letter-Numbers and Algebraic Expressions",
+      "points": [
+        "Letter-numbers (variables like a, b, x, y) represent unknown or variable quantities, allowing us to write general mathematical relationships concisely. An algebraic expression combines letter-numbers, numbers, and operations (addition, subtraction, multiplication, division). These expressions follow all the arithmetic rules that apply to regular numbers, making it easy to work with unknown quantities.",
+        "Evaluating an algebraic expression means replacing variables with specific values and performing arithmetic operations following order of operations (BODMAS/PEMDAS). The multiplication symbol is often omitted: 5x means 5 × x, and ab means a × b. Crucially, 5u (multiplication) and 5 + u (addition) are different operations producing different results."
+      ]
+    },
+    {
+      "category": "Simplification and Combining Terms",
+      "points": [
+        "Like terms contain the same variables: 5c, 3c, and 10c can be combined to 18c. Unlike terms have different variables: 18c and 11d cannot be simplified further. Using the distributive property a(b + c) = ab + ac, we combine like terms and remove brackets to reduce expressions to their simplest form.",
+        "Adding and subtracting algebraic expressions follows the same rules as numbers: remove brackets (changing signs when subtracting), group like terms together, and combine them. The final simplified form should have no brackets remaining and all like terms combined into single terms."
+      ]
+    },
+    {
+      "category": "Describing Patterns and Writing Formulas",
+      "points": [
+        "Algebraic expressions powerfully describe patterns: matchstick sequences (2n + 1 for step n), repeating designs (3n - 2 for position of design A), and calendar relationships (diagonal sums in 2×2 grids equal 2a + 8). Formulas like perimeter of square (4s) and rectangle (2l + 2b) emerge from algebraic relationships.",
+        "Algebraic verification proves patterns hold universally for any value of the variable, eliminating the need to check infinitely many cases. By using letter-numbers to represent any number, we show that a pattern works for all possible values simultaneously. This is one of algebra's greatest powers: explaining why mathematical relationships always hold true."
+      ]
+    }
+  ]
+}

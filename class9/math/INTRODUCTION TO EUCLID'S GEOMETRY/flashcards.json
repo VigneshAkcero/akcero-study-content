@@ -1,0 +1,38 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Introduction to Euclid's Geometry",
+    "chapter_number": 5
+  },
+  "flashcards": [
+    { "q": "How many dimensions does a solid have?", "a": "Three dimensions." },
+    { "q": "How many dimensions does a surface have?", "a": "Two dimensions." },
+    { "q": "How many dimensions does a line have?", "a": "One dimension." },
+    { "q": "How many dimensions does a point have?", "a": "Zero dimensions (no dimensions)." },
+    { "q": "According to Euclid, what is a point?", "a": "A point is that which has no part." },
+    { "q": "According to Euclid, what is a line?", "a": "A line is breadthless length." },
+    { "q": "According to Euclid, what are the ends of a line?", "a": "Points." },
+    { "q": "What do we call a boundary of a solid that has no thickness?", "a": "A surface." },
+    { "q": "What are the edges of a surface?", "a": "Lines." },
+    { "q": "Which three terms are taken as undefined terms in geometry?", "a": "Point, line, and plane." },
+    { "q": "What is the difference between an axiom and a postulate in Euclid's work?", "a": "Postulates are assumptions specific to geometry, while axioms (or common notions) are used throughout mathematics." },
+    { "q": "Are axioms and postulates proved?", "a": "No, they are assumptions or 'obvious universal truths' that are taken without proof." },
+    { "q": "What happens if things are equal to the same thing?", "a": "They are equal to one another." },
+    { "q": "If equals are added to equals, what can be said about the wholes?", "a": "The wholes are equal." },
+    { "q": "If equals are subtracted from equals, what happens to the remainders?", "a": "The remainders are equal." },
+    { "q": "What can be said about things that coincide with one another?", "a": "They are equal to one another." },
+    { "q": "Is the whole greater than or less than its part?", "a": "The whole is greater than the part." },
+    { "q": "State Euclid's First Postulate regarding a straight line.", "a": "A straight line may be drawn from any one point to any other point." },
+    { "q": "How many lines can pass through two distinct given points?", "a": "Only one unique line." },
+    { "q": "State Euclid's Second Postulate regarding a terminated line.", "a": "A terminated line can be produced indefinitely." },
+    { "q": "What is a 'terminated line' in Euclid's geometry called in present-day terminology?", "a": "A line segment." },
+    { "q": "State Euclid's Third Postulate.", "a": "A circle can be drawn with any centre and any radius." },
+    { "q": "What does Euclid's Fourth Postulate say about right angles?", "a": "All right angles are equal to one another." },
+    { "q": "According to Euclid's Fifth Postulate, where do two straight lines meet if a transversal makes interior angles on the same side less than two right angles?", "a": "They meet on that side where the sum of interior angles is less than two right angles." },
+    { "q": "What is a theorem or a proposition?", "a": "A statement that is proved using definitions, axioms, previously proved statements, and deductive reasoning." },
+    { "q": "Can two distinct lines intersect at more than one point?", "a": "No, two distinct lines cannot have more than one point in common." },
+    { "q": "When is a system of axioms called consistent?", "a": "When it is impossible to deduce a statement from these axioms that contradicts any axiom or previously proved statement." },
+    { "q": "How many lines can pass through a single point?", "a": "An infinite number of lines." }
+  ]
+}

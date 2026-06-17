@@ -1,0 +1,506 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Tissues",
+    "chapter_number": 6
+  },
+  "notes": [
+    {
+      "section_title": "Introduction: Tissue Organization in Living Organisms",
+      "topics": [
+        {
+          "topic_name": "What is a Tissue and Why Tissues are Important",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "All living organisms are made of cells. In unicellular organisms like Amoeba, a single cell performs all basic functions—movement, intake of food, gaseous exchange, and excretion. However, in multicellular organisms with millions of cells, most cells are specialised to perform specific functions. Each specialised function is taken up by a different group of cells. Since each group of cells performs only one particular function, they do it very efficiently."
+            },
+            {
+              "type": "paragraph",
+              "text": "In human beings, muscle cells contract and relax to cause movement, nerve cells carry messages throughout the body, and blood flows to transport oxygen, food, hormones and waste materials to different parts. In plants, vascular tissues conduct food and water from one part to another. This arrangement shows that multi-cellular organisms exhibit division of labour."
+            },
+            {
+              "type": "note",
+              "title": "Tissue Defined",
+              "text": "A tissue is a group of cells that are similar in structure and/or work together to achieve a particular function. Tissues are clusters of cells at a definite place in the body, arranged and designed to give the highest possible efficiency of function. Examples: blood, phloem, and muscle are all tissues."
+            },
+            {
+              "type": "paragraph",
+              "text": "Cells specialising in one function are often grouped together in the body. This clustering ensures that a particular function is carried out by a specific tissue at a specific location. The organisation and design of tissues reflects the functional efficiency required by each organ and system."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.1 Comparing Plant and Animal Tissues",
+      "topics": [
+        {
+          "topic_name": "Structural and Functional Differences between Plant and Animal Tissues",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Plants and animals are fundamentally different in structure and function, which is reflected in the types of tissues they contain. Plants are stationary or fixed—they do not move from place to place. Since they must remain upright against gravity, plants have a large quantity of supportive tissue. The supportive tissue in plants generally contains dead cells, which are rigid and provide structural strength."
+            },
+            {
+              "type": "paragraph",
+              "text": "Animals, on the other hand, move around in search of food, mates and shelter. They consume more energy compared to plants due to their active lifestyle. Most of the tissues in animals are living, which provides the flexibility and responsiveness needed for movement and rapid response to environmental stimuli."
+            },
+            {
+              "type": "paragraph",
+              "text": "Another significant difference is in the pattern of growth. In plants, growth is limited to certain specific regions. There are tissues in plants that divide throughout their life, but these are localised to specific regions. Based on their dividing capacity, plant tissues are classified as growing (meristematic) tissue and permanent tissue."
+            },
+            {
+              "type": "paragraph",
+              "text": "In animals, cell growth is more uniform throughout the body. There is no clear demarcation of dividing and non-dividing regions like in plants. This means that in animals, growth can occur throughout the body rather than being restricted to specific regions."
+            },
+            {
+              "type": "paragraph",
+              "text": "The structural organisation of organs and organ systems is far more specialised and localised in complex animals than even in very complex plants. This fundamental difference reflects the different modes of life: plants pursue a sedentary existence requiring strength and support, while animals pursue active locomotion requiring flexibility and rapid responsiveness."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.2 Plant Tissues",
+      "topics": [
+        {
+          "topic_name": "6.2.1 Meristematic Tissue - The Growing Tissue",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Plant growth occurs only in certain specific regions, not throughout the entire plant body. This is because the dividing tissue, called meristematic tissue, is located only at these specific points. Meristematic tissue is composed of actively dividing cells that continuously produce new cells for growth."
+            },
+            {
+              "type": "note",
+              "title": "Types of Meristematic Tissue",
+              "text": "Depending on the region where they are present, meristematic tissues are classified into three types: (1) Apical meristem - present at the growing tips of stems and roots, increases length of stem and root. (2) Lateral meristem (cambium) - located in the sides/lateral regions, increases the girth (width) of stem or root. (3) Intercalary meristem - present in some plants near the node, responsible for elongation of internodes."
+            },
+            {
+              "type": "paragraph",
+              "text": "New cells produced by meristem are initially similar to the meristematic cells themselves. However, as these new cells grow and mature, their characteristics slowly change through a process called differentiation. They become specialised and develop into components of other tissue types."
+            },
+            {
+              "type": "note",
+              "title": "Characteristics of Meristematic Cells",
+              "text": "Cells of meristematic tissue have distinctive features: (1) Very active cells with high metabolic rate. (2) Dense cytoplasm - more cytoplasm, less vacuole space. (3) Thin cellulose cell walls - allows easy cell division and expansion. (4) Prominent nucleus - clearly visible and active in cell division. (5) Lack vacuoles - meristematic cells typically lack vacuoles because they need space for rapid division and growth."
+            },
+            {
+              "type": "activity",
+              "id": "6.1",
+              "title": "Activity 6.1 - Onion Root Growth Experiment",
+              "procedure": [
+                "Take two glass jars and fill them with water.",
+                "Place one onion bulb on each jar, positioned so roots can grow into the water.",
+                "Observe the growth of roots in both bulbs for a few days.",
+                "Measure the length of roots on days 1, 2, and 3.",
+                "On day 4, carefully cut off the root tips of the onion bulb in jar 2 by about 1 cm.",
+                "Continue observing and measuring the length of roots in both jars daily for 5 more days."
+              ],
+              "observation": "Jar 1 (uncut roots) shows continuous growth with longer roots. Jar 2 (cut root tips) shows no further growth or much slower growth even after 5 days.",
+              "conclusion": "The root tips contain the apical meristem. Growth of roots occurs only at the tips because meristematic tissue is present there. When the apical meristem is removed, the root cannot grow further."
+            }
+          ]
+        },
+        {
+          "topic_name": "6.2.2 Permanent Tissue - Specialised Tissues from Differentiation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Cells produced by meristematic tissue eventually differentiate and lose their ability to divide. Once they take up a specific role and form a permanent structure, they form permanent tissue. The process of taking up a permanent shape, size, and function is called differentiation. This leads to the development of various types of permanent tissues suited to different functions."
+            },
+            {
+              "type": "note",
+              "title": "Classification of Permanent Tissues",
+              "text": "Permanent tissues are classified into two main categories: (1) Simple Permanent Tissue - composed of cells of the same type, all structurally and functionally similar. (2) Complex Permanent Tissue - composed of more than one type of cells, all coordinating to perform a common function."
+            }
+          ]
+        },
+        {
+          "topic_name": "6.2.2(i) Simple Permanent Tissue - Parenchyma, Collenchyma, Sclerenchyma",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Simple tissues are composed of cells that are similar in structure and function. There are three main types of simple permanent tissue in plants: parenchyma, collenchyma, and sclerenchyma."
+            },
+            {
+              "type": "note",
+              "title": "Parenchyma - Living Storage Tissue",
+              "text": "Parenchyma is the most common simple permanent tissue. Characteristics: (1) Relatively unspecialised cells with thin cell walls. (2) Living cells with nucleus and cytoplasm. (3) Usually loosely arranged with large intercellular spaces. (4) General function: stores food. (5) Location: beneath epidermis and various plant parts. Special types: (a) Chlorenchyma - contains chlorophyll for photosynthesis. (b) Aerenchyma - contains air cavities in aquatic plants for flotation."
+            },
+            {
+              "type": "activity",
+              "id": "6.2",
+              "title": "Activity 6.2 - Observing Plant Stem Tissue Structure",
+              "procedure": [
+                "With teacher's help, cut a plant stem into very thin slices.",
+                "Stain the slices with safranin dye.",
+                "Place one section on a glass slide with a drop of glycerine.",
+                "Cover with a cover-slip.",
+                "Observe under a microscope and identify different cell types and their arrangement."
+              ],
+              "observation": "Different cell types visible: outer epidermis, then parenchyma cells with spaces, inner vascular tissue with different structures.",
+              "conclusion": "Plant stems contain multiple tissue types arranged in layers for different functions."
+            },
+            {
+              "type": "note",
+              "title": "Collenchyma - Flexibility and Support Tissue",
+              "text": "Collenchyma provides flexibility while offering mechanical support. Characteristics: (1) Living cells with elongated shape. (2) Cell walls irregularly thickened at corners. (3) Very little intercellular space. (4) Function: allows bending without breaking. (5) Location: leaf stalks below epidermis, stems of climbing plants. Example: Flexibility of leaf stalks that bend in wind without breaking."
+            },
+            {
+              "type": "note",
+              "title": "Sclerenchyma - Strength and Rigidity Tissue",
+              "text": "Sclerenchyma makes plants hard and stiff. Characteristics: (1) Dead cells (no cytoplasm or nucleus at maturity). (2) Long and narrow cells. (3) Cell walls thickened by lignin (rigid substance). (4) Often no internal space remains in the cell. (5) Function: provides strength and support; does not allow bending. (6) Location: stems around vascular bundles, leaf veins, hard seed/nut coverings. Example: Hard coconut husk is made of sclerenchyma. Difference: Collenchyma is flexible (alive); sclerenchyma is rigid (dead)."
+            }
+          ]
+        },
+        {
+          "topic_name": "6.2.2(ii) Protective Tissue - Epidermis and Cork",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The outermost layer of all plant parts requires protection from the external environment. Different protective tissues perform this function at different stages of plant development."
+            },
+            {
+              "type": "note",
+              "title": "Epidermis - The Primary Protective Layer",
+              "text": "Epidermis is the outermost protective layer of plant parts. Characteristics: (1) Usually single layer of cells. (2) Forms continuous layer without intercellular spaces. (3) Cells are relatively flat. (4) Outer and side walls thicker than inner walls. (5) Secretes waxy cuticle on outer surface. Function: Protects against water loss, mechanical injury, and pathogenic fungi. Special features: (a) Stomata - small pores for gas exchange surrounded by guard cells. (b) Root hairs - increase surface area for water absorption. (c) In desert plants: thick cuticle for extra protection."
+            },
+            {
+              "type": "activity",
+              "id": "6.3",
+              "title": "Activity 6.3 - Observing Leaf Epidermis and Stomata",
+              "procedure": [
+                "Take a freshly plucked leaf (e.g., Rhoeo plant).",
+                "Stretch and break it gently.",
+                "Remove the peel (epidermis) from the cut and place in water.",
+                "Add safranin stain, wait, then transfer to a slide.",
+                "Place cover slip and observe under microscope."
+              ],
+              "observation": "Epidermis layer visible with scattered small pores (stomata). Each stoma surrounded by two kidney-shaped guard cells.",
+              "conclusion": "Stomata are essential for gas exchange. Guard cells regulate their opening and closing."
+            },
+            {
+              "type": "note",
+              "title": "Cork - The Secondary Protective Layer",
+              "text": "In mature plants, cork forms as secondary protection. Characteristics: (1) Dead cells at maturity. (2) Compactly arranged without intercellular spaces. (3) Cell walls contain suberin (waxy substance). (4) Impervious to gases and water. Function: Protects against water loss, mechanical damage, and microbial invasion. Also acts as insulator. Appearance: Dark, rough outer layer of tree bark. Difference from epidermis: Epidermis on young plants (thin, single layer); cork on older plants (thick, multiple layers), more protective."
+            }
+          ]
+        },
+        {
+          "topic_name": "6.2.2(iii) Complex Permanent Tissue - Xylem and Phloem",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Complex tissues are composed of more than one type of cell. All different cell types coordinate and work together to perform a common function. Xylem and phloem are the two main examples of complex tissues in plants, collectively called vascular tissue."
+            },
+            {
+              "type": "note",
+              "title": "Xylem - Water and Mineral Transport Tissue",
+              "text": "Xylem transports water and mineral salts vertically throughout the plant. Components: (1) Tracheids - tubular structures with thick walls. (2) Vessels - formed by fusion of elements. (3) Xylem parenchyma - stores food. (4) Xylem fibres - provide mechanical support. Characteristics: (1) Tracheids and vessels mostly dead at maturity. (2) Tubular structure allows vertical water transport. (3) Xylem fibres provide strength. (4) Forms the wood of trees. Function: Primary - transport water from roots to leaves; Secondary - provide support and store water."
+            },
+            {
+              "type": "note",
+              "title": "Phloem - Food Transport Tissue",
+              "text": "Phloem transports food (carbohydrates) and organic substances throughout the plant. Components: (1) Sieve tubes - tubular cells with perforated walls. (2) Companion cells - regulate transport. (3) Phloem fibres - provide support. (4) Phloem parenchyma - stores materials. Characteristics: (1) Mostly living cells (except fibres). (2) Sieve tubes have perforated walls for substance passage. (3) Transport in both directions (unlike xylem). (4) Located in vascular bundles alongside xylem. Function: Transport food from leaves to all plant parts for growth and energy."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.3 Animal Tissues",
+      "topics": [
+        {
+          "topic_name": "6.3.1 Epithelial Tissue - Covering and Lining Tissue",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Epithelial tissues are the covering or protective tissues in the animal body. They cover most organs and cavities, forming a barrier to keep different body systems separate. Skin, mouth lining, blood vessel linings, lung alveoli, and kidney tubules are all made of epithelial tissue."
+            },
+            {
+              "type": "note",
+              "title": "General Characteristics of Epithelial Tissue",
+              "text": "Characteristics: (1) Cells are tightly packed in continuous sheets. (2) Minimal intercellular space. (3) Small amount of cementing material between cells. (4) Usually separated from underlying tissue by basement membrane. (5) Permeability properties regulate material exchange. (6) Any substance entering/leaving body must cross epithelium."
+            },
+            {
+              "type": "note",
+              "title": "Types of Epithelial Tissue",
+              "text": "Different epithelial types based on structure and function: (1) Simple Squamous - thin, flat cells for substance transport; location: blood vessel linings, lung alveoli. (2) Stratified Squamous - layered cells for protection; location: skin, oesophagus, mouth. (3) Cuboidal - cube-shaped cells for support; location: kidney tubules, salivary gland ducts. (4) Columnar - tall, pillar-like cells for absorption; location: intestinal lining. (5) Ciliated Columnar - columnar cells with hair-like cilia; location: respiratory tract; function: move mucus forward. (6) Glandular - cells that secrete substances; form glands."
+            }
+          ]
+        },
+        {
+          "topic_name": "6.3.2 Connective Tissue - Supporting and Connecting Tissue",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Connective tissues are called 'connective' because they connect and support other tissues and organs. Unlike epithelial tissue, connective tissue cells are loosely spaced and embedded in an extracellular matrix. The matrix composition varies depending on the tissue function."
+            },
+            {
+              "type": "note",
+              "title": "General Characteristics of Connective Tissue",
+              "text": "Characteristics: (1) Cells are loosely spaced. (2) Cells are embedded in intercellular matrix. (3) Matrix may be jelly-like, fluid, dense, or rigid. (4) Matrix provides support and shape. (5) Different matrices result in different properties."
+            },
+            {
+              "type": "activity",
+              "id": "6.4",
+              "title": "Activity 6.4 - Observing Blood Cells",
+              "procedure": [
+                "Take a drop of blood on a clean microscope slide.",
+                "Observe different cells under microscope.",
+                "Identify red blood cells (RBCs), white blood cells (WBCs), and platelets.",
+                "Note their shapes, sizes, and numbers."
+              ],
+              "observation": "Red cells are disc-shaped and numerous. White cells are larger and less numerous. Platelets are small fragments. All suspended in clear fluid (plasma).",
+              "conclusion": "Blood is a fluid connective tissue with cellular and liquid components."
+            },
+            {
+              "type": "note",
+              "title": "Blood - Fluid Connective Tissue",
+              "text": "Blood is a connective tissue with fluid matrix (plasma). Components: (1) Red Blood Cells (RBCs) - disc-shaped, no nucleus; carry oxygen. (2) White Blood Cells (WBCs) - contain nucleus; protect against infection. (3) Platelets - small fragments; help in blood clotting. (4) Plasma - water, proteins, salts, hormones; transports substances. Function: Transports oxygen, nutrients, hormones, and waste throughout body."
+            },
+            {
+              "type": "note",
+              "title": "Bone - Hard Connective Tissue",
+              "text": "Bone is a strong, rigid connective tissue forming the skeletal framework. Structure: bone cells embedded in hard matrix of calcium and phosphorus compounds. Functions: (1) Forms framework supporting body. (2) Anchors muscles for movement. (3) Protects organs. (4) Stores minerals. Properties: Strong and non-flexible (rigid). Advantages: Supports against gravity, protects organs, stores minerals."
+            },
+            {
+              "type": "note",
+              "title": "Cartilage - Flexible Connective Tissue",
+              "text": "Cartilage is more flexible than bone but firm and supportive. Structure: cells widely spaced in solid protein-sugar matrix. Functions: (1) Smoothens bone surfaces at joints. (2) Provides cushioning. (3) Maintains shape of flexible structures. Location: nose, ear, trachea, larynx. Flexibility: Can be folded/bent without breaking. Example: Can fold ear cartilage but not arm bone."
+            },
+            {
+              "type": "note",
+              "title": "Ligaments and Tendons - Fibrous Connective Tissues",
+              "text": "Ligaments: (1) Connect bone to bone. (2) Very elastic and strong. (3) Contain little matrix. (4) Allow some movement at joints. Tendons: (1) Connect muscle to bone. (2) Fibrous with great strength. (3) Limited flexibility. (4) Transfer force from muscle to bone. Both provide structural support and enable movement."
+            },
+            {
+              "type": "note",
+              "title": "Areolar Tissue - Loose Connective Tissue",
+              "text": "Location: Between skin and muscles, around blood vessels and nerves, in bone marrow. Functions: (1) Fills spaces inside organs. (2) Supports internal organs. (3) Helps tissue repair and healing. (4) Acts as buffer against injury. (5) Allows movement of body parts."
+            },
+            {
+              "type": "note",
+              "title": "Adipose Tissue - Fat Storage Tissue",
+              "text": "Location: Below skin, between internal organs, around heart and kidneys. Structure: cells filled with fat globules. Functions: (1) Stores energy as fats. (2) Acts as insulator maintaining body temperature. (3) Provides cushioning and organ protection. (4) Reduces heat loss. Example: Thick adipose tissue in marine mammals provides insulation in cold water."
+            }
+          ]
+        },
+        {
+          "topic_name": "6.3.3 Muscular Tissue - Movement Tissue",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Muscular tissue is responsible for movement in our body. It consists of elongated cells called muscle fibres. These cells contain special contractile proteins that contract and relax, causing movement of body parts."
+            },
+            {
+              "type": "note",
+              "title": "General Characteristics of Muscular Tissue",
+              "text": "Characteristics: (1) Consists of elongated muscle fibres. (2) Contain contractile proteins. (3) Contraction and relaxation cause movement. (4) Work with nervous tissue to produce controlled movement."
+            },
+            {
+              "type": "note",
+              "title": "Striated Muscle (Skeletal Muscle) - Voluntary Movement",
+              "text": "Structure: (1) Long, cylindrical cells. (2) Unbranched. (3) Multinucleate (many nuclei). (4) Show alternate light and dark bands (striations). Function: (1) Voluntary movement - move by conscious will. (2) Attached to bones for body movement. (3) Examples: arm muscles, leg muscles, facial muscles. Properties: Move quickly, provide precise control, fatigue after prolonged use."
+            },
+            {
+              "type": "note",
+              "title": "Smooth Muscle (Unstriated Muscle) - Involuntary Movement",
+              "text": "Structure: (1) Spindle-shaped cells. (2) Uninucleate (single nucleus). (3) NO striations visible. Function: (1) Involuntary movement - automatic, no conscious control. (2) Movement of food through digestive tract. (3) Blood vessel contraction regulating blood pressure. (4) Control of iris, ureters, lung bronchi. Properties: Move slowly, continuous contraction possible, do not fatigue easily."
+            },
+            {
+              "type": "note",
+              "title": "Cardiac Muscle - Heart Muscle",
+              "text": "Structure: (1) Cylindrical, branched cells. (2) Uninucleate (single nucleus). (3) Faint striations. (4) Cells interconnected by intercalated discs. Function: (1) Rhythmic contraction throughout life. (2) Pumps blood to all body parts. (3) Never tires or fatigues. Properties: Involuntary, synchronized contraction, continuous work without rest."
+            },
+            {
+              "type": "activity",
+              "id": "6.5",
+              "title": "Activity 6.5 - Comparing Different Muscle Types",
+              "procedure": [
+                "Obtain prepared slides of striated, smooth, and cardiac muscle.",
+                "Observe each under microscope.",
+                "Compare: shape, number of nuclei, nucleus position, striations.",
+                "Create comparison table of all three types."
+              ],
+              "observation": "Striated: long, cylindrical, many nuclei, striations visible. Smooth: spindle-shaped, single nucleus, no striations. Cardiac: cylindrical, branched, single nucleus, faint striations.",
+              "conclusion": "Different muscle types have structures reflecting different functions."
+            }
+          ]
+        },
+        {
+          "topic_name": "6.3.4 Nervous Tissue - Stimulus Reception and Transmission",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "All cells can respond to stimuli to some degree. However, nervous tissue cells are highly specialised for being stimulated and for transmitting stimulus very rapidly throughout the body. Brain, spinal cord, and nerves are all composed of nervous tissue."
+            },
+            {
+              "type": "note",
+              "title": "The Neuron - Functional Unit of Nervous Tissue",
+              "text": "The neuron (nerve cell) is the basic functional unit. Each neuron consists of: (1) Cell body - contains nucleus and cytoplasm. (2) Axon - single long extension (up to 1 metre) that conducts impulses away. (3) Dendrites - multiple short, branched extensions that receive impulses. Structure ensures directional signal flow: Dendrite → Cell body → Axon."
+            },
+            {
+              "type": "note",
+              "title": "Nerve Impulses and Signal Transmission",
+              "text": "Nervous tissue functions through signal transmission: (1) Nerve impulse - electrical/chemical signal along nerve fibre. (2) Originates from sensory stimulation. (3) Travels along axon. (4) Transmitted between neurons at synapses (junctions). (5) Direction: Sensory receptor → Spinal cord/brain → Muscle/gland. Functions: (1) Sense environment. (2) Process information. (3) Move muscles and activate glands. (4) Coordinate body functions."
+            },
+            {
+              "type": "paragraph",
+              "text": "The functional combination of nerve and muscle tissue is fundamental to most animals. This combination enables animals to move rapidly and precisely in response to stimuli. Sensory neurons detect stimuli, brain processes information, and motor neurons trigger muscle contraction for coordinated movement."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Tissue",
+      "definition": "A group of cells that are similar in structure and/or work together to achieve a particular function, arranged at a definite location in the body for efficient functioning."
+    },
+    {
+      "term": "Meristematic Tissue",
+      "definition": "Plant tissue consisting of actively dividing cells located in specific regions (apical, lateral, intercalary) responsible for plant growth."
+    },
+    {
+      "term": "Permanent Tissue",
+      "definition": "Plant tissue derived from meristematic tissue after cells have differentiated and lost the ability to divide, taking on permanent shape, size, and function."
+    },
+    {
+      "term": "Differentiation",
+      "definition": "The process by which meristematic cells take up a specific role and lose the ability to divide, forming permanent tissues with specialized functions."
+    },
+    {
+      "term": "Simple Permanent Tissue",
+      "definition": "Plant tissue composed of cells that are similar in structure and function, including parenchyma, collenchyma, and sclerenchyma."
+    },
+    {
+      "term": "Complex Permanent Tissue",
+      "definition": "Plant tissue composed of more than one type of cell that work together to perform a common function, such as xylem and phloem."
+    },
+    {
+      "term": "Parenchyma",
+      "definition": "Simple permanent tissue with living cells, thin cell walls, and large intercellular spaces; main function is food storage; may contain chlorophyll (chlorenchyma) or air cavities (aerenchyma)."
+    },
+    {
+      "term": "Collenchyma",
+      "definition": "Simple permanent tissue with living cells, elongated shape, and irregularly thickened cell walls at corners; provides flexibility and mechanical support to plants."
+    },
+    {
+      "term": "Sclerenchyma",
+      "definition": "Simple permanent tissue composed of dead cells with thick lignified walls; provides strength and rigidity to plant parts."
+    },
+    {
+      "term": "Epidermis",
+      "definition": "The outermost protective layer of plant parts consisting of a single layer of cells with thick walls and waxy cuticle for protection."
+    },
+    {
+      "term": "Stomata",
+      "definition": "Small pores in the epidermis (mainly on leaves) through which gas exchange occurs; surrounded by guard cells that regulate opening and closing."
+    },
+    {
+      "term": "Guard Cells",
+      "definition": "Two kidney-shaped cells surrounding each stoma that control the opening and closing of the pore."
+    },
+    {
+      "term": "Cork",
+      "definition": "Secondary protective tissue formed on mature plants with dead cells containing suberin; replaces epidermis in older stems and roots."
+    },
+    {
+      "term": "Xylem",
+      "definition": "Complex permanent tissue composed of tracheids, vessels, xylem parenchyma, and xylem fibres; transports water and mineral salts vertically in plants."
+    },
+    {
+      "term": "Phloem",
+      "definition": "Complex permanent tissue composed of sieve tubes, companion cells, phloem fibres, and phloem parenchyma; transports food and organic substances throughout the plant."
+    },
+    {
+      "term": "Epithelial Tissue",
+      "definition": "Animal tissue that forms the covering and lining of organs, cavities, and body surfaces; cells are tightly packed and form continuous protective layers."
+    },
+    {
+      "term": "Connective Tissue",
+      "definition": "Animal tissue composed of loosely spaced cells embedded in an intercellular matrix; connects, supports, and binds other tissues; includes blood, bone, cartilage, and ligaments."
+    },
+    {
+      "term": "Blood",
+      "definition": "Fluid connective tissue composed of red blood cells, white blood cells, platelets, and plasma; transports oxygen, nutrients, and waste throughout the body."
+    },
+    {
+      "term": "Bone",
+      "definition": "Hard, rigid connective tissue composed of bone cells embedded in a matrix of calcium and phosphorus compounds; provides structural support and protection."
+    },
+    {
+      "term": "Cartilage",
+      "definition": "Flexible connective tissue with cells widely spaced in a solid protein-sugar matrix; found at joints, nose, ear, and trachea where flexibility is needed."
+    },
+    {
+      "term": "Ligament",
+      "definition": "Elastic connective tissue with great strength that connects bone to bone; allows some movement at joints while providing stability."
+    },
+    {
+      "term": "Tendon",
+      "definition": "Fibrous connective tissue with great strength and limited flexibility that connects muscle to bone; transfers force from muscle to bone."
+    },
+    {
+      "term": "Areolar Tissue",
+      "definition": "Loose connective tissue found between skin and muscles and around blood vessels; fills spaces inside organs, provides support, and aids in tissue repair."
+    },
+    {
+      "term": "Adipose Tissue",
+      "definition": "Connective tissue specialized for fat storage found below skin and between organs; stores energy and acts as insulation and cushioning."
+    },
+    {
+      "term": "Muscular Tissue",
+      "definition": "Animal tissue composed of elongated cells (muscle fibres) containing contractile proteins; responsible for movement of body parts."
+    },
+    {
+      "term": "Striated Muscle",
+      "definition": "Voluntary muscle tissue attached to bones; cells show alternate light and dark bands (striations); responsible for controlled, conscious movement."
+    },
+    {
+      "term": "Smooth Muscle",
+      "definition": "Involuntary muscle tissue with spindle-shaped cells and no visible striations; controls automatic movements like food movement in digestive tract."
+    },
+    {
+      "term": "Cardiac Muscle",
+      "definition": "Specialized heart muscle tissue with cylindrical, branched, uninucleate cells; shows rhythmic contraction and relaxation throughout life without fatigue."
+    },
+    {
+      "term": "Nervous Tissue",
+      "definition": "Animal tissue highly specialised for receiving stimuli and transmitting signals rapidly throughout the body; composed of neurons and supporting cells."
+    },
+    {
+      "term": "Neuron",
+      "definition": "The basic functional unit of nervous tissue; consists of a cell body, axon (long extension), and dendrites (short branches) for receiving and transmitting signals."
+    },
+    {
+      "term": "Axon",
+      "definition": "Long, single extension of a neuron that conducts nerve impulses away from the cell body toward the next neuron; can be up to a metre long."
+    },
+    {
+      "term": "Dendrite",
+      "definition": "Short, branched extension of a neuron that receives signals (nerve impulses) from other neurons and conducts them toward the cell body."
+    },
+    {
+      "term": "Nerve Impulse",
+      "definition": "The electrical or chemical signal that travels along the axon of a neuron, allowing communication between different parts of the nervous system."
+    }
+  ],
+  "summary_points": [
+    "A tissue is a group of cells similar in structure and/or working together to achieve a particular function. In multicellular organisms, cells are specialised and grouped together showing division of labour. Tissues are arranged for maximum efficiency of function.",
+    "Plants and animals differ fundamentally in tissue types and organisation. Plants are stationary with large quantities of supportive tissues (often with dead cells). Animals are mobile with living tissues. Plant growth is localised to specific meristematic regions, while animal growth is uniform throughout the body.",
+    "Plant tissues are classified as meristematic and permanent tissues. Meristematic tissues are actively dividing tissues in growing regions (apical, lateral, intercalary). Permanent tissues arise from meristematic tissue when cells differentiate and lose the ability to divide.",
+    "Simple permanent plant tissues include parenchyma (living, loosely arranged, stores food; variants: chlorenchyma with chlorophyll, aerenchyma with air cavities), collenchyma (living, flexible with thickened corners, provides support), and sclerenchyma (dead, rigid, lignified walls, provides strength).",
+    "Protective tissues in plants include epidermis (outermost layer, living, thin, with cuticle and stomata for gas exchange; modified with root hairs) and cork (secondary protective layer on mature plants, dead, contains suberin, waterproof and insulating).",
+    "Complex permanent plant tissues are xylem (transports water and minerals vertically, composed of tracheids, vessels, xylem parenchyma, xylem fibres, mostly dead) and phloem (transports food from leaves to all parts, composed of sieve tubes, companion cells, phloem fibres, phloem parenchyma, mostly living).",
+    "Animal tissues are classified as epithelial, connective, muscular, and nervous tissues. Epithelial tissue forms protective coverings and linings with tightly packed cells; types include squamous (thin), cuboidal (support), columnar (absorption), ciliated (mucus clearance), and glandular (secretion).",
+    "Connective tissues connect and support other tissues with cells loosely spaced in a matrix. Types include blood (fluid matrix, transports), bone (hard matrix, structural support), cartilage (flexible, at joints), ligaments (bone to bone), tendons (muscle to bone), areolar (fills spaces), and adipose (fat storage, insulation).",
+    "Muscular tissue consists of contractile cells (muscle fibres) responsible for movement. Three types: striated muscle (voluntary, long multinucleate cells, body movement), smooth muscle (involuntary, spindle-shaped uninucleate cells, internal functions), and cardiac muscle (involuntary, branched uninucleate cells, heart pumping).",
+    "Nervous tissue is specialised for receiving stimuli and rapidly transmitting signals. The neuron consists of cell body, axon (conducts impulses away), and dendrites (receives impulses). Nerve impulses travel along axons and are transmitted between neurons at synapses. Nerve and muscle tissue combination enables rapid response to stimuli."
+  ]
+}

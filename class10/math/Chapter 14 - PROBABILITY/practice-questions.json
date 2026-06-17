@@ -1,0 +1,150 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Probability",
+    "chapter_number": 14
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "A fair coin is tossed once. Find the probability of getting a head.",
+      "answer": "The probability is 1/2 or 0.5.",
+      "solution": "Sample space S = {H, T}. Total possible outcomes = 2. Favorable outcomes (head) = 1. P(Head) = 1/2."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "A fair die is rolled once. Find the probability of getting the number 4.",
+      "answer": "The probability is 1/6.",
+      "solution": "Sample space S = {1, 2, 3, 4, 5, 6}. Total possible outcomes = 6. Favorable outcomes (4) = 1. P(4) = 1/6."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "A fair die is rolled. Find the probability of getting an odd number.",
+      "answer": "The probability is 1/2.",
+      "solution": "Sample space S = {1, 2, 3, 4, 5, 6}. Favorable outcomes (odd) = {1, 3, 5}, so 3 outcomes. P(odd) = 3/6 = 1/2."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Find the probability of the complement of getting a 6 on a single die roll.",
+      "answer": "The probability is 5/6.",
+      "solution": "P(getting 6) = 1/6. P(not getting 6) = 1 - 1/6 = 5/6. Alternatively, favorable outcomes = {1, 2, 3, 4, 5} = 5. P(not 6) = 5/6."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "A bag contains 5 red balls and 3 blue balls. If a ball is drawn at random, find the probability of drawing a red ball.",
+      "answer": "The probability is 5/8.",
+      "solution": "Total balls = 5 + 3 = 8. Favorable outcomes (red) = 5. P(red) = 5/8."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "Two fair dice are rolled simultaneously. Find the probability that the sum is 7.",
+      "answer": "The probability is 1/6.",
+      "solution": "Total outcomes = 6 × 6 = 36. Favorable outcomes (sum = 7): (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) = 6 outcomes. P(sum = 7) = 6/36 = 1/6."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "A well-shuffled deck of 52 cards is used. One card is drawn. Find the probability that it is an ace.",
+      "answer": "The probability is 1/13.",
+      "solution": "Total cards = 52. Number of aces = 4. P(ace) = 4/52 = 1/13."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "From a standard deck of 52 cards, find the probability of drawing a card that is not an ace.",
+      "answer": "The probability is 12/13.",
+      "solution": "P(ace) = 4/52 = 1/13. P(not ace) = 1 - 1/13 = 12/13. Alternatively, non-ace cards = 48. P(not ace) = 48/52 = 12/13."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "A die is rolled. Find the probability of getting a number less than or equal to 4.",
+      "answer": "The probability is 2/3.",
+      "solution": "Favorable outcomes (≤ 4): {1, 2, 3, 4} = 4 outcomes. Total outcomes = 6. P(number ≤ 4) = 4/6 = 2/3."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "A bag contains 3 red, 4 green, and 2 yellow balls. A ball is drawn at random. What is the probability that it is green?",
+      "answer": "The probability is 4/9.",
+      "solution": "Total balls = 3 + 4 + 2 = 9. Green balls = 4. P(green) = 4/9."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Two coins are tossed simultaneously. Find the probability of getting at least one head.",
+      "answer": "The probability is 3/4.",
+      "solution": "Sample space = {HH, HT, TH, TT} = 4 outcomes. Favorable outcomes (at least one head) = {HH, HT, TH} = 3 outcomes. P(at least one head) = 3/4. Alternatively, P(at least one head) = 1 - P(no head) = 1 - P(TT) = 1 - 1/4 = 3/4."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "A die is rolled twice. Find the probability that the first roll is 5 and the second roll is 3.",
+      "answer": "The probability is 1/36.",
+      "solution": "Total outcomes = 6 × 6 = 36. Favorable outcomes (first 5, second 3) = 1. P(5 then 3) = 1/36."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "From a deck of 52 cards, find the probability of drawing a red face card. Face cards are J, Q, K.",
+      "answer": "The probability is 3/26.",
+      "solution": "Face cards in the deck = 3 × 4 = 12. Red face cards = 3 × 2 = 6 (J, Q, K of hearts and diamonds). P(red face card) = 6/52 = 3/26."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "Two dice are rolled. Find the probability that the sum is greater than 10.",
+      "answer": "The probability is 1/12.",
+      "solution": "Total outcomes = 36. Favorable outcomes (sum > 10): sum = 11 → {(5,6), (6,5)} = 2 outcomes; sum = 12 → {(6,6)} = 1 outcome. Total favorable = 3. P(sum > 10) = 3/36 = 1/12."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "A bag contains 5 white and 3 black balls. Two balls are drawn one after another without replacement. Find the probability that both are white.",
+      "answer": "The probability is 5/14.",
+      "solution": "Total balls = 8. First draw (white): P = 5/8. After removing one white, 7 balls remain, 4 white. Second draw (white): P = 4/7. P(both white) = (5/8) × (4/7) = 20/56 = 5/14."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Hard",
+      "question": "Find the probability of getting exactly two heads when three coins are tossed.",
+      "answer": "The probability is 3/8.",
+      "solution": "Sample space = {HHH, HHT, HTH, HTT, THH, THT, TTH, TTT} = 8 outcomes. Favorable outcomes (exactly 2 heads) = {HHT, HTH, THH} = 3 outcomes. P(exactly 2 heads) = 3/8."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Hard",
+      "question": "A die is thrown once. Let E be the event 'getting a number greater than 4' and F be the event 'getting a number less than or equal to 4.' Show that E and F are complementary events.",
+      "answer": "E and F are complementary because P(E) + P(F) = 1 and they cover all outcomes.",
+      "solution": "E = {5, 6}, P(E) = 2/6 = 1/3. F = {1, 2, 3, 4}, P(F) = 4/6 = 2/3. P(E) + P(F) = 1/3 + 2/3 = 1. E and F are mutually exclusive (no overlap) and exhaustive (cover all outcomes). Therefore, they are complementary."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "A spinner is divided into 8 equal sections: 3 red, 2 blue, and 3 green. Find the probability of spinning a color that is not red.",
+      "answer": "The probability is 5/8.",
+      "solution": "P(red) = 3/8. P(not red) = 1 - 3/8 = 5/8. Alternatively, non-red sections = 2 + 3 = 5. P(not red) = 5/8."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "A card is selected from a well-shuffled deck. Find the probability that the card is either a spade or an ace.",
+      "answer": "The probability is 4/13.",
+      "solution": "Spades in deck = 13. Aces in deck = 4. Ace of spades = 1 (counted in both). Using inclusion-exclusion: P(spade or ace) = P(spade) + P(ace) - P(spade and ace) = 13/52 + 4/52 - 1/52 = 16/52 = 4/13."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "In a lottery, there are tickets numbered 1 to 100. If one ticket is drawn at random, find the probability that it is a perfect square.",
+      "answer": "The probability is 1/10.",
+      "solution": "Perfect squares from 1 to 100: {1, 4, 9, 16, 25, 36, 49, 64, 81, 100} = 10 numbers. Total tickets = 100. P(perfect square) = 10/100 = 1/10."
+    }
+  ]
+}

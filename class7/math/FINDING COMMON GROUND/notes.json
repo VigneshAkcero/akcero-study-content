@@ -1,0 +1,554 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Math",
+    "chapter_name": "Finding Common Ground",
+    "chapter_number": 3
+  },
+  "notes": [
+    {
+      "section_title": "3.1 The Greatest of All",
+      "topics": [
+        {
+          "topic_name": "Understanding Factors and Common Factors",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A factor of a number is a whole number that divides the number exactly without leaving a remainder. For example, the factors of 12 are 1, 2, 3, 4, 6, and 12 because each of these numbers divides 12 evenly."
+            },
+            {
+              "type": "paragraph",
+              "text": "When two or more numbers share the same factors, those shared factors are called common factors. For instance, if we consider the numbers 12 and 16, we can list their factors and identify which ones appear in both lists."
+            },
+            {
+              "type": "example",
+              "id": "3.1.1",
+              "title": "Finding Common Factors",
+              "problem": "Find all common factors of 12 and 16.",
+              "solution": [
+                "Factors of 12: 1, 2, 3, 4, 6, 12",
+                "Factors of 16: 1, 2, 4, 8, 16",
+                "Common factors (numbers in both lists): 1, 2, 4",
+                "Therefore, the common factors of 12 and 16 are 1, 2, and 4."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Key Observation",
+              "text": "Every number has at least 1 as a factor, so 1 is always a common factor of any two or more numbers. The common factors of two numbers are always finite and include 1 and possibly other numbers."
+            }
+          ]
+        },
+        {
+          "topic_name": "Highest Common Factor (HCF) or Greatest Common Divisor (GCD)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Highest Common Factor (HCF), also called the Greatest Common Divisor (GCD), is the greatest (or largest) of all the common factors of two or more numbers. It is the largest number that divides all the given numbers without leaving a remainder."
+            },
+            {
+              "type": "note",
+              "title": "HCF Definition",
+              "text": "The Highest Common Factor (HCF) of two or more numbers is the greatest number that divides each of them exactly. For example, the HCF of 12 and 16 is 4 because 4 is the largest number that divides both 12 and 16."
+            },
+            {
+              "type": "paragraph",
+              "text": "The concept of HCF has practical applications in real-world situations. For example, when laying floor tiles in a room, you would want to use the largest square tiles that fit perfectly without cutting, which relates to finding the HCF of the room dimensions."
+            },
+            {
+              "type": "example",
+              "id": "3.1.2",
+              "title": "Real-World Application — Floor Tiles",
+              "problem": "A room is 12 feet long and 16 feet wide. You want to cover the floor with square tiles without cutting any tiles. What is the largest size of square tiles you can use?",
+              "solution": [
+                "To find the largest square tiles without cutting, we need the HCF of 12 and 16.",
+                "Common factors of 12 and 16: 1, 2, 4",
+                "The greatest common factor is 4.",
+                "Therefore, the largest square tiles you can use are 4 feet × 4 feet."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Prime Numbers and Prime Factorisation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A prime number is a natural number greater than 1 that has only two factors: 1 and the number itself. For example, 2, 3, 5, 7, 11, 13, and 17 are prime numbers because they cannot be divided evenly by any number other than 1 and themselves."
+            },
+            {
+              "type": "paragraph",
+              "text": "Prime factorisation is the process of expressing any number as a product of prime numbers. Every composite number can be expressed as a unique product of prime factors. This is a fundamental principle in number theory called the Fundamental Theorem of Arithmetic."
+            },
+            {
+              "type": "list",
+              "title": "Steps for Prime Factorisation",
+              "items": [
+                "Start with the smallest prime number (2) and check if it divides the given number.",
+                "If it divides, write it as a factor and divide the number by it.",
+                "Repeat with the same prime number until it no longer divides the number.",
+                "Move to the next prime number (3, 5, 7, etc.) and repeat the process.",
+                "Continue until the quotient becomes 1.",
+                "The original number is the product of all the prime factors found."
+              ]
+            },
+            {
+              "type": "example",
+              "id": "3.1.3",
+              "title": "Prime Factorisation of 90",
+              "problem": "Find the prime factorisation of 90.",
+              "solution": [
+                "90 ÷ 2 = 45 (2 is a factor)",
+                "45 ÷ 3 = 15 (3 is a factor)",
+                "15 ÷ 3 = 5 (3 is a factor again)",
+                "5 ÷ 5 = 1 (5 is a factor)",
+                "Therefore, 90 = 2 × 3 × 3 × 5 = 2 × 3² × 5"
+              ]
+            },
+            {
+              "type": "example",
+              "id": "3.1.4",
+              "title": "Prime Factorisation of 84 and 108",
+              "problem": "Find the prime factorisation of 84 and 108.",
+              "solution": [
+                "For 84:",
+                "84 ÷ 2 = 42",
+                "42 ÷ 2 = 21",
+                "21 ÷ 3 = 7",
+                "7 ÷ 7 = 1",
+                "So, 84 = 2² × 3 × 7",
+                "",
+                "For 108:",
+                "108 ÷ 2 = 54",
+                "54 ÷ 2 = 27",
+                "27 ÷ 3 = 9",
+                "9 ÷ 3 = 3",
+                "3 ÷ 3 = 1",
+                "So, 108 = 2² × 3³"
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Important Property",
+              "text": "The prime factorisation of a number is unique, regardless of the order in which we find the factors. That is, every composite number can be expressed as a product of prime factors in exactly one way (ignoring the order of factors)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Finding HCF Using Prime Factorisation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Prime factorisation provides an efficient method for finding the HCF of two or more numbers. To find the HCF, we identify the common prime factors and multiply the lowest powers of these common factors."
+            },
+            {
+              "type": "list",
+              "title": "Method to Find HCF Using Prime Factorisation",
+              "items": [
+                "Find the prime factorisation of each number.",
+                "Identify the prime factors that are common to all numbers.",
+                "For each common prime factor, select the one with the lowest power.",
+                "Multiply all these selected prime factors to get the HCF."
+              ]
+            },
+            {
+              "type": "example",
+              "id": "3.1.5",
+              "title": "Finding HCF of 45 and 75",
+              "problem": "Find the HCF of 45 and 75 using prime factorisation.",
+              "solution": [
+                "Prime factorisation of 45: 45 = 3² × 5",
+                "Prime factorisation of 75: 75 = 3 × 5²",
+                "Common prime factors: 3 and 5",
+                "Lowest power of 3: 3¹",
+                "Lowest power of 5: 5¹",
+                "HCF = 3 × 5 = 15"
+              ]
+            },
+            {
+              "type": "example",
+              "id": "3.1.6",
+              "title": "Finding HCF of 112 and 84",
+              "problem": "Find the HCF of 112 and 84 using prime factorisation.",
+              "solution": [
+                "Prime factorisation of 112: 112 = 2⁴ × 7",
+                "Prime factorisation of 84: 84 = 2² × 3 × 7",
+                "Common prime factors: 2 and 7",
+                "Lowest power of 2: 2²",
+                "Lowest power of 7: 7¹",
+                "HCF = 2² × 7 = 4 × 7 = 28"
+              ]
+            },
+            {
+              "type": "example",
+              "id": "3.1.7",
+              "title": "Real-World Application — Rice Packing",
+              "problem": "One farm produced 84 kg of rice and another produced 108 kg. You want to pack both quantities into bags of equal size without mixing the rice. What is the maximum size of bag you can use so that each bag contains a whole number of kilograms and no rice is left over?",
+              "solution": [
+                "We need to find the HCF of 84 and 108.",
+                "Prime factorisation of 84 = 2² × 3 × 7",
+                "Prime factorisation of 108 = 2² × 3³",
+                "Common factors: 2² and 3",
+                "HCF = 2² × 3 = 4 × 3 = 12",
+                "Therefore, the maximum bag size is 12 kg, which minimizes the number of bags needed."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.2 Least, but not Last!",
+      "topics": [
+        {
+          "topic_name": "Understanding Multiples and Common Multiples",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A multiple of a number is the product of that number with any natural number. For example, the multiples of 6 are 6, 12, 18, 24, 30, etc. (obtained by multiplying 6 by 1, 2, 3, 4, 5, etc.)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Common multiples are multiples that are shared by two or more numbers. For instance, if we list the multiples of 6 and the multiples of 8, the numbers that appear in both lists are their common multiples: 24, 48, 72, etc."
+            },
+            {
+              "type": "example",
+              "id": "3.2.1",
+              "title": "Finding Common Multiples",
+              "problem": "Find the first five common multiples of 6 and 8.",
+              "solution": [
+                "Multiples of 6: 6, 12, 18, 24, 30, 36, 42, 48, 54, 60, 66, 72, ...",
+                "Multiples of 8: 8, 16, 24, 32, 40, 48, 56, 64, 72, ...",
+                "Common multiples: 24, 48, 72, 96, 120, ...",
+                "The first five common multiples of 6 and 8 are 24, 48, 72, 96, and 120."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Lowest Common Multiple (LCM)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Lowest Common Multiple (LCM), also called the Least Common Multiple, is the smallest (or least) of the common multiples of two or more numbers. It is the smallest positive number that is divisible by all the given numbers."
+            },
+            {
+              "type": "note",
+              "title": "LCM Definition",
+              "text": "The Lowest Common Multiple (LCM) of two or more numbers is the smallest number that is a multiple of each of them. For example, the LCM of 6 and 8 is 24 because 24 is the smallest number that is divisible by both 6 and 8."
+            },
+            {
+              "type": "paragraph",
+              "text": "LCM has numerous practical applications. For example, when planning activities that repeat at different intervals, LCM helps determine when both events will occur on the same day. This is useful in scheduling tasks, planning deliveries, and organizing recurring events."
+            },
+            {
+              "type": "example",
+              "id": "3.2.2",
+              "title": "Real-World Application — Toran Making",
+              "problem": "Anshu wants to decorate a doorway (toran) using cloth strips. She has two types of strips: one type is 6 cm long and the other is 8 cm long. If she wants to make the toran using the same length of combined strips of both types without cutting any strip, what is the shortest toran she can make?",
+              "solution": [
+                "We need to find the LCM of 6 and 8.",
+                "Multiples of 6: 6, 12, 18, 24, 30, ...",
+                "Multiples of 8: 8, 16, 24, 32, ...",
+                "The smallest common multiple is 24.",
+                "Therefore, the shortest toran she can make is 24 cm long."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Finding LCM Using Prime Factorisation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Just as with HCF, prime factorisation provides an efficient method for finding the LCM. To find the LCM, we identify all the prime factors from both numbers and multiply the highest powers of these factors."
+            },
+            {
+              "type": "list",
+              "title": "Method to Find LCM Using Prime Factorisation",
+              "items": [
+                "Find the prime factorisation of each number.",
+                "Identify all prime factors that appear in any of the numbers.",
+                "For each prime factor, select the highest power among all the numbers.",
+                "Multiply all these selected prime factors to get the LCM."
+              ]
+            },
+            {
+              "type": "example",
+              "id": "3.2.3",
+              "title": "Finding LCM of 14 and 35",
+              "problem": "Find the LCM of 14 and 35 using prime factorisation.",
+              "solution": [
+                "Prime factorisation of 14: 14 = 2 × 7",
+                "Prime factorisation of 35: 35 = 5 × 7",
+                "All prime factors: 2, 5, and 7",
+                "Highest power of 2: 2¹",
+                "Highest power of 5: 5¹",
+                "Highest power of 7: 7¹",
+                "LCM = 2 × 5 × 7 = 70"
+              ]
+            },
+            {
+              "type": "example",
+              "id": "3.2.4",
+              "title": "Finding LCM of 96 and 360",
+              "problem": "Find the LCM of 96 and 360 using prime factorisation.",
+              "solution": [
+                "Prime factorisation of 96: 96 = 2⁵ × 3",
+                "Prime factorisation of 360: 360 = 2³ × 3² × 5",
+                "All prime factors: 2, 3, and 5",
+                "Highest power of 2: 2⁵",
+                "Highest power of 3: 3²",
+                "Highest power of 5: 5¹",
+                "LCM = 2⁵ × 3² × 5 = 32 × 9 × 5 = 1440"
+              ]
+            },
+            {
+              "type": "example",
+              "id": "3.2.5",
+              "title": "Real-World Application — Sweet Shop Visits",
+              "problem": "A sweet shop gives free sweets every 7 days. Kabamai visits the shop every 10 days. If she received free sweets today, after how many days will she next visit the shop on a day when she gets free sweets?",
+              "solution": [
+                "We need to find the LCM of 7 and 10.",
+                "Prime factorisation of 7 = 7",
+                "Prime factorisation of 10 = 2 × 5",
+                "No common factors, so LCM = 7 × 2 × 5 = 70",
+                "Therefore, she will next get free sweets after 70 days."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.3 Patterns, Properties, and a Pretty Procedure!",
+      "topics": [
+        {
+          "topic_name": "Efficient Procedures for Finding HCF and LCM",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "While prime factorisation is a reliable method, there are more efficient procedures, especially when dealing with large numbers. The division method is one such efficient technique that can be used to find both HCF and LCM."
+            },
+            {
+              "type": "list",
+              "title": "Division Method for Finding HCF",
+              "items": [
+                "Divide the larger number by the smaller number.",
+                "Divide the smaller number by the remainder obtained in step 1.",
+                "Continue this process of dividing the previous divisor by the new remainder.",
+                "Repeat until the remainder becomes 0.",
+                "The last divisor (when remainder is 0) is the HCF."
+              ]
+            },
+            {
+              "type": "example",
+              "id": "3.3.1",
+              "title": "Finding HCF Using Division Method",
+              "problem": "Find the HCF of 225 and 750 using the division method.",
+              "solution": [
+                "750 ÷ 225 = 3 remainder 75",
+                "225 ÷ 75 = 3 remainder 0",
+                "Since the remainder is 0, the HCF is 75.",
+                "Therefore, HCF(225, 750) = 75"
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Simultaneous Division Method for HCF and LCM",
+              "items": [
+                "Write the numbers side by side.",
+                "Divide both by a common prime factor.",
+                "Repeat with the quotients until no common factor remains.",
+                "HCF = product of all common divisors used.",
+                "LCM = product of HCF and all remaining quotients."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Fundamental Property: HCF × LCM",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "There is a beautiful and important relationship between the HCF and LCM of two numbers. This property connects these two concepts and provides a powerful tool for calculations."
+            },
+            {
+              "type": "note",
+              "title": "Fundamental Property",
+              "text": "For any two numbers a and b: HCF(a, b) × LCM(a, b) = a × b. That is, the product of the HCF and LCM of two numbers equals the product of the numbers themselves."
+            },
+            {
+              "type": "paragraph",
+              "text": "This property is very useful. If you know the HCF and the product of two numbers, you can find the LCM. Similarly, if you know the LCM and the product, you can find the HCF."
+            },
+            {
+              "type": "example",
+              "id": "3.3.2",
+              "title": "Using the HCF × LCM Property",
+              "problem": "The HCF of two numbers is 5, and their product is 350. Find their LCM.",
+              "solution": [
+                "Given: HCF = 5, Product = 350",
+                "Using the property: HCF × LCM = Product",
+                "5 × LCM = 350",
+                "LCM = 350 ÷ 5 = 70",
+                "Therefore, the LCM is 70."
+              ]
+            },
+            {
+              "type": "example",
+              "id": "3.3.3",
+              "title": "Verifying the Property",
+              "problem": "Verify the property HCF × LCM = Product for numbers 105 and 95.",
+              "solution": [
+                "Prime factorisation of 105 = 3 × 5 × 7",
+                "Prime factorisation of 95 = 5 × 19",
+                "HCF(105, 95) = 5",
+                "LCM(105, 95) = 3 × 5 × 7 × 19 = 1995",
+                "HCF × LCM = 5 × 1995 = 9975",
+                "Product = 105 × 95 = 9975",
+                "Since both are equal, the property is verified!"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Patterns and Properties of HCF and LCM",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "There are several interesting patterns and properties that hold true for HCF and LCM. Understanding these patterns helps in solving problems more efficiently and deepens mathematical insight."
+            },
+            {
+              "type": "list",
+              "title": "Important Patterns and Properties",
+              "items": [
+                "For consecutive numbers: HCF = 1 (any two consecutive numbers have no common factor except 1)",
+                "For two consecutive even numbers: HCF = 2",
+                "For two consecutive odd numbers: HCF = 1",
+                "For co-prime numbers (numbers with HCF = 1): LCM = product of the numbers",
+                "If one number is a multiple of another: HCF = the smaller number, LCM = the larger number",
+                "If one number is a factor of another: HCF × LCM = a × b (the product relationship still holds)"
+              ]
+            },
+            {
+              "type": "example",
+              "id": "3.3.4",
+              "title": "Property: Consecutive Numbers",
+              "problem": "Find the HCF of 23 and 24 (consecutive numbers).",
+              "solution": [
+                "Since 23 and 24 are consecutive numbers, they share no common factors except 1.",
+                "Therefore, HCF(23, 24) = 1"
+              ]
+            },
+            {
+              "type": "example",
+              "id": "3.3.5",
+              "title": "Property: One Number is a Multiple",
+              "problem": "Find the HCF and LCM of 18 and 36, where 36 is a multiple of 18.",
+              "solution": [
+                "Since 36 = 18 × 2, one number is a multiple of the other.",
+                "HCF(18, 36) = 18 (the smaller number)",
+                "LCM(18, 36) = 36 (the larger number)",
+                "Verification: HCF × LCM = 18 × 36 = 648, and 18 × 36 = 648 ✓"
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Co-prime Numbers",
+              "text": "Two numbers are called co-prime if their HCF is 1. For example, 9 and 16 are co-prime because HCF(9, 16) = 1. For co-prime numbers, LCM = product of the numbers."
+            }
+          ]
+        },
+        {
+          "topic_name": "Generalisation and Conjecture",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In mathematics, a conjecture is a statement or proposition made without proof or verification based on observed patterns. A generalisation is a statement that describes a pattern or property that holds true in all possible cases."
+            },
+            {
+              "type": "paragraph",
+              "text": "When working with HCF and LCM, we observe patterns and make conjectures about the relationships between these concepts. Some conjectures can be proven mathematically (and become theorems or properties), while others might be disproved by finding a counterexample."
+            },
+            {
+              "type": "note",
+              "title": "Conjecture vs Generalisation",
+              "text": "A conjecture is an unproven claim made based on pattern observation. A generalisation is a proven statement that describes a universal pattern. Mathematical thinking involves making conjectures, testing them, and either proving them (making them generalisations) or disproving them with counterexamples."
+            },
+            {
+              "type": "paragraph",
+              "text": "The property 'HCF × LCM = product of two numbers' is a generalisation because it has been proven to be true for all pairs of numbers. When we first discovered this relationship by observing multiple examples, it was a conjecture until it was proven."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Factor",
+      "definition": "A factor of a number is a whole number that divides the number exactly without leaving a remainder."
+    },
+    {
+      "term": "Prime Number",
+      "definition": "A natural number greater than 1 that has only two factors: 1 and the number itself."
+    },
+    {
+      "term": "Composite Number",
+      "definition": "A natural number greater than 1 that has factors other than 1 and itself."
+    },
+    {
+      "term": "Prime Factorisation",
+      "definition": "The process of expressing a number as a product of prime numbers. Every composite number has a unique prime factorisation."
+    },
+    {
+      "term": "Common Factor",
+      "definition": "A factor that belongs to two or more numbers. Common factors are the numbers that divide all given numbers exactly."
+    },
+    {
+      "term": "Highest Common Factor (HCF)",
+      "definition": "The greatest number that divides two or more numbers without leaving a remainder. Also called the Greatest Common Divisor (GCD)."
+    },
+    {
+      "term": "Multiple",
+      "definition": "A multiple of a number is the product of that number with any natural number."
+    },
+    {
+      "term": "Common Multiple",
+      "definition": "A multiple that belongs to two or more numbers. Common multiples are the numbers that are divisible by all given numbers."
+    },
+    {
+      "term": "Lowest Common Multiple (LCM)",
+      "definition": "The smallest positive number that is a multiple of two or more numbers. Also called the Least Common Multiple."
+    },
+    {
+      "term": "Co-prime Numbers",
+      "definition": "Two numbers whose Highest Common Factor (HCF) is 1. Co-prime numbers share no common factors except 1."
+    },
+    {
+      "term": "Conjecture",
+      "definition": "A statement or claim made without proof based on observed patterns. A conjecture can be proven (becoming a theorem) or disproven by finding a counterexample."
+    },
+    {
+      "term": "Generalisation",
+      "definition": "A statement that describes a pattern or property that holds true in all possible cases. A generalisation is a proven conjecture."
+    },
+    {
+      "term": "Fundamental Theorem of Arithmetic",
+      "definition": "The theorem stating that every composite number can be expressed as a unique product of prime factors (ignoring order)."
+    }
+  ],
+  "summary_points": [
+    "Factors are whole numbers that divide a given number exactly. Common factors are factors shared by two or more numbers.",
+    "The Highest Common Factor (HCF) or Greatest Common Divisor (GCD) is the greatest number that divides all given numbers without remainder.",
+    "A prime number is a natural number greater than 1 with only two factors: 1 and itself. Prime factorisation expresses any number as a product of primes.",
+    "To find HCF using prime factorisation: identify common prime factors and multiply the lowest powers of these factors.",
+    "Multiples of a number are products obtained by multiplying that number by natural numbers. Common multiples belong to two or more numbers.",
+    "The Lowest Common Multiple (LCM) is the smallest positive number that is divisible by all given numbers.",
+    "To find LCM using prime factorisation: identify all prime factors and multiply the highest powers of these factors.",
+    "The fundamental property states: HCF(a, b) × LCM(a, b) = a × b. This connects HCF and LCM and helps in calculations.",
+    "Special properties: consecutive numbers have HCF = 1; if one number is a multiple of another, HCF = smaller number and LCM = larger number.",
+    "Conjectures are unproven claims based on patterns; generalisations are proven statements. Mathematical thinking involves testing conjectures and proving or disproving them."
+  ]
+}

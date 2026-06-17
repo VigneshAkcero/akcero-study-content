@@ -1,0 +1,28 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Probability",
+    "chapter_number": 14
+  },
+  "summary": [
+    {
+      "category": "Theoretical Probability and Equally Likely Outcomes",
+      "points": [
+        "Theoretical (classical) probability is defined as P(E) = (Number of favorable outcomes) / (Total number of equally likely outcomes), given by Laplace in 1795. This approach requires assuming all outcomes in the sample space are equally likely, which holds for fair experiments. Unlike empirical probability (based on experiments), theoretical probability requires no repetition and provides exact values based on logical analysis of equally likely outcomes."
+      ]
+    },
+    {
+      "category": "Complementary Events and Probability Properties",
+      "points": [
+        "The complement of event E, denoted Ē ('not E'), satisfies the fundamental relationship: P(E) + P(Ē) = 1. Key properties include: 0 ≤ P(E) ≤ 1 for any event, impossible events have P = 0, certain events have P = 1, and the sum of probabilities of all elementary events equals 1. Complementary events are mutually exclusive and exhaustive, making the complement relationship powerful for simplifying probability calculations when direct computation is complex."
+      ]
+    },
+    {
+      "category": "Sample Space, Events, and Application",
+      "points": [
+        "The sample space is the set of all possible outcomes; elementary events contain one outcome, compound events contain multiple. In multi-step experiments (two dice, multiple draws), the total number of outcomes multiplies (e.g., 6 × 6 = 36 for two dice). Critical principle: verify outcomes are equally likely before using the formula; count individual items rather than grouping to maintain equal likelihood. For biased or non-uniform scenarios (unequal colored balls, loaded dice), empirical probability or adjusted calculations apply instead."
+      ]
+    }
+  ]
+}

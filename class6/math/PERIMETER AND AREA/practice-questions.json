@@ -1,0 +1,150 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Perimeter and Area",
+    "chapter_number": 6
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Calculate the perimeter of a rectangle with a length of 12 cm and a breadth of 8 cm.",
+      "answer": "40 cm",
+      "solution": "Perimeter = $2 \\times (\\text{length} + \\text{breadth}) = 2 \\times (12 + 8) = 2 \\times 20 = 40$ cm."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What is the perimeter of a square whose side measures 2.5 m?",
+      "answer": "10 m",
+      "solution": "Perimeter of square = $4 \\times \\text{side} = 4 \\times 2.5 = 10$ m."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "A triangular playground has sides of lengths 15 m, 20 m, and 25 m. Find its perimeter.",
+      "answer": "60 m",
+      "solution": "Perimeter = $15 + 20 + 25 = 60$ m."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Medium",
+      "question": "What is the cost of fencing a rectangular plot of length 200 m and width 150 m at the rate of Rs. 30 per metre?",
+      "answer": "Rs. 21,000",
+      "solution": "Perimeter = $2 \\times (200 + 150) = 2 \\times 350 = 700$ m. Total cost = $700 \\times 30 = 21,000$."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Medium",
+      "question": "A piece of wire 48 cm long is bent to form an equilateral triangle. What will be the length of each side?",
+      "answer": "16 cm",
+      "solution": "An equilateral triangle has 3 equal sides. Side length = $48 \\div 3 = 16$ cm."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "If a rectangle has an area of 300 sq m and its length is 20 m, find its width.",
+      "answer": "15 m",
+      "solution": "Area = $\\text{length} \\times \\text{width}$. So, $300 = 20 \\times \\text{width}$. Width = $300 \\div 20 = 15$ m."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "A square hall has an area of 144 sq m. What is the length of one side of the hall?",
+      "answer": "12 m",
+      "solution": "Area of square = $\\text{side}^2$. Since $12 \\times 12 = 144$, the side length is 12 m."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "Find the area of a square whose perimeter is 32 cm.",
+      "answer": "64 sq cm",
+      "solution": "1. Side length = Perimeter $\\div 4 = 32 \\div 4 = 8$ cm. 2. Area = $\\text{side}^2 = 8 \\times 8 = 64$ sq cm."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Hard",
+      "question": "A room's floor is 6 m long and 4 m wide. A square carpet of side 3 m is laid in the center. Find the area of the floor uncovered by the carpet.",
+      "answer": "15 sq m",
+      "solution": "1. Area of floor = $6 \\times 4 = 24$ sq m. 2. Area of carpet = $3 \\times 3 = 9$ sq m. 3. Uncovered area = $24 - 9 = 15$ sq m."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Hard",
+      "question": "A rectangular garden is 25 m long and 18 m wide. Four square flower beds, each of side 2 m, are dug at the four corners. Find the area of the remaining part of the garden.",
+      "answer": "434 sq m",
+      "solution": "1. Total area = $25 \\times 18 = 450$ sq m. 2. Area of one flower bed = $2 \\times 2 = 4$ sq m. 3. Total area of 4 beds = $4 \\times 4 = 16$ sq m. 4. Remaining area = $450 - 16 = 434$ sq m."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Hard",
+      "question": "A wire is in the shape of a rectangle with length 10 cm and breadth 6 cm. If the wire is straightened and then bent into a square, what will be the side of the square?",
+      "answer": "8 cm",
+      "solution": "1. Length of wire (Perimeter of rectangle) = $2 \\times (10 + 6) = 32$ cm. 2. Side of square = $32 \\div 4 = 8$ cm."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "What happens to the area of a rectangle if its length is doubled while its width remains the same?",
+      "answer": "The area is doubled.",
+      "solution": "Area = $l \\times w$. If length becomes $2l$, the new area is $2l \\times w = 2 \\times (l \\times w)$."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "A rectangle ABCD has an area of 60 sq cm. If a diagonal AC divides it into two triangles, what is the area of triangle ABC?",
+      "answer": "30 sq cm",
+      "solution": "The diagonal of a rectangle divides it into two triangles of equal area. Area of triangle = $\\text{Area of rectangle} \\div 2 = 60 \\div 2 = 30$ sq cm."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "Using 16 unit squares, what is the smallest possible perimeter of a figure formed by connecting them along full sides?",
+      "answer": "16 units",
+      "solution": "The smallest perimeter for a fixed area is achieved by a square. For 16 sq units, a $4 \\times 4$ square has a perimeter of $4 \\times 4 = 16$ units."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "Using 16 unit squares, what is the largest possible perimeter of a single connected figure?",
+      "answer": "34 units",
+      "solution": "The largest perimeter is achieved by a long $16 \\times 1$ rectangle. Perimeter = $2 \\times (16 + 1) = 34$ units."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Tangrams: If Shape C and Shape E are identical and together cover Shape D exactly, what is the relationship between their areas?",
+      "answer": "Area of D is twice the area of C.",
+      "solution": "Since Shape D = Shape C + Shape E, and C = E, then Area of D = $2 \\times$ Area of C."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Hard",
+      "question": "A square sheet of side 20 cm is folded into two equal rectangles. What is the perimeter of each resulting rectangle?",
+      "answer": "60 cm",
+      "solution": "Folding side 20 cm in half gives a rectangle with length 20 cm and breadth 10 cm. Perimeter = $2 \\times (20 + 10) = 60$ cm."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "What is the cost of tiling a room of $5 \\text{ m} \\times 4 \\text{ m}$ at the rate of Rs. 10 per square metre?",
+      "answer": "Rs. 200",
+      "solution": "Area = $5 \\times 4 = 20$ sq m. Cost = $20 \\times 10 = 200$."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "A rectangular park of $100 \\text{ m} \\times 80 \\text{ m}$ needs to be fenced with 3 rounds of wire. What is the total length of wire required?",
+      "answer": "1080 m",
+      "solution": "1. Perimeter = $2 \\times (100 + 80) = 360$ m. 2. Total wire for 3 rounds = $3 \\times 360 = 1080$ m."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "An irregular shape on a grid covers 4 full squares, 2 squares that are more than half-covered, and 3 squares that are less than half-covered. Estimate its area.",
+      "answer": "6 square units",
+      "solution": "Count full squares (4) + squares more than half (2) + ignore those less than half (0). Area = $4 + 2 = 6$ square units."
+    }
+  ]
+}

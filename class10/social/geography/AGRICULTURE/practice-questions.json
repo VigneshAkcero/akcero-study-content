@@ -1,0 +1,206 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Geography",
+    "chapter_name": "Agriculture",
+    "chapter_number": 4
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is Jhumming?",
+      "answer": "Jhumming is a form of 'slash and burn' agriculture practised in north-eastern states where land is cleared and burnt for shifting cultivation.",
+      "solution": "In Jhumming, farmers clear a patch of land by slashing and burning the vegetation. They grow crops to sustain their family, and when soil fertility decreases, they move to a fresh patch of land. This allows the soil to replenish its fertility naturally. It is common in Assam, Meghalaya, Mizoram, and Nagaland."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Why are pulses grown as rotation crops?",
+      "answer": "Because they are leguminous crops that help in restoring soil fertility by fixing nitrogen from the air.",
+      "solution": "Pulses (except Arhar) have a unique biological property: they are leguminous. This means they have nodules on their roots that host nitrogen-fixing bacteria. By growing pulses in rotation with other crops (like cereals), the soil's nitrogen content is naturally replenished, reducing the need for chemical fertilisers."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Name the three main cropping seasons in India.",
+      "answer": "Rabi, Kharif, and Zaid.",
+      "solution": "The agricultural year in India is divided into three major seasons based on climate: (1) Rabi (sown in winter, harvested in summer), (2) Kharif (sown at the onset of monsoon, harvested in Sep-Oct), and (3) Zaid (a short summer season between rabi and kharif)."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Which crop is known as the 'Golden Fibre'?",
+      "answer": "Jute is known as the Golden Fibre.",
+      "solution": "Jute is called the golden fibre due to its yellowish-brown colour and high value. It grows well on well-drained fertile soils in flood plains where soils are renewed every year. It is widely used for making gunny bags, mats, ropes, and carpets."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Which soil is most suitable for cotton cultivation?",
+      "answer": "Black cotton soil of the Deccan plateau.",
+      "solution": "Cotton grows best in the drier parts of the black cotton soil regions, specifically the Deccan plateau. This soil has good moisture-retention capacity, which is essential for the crop. Cotton also requires high temperature and 210 frost-free days."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What is Sericulture?",
+      "answer": "The rearing of silkworms for the production of silk fibre.",
+      "solution": "Silk is obtained from the cocoons of silkworms that are typically fed on mulberry leaves. The systematic rearing and management of these silkworms specifically for silk production is called sericulture."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Name two important rabi crops grown in India.",
+      "answer": "Wheat and Gram.",
+      "solution": "Rabi crops are sown in winter (October-December) and harvested in summer. Important examples include wheat, barley, peas, gram, and mustard. These crops are predominantly grown in states like Punjab, Haryana, and Uttar Pradesh."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "In which state was the Bhoodan movement initiated?",
+      "answer": "Andhra Pradesh (specifically at Pochampalli).",
+      "solution": "The Bhoodan movement was initiated by Vinoba Bhave. It started at Pochampalli in Andhra Pradesh, where Shri Ram Chandra Reddy offered 80 acres of land to 80 landless villagers."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Which variety of coffee is India famous for?",
+      "answer": "The Arabica variety, initially brought from Yemen.",
+      "solution": "Indian coffee is known globally for its good quality. The Arabica variety, which was initially brought from Yemen, is produced here and is in great demand all over the world. Its cultivation is majorly confined to the Nilgiri hills."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "What is the primary objective of the White Revolution?",
+      "answer": "To increase milk production through Operation Flood.",
+      "solution": "The White Revolution, also known as Operation Flood, was a strategy initiated originally in the 1960s-70s to improve and maximize the production of milk in India, similar to how the Green Revolution improved crop yields."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Compare the geographical conditions required for rice and wheat cultivation.",
+      "answer": "Rice requires high temperature (>25°C) and high rainfall (>100cm), while wheat requires a cool growing season and moderate rainfall (50-75cm).",
+      "solution": "Rice is a kharif crop that thrives in hot, humid conditions with high rainfall (above 100 cm). Wheat, on the other hand, is a rabi crop that needs a cool growing season and bright sunshine at the time of ripening. Its rainfall requirement is lower, ranging from 50 to 75 cm, and it must be evenly distributed throughout the growing season."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Explain why rice is a commercial crop in Haryana but a subsistence crop in Odisha.",
+      "answer": "Because of differences in agricultural inputs, irrigation levels, and the primary purpose of cultivation in these regions.",
+      "solution": "In Haryana and Punjab, rice is grown on a large scale using modern inputs like HYV seeds and advanced irrigation, primarily for sale in the market (commercial). In Odisha, rice is the staple food for the majority of the population and is grown on smaller holdings mainly for local consumption (subsistence), often depending on natural factors rather than capital-intensive inputs."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Describe the main characteristics of Intensive Subsistence Farming.",
+      "answer": "It is labour-intensive farming practised in high population pressure areas using high doses of biochemical inputs and irrigation.",
+      "solution": "Intensive Subsistence Farming is found in regions with high population density. The key features are: (1) Enormous pressure on land due to division of land through inheritance; (2) Use of high doses of fertilizers and irrigation to maximize yield from small plots; (3) It is highly labour-intensive as farmers try to extract the maximum livelihood from limited land."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "What is the role of Minimum Support Price (MSP) in Indian agriculture?",
+      "answer": "It ensures that farmers get a guaranteed price for their produce, protecting them from exploitation by middlemen.",
+      "solution": "The government announces Minimum Support Price (MSP) for important crops before every sowing season. This acts as a security net for farmers, ensuring they receive a fair and remunerative price even if the market prices fall. It helps check the exploitation of farmers by speculators and middlemen, encouraging them to invest more in productivity."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "How have technological and institutional reforms helped in consolidating land holdings in India?",
+      "answer": "Through laws like consolidation of holdings and abolition of the Zamindari system after Independence.",
+      "solution": "After Independence, the Indian government prioritised land reforms. The 'right of inheritance' had led to fragmented, uneconomical land plots. Institutional reforms like 'consolidation of holdings' aimed to group scattered land pieces into larger, manageable units. Additionally, the abolition of the Zamindari system transferred land ownership to the actual tillers, though implementation across states was varied."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Differentiate between the Zaid and Kharif cropping seasons.",
+      "answer": "Kharif is the monsoon season (June-Oct), while Zaid is a short summer season (March-June) between rabi and kharif.",
+      "solution": "Kharif crops are sown with the onset of monsoon (June-July) and harvested in Sep-Oct; examples include paddy and maize. Zaid is a very short season during the peak summer months. It is used to grow quick crops like watermelon, cucumber, and fodder. Kharif relies on monsoon rains, whereas Zaid crops often require irrigation due to the summer heat."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "What are the characteristics of Plantation Agriculture in India?",
+      "answer": "A single crop grown on a large area using capital-intensive inputs and migrant labour.",
+      "solution": "Plantations represent an interface of agriculture and industry. They cover large tracts of land where a single crop (like tea, coffee, or rubber) is grown commercially. They require well-developed networks of transport and communication to connect the estates to processing industries and markets. They rely heavily on capital and migrant labour."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Why is millets production significant for India's nutritional security?",
+      "answer": "Because they are ‘coarse’ grains with exceptionally high levels of iron, calcium, and roughage.",
+      "solution": "Millets like ragi, bajra, and jowar are powerhouse of nutrients. For example, ragi is extremely rich in iron and calcium, which are often deficient in regular diets. These crops can grow in dry regions and moist areas with minimal irrigation, making them a sustainable and nutritious alternative to more water-intensive cereals like rice."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Explain the significance of the Bhoodan-Gramdan movement in the context of land reforms.",
+      "answer": "It was a voluntary, non-violent movement for land redistribution led by Vinoba Bhave.",
+      "solution": "The Bhoodan-Gramdan movement, known as the 'Blood-less Revolution,' was a unique social initiative. Instead of government laws, it relied on the 'spiritual hierarchy' and Gandhiji's message to persuade wealthy landowners to voluntarily donate parts of their land (Bhoodan) or even entire villages (Gramdan) to the landless. It aimed at achieving social justice and rural upliftment without force."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Identify the conditions under which rubber can be grown as an industrial raw material in India.",
+      "answer": "Moist and humid climate, rainfall above 200 cm, and temperature hovering above 25°C.",
+      "solution": "Rubber is primarily an equatorial crop but adapts to tropical and sub-tropical conditions. It requires consistent high humidity and very high rainfall (over 200 cm). In India, it is mainly grown in Kerala, Tamil Nadu, and Karnataka. Its production is crucial as it serves as a raw material for various manufacturing industries."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Analyze the impact of the Right of Inheritance on Indian land-holding structure and its consequences for agricultural productivity.",
+      "answer": "It leads to fragmentation of land into smaller, uneconomical units, increasing pressure on land and hindering modern farming.",
+      "solution": "The Right of Inheritance dictates that land is divided among successive generations. Over time, this has reduced the average size of land holdings to a level where they are no longer viable for economically efficient farming. (1) Consequences: Farmers cannot use modern machinery efficiently on tiny plots. (2) Pressure: With no alternative livelihoods, farmers attempt to take maximum output from these limited plots, leading to over-exploitation of soil and biochemical inputs without corresponding growth in productivity."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "A farmer in western Uttar Pradesh experienced a total crop loss due to an unseasonal fire. Which government schemes could provide him relief, and how?",
+      "answer": "The Crop Insurance scheme and institutional support like the Kisan Credit Card (KCC).",
+      "solution": "Under the 1980s-90s agricultural reforms, the government introduced: (1) Crop Insurance, which specifically covers risks like fire, drought, flood, and disease. This would provide financial compensation to the farmer. (2) Kisan Credit Card (KCC) and Personal Accident Insurance Scheme (PAIS): These provide credit at lower interest rates and insurance for the farmer himself, helping him manage the financial shock and restart cultivation in the next season."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Evaluate the role of Green Revolution in creating regional imbalances in India's agricultural development.",
+      "answer": "It concentrated growth in specific areas like Punjab, Haryana, and western UP while leaving other regions behind.",
+      "solution": "The Green Revolution was based on 'package technology' (HYV seeds, fertilizers, irrigation). Because it required heavy investment and assured water, its benefits were largely concentrated in irrigated regions like Punjab, Haryana, and Western UP. This led to a huge productivity gap between these ‘advanced’ regions and the rest of India. While it ensured national food security, it created economic disparities between farmers of different states."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Why is the Jhumming system of cultivation considered both beneficial for soil fertility and challenging for modern land productivity?",
+      "answer": "It allows natural replenishment of soil nutrients but lacks modern inputs leading to low yield per unit area.",
+      "solution": "Jhumming (slash and burn) is a traditional system where land is left fallow after a few seasons. (1) Benefit: This 'shifting' allows Nature to replenish the soil's fertility through natural processes without artificial fertilizers. (2) Challenge: Since farmers do not use fertilizers or modern techniques, and the plots are small, the total land productivity is very low. This system cannot support the massive food demands of a growing modern population, leading to pressure to settle into permanent farming."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Describe why the interface between agriculture and industry is strongest in Plantation Farming compared to other farming types.",
+      "answer": "Because plantations produce raw materials specifically for processing industries and markets on a large commercial scale.",
+      "solution": "In plantation farming (like tea or coffee), the entire production is destined for the market. (1) Integration: Processing units are often located within or near the gardens (e.g., tea processing) to restore freshness. (2) Infrastructure: A well-developed network of transport and communication connects the estates directly to processing factories and global markets. Unlike subsistence farming where the farmer consumes the product, every step of plantation farming is industrially and commercially aligned."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Analyze why pulses are essential for sustainable agriculture in India, despite being grown in dry conditions.",
+      "answer": "They act as soil restorers through nitrogen fixation and serve as a vital protein source for a vegetarian population.",
+      "solution": "Pulses are critical for sustainability in two ways: (1) Ecological: Being leguminous, they naturally fix nitrogen from the air into the soil. This restores fertility without chemical additives, making them perfect for rotation with soil-depleting cereals. (2) Nutritional: In a country with a large vegetarian population, pulses are the primary source of protein. Their ability to survive in moisture-deficient areas makes them ideal for rain-fed farming in central and western India."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "How do weather bulletins and special agricultural programmes on electronic media contribute to 'Technological Reforms' in agriculture?",
+      "answer": "By providing real-time data and scientific knowledge that helps farmers make informed decisions about sowing and crop protection.",
+      "solution": "Modern technology is not just about seeds or tractors; it is also about information. Weather bulletins on Radio and TV (e.g., Doordarshan) warn farmers about cyclones, heatwaves, or unseasonal rains. This allows them to adjust their harvesting or irrigation schedules. Agricultural programmes educate them on new scientific practices, the use of pesticides, and market prices (MSP), bridging the gap between scientific research and field application."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Explain how regional physical diversity directly influences the choice of cropping patterns in India, using Rice and Jower as examples.",
+      "answer": "Different climatic and soil requirements dictate where specific crops are grown, such as rice in deltaic regions and Jowar in moist plateaus.",
+      "solution": "India's physical diversity (deltaic plains vs. dry plateaus) determines crop choices. (1) Rice: Requires high humidity and heavy rainfall, thus grown in the plains of North, NE India, and coastal/deltaic regions. (2) Jowar: It is a rain-fed crop that hardly needs irrigation and grows in moist areas like the Deccan plateau (Maharashtra, Karnataka). The farmer chooses the crop that naturally fits the local environment, illustrating how geography dictates agricultural practices."
+    }
+  ]
+}

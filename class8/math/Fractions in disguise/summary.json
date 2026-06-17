@@ -1,0 +1,82 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Mathematics",
+    "chapter_name": "Fractions in Disguise",
+    "chapter_number": 1
+  },
+  "summary": [
+    {
+      "category": "Percentages as Fractions",
+      "points": [
+        "Percentages are fractions with denominator 100. The symbol '%' means 'per cent' (out of hundred), so 25% = 25/100.",
+        "Any fraction can be converted to percentage by multiplying by 100, and any percentage can be written as a fraction with denominator 100.",
+        "Using 100 as the standard denominator provides a universal scale (0-100) for comparing proportions of different magnitudes."
+      ]
+    },
+    {
+      "category": "Finding Percentage of a Quantity",
+      "points": [
+        "To find Y% of a quantity Q, use the formula: (Y/100) × Q. This converts abstract percentages into concrete values.",
+        "Percentages are useful for comparing quantities with different reference values or units, since all values are converted to a common scale.",
+        "Mental computation with common percentages (25% = 1/4, 50% = 1/2, 10% = 1/10) enables quick estimation without calculators."
+      ]
+    },
+    {
+      "category": "Fractions, Decimals, and Percentages (FDP Trio)",
+      "points": [
+        "Fractions, decimals, and percentages represent the same proportion in three different forms. For example: 1/2 = 0.5 = 50%.",
+        "Conversions between these three representations follow simple rules: multiply/divide by 100, or shift decimal points appropriately.",
+        "Using the appropriate form (fraction, decimal, or percentage) makes problem-solving easier depending on the context."
+      ]
+    },
+    {
+      "category": "Percentage Change and Comparison",
+      "points": [
+        "Percentage increase or decrease is calculated as: (Change / Original) × 100. This shows how much a quantity changed relative to its starting value.",
+        "Percentages enable fair comparison of quantities when the reference values differ. For example, scoring 42/50 in English and 70/80 in Science appears ambiguous until converted to 84% and 87.5%.",
+        "A statement like 'value in 1991 is 165% of value in 1961' is equivalent to 'value increased by 65%' — both indicate the new value is 1.65 times the original."
+      ]
+    },
+    {
+      "category": "Profit, Loss, and Discount",
+      "points": [
+        "Profit% = (Profit/CP) × 100 and Loss% = (Loss/CP) × 100, where CP is cost price and profit/loss is the difference between selling and cost prices.",
+        "Discount is a reduction from the marked price, expressed as a percentage of the marked price: Selling Price = MP - (Discount% × MP).",
+        "Important: Multiple discounts (e.g., 30% + 20%) are NOT additive. The second discount applies to the reduced price from the first discount."
+      ]
+    },
+    {
+      "category": "Simple and Compound Interest",
+      "points": [
+        "Simple interest is calculated only on principal: A = P(1 + rt). Compound interest includes interest on accumulated interest: A = P(1 + r)^t.",
+        "Compound interest leads to exponential growth where the amount multiplies by a constant factor each period, resulting in faster growth than simple interest.",
+        "The difference between simple and compound interest becomes significant over longer time periods and higher interest rates."
+      ]
+    },
+    {
+      "category": "Depreciation and Exponential Decline",
+      "points": [
+        "Depreciation follows the formula: Final Value = Initial Value × (1 - r)^t, where r is the depreciation rate. This is exponential decline, the reverse of compound growth.",
+        "Items lose a constant percentage of their current value each period, not a constant amount. For example, 10% depreciation on ₹1000 is ₹100, but on ₹900 is ₹90.",
+        "Depreciation applies to physical assets, populations, and other quantities that naturally decrease in value or size over time."
+      ]
+    },
+    {
+      "category": "Percentages Greater Than 100",
+      "points": [
+        "Percentages can exceed 100%, indicating a value exceeds its reference quantity. For example, 150% means 1.5 times the original, or 50% more than the target.",
+        "Percentages over 100% are commonly used in contexts like achieving production targets (110% achievement) or comparing harvests across years (250% of previous year).",
+        "The interpretation changes: 100% = the whole, 200% = double, 250% = 2.5 times the original."
+      ]
+    },
+    {
+      "category": "Practical Applications and Problem-Solving",
+      "points": [
+        "Percentages are fundamental to real-world scenarios: comparing test scores, calculating sales discounts, determining profit margins, and understanding taxes like GST.",
+        "A key insight: X% of Y equals Y% of X (e.g., 5% of 40 = 40% of 5 = 2), leveraging the commutative property of multiplication.",
+        "Common pitfalls: forgetting that multiple discounts compound (not add), miscalculating profit margins when offering discounts, or misinterpreting percentage change."
+      ]
+    }
+  ]
+}

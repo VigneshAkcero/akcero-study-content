@@ -1,0 +1,32 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Chemical Reactions and Equations",
+    "chapter_number": 1
+  },
+  "summary": [
+    {
+      "category": "Chemical Equations & Balancing",
+      "points": [
+        "A chemical equation uses specific formulas to symbolically represent active reactants and concluding products alongside their physical states (solid, liquid, gas, aqueous).",
+        "Equations must always be balanced to satisfy the law of conservation of mass, ensuring the total number of atoms for each element remains strictly equal on both sides."
+      ]
+    },
+    {
+      "category": "Types of Chemical Reactions",
+      "points": [
+        "Combination reactions locally unite multiple substances into a single product, while decomposition reactions break a single substance into simpler products using heat, light, or electricity.",
+        "Displacement reactions occur when a more reactive element replaces a less reactive one, whereas double displacement involves a mutual exchange of ions, often forming precipitates.",
+        "Redox reactions combine oxidation (gain of oxygen or loss of hydrogen) and reduction (loss of oxygen or gain of hydrogen) occurring simultaneously."
+      ]
+    },
+    {
+      "category": "Energy Changes and Everyday Oxidation",
+      "points": [
+        "Exothermic reactions naturally release heat energy outward during product formation, whereas endothermic reactions actively require and absorb incoming environmental energy.",
+        "Corrosion gradually damages exposed metals through environmental oxidation (like the rusting of iron), and rancidity spoils unprotected fats and oils by severely altering their smell and taste."
+      ]
+    }
+  ]
+}

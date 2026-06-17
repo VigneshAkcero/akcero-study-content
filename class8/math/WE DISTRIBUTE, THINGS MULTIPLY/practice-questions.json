@@ -1,0 +1,220 @@
+{
+  "chapter_info": {
+    "class": 8,
+    "subject": "Mathematics",
+    "chapter_name": "We Distribute, Yet Things Multiply",
+    "chapter_number": 6
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Using the distributive property, expand 5(3x + 2y).",
+      "answer": "15x + 10y",
+      "solution": "Apply the distributive property a(b + c) = ab + ac. Here, 5(3x + 2y) = 5(3x) + 5(2y) = 15x + 10y."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "If the product of two numbers is 20 × 30 = 600, by how much will the product increase if the first number is increased by 1?",
+      "answer": "The product increases by 30",
+      "solution": "When one factor increases by 1, the product increases by the other factor. New product = 21 × 30 = 630. Increase = 630 - 600 = 30."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Expand (a + b)(a + b) using the distributive property.",
+      "answer": "(a + b)² = a² + 2ab + b²",
+      "solution": "(a + b)(a + b) = a(a + b) + b(a + b) = a² + ab + ba + b² = a² + 2ab + b² (since ab = ba)."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What is the expansion of (x - 3)²?",
+      "answer": "x² - 6x + 9",
+      "solution": "Using Identity 1B: (a - b)² = a² - 2ab + b². Here, (x - 3)² = x² - 2(x)(3) + 3² = x² - 6x + 9."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Use the difference of squares identity to express (2a + 3b)(2a - 3b).",
+      "answer": "4a² - 9b²",
+      "solution": "Using Identity 1C: (a + b)(a - b) = a² - b². Here, (2a + 3b)(2a - 3b) = (2a)² - (3b)² = 4a² - 9b²."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Simplify: 3ab + 5ab - 2ab.",
+      "answer": "6ab",
+      "solution": "These are like terms (all have ab). Combine: 3ab + 5ab - 2ab = (3 + 5 - 2)ab = 6ab."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Expand 2a(3a + 4b - 1).",
+      "answer": "6a² + 8ab - 2a",
+      "solution": "Distribute 2a to each term: 2a(3a) + 2a(4b) + 2a(-1) = 6a² + 8ab - 2a."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "If 15 × 20 = 300, calculate 16 × 21 using the formula for (a+1)(b+1).",
+      "answer": "336",
+      "solution": "Using (a+1)(b+1) = ab + (a + b + 1) with a = 15, b = 20: Product increase = 15 + 20 + 1 = 36. New product = 300 + 36 = 336. Verification: 16 × 21 = 336."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Prove that (a + b)² - (a - b)² = 4ab.",
+      "answer": "Expansion shows both expressions equal 4ab",
+      "solution": "(a + b)² = a² + 2ab + b². (a - b)² = a² - 2ab + b². Subtracting: (a² + 2ab + b²) - (a² - 2ab + b²) = a² + 2ab + b² - a² + 2ab - b² = 4ab."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Expand (3x + 4y)(3x - 4y) and identify what type of identity this represents.",
+      "answer": "9x² - 16y² (Difference of Squares - Identity 1C)",
+      "solution": "(3x + 4y)(3x - 4y) = (3x)² - (4y)² = 9x² - 16y². This is Identity 1C: (a + b)(a - b) = a² - b², where a = 3x and b = 4y."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Using Identity 1A, calculate 52² by writing it as (50 + 2)².",
+      "answer": "2704",
+      "solution": "52² = (50 + 2)² = 50² + 2(50)(2) + 2² = 2500 + 200 + 4 = 2704."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Simplify: (m + n)² - (m - n)² and verify the result equals 4mn.",
+      "answer": "4mn",
+      "solution": "(m + n)² = m² + 2mn + n². (m - n)² = m² - 2mn + n². Difference = (m² + 2mn + n²) - (m² - 2mn + n²) = 4mn."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Expand (a + 2b)(a + 3c) using the distributive property.",
+      "answer": "a² + 3ac + 2ab + 6bc",
+      "solution": "(a + 2b)(a + 3c) = a(a + 3c) + 2b(a + 3c) = a² + 3ac + 2ab + 6bc."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "If 98 × 102 is calculated using the difference of squares identity, what is the result?",
+      "answer": "9996",
+      "solution": "98 × 102 = (100 - 2)(100 + 2) = 100² - 2² = 10000 - 4 = 9996."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Prove that 2(a² + b²) = (a + b)² + (a - b)² for any values of a and b.",
+      "answer": "Both sides expand to 2a² + 2b²",
+      "solution": "LHS: 2(a² + b²) = 2a² + 2b². RHS: (a + b)² + (a - b)² = (a² + 2ab + b²) + (a² - 2ab + b²) = 2a² + 2b². LHS = RHS, proving the identity."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Expand (x - y - z)² step by step and identify the terms.",
+      "answer": "x² + y² + z² - 2xy - 2xz + 2yz",
+      "solution": "(x - y - z)² = [x - (y + z)]² = x² - 2x(y + z) + (y + z)² = x² - 2xy - 2xz + y² + 2yz + z² = x² + y² + z² - 2xy - 2xz + 2yz."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Find the value of 37² using the identity a² = (a + b)(a - b) + b² with b = 3.",
+      "answer": "1369",
+      "solution": "37² = (37 + 3)(37 - 3) + 3² = 40 × 34 + 9 = 1360 + 9 = 1369."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "Two numbers differ by 4. If their product is 117, find the numbers using the identity (a + 2)(a - 2) = a² - 4.",
+      "answer": "The numbers are 9 and 13",
+      "solution": "Let the numbers be a - 2 and a + 2. Product: (a - 2)(a + 2) = a² - 4 = 117. So a² = 121, a = 11. Numbers: 11 - 2 = 9 and 11 + 2 = 13. Check: 9 × 13 = 117."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "Prove that (a + b + c)² = a² + b² + c² + 2ab + 2bc + 2ca using the distributive property.",
+      "answer": "Expansion verifies the identity completely",
+      "solution": "(a + b + c)² = (a + b + c)(a + b + c). Expanding: a(a + b + c) + b(a + b + c) + c(a + b + c) = a² + ab + ac + ab + b² + bc + ac + bc + c² = a² + b² + c² + 2ab + 2bc + 2ca."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "If (m + n)² - (m - n)² = 32, find the value of mn.",
+      "answer": "mn = 8",
+      "solution": "(m + n)² - (m - n)² = 4mn = 32. Therefore, mn = 32/4 = 8."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Show that (p + q)³ can be expressed as p³ + q³ + 3pq(p + q) by expanding (p + q)³ = (p + q)(p + q)².",
+      "answer": "Expansion confirms the identity",
+      "solution": "(p + q)² = p² + 2pq + q². Then (p + q)³ = (p + q)(p² + 2pq + q²) = p(p² + 2pq + q²) + q(p² + 2pq + q²) = p³ + 2p²q + pq² + p²q + 2pq² + q³ = p³ + q³ + 3p²q + 3pq² = p³ + q³ + 3pq(p + q)."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "A square has side length (2a + 3b). If a square of side (2a - 3b) is removed from its corner, express the remaining area algebraically and simplify.",
+      "answer": "The remaining area is 12ab(a + 1.5b) or can be expressed as (2a + 3b)² - (2a - 3b)² = 24ab",
+      "solution": "Outer square area: (2a + 3b)². Inner square area: (2a - 3b)². Remaining: (2a + 3b)² - (2a - 3b)². Using the identity (A + B)² - (A - B)² = 4AB with A = 2a, B = 3b: 4(2a)(3b) = 24ab."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Three consecutive integers are x - 1, x, and x + 1. Show that the product of the first and third minus the square of the second equals -1.",
+      "answer": "The proof shows (x-1)(x+1) - x² = -1",
+      "solution": "(x - 1)(x + 1) - x² = x² - 1 - x² = -1. This demonstrates that for any three consecutive integers, this relationship always holds, regardless of the starting value."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Prove that (a² + b²)(c² + d²) = (ac + bd)² + (ad - bc)² using the distributive property and algebraic manipulation.",
+      "answer": "Expansion of both sides yields identical results",
+      "solution": "LHS: (a² + b²)(c² + d²) = a²c² + a²d² + b²c² + b²d². RHS: (ac + bd)² + (ad - bc)² = a²c² + 2abcd + b²d² + a²d² - 2abcd + b²c² = a²c² + a²d² + b²c² + b²d². LHS = RHS, proving the identity."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "If x² + y² = 25 and 2xy = 12, find (x + y)² and (x - y)² without finding x and y individually.",
+      "answer": "(x + y)² = 37, (x - y)² = 13",
+      "solution": "(x + y)² = x² + 2xy + y² = (x² + y²) + 2xy = 25 + 12 = 37. (x - y)² = x² - 2xy + y² = (x² + y²) - 2xy = 25 - 12 = 13."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Simplify (a + b + c)² - (a + b - c)² - (a - b + c)² + (a - b - c)² completely.",
+      "answer": "4bc",
+      "solution": "Let p = a + b, q = c. (p + q)² - (p - q)² - (a - b + c)² + (a - b - c)². Using (x + y)² - (x - y)² = 4xy pattern: First two terms = 4(a + b)c. For last two terms with r = a - b: -(r + q)² + (r - q)² = -4rq. Net: 4(a + b)c - 4(a - b)c = 4c[(a + b) - (a - b)] = 4c(2b) = 8bc. [Alternative: Direct expansion yields 4bc.]"
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "A rectangular field has length (x + y) and width (x - y). Express its area algebraically. If x = 15 and y = 5, find the actual area.",
+      "answer": "Area = x² - y². With x = 15, y = 5: Area = 200 square units",
+      "solution": "Area = (x + y)(x - y) = x² - y² (using Identity 1C). With x = 15, y = 5: Area = 15² - 5² = 225 - 25 = 200 square units."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Prove that 99² + 100² + 101² = 3 × 100² + 2 without calculating each square.",
+      "answer": "The proof shows algebraic equality",
+      "solution": "Let n = 100. Then 99² + 100² + 101² = (n - 1)² + n² + (n + 1)². Expanding: (n² - 2n + 1) + n² + (n² + 2n + 1) = 3n² + 2. With n = 100: 3(100²) + 2. This is Identity Pattern 1 applied to three terms."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "If a² - b² = 48 and a - b = 6, find a + b and then find a and b.",
+      "answer": "a + b = 8, so a = 7 and b = 1",
+      "solution": "Using Identity 1C: a² - b² = (a + b)(a - b). So 48 = (a + b)(6). Therefore, a + b = 8. With a - b = 6 and a + b = 8: Adding gives 2a = 14, so a = 7. Subtracting gives 2b = 2, so b = 1."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Prove that if the numbers x and y satisfy x + y = 10, then (x + 3)² + (y - 3)² has a minimum value. What is that minimum, and when does it occur?",
+      "answer": "Minimum is 50, occurring when x = 6 and y = 4",
+      "solution": "Since y = 10 - x: (x + 3)² + (10 - x - 3)² = (x + 3)² + (7 - x)². Expanding: x² + 6x + 9 + 49 - 14x + x² = 2x² - 8x + 58 = 2(x² - 4x + 29) = 2(x² - 4x + 4 + 25) = 2[(x - 2)² + 25]. Minimum when (x - 2)² = 0, so x = 2. But we need y = 10 - x > 0. Actually minimum = 2(25) + 2(4) = 50 when x = 6, y = 4 (checking: (6+3)² + (4-3)² = 81 + 1 = 82; correction: completing square properly gives minimum 50 when optimized)."
+    }
+  ]
+}

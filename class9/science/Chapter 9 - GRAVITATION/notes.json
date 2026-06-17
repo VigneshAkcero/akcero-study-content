@@ -1,0 +1,632 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Gravitation",
+    "chapter_number": 9
+  },
+  "notes": [
+    {
+      "section_title": "Introduction",
+      "topics": [
+        {
+          "topic_name": "What is Gravitation?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "We know that objects fall towards the earth when dropped from a height. Planets revolve around the Sun, and the moon revolves around the earth. In all these cases, a force must be acting. Isaac Newton concluded that the same type of force is responsible for all these motions. This force is called the gravitational force."
+            },
+            {
+              "type": "note",
+              "title": "Key Insight",
+              "text": "Newton reasoned that if the earth attracts an apple, it must also attract the moon. At every point in its orbit, the moon is deflected from a straight-line path towards the earth — this is caused by the earth's gravitational pull."
+            },
+            {
+              "type": "paragraph",
+              "text": "By the third law of motion, the apple also attracts the earth. But because the mass of the earth is enormously larger than that of the apple, the acceleration of the earth (a = F/m) due to this force is negligibly small — which is why we do not observe the earth moving towards the apple."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "9.1 Gravitation — Universal Law of Gravitation",
+      "topics": [
+        {
+          "topic_name": "Centripetal Force and the Moon's Orbit",
+          "content": [
+            {
+              "type": "activity",
+              "id": "9.1",
+              "title": "Stone on a Thread — Circular Motion",
+              "procedure": [
+                "Take a piece of thread and tie a small stone at one end.",
+                "Hold the other end and whirl the stone in a circular path.",
+                "Observe the motion of the stone while whirling.",
+                "Release the thread and observe the direction of motion of the stone."
+              ],
+              "observation": "While whirling, the stone moves in a circular path. When the thread is released, the stone flies off in a straight line (tangent to the circular path).",
+              "conclusion": "The force that keeps the stone moving in a circle acts towards the centre — this is the centripetal force. Without it, the stone follows a straight-line path."
+            },
+            {
+              "type": "paragraph",
+              "text": "Similarly, the moon moves in a circular orbit around the earth. The centripetal force for the moon is provided by the earth's gravitational attraction. Without this gravitational force, the moon would travel in a straight line and leave its orbit."
+            },
+            {
+              "type": "note",
+              "title": "Centripetal Force",
+              "text": "Centripetal means 'centre-seeking'. The centripetal force acts towards the centre of the circular path and is responsible for changing the direction of motion at every point. For the moon, this force is the earth's gravitational pull."
+            }
+          ]
+        },
+        {
+          "topic_name": "Universal Law of Gravitation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Newton concluded that all objects in the universe attract every other object with a force. This force depends on the masses of the objects and the distance between them."
+            },
+            {
+              "type": "note",
+              "title": "Statement of the Universal Law of Gravitation",
+              "text": "Every object in the universe attracts every other object with a force which is proportional to the product of their masses and inversely proportional to the square of the distance between them. The force acts along the line joining the centres of the two objects."
+            },
+            {
+              "type": "paragraph",
+              "text": "Let two objects A and B of masses M and m be at a distance d from each other. The gravitational force F between them is expressed as:"
+            },
+            {
+              "type": "formula",
+              "expression": "F = G × (M × m) / d²",
+              "variables": {
+                "F": "Gravitational force between the two objects (N)",
+                "G": "Universal gravitational constant = 6.673 × 10⁻¹¹ N m² kg⁻²",
+                "M": "Mass of the first object (kg)",
+                "m": "Mass of the second object (kg)",
+                "d": "Distance between the centres of the two objects (m)"
+              },
+              "derivation": "From the law: F ∝ M × m  and  F ∝ 1/d². Combining: F ∝ (M × m)/d². Introducing the constant of proportionality G: F = G × (M × m)/d². Rearranging: G = F × d² / (M × m). SI unit of G: N m² kg⁻²."
+            },
+            {
+              "type": "note",
+              "title": "Universal Gravitational Constant G",
+              "text": "The value of G = 6.673 × 10⁻¹¹ N m² kg⁻². It was experimentally determined by Henry Cavendish (1731–1810) using a sensitive balance. G is called 'universal' because it has the same value everywhere in the universe, for all masses and at all distances."
+            },
+            {
+              "type": "note",
+              "title": "Inverse-Square Relationship",
+              "text": "F is inversely proportional to the square of d. For example, if d becomes 6 times larger, F becomes (1/36) times smaller. If d is halved, F becomes 4 times larger."
+            },
+            {
+              "type": "note",
+              "title": "Universality of the Law",
+              "text": "The law applies to all bodies — big or small, celestial or terrestrial. The gravitational force between any two ordinary objects (e.g., two people sitting nearby) is extremely small because G is very small, so it is not felt in everyday life. Large masses (like the earth or sun) produce noticeable gravitational effects."
+            },
+            {
+              "type": "example",
+              "id": "9.1",
+              "problem": "The mass of the earth is 6 × 10²⁴ kg and that of the moon is 7.4 × 10²² kg. The distance between the earth and the moon is 3.84 × 10⁵ km. Calculate the force exerted by the earth on the moon. (G = 6.7 × 10⁻¹¹ N m² kg⁻²)",
+              "solution": "Given:\n  M (earth) = 6 × 10²⁴ kg\n  m (moon) = 7.4 × 10²² kg\n  d = 3.84 × 10⁵ km = 3.84 × 10⁸ m\n  G = 6.7 × 10⁻¹¹ N m² kg⁻²\n\nUsing F = G × (M × m) / d²:\n  F = (6.7 × 10⁻¹¹ × 6 × 10²⁴ × 7.4 × 10²²) / (3.84 × 10⁸)²\n  F = (6.7 × 6 × 7.4 × 10⁻¹¹⁺²⁴⁺²²) / (14.7456 × 10¹⁶)\n  F ≈ 2.02 × 10²⁰ N\n\nThe force exerted by the earth on the moon is 2.02 × 10²⁰ N."
+            }
+          ]
+        },
+        {
+          "topic_name": "9.1.2 Importance of the Universal Law of Gravitation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The universal law of gravitation successfully explained several phenomena that were previously thought to be unconnected:"
+            },
+            {
+              "type": "list",
+              "title": "Phenomena Explained by the Universal Law of Gravitation",
+              "items": [
+                "The force that binds us to the earth (our weight).",
+                "The motion of the moon around the earth.",
+                "The motion of planets around the Sun.",
+                "The tides due to the moon and the Sun."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "9.2 Free Fall",
+      "topics": [
+        {
+          "topic_name": "What is Free Fall?",
+          "content": [
+            {
+              "type": "activity",
+              "id": "9.2",
+              "title": "Throwing a Stone Upwards",
+              "procedure": [
+                "Take a stone.",
+                "Throw it upwards.",
+                "Observe its motion — how it rises, slows down, stops momentarily, and then falls back."
+              ],
+              "observation": "The stone rises to a certain height and then falls downward. While falling, only the direction of motion remains the same (downward), but the speed changes.",
+              "conclusion": "The earth's gravitational force causes the change in the speed of a falling object. This change in speed means there is acceleration involved, called acceleration due to gravity."
+            },
+            {
+              "type": "note",
+              "title": "Free Fall Defined",
+              "text": "When objects fall towards the earth under the influence of gravitational force alone (no other forces like air resistance), the motion is called free fall. During free fall, there is no change in direction but a change in speed — indicating acceleration."
+            },
+            {
+              "type": "note",
+              "title": "Acceleration Due to Gravity (g)",
+              "text": "The acceleration produced in a freely falling object due to the earth's gravitational force is called acceleration due to gravity. It is denoted by g. Its SI unit is m s⁻² (same as acceleration). Near the earth's surface, g ≈ 9.8 m s⁻²."
+            }
+          ]
+        },
+        {
+          "topic_name": "9.2.1 Calculating the Value of g",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The gravitational force on an object of mass m near the earth's surface is: F = mg (from Newton's second law). This force is also the weight of the object. From the universal law of gravitation, the force is also F = G × (M × m) / R², where M is the mass of the earth and R is its radius."
+            },
+            {
+              "type": "formula",
+              "expression": "g = G × M / R²",
+              "variables": {
+                "g": "Acceleration due to gravity at the earth's surface (m s⁻²)",
+                "G": "Universal gravitational constant = 6.7 × 10⁻¹¹ N m² kg⁻²",
+                "M": "Mass of the earth = 6 × 10²⁴ kg",
+                "R": "Radius of the earth = 6.4 × 10⁶ m"
+              },
+              "derivation": "Equating the two expressions for F:\n  mg = G × (M × m) / d²\n  Cancelling m from both sides: g = G × M / d²\n  For objects on or near the earth's surface, d = R (radius of earth):\n  g = G × M / R²\n  Substituting values:\n  g = (6.7 × 10⁻¹¹ × 6 × 10²⁴) / (6.4 × 10⁶)²\n  g = (40.2 × 10¹³) / (40.96 × 10¹²)\n  g ≈ 9.8 m s⁻²"
+            },
+            {
+              "type": "note",
+              "title": "Variation of g",
+              "text": "The earth is not a perfect sphere — its radius is slightly larger at the equator than at the poles. Since g = GM/R², g is slightly greater at the poles than at the equator. For objects far from the earth, g decreases with increasing distance (d). For most everyday calculations, g is taken as approximately 9.8 m s⁻² (or 10 m s⁻² for simplification)."
+            }
+          ]
+        },
+        {
+          "topic_name": "9.2.2 Motion of Objects Under Gravitational Force",
+          "content": [
+            {
+              "type": "activity",
+              "id": "9.3",
+              "title": "Paper and Stone — Effect of Air Resistance",
+              "procedure": [
+                "Take a sheet of paper and a stone.",
+                "Drop them simultaneously from the first floor of a building.",
+                "Observe whether both reach the ground at the same time."
+              ],
+              "observation": "The paper reaches the ground slightly later than the stone.",
+              "conclusion": "This is because air offers resistance (friction) to the motion of falling objects. The air resistance on the paper is greater than on the stone due to the larger surface area. In a vacuum (where air has been removed), both the paper and the stone would fall at exactly the same rate because air resistance is absent."
+            },
+            {
+              "type": "paragraph",
+              "text": "From the formula g = GM/R², it is clear that g is independent of the mass (m) of the falling object. This means all objects — hollow or solid, big or small — should fall at the same rate in the absence of air resistance."
+            },
+            {
+              "type": "note",
+              "title": "Key Result: g is Independent of Mass",
+              "text": "The acceleration due to gravity g does not depend on the mass of the falling object. A 1 kg stone and a 10 kg stone dropped from the same height will reach the ground at the same time (in vacuum). This was famously demonstrated by Galileo at the Leaning Tower of Pisa."
+            },
+            {
+              "type": "paragraph",
+              "text": "Since g is constant near the earth, the equations of uniformly accelerated motion are directly applicable with a replaced by g:"
+            },
+            {
+              "type": "formula",
+              "expression": "v = u + gt\ns = ut + ½gt²\nv² = u² + 2gs",
+              "variables": {
+                "u": "Initial velocity (m s⁻¹)",
+                "v": "Final velocity (m s⁻¹)",
+                "g": "Acceleration due to gravity (m s⁻²), taken as +9.8 m s⁻² (downward) and −9.8 m s⁻² (upward)",
+                "t": "Time (s)",
+                "s": "Distance/displacement (m)"
+              },
+              "derivation": "Sign convention: g is taken as positive when the object moves in the direction of gravitational force (i.e., downward/falling). g is taken as negative when the object moves against gravity (i.e., upward/thrown up)."
+            },
+            {
+              "type": "example",
+              "id": "9.2",
+              "problem": "A car falls off a ledge and drops to the ground in 0.5 s. (g = 10 m s⁻²). Find: (i) its speed on striking the ground, (ii) its average speed during 0.5 s, (iii) the height of the ledge.",
+              "solution": "Given: t = 0.5 s, u = 0, g = +10 m s⁻²\n\n(i) v = u + gt = 0 + 10 × 0.5 = 5 m s⁻¹\n\n(ii) Average speed = (u + v)/2 = (0 + 5)/2 = 2.5 m s⁻¹\n\n(iii) s = ut + ½gt² = 0 + ½ × 10 × (0.5)² = ½ × 10 × 0.25 = 1.25 m\n\nAnswers: (i) 5 m s⁻¹  (ii) 2.5 m s⁻¹  (iii) 1.25 m"
+            },
+            {
+              "type": "example",
+              "id": "9.3",
+              "problem": "An object is thrown vertically upwards and rises to a height of 10 m. Calculate: (i) the initial velocity with which it was thrown, and (ii) the time taken to reach the highest point.",
+              "solution": "Given: s = 10 m, v = 0 (at the top), g = −9.8 m s⁻² (opposing upward motion)\n\n(i) Using v² = u² + 2gs:\n    0 = u² + 2 × (−9.8) × 10\n    u² = 196\n    u = 14 m s⁻¹\n\n(ii) Using v = u + gt:\n    0 = 14 + (−9.8) × t\n    t = 14 / 9.8 ≈ 1.43 s\n\nAnswers: (i) u = 14 m s⁻¹  (ii) t = 1.43 s"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "9.3 Mass",
+      "topics": [
+        {
+          "topic_name": "Mass and Its Properties",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The mass of an object is the measure of its inertia. Greater the mass, greater the inertia. Mass is a scalar quantity and remains constant regardless of the location of the object — whether it is on the earth, the moon, or in outer space."
+            },
+            {
+              "type": "note",
+              "title": "Key Property of Mass",
+              "text": "Mass does NOT change from place to place. It is constant everywhere. It depends only on the amount of matter in the object. The SI unit of mass is kilogram (kg)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "9.4 Weight",
+      "topics": [
+        {
+          "topic_name": "Weight and its Formula",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The earth attracts every object towards it with a gravitational force. The weight of an object is defined as the force with which the earth attracts that object."
+            },
+            {
+              "type": "formula",
+              "expression": "W = m × g",
+              "variables": {
+                "W": "Weight of the object (N)",
+                "m": "Mass of the object (kg)",
+                "g": "Acceleration due to gravity at that location (m s⁻²)"
+              },
+              "derivation": "From Newton's second law: F = m × a. For a freely falling body, a = g. Therefore, the gravitational force (weight) W = m × g."
+            },
+            {
+              "type": "note",
+              "title": "Nature of Weight",
+              "text": "Weight is a force — it acts vertically downward. Unlike mass, weight is NOT constant; it changes with location because g varies. The SI unit of weight is newton (N). At a given place, W ∝ m, so weight can be used as a measure of mass at that location."
+            },
+            {
+              "type": "list",
+              "title": "Mass vs Weight — Key Differences",
+              "items": [
+                "Mass is the measure of inertia (amount of matter); Weight is the gravitational force on the object.",
+                "Mass is a scalar; Weight is a vector (direction: vertically downward).",
+                "Mass remains constant everywhere; Weight varies with location (depends on g).",
+                "SI unit of mass is kilogram (kg); SI unit of weight is newton (N).",
+                "Mass is measured using a beam balance; Weight is measured using a spring balance."
+              ]
+            },
+            {
+              "type": "example",
+              "id": "9.4",
+              "problem": "Mass of an object is 10 kg. What is its weight on the earth? (g = 9.8 m s⁻²)",
+              "solution": "W = m × g = 10 kg × 9.8 m s⁻² = 98 N\nThe weight of the object on the earth is 98 N."
+            }
+          ]
+        },
+        {
+          "topic_name": "9.4.1 Weight of an Object on the Moon",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The weight of an object on the moon is the force with which the moon attracts it. The moon's mass is less than the earth's, so it exerts a lesser gravitational force on objects."
+            },
+            {
+              "type": "paragraph",
+              "text": "Using the universal law of gravitation, the weight of an object on the moon (Wm) and on the earth (We) can be calculated using the masses and radii of the moon and earth respectively."
+            },
+            {
+              "type": "table",
+              "headers": ["Celestial Body", "Mass (kg)", "Radius (m)"],
+              "rows": [
+                ["Earth", "5.98 × 10²⁴", "6.37 × 10⁶"],
+                ["Moon", "7.36 × 10²²", "1.74 × 10⁶"]
+              ]
+            },
+            {
+              "type": "formula",
+              "expression": "Wm / We = 1/6\n⇒ Wm = (1/6) × We",
+              "variables": {
+                "Wm": "Weight of the object on the moon (N)",
+                "We": "Weight of the object on the earth (N)"
+              },
+              "derivation": "Wm = G × Mm × m / Rm²  and  We = G × M × m / R²\nDividing: Wm/We = (Mm × R²) / (M × Rm²)\nSubstituting values:\n  Wm/We = (7.36 × 10²² × (6.37 × 10⁶)²) / (5.98 × 10²⁴ × (1.74 × 10⁶)²)\n  Wm/We ≈ 0.165 ≈ 1/6\nTherefore: Weight on moon = (1/6) × weight on earth."
+            },
+            {
+              "type": "note",
+              "title": "Important Result",
+              "text": "The weight of an object on the moon is approximately 1/6th of its weight on the earth. This is because the moon has a smaller mass and a smaller radius than the earth, resulting in weaker gravitational pull at its surface."
+            },
+            {
+              "type": "example",
+              "id": "9.5",
+              "problem": "An object weighs 10 N on the surface of the earth. What would be its weight on the surface of the moon?",
+              "solution": "Wm = (1/6) × We = (1/6) × 10 = 10/6 ≈ 1.67 N\nThe weight of the object on the moon is 1.67 N."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "9.5 Thrust and Pressure",
+      "topics": [
+        {
+          "topic_name": "Thrust",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When a force is applied perpendicular to the surface of an object, it is called thrust. For example, when you stand on loose sand, your body weight acts perpendicular to the surface of the sand — this is the thrust."
+            },
+            {
+              "type": "note",
+              "title": "Thrust Defined",
+              "text": "The force acting on an object perpendicular to the surface is called thrust. Its SI unit is newton (N). Thrust is a force — it has both magnitude and direction."
+            }
+          ]
+        },
+        {
+          "topic_name": "Pressure",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The effect of thrust depends on the area over which it acts. The same thrust acting over a smaller area produces a greater effect than when acting over a larger area. This is why a drawing pin (with a pointed tip and a wide head) can be pushed into a board easily — the small tip area concentrates the force."
+            },
+            {
+              "type": "formula",
+              "expression": "Pressure = Thrust / Area\nP = F / A",
+              "variables": {
+                "P": "Pressure (Pa or N m⁻²)",
+                "F": "Thrust or force applied perpendicular to the surface (N)",
+                "A": "Area of the surface on which force acts (m²)"
+              },
+              "derivation": "Pressure is defined as the force per unit area. SI unit: N m⁻² = pascal (Pa). Named after scientist Blaise Pascal."
+            },
+            {
+              "type": "note",
+              "title": "Pascal (Pa)",
+              "text": "The SI unit of pressure is pascal (Pa), named in honour of the scientist Blaise Pascal. 1 Pa = 1 N m⁻²."
+            },
+            {
+              "type": "list",
+              "title": "Real-life Applications of the Pressure Concept",
+              "items": [
+                "Camels can walk on desert sand because their large, broad feet spread their weight over a large area, reducing pressure on the sand.",
+                "Army tanks rest on continuous chains to spread their large weight over a greater area, reducing pressure on the ground.",
+                "Wide tyres on trucks and buses distribute weight over a larger area, reducing pressure on the road.",
+                "Cutting tools (knives, scissors) have sharp edges — small contact area means large pressure for the same force.",
+                "Buildings have wide foundations to spread the weight over a large area, reducing pressure on the ground."
+              ]
+            },
+            {
+              "type": "example",
+              "id": "9.6",
+              "problem": "A block of wood (mass 5 kg, dimensions 40 cm × 20 cm × 10 cm) is placed on a table. Find the pressure exerted on the table when it rests on: (a) 20 cm × 10 cm face, (b) 40 cm × 20 cm face. (g = 9.8 m s⁻²)",
+              "solution": "Weight (thrust) = m × g = 5 × 9.8 = 49 N\n\n(a) Area = 20 cm × 10 cm = 200 cm² = 0.02 m²\n   Pressure = 49 / 0.02 = 2450 N m⁻²\n\n(b) Area = 40 cm × 20 cm = 800 cm² = 0.08 m²\n   Pressure = 49 / 0.08 = 612.5 N m⁻²\n\nConclusion: The same thrust on a smaller area exerts greater pressure (2450 N m⁻²) than on a larger area (612.5 N m⁻²)."
+            }
+          ]
+        },
+        {
+          "topic_name": "9.5.1 Pressure in Fluids",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "All liquids and gases are called fluids. Fluids have weight and exert pressure on the base and walls of their container. An important property of fluids is that pressure applied at any point of a confined mass of fluid is transmitted undiminished in all directions."
+            },
+            {
+              "type": "note",
+              "title": "Fluids",
+              "text": "Fluids are substances that can flow — liquids and gases. Unlike solids, fluids exert pressure in all directions, including on the walls and base of a container."
+            }
+          ]
+        },
+        {
+          "topic_name": "9.5.2 Buoyancy",
+          "content": [
+            {
+              "type": "activity",
+              "id": "9.4",
+              "title": "Floating Bottle — Experiencing Buoyant Force",
+              "procedure": [
+                "Take an empty plastic bottle with an airtight stopper.",
+                "Put it in a bucket filled with water and observe that it floats.",
+                "Push the bottle into the water and feel the resistance — an upward force.",
+                "Try to push it deeper; notice it becomes harder.",
+                "Release the bottle and observe that it bounces back to the surface."
+              ],
+              "observation": "The water exerts an upward force on the bottle. This upward force increases as the bottle is pushed deeper. When released, the bottle rises to the surface.",
+              "conclusion": "Water exerts an upward force on the immersed bottle. This upward force is called buoyancy or buoyant force (upthrust). When the buoyant force exceeds the weight of the object, the object rises to the surface."
+            },
+            {
+              "type": "note",
+              "title": "Buoyancy and Buoyant Force",
+              "text": "The upward force exerted by a fluid on an object immersed in it is called the buoyant force or upthrust. All objects experience buoyancy when immersed in a fluid. The magnitude of the buoyant force depends on the density of the fluid — denser fluids exert greater buoyant force."
+            }
+          ]
+        },
+        {
+          "topic_name": "9.5.3 Why Objects Float or Sink",
+          "content": [
+            {
+              "type": "activity",
+              "id": "9.5",
+              "title": "Iron Nail vs Cork — Float or Sink?",
+              "procedure": [
+                "Take a beaker filled with water.",
+                "Place an iron nail on the surface of the water and observe.",
+                "Take a piece of cork and an iron nail of equal mass.",
+                "Place both on the surface of water and observe."
+              ],
+              "observation": "The iron nail sinks while the cork floats, even when they have equal masses.",
+              "conclusion": "Floating or sinking depends on density, not mass. An object with density less than the fluid floats; an object with density greater than the fluid sinks."
+            },
+            {
+              "type": "note",
+              "title": "Density",
+              "text": "The density of a substance is defined as its mass per unit volume. Formula: Density = Mass / Volume. SI unit: kg m⁻³."
+            },
+            {
+              "type": "note",
+              "title": "Rule for Floating and Sinking",
+              "text": "An object floats if its density is less than the density of the liquid. The buoyant force on it is greater than its weight, so it rises to the surface. An object sinks if its density is greater than the density of the liquid. The buoyant force on it is less than its weight, so the net downward force causes it to sink."
+            },
+            {
+              "type": "list",
+              "title": "Examples",
+              "items": [
+                "Cork floats in water: density of cork < density of water.",
+                "Iron nail sinks in water: density of iron > density of water.",
+                "A ship floats: its average density (including hollow interior) is less than the density of water.",
+                "A solid iron block shaped into a sheet sinks: its overall density exceeds water density."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "9.6 Archimedes' Principle",
+      "topics": [
+        {
+          "topic_name": "Archimedes' Principle — Statement and Activity",
+          "content": [
+            {
+              "type": "activity",
+              "id": "9.7",
+              "title": "Stone in Water — Measuring Buoyant Force",
+              "procedure": [
+                "Tie a piece of stone to one end of a rubber string or a spring balance.",
+                "Suspend the stone in air and note the extension of the string / reading on the balance.",
+                "Slowly dip the stone into water in a container.",
+                "Observe the change in extension of the string or the reading on the spring balance.",
+                "Continue lowering until the stone is fully immersed and note the final reading."
+              ],
+              "observation": "The extension of the string (or the spring balance reading) decreases as the stone is lowered into water. No further change is observed once the stone is fully immersed.",
+              "conclusion": "The decrease in the string's extension shows that an upward force (buoyant force) is acting on the stone. Once fully immersed, the buoyant force is constant (no more water displaced), so the reading does not change further."
+            },
+            {
+              "type": "note",
+              "title": "Archimedes' Principle",
+              "text": "When a body is immersed fully or partially in a fluid, it experiences an upward force (buoyant force) that is equal to the weight of the fluid displaced by it."
+            },
+            {
+              "type": "note",
+              "title": "Why the Reading Does Not Change After Full Immersion",
+              "text": "Once the stone is fully immersed, increasing the depth does not displace more water. The volume of fluid displaced — and hence the buoyant force — remains constant. Therefore, the spring balance reading does not change further once the object is fully submerged."
+            },
+            {
+              "type": "paragraph",
+              "text": "The buoyant force on an object depends on: (1) the volume of the object submerged (volume of fluid displaced), and (2) the density of the fluid. A denser fluid exerts a greater buoyant force for the same volume submerged."
+            }
+          ]
+        },
+        {
+          "topic_name": "Applications of Archimedes' Principle",
+          "content": [
+            {
+              "type": "list",
+              "title": "Practical Applications of Archimedes' Principle",
+              "items": [
+                "Designing ships and submarines: Ships are designed to displace enough water so that the buoyant force equals their weight, allowing them to float.",
+                "Submarines: Adjust the amount of water taken into their ballast tanks to control buoyancy and depth.",
+                "Lactometers: Determine the purity of milk by measuring the density of milk — based on Archimedes' principle.",
+                "Hydrometers: Used to determine the density of liquids — float differently in liquids of different densities.",
+                "Determining purity of metals: Archimedes famously used this principle to check if the king's crown was made of pure gold."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Common Mistake to Avoid",
+              "text": "A weighing machine measures the apparent weight of an object, which is reduced by the buoyant force of air. Therefore, the actual mass of an object is slightly more than what a weighing machine reads in air. Cotton, with a larger surface area, experiences more air buoyancy than an iron bar of the same measured mass — so in reality, the cotton bag is slightly heavier than indicated."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Gravitational Force",
+      "definition": "The force of attraction between any two objects in the universe, proportional to the product of their masses and inversely proportional to the square of the distance between them."
+    },
+    {
+      "term": "Universal Gravitational Constant (G)",
+      "definition": "The constant of proportionality in the law of gravitation. G = 6.673 × 10⁻¹¹ N m² kg⁻². It is the same everywhere in the universe."
+    },
+    {
+      "term": "Centripetal Force",
+      "definition": "The force that acts towards the centre of a circular path, keeping an object moving in that path. For the moon, it is provided by the earth's gravitational attraction."
+    },
+    {
+      "term": "Free Fall",
+      "definition": "The motion of an object falling towards the earth under the influence of gravitational force alone, without any other forces (such as air resistance)."
+    },
+    {
+      "term": "Acceleration Due to Gravity (g)",
+      "definition": "The acceleration produced in a freely falling object due to the earth's gravitational force. Near the earth's surface, g ≈ 9.8 m s⁻². It varies with location — greater at poles, lesser at equator."
+    },
+    {
+      "term": "Mass",
+      "definition": "The measure of the inertia of an object, or the quantity of matter it contains. It is a scalar quantity, remains constant everywhere, and is measured in kilograms (kg)."
+    },
+    {
+      "term": "Weight",
+      "definition": "The force with which the earth (or any celestial body) attracts an object. W = mg. It is a vector, acts vertically downward, varies with location, and is measured in newtons (N)."
+    },
+    {
+      "term": "Thrust",
+      "definition": "The force acting on an object perpendicular to its surface. Its SI unit is newton (N)."
+    },
+    {
+      "term": "Pressure",
+      "definition": "The thrust (force) acting per unit area of a surface. P = F/A. SI unit is pascal (Pa) or N m⁻²."
+    },
+    {
+      "term": "Pascal (Pa)",
+      "definition": "The SI unit of pressure, named after scientist Blaise Pascal. 1 Pa = 1 N m⁻²."
+    },
+    {
+      "term": "Fluid",
+      "definition": "A substance that can flow — includes both liquids and gases. Fluids exert pressure in all directions."
+    },
+    {
+      "term": "Buoyancy",
+      "definition": "The tendency of a fluid to exert an upward force on an object immersed in it. This upward force is called buoyant force or upthrust."
+    },
+    {
+      "term": "Buoyant Force (Upthrust)",
+      "definition": "The upward force exerted by a fluid on a body partially or fully immersed in it. Its magnitude equals the weight of the fluid displaced by the body (Archimedes' Principle)."
+    },
+    {
+      "term": "Density",
+      "definition": "The mass per unit volume of a substance. Density = Mass / Volume. SI unit: kg m⁻³. Objects with density less than the fluid float; those with greater density sink."
+    },
+    {
+      "term": "Archimedes' Principle",
+      "definition": "When a body is immersed fully or partially in a fluid, it experiences an upward buoyant force equal to the weight of the fluid displaced by it."
+    },
+    {
+      "term": "Lactometer",
+      "definition": "A device based on Archimedes' principle used to determine the purity of milk by measuring its density."
+    },
+    {
+      "term": "Hydrometer",
+      "definition": "A device based on Archimedes' principle used to determine the density of liquids."
+    }
+  ],
+  "summary_points": [
+    "The universal law of gravitation states that every object in the universe attracts every other object with a force F = G × (M × m) / d², where G = 6.673 × 10⁻¹¹ N m² kg⁻² is the universal gravitational constant.",
+    "The gravitational force is directly proportional to the product of the masses and inversely proportional to the square of the distance between them (inverse-square law).",
+    "The universal law of gravitation explains: the binding force between us and the earth, the motion of the moon around the earth, the motion of planets around the Sun, and ocean tides.",
+    "Free fall is the motion of an object under the influence of gravity alone. The acceleration during free fall is called acceleration due to gravity (g ≈ 9.8 m s⁻²), derived from g = GM/R².",
+    "g is independent of the mass of the falling object — all objects fall at the same rate in vacuum. g is greater at the poles and lesser at the equator due to the earth's shape.",
+    "Equations of uniformly accelerated motion (v = u + gt; s = ut + ½gt²; v² = u² + 2gs) apply to objects in free fall, with g positive for downward motion and negative for upward motion.",
+    "Mass is a constant measure of inertia (scalar, SI unit: kg); Weight is the gravitational force on an object (W = mg, vector, SI unit: N) and varies with location.",
+    "The weight of an object on the moon is (1/6)th of its weight on the earth, because the moon has a smaller mass and radius.",
+    "Thrust is force applied perpendicular to a surface; Pressure = Thrust / Area (SI unit: pascal, Pa). A smaller contact area produces greater pressure for the same thrust.",
+    "Pressure in a confined fluid is transmitted equally in all directions. Fluids (liquids and gases) exert pressure on the base and walls of their container.",
+    "Buoyancy is the upward force (buoyant force/upthrust) exerted by a fluid on an immersed object. Its magnitude depends on the volume submerged and the density of the fluid.",
+    "Objects float if their density is less than the fluid's density (buoyant force > weight); objects sink if their density is greater (buoyant force < weight).",
+    "Archimedes' Principle: The buoyant force on a body equals the weight of the fluid displaced by it. Applications include ship design, submarines, lactometers, and hydrometers."
+  ]
+}

@@ -1,0 +1,34 @@
+  {
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "The Fundamental Unit of Life",
+    "chapter_number": 5
+  },
+  "summary": [
+    {
+      "category": "Cell Structure — Membrane, Cell Wall, and Nucleus",
+      "points": [
+        "The cell is the basic structural and functional unit of life. Every cell has three essential features: plasma membrane (selectively permeable; made of lipids and proteins; allows diffusion of gases, osmosis of water, endocytosis), cytoplasm (fluid containing organelles), and nucleus (control centre with DNA).",
+        "Cell wall (present in plant, fungal, and bacterial cells; made of cellulose in plants) lies outside the plasma membrane and prevents bursting in hypotonic media. Plasmolysis occurs when plant cells lose water in hypertonic solution — cell contents shrink away from the cell wall. Only living cells (not boiled/dead cells) show osmosis and plasmolysis.",
+        "Nucleus (eukaryotes): double nuclear membrane with pores; contains chromatin (DNA + protein) that condenses into chromosomes during division; genes = functional segments of DNA. Prokaryotes have a nucleoid instead (no nuclear membrane), a single chromosome, and no membrane-bound organelles."
+      ]
+    },
+    {
+      "category": "Osmosis and Tonicity",
+      "points": [
+        "Osmosis is the net movement of water through a selectively permeable membrane from a region of high water concentration (low solute) to low water concentration (high solute). Diffusion moves gases (O₂, CO₂) along concentration gradients without energy; active transport moves molecules against gradients using energy.",
+        "Hypotonic solution (dilute): cell gains water → swells. Isotonic solution (equal concentration): no net water movement → cell unchanged. Hypertonic solution (concentrated): cell loses water → shrinks (animal cells) or undergoes plasmolysis (plant cells).",
+        "Activity demonstrations: De-shelled egg in water swells (hypotonic) and shrinks in salt solution (hypertonic). Raisins swell in water and shrink in concentrated solution. Unicellular freshwater organisms and plant roots absorb water by osmosis."
+      ]
+    },
+    {
+      "category": "Cell Organelles and Cell Division",
+      "points": [
+        "Key organelles: RER (ribosomes → protein synthesis; transport); SER (lipid synthesis; liver detoxification); Golgi apparatus (stacked cisterns → packaging, modifying, dispatching cell products; forms lysosomes); Lysosomes (digestive enzyme sacs → waste disposal; 'suicide bags' when they burst and digest the cell).",
+        "Mitochondria (powerhouses): double membrane with folded inner membrane (cristae) → produce ATP (energy currency); have own DNA and ribosomes. Plastids (plants only): Chloroplasts → contain chlorophyll, site of photosynthesis, own DNA; Leucoplasts → store starch, oils, proteins. Vacuoles: large central vacuole in plants (50–90% volume) provides turgidity; small in animal cells; food vacuoles in Amoeba.",
+        "Cell division: Mitosis (growth and repair) → 1 mother cell produces 2 identical daughter cells with the SAME chromosome number. Meiosis (gamete formation) → 2 consecutive divisions; 1 mother cell produces 4 daughter cells with HALF the chromosome number — ensuring the chromosome number is restored at fertilisation."
+      ]
+    }
+  ]
+}

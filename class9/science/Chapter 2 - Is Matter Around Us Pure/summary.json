@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Is Matter Around Us Pure?",
+    "chapter_number": 2
+  },
+  "summary": [
+    {
+      "category": "Mixtures — Types, Solutions, and Concentration",
+      "points": [
+        "A pure substance has a single type of particle with fixed composition; a mixture contains two or more substances in any proportion, separated by physical methods. Mixtures are homogeneous (uniform — e.g., salt water, alloys, air) or heterogeneous (non-uniform — e.g., soil, oil and water).",
+        "A solution is a homogeneous mixture where particle size < 1 nm; it is stable, cannot be filtered, and does not show Tyndall effect. Concentration (mass %) = (mass of solute / mass of solution) × 100. Solubility is the maximum solute dissolvable at a given temperature, and generally increases with temperature.",
+        "Alloys (e.g., brass = 70% Cu + 30% Zn) are solid solutions — they are mixtures because they have variable composition, retain constituent properties, and cannot be separated by physical methods."
+      ]
+    },
+    {
+      "category": "Suspension, Colloid, and the Tyndall Effect",
+      "points": [
+        "A suspension (particle size > 1000 nm) is heterogeneous, unstable (particles settle), visible to naked eye, scatters light, and can be separated by filtration — examples: chalk in water, muddy water.",
+        "A colloid (particle size 1–1000 nm) appears homogeneous but is heterogeneous; it is stable, cannot be filtered (centrifugation is used), and shows the Tyndall effect — the scattering of a light beam by colloidal particles. Examples: milk (emulsion), fog (aerosol), smoke (aerosol), jelly (gel).",
+        "The Tyndall effect distinguishes colloids from true solutions: sunlight through a forest canopy, a beam entering a dusty room, or a torch beam through milk all make the light path visible due to scattering by particles of 1–1000 nm size."
+      ]
+    },
+    {
+      "category": "Physical & Chemical Changes and Pure Substances",
+      "points": [
+        "Physical changes (melting, dissolving, cutting) produce no new substance — chemical composition is unchanged and the change is generally reversible. Chemical changes (burning, rusting, electrolysis) form new substances with new properties and are generally irreversible.",
+        "Elements (e.g., gold, oxygen) are pure substances that cannot be broken down by chemical reactions. Metals are lustrous, malleable, ductile, sonorous; non-metals are poor conductors and not malleable; metalloids (Si, Ge, B) are intermediate. Only Hg (metal) and Br (non-metal) are liquid at room temperature.",
+        "Compounds are pure substances of two or more elements in a fixed ratio, with properties entirely different from constituent elements (e.g., FeS from Fe + S loses magnetism and gives H₂S with acid, not H₂). Compounds differ from mixtures: fixed vs variable composition, new vs constituent properties, chemical vs physical separation."
+      ]
+    }
+  ]
+}

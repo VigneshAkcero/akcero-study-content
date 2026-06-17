@@ -1,0 +1,304 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Math",
+    "chapter_name": "Large Numbers Around Us",
+    "chapter_number": 1
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Write 1 lakh and 1 crore in digits. How many zeroes does each have?",
+      "answer": "1 lakh = 1,00,000 (5 zeroes). 1 crore = 1,00,00,000 (7 zeroes).",
+      "solution": "1 lakh is obtained by placing 1 followed by 5 zeroes: 1,00,000.\n1 crore = 100 lakhs = 100 × 1,00,000 = 1,00,00,000, which has 7 zeroes."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Write the number 27,30,000 in words using the Indian place value system.",
+      "answer": "Twenty seven lakh thirty thousand.",
+      "solution": "In the Indian system, 27,30,000 is read group by group from left to right: 27 (lakhs) → twenty seven, 30 (thousands) → thirty, 000 (ones) → nothing. So: Twenty seven lakh thirty thousand."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Write the number for: 'Fifty lakhs five thousand and fifty'.",
+      "answer": "50,05,050.",
+      "solution": "Fifty lakhs = 50,00,000. Five thousand = 5,000. Fifty = 50.\nAdding: 50,00,000 + 5,000 + 50 = 50,05,050.\nIn the Indian system with commas: 50,05,050."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "How many thousands make one lakh? How many hundreds make one lakh?",
+      "answer": "100 thousands = 1 lakh. 1,000 hundreds = 1 lakh.",
+      "solution": "1 lakh = 1,00,000.\n1,00,000 ÷ 1,000 = 100. So 100 thousands make one lakh.\n1,00,000 ÷ 100 = 1,000. So 1,000 hundreds make one lakh."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "How many lakhs make 1 crore?",
+      "answer": "100 lakhs make 1 crore.",
+      "solution": "1 crore = 1,00,00,000. 1 lakh = 1,00,000.\n1,00,00,000 ÷ 1,00,000 = 100. Therefore, 100 lakhs = 1 crore."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What is 1 million equal to in the Indian system?",
+      "answer": "1 million = 10 lakhs = 10,00,000.",
+      "solution": "1 million = 1,000,000 (American system) = ten lakh in the Indian system = 10,00,000.\nThis can be verified: 10 × 1,00,000 = 10,00,000 = 1,000,000."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Write 3,00,600 in words.",
+      "answer": "Three lakh six hundred.",
+      "solution": "3,00,600 in the Indian system: 3 (lakhs) → three lakh, 00 (thousands) → nothing, 600 (ones) → six hundred. Combined: Three lakh six hundred."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What is the difference between rounding up and rounding down? Give one example of each.",
+      "answer": "Rounding up: approximated value > actual value. Rounding down: approximated value < actual value.",
+      "solution": "Rounding up: The approximated number is more than the actual number. Example: A class has 43 students; the teacher orders 50 books (rounded up to ensure everyone gets one).\nRounding down: The approximated number is less than the actual number. Example: A journey costs ₹485; you tell someone it costs 'around ₹450' (rounded down)."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Express 5,072 in expanded form (as a sum of place value parts). What is the minimum number of button presses needed to form it using +1, +10, +100, +1000 buttons?",
+      "answer": "5,072 = (5 × 1000) + (7 × 10) + (2 × 1). Minimum presses = 5 + 7 + 2 = 14.",
+      "solution": "Expanded form: 5,072 = (5 × 1000) + (0 × 100) + (7 × 10) + (2 × 1).\nMinimum button presses = sum of digits = 5 + 0 + 7 + 2 = 14.\nThis is minimum because each digit tells you how many times to press each place-value button — pressing more would be inefficient."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "In the Indian system, how are commas placed in large numbers? How does the American system differ?",
+      "answer": "Indian: 3-2-2-2… pattern from the right. American: 3-3-3… pattern from the right.",
+      "solution": "Indian system: Starting from the right, place a comma after 3 digits (hundreds), then after every 2 digits (ten-thousands, ten-lakhs, ten-crores). Example: 1,00,00,000 (one crore).\nAmerican system: Starting from the right, place a comma after every 3 digits uniformly. Example: 10,000,000 (ten million).\nThe same number looks different: Indian: 10,00,000 (ten lakhs); American: 1,000,000 (one million)."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "A calculator has only a +1000 button. How many times must it be pressed to show 1 lakh?",
+      "answer": "100 times.",
+      "solution": "1 lakh = 1,00,000. Each press adds 1,000.\nNumber of presses = 1,00,000 ÷ 1,000 = 100. The +1000 button must be pressed 100 times."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "Write the number 70,53,138 in words.",
+      "answer": "Seventy lakh fifty three thousand one hundred thirty eight.",
+      "solution": "In the Indian system, 70,53,138 is grouped as 70 | 53 | 138.\n70 (lakhs) → seventy lakh\n53 (thousands) → fifty three thousand\n138 (ones) → one hundred thirty eight\nFull name: Seventy lakh fifty three thousand one hundred thirty eight."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Easy",
+      "question": "Compare: 500 lakhs and 5 million. Which is greater?",
+      "answer": "500 lakhs is greater. 500 lakhs = 5,00,00,000; 5 million = 50,00,000.",
+      "solution": "1 million = 10 lakhs. So 5 million = 50 lakhs.\n500 lakhs vs 50 lakhs → 500 lakhs > 5 million.\nIn digits: 500 lakhs = 5,00,00,000 and 5 million = 50,00,000. Clearly 5,00,00,000 > 50,00,000."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Easy",
+      "question": "Find the nearest thousand and nearest lakh of the number 6,72,85,183.",
+      "answer": "Nearest thousand = 6,72,85,000. Nearest lakh = 6,73,00,000.",
+      "solution": "Nearest thousand: Look at the hundreds digit of 6,72,85,183 → 1 < 5, so round down. → 6,72,85,000.\nNearest lakh: Look at the ten-thousands digit → 8 ≥ 5, so round up. → 6,73,00,000."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Easy",
+      "question": "Explain why multiplying a number by 5 is the same as dividing by 2 and multiplying by 10.",
+      "answer": "Because 5 = 10 ÷ 2, so multiplying by 5 = multiplying by (10 ÷ 2) = (× 10) ÷ 2 = ÷ 2 × 10.",
+      "solution": "5 = 10 / 2. Therefore, n × 5 = n × (10/2) = (n × 10) / 2 = (n / 2) × 10.\nThis means: to multiply by 5, first divide by 2 (halve the number), then multiply by 10 (append a zero to the right).\nExample: 116 × 5 = (116 ÷ 2) × 10 = 58 × 10 = 580."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "The number of days in a year is 365 (ignoring leap years). How many days are there in 100 years? Is this more or less than 1 lakh? By how much?",
+      "answer": "36,500 days in 100 years. This is 63,500 less than 1 lakh.",
+      "solution": "Days in 100 years = 365 × 100 = 36,500.\n1 lakh = 1,00,000.\n1,00,000 − 36,500 = 63,500.\nSo 36,500 is 63,500 less than 1 lakh. A 100-year lifetime has only 36,500 days — far fewer than 1 lakh."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "A calculator has only a +10 button. How many times must it be pressed to form 1 lakh?",
+      "answer": "10,000 times.",
+      "solution": "1 lakh = 1,00,000. Each press adds 10.\nNumber of presses = 1,00,000 ÷ 10 = 10,000.\nThe +10 button must be pressed 10,000 times."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Write 4,81,21,620 in words in both the Indian and American systems.",
+      "answer": "Indian: Four crore eighty one lakh twenty one thousand six hundred twenty. American: Forty eight million one hundred twenty one thousand six hundred twenty.",
+      "solution": "Indian system: 4,81,21,620\n→ 4 (crores) + 81 (lakhs) + 21 (thousands) + 620\n→ Four crore eighty one lakh twenty one thousand six hundred twenty.\nAmerican system: 48,121,620\n→ 48 (millions) + 121 (thousands) + 620\n→ Forty eight million one hundred twenty one thousand six hundred twenty."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Find all five nearest neighbours (nearest thousand, ten-thousand, lakh, ten-lakh, crore) of the number 3,87,69,957.",
+      "answer": "Thousand: 3,87,70,000 | Ten-thousand: 3,87,70,000 | Lakh: 3,88,00,000 | Ten-lakh: 3,90,00,000 | Crore: 4,00,00,000.",
+      "solution": "3,87,69,957:\n• Nearest thousand: hundreds digit = 9 ≥ 5 → round up → 3,87,70,000.\n• Nearest ten-thousand: thousands digit = 9 ≥ 5 → round up → 3,87,70,000.\n• Nearest lakh: ten-thousands digit = 6 ≥ 5 → round up → 3,88,00,000.\n• Nearest ten-lakh: lakhs digit = 7 ≥ 5 → round up → 3,90,00,000.\n• Nearest crore: ten-lakhs digit = 8 ≥ 5 → round up → 4,00,00,000."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Calculate 72 × 125 using the shortcut method (125 = 1000 ÷ 8).",
+      "answer": "9,000.",
+      "solution": "125 = 1000 ÷ 8. So 72 × 125 = 72 × (1000 ÷ 8) = (72 ÷ 8) × 1000 = 9 × 1000 = 9,000.\nThe shortcut avoids direct multiplication by treating 125 as a fraction of 1000, which makes the calculation much simpler."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "Using the shortcut for multiplying by 25, calculate 824 × 25.",
+      "answer": "20,600.",
+      "solution": "25 = 100 ÷ 4. So 824 × 25 = 824 × (100 ÷ 4) = (824 ÷ 4) × 100 = 206 × 100 = 20,600."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "The product of two 3-digit numbers: what is the minimum and maximum number of digits in their product?",
+      "answer": "Minimum: 5 digits. Maximum: 6 digits.",
+      "solution": "Smallest 3-digit number = 100. Smallest product = 100 × 100 = 10,000 (5 digits).\nLargest 3-digit number = 999. Largest product = 999 × 999 = 9,98,001 (6 digits).\nSo the product of two 3-digit numbers always has 5 or 6 digits. It can NEVER be a 4-digit number.\nUsing the rule: m = 3, n = 3. Min digits = 3 + 3 − 1 = 5. Max digits = 3 + 3 = 6. ✓"
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "A bus can carry 50 passengers. How many buses are needed to carry 1 lakh people?",
+      "answer": "2,000 buses.",
+      "solution": "Total people = 1,00,000. Each bus carries 50 people.\nNumber of buses = 1,00,000 ÷ 50 = 2,000.\nSo exactly 2,000 buses are needed to carry 1 lakh people."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "Write the number 'One billion one million one thousand one' in Indian place value notation.",
+      "answer": "1,00,10,01,001.",
+      "solution": "1 billion = 1,00,00,00,000 (Indian) = 1,000,000,000 (American).\n1 million = 10,00,000 (Indian).\n1 thousand = 1,000.\n1 one = 1.\nAdding in Indian system: 1,00,00,00,000 + 10,00,000 + 1,000 + 1 = 1,00,10,01,001."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Medium",
+      "question": "Two friends estimate the sum 4,63,128 + 4,19,682. One says 'near 8 lakhs' and the other says 'near 9 lakhs'. Who is closer to the actual answer? Find the exact sum.",
+      "answer": "The one who said 'near 9 lakhs' is closer. Exact sum = 8,82,810.",
+      "solution": "Rounding to nearest lakh: 4,63,128 ≈ 5,00,000; 4,19,682 ≈ 4,00,000. Sum ≈ 9,00,000.\nRounding down: 4,63,128 ≈ 4,00,000; 4,19,682 ≈ 4,00,000. Sum ≈ 8,00,000.\nExact: 4,63,128 + 4,19,682 = 8,82,810.\n|8,82,810 − 9,00,000| = 17,190. |8,82,810 − 8,00,000| = 82,810.\nSo 'near 9 lakhs' is the closer estimate."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Medium",
+      "question": "Compare: 640 crore and 60 billion. Which is greater?",
+      "answer": "60 billion is greater. 60 billion = 600 crores > 640 crores? Wait — 60 billion = 60 × 100 crores = 6,000 crores > 640 crores.",
+      "solution": "1 billion = 100 crores. So 60 billion = 60 × 100 = 6,000 crores.\n640 crores vs 6,000 crores → 640 crore < 60 billion.\nIn digits: 640 crore = 6,40,00,00,000 and 60 billion = 60,00,00,00,000. Clearly 60 billion is greater."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Medium",
+      "question": "What number has all five nearest neighbours (nearest thousand, ten-thousand, lakh, ten-lakh, crore) equal to 5,00,00,000? How many such numbers are there?",
+      "answer": "Any number from 4,50,00,000 to 5,49,99,999 satisfies this. There are 99,99,999 + 1 = 1,00,00,000 such numbers.",
+      "solution": "For all five nearest neighbours to be 5,00,00,000:\n• Nearest crore = 5,00,00,000 → number is between 4,50,00,000 and 5,49,99,999.\n• Nearest ten-lakh = 5,00,00,000 → number is between 4,95,00,000 and 5,04,99,999.\n• Nearest lakh = 5,00,00,000 → number is between 4,99,50,000 and 5,00,49,999.\n• Nearest ten-thousand = 5,00,00,000 → number is between 4,99,95,000 and 5,00,04,999.\n• Nearest thousand = 5,00,00,000 → number is between 4,99,99,500 and 5,00,00,499.\nThe intersection of all these ranges: 4,99,99,500 to 5,00,00,499. That gives 5,00,00,499 − 4,99,99,500 + 1 = 1,000 such numbers."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Medium",
+      "question": "Write two different expanded forms for the number 8,300.",
+      "answer": "8,300 = (8 × 1000) + (3 × 100) [standard]; also = (5 × 1000) + (33 × 100).",
+      "solution": "Standard expanded form: 8,300 = (8 × 1000) + (3 × 100) → 8 + 3 = 11 button presses (minimum).\nAlternative: 8,300 = (5 × 1000) + (33 × 100) = 5,000 + 3,300 = 8,300 ✓ → 5 + 33 = 38 presses.\nAnother: 8,300 = (83 × 100) = 83 presses of +100.\nAll are valid — the minimum is always the standard expanded form, where the number of presses equals the digit sum."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Medium",
+      "question": "Calculate 125 × 40 × 8 × 25 using regrouping shortcuts.",
+      "answer": "10,00,000.",
+      "solution": "Regroup: (125 × 8) × (40 × 25).\n125 × 8 = 1,000 (since 125 = 1000 ÷ 8, so 125 × 8 = 1,000).\n40 × 25 = 40 × (100 ÷ 4) = (40 ÷ 4) × 100 = 10 × 100 = 1,000.\n1,000 × 1,000 = 10,00,000."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Medium",
+      "question": "A calculator shows 0 and has only +10,000 and +100 buttons. Write the expression and number of button presses to display 20,800.",
+      "answer": "(2 × 10,000) + (8 × 100) = 20,800. Total presses = 2 + 8 = 10.",
+      "solution": "20,800 = 20,000 + 800 = (2 × 10,000) + (8 × 100).\nPress +10,000 twice: 10,000 + 10,000 = 20,000.\nPress +100 eight times: 100 × 8 = 800.\n20,000 + 800 = 20,800. ✓\nTotal presses = 2 + 8 = 10."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "If you can count 1 coin every second without stopping, can you count 1 million coins in a day? Show your work.",
+      "answer": "No. In a day you can count only 86,400 coins, which is far less than 1 million (10,00,000).",
+      "solution": "Seconds in 1 day = 60 × 60 × 24 = 3,600 × 24 = 86,400 seconds.\nAt 1 coin/second: coins counted in 1 day = 86,400.\n1 million = 10,00,000.\nSince 86,400 << 10,00,000, you CANNOT count 1 million coins in a day.\nTo count 1 million coins: time needed = 10,00,000 ÷ 1 = 10,00,000 seconds = 10,00,000 ÷ 3600 ≈ 277.8 hours ≈ 11.6 days."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "250 babies are born every minute across the world. Will more than 1 million babies be born in a day? Justify with calculation.",
+      "answer": "No. Only 3,60,000 babies are born in a day, which is less than 1 million (10,00,000).",
+      "solution": "Minutes in a day = 60 × 24 = 1,440.\nBabies born in a day = 250 × 1,440 = 3,60,000.\n1 million = 10,00,000.\n3,60,000 < 10,00,000, so fewer than 1 million babies are born in a day.\nTo have 1 million births: time needed = 10,00,000 ÷ 250 = 4,000 minutes ≈ 2.78 days."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "Can a 4-digit number multiplied by a 2-digit number give a 5-digit number? Can it give a 7-digit number? Justify both answers.",
+      "answer": "Yes, it can give a 5-digit number (e.g., 1000 × 10 = 10,000). No, it cannot give a 7-digit number.",
+      "solution": "m = 4 digits, n = 2 digits.\nMinimum digits in product = m + n − 1 = 4 + 2 − 1 = 5 digits.\nMaximum digits in product = m + n = 4 + 2 = 6 digits.\nSo the product of a 4-digit and a 2-digit number always has 5 or 6 digits.\nIt CAN give a 5-digit number: 1000 × 10 = 10,000 (5 digits). ✓\nIt CANNOT give a 7-digit number, since the maximum is 6 digits (9999 × 99 = 989,901 — 6 digits). ✗"
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "A calculator has only +10,000 and +100 buttons. Write expressions and number of presses for: (a) 92,100, (b) 1,20,500.",
+      "answer": "(a) (9 × 10,000) + (21 × 100); 9 + 21 = 30 presses. (b) (12 × 10,000) + (5 × 100); 12 + 5 = 17 presses.",
+      "solution": "(a) 92,100 = 90,000 + 2,100 = (9 × 10,000) + (21 × 100). Presses = 9 + 21 = 30.\n(b) 1,20,500 = 1,20,000 + 500 = (12 × 10,000) + (5 × 100). Presses = 12 + 5 = 17.\nNote: These are the minimum presses for each number using only these two buttons, as the 10,000-button and 100-button can only form multiples of their values."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "Find the minimum number of button presses to form 66,666 using buttons +1, +10, +100, +1000, +10,000. Write the expression.",
+      "answer": "Minimum presses = 30. Expression: (6 × 10,000) + (6 × 1,000) + (6 × 100) + (6 × 10) + (6 × 1).",
+      "solution": "66,666 = (6 × 10,000) + (6 × 1,000) + (6 × 100) + (6 × 10) + (6 × 1).\nMinimum presses = sum of digits = 6 + 6 + 6 + 6 + 6 = 30.\nThis follows from the rule that the minimum number of button presses equals the digit sum of the number in its standard expanded form."
+    },
+    {
+      "id": "q36",
+      "difficulty": "Hard",
+      "question": "If a single sheet of paper weighs 5 grams, what is the total weight of 1 lakh sheets? Can a person lift this? (Assume a person can lift at most 50 kg.)",
+      "answer": "1 lakh sheets weigh 5,00,000 grams = 500 kg. A person cannot lift this as 500 kg > 50 kg.",
+      "solution": "Weight of 1 lakh sheets = 1,00,000 × 5 grams = 5,00,000 grams.\nConverting to kg: 5,00,000 ÷ 1,000 = 500 kg.\nA person can lift at most 50 kg.\nSince 500 kg > 50 kg, it is NOT possible to lift 1 lakh sheets of paper."
+    },
+    {
+      "id": "q37",
+      "difficulty": "Hard",
+      "question": "Estimate 14,63,128 − 4,90,020 and then find the exact value. Which estimate — 'near 10 lakhs (less than it)' or 'near 9 lakhs (more than it)' — is closer?",
+      "answer": "Exact value = 9,73,108. 'Near 9 lakhs' (more than it) is the closer estimate.",
+      "solution": "Exact: 14,63,128 − 4,90,020 = 9,73,108.\nEstimate 1: 'near 10 lakhs, less than it' → |9,73,108 − 10,00,000| = 26,892.\nEstimate 2: 'near 9 lakhs, more than it' → |9,73,108 − 9,00,000| = 73,108.\nEstimate 1 (near 10 lakhs) is actually closer to the exact answer of 9,73,108.\nNote: Rounding 14,63,128 to 15,00,000 and 4,90,020 to 5,00,000 gives 10,00,000 — the better estimate."
+    },
+    {
+      "id": "q38",
+      "difficulty": "Hard",
+      "question": "How many lakhs make 1 billion? Show the step-by-step calculation.",
+      "answer": "10,000 lakhs = 1 billion.",
+      "solution": "1 billion = 1,000,000,000 (American) = 1,00,00,00,000 (Indian) = 1 arab = 100 crores.\n1 crore = 100 lakhs.\n1 billion = 100 crores = 100 × 100 lakhs = 10,000 lakhs.\nVerification: 10,000 × 1,00,000 = 1,00,00,00,000 = 1 billion. ✓"
+    },
+    {
+      "id": "q39",
+      "difficulty": "Hard",
+      "question": "A number has the digit sum of 28. What is the minimum number of button presses to form it using +1, +10, +100, +1000, … buttons? What does this tell you about the number?",
+      "answer": "Minimum presses = 28. The sum of all digits of the number is 28.",
+      "solution": "The minimum number of button presses to form any number equals the sum of its digits (in standard place value form). This is because each digit in a place tells you how many times to press that place's button, and there is no way to do it with fewer presses without changing which buttons are used.\nSo if minimum presses = 28, the digit sum of the number is 28. For example, 9,99,99,99,1 would have digit sum 9+9+9+9+9+9+1 = but we must find a valid number. E.g., 9+9+9+1 = 28 → the number 9,991 has digit sum 28 and needs 28 presses. So does 9,99,100 (9+9+9+1+0+0 = 28)."
+    },
+    {
+      "id": "q40",
+      "difficulty": "Hard",
+      "question": "A traveller covers 1,000 km every day. The distance between the Earth and the Sun is approximately 15,00,00,000 km (150 million km). How many years will it take to travel this distance? (Use 365 days per year.)",
+      "answer": "Approximately 4,109.6 years.",
+      "solution": "Distance = 15,00,00,000 km (150 million km).\nSpeed = 1,000 km/day.\nDays needed = 15,00,00,000 ÷ 1,000 = 15,000 days.\nYears needed = 15,000 ÷ 365 ≈ 4,109.6 years.\nThis is approximately 41 centuries — far beyond a human lifetime. It illustrates the enormity of astronomical distances even compared to very fast travel."
+    },
+    {
+      "id": "q41",
+      "difficulty": "Hard",
+      "question": "Write the number 1,02,03,04,050 in words in the Indian system and its equivalent in the American system.",
+      "answer": "Indian: One arab two crore three lakh four thousand fifty. American: One billion twenty million three hundred four thousand fifty.",
+      "solution": "Indian system: 1,02,03,04,050\n→ 1 arab + 02 crore + 03 lakh + 04 thousand + 050\n→ One arab two crore three lakh four thousand fifty.\nAmerican system: 1,020,304,050\n→ 1 billion + 020 million + 304 thousand + 050\n→ One billion twenty million three hundred four thousand fifty."
+    },
+    {
+      "id": "q42",
+      "difficulty": "Hard",
+      "question": "A matchstick pattern produces the number 11 × 11, 111 × 111, 1111 × 1111. Evaluate the first three products. What pattern do you notice in the number of digits in the products?",
+      "answer": "121 (3 digits), 12321 (5 digits), 1234321 (7 digits). Each product has (2n − 1) digits where n is the count of 1s in each factor.",
+      "solution": "11 × 11 = 121 → 3 digits.\n111 × 111 = 12,321 → 5 digits.\n1111 × 1111 = 12,34,321 → 7 digits.\nPattern in digits: 3, 5, 7 → increases by 2 each time. If n = number of 1s in each factor: digit count = 2n − 1.\nPattern in product digits: 121 → 12321 → 1234321 → 123454321 …\nThe digits go up from 1 to n and back down to 1. This arises because each 1 in the multiplicand contributes to adjacent places.\nUsing digit-count rule: 11 × 11: m = n = 2; product digits = 2+2−1 = 3 or 4. Here it is 3. ✓\n111 × 111: m = n = 3; product digits = 3+3−1 = 5 or 6. Here it is 5. ✓"
+    }
+  ]
+}

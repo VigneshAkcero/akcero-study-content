@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Arithmetic Expressions",
+    "chapter_number": 2
+  },
+  "summary": {
+    "expressions_and_order_of_operations": {
+      "category_name": "Expressions and Order of Operations",
+      "points": [
+        "Arithmetic expressions are mathematical phrases formed using numbers and operations (addition, subtraction, multiplication, division). Every expression has a value determined by evaluating all its operations, and different expressions can have the same value (e.g., 10+2, 15-3, 3×4, and 24÷2 all equal 12). Expressions are compared using equality (=), greater than (>), and less than (<) signs based on their values.",
+        "When an expression contains multiple operations without specification of order, brackets and the concept of 'terms' resolve the ambiguity. Brackets indicate which operations should be performed first; for example, 30+(5×4)=30+20=50, whereas without brackets, 30+5×4 could be misinterpreted. Just as punctuation marks clarify meaning in language, brackets and terms clarify mathematical meaning.",
+        "Terms are identified by first converting all subtractions to additions (using negative numbers), then terms are the parts separated by + signs. In the expression 30+5×4, the terms are 30 and (5×4), evaluated as 30+20=50. Multiplication and division within each term are evaluated first, then the resulting terms are combined using addition and subtraction, establishing a consistent order of operations."
+      ]
+    },
+    "properties_of_addition_and_removal_of_brackets": {
+      "category_name": "Properties of Addition and Removal of Brackets",
+      "points": [
+        "The commutative property of addition states that changing the order of terms does not change the sum: a+b=b+a. This allows flexible rearrangement—for example, 6+(-4)=(-4)+6=2. The associative property of addition states that changing how terms are grouped does not change the sum: (a+b)+c=a+(b+c), enabling strategic grouping for easier calculation, such as (25+75)+(37+63)=100+100=200.",
+        "When removing brackets preceded by an addition sign, the signs of terms inside remain unchanged: a+(b+c)=a+b+c. However, when brackets are preceded by a subtraction sign, all signs inside reverse: a−(b+c)=a−b−c and a−(b−c)=a−b+c. For example, 100−(15+56)=100−15−56=29, and understanding this rule prevents calculation errors like 100−15+56=141.",
+        "The distributive property describes how multiplication relates to addition and subtraction: a×(b+c)=a×b+a×c and a×(b−c)=a×b−a×c. This can be applied directly (removing brackets by distributing) or in reverse (factoring), as in 14×10−6×10=(14−6)×10=8×10=80. This property enables efficient mental arithmetic, such as 97×25=(100−3)×25=2500−75=2425."
+      ]
+    },
+    "manipulating_and_evaluating_expressions": {
+      "category_name": "Manipulating and Evaluating Expressions",
+      "points": [
+        "When one term in an expression increases or decreases, the entire expression's value changes by the same amount without needing complete recalculation. For example, if 53+(-16)=37, then increasing 53 to 54 increases the sum to 38, and if -16 becomes -15, the sum increases to 38. This reasoning allows swift determination of how expression values change when terms are modified, particularly useful with negative numbers where 'increasing' values can decrease expressions.",
+        "Two expressions are equal if and only if they have the same value. Using the commutative, associative, and distributive properties, we can rewrite expressions to prove equality or reveal relationships. For instance, 2×(43+24)=2×43+2×24=134, demonstrating that distributing multiplication over addition yields the same result. Understanding these transformations is key to algebraic manipulation and problem-solving.",
+        "To evaluate complex expressions systematically: first evaluate all operations inside brackets, then perform multiplication and division within each term, and finally combine the resulting terms using addition and subtraction. For example, 5×(3+2)+7×8+3 is evaluated as (5×5)+(7×8)+3=25+56+3=84. This consistent approach, grounded in the properties of operations, ensures accurate results regardless of expression complexity."
+      ]
+    }
+  }
+}

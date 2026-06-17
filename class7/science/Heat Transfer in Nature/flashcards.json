@@ -1,0 +1,42 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Science",
+    "chapter_name": "Heat Transfer in Nature",
+    "chapter_number": 7
+  },
+  "flashcards": [
+    { "q": "In which state of matter does conduction primarily occur?", "a": "Solids." },
+    { "q": "Do the particles themselves move from their positions during conduction?", "a": "No, they only pass heat to neighboring particles." },
+    { "q": "What do we call materials that easily allow heat to pass through them?", "a": "Good conductors (of heat)." },
+    { "q": "What do we call materials that do not easily allow heat to pass through them?", "a": "Poor conductors or Insulators." },
+    { "q": "Are metals generally conductors or insulators?", "a": "Conductors." },
+    { "q": "Is wood a conductor or an insulator?", "a": "Insulator." },
+    { "q": "Is air a good conductor or a poor conductor of heat?", "a": "A poor conductor (insulator)." },
+    { "q": "Why do woollen clothes keep us warm?", "a": "Wool traps air, which acts as an insulator to prevent body heat from escaping." },
+    { "q": "What is the primary method of heat transfer in liquids and gases?", "a": "Convection." },
+    { "q": "In convection, do the heated particles actually move from one place to another?", "a": "Yes." },
+    { "q": "When air is heated, does it become heavier or lighter?", "a": "Lighter (less dense)." },
+    { "q": "Why does smoke rise upwards from a burning incense stick?", "a": "Because it contains hot gases which expand, become lighter than cooler air, and rise." },
+    { "q": "What causes the phenomenon of sea breeze?", "a": "Land heating faster than the sea during the day, causing cooler sea air to rush inland." },
+    { "q": "During which part of the day does a sea breeze occur?", "a": "Daytime." },
+    { "q": "What causes the phenomenon of land breeze?", "a": "Land cooling faster than the sea at night, causing cooler land air to rush towards the warmer sea." },
+    { "q": "During which part of the day does a land breeze occur?", "a": "Nighttime." },
+    { "q": "What is the process of heat transfer that does not require a material medium?", "a": "Radiation." },
+    { "q": "How does the incredible heat of the Sun cross the vacuum of space to reach Earth?", "a": "By radiation." },
+    { "q": "Do all objects radiate heat?", "a": "Yes, all hot objects radiate heat to their surroundings." },
+    { "q": "Why are light-coloured clothes preferred in the summer?", "a": "They reflect most of the radiant heat falling on them, keeping us cool." },
+    { "q": "Why are dark-coloured clothes preferred in the winter?", "a": "They absorb more radiant heat, helping to keep us warm." },
+    { "q": "What traditional room heater in the Himalayas utilizes conduction, convection, and radiation simultaneously?", "a": "The Bukhari." },
+    { "q": "What drives the evaporation of water in the water cycle?", "a": "Heat radiation from the Sun." },
+    { "q": "What is the process of plants releasing water vapor called?", "a": "Transpiration." },
+    { "q": "What happens when rising water vapor cools down high in the atmosphere?", "a": "It condenses to form clouds." },
+    { "q": "What is the downward falling of rain, snow, or hail called?", "a": "Precipitation." },
+    { "q": "What word describes surface water seeping vertically through soil and rocks?", "a": "Infiltration." },
+    { "q": "Through which material does water seep the fastest: clay, sand, or gravel?", "a": "Gravel (due to wider, interconnected spaces)." },
+    { "q": "Where does groundwater get stored beneath the Earth's surface?", "a": "In the pore spaces of underground sediments and rock openings." },
+    { "q": "What are the massive underground layers that store groundwater called?", "a": "Aquifers." },
+    { "q": "How is groundwater extracted for human use?", "a": "By digging wells or drilling bore wells." },
+    { "q": "What tall, cone-shaped ice structure is built in Ladakh to conserve winter water for spring farming?", "a": "An Ice Stupa." }
+  ]
+}

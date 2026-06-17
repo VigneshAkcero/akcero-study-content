@@ -1,0 +1,371 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Math",
+    "chapter_name": "Geometric Twins",
+    "chapter_number": 1
+  },
+  "notes": [
+    {
+      "section_title": "1.1 Geometric Twins — Congruent Figures",
+      "topics": [
+        {
+          "topic_name": "Introduction to Congruence",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To recreate an exact copy of a figure, we need to take measurements that fully determine its shape and size. For example, for a two-armed symbol with corner points A, B, C, knowing only the arm lengths AB and BC is not enough — several non-identical symbols can be drawn with the same arm lengths. However, knowing AB, BC, and the angle ∠ABC fixes the shape and size completely."
+            },
+            {
+              "type": "note",
+              "title": "Congruent Figures",
+              "text": "Figures that are exact copies of each other — having the same shape and size — are said to be congruent. Congruent figures can be superimposed exactly, one over the other. While checking for congruence, a figure may be rotated or flipped before superimposing."
+            },
+            {
+              "type": "list",
+              "title": "Key Points About Congruence",
+              "items": [
+                "Congruent figures have identical shape and size.",
+                "When superimposed, one figure fits exactly over the other.",
+                "A figure may be rotated or flipped before superimposing — the result is still congruent.",
+                "For a two-armed figure, the two arm lengths plus the included angle are needed to ensure congruence.",
+                "Two figures with the same arm lengths but different angles between them are NOT congruent."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Examples of congruence from daily life: For two circles to be congruent, their radii must be equal. For two rectangles to be congruent, both the length and breadth must match respectively."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.2 Congruence of Triangles",
+      "topics": [
+        {
+          "topic_name": "The SSS (Side Side Side) Condition",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To recreate a triangular frame, Meera and Rabia measure its three sides: 40 cm, 60 cm, and 80 cm. Meera correctly claims that the three side lengths alone are sufficient to construct a congruent triangle — no angle measurements are needed."
+            },
+            {
+              "type": "paragraph",
+              "text": "To understand why, consider constructing a triangle with sides 4 cm, 6 cm, and 8 cm. Draw a base of 6 cm. Draw arcs of radius 4 cm and 8 cm from the two endpoints. The arcs intersect at two points (above and below the base), giving triangles ΔABE and ΔABF. Using tracing or the symmetry of the construction (AB is a line of symmetry), it can be shown that ΔABE ≅ ΔABF. This means all triangles with the same three side lengths are congruent to each other."
+            },
+            {
+              "type": "note",
+              "title": "SSS Condition for Congruence",
+              "text": "If two triangles have the same three side lengths, then they are congruent. This is called the SSS (Side Side Side) condition for congruence."
+            }
+          ]
+        },
+        {
+          "topic_name": "Conventions for Expressing Congruence",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When two triangles are congruent, their vertices, sides, and angles correspond to each other. To superimpose ΔABC on ΔXYZ, we must overlap equal sides. Overlapping vertex A over X, B over Y, and C over Z ensures equal sides coincide. The congruence is then written as ΔABC ≅ ΔXYZ."
+            },
+            {
+              "type": "note",
+              "title": "Congruence Notation Convention",
+              "text": "When we write ΔABC ≅ ΔXYZ, it means: first vertex A corresponds to first vertex X, second vertex B corresponds to second vertex Y, and third vertex C corresponds to third vertex Z. The order of vertices in the names must reflect which vertices correspond to each other."
+            },
+            {
+              "type": "list",
+              "title": "Corresponding Parts in ΔABC ≅ ΔXYZ",
+              "items": [
+                "Corresponding Vertices: A ↔ X, B ↔ Y, C ↔ Z.",
+                "Corresponding Sides: AB ↔ XY, BC ↔ YZ, AC ↔ XZ.",
+                "Corresponding Angles: ∠A ↔ ∠X, ∠B ↔ ∠Y, ∠C ↔ ∠Z."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Important",
+              "text": "When two triangles are congruent, ALL corresponding sides and ALL corresponding angles are equal — not just the ones used to establish congruence. The conditions (SSS, SAS, etc.) are minimum requirements to guarantee congruence; what follows automatically is that all six pairs of corresponding parts are equal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example: In a rectangle ABCD, the diagonal BD divides it into triangles ΔABD and ΔCDB. Since AB = CD (opposite sides), AD = CB (opposite sides), and BD = BD (common side), the SSS condition is satisfied. Correct correspondence: ΔABD ≅ ΔCDB (A↔C, B↔D, D↔B)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Angles Alone Do Not Guarantee Congruence",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "If only the three angles of a triangle are known (e.g., 30°, 70°, 80°), many triangles of different sizes can be drawn — they have the same shape but not the same size. These are called similar triangles, not congruent triangles."
+            },
+            {
+              "type": "note",
+              "title": "AAA Does NOT Guarantee Congruence",
+              "text": "Knowing only the three angles (AAA) of a triangle is NOT sufficient to guarantee congruence. Two triangles with all three angles equal may have different side lengths and thus different sizes."
+            }
+          ]
+        },
+        {
+          "topic_name": "The SAS (Side Angle Side) Condition",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "If two sides and the angle between them (the included angle) of one triangle are equal to the corresponding two sides and included angle of another triangle, the two triangles are congruent."
+            },
+            {
+              "type": "note",
+              "title": "SAS Condition for Congruence",
+              "text": "If two sides and the included angle (the angle between those two sides) of one triangle are equal to the two sides and the included angle of another triangle, then the triangles are congruent. This is the SAS (Side Angle Side) condition."
+            },
+            {
+              "type": "note",
+              "title": "Included Angle",
+              "text": "The included angle is the angle formed between the two given sides. For example, if sides AB and AC are given, the included angle is ∠A (the angle at vertex A, between sides AB and AC)."
+            }
+          ]
+        },
+        {
+          "topic_name": "The SSA Condition — Does NOT Guarantee Congruence",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "If two sides and a non-included angle (an angle NOT between the two given sides) of one triangle equal the corresponding parts of another, congruence is NOT guaranteed."
+            },
+            {
+              "type": "paragraph",
+              "text": "Construction: Draw base PQ = 6 cm. Draw a line l from P making 30° with PQ. Draw an arc from Q of radius 4 cm. The arc cuts the line l at two different points R and S, giving two non-congruent triangles ΔPQR and ΔPQS. Both satisfy the given measurements (two sides and a non-included angle), but they are not congruent."
+            },
+            {
+              "type": "note",
+              "title": "SSA Does NOT Guarantee Congruence",
+              "text": "Two triangles with two sides and a non-included angle equal (SSA condition) need NOT be congruent. Two different triangles can satisfy the same SSA measurements."
+            }
+          ]
+        },
+        {
+          "topic_name": "The ASA (Angle Side Angle) Condition",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "If two angles and the side between them (the included side) of one triangle are equal to the corresponding two angles and included side of another triangle, the triangles are congruent."
+            },
+            {
+              "type": "note",
+              "title": "ASA Condition for Congruence",
+              "text": "If two angles and the included side of one triangle are equal to the two angles and the included side of another triangle, then the triangles are congruent. This is the ASA (Angle Side Angle) condition."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example: Point O is the midpoint of both AD and BC. Then AO = OD and BO = OC. Also, ∠AOB = ∠DOC (vertically opposite angles). By the SAS condition, ΔAOB ≅ ΔDOC. Therefore, the corresponding sides AB and DC are equal."
+            }
+          ]
+        },
+        {
+          "topic_name": "The AAS (Angle Angle Side) Condition",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "If two angles and a non-included side (a side NOT between the two given angles) of one triangle are equal to the corresponding parts of another triangle, the triangles are still congruent."
+            },
+            {
+              "type": "paragraph",
+              "text": "Reasoning: In ΔABC and ΔXYZ, if ∠A = ∠X = 35°, ∠C = ∠Z = 75°, and BC = YZ = 4 cm. Since the angle sum of a triangle is 180°, ∠B = 180° − 35° − 75° = 70° = ∠Y. Now the ASA condition holds: ∠B = ∠Y, BC = YZ, ∠C = ∠Z. So ΔABC ≅ ΔXYZ."
+            },
+            {
+              "type": "note",
+              "title": "AAS Condition for Congruence",
+              "text": "If two angles and a non-included side of one triangle are equal to the corresponding two angles and a non-included side of another triangle, the triangles are congruent. This is the AAS (Angle Angle Side) condition. It works because the third angle is automatically determined (angle sum = 180°), converting AAS into ASA."
+            }
+          ]
+        },
+        {
+          "topic_name": "The RHS (Right angle Hypotenuse Side) Condition",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In a right-angled triangle, the side opposite to the right angle is the longest side and is called the hypotenuse. When two right-angled triangles have equal hypotenuses and one equal leg (other side), they are congruent."
+            },
+            {
+              "type": "note",
+              "title": "Hypotenuse",
+              "text": "In a right-angled triangle, the side opposite to the right angle (90°) is called the hypotenuse. It is always the longest side of the right-angled triangle."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example: ΔABC and ΔXYZ are right-angled with ∠B = ∠Y = 90°, BC = YZ = 4 cm, and AC = XZ = 5 cm (hypotenuses equal). Construction: from base QR = 4 cm, draw a perpendicular from Q and an arc of radius 5 cm from R. The arc meets the perpendicular at exactly one point P above QR. The triangle below is a mirror image, also congruent to ΔPQR. Therefore, ΔABC ≅ ΔXYZ."
+            },
+            {
+              "type": "note",
+              "title": "RHS Condition for Congruence",
+              "text": "If the hypotenuse and one side (leg) of a right-angled triangle are equal to the hypotenuse and the corresponding leg of another right-angled triangle, then the two triangles are congruent. This is the RHS (Right angle Hypotenuse Side) condition. Note: RHS is a special case of SSA that does guarantee congruence."
+            }
+          ]
+        },
+        {
+          "topic_name": "Summary of Congruence Conditions",
+          "content": [
+            {
+              "type": "table",
+              "headers": ["Condition", "Full Name", "What is Equal", "Guarantees Congruence?"],
+              "rows": [
+                ["SSS", "Side Side Side", "All three sides of both triangles are equal.", "Yes"],
+                ["SAS", "Side Angle Side", "Two sides and the included angle are equal.", "Yes"],
+                ["ASA", "Angle Side Angle", "Two angles and the included side are equal.", "Yes"],
+                ["AAS", "Angle Angle Side", "Two angles and a non-included side are equal.", "Yes"],
+                ["RHS", "Right angle Hypotenuse Side", "Right angle, hypotenuse, and one leg are equal.", "Yes"],
+                ["SSA", "Side Side Angle", "Two sides and a non-included angle are equal.", "No — two different triangles are possible"],
+                ["AAA", "Angle Angle Angle", "All three angles are equal.", "No — triangles are similar but need not be congruent"]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Key Rule",
+              "text": "SSA and AAA alone are NOT sufficient to guarantee congruence of triangles. All five conditions — SSS, SAS, ASA, AAS, and RHS — are sufficient."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.3 Angles of Isosceles and Equilateral Triangles",
+      "topics": [
+        {
+          "topic_name": "Angles Opposite Equal Sides in an Isosceles Triangle",
+          "content": [
+            {
+              "type": "note",
+              "title": "Isosceles Triangle",
+              "text": "A triangle with at least two equal sides is called an isosceles triangle. The two equal sides are called the legs, and the third side is called the base."
+            },
+            {
+              "type": "paragraph",
+              "text": "In ΔABC with AB = AC and ∠A = 80°, construct altitude AD from A to BC (D is on BC, AD ⊥ BC). Now consider ΔADB and ΔADC: AB = AC (given), AD = AD (common side), ∠ADB = ∠ADC = 90° (altitude). By the RHS condition, ΔADB ≅ ΔADC. Therefore ∠B = ∠C as they are corresponding angles of congruent triangles."
+            },
+            {
+              "type": "note",
+              "title": "Isosceles Triangle Theorem",
+              "text": "In a triangle, angles opposite to equal sides are equal. That is, if AB = AC in ΔABC, then ∠B = ∠C (the base angles are equal)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Using this: if ∠A = 80°, then ∠B + ∠C = 180° − 80° = 100°. Since ∠B = ∠C, each base angle = 100° ÷ 2 = 50°."
+            }
+          ]
+        },
+        {
+          "topic_name": "Angles of an Equilateral Triangle",
+          "content": [
+            {
+              "type": "note",
+              "title": "Equilateral Triangle",
+              "text": "A triangle in which all three sides are equal is called an equilateral triangle."
+            },
+            {
+              "type": "paragraph",
+              "text": "In an equilateral triangle ΔABC, AB = BC = CA. Using the isosceles triangle theorem: Since AB = AC, we get ∠B = ∠C. Since AB = BC, we get ∠A = ∠C. Therefore ∠A = ∠B = ∠C. Since all three angles are equal and they must add up to 180°: 3 × angle = 180°, so each angle = 60°."
+            },
+            {
+              "type": "note",
+              "title": "Equilateral Triangle Theorem",
+              "text": "All angles in an equilateral triangle are equal, and each measures 60°. (Derived using congruence and the isosceles triangle property.)"
+            },
+            {
+              "type": "activity",
+              "id": "1.3",
+              "title": "Verify Angles of an Equilateral Triangle by Construction",
+              "procedure": [
+                "Construct an equilateral triangle with all sides equal (e.g., 5 cm each).",
+                "Measure each interior angle using a protractor.",
+                "Verify that each angle measures 60°."
+              ],
+              "observation": "Each angle in the equilateral triangle measures exactly 60°.",
+              "conclusion": "Using congruence and the isosceles triangle property, it is proven that all angles of an equilateral triangle are 60°. Construction verifies this result."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Congruent Figures",
+      "definition": "Figures that have the same shape and size. They can be superimposed exactly one over the other, possibly after rotation or flipping."
+    },
+    {
+      "term": "Superimpose",
+      "definition": "To place one figure exactly over another so that all parts coincide. Two congruent figures superimpose perfectly."
+    },
+    {
+      "term": "Corresponding Parts",
+      "definition": "In two congruent triangles, the vertices, sides, and angles that overlap when the triangles are superimposed. Corresponding sides and corresponding angles are always equal."
+    },
+    {
+      "term": "SSS Condition",
+      "definition": "Side Side Side — a condition for triangle congruence. If all three sides of one triangle are equal to the corresponding three sides of another triangle, the triangles are congruent."
+    },
+    {
+      "term": "SAS Condition",
+      "definition": "Side Angle Side — a condition for congruence. If two sides and the angle included between them (the included angle) in one triangle equal the corresponding two sides and included angle in another triangle, the triangles are congruent."
+    },
+    {
+      "term": "Included Angle",
+      "definition": "The angle formed between two specific sides of a triangle. For example, ∠B is the included angle between sides AB and BC."
+    },
+    {
+      "term": "Included Side",
+      "definition": "The side of a triangle that lies between two specific angles. For example, BC is the included side between ∠B and ∠C."
+    },
+    {
+      "term": "ASA Condition",
+      "definition": "Angle Side Angle — a condition for congruence. If two angles and the side between them (included side) in one triangle equal the corresponding parts in another, the triangles are congruent."
+    },
+    {
+      "term": "AAS Condition",
+      "definition": "Angle Angle Side — a condition for congruence. If two angles and a non-included side of one triangle equal the corresponding angles and side of another triangle, the triangles are congruent."
+    },
+    {
+      "term": "RHS Condition",
+      "definition": "Right angle Hypotenuse Side — a congruence condition for right-angled triangles. If the hypotenuse and one leg of a right-angled triangle equal the hypotenuse and corresponding leg of another, the triangles are congruent."
+    },
+    {
+      "term": "Hypotenuse",
+      "definition": "The side of a right-angled triangle that is opposite to the right angle (90°). It is always the longest side of a right-angled triangle."
+    },
+    {
+      "term": "SSA Condition",
+      "definition": "Side Side Angle — two sides and a non-included angle. This does NOT guarantee congruence; two non-congruent triangles can satisfy the same SSA measurements."
+    },
+    {
+      "term": "Isosceles Triangle",
+      "definition": "A triangle with at least two sides of equal length. The angles opposite the equal sides are also equal (base angles are equal)."
+    },
+    {
+      "term": "Equilateral Triangle",
+      "definition": "A triangle in which all three sides are equal. All three angles are also equal, each measuring 60°."
+    },
+    {
+      "term": "Altitude",
+      "definition": "A perpendicular line segment drawn from a vertex of a triangle to the opposite side (or its extension). Used in the proof of the isosceles triangle theorem."
+    },
+    {
+      "term": "Congruence Notation (≅)",
+      "definition": "The symbol ≅ is used to denote congruence. ΔABC ≅ ΔXYZ means the triangles are congruent with A↔X, B↔Y, C↔Z as corresponding vertices."
+    }
+  ],
+  "summary_points": [
+    "Figures with the same shape and size are congruent; they can be superimposed exactly (after rotation or flipping if needed).",
+    "To confirm congruence, sufficient measurements must be taken — for some figures (e.g., a two-armed shape), arm lengths alone are not enough; the included angle is also needed.",
+    "SSS Condition: If all three sides of one triangle equal the three sides of another, the triangles are congruent.",
+    "SAS Condition: If two sides and the included angle of one triangle equal the corresponding two sides and included angle of another, the triangles are congruent.",
+    "ASA Condition: If two angles and the included side of one triangle equal the corresponding two angles and included side of another, the triangles are congruent.",
+    "AAS Condition: If two angles and a non-included side of one triangle equal the corresponding parts of another, the triangles are congruent (third angle is fixed by angle sum = 180°).",
+    "RHS Condition: If the hypotenuse and one leg of a right-angled triangle equal the hypotenuse and corresponding leg of another right-angled triangle, they are congruent.",
+    "SSA does NOT guarantee congruence — two different triangles can satisfy the same two-sides and non-included-angle measurements.",
+    "AAA (three equal angles) does NOT guarantee congruence — triangles may be the same shape but different sizes (similar, not congruent).",
+    "In a triangle, angles opposite equal sides are equal; in an isosceles triangle, the two base angles are equal.",
+    "In an equilateral triangle, all three sides are equal and all three angles are equal, each measuring 60° (proved using congruence of the two halves separated by the altitude).",
+    "When writing congruence as ΔABC ≅ ΔXYZ, the order of vertices matters — it specifies which vertices, sides, and angles correspond to each other."
+  ]
+}

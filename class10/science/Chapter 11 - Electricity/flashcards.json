@@ -1,0 +1,41 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Electricity",
+    "chapter_number": 11
+  },
+  "flashcards": [
+    { "q": "Define electric current (I).", "a": "The amount of charge (Q) flowing through a particular area in unit time (t); I = Q/t." },
+    { "q": "What is the SI unit of electric charge?", "a": "Coulomb (C)." },
+    { "q": "What is the SI unit of electric current?", "a": "Ampere (A); 1 A = 1 C/s." },
+    { "q": "What constitutes the flow of charges in metallic wires?", "a": "Electrons." },
+    { "q": "What is the charge on a single electron?", "a": "1.6 x 10^-19 C (negative)." },
+    { "q": "Define an electric circuit.", "a": "A continuous and closed path of an electric current." },
+    { "q": "What is the function of a switch in a circuit?", "a": "To make or break the conducting link between the cell and the bulb." },
+    { "q": "Name the instrument used to measure electric current and its connection mode.", "a": "Ammeter; connected in series." },
+    { "q": "Define electric potential difference (V).", "a": "The work done (W) to move a unit charge (Q) from one point to another; V = W/Q." },
+    { "q": "What is the SI unit of potential difference?", "a": "Volt (V); 1 V = 1 J/C." },
+    { "q": "Name the instrument used to measure potential difference and its connection mode.", "a": "Voltmeter; connected in parallel." },
+    { "q": "State Ohm's Law.", "a": "V ∝ I (at constant temperature); V = IR." },
+    { "q": "Define 'Resistance' of a conductor.", "a": "The property of a conductor to resist the flow of charges through it." },
+    { "q": "What is the SI unit of resistance?", "a": "Ohm (Ω); 1 Ω = 1 V / 1 A." },
+    { "q": "What is 'Variable Resistance' or a 'Rheostat'?", "a": "A component used to regulate current without changing the voltage source." },
+    { "q": "On what factors does the resistance of a uniform metallic conductor depend?", "a": "Length (l), Area of cross-section (A), and nature of material." },
+    { "q": "Define 'Electrical Resistivity' (ρ).", "a": "A characteristic property of a material measuring its opposition to current flow; R = ρ(l/A)." },
+    { "q": "What is the SI unit of resistivity?", "a": "Ohm meter (Ωm)." },
+    { "q": "Which type of materials have very low resistivity (10^-8 to 10^-6 Ωm)?", "a": "Metals and alloys (good conductors)." },
+    { "q": "What is the equivalent resistance (Rs) of resistors joined in series?", "a": "Rs = R1 + R2 + R3 + ..." },
+    { "q": "What is the equivalent resistance (Rp) of resistors joined in parallel?", "a": "1/Rp = 1/R1 + 1/R2 + 1/R3 + ..." },
+    { "q": "In which combination (series or parallel) is the current same through all resistors?", "a": "Series combination." },
+    { "q": "In which combination (series or parallel) is the potential difference same across all resistors?", "a": "Parallel combination." },
+    { "q": "State Joule's Law of heating.", "a": "H = I^2 Rt; heat produced is proportional to square of current, resistance, and time." },
+    { "q": "What is the primary function of an electric fuse?", "a": "A safety device that breaks the circuit during overloading or short circuits by melting." },
+    { "q": "Define electric power (P).", "a": "The rate of consumption or dissipation of electric energy; P = VI." },
+    { "q": "What is the SI unit of electric power?", "a": "Watt (W); 1 W = 1 V x 1 A." },
+    { "q": "What is the commercial unit of electric energy?", "a": "kilowatt hour (kWh); commonly called a 'unit'." },
+    { "q": "How many Joules are in 1 kWh?", "a": "3.6 x 10^6 J." },
+    { "q": "Why is tungsten used for bulb filaments?", "a": "It has a very high melting point (3380 °C) and does not melt at light-emitting temperatures." },
+    { "q": "Why are copper and aluminum wires used for transmission lines?", "a": "They have very low resistivity, minimizing energy loss as heat." }
+  ]
+}

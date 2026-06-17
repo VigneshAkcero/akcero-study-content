@@ -1,0 +1,453 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Mathematics",
+    "chapter_name": "Lines and Angles",
+    "chapter_number": 6
+  },
+  "notes": [
+    {
+      "section_title": "6.1 Introduction and Basic Concepts",
+      "topics": [
+        {
+          "topic_name": "Introduction to Lines and Angles in Geometry",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In previous chapters, we studied that a minimum of two points are required to draw a line. We have also learned some axioms and used them to prove various statements. In this chapter, we will study the properties of angles formed when two lines intersect each other, and also the properties of angles formed when a line intersects two or more parallel lines at distinct points. We will use these properties to prove statements using deductive reasoning."
+            },
+            {
+              "type": "paragraph",
+              "text": "Lines and angles are fundamental concepts in geometry that appear in real-world applications. For instance, architects use knowledge of intersecting and parallel lines at different angles when drawing plans for buildings. When constructing models using bamboo sticks or other materials, some sticks are kept parallel while others are kept at angles. Understanding the properties of these configurations is essential for many practical applications."
+            },
+            {
+              "type": "note",
+              "title": "Applications of Lines and Angles",
+              "text": "Lines and angles are used in various scientific and practical contexts: (1) In science, ray diagrams are drawn to study properties of light, where knowledge of intersecting and parallel lines is crucial. (2) When studying forces, we use directed line segments to represent forces and angles between them. (3) In navigation, the angle between the horizontal and the line of sight is used to find the height of a tower or distance of a ship from a lighthouse. (4) In subsequent geometry chapters, these properties form the foundation for proving more complex theorems."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.2 Basic Terms and Definitions",
+      "topics": [
+        {
+          "topic_name": "Line Segments, Rays, and Lines",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A line segment is a part of a line with two endpoints. A ray is a part of a line with one endpoint and extends indefinitely in one direction. A line extends indefinitely in both directions. We denote a line segment AB by the symbol \\overline{AB}, a ray AB by \\overrightarrow{AB}, and a line AB by \\overleftrightarrow{AB}. However, in many contexts, we use the same notation for all three, with the meaning being clear from context."
+            },
+            {
+              "type": "note",
+              "title": "Points on Lines",
+              "text": "If three or more points lie on the same line, they are called collinear points. If points do not all lie on the same line, they are called non-collinear points. The concept of collinearity is important when discussing the properties of angles and intersecting/parallel lines."
+            },
+            {
+              "type": "example",
+              "title": "Examples of Collinear and Non-collinear Points",
+              "content": "Collinear points: If points A, B, and C all lie on the same line, they are collinear.\nNon-collinear points: If points P, Q, and R do not all lie on the same line, they are non-collinear."
+            }
+          ]
+        },
+        {
+          "topic_name": "Types of Angles",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "An angle is formed when two rays originate from the same endpoint. The rays making an angle are called the arms of the angle, and the endpoint is called the vertex of the angle. We use the notation ∠ABC to represent an angle, where B is the vertex and A and C are points on the two arms."
+            },
+            {
+              "type": "list",
+              "title": "Classification of Angles by Measure",
+              "items": [
+                "Acute angle: Measures between 0° and 90°",
+                "Right angle: Measures exactly 90°",
+                "Obtuse angle: Measures greater than 90° but less than 180°",
+                "Straight angle: Measures exactly 180°",
+                "Reflex angle: Measures greater than 180° but less than 360°"
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Complementary and Supplementary Angles",
+              "text": "Two angles whose measures add up to 90° are called complementary angles. Two angles whose measures add up to 180° are called supplementary angles. These relationships are important when analyzing angle properties at intersecting lines."
+            },
+            {
+              "type": "example",
+              "title": "Examples of Complementary and Supplementary Angles",
+              "content": "Complementary angles: If one angle measures 35°, its complement measures 90° - 35° = 55°.\nSupplementary angles: If one angle measures 70°, its supplement measures 180° - 70° = 110°."
+            }
+          ]
+        },
+        {
+          "topic_name": "Adjacent Angles and Linear Pair",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Two angles are adjacent if they have a common vertex, a common arm, and their non-common arms are on different sides of the common arm. For example, if we have rays BA, BD, and BC originating from point B, then angles ABD and DBC are adjacent if D lies between rays BA and BC."
+            },
+            {
+              "type": "note",
+              "title": "Property of Adjacent Angles",
+              "text": "When two angles are adjacent, the sum of the two angles equals the angle formed by the two non-common arms. If ∠ABD and ∠DBC are adjacent angles, then ∠ABC = ∠ABD + ∠DBC."
+            },
+            {
+              "type": "paragraph",
+              "text": "A linear pair of angles is formed when two adjacent angles have their non-common arms forming a straight line. In other words, if the non-common arms of two adjacent angles are opposite rays, they form a linear pair."
+            },
+            {
+              "type": "example",
+              "title": "Example of Adjacent Angles and Linear Pair",
+              "content": "Consider point B on a straight line formed by points A and C. If ray BD is drawn from B, then angles ABD and DBC are adjacent angles forming a linear pair. Their measures add up to 180°: ∠ABD + ∠DBC = 180°."
+            }
+          ]
+        },
+        {
+          "topic_name": "Vertically Opposite Angles",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When two lines intersect at a point, they form four angles at the point of intersection. The pairs of angles that are opposite each other (not adjacent) are called vertically opposite angles or vertical angles."
+            },
+            {
+              "type": "note",
+              "title": "Vertically Opposite Angles Property",
+              "text": "When two lines intersect, the pairs of vertically opposite angles are equal. If lines AB and CD intersect at point O, then ∠AOC = ∠BOD and ∠AOD = ∠BOC."
+            },
+            {
+              "type": "example",
+              "title": "Example of Vertically Opposite Angles",
+              "content": "When lines PQ and RS intersect at point O:\n- ∠POR and ∠QOS are vertically opposite and equal\n- ∠POS and ∠QOR are vertically opposite and equal\nIf ∠POR measures 60°, then ∠QOS also measures 60°."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.3 Intersecting Lines and Non-intersecting Lines",
+      "topics": [
+        {
+          "topic_name": "Intersecting Lines",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When two lines meet at a point, they are called intersecting lines. The point where they meet is called the point of intersection. Intersecting lines are non-parallel lines that cross each other at exactly one point."
+            },
+            {
+              "type": "note",
+              "title": "Properties of Intersecting Lines",
+              "text": "When two lines intersect at a point O: (1) Four angles are formed at the point of intersection. (2) The vertically opposite angles are equal. (3) Any two adjacent angles on a straight line are supplementary (sum to 180°). (4) The angles can be measured to determine the acute or obtuse angle formed between the lines."
+            }
+          ]
+        },
+        {
+          "topic_name": "Parallel Lines",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Two lines are parallel if they do not intersect when extended indefinitely. Parallel lines maintain a constant distance from each other. The distance between two parallel lines is defined as the length of a common perpendicular drawn from one line to the other. This distance is the same at all points along the parallel lines."
+            },
+            {
+              "type": "note",
+              "title": "Definition and Notation of Parallel Lines",
+              "text": "We denote that line l is parallel to line m using the notation l || m. Parallel lines can be identified by: (1) Observing that they never meet no matter how far extended. (2) Checking that the perpendicular distance between them is constant. (3) Using angle properties when a transversal crosses them."
+            },
+            {
+              "type": "example",
+              "title": "Examples of Parallel Lines",
+              "content": "In a rectangle, opposite sides are parallel. The top and bottom sides never meet even if extended, and the perpendicular distance between them is constant and equals the height of the rectangle.\nOn a road, lane markings are typically drawn parallel to each other to separate traffic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.4 Pairs of Angles",
+      "topics": [
+        {
+          "topic_name": "Linear Pair Axiom",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Linear Pair Axiom is one of the most fundamental axioms in geometry. It states that if a ray stands on a line, then the sum of the two adjacent angles formed is 180°."
+            },
+            {
+              "type": "note",
+              "title": "Axiom 6.1: If a Ray Stands on a Line",
+              "text": "If a ray stands on a line, then the sum of the two adjacent angles so formed is 180°. In other words, if ray OC stands on line AB, then ∠AOC + ∠BOC = 180°."
+            },
+            {
+              "type": "note",
+              "title": "Converse of Linear Pair Axiom (Axiom 6.2)",
+              "text": "If the sum of two adjacent angles is 180°, then the non-common arms of the angles form a line. This converse is also true and is equally important. Together, these two axioms form the Linear Pair Axiom."
+            },
+            {
+              "type": "example",
+              "title": "Application of Linear Pair Axiom",
+              "content": "If ray OD stands on line AB, and ∠AOD = 125°, then ∠DOB = 180° - 125° = 55°.\nConversely, if ∠AOD = 125° and ∠DOB = 55°, and we know ∠AOD + ∠DOB = 180°, we can conclude that points A, O, and B are collinear (form a straight line)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 6.1: Vertically Opposite Angles are Equal",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When two lines intersect each other, they form two pairs of vertically opposite angles. An important theorem states that these vertically opposite angles are always equal."
+            },
+            {
+              "type": "note",
+              "title": "Theorem Statement",
+              "text": "If two lines intersect each other, then the vertically opposite angles are equal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof: Let lines AB and CD intersect at point O. We need to prove that ∠AOC = ∠BOD and ∠AOD = ∠BOC.\n\nConsider ray OA standing on line CD. By the Linear Pair Axiom:\n∠AOC + ∠AOD = 180° ... (1)\n\nConsider ray OB standing on line CD. By the Linear Pair Axiom:\n∠AOD + ∠BOD = 180° ... (2)\n\nFrom equations (1) and (2):\n∠AOC + ∠AOD = ∠AOD + ∠BOD\n\nSubtracting ∠AOD from both sides:\n∠AOC = ∠BOD\n\nSimilarly, we can prove that ∠AOD = ∠BOC."
+            },
+            {
+              "type": "example",
+              "title": "Application of Vertically Opposite Angles",
+              "content": "If two lines intersect and one of the angles formed is 75°, then the vertically opposite angle is also 75°, and the other two angles are each 180° - 75° = 105°."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.5 Angles and Transversals",
+      "topics": [
+        {
+          "topic_name": "Transversal and Types of Angles",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A transversal is a line that intersects two or more lines at distinct points. When a transversal intersects two lines, it creates eight angles (four at each intersection point). These angles have special relationships depending on whether the two lines are parallel or intersecting."
+            },
+            {
+              "type": "list",
+              "title": "Types of Angle Pairs Formed by a Transversal",
+              "items": [
+                "Corresponding angles: Angles in the same relative position at each intersection",
+                "Alternate interior angles: Angles on opposite sides of the transversal, between the two lines",
+                "Alternate exterior angles: Angles on opposite sides of the transversal, outside the two lines",
+                "Co-interior angles (or consecutive interior angles): Angles on the same side of the transversal, between the two lines"
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Angle Properties with Parallel Lines",
+              "text": "When a transversal intersects two parallel lines: (1) Corresponding angles are equal. (2) Alternate interior angles are equal. (3) Alternate exterior angles are equal. (4) Co-interior angles are supplementary (sum to 180°)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Lines Parallel to the Same Line",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "An important property states that if two lines are both parallel to a third line, then they are parallel to each other. This is called the transitive property of parallel lines."
+            },
+            {
+              "type": "note",
+              "title": "Theorem 6.6: Lines Parallel to the Same Line are Parallel to Each Other",
+              "text": "If line m is parallel to line l, and line n is parallel to line l, then line m is parallel to line n. This can be expressed as: If m || l and n || l, then m || n. This property can be extended to more than two lines."
+            },
+            {
+              "type": "example",
+              "title": "Application of Parallel Lines Property",
+              "content": "If railway track A is parallel to railway track B, and railway track B is parallel to railway track C, then railway track A is parallel to railway track C. This helps ensure that parallel tracks maintain consistency across long distances."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.6 Key Concepts and Important Observations",
+      "topics": [
+        {
+          "topic_name": "Angle Bisectors",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "An angle bisector is a ray that divides an angle into two equal angles. If ray OD bisects angle ∠AOB, then ∠AOD = ∠DOB = (1/2)∠AOB."
+            },
+            {
+              "type": "example",
+              "title": "Example of Angle Bisector",
+              "content": "If ∠AOB = 100° and ray OD bisects this angle, then ∠AOD = ∠DOB = 50°."
+            },
+            {
+              "type": "note",
+              "title": "Properties of Angle Bisectors",
+              "text": "When two angle bisectors of angles on a straight line are drawn, they form a right angle (90°). This is because if ∠POS = x and ∠SOQ = 180° - x (since they form a linear pair), and OR bisects ∠POS while OT bisects ∠SOQ, then ∠ROT = 90°."
+            }
+          ]
+        },
+        {
+          "topic_name": "Important Angle Relationships",
+          "content": [
+            {
+              "type": "note",
+              "title": "Sum of Angles Around a Point",
+              "text": "The sum of all angles around a point is 360°. If multiple rays emanate from a point O, and we measure the angles between consecutive rays, their sum is always 360°."
+            },
+            {
+              "type": "example",
+              "title": "Example of Angles Around a Point",
+              "content": "If four rays emanate from point O dividing the space around O into four angles of 80°, 90°, 95°, and 95°, then the sum is 80° + 90° + 95° + 95° = 360°."
+            },
+            {
+              "type": "note",
+              "title": "Perpendicularity",
+              "text": "Two lines are perpendicular if they intersect at a right angle (90°). If line l is perpendicular to line m, we write l ⊥ m. At the point of intersection, all four angles formed are right angles."
+            }
+          ]
+        },
+        {
+          "topic_name": "Methods for Proving Angle Properties",
+          "content": [
+            {
+              "type": "note",
+              "title": "Deductive Reasoning in Geometry",
+              "text": "In proving angle properties, we use deductive reasoning: (1) Start with known axioms and theorems. (2) Apply logical steps to reach conclusions. (3) Each step must be justified using axioms, theorems, or previously proven statements. (4) The conclusion follows necessarily from the premises."
+            },
+            {
+              "type": "paragraph",
+              "text": "When solving geometry problems involving angles, it is important to identify all given information, clearly state what needs to be proven, and present a step-by-step logical argument. Drawing accurate diagrams helps visualize the problem, though the proof must be based on logical reasoning, not just the diagram."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Line",
+      "definition": "A straight path that extends indefinitely in both directions. It has no endpoints and is the shortest distance between any two points on it."
+    },
+    {
+      "term": "Line Segment",
+      "definition": "A part of a line with two fixed endpoints. The length of a line segment is the distance between its two endpoints."
+    },
+    {
+      "term": "Ray",
+      "definition": "A part of a line that has one endpoint and extends indefinitely in one direction."
+    },
+    {
+      "term": "Angle",
+      "definition": "A figure formed by two rays originating from the same point. The rays are called arms and the common point is called the vertex."
+    },
+    {
+      "term": "Vertex",
+      "definition": "The common endpoint of the two rays that form an angle."
+    },
+    {
+      "term": "Acute Angle",
+      "definition": "An angle whose measure is between 0° and 90°."
+    },
+    {
+      "term": "Right Angle",
+      "definition": "An angle whose measure is exactly 90°."
+    },
+    {
+      "term": "Obtuse Angle",
+      "definition": "An angle whose measure is greater than 90° but less than 180°."
+    },
+    {
+      "term": "Straight Angle",
+      "definition": "An angle whose measure is exactly 180°. The arms of a straight angle form a straight line."
+    },
+    {
+      "term": "Reflex Angle",
+      "definition": "An angle whose measure is greater than 180° but less than 360°."
+    },
+    {
+      "term": "Complementary Angles",
+      "definition": "Two angles whose measures add up to 90°."
+    },
+    {
+      "term": "Supplementary Angles",
+      "definition": "Two angles whose measures add up to 180°."
+    },
+    {
+      "term": "Adjacent Angles",
+      "definition": "Two angles that have a common vertex, a common arm, and their non-common arms on different sides of the common arm."
+    },
+    {
+      "term": "Linear Pair",
+      "definition": "A pair of adjacent angles whose non-common arms form a straight line. The angles in a linear pair are supplementary."
+    },
+    {
+      "term": "Vertically Opposite Angles",
+      "definition": "The pairs of non-adjacent angles formed when two lines intersect. Vertically opposite angles are equal."
+    },
+    {
+      "term": "Intersecting Lines",
+      "definition": "Two lines that meet at a point. The point where they meet is called the point of intersection."
+    },
+    {
+      "term": "Parallel Lines",
+      "definition": "Two lines that do not intersect and maintain a constant distance from each other. Denoted by the symbol ||."
+    },
+    {
+      "term": "Perpendicular Lines",
+      "definition": "Two lines that intersect at a right angle (90°). Denoted by the symbol ⊥."
+    },
+    {
+      "term": "Transversal",
+      "definition": "A line that intersects two or more lines at distinct points."
+    },
+    {
+      "term": "Corresponding Angles",
+      "definition": "Angles that occupy the same relative position when a transversal intersects two lines. When the lines are parallel, corresponding angles are equal."
+    },
+    {
+      "term": "Alternate Interior Angles",
+      "definition": "Angles on opposite sides of a transversal and between two lines. When the lines are parallel, alternate interior angles are equal."
+    },
+    {
+      "term": "Alternate Exterior Angles",
+      "definition": "Angles on opposite sides of a transversal and outside the two lines. When the lines are parallel, alternate exterior angles are equal."
+    },
+    {
+      "term": "Co-interior Angles",
+      "definition": "Angles on the same side of a transversal and between two lines (also called consecutive interior angles or same-side interior angles). When the lines are parallel, co-interior angles are supplementary."
+    },
+    {
+      "term": "Collinear Points",
+      "definition": "Three or more points that lie on the same line."
+    },
+    {
+      "term": "Non-collinear Points",
+      "definition": "Points that do not all lie on the same line."
+    },
+    {
+      "term": "Angle Bisector",
+      "definition": "A ray that divides an angle into two equal angles."
+    },
+    {
+      "term": "Distance Between Parallel Lines",
+      "definition": "The length of a perpendicular drawn from one parallel line to the other. This distance is constant at all points."
+    }
+  ],
+  "summary_points": [
+    "A line segment has two endpoints, a ray has one endpoint and extends in one direction, and a line extends indefinitely in both directions.",
+    "Angles are classified based on their measures: acute (0°-90°), right (90°), obtuse (90°-180°), straight (180°), and reflex (180°-360°).",
+    "Two angles are complementary if their sum is 90° and supplementary if their sum is 180°.",
+    "Adjacent angles share a common vertex and a common arm, with non-common arms on opposite sides of the common arm.",
+    "A linear pair consists of two adjacent angles whose non-common arms form a straight line, and their measures sum to 180°.",
+    "When two lines intersect, they form four angles; vertically opposite angles are equal, and adjacent angles are supplementary.",
+    "The Linear Pair Axiom states: if a ray stands on a line, the sum of the two adjacent angles formed is 180°.",
+    "Theorem 6.1: When two lines intersect, vertically opposite angles are equal.",
+    "Two lines are parallel if they do not intersect and maintain a constant distance from each other.",
+    "A transversal is a line that intersects two or more lines at distinct points, creating angle relationships that depend on whether the lines are parallel.",
+    "When a transversal intersects two parallel lines: corresponding angles are equal, alternate interior angles are equal, and co-interior angles are supplementary.",
+    "Theorem 6.6: If two lines are parallel to the same line, then they are parallel to each other (transitivity of parallel lines).",
+    "An angle bisector divides an angle into two equal angles.",
+    "The sum of all angles around a point is 360°.",
+    "Two lines are perpendicular if they intersect at a 90° angle.",
+    "Deductive reasoning is used to prove angle properties by starting with axioms and theorems and applying logical steps to reach conclusions."
+  ]
+}

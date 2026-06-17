@@ -1,0 +1,182 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Areas Related to Circles",
+    "chapter_number": 11
+  },
+  "flashcards": [
+    {
+      "q": "What is a sector of a circle?",
+      "a": "A sector is the region enclosed by two radii and the arc connecting them; it resembles a pie slice."
+    },
+    {
+      "q": "What is a segment of a circle?",
+      "a": "A segment is the region enclosed by a chord and the arc subtended by the chord."
+    },
+    {
+      "q": "Define the angle of a sector.",
+      "a": "The angle of a sector is the angle formed by the two radii at the centre of the circle."
+    },
+    {
+      "q": "What is a minor sector?",
+      "a": "The minor sector is the smaller of the two sectors created by two radii; it has a central angle less than 180°."
+    },
+    {
+      "q": "What is a major sector?",
+      "a": "The major sector is the larger of the two sectors created by two radii; it has a central angle greater than 180°."
+    },
+    {
+      "q": "What is a minor segment?",
+      "a": "The minor segment is the smaller of the two segments created by a chord; it lies on the side of the shorter arc."
+    },
+    {
+      "q": "What is a major segment?",
+      "a": "The major segment is the larger of the two segments created by a chord; it lies on the side of the longer arc."
+    },
+    {
+      "q": "State the formula for the area of a sector.",
+      "a": "Area of sector = (θ/360) × πr², where θ is the angle in degrees and r is the radius."
+    },
+    {
+      "q": "State the formula for the length of an arc.",
+      "a": "Arc length = (θ/360) × 2πr, where θ is the angle in degrees and r is the radius."
+    },
+    {
+      "q": "State the formula for the area of a segment.",
+      "a": "Area of segment = Area of sector − Area of triangle = (θ/360) × πr² − (1/2)r² sin θ."
+    },
+    {
+      "q": "How do you find the area of the triangle in a segment calculation?",
+      "a": "The triangle is isosceles with two sides equal to the radius and angle θ between them. Area = (1/2)r² sin θ."
+    },
+    {
+      "q": "What is the perimeter of a sector?",
+      "a": "Perimeter of sector = 2r + arc length = 2r + (θ/360) × 2πr."
+    },
+    {
+      "q": "How are the minor and major sectors related?",
+      "a": "The angles of minor and major sectors sum to 360°: θ_major = 360° − θ_minor."
+    },
+    {
+      "q": "How are the minor and major segments related in terms of area?",
+      "a": "Area of major segment = πr² − Area of minor segment."
+    },
+    {
+      "q": "What is the relationship between a quadrant and a sector?",
+      "a": "A quadrant is a special sector with a central angle of 90°; its area is (1/4)πr²."
+    },
+    {
+      "q": "What is the relationship between a semicircle and a sector?",
+      "a": "A semicircle is a special sector with a central angle of 180°; its area is (1/2)πr²."
+    },
+    {
+      "q": "What fundamental principle is used to derive the sector area formula?",
+      "a": "The unitary method is used: since the whole circle (360°) has area πr², a sector of angle θ has area (θ/360) × πr²."
+    },
+    {
+      "q": "What is the fundamental relationship between sector angle, area, and circumference?",
+      "a": "(Sector angle/360°) = (Sector area/Circle area) = (Arc length/Circumference)."
+    },
+    {
+      "q": "How do you determine which trigonometric function to use for the triangle area in a segment?",
+      "a": "Use sin θ for the area formula (1/2)r² sin θ, where θ is the central angle between the two radii."
+    },
+    {
+      "q": "Can a segment have an area greater than the area of the sector?",
+      "a": "No. The segment area is always less than the sector area because we subtract the triangle area from the sector."
+    },
+    {
+      "q": "What happens to the segment area as the central angle approaches 0°?",
+      "a": "The segment area approaches 0, because both the sector area and the triangle area approach 0."
+    },
+    {
+      "q": "What happens to the segment area as the central angle approaches 180°?",
+      "a": "The segment area approaches the semicircle area (πr²/2), because the sector approaches a semicircle and the triangle area approaches 0."
+    },
+    {
+      "q": "How do you find the area between two concentric circles bounded by two radii?",
+      "a": "Find the area of the sector from the larger circle and subtract the area of the sector from the smaller circle."
+    },
+    {
+      "q": "In a practical problem, what is the first step before applying formulas?",
+      "a": "Draw a clear diagram labeling all given information, radii, angles, chords, and unknowns."
+    },
+    {
+      "q": "How do you approach a problem involving multiple sectors or segments?",
+      "a": "Break the figure into simpler component shapes, apply formulas to each, and combine results appropriately (adding or subtracting)."
+    },
+    {
+      "q": "What is the area of a sector with angle 60° and radius r?",
+      "a": "Area = (60/360) × πr² = (1/6)πr² = πr²/6."
+    },
+    {
+      "q": "What is the area of a sector with angle 90° and radius r?",
+      "a": "Area = (90/360) × πr² = (1/4)πr² = πr²/4."
+    },
+    {
+      "q": "What is the area of a sector with angle 120° and radius r?",
+      "a": "Area = (120/360) × πr² = (1/3)πr² = πr²/3."
+    },
+    {
+      "q": "What is the area of a sector with angle 180° and radius r?",
+      "a": "Area = (180/360) × πr² = (1/2)πr² = πr²/2 (this is a semicircle)."
+    },
+    {
+      "q": "If the area of a sector is 20 cm² and the radius is 5 cm, what is the central angle?",
+      "a": "Using Area = (θ/360) × πr²: 20 = (θ/360) × π × 25 ⟹ θ = (20 × 360)/(25π) = 7200/(25π) degrees."
+    },
+    {
+      "q": "If the arc length is 10 cm and the radius is 5 cm, what is the central angle?",
+      "a": "Using Arc length = (θ/360) × 2πr: 10 = (θ/360) × 2π × 5 ⟹ θ = (10 × 360)/(10π) = 360/π degrees ≈ 114.6°."
+    },
+    {
+      "q": "How do you find the chord length given the radius and central angle?",
+      "a": "Using the relationship: Chord length = 2r sin(θ/2), where θ is the central angle."
+    },
+    {
+      "q": "What is the relationship between the chord and the segment?",
+      "a": "The chord is the straight line boundary of the segment, while the arc is the curved boundary."
+    },
+    {
+      "q": "In a segment, if the central angle is 90°, what is the relationship between the arc and the chord?",
+      "a": "Arc length = (π/2)r and chord length = r√2; the arc is longer than the chord by a factor of π/(2√2)."
+    },
+    {
+      "q": "How many degrees are in a quarter circle?",
+      "a": "A quarter circle (quadrant) has a central angle of 90°."
+    },
+    {
+      "q": "What is the total angle around the centre of a circle?",
+      "a": "The total angle around the centre is 360°."
+    },
+    {
+      "q": "Can the area of a segment be negative?",
+      "a": "No, the area of a segment is always non-negative by definition."
+    },
+    {
+      "q": "What does it mean when the segment area equals zero?",
+      "a": "It means the central angle is 0°, indicating the chord and arc coincide at a single point (degenerate case)."
+    },
+    {
+      "q": "How do you verify your sector area calculation?",
+      "a": "Check that the area is less than the total circle area and that the ratio of sector area to circle area equals the ratio of the central angle to 360°."
+    },
+    {
+      "q": "What trigonometric value do you need to know to calculate the triangle area in a segment for angle 60°?",
+      "a": "You need sin 60° = √3/2."
+    },
+    {
+      "q": "What trigonometric value do you need to know to calculate the triangle area in a segment for angle 45°?",
+      "a": "You need sin 45° = 1/√2 = √2/2."
+    },
+    {
+      "q": "What trigonometric value do you need to know to calculate the triangle area in a segment for angle 90°?",
+      "a": "You need sin 90° = 1."
+    },
+    {
+      "q": "What trigonometric value do you need to know to calculate the triangle area in a segment for angle 120°?",
+      "a": "You need sin 120° = √3/2 (same as sin 60° due to supplementary angle property)."
+    }
+  ]
+}

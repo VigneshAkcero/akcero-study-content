@@ -1,0 +1,352 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Pair of Linear Equations in Two Variables",
+    "chapter_number": 3
+  },
+  "notes": [
+    {
+      "section_title": "3.1 Introduction",
+      "topics": [
+        {
+          "topic_name": "Real-Life Situations and Linear Equations",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Many real-life situations can be represented using pairs of linear equations in two variables. For instance, problems involving the cost of items, ages of people, distances covered, and other quantities can be translated into mathematical equations to find solutions systematically."
+            },
+            {
+              "type": "example",
+              "title": "Example: Fair Problem",
+              "description": "Akhila visits a fair where rides on the Giant Wheel cost ₹3 each and Hoopla games cost ₹4 each. If the number of Hoopla games she played is half the number of Giant Wheel rides, and she spent ₹20 in total, we can set up equations: Let x = number of rides and y = number of games. Then: y = (1/2)x and 3x + 4y = 20. Solving these equations gives us the number of rides and games."
+            },
+            {
+              "type": "paragraph",
+              "text": "A pair of linear equations in two variables is of the form: a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0, where a₁, b₁, c₁, a₂, b₂, c₂ are real constants and a₁² + b₁² ≠ 0, a₂² + b₂² ≠ 0."
+            },
+            {
+              "type": "note",
+              "title": "Why Pairs of Equations?",
+              "text": "A single linear equation in two variables has infinitely many solutions. To find a unique solution (or determine if solutions exist), we need at least two equations that the variables must satisfy simultaneously."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.2 Graphical Method of Solution",
+      "topics": [
+        {
+          "topic_name": "Geometric Representation of Linear Equations",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Each linear equation in two variables represents a straight line on a coordinate plane. When we have two linear equations, we have two lines. The relationship between these two lines determines whether the system has a solution and what type of solution it has."
+            },
+            {
+              "type": "note",
+              "title": "Three Possible Cases",
+              "text": "When two lines are drawn on the same plane, they can: (1) intersect at exactly one point, (2) be parallel (never meet), or (3) be coincident (the same line)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Consistency and Types of Solutions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A pair of linear equations is called consistent if it has at least one solution. It is called inconsistent if it has no solution. A consistent pair can have either a unique solution or infinitely many solutions."
+            },
+            {
+              "type": "list",
+              "title": "Solution Types Based on Geometric Representation",
+              "items": [
+                "Intersecting Lines: The pair has a unique solution (one point of intersection). The pair is consistent.",
+                "Coincident Lines: The lines overlap completely (same line). The pair has infinitely many solutions. The pair is dependent and consistent.",
+                "Parallel Lines: The lines never meet. The pair has no solution. The pair is inconsistent."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Conditions for Consistency Using Ratios",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "For a pair of linear equations a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0, we can determine the nature of the lines by comparing the ratios of their coefficients."
+            },
+            {
+              "type": "table",
+              "headers": ["Condition", "Nature of Lines", "Type of Solution", "Consistency"],
+              "rows": [
+                ["a₁/a₂ ≠ b₁/b₂", "Intersecting", "Unique solution", "Consistent"],
+                ["a₁/a₂ = b₁/b₂ = c₁/c₂", "Coincident", "Infinitely many solutions", "Dependent (Consistent)"],
+                ["a₁/a₂ = b₁/b₂ ≠ c₁/c₂", "Parallel", "No solution", "Inconsistent"]
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Steps for Solving Graphically",
+          "content": [
+            {
+              "type": "list",
+              "title": "Graphical Method Steps",
+              "items": [
+                "Step 1: Rewrite both equations in standard form if necessary.",
+                "Step 2: Find at least two solutions for each equation by choosing values of x and calculating corresponding y values (or vice versa).",
+                "Step 3: Plot these points on graph paper and draw the lines passing through them.",
+                "Step 4: Observe the relationship between the two lines.",
+                "Step 5: If the lines intersect, the coordinates of the intersection point are the solution. If the lines are parallel or coincident, determine accordingly."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example 1: Solving x + 3y = 6 and 2x - 3y = 12 Graphically",
+              "description": "For equation 1 (x + 3y = 6): When x = 0, y = 2 → point (0, 2). When x = 6, y = 0 → point (6, 0). For equation 2 (2x - 3y = 12): When x = 0, y = -4 → point (0, -4). When x = 3, y = -2 → point (3, -2). Plotting these points and drawing the lines, they intersect at point (6, 0). Therefore, the solution is x = 6 and y = 0. The pair is consistent with a unique solution."
+            }
+          ]
+        },
+        {
+          "topic_name": "Graphical Analysis of Different Cases",
+          "content": [
+            {
+              "type": "example",
+              "title": "Example 2: Coincident Lines",
+              "description": "Consider 2x + 3y - 9 = 0 and 4x + 6y - 18 = 0. Simplifying the second equation by dividing by 2 gives 2x + 3y - 9 = 0, which is identical to the first equation. The ratio check: a₁/a₂ = 2/4 = 1/2, b₁/b₂ = 3/6 = 1/2, c₁/c₂ = -9/(-18) = 1/2. Since all ratios are equal, the lines are coincident. Therefore, the pair has infinitely many solutions (every point on the line is a solution)."
+            },
+            {
+              "type": "example",
+              "title": "Example 3: Parallel Lines",
+              "description": "Consider x + 2y - 4 = 0 and 2x + 4y - 12 = 0. The ratio check: a₁/a₂ = 1/2, b₁/b₂ = 2/4 = 1/2, c₁/c₂ = -4/(-12) = 1/3. Since a₁/a₂ = b₁/b₂ ≠ c₁/c₂, the lines are parallel. Therefore, the pair has no solution (inconsistent)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.3 Algebraic Methods of Solving",
+      "topics": [
+        {
+          "topic_name": "3.3.1 Substitution Method",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The substitution method involves expressing one variable in terms of the other using one equation, and then substituting this expression into the other equation to get an equation in a single variable. This single-variable equation can then be solved to find the value of that variable, which is subsequently used to find the value of the other variable."
+            },
+            {
+              "type": "list",
+              "title": "Steps of Substitution Method",
+              "items": [
+                "Step 1: Choose either equation and express one variable (say y) in terms of the other variable (x). Select the equation and variable that makes the expression simplest.",
+                "Step 2: Substitute this expression for y into the other equation. This will give an equation in one variable (x only).",
+                "Step 3: Solve this single-variable equation to find the value of x.",
+                "Step 4: Substitute the value of x back into the expression obtained in Step 1 to find the value of y.",
+                "Step 5: Verify the solution by substituting both values into both original equations."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example 4: Solving 7x - 15y = 2 and x + 2y = 3",
+              "description": "From equation (2): x + 2y = 3, we get x = 3 - 2y. Substituting into equation (1): 7(3 - 2y) - 15y = 2, which simplifies to 21 - 14y - 15y = 2, giving -29y = -19, so y = 19/29. Substituting back: x = 3 - 2(19/29) = 87/29 - 38/29 = 49/29. The solution is x = 49/29 and y = 19/29. Verification: 7(49/29) - 15(19/29) = 343/29 - 285/29 = 58/29 = 2 ✓ and 49/29 + 2(19/29) = 49/29 + 38/29 = 87/29 = 3 ✓"
+            },
+            {
+              "type": "example",
+              "title": "Example 5: Word Problem - Age Problem",
+              "description": "Aftab tells his daughter: 'Seven years ago, I was seven times as old as you were then. Also, three years from now, I shall be three times as old as you will be.' Let s = Aftab's current age and t = daughter's current age. Equation 1: s - 7 = 7(t - 7), which simplifies to s - 7t + 42 = 0 or s = 7t - 42. Equation 2: s + 3 = 3(t + 3), which simplifies to s - 3t = 6 or s = 3t + 6. From equations, 7t - 42 = 3t + 6, giving 4t = 48, so t = 12. Then s = 3(12) + 6 = 42. Aftab is 42 years old and his daughter is 12 years old."
+            },
+            {
+              "type": "example",
+              "title": "Example 6: Infinitely Many Solutions Case",
+              "description": "Consider 2x + 3y = 9 and 4x + 6y = 18. From equation 1: x = (9 - 3y)/2. Substituting into equation 2: 4[(9 - 3y)/2] + 6y = 18, which simplifies to 2(9 - 3y) + 6y = 18, giving 18 - 6y + 6y = 18 or 18 = 18. This is always true, regardless of y's value. This indicates that both equations represent the same line. Therefore, the system has infinitely many solutions (every point on the line is a solution)."
+            },
+            {
+              "type": "example",
+              "title": "Example 7: No Solution Case",
+              "description": "Consider x + 2y - 4 = 0 and 2x + 4y - 12 = 0. From equation 1: x = 4 - 2y. Substituting into equation 2: 2(4 - 2y) + 4y - 12 = 0, which simplifies to 8 - 4y + 4y - 12 = 0, giving -4 = 0. This is a contradiction (false statement). Therefore, the system has no solution (the equations represent parallel lines)."
+            },
+            {
+              "type": "note",
+              "title": "Special Cases in Substitution Method",
+              "text": "If after substitution and simplification you get a true statement with no variable (like 18 = 18), the equations have infinitely many solutions. If you get a false statement with no variable (like -4 = 0), the equations have no solution."
+            }
+          ]
+        },
+        {
+          "topic_name": "3.3.2 Elimination Method",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The elimination method involves manipulating the equations so that one variable gets eliminated when the equations are added or subtracted. This reduces the system to a single equation in one variable, which can then be solved."
+            },
+            {
+              "type": "list",
+              "title": "Steps of Elimination Method",
+              "items": [
+                "Step 1: Multiply one or both equations by suitable non-zero constants so that the coefficients of one variable (say x or y) become numerically equal.",
+                "Step 2: Add or subtract the equations to eliminate that variable. If subtracting, subtract one from the other; if adding, add them together. Choose the operation that results in the elimination.",
+                "Step 3: The result is a linear equation in one variable. Solve this equation to find the value of that variable.",
+                "Step 4: Substitute this value into either of the original equations to find the value of the other variable.",
+                "Step 5: Verify the solution by substituting both values into both original equations."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example 8: Income and Expenditure Problem",
+              "description": "The ratio of incomes of two persons is 9:7 and the ratio of their expenditures is 4:3. Each saves ₹2000 monthly. Let incomes be 9x and 7x, expenditures be 4y and 3y. Equations: 9x - 4y = 2000 and 7x - 3y = 2000. Multiply equation 1 by 3 and equation 2 by 4: 27x - 12y = 6000 and 28x - 12y = 8000. Subtract equation 3 from equation 4: (28x - 27x) = 8000 - 6000, so x = 2000. Substitute into equation 1: 9(2000) - 4y = 2000, giving 18000 - 4y = 2000, so 4y = 16000, thus y = 4000. Monthly incomes: 9(2000) = ₹18,000 and 7(2000) = ₹14,000."
+            },
+            {
+              "type": "example",
+              "title": "Example 9: No Solution Case with Elimination",
+              "description": "Consider 2x + 3y = 8 and 4x + 6y = 7. Multiply equation 1 by 2: 4x + 6y = 16. Now subtract from equation 2: (4x + 6y) - (4x + 6y) = 7 - 16, giving 0 = -9. This is false, indicating no solution exists (inconsistent system)."
+            },
+            {
+              "type": "example",
+              "title": "Example 10: Two-Digit Number Problem",
+              "description": "The sum of a two-digit number and its reverse is 66. The digits differ by 2. Let x = tens digit, y = units digit. Number = 10x + y. Equation 1: (10x + y) + (10y + x) = 66, simplifying to 11x + 11y = 66, so x + y = 6. Equation 2: x - y = 2 (assuming tens digit is greater). Adding equations: 2x = 8, so x = 4. From equation 1: 4 + y = 6, so y = 2. The number is 42. If y - x = 2, then adding gives 2y = 8, so y = 4 and x = 2, giving number 24. Both 42 and 24 satisfy the conditions."
+            },
+            {
+              "type": "note",
+              "title": "Choosing Which Variable to Eliminate",
+              "text": "You can choose to eliminate either x or y. Select the variable whose coefficients become equal after the least multiplication, making the calculation simpler and reducing the chance of arithmetic errors."
+            }
+          ]
+        },
+        {
+          "topic_name": "Comparison of Substitution and Elimination Methods",
+          "content": [
+            {
+              "type": "table",
+              "headers": ["Aspect", "Substitution Method", "Elimination Method"],
+              "rows": [
+                ["Best When", "One equation easily gives one variable in terms of another", "Coefficients of one variable are already numerically equal or become equal with simple multiplication"],
+                ["Number of Steps", "Usually 4-5 steps", "Usually 4-5 steps"],
+                ["Arithmetic", "May involve fractions early", "Often works with whole numbers"],
+                ["Difficulty with Coefficients", "Can lead to complex fractions", "Generally cleaner with integers"],
+                ["Verification", "Same for both", "Same for both"]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.4 Special Situations and Applications",
+      "topics": [
+        {
+          "topic_name": "Word Problems Reducible to Pair of Linear Equations",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Many real-world situations that initially appear to involve non-linear relationships can be transformed into pairs of linear equations by introducing new variables. This technique greatly expands the applicability of linear equation methods."
+            },
+            {
+              "type": "list",
+              "title": "Common Problem Types",
+              "items": [
+                "Cost and Quantity Problems: Finding the price of items given total costs for different quantities.",
+                "Age Problems: Determining current ages using conditions about ages at different times.",
+                "Digit Problems: Finding two-digit or multi-digit numbers using conditions about digits.",
+                "Work Problems: Finding rates of work when combined and individual efforts are known.",
+                "Distance-Speed-Time Problems: Finding speeds or distances using multiple journey conditions."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Steps for Solving Word Problems",
+              "text": "1) Read the problem carefully and identify what we need to find. 2) Choose two variables to represent the unknown quantities. 3) Translate the given conditions into algebraic equations. 4) Solve the pair of equations using an appropriate method. 5) Interpret the solution in the context of the problem. 6) Verify that the solution satisfies all the original conditions."
+            }
+          ]
+        },
+        {
+          "topic_name": "Graphical Interpretation of Solutions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The graphical method provides geometric insight into solutions. Even when solving algebraically, visualizing the problem graphically can help verify the nature of the solution and understand the relationship between equations."
+            },
+            {
+              "type": "note",
+              "title": "Geometric Insights",
+              "text": "Intersecting lines represent a unique solution (the point of intersection). Parallel lines represent no solution (equations have no common point). Coincident lines represent infinitely many solutions (every point on the line is a solution). The slope and y-intercept of the lines directly relate to the coefficients of the equations."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Linear Equation in Two Variables",
+      "definition": "An equation of the form ax + by + c = 0, where a, b, c are real constants and a, b are not both zero. It represents a straight line on a coordinate plane."
+    },
+    {
+      "term": "Pair of Linear Equations",
+      "definition": "Two linear equations in the same two variables that must be satisfied simultaneously to find the solution."
+    },
+    {
+      "term": "Solution of a Pair of Equations",
+      "definition": "A pair of values (x, y) that satisfies both equations simultaneously. It represents a point that lies on both lines."
+    },
+    {
+      "term": "Consistent Pair",
+      "definition": "A pair of linear equations that has at least one solution (unique or infinitely many)."
+    },
+    {
+      "term": "Inconsistent Pair",
+      "definition": "A pair of linear equations that has no solution. The lines represented by the equations are parallel."
+    },
+    {
+      "term": "Dependent Pair",
+      "definition": "A pair of linear equations that has infinitely many solutions. The two equations represent the same line (coincident lines)."
+    },
+    {
+      "term": "Unique Solution",
+      "definition": "A single ordered pair (x, y) that satisfies both equations. Geometrically, the two lines intersect at exactly one point."
+    },
+    {
+      "term": "Infinitely Many Solutions",
+      "definition": "All points on a line serve as solutions. This occurs when both equations represent the same line."
+    },
+    {
+      "term": "Intersecting Lines",
+      "definition": "Two lines that meet at exactly one point. The corresponding pair of equations has a unique solution."
+    },
+    {
+      "term": "Parallel Lines",
+      "definition": "Two lines that never meet. The corresponding pair of equations has no solution."
+    },
+    {
+      "term": "Coincident Lines",
+      "definition": "Two lines that completely overlap (the same line). The corresponding pair of equations has infinitely many solutions."
+    },
+    {
+      "term": "Substitution Method",
+      "definition": "An algebraic method of solving a pair of equations by expressing one variable in terms of the other, substituting into the second equation, and solving for one variable."
+    },
+    {
+      "term": "Elimination Method",
+      "definition": "An algebraic method of solving a pair of equations by multiplying the equations by suitable constants and adding or subtracting them to eliminate one variable."
+    },
+    {
+      "term": "Graphical Method",
+      "definition": "A method of solving a pair of equations by drawing the graphs of both equations and finding their point of intersection (if it exists)."
+    },
+    {
+      "term": "Coefficient Ratio Test",
+      "definition": "A test using the ratios a₁/a₂, b₁/b₂, and c₁/c₂ to determine whether a pair of equations has a unique solution, no solution, or infinitely many solutions."
+    }
+  ],
+  "summary_points": [
+    "A pair of linear equations in two variables can be solved using three main methods: graphical method, substitution method, and elimination method.",
+    "The graphical method involves drawing the lines represented by the equations and finding their intersection point(s), which represents the solution(s).",
+    "For a pair of equations a₁x + b₁y + c₁ = 0 and a₂x + b₂y + c₂ = 0: if a₁/a₂ ≠ b₁/b₂, the lines intersect (unique solution); if a₁/a₂ = b₁/b₂ = c₁/c₂, the lines coincide (infinitely many solutions); if a₁/a₂ = b₁/b₂ ≠ c₁/c₂, the lines are parallel (no solution).",
+    "The substitution method involves expressing one variable in terms of the other and substituting into the second equation to reduce it to a single-variable equation.",
+    "The elimination method involves multiplying equations by suitable constants and adding or subtracting them to eliminate one variable and obtain a single-variable equation.",
+    "Both algebraic methods (substitution and elimination) yield the same solution and can handle special cases: infinitely many solutions (indicated by true statements with no variable) and no solution (indicated by false statements with no variable).",
+    "A pair of equations is consistent if it has at least one solution; it is inconsistent if it has no solution; it is dependent if it has infinitely many solutions.",
+    "Many real-world problems involving two unknown quantities can be reduced to a pair of linear equations by choosing appropriate variables and translating the given conditions into algebraic equations.",
+    "The choice of method (substitution, elimination, or graphical) depends on the form of the equations and the desired level of verification, but all methods yield the same solution for consistent systems."
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Science",
+    "chapter_name": "Changes Around Us: Physical and Chemical",
+    "chapter_number": 5
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is a physical change?",
+      "answer": "A physical change is one in which only the physical properties (shape, size, state) of a substance change and no new substance is formed.",
+      "solution": "In a physical change, the substance involved remains chemically the same — only its appearance, shape, size, or state may change. For example, when ice melts into water, no new substance is formed; the substance is still water (H₂O). Similarly, folding paper changes only its shape, not its chemical composition."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What is a chemical change?",
+      "answer": "A chemical change is one in which one or more new substances are formed through a chemical reaction.",
+      "solution": "In a chemical change, the original substances are transformed into entirely new substances with different properties. For example, when iron rusts, a new substance — iron oxide (rust) — is formed. When vinegar reacts with baking soda, carbon dioxide gas (a new substance) is produced. Chemical changes can be represented by chemical equations."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What is combustion?",
+      "answer": "Combustion is a chemical reaction in which a substance reacts with oxygen and produces heat and/or light.",
+      "solution": "Combustion is a specific type of chemical change. The substance that burns is called a combustible substance or fuel. During combustion, the fuel reacts with oxygen from the air, releasing energy in the form of heat and/or light. For example, burning of wood, paper, and kerosene are all examples of combustion."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What is ignition temperature?",
+      "answer": "The minimum temperature at which a substance catches fire and starts burning is called its ignition temperature.",
+      "solution": "Every combustible substance has a specific minimum temperature below which it will not catch fire, even in the presence of oxygen. This threshold temperature is called the ignition temperature. For example, paper has a lower ignition temperature than coal. A lighted matchstick can ignite paper because the matchstick's temperature exceeds the ignition temperature of paper."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Name the three requirements for combustion (the Fire Triangle).",
+      "answer": "A combustible substance (fuel), oxygen, and heat sufficient to reach the ignition temperature.",
+      "solution": "For combustion to start and continue, all three of the following must be present at the same time: (1) A combustible substance — such as wood, paper, wax, or kerosene. (2) Oxygen — the component of air that supports burning. (3) Heat — enough to raise the temperature of the fuel to its ignition temperature. Removing any one of these three stops combustion. This is the principle behind fire extinguishing."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What is rusting and why is it considered a chemical change?",
+      "answer": "Rusting is the formation of a new brown substance called rust (iron oxide) on iron when it is exposed to oxygen and moisture. It is a chemical change because a new substance is formed.",
+      "solution": "When iron is exposed to both oxygen and water (moisture) over time, it reacts chemically to form iron oxide — a new brown/reddish substance commonly called rust. Since a new substance with different properties from iron is produced, rusting is classified as a chemical change. Rust is brittle and weak, unlike the original iron."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What is the standard test for carbon dioxide gas?",
+      "answer": "Passing the gas through lime water — if CO₂ is present, the lime water turns milky.",
+      "solution": "The standard laboratory test for carbon dioxide is the lime water test. Lime water is a solution of calcium hydroxide in water. When carbon dioxide is passed through it, the following chemical reaction occurs:\nCalcium hydroxide + Carbon dioxide → Calcium carbonate + Water\nCalcium carbonate is a white insoluble substance that makes the lime water appear milky or cloudy. This test was demonstrated in Activities 5.3 and 5.4 in the chapter."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Give two examples each of reversible and irreversible changes.",
+      "answer": "Reversible: melting of ice, boiling of water. Irreversible: burning of wood, making popcorn from corn.",
+      "solution": "Reversible changes are those from which the original substance can be recovered. Examples: (1) Melting of ice — ice can be refrozen back into ice. (2) Boiling of water — water vapour can be condensed back into liquid water. Irreversible changes are those from which the original substance cannot be recovered. Examples: (1) Burning of wood — ash and gases cannot become wood again. (2) Making popcorn — popcorn cannot revert to corn."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "What is weathering?",
+      "answer": "Weathering is the physical and chemical breakdown of rocks by natural factors such as temperature changes, water, growing roots, and chemical reactions, eventually leading to the formation of soil.",
+      "solution": "Rocks are broken down over long periods of time by natural agents. Physical weathering involves: temperature changes (expansion and contraction), growing roots of trees, and freezing of water in cracks. Chemical weathering involves: water and dissolved chemicals reacting with minerals in rocks (e.g., iron in basalt oxidising to form red iron oxide). Together, these processes are called weathering, and they lead to the formation of soil over thousands of years."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "What is erosion?",
+      "answer": "Erosion is the process by which rock particles, soil, and sediments are broken down and transported from one location to another by natural agents like flowing water and wind.",
+      "solution": "Erosion is primarily a physical change. Natural forces like flowing water and wind carry rock particles and soil from one place to another. For example, fine sand on riverbeds is formed when rock pebbles are worn down and transported by flowing water. When the speed of the water or wind decreases — for example, in a lake or ocean — the transported material settles and forms sediments, which harden over time into new rocks."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "Name four examples of combustible substances.",
+      "answer": "Wood, paper, cotton, and kerosene.",
+      "solution": "Combustible substances are those that can undergo combustion (burn) when they react with oxygen. The chapter mentions several examples: wood, paper, cotton, and kerosene. Wax (in a candle) is another example. These substances all have a specific ignition temperature above which they will burn in the presence of oxygen."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "Is dissolving sugar in water a physical or a chemical change? Give a reason.",
+      "answer": "It is a physical change because no new substance is formed — the sugar retains its chemical properties and can be recovered by evaporating the water.",
+      "solution": "When sugar dissolves in water, the sugar molecules spread uniformly throughout the water, but no chemical reaction occurs. The sugar can be recovered in its original form by evaporating the water. Since no new substance is produced and the chemical composition of sugar remains unchanged, dissolving sugar in water is a physical change."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "In Activity 5.3, blowing exhaled air into tap water produced only bubbles, but blowing into lime water turned it milky. Explain why the results were different.",
+      "answer": "Exhaled air contains CO₂ which does not react with tap water but reacts with lime water (calcium hydroxide) to form insoluble white calcium carbonate, making it milky.",
+      "solution": "When exhaled air is blown into tap water (tumbler A), CO₂ dissolves slightly but does not undergo a significant chemical reaction — only bubbles are seen. However, when CO₂ is blown into lime water (calcium hydroxide solution) in tumbler B, a chemical reaction occurs:\nCalcium hydroxide + Carbon dioxide → Calcium carbonate + Water\nCalcium carbonate is a white substance that is insoluble in water. It forms as a precipitate, making the lime water appear milky. After some time, the white solid settles at the bottom. This confirms the presence of CO₂ in exhaled air and demonstrates a chemical change."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Classify the following changes as physical or chemical: (i) Melting of wax (ii) Burning of wax vapour (iii) Rusting of iron (iv) Cutting a piece of paper (v) Curdling of milk.",
+      "answer": "(i) Physical (ii) Chemical (iii) Chemical (iv) Physical (v) Chemical",
+      "solution": "(i) Melting of wax: Physical change — wax changes from solid to liquid state; no new substance is formed. It can be reversed (liquid wax solidifies on cooling). (ii) Burning of wax vapour: Chemical change — wax vapour reacts with oxygen to produce CO₂ and water; new substances are formed. (iii) Rusting of iron: Chemical change — iron reacts with oxygen and moisture to form iron oxide (rust), a new substance. (iv) Cutting a piece of paper: Physical change — only the shape and size of paper change; no new substance is formed. (v) Curdling of milk: Chemical change — bacteria convert milk sugars into lactic acid; new substances are formed and the process cannot be reversed."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Why does the candle covered with a glass tumbler go out after some time, while the uncovered candle continues to burn?",
+      "answer": "The covered candle uses up all the oxygen inside the tumbler and, with no fresh oxygen supply, combustion cannot continue and the flame is extinguished.",
+      "solution": "Combustion requires oxygen as one of the three elements of the Fire Triangle. When a glass tumbler is placed over a burning candle, the available oxygen inside the tumbler is gradually consumed by the combustion reaction. Once oxygen is depleted, combustion cannot continue — the flame goes out. The uncovered candle, on the other hand, has continuous access to oxygen from the surrounding air and thus continues to burn. This experiment confirms that oxygen is a necessary condition for combustion."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "A piece of paper placed in open air does not catch fire on its own. Yet, when sunrays are focused on it using a magnifying glass, it does. Explain why.",
+      "answer": "The focused sunrays heat the paper to its ignition temperature, at which point it catches fire — even without a direct flame.",
+      "solution": "For combustion to occur, a combustible substance must be heated to its ignition temperature. Paper is a combustible substance, but in open air at room temperature, it is far below its ignition temperature — so it does not burn on its own. When a magnifying glass is used to focus sunrays onto a small spot on the paper, the light energy is concentrated at that point. This raises the temperature of the paper progressively until it reaches (and exceeds) its ignition temperature. At that point, the paper starts to emit smoke and then catches fire — even without any direct flame. This shows that fire is not necessary to start combustion; sufficient heat is what matters."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "What are sediments? How are they formed?",
+      "answer": "Sediments are heaps of sand, soil, and broken rock pieces found at the base of mountains or on riverbeds, formed by weathering and erosion of rocks.",
+      "solution": "Sediments are accumulations of sand, soil, and rock fragments. They are formed by two main natural processes: (1) Weathering: Large rocks are broken into smaller pieces by physical factors (temperature changes, growing roots, freezing water in cracks) and chemical factors (reaction of rock minerals with water and air). (2) Erosion: The broken rock fragments are transported by wind and flowing water from their original location. When the speed of water or wind decreases — for example, at the mouth of a river or in a lake — the transported particles settle and accumulate as sediments. Over thousands of years, these sediments harden and can form new rocks."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Why is the decomposition of food considered undesirable in one context but desirable in another?",
+      "answer": "Decomposition is undesirable when it spoils stored food, but desirable when it converts food waste into compost — a useful fertiliser for plants.",
+      "solution": "The desirability of a change depends entirely on context: (1) Undesirable context: When food is being stored in a kitchen or refrigerator, decomposition by microorganisms causes food to rot, making it inedible and potentially harmful — an undesirable change. (2) Desirable context: When food waste, vegetable peels, and organic matter are collected and allowed to decompose, microorganisms break them down into compost — a rich natural fertiliser that improves soil quality. The same chemical process (decomposition) thus has opposite effects in value depending on where it occurs."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Is the change of water to ice (freezing) a physical or chemical change? What about water to steam (boiling)? Justify your answers.",
+      "answer": "Both are physical changes because no new substance is formed — the chemical composition of water (H₂O) remains the same in all three states.",
+      "solution": "Both freezing and boiling are physical changes. (1) Freezing (water → ice): Water changes from liquid to solid state. The chemical composition remains H₂O. No new substance is formed. It is reversible — ice can be melted back into water. (2) Boiling (water → steam): Water changes from liquid to gaseous state. The chemical composition remains H₂O. No new substance is formed. It is reversible — steam can be condensed back into water. In both cases, only the physical state (and appearance) changes, not the chemical nature of the substance. Therefore, both are physical changes."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Is the curdling of milk a physical or a chemical change? Justify.",
+      "answer": "Curdling of milk is a chemical change because new substances (curd, lactic acid) are formed and the process cannot be reversed.",
+      "solution": "When milk curdles, bacteria (Lactobacillus) act on the sugars in milk and produce lactic acid. This causes the milk proteins to coagulate and form curd — a substance with entirely different properties from milk (different taste, texture, consistency). Since: (1) New substances are formed (lactic acid, curd proteins), (2) The process cannot be reversed (curd cannot be converted back into milk), and (3) The chemical composition changes — curdling is a chemical change."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "What is bioluminescence? Give one example. Is it a physical or a chemical change?",
+      "answer": "Bioluminescence is the production of light (without heat) by living organisms through a chemical change. Example: light produced by fireflies.",
+      "solution": "Bioluminescence is a fascinating natural phenomenon in which living organisms produce light through chemical reactions within their bodies. Unlike the burning of a candle (which produces both light and heat), bioluminescence produces light without generating significant heat — which is why it is sometimes called 'cold light'. Example: Fireflies (commonly seen in gardens in late evenings) produce light through a bioluminescent chemical reaction. Since a chemical reaction occurs within the organism's body to produce light, bioluminescence is classified as a chemical change."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "How is the formation of new rocks from sediments an example of a slow natural change? Is this change reversible?",
+      "answer": "Sediments deposited by water and wind harden over thousands of years to form new rocks — a very slow physical process that is not reversible on a human timescale.",
+      "solution": "When rock particles and sediments are transported by flowing water or wind and deposited at the bottom of rivers, lakes, or oceans, they accumulate in layers over long periods of time. Under the weight of accumulating layers and natural pressure, these sediments are compacted and cemented together, eventually forming new rocks (sedimentary rocks). This process: (1) Is very slow — takes thousands to millions of years. (2) Is a physical change — the mineral composition of the particles may remain similar. (3) Is practically irreversible on human timescales — once rocks form from sediments, the process cannot be meaningfully reversed in a human lifetime."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "Why should a synthetic blanket never be used to extinguish fire on a person's clothes?",
+      "answer": "Synthetic blankets can melt due to high heat and stick to the skin, causing severe burns instead of helping.",
+      "solution": "When a person's clothes catch fire, the correct method is to wrap a woollen or cotton blanket or thick cloth tightly around the person. This cuts off the supply of oxygen (air), removing one of the three elements of the Fire Triangle, and extinguishes the fire. However, synthetic blankets (made of nylon, polyester, etc.) have a low melting point and can melt when exposed to fire's heat. The molten synthetic material can stick to the person's skin and cause even more serious burns than the original fire. Therefore, only natural fibre blankets (wool, cotton) should be used in such emergencies."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Prithvi chops vegetables, peels potatoes (physical change), collects the peels in a clay pot where they decompose into compost (chemical change), then plants seeds that germinate and grow into flowers. Identify all the changes and classify them as physical or chemical.",
+      "answer": "Chopping and peeling: physical. Decomposition into compost: chemical. Seed germination and growth: chemical.",
+      "solution": "Let us analyse each change in the story: (1) Chopping vegetables and peeling potatoes: These are physical changes — only the shape and size of the vegetables change. No new substance is formed. However, they are irreversible physical changes. (2) Collection of peels in a clay pot: This is a physical change — only the location of the peels changes. (3) Decomposition of peels into compost: This is a chemical change — bacteria and fungi chemically break down the organic matter into compost, producing new substances. This is irreversible. (4) Seed germination and growth into plants with flowers: This is a chemical change — complex biochemical reactions convert nutrients from the soil into new plant matter, flowers, and biological structures. New substances are continuously being formed. Summary: Physical changes: chopping, peeling, collecting. Chemical changes: decomposition, germination, and growth."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Nalini observed brown deposits on the handle of her cycle. (i) What are the brown deposits? (ii) What type of change caused them? (iii) What conditions are necessary for this change? (iv) How can it be prevented?",
+      "answer": "(i) Rust (iron oxide). (ii) Chemical change. (iii) Presence of both oxygen and moisture. (iv) By painting, oiling, or galvanising the iron surface.",
+      "solution": "(i) The brown deposits are rust, chemically known as iron oxide. It forms when iron reacts with oxygen and moisture over time. (ii) Rusting is a chemical change because iron oxide is a new substance with entirely different properties from iron — it is brown, brittle, and flaky, while iron is grey, strong, and malleable. (iii) Conditions necessary: Both oxygen (from air) AND moisture (water) must be present simultaneously for rusting to occur. Rusting does not occur in completely dry air or in water that has no dissolved oxygen. (iv) Prevention methods: Apply a coat of paint (barrier against moisture and air), apply oil or grease (lubricants that prevent air and water contact), galvanise the iron (coat it with zinc, which resists corrosion), or use stainless steel (an alloy that resists rusting)."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Classify the following changes as reversible or irreversible and give a brief reason for each: (i) Stitching cloth into a shirt (ii) Dissolving sugar in water (iii) Making idlis from a batter (iv) Grinding wheat grains into flour (v) Boiling water in an open pan.",
+      "answer": "(i) Irreversible (ii) Reversible (iii) Irreversible (iv) Irreversible (v) Reversible",
+      "solution": "(i) Stitching cloth into a shirt: Irreversible — while the stitches can technically be removed, the holes left by the needle and the cut edges mean the original uncut cloth cannot be perfectly recovered. In practical terms, this is considered irreversible. (ii) Dissolving sugar in water: Reversible — sugar dissolves into water without any chemical change. The sugar can be recovered by evaporating the water (e.g., by heating), leaving behind crystalline sugar. (iii) Making idlis from a batter: Irreversible — the batter undergoes fermentation and then steaming, both of which are chemical changes. New substances are formed; idli cannot be converted back to the original batter. (iv) Grinding wheat into flour: Irreversible — although this is a physical change (only size changes), it is irreversible because the wheat grain structure is permanently destroyed; flour cannot be converted back into whole wheat grains. (v) Boiling water in an open pan: Reversible — water evaporates to form water vapour (physical change). The vapour can be condensed back into liquid water. However, if all the water boils away and is lost, recovery is not practically possible without collecting the vapour."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "In four separate experiments, the following gases were bubbled through lime water: (i) exhaled breath, (ii) gas from vinegar + baking soda reaction, (iii) nitrogen gas, (iv) steam (water vapour). In which cases would lime water turn milky? Explain.",
+      "answer": "Lime water turns milky in cases (i) and (ii) only, because both contain carbon dioxide.",
+      "solution": "Lime water turns milky only when carbon dioxide (CO₂) is present, as it reacts to form insoluble white calcium carbonate: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O. (i) Exhaled breath: Contains approximately 4% CO₂ (produced by cellular respiration in the body). When blown into lime water, CO₂ reacts and turns it milky. ✓ Milky. (ii) Vinegar + baking soda gas: This reaction produces CO₂ as a product. When this gas is passed through lime water, it reacts and turns it milky. ✓ Milky. (iii) Nitrogen gas: Nitrogen (N₂) is chemically inert and does not react with calcium hydroxide in lime water. No new substance is formed. ✗ Not milky. (iv) Steam (water vapour): Water vapour condenses in the lime water, but H₂O does not chemically react with Ca(OH)₂ to produce calcium carbonate. ✗ Not milky. Conclusion: Only cases (i) and (ii) turn lime water milky."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "A basalt rock originally appears black. After being exposed to the environment for many years, a red layer appears on its surface. Explain what type(s) of change have occurred and the science behind the colour change.",
+      "answer": "The red layer is caused by chemical weathering — the iron in basalt reacts with water and oxygen to form iron oxide (rust), which is red in colour.",
+      "solution": "This is an example of chemical weathering. Let us break it down step by step: (1) Basalt is a dark-coloured igneous rock that contains iron as one of its mineral components. (2) When the rock is exposed to the environment, water (rain, humidity) and oxygen in the air come into prolonged contact with the iron in the rock. (3) The iron undergoes a chemical change — it reacts with water and oxygen to form iron oxide, just as iron objects rust when exposed to moisture and air. (4) Iron oxide has a characteristic red/reddish-brown colour — the same colour as rust seen on iron tools. (5) This red-coloured iron oxide layer forms on the surface of the basalt rock, changing its colour from black to red. This is a chemical change because: A new substance (iron oxide) is formed, the rock's chemical composition changes at the surface, and the colour change is permanent and irreversible."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Some students argue that 'all physical changes are reversible' and 'all chemical changes are irreversible'. Is this correct? Support your answer with two counterexamples.",
+      "answer": "This is incorrect. Some physical changes are irreversible, and some chemical changes can be reversed.",
+      "solution": "The statement is an overgeneralisation and is not entirely correct. Counterexamples: Physical changes that are IRREVERSIBLE: (1) Chopping vegetables: This is a physical change (only shape and size change, no new substance formed), but chopped vegetables cannot be restored to their original whole form. (2) Grinding wheat into flour: A physical change (crushing into smaller particles), but the original wheat grain structure cannot be recovered from flour. Counterexamples showing the statement is oversimplified for chemical changes: While most chemical changes are irreversible, the classification of reversibility is not strictly tied to whether a change is physical or chemical. The correct principle is: Reversibility depends on whether the original substance can be recovered — not on whether the change is physical or chemical. Many physical changes are reversible (melting, boiling), but some are not. Most chemical changes are irreversible, but this is not an absolute rule."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "In the 'secret message' experiment, lemon juice is used as invisible ink and the message appears when the paper is heated. Identify all the changes involved and classify them as physical or chemical. Can any of these changes be reversed?",
+      "answer": "Writing (physical, reversible in that ink dries — partially reversible). Drying of lemon juice (physical, irreversible practically). Heating of paper that reveals the message (chemical, irreversible).",
+      "solution": "Let us analyse each step: (1) Writing with lemon juice on paper: Writing is a physical change — the lemon juice is applied to the surface of the paper. When it dries (evaporation), the water in lemon juice evaporates — a physical change (reversible in principle, as water vapour could condense). However, the organic compounds of lemon juice remain on the paper, making the drying practically irreversible in terms of recovering the liquid. (2) The message becomes invisible when dry: This is because the thin layer of dried lemon juice is nearly transparent and of similar colour to paper. This is a physical change. (3) Heating the paper with a warm iron: The organic compounds in lemon juice (mainly citric acid and sugars) have a lower ignition/decomposition temperature than paper. When heated, these compounds undergo thermal decomposition (a chemical change) — breaking down into carbon-containing products that are dark brown in colour. This is why the message appears as dark brown writing. This chemical change is irreversible — the decomposed organic compounds cannot be converted back to the original lemon juice compounds. (4) The paper itself: If it is only gently warmed (not burnt), the paper undergoes only a physical change (slight heating). But if overheated, it may also undergo combustion (chemical change). Summary: Reversible: None of the key steps are meaningfully reversible. The appearance of the message due to thermal decomposition is a chemical and irreversible change."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "Natural factors like wind, rain, and temperature changes help form soil from rocks. Are these changes physical, chemical, or both? Explain with examples of each.",
+      "answer": "Both. Temperature changes and mechanical breaking are physical; chemical reactions of rock minerals with water and air are chemical.",
+      "solution": "The formation of soil from rocks (weathering) involves both physical and chemical changes working together over thousands of years: PHYSICAL CHANGES in weathering: (1) Temperature changes: Rocks expand when heated in the sun and contract when cooled at night. Repeated expansion and contraction causes cracks to form and the rock to eventually break apart. (2) Freezing of water: Water seeping into cracks in rocks freezes during winter. Ice occupies more volume than water and exerts pressure, widening the cracks and splitting the rock. (3) Root action: Growing roots of trees exert mechanical pressure on rocks, breaking them apart. (4) Erosion by wind and water: Flowing water and wind physically carry and grind rock particles against each other, breaking them into finer and finer pieces. CHEMICAL CHANGES in weathering: (1) Oxidation: Iron-containing minerals in rocks react with oxygen and water to form iron oxide (rust), altering the rock's composition and colour (e.g., basalt turning red). (2) Dissolution: Rainwater (slightly acidic due to dissolved CO₂) reacts with certain minerals like limestone, dissolving them chemically. Both types of changes together gradually break down rocks into sediments and then into fine soil particles."
+    }
+  ]
+}

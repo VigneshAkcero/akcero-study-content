@@ -1,0 +1,299 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Surface Areas and Volumes",
+    "chapter_number": 12
+  },
+  "notes": [
+    {
+      "section_title": "12.1 Introduction to Combination of Solids",
+      "topics": [
+        {
+          "topic_name": "Real-World Solids and Their Composition",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In everyday life, we encounter many objects that are not simple geometric solids. For example, a test tube combines a cylinder and a hemisphere; an oil tank combines a cylinder with two hemispheres at the ends; a cone-topped cylindrical building combines a cone and a cylinder. Understanding how to find surface areas and volumes of such composite solids is essential in engineering, architecture, and manufacturing."
+            },
+            {
+              "type": "paragraph",
+              "text": "A combination of solids is formed when two or more basic solids (cube, cuboid, cylinder, cone, sphere, hemisphere) are joined together. The key insight is that when solids are combined, some surfaces disappear (where they join), and we must account for only the exposed surfaces when calculating total surface area."
+            },
+            {
+              "type": "note",
+              "title": "Key Principle for Combinations",
+              "text": "When calculating the surface area of a combination of solids: (1) Identify all component solids. (2) Calculate the exposed surface area of each component (excluding surfaces where solids join). (3) Sum the exposed areas to get the total surface area. For volume, simply add the volumes of the component solids."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "12.2 Surface Area of a Combination of Solids",
+      "topics": [
+        {
+          "topic_name": "Understanding When Surfaces Merge",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When two solids are joined, the surfaces that touch each other are not part of the external surface area. For example, when a hemisphere sits on top of a cylinder, the flat circular top of the cylinder and the flat circular base of the hemisphere are both hidden and should not be counted."
+            },
+            {
+              "type": "paragraph",
+              "text": "The total surface area of a combination is the sum of the curved (or lateral) surface areas of all component parts. Any base or flat surface that becomes internal is excluded from the calculation."
+            }
+          ]
+        },
+        {
+          "topic_name": "Example 1: Cylinder with Hemispheres at Both Ends",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Consider a cylinder of radius r and height h with hemispheres of the same radius r attached to both circular ends. This forms a shape like a capsule."
+            },
+            {
+              "type": "paragraph",
+              "text": "The exposed surfaces are: (1) Curved surface area of the cylinder: 2πrh. (2) Curved surface area of first hemisphere: 2πr². (3) Curved surface area of second hemisphere: 2πr². The flat circular ends of the cylinder are hidden by the hemispheres."
+            },
+            {
+              "type": "note",
+              "title": "Total Surface Area Formula (Cylinder + Two Hemispheres)",
+              "text": "TSA = 2πrh + 2πr² + 2πr² = 2πrh + 4πr² = 2πr(h + 2r). Note: Two hemispheres have the same curved surface area as one complete sphere: 4πr²."
+            },
+            {
+              "type": "example",
+              "id": "comb1",
+              "title": "Example 1: Capsule Surface Area",
+              "problem": "A capsule is made of a cylinder (height 8 cm, radius 3 cm) with hemispheres (radius 3 cm) at both ends. Find the total surface area.",
+              "solution": "TSA = 2πrh + 4πr² = 2π(3)(8) + 4π(3)² = 48π + 36π = 84π cm² ≈ 263.76 cm²."
+            }
+          ]
+        },
+        {
+          "topic_name": "Example 2: Cone on Top of a Cylinder (Rocket Shape)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A wooden rocket toy consists of a cone mounted on a cylinder. Both have the same radius r. The cone has height h_c and the cylinder has height h_cyl."
+            },
+            {
+              "type": "paragraph",
+              "text": "The exposed surfaces are: (1) Curved surface area of cylinder: 2πrh_cyl. (2) Curved surface area of cone: πrl, where l is the slant height of the cone. (3) The base of the cylinder remains exposed (not hidden). (4) The base of the cone is hidden by the cylinder's top."
+            },
+            {
+              "type": "note",
+              "title": "Total Surface Area Formula (Cone + Cylinder with Exposed Base)",
+              "text": "TSA = πrl + 2πrh_cyl + πr² = πr(l + 2h_cyl + r). Here, l = √(r² + h_c²) is the slant height of the cone."
+            },
+            {
+              "type": "example",
+              "id": "comb2",
+              "title": "Example 2: Rocket Surface Area",
+              "problem": "A toy rocket consists of a cylinder (radius 2.5 cm, height 6 cm) topped with a cone (height 6 cm, same radius). Find the area to be painted.",
+              "solution": "Slant height of cone: l = √(2.5² + 6²) = √(6.25 + 36) = √42.25 = 6.5 cm. Curved surface area of cone: πrl = π(2.5)(6.5) = 16.25π cm². Curved surface area of cylinder: 2πrh = 2π(2.5)(6) = 30π cm². Base area of cylinder: πr² = π(2.5)² = 6.25π cm². Total = 16.25π + 30π + 6.25π = 52.5π cm² ≈ 165 cm²."
+            }
+          ]
+        },
+        {
+          "topic_name": "Example 3: Hemisphere on Top of a Cube",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A decorative block consists of a cube with edge length a and a hemisphere of radius r (equal to a/2 or some other dimension) placed on top of one face."
+            },
+            {
+              "type": "paragraph",
+              "text": "The exposed surfaces are: (1) Five faces of the cube (top face is partially or fully covered). (2) Curved surface area of the hemisphere: 2πr². (3) The area of the cube's top face that is not covered by the hemisphere base."
+            },
+            {
+              "type": "note",
+              "title": "Total Surface Area Formula (Cube + Hemisphere)",
+              "text": "TSA = (Area of 5 faces of cube) + (Area of cube's top face not covered by hemisphere) + (Curved surface area of hemisphere) = 5a² + (a² − πr²) + 2πr² = 6a² + πr² − πr² = 6a² (if hemisphere fits within the face). If hemisphere radius = a/2: TSA = 6a² + π(a/2)² = 6a² + πa²/4."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "12.3 Volume of a Combination of Solids",
+      "topics": [
+        {
+          "topic_name": "Principle of Adding Volumes",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Unlike surface area (where we exclude joined surfaces), the volume of a combination of solids is simply the sum of the volumes of the component solids. No volumes are 'lost' when solids are joined; they simply occupy space together."
+            },
+            {
+              "type": "note",
+              "title": "Volume of Combination",
+              "text": "Volume of combination = Volume of solid 1 + Volume of solid 2 + ... This principle applies regardless of how the solids are arranged or joined."
+            }
+          ]
+        },
+        {
+          "topic_name": "Volume Formulas for Basic Solids",
+          "content": [
+            {
+              "type": "list",
+              "title": "Volume Formulas",
+              "items": [
+                "Cylinder: V = πr²h",
+                "Cone: V = (1/3)πr²h",
+                "Sphere: V = (4/3)πr³",
+                "Hemisphere: V = (2/3)πr³",
+                "Cube: V = a³ (where a is edge length)",
+                "Cuboid: V = l × b × h (length × breadth × height)"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Example 4: Cylinder with Hemisphere at One End",
+          "content": [
+            {
+              "type": "example",
+              "id": "vol1",
+              "title": "Example 4: Volume of Composite Solid",
+              "problem": "A juice glass is shaped like a cylinder (radius 5 cm, height 10 cm) with a hemispherical depression (radius 2.5 cm) at the bottom. Find the actual capacity.",
+              "solution": "Volume of cylinder = πr²h = π(5)²(10) = 250π cm³. Volume of hemisphere = (2/3)πr³ = (2/3)π(2.5)³ = (2/3)π(15.625) = (31.25π)/3 cm³. Actual capacity = 250π − (31.25π)/3 = (750π − 31.25π)/3 = (718.75π)/3 cm³ ≈ 752.84 cm³."
+            }
+          ]
+        },
+        {
+          "topic_name": "Example 5: Complex Composite Shape",
+          "content": [
+            {
+              "type": "example",
+              "id": "vol2",
+              "title": "Example 5: Shed with Cylindrical and Hemispherical Portions",
+              "problem": "A shed is shaped like a cuboid (7 m × 15 m base, 8 m height) surmounted by a half-cylinder roof (radius 3.5 m, length 15 m). Find the volume of air inside.",
+              "solution": "Volume of cuboid = l × b × h = 7 × 15 × 8 = 840 m³. Volume of half-cylinder = (1/2)πr²l = (1/2)π(3.5)²(15) = (1/2)π(12.25)(15) = (1/2)π(183.75) = 91.875π m³ ≈ 288.75 m³. Total volume = 840 + 288.75 = 1128.75 m³."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "12.4 Conversions Between Units and Practical Applications",
+      "topics": [
+        {
+          "topic_name": "Unit Conversions for Volume",
+          "content": [
+            {
+              "type": "list",
+              "title": "Common Volume Conversions",
+              "items": [
+                "1 m³ = 1000 litres = 1000000 cm³",
+                "1 litre = 1000 cm³",
+                "1 cm³ = 1 mL",
+                "1 m = 100 cm, so 1 m³ = (100)³ cm³ = 1000000 cm³"
+              ]
+            },
+            {
+              "type": "example",
+              "id": "conv1",
+              "title": "Example 6: Unit Conversion",
+              "problem": "A tank has volume 5000 cm³. Express this in litres and m³.",
+              "solution": "In litres: 5000 cm³ = 5000/1000 = 5 litres. In m³: 5000 cm³ = 5000/1000000 = 0.005 m³ = 5 × 10⁻³ m³."
+            }
+          ]
+        },
+        {
+          "topic_name": "Real-World Applications",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Surface area and volume of composite solids have numerous practical applications. Engineers use these calculations to determine paint requirements, material quantities, and storage capacities. Architects use them in designing buildings, domes, and curved structures. Manufacturers use them for packaging design and product specifications."
+            },
+            {
+              "type": "list",
+              "title": "Application Examples",
+              "items": [
+                "Paint requirement: Based on surface area of architectural structures",
+                "Capacity calculation: Storage tanks, swimming pools, water containers",
+                "Material estimation: Concrete for construction, plating for industrial vessels",
+                "Cost analysis: Material costs based on surface area, storage costs based on volume",
+                "Engineering design: Optimizing shapes for minimum material with required capacity"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Combination of Solids",
+      "definition": "A composite shape formed by joining two or more basic geometric solids together."
+    },
+    {
+      "term": "Surface Area",
+      "definition": "The total area of all exposed surfaces of a solid; for combinations, excludes surfaces where solids are joined."
+    },
+    {
+      "term": "Volume",
+      "definition": "The amount of space occupied by a solid; for combinations, it is the sum of component volumes."
+    },
+    {
+      "term": "Lateral Surface Area",
+      "definition": "The curved surface area of a solid, excluding the bases (e.g., the lateral surface area of a cylinder is 2πrh)."
+    },
+    {
+      "term": "Total Surface Area (TSA)",
+      "definition": "The complete external surface area of a solid, including all exposed faces and curved surfaces."
+    },
+    {
+      "term": "Composite Solid",
+      "definition": "Another term for a combination of solids; a shape formed by combining multiple basic solids."
+    },
+    {
+      "term": "Slant Height",
+      "definition": "In a cone, the distance from the apex to any point on the base circle measured along the surface; l = √(r² + h²)."
+    },
+    {
+      "term": "Cylinder",
+      "definition": "A solid with two parallel circular bases and a curved surface connecting them."
+    },
+    {
+      "term": "Cone",
+      "definition": "A solid with a circular base and a curved surface tapering to a point (apex) at the top."
+    },
+    {
+      "term": "Sphere",
+      "definition": "A solid where all points on the surface are equidistant from the center."
+    },
+    {
+      "term": "Hemisphere",
+      "definition": "Half of a sphere, created by cutting a sphere along a diameter; has one flat circular base and one curved surface."
+    },
+    {
+      "term": "Cube",
+      "definition": "A solid with six square faces of equal size; edge length a; volume = a³."
+    },
+    {
+      "term": "Cuboid",
+      "definition": "A solid with six rectangular faces; dimensions length (l), breadth (b), height (h); volume = l × b × h."
+    },
+    {
+      "term": "Radius",
+      "definition": "The distance from the center of a circle (or sphere) to any point on the circumference (or surface)."
+    },
+    {
+      "term": "Height",
+      "definition": "The perpendicular distance from the base of a solid to the top; for cylinders and cones, the distance along the axis."
+    },
+    {
+      "term": "Base Area",
+      "definition": "The area of the bottom (or top) face of a solid; for circles, πr²; for rectangles, l × b."
+    }
+  ],
+  "summary_points": [
+    "A combination of solids is formed by joining two or more basic solids (cylinder, cone, sphere, hemisphere, cube, cuboid). When calculating surface area, we exclude surfaces where solids are joined (internal surfaces) and only count exposed surfaces. When calculating volume, we simply add the volumes of all component solids without any deductions.",
+    "Common combinations include: (1) Cylinder with hemispheres at both ends (capsule shape): TSA = 2πrh + 4πr². (2) Cone on cylinder (rocket): TSA = πrl + 2πrh + πr² (if base is exposed). (3) Hemisphere on cube: TSA = exposed cube surfaces + hemisphere curved surface − area where they join.",
+    "Volume of combinations is always additive: Volume = Sum of component volumes. For example, a cylinder with hemisphere on top has volume = πr²h + (2/3)πr³. A cylindrical tank with hemispherical depression has capacity = Volume of cylinder − Volume of hemisphere.",
+    "Key insight for surface area: When two surfaces join, both disappear from the total surface area calculation. For example, when a hemisphere sits on a cylinder, the circular top of the cylinder and the circular base of the hemisphere are both hidden. The curved surfaces remain and are included in the total.",
+    "Practical applications involve calculating paint requirements (surface area), storage capacity (volume), material costs, and engineering design. Unit conversions are essential: 1 m³ = 1000 litres = 1,000,000 cm³. Problem-solving requires identifying component solids, applying appropriate formulas, and combining results systematically."
+  ]
+}

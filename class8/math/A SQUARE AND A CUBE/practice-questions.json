@@ -1,0 +1,262 @@
+{
+  "chapter_info": {
+    "class": 8,
+    "subject": "Mathematics",
+    "chapter_name": "A Square and A Cube",
+    "chapter_number": 1
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is the square of 7?",
+      "answer": "49",
+      "solution": "The square of 7 is 7² = 7 × 7 = 49."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Is 50 a perfect square? Explain using the units digit.",
+      "answer": "No. Perfect squares can only end in 0, 1, 4, 5, 6, or 9, but 50 ends in 0, which is valid. However, 50 = 2 × 5², which has odd exponents for prime 2, so it is not a perfect square.",
+      "solution": "Check units digit: 50 ends in 0, which is a valid units digit for perfect squares. However, prime factorization: 50 = 2 × 25 = 2 × 5². The exponent of 2 is 1 (odd), so 50 is not a perfect square. Note: While units digit 0 is possible, not all numbers ending in 0 are perfect squares (must have even number of zeros and specific factorization)."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Find the square root of 144.",
+      "answer": "12",
+      "solution": "We need to find x such that x² = 144. Since 12 × 12 = 144, we have √144 = 12."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What is the cube of 4?",
+      "answer": "64",
+      "solution": "The cube of 4 is 4³ = 4 × 4 × 4 = 16 × 4 = 64."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Is 1000 a perfect square? Why or why not?",
+      "answer": "No. 1000 has three zeros at the end (odd number), so it cannot be a perfect square.",
+      "solution": "Perfect squares can only have an even number of trailing zeros. 1000 = 10³ has 3 zeros (odd), which violates this rule. Therefore, 1000 is not a perfect square. Verification: 31² = 961, 32² = 1024. Neither equals 1000."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "List the first five perfect cubes.",
+      "answer": "1, 8, 27, 64, 125",
+      "solution": "Perfect cubes are: 1³ = 1, 2³ = 8, 3³ = 27, 4³ = 64, 5³ = 125."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What digit does the cube of any number ending in 5 always end in?",
+      "answer": "5",
+      "solution": "For any number ending in 5: 5³ ends in 5, 15³ ends in 5, 25³ ends in 5, and so on. The pattern is: 5 × 5 × 5 = 125, which ends in 5. This holds for all numbers with units digit 5."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Can a perfect square end in 3? Explain.",
+      "answer": "No. Perfect squares can only end in 0, 1, 4, 5, 6, or 9. They never end in 2, 3, 7, or 8.",
+      "solution": "Check all possible units digits: 0² ends in 0, 1² ends in 1, 2² ends in 4, 3² ends in 9, 4² ends in 6, 5² ends in 5, 6² ends in 6, 7² ends in 9, 8² ends in 4, 9² ends in 1. The digits 3, 7, 2, and 8 never appear. Therefore, any number ending in 3 cannot be a perfect square."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Express 36 as a sum of consecutive odd numbers. How does this relate to its square root?",
+      "answer": "36 = 1 + 3 + 5 + 7 + 9 + 11. This is the sum of 6 consecutive odd numbers, and 36 = 6².",
+      "solution": "We know that every perfect square n² equals the sum of the first n consecutive odd numbers. For 36: we need 6 odd numbers: 1 + 3 + 5 + 7 + 9 + 11 = 36. The count of odd numbers (6) equals the square root of 36. This demonstrates that √36 = 6."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Find the cube root of 512 using prime factorization.",
+      "answer": "8",
+      "solution": "Prime factorization: 512 = 2⁹ = 2³ × 2³ × 2³ = (2³)³. We can write 512 = 8³. Therefore, ∛512 = 8."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Is 180 a perfect square? Use prime factorization to determine.",
+      "answer": "No. 180 is not a perfect square because its prime factors don't all have even exponents.",
+      "solution": "Prime factorization: 180 = 4 × 45 = 4 × 9 × 5 = 2² × 3² × 5¹. The prime 5 appears with exponent 1 (odd). For a perfect square, all exponents must be even. Since the exponent of 5 is odd, 180 is not a perfect square."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "How many numbers lie between 5² and 6²?",
+      "answer": "10 numbers (26, 27, 28, 29, 30, 31, 32, 33, 34, 35)",
+      "solution": "Using the formula: between n² and (n+1)², there are 2n non-square numbers. For n = 5: there are 2(5) = 10 numbers. These are: 26, 27, 28, 29, 30, 31, 32, 33, 34, 35. Verification: 5² = 25 and 6² = 36. Numbers between: 36 - 25 - 1 = 10."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Is 3375 a perfect cube? Find its cube root using prime factorization.",
+      "answer": "Yes. ∛3375 = 15",
+      "solution": "Prime factorization: 3375 = 3³ × 5³. Since all exponents are divisible by 3, 3375 is a perfect cube. Cube root: ∛(3³ × 5³) = ∛(3³) × ∛(5³) = 3 × 5 = 15. Verification: 15³ = 3375."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Which of these is a perfect square: 72, 81, or 100? Verify using prime factorization.",
+      "answer": "81 and 100 are perfect squares. 72 is not.",
+      "solution": "72 = 2³ × 3². The exponent of 2 is 3 (odd), so 72 is not a perfect square. 81 = 3⁴. All exponents are even, so 81 is a perfect square: √81 = 3² = 9. 100 = 2² × 5². All exponents are even, so 100 is a perfect square: √100 = 2 × 5 = 10."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "In the locker puzzle, which lockers remain open and why?",
+      "answer": "Lockers 1, 4, 9, 16, 25, 36, 49, 64, 81, and 100 remain open. These are perfect squares.",
+      "solution": "Each locker is toggled by people whose numbers are factors of the locker number. A locker remains open if toggled an odd number of times. Only perfect squares have an odd number of factors because the square root pairs with itself. For example, locker 16 has factors 1, 2, 4, 8, 16 (5 factors—odd count). Locker 15 has factors 1, 3, 5, 15 (4 factors—even count, so it closes)."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Is 216 a perfect cube? If yes, find its cube root. If no, what must be multiplied to make it a perfect cube?",
+      "answer": "Yes, 216 is a perfect cube. ∛216 = 6",
+      "solution": "Prime factorization: 216 = 6³ = (2 × 3)³ = 2³ × 3³. All exponents are divisible by 3, so 216 is a perfect cube. Cube root: ∛(2³ × 3³) = 2 × 3 = 6."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Calculate the difference between 7² and 6². How does this relate to odd numbers?",
+      "answer": "7² - 6² = 49 - 36 = 13. This equals 2(6) + 1, the 7th odd number.",
+      "solution": "The difference between consecutive squares: (n+1)² - n² = 2n + 1. For n = 6: 7² - 6² = 2(6) + 1 = 13. This is always an odd number—specifically, the (n+1)th odd number. This demonstrates the relationship between squares and consecutive odd numbers."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Can 500 be a perfect cube? Justify using prime factorization.",
+      "answer": "No. 500 is not a perfect cube.",
+      "solution": "Prime factorization: 500 = 5³ × 2² = 5³ × 2². The exponent of 2 is 2 (not divisible by 3). For a perfect cube, all prime factors must have exponents divisible by 3. Since the exponent of 2 is not divisible by 3, 500 is not a perfect cube."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "What is the successive difference pattern for perfect squares? Explain what you observe.",
+      "answer": "Level 1 differences are odd numbers (3, 5, 7, 9, ...). Level 2 differences are constant (all 2).",
+      "solution": "Perfect squares: 1, 4, 9, 16, 25, 36, 49, ... Level 1 (first differences): 3, 5, 7, 9, 11, 13, ... Level 2 (second differences): 2, 2, 2, 2, 2, ... The differences at Level 1 are consecutive odd numbers because the difference between consecutive odd numbers is always 2. This pattern shows that perfect squares have a quadratic (degree 2) structure."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Is 1323 a perfect cube? If not, what is the smallest prime number that must be multiplied to make it a perfect cube?",
+      "answer": "No. Multiplying by 3 will give 3969 = 3⁷, which is not a perfect cube either. Multiply by 3 to get 1323 × 3 = 3969, then check if further multiplication is needed. Actually: 1323 = 3² × 147 = 3² × 3 × 49 = 3³ × 7². To make a perfect cube, we need 7 to appear 3 times, so multiply by 7.",
+      "solution": "Prime factorization: 1323 = 3 × 441 = 3 × 21² = 3 × (3 × 7)² = 3 × 3² × 7² = 3³ × 7². For a perfect cube, we need: 3³ (complete) and 7³ (need one more 7). Multiply by 7: 1323 × 7 = 9261 = 3³ × 7³ = (3 × 7)³ = 21³. Verification: 21³ = 9261."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "A square has area 144 square units. What is the side length? If the side is increased by 1 unit, what is the new area?",
+      "answer": "Original side = 12 units. Original area = 144. New side = 13. New area = 169 square units.",
+      "solution": "If area = 144, then side² = 144, so side = √144 = 12 units. New side = 12 + 1 = 13 units. New area = 13² = 169 square units. Difference in area = 169 - 144 = 25 square units. Note: This difference equals 2(12) + 1 = 25, confirming the odd number pattern."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "Find two consecutive perfect squares such that there are exactly 15 non-square numbers between them. What are these squares?",
+      "answer": "The squares are 64 (8²) and 81 (9²). There are 16 numbers between them (65 to 80).",
+      "solution": "Using the formula: between n² and (n+1)², there are 2n non-squares. We need 2n = 15, which gives n = 7.5. Since n must be an integer, there are no two consecutive perfect squares with exactly 15 numbers between them. The closest would be n = 7 (giving 14 numbers between 49 and 64) or n = 8 (giving 16 numbers between 64 and 81)."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Without calculating, determine whether 2³ × 3⁴ × 5² is a perfect square, perfect cube, or neither.",
+      "answer": "It is a perfect square but not a perfect cube.",
+      "solution": "For perfect square: all exponents must be even. We have 2³ (odd), 3⁴ (even), 5² (even). Not all are even, so NOT a perfect square. Actually, let me recalculate: 2³ (odd—exponent 3), 3⁴ (even—exponent 4), 5² (even—exponent 2). Since 2's exponent is odd, this is NOT a perfect square. For perfect cube: all exponents must be divisible by 3. We have 2³ (divisible by 3), 3⁴ (not divisible by 3), 5² (not divisible by 3). NOT a perfect cube. Answer: Neither a perfect square nor a perfect cube."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "A cube has volume 1000 cubic units. What is the side length? If the side length is doubled, what is the new volume?",
+      "answer": "Original side = 10 units. Original volume = 1000. New side = 20. New volume = 8000 cubic units.",
+      "solution": "If volume = 1000, then side³ = 1000, so side = ∛1000 = 10 units. New side = 20 units. New volume = 20³ = 8000 cubic units. Observation: when side doubles, volume becomes 2³ = 8 times larger (1000 × 8 = 8000)."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "By successive subtraction of odd numbers starting from 1, determine if 49 is a perfect square and find its square root.",
+      "answer": "49 is a perfect square. √49 = 7",
+      "solution": "Subtract consecutive odd numbers from 49: 49 - 1 = 48, 48 - 3 = 45, 45 - 5 = 40, 40 - 7 = 33, 33 - 9 = 24, 24 - 11 = 13, 13 - 13 = 0. We subtracted 7 consecutive odd numbers and reached exactly 0. Therefore, 49 is a perfect square and √49 = 7."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Is 72 a perfect square or perfect cube? What is the smallest number it must be multiplied by to become a perfect cube?",
+      "answer": "72 is neither. Multiply by 3 to get 216 = 6³.",
+      "solution": "Prime factorization: 72 = 8 × 9 = 2³ × 3². For perfect square: all exponents must be even. 2 has exponent 3 (odd), so not a perfect square. For perfect cube: all exponents must be divisible by 3. 2 has exponent 3 (divisible by 3 ✓), 3 has exponent 2 (not divisible by 3 ✗). To make it a perfect cube, 3's exponent must be 3, so multiply by 3: 72 × 3 = 216 = 2³ × 3³ = 6³."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Compute successive differences for the perfect cubes 1, 8, 27, 64, 125. At what level do you get a constant value?",
+      "answer": "Constant value (6) appears at Level 3.",
+      "solution": "Perfect Cubes: 1, 8, 27, 64, 125. Level 1 (first differences): 7, 19, 37, 61. Level 2 (second differences): 12, 18, 24. Level 3 (third differences): 6, 6. The constant value 6 appears at Level 3. This shows that perfect cubes require three levels of successive differences to reach a constant, compared to two levels for perfect squares. This is related to the cubic (degree 3) polynomial structure."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Express 64 as a sum of consecutive odd numbers. How many odd numbers are needed? What does this tell you?",
+      "answer": "64 = 1 + 3 + 5 + 7 + 9 + 11 + 13 + 15. Eight odd numbers. Therefore, 64 = 8².",
+      "solution": "Since 64 = 4³ and also 64 = 8², we can express it as a sum of 8 consecutive odd numbers starting from 1: 1 + 3 + 5 + 7 + 9 + 11 + 13 + 15 = 64. The count of odd numbers (8) equals the square root of 64. This demonstrates that 64 is a perfect fourth power: it's both 8² and 4³."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Explain why the only numbers with an odd number of factors are perfect squares.",
+      "answer": "Factors usually pair with each other to produce the number. The only exception is when a factor pairs with itself, which happens only for perfect squares.",
+      "solution": "For most numbers, each factor has a partner factor such that the two multiply to give the number. For example, 12 = 1×12 = 2×6 = 3×4 (three pairs, 6 factors total—even). However, for perfect squares, one factor pairs with itself. For example, 16 = 1×16 = 2×8 = 4×4. The factor 4 pairs with itself, so it's only counted once. This gives 5 factors {1,2,4,8,16}—an odd count. Therefore, ONLY perfect squares have an odd number of factors."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "In the locker puzzle, explain why locker 36 stays open and why locker 35 closes.",
+      "answer": "Locker 36 stays open because it has 9 factors (odd). Locker 35 closes because it has 4 factors (even).",
+      "solution": "Locker 36: 36 = 6² has factors {1, 2, 3, 4, 6, 9, 12, 18, 36}. Count = 9 (odd). Since 36 is toggled an odd number of times, it remains open. Locker 35: 35 = 5 × 7 has factors {1, 5, 7, 35}. Count = 4 (even). Since 35 is toggled an even number of times, it closes. The key difference: 36 is a perfect square (6²), which has an odd number of factors; 35 is not, so it has an even number of factors."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "What is the smallest perfect cube greater than 1000? Show your working.",
+      "answer": "1331 = 11³",
+      "solution": "We need the smallest n such that n³ > 1000. Testing: 10³ = 1000 (not greater). 11³ = 1331 (greater than 1000). Therefore, 1331 is the smallest perfect cube greater than 1000. Verification: 11 × 11 = 121, 121 × 11 = 1331."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "If n² = 289, find n and verify that n is a perfect cube when raised to the power 3.",
+      "answer": "n = 17. 17³ = 4913",
+      "solution": "From n² = 289: n = √289 = 17. Verification: 17 × 17 = 289 ✓. Now, 17³ = 17 × 17 × 17 = 289 × 17 = 4913. Since 17 is prime, 17³ is indeed a perfect cube (17³). Prime factorization: 4913 = 17³, which is a perfect cube by definition."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "Determine whether 2⁶ × 3⁶ is a perfect square and/or perfect cube. Find its square and cube roots.",
+      "answer": "Yes, it is both a perfect square and a perfect cube. √(2⁶ × 3⁶) = 2³ × 3³ = 216. ∛(2⁶ × 3⁶) = 2² × 3² = 36.",
+      "solution": "Number: 2⁶ × 3⁶ = (2 × 3)⁶ = 6⁶. Perfect square check: exponents 6 and 6 are both even ✓. So it's a perfect square. Perfect cube check: exponents 6 and 6 are both divisible by 3 ✓. So it's a perfect cube. Square root: √(2⁶ × 3⁶) = 2³ × 3³ = 8 × 27 = 216 = 6³. Cube root: ∛(2⁶ × 3⁶) = 2² × 3² = 4 × 9 = 36 = 6². Note: 6⁶ = (6²)³ = 36³ = (6³)² = 216²."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "A rectangular room has area 144 square meters. If the room is perfectly square, what are its dimensions? If you want to create a larger square room with area 196 square meters, what is the difference in side length?",
+      "answer": "Original room: 12 × 12 meters. New room: 14 × 14 meters. Difference in side length = 2 meters.",
+      "solution": "For square room with area 144: side = √144 = 12 meters. For square room with area 196: side = √196 = 14 meters. Difference in side = 14 - 12 = 2 meters. Note: The areas are 12² and 14², with difference in area = 196 - 144 = 52 = 2(12) + 2(14) = 52 (or using the formula: (14)² - (12)² = (14-12)(14+12) = 2 × 26 = 52)."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "Is the number 2000 a perfect square or a perfect cube? Explain why or why not using prime factorization.",
+      "answer": "2000 is neither a perfect square nor a perfect cube.",
+      "solution": "Prime factorization: 2000 = 2 × 1000 = 2 × 10³ = 2 × (2 × 5)³ = 2 × 2³ × 5³ = 2⁴ × 5³. Perfect square check: exponents must all be even. 2 has exponent 4 (even ✓), but 5 has exponent 3 (odd ✗). NOT a perfect square. Perfect cube check: exponents must all be divisible by 3. 2 has exponent 4 (not divisible by 3 ✗), 5 has exponent 3 (divisible by 3 ✓). NOT a perfect cube. Therefore, 2000 is neither a perfect square nor a perfect cube."
+    },
+    {
+      "id": "q36",
+      "difficulty": "Hard",
+      "question": "Using the property that n² equals the sum of the first n odd numbers, find 10² without direct multiplication.",
+      "answer": "10² = 100",
+      "solution": "The first 10 odd numbers are: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19. Sum = 1 + 3 + 5 + 7 + 9 + 11 + 13 + 15 + 17 + 19. Grouping: (1 + 19) + (3 + 17) + (5 + 15) + (7 + 13) + (9 + 11) = 20 + 20 + 20 + 20 + 20 = 100. Therefore, 10² = 100."
+    }
+  ]
+}

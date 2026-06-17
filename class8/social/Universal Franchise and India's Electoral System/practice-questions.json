@@ -1,0 +1,255 @@
+{
+  "chapter_info": {
+    "class": 8,
+    "subject": "Social Science",
+    "chapter_name": "Universal Franchise and India's Electoral System",
+    "chapter_number": 5
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is the meaning of 'Universal Adult Franchise'?",
+      "answer": "Universal adult franchise means that every adult citizen of the country has the right to vote, regardless of their gender, caste, religion, education, or wealth.",
+      "solution": "This principle is the cornerstone of democracy, ensuring that every citizen has an equal voice. In India, any citizen aged 18 or above is eligible to vote."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Which Article of the Indian Constitution enshrines the principle of universal adult franchise?",
+      "answer": "Article 326 of the Indian Constitution enshrines this principle.",
+      "solution": "Article 326 states that elections to the Lok Sabha and the Legislative Assemblies of every State shall be on the basis of adult suffrage."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "In which year was the Election Commission of India (ECI) established?",
+      "answer": "The Election Commission of India was established in 1950.",
+      "solution": "It was established as an independent constitutional body just before the first general elections held in 1951-52."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What are the two synonymous terms for 'Franchise' often used in the context of voting?",
+      "answer": "The two synonymous terms are 'Suffrage' and 'Franchise'.",
+      "solution": "Both terms refer to the right to vote granted by a constitution or government to its citizens."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What was the minimum voting age in India before it was changed to 18 in 1988?",
+      "answer": "The minimum voting age was 21 years.",
+      "solution": "The age was lowered to 18 in 1988 to increase youth participation in the democratic process."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Define a 'Constituency'.",
+      "answer": "A constituency is a specific geographical area whose voters elect a representative to a legislative body like the Lok Sabha or Vidhan Sabha.",
+      "solution": "India is divided into 543 parliamentary constituencies for the Lok Sabha elections."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What does 'NOTA' stand for in an electoral system?",
+      "answer": "NOTA stands for 'None of the Above'.",
+      "solution": "It is an option on the EVM that allows a voter to register their disapproval if they are not satisfied with any of the candidates contesting."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Who was the first voter in India's general elections of 1951?",
+      "answer": "Shyam Saran Negi was the first voter.",
+      "solution": "He was a school teacher from Himachal Pradesh and famously continued to cast his vote until the age of over 100."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Name the independent body responsible for conducting local body elections like Gram Panchayats.",
+      "answer": "The State Election Commission is responsible for local body elections.",
+      "solution": "While the ECI manages national and state elections, each state has its own commission for village and city-level governance bodies."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "How many seats are reserved for Scheduled Castes (SC) and Scheduled Tribes (ST) in the Lok Sabha?",
+      "answer": "84 seats are reserved for SC and 47 seats are reserved for ST.",
+      "solution": "Reservations ensure that members of these historically marginalized communities are represented in the national parliament."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "What is the primary difference between the Lok Sabha and the Rajya Sabha in terms of election process?",
+      "answer": "Lok Sabha members are directly elected by the people, whereas Rajya Sabha members are indirectly elected by members of state legislative assemblies (MLAs).",
+      "solution": "Lok Sabha represents the people of India directly, while the Rajya Sabha represents the states and union territories in the federal structure."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Explain the role of the 'Returning Officer' (RO) in an election.",
+      "answer": "The Returning Officer is responsible for conducting the election in a specific constituency.",
+      "solution": "The RO manages the nomination process, the actual polling, and the counting of votes for that particular area."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "What is the 'First-Past-the-Post' system used in India?",
+      "answer": "It is an electoral system where the candidate who receives the most votes in a constituency wins, even if they do not secure a majority (more than 50%) of the total votes.",
+      "solution": "As seen in the case of Gurmat in the story, she won with 12 votes out of 33 because she had more than Ahmed and Ravi."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Why is the Rajya Sabha called a 'Permanent House'?",
+      "answer": "The Rajya Sabha is never dissolved; instead, one-third of its members retire every two years and new members are elected for a six-year term.",
+      "solution": "This ensures continuity in the upper house, unlike the Lok Sabha which has a fixed term of five years and is dissolved before every general election."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "What are the two main purposes of the PM Poshan (formerly Mid-Day Meal) scheme mentioned in the context of schooling?",
+      "answer": "The two purposes are: (1) To improve the nutritional intake of children, and (2) To improve school enrollment and reduce dropouts among poor children.",
+      "solution": "By providing a daily meal, the scheme encourages parents to send their children to school regularly, thus fulfilling the right to education."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Identify the four polling officers' duties on the day of voting at a polling station.",
+      "answer": "1st: Checks ID; 2nd: Inks finger and gives chit; 3rd: Verifies chit/finger; 4th: VVPAT/EVM operation.",
+      "solution": "This multi-step verification process ensures that every vote is cast by an eligible, registered voter safely and fairly."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "How does technology like VVPAT improve the trust in Electronic Voting Machines (EVMs)?",
+      "answer": "VVPAT produces a physical paper slip which the voter can see to verify their choice, and which acts as a backup for re-counting in case of disputes.",
+      "solution": "It provides a 'paper audit trail' that confirms the electronic vote was recorded correctly for the intended candidate."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Describe the composition of the Election Commission of India (ECI).",
+      "answer": "The ECI consists of a Chief Election Commissioner (CEC) and two Election Commissioners.",
+      "solution": "This collective leadership was established to ensure balanced and fair decision-making in overseeing the world's largest democratic elections."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "What is the 'Model Code of Conduct' (MCC) and when does it come into effect?",
+      "answer": "The MCC is a set of guidelines for candidates and political parties to ensure fair elections; it comes into effect as soon as the ECI announces the election schedule.",
+      "solution": "It prevents the ruling party from misusing govt resources and prohibits candidates from using hate speech or bribery to influence voters."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "What is a 'Coalition Government'?",
+      "answer": "A coalition government is formed when two or more political parties work together to secure a majority in the Lok Sabha or Legislative Assembly.",
+      "solution": "If no single party wins more than half the seats, parties with similar goals join forces to form a government and choose a leader."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Compare India's early adoption of universal franchise with the evolution of voting rights in Switzerland.",
+      "answer": "India granted universal adult franchise to all citizens (including women) immediately in 1950, whereas Switzerland, a much older democracy, did not grant women the right to vote until 1971.",
+      "solution": "This highlights the 'abundant faith in the common man' and the deeply progressive values of India's Constitution makers compared to many Western nations."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "Evaluate the significance of the 10th-century Uttaramerur inscriptions in the context of democratic traditions in India.",
+      "answer": "The inscriptions describe a transparent process where representatives were selected fairly using palm leaves in a pot, showing that organized selection of leaders existed in India long ago.",
+      "solution": "This historical evidence refutes the idea that democracy is a purely Western import and shows ancient roots of accountability and public selection in India."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Why is the T.N. Seshan era remembered as a turning point for Indian elections?",
+      "answer": "Seshan enforced strict reforms like voter IDs, restrictions on proxy voting, and rigorous monitoring of election spending and the Model Code of Conduct.",
+      "solution": "His proactive leadership transformed the ECI into a fearless institution, making elections significantly more transparent and fair than before."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Analyze why urban areas often show lower voter turnout compared to rural areas.",
+      "answer": "This trend, often called 'Urban Apathy', is due to factors like mobility of people, lack of local connection, or a sense that individual votes don't change outcomes.",
+      "solution": "Low turnout (e.g., 34% not voting in 2024) is a challenge for democracy because it reduces the representative nature of the elected government."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Explain the 'Electoral College' system for electing the President of India.",
+      "answer": "The President is elected not by the common people directly, but by a body (Electoral College) consisting of elected MPs from both houses of Parliament and elected MLAs from all states.",
+      "solution": "This indirect system ensures that the President represents the collective will of the people as expressed through their directly elected national and state representatives."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "How does the 'Single Transferable Vote' (STV) system work in Rajya Sabha elections?",
+      "answer": "It is a system where voters rank candidates by preference. If their first choice is eliminated, their vote is transferred to their next choice, ensuring fair representation.",
+      "solution": "STV is used in indirect elections to ensure that smaller states and diverse political groups have a voice in the Council of States (Rajya Sabha)."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Why are certain constituencies 'reserved' for SC and ST candidates?",
+      "answer": "Reservation ensures that communities that have historically faced social discrimination are given a guaranteed space in the decision-making process of the country.",
+      "solution": "By ensuring their presence in the Lok Sabha (84 SC, 47 ST), the democratic system aims to bridge social barriers and promote inclusive nation-building."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "What is meant by the 'Spirit of the Age' as used in the context of local body elections?",
+      "answer": "It refers to the massive scale of grassroots democracy in India, with 3.1 million elected local representatives (many of whom are women).",
+      "solution": "This scale shows that democracy is not just about the national capital but reaches every village and city, making it a truly living and breathing system."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Discuss the impact of using government resources for campaigning under the lens of 'Level Playing Field'.",
+      "answer": "Using govt assets (vehicles, ads) gives the ruling party an unfair advantage over the opposition, violating the requirement for a fair and equal contest.",
+      "solution": "The Model Code of Conduct strictly prohibits this to ensure that all candidates, whether in power or not, compete as equals during the election."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Easy",
+      "question": "What was the literacy rate in India in 1947 when universal franchise was first debated?",
+      "answer": "The literacy rate was about 14% (8% among women).",
+      "solution": "Despite this low rate, Indian leaders boldly chose universal franchise, trusting the political wisdom of the common man."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Medium",
+      "question": "What is the difference between an 'MP' and an 'MLA'?",
+      "answer": "An MP (Member of Parliament) represents a constituency at the national level, while an MLA (Member of Legislative Assembly) represents a constituency at the state level.",
+      "solution": "MPs sit in the Lok Sabha in Delhi, whereas MLAs sit in the Vidhan Sabha (Legislative Assembly) of their respective states."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Medium",
+      "question": "Why did many countries around the world study India's EVM and VVPAT technology?",
+      "answer": "India's technological solutions manage the world's largest electorate securely and efficiently, providing a model for other democracies like Namibia and Bhutan.",
+      "solution": "The robustness and scale of India's electronic voting system have gained international respect and been shared with other nations with support from the ECI."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Easy",
+      "question": "What is the 'Chief Electoral Officer' (CEO) responsible for?",
+      "answer": "The CEO is responsible for overseeing elections at the State or Union Territory level.",
+      "solution": "The CEO works under the ECI and coordinates with District Election Officers (DEOs) to manage state-wide polling."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Medium",
+      "question": "Explain how the 'Secret Ballot' ensures a fair election.",
+      "answer": "A secret ballot ensures that no one else knows who a voter has voted for, protecting the voter from pressure, threats, or intimidation.",
+      "solution": "As shown in the school case study, booths are set up in corners to ensure privacy, allowing voters to exercise their choice freely and responsively."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "Interpret Allaidi Krishnaswami Ayyar’s statement that universal franchise 'is a success...never before in the history of the world has such an experiment been so boldly undertaken.'",
+      "answer": "Ayyar was referring to the fact that no other nation had attempted to give voting rights to such a massive, diverse, and largely illiterate population all at once.",
+      "solution": "The boldness lay in the 'abundant faith' that the common citizens, regardless of their wealth or education, were wise enough to choose their own leaders."
+    }
+  ]
+}

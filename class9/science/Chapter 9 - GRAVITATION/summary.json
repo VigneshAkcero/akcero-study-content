@@ -1,0 +1,40 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Gravitation",
+    "chapter_number": 9
+  },
+  "summary": [
+    {
+      "category": "Universal Law of Gravitation",
+      "points": [
+        "Every object in the universe attracts every other object with a force F = G × (M × m) / d², where G = 6.673 × 10⁻¹¹ N m² kg⁻² is the universal gravitational constant — the same everywhere in the universe.",
+        "Gravitational force is directly proportional to the product of the masses and inversely proportional to the square of the distance between them (inverse-square law); the force acts along the line joining the centres of the two objects.",
+        "This single law explains the binding force between us and the earth, the orbital motion of the moon around the earth, the motion of planets around the Sun, and the occurrence of tides."
+      ]
+    },
+    {
+      "category": "Free Fall and Acceleration Due to Gravity",
+      "points": [
+        "When objects fall towards the earth under gravitational force alone, the motion is called free fall; the acceleration produced is g = GM/R² ≈ 9.8 m s⁻², which is independent of the mass of the falling object — all objects fall at the same rate in vacuum.",
+        "g is slightly greater at the poles than at the equator (since the earth's radius is larger at the equator); the equations v = u + gt, s = ut + ½gt², and v² = u² + 2gs apply to freely falling objects with g positive for downward motion and negative for upward.",
+        "Weight (W = mg) is the gravitational force on an object — it varies with location; mass is constant everywhere. The weight of an object on the moon is (1/6)th of its weight on the earth due to the moon's smaller mass and radius."
+      ]
+    },
+    {
+      "category": "Thrust, Pressure, and Fluids",
+      "points": [
+        "Thrust is the force acting perpendicular to a surface (unit: N); Pressure = Thrust / Area (unit: pascal, Pa = N m⁻²) — the same thrust produces greater pressure on a smaller area, which is why knives have sharp edges and buildings have wide foundations.",
+        "Fluids (liquids and gases) exert pressure in all directions on the walls and base of their container; pressure applied at any point in a confined fluid is transmitted undiminished in all directions."
+      ]
+    },
+    {
+      "category": "Buoyancy and Archimedes' Principle",
+      "points": [
+        "A fluid exerts an upward force (buoyant force / upthrust) on any object immersed in it; Archimedes' Principle states that the buoyant force equals the weight of the fluid displaced by the object.",
+        "An object floats if its density is less than the fluid's density (buoyant force ≥ weight), and sinks if its density is greater (buoyant force < weight); this principle is applied in ship and submarine design, lactometers, and hydrometers."
+      ]
+    }
+  ]
+}

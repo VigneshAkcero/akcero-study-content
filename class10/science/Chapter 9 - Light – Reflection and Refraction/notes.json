@@ -1,0 +1,381 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Light – Reflection and Refraction",
+    "chapter_number": 9
+  },
+  "notes": [
+    {
+      "section_title": "9.1 Reflection of Light",
+      "topics": [
+        {
+          "topic_name": "Nature of Light",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Light enables us to see objects by reflecting off them; when received by our eyes, this reflected light produces vision. Light generally appears to travel in straight lines (rectilinear propagation), as evidenced by the sharp shadows cast by opaque objects."
+            },
+            {
+              "type": "note",
+              "title": "Wave-Particle Duality",
+              "text": "While straight-line treatment (ray optics) works for most common phenomena, light also exhibits wave properties (like diffraction around tiny objects) and particle properties (interaction with matter). Modern quantum theory reconciles these by treating light as neither a simple wave nor a particle."
+            }
+          ]
+        },
+        {
+          "topic_name": "Laws of Reflection",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Reflection occurs when light bounces off a highly polished surface like a mirror. These laws apply to all reflecting surfaces, including spherical ones:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "(i) The angle of incidence is equal to the angle of reflection.",
+                "(ii) The incident ray, the normal at the point of incidence, and the reflected ray all lie in the same plane."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Plane Mirror Characteristics",
+              "text": "Images formed by plane mirrors are virtual and erect, of the same size as the object, placed as far behind the mirror as the object is in front, and are laterally inverted."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "9.2 Spherical Mirrors",
+      "topics": [
+        {
+          "topic_name": "Types of Spherical Mirrors",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Spherical mirrors have reflecting surfaces that form part of a sphere. They are categorized into two types:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Concave Mirror: Reflecting surface is curved inwards, facing towards the centre of the sphere (like the inner side of a spoon).",
+                "Convex Mirror: Reflecting surface is curved outwards (like the outer side of a spoon)."
+              ]
+            },
+            {
+              "type": "activity",
+              "id": "9.1",
+              "title": "Understanding Curved Mirrors",
+              "procedure": [
+                "Observe your face in a large shining spoon.",
+                "Compare the image formed on the inner curved surface (concave) with the outer bulged surface (convex).",
+                "Note the changes in image size and orientation as you move the spoon away."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Terminology and Principal Focus",
+          "content": [
+            {
+              "type": "list",
+              "title": "Key Terms",
+              "items": [
+                "Pole (P): The centre of the reflecting surface.",
+                "Centre of Curvature (C): The centre of the sphere of which the mirror is a part (lies in front of concave, behind convex).",
+                "Radius of Curvature (R): The radius of the sphere (distance PC).",
+                "Principal Axis: A straight line passing through P and C; it is normal to the mirror at the pole.",
+                "Principal Focus (F): Point on the principal axis where rays parallel to it converge (concave) or appear to diverge from (convex).",
+                "Focal Length (f): Distance between Pole (P) and Focus (F)."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Aperture and R-f Relation",
+              "text": "The diameter of the reflecting surface is the aperture. For small apertures, the focal length is half the radius of curvature: R = 2f."
+            },
+            {
+              "type": "activity",
+              "id": "9.2",
+              "title": "Finding the Focal Length of a Concave Mirror",
+              "procedure": [
+                "Hold a concave mirror towards the Sun.",
+                "Focus the reflected light onto a sheet of paper.",
+                "Move the paper until a sharp bright spot (the Sun's image) is obtained.",
+                "Observe the paper starting to burn due to concentrated heat."
+              ],
+              "conclusion": "The distance of this sharp spot from the mirror is its approximate focal length."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "9.2.1-9.2.2 Image Formation and Ray Diagrams",
+      "topics": [
+        {
+          "topic_name": "Rules for Ray Diagrams",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To locate images, we typically use at least two of these four rays:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "a) Ray parallel to principal axis: Passes through F (concave) or appears to diverge from F (convex).",
+                "b) Ray through/towards Focus (F): Emerges parallel to principal axis.",
+                "c) Ray through/towards Centre of Curvature (C): Reflects back along the same path (normal incidence).",
+                "d) Ray oblique to principal axis at Pole (P): Reflects obliquely following laws of reflection."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Concave Mirror Image Formation",
+          "content": [
+            {
+              "type": "table",
+              "headers": ["Object Position", "Image Position", "Size", "Nature"],
+              "rows": [
+                ["At infinity", "At Focus F", "Highly Diminished", "Real and Inverted"],
+                ["Beyond C", "Between F and C", "Diminished", "Real and Inverted"],
+                ["At C", "At C", "Same Size", "Real and Inverted"],
+                ["Between C and F", "Beyond C", "Enlarged", "Real and Inverted"],
+                ["At F", "At infinity", "Highly Enlarged", "Real and Inverted"],
+                ["Between P and F", "Behind Mirror", "Enlarged", "Virtual and Erect"]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Uses of Concave Mirrors",
+              "text": "Used in torches, search-lights, vehicle headlights (parallel beams), shaving mirrors (magnified face), and solar furnaces (concentrating heat)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Convex Mirror Image Formation",
+          "content": [
+            {
+              "type": "table",
+              "headers": ["Object Position", "Image Position", "Size", "Nature"],
+              "rows": [
+                ["At infinity", "At Focus F (behind)", "Highly Diminished", "Virtual and Erect"],
+                ["Between Infinity and P", "Between P and F (behind)", "Diminished", "Virtual and Erect"]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Uses of Convex Mirrors",
+              "text": "Commonly used as rear-view (wing) mirrors in vehicles because they always provide an erect image and have a wider field of view due to their outward curvature."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "9.2.3-9.2.4 Formulae and Magnification",
+      "topics": [
+        {
+          "topic_name": "New Cartesian Sign Convention",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Pole (P) is the origin; Principal axis is the X-axis.",
+                "Object is always to the left (light travels left to right).",
+                "Distances to the right of P are positive (+), left of P are negative (-).",
+                "Heights above principal axis are positive (+), below are negative (-).",
+                "Focal length (f): Positive for convex, Negative for concave mirrors."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Mirror Formula and Magnification",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Mirror Formula: 1/v + 1/u = 1/f"
+            },
+            {
+              "type": "paragraph",
+              "text": "Magnification (m): Ratio of image height (h') to object height (h). m = h'/h = -v/u."
+            },
+            {
+              "type": "note",
+              "title": "Magnification Signs",
+              "text": "Negative (m) indicates a Real image; Positive (m) indicates a Virtual image."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "9.3 Refraction of Light",
+      "topics": [
+        {
+          "topic_name": "Concept of Refraction",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Refraction is the bending of light when it enters obliquely from one transparent medium to another due to a change in the speed of light. Common examples include a raised coin in water or the displacement of a pencil partly immersed in water."
+            },
+            {
+              "type": "activity",
+              "id": "9.7",
+              "title": "Apparent Position of a Coin",
+              "procedure": [
+                "Place a coin in a bucket of water.",
+                "Attempt to pick it up in one go from a side view.",
+                "Observe why you likely miss the coin due to its apparent shift."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Refraction through Glass Slab",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In a rectangular glass slab, light bends towards the normal at the air-glass interface (rarer to denser) and away from the normal at the glass-air interface (denser to rarer). The emergent ray is parallel to the incident ray but shifted sideward (lateral displacement)."
+            },
+            {
+              "type": "activity",
+              "id": "9.10",
+              "title": "Tracing Light through Glass Slab",
+              "procedure": [
+                "Place a glass slab on paper and trace its outline.",
+                "Fix two pins (E, F) on an inclined path and find their images (G, H) on the other side.",
+                "Observe the shift and parallellism of incident and emergent rays."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Laws of Refraction",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "(i) The incident ray, refracted ray, and normal at the point of incidence all lie in the same plane.",
+                "(ii) The ratio of the sine of the angle of incidence to the sine of the angle of refraction is constant (Snell’s Law)."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Snell's Law: sin(i) / sin(r) = constant (called Refractive Index)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "9.3.2 Refractive Index",
+      "topics": [
+        {
+          "topic_name": "Refractive Index and Speed of Light",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The refractive index (n) links the speed of light in different media. n(2,1) = Speed in medium 1 / Speed in medium 2."
+            },
+            {
+              "type": "note",
+              "title": "Absolute Refractive Index",
+              "text": "When medium 1 is vacuum or air, it is called the absolute refractive index (n_m = c/v). For example, n_water = 1.33."
+            },
+            {
+              "type": "note",
+              "title": "Optical Density",
+              "text": "An optically denser medium has a larger refractive index (light slows down). It is different from mass density; e.g., kerosene is optically denser than water despite having less mass density."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "9.3.3-9.3.7 Spherical Lenses",
+      "topics": [
+        {
+          "topic_name": "Types of Lenses",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Convex Lens: Thicker in the middle, bulged outwards; converges parallel rays (converging lens).",
+                "Concave Lens: Thicker at edges, curved inwards; diverges parallel rays (diverging lens)."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Optical terms for Lenses",
+              "text": "Lenses have two centres of curvature (C1, C2) and an Optical Centre (O). Rays through O pass without deviation."
+            }
+          ]
+        },
+        {
+          "topic_name": "Image Formation by Lenses",
+          "content": [
+            {
+              "type": "table",
+              "headers": ["Object Position", "Image Position", "Size", "Nature"],
+              "title": "Convex Lens Image Formation",
+              "rows": [
+                ["At infinity", "At focus F2", "Highly Diminished", "Real and Inverted"],
+                ["Beyond 2F1", "Between F2 and 2F2", "Diminished", "Real and Inverted"],
+                ["At 2F1", "At 2F2", "Same Size", "Real and Inverted"],
+                ["Between F1 and 2F1", "Beyond 2F2", "Enlarged", "Real and Inverted"],
+                ["At Focus F1", "At infinity", "Highly Enlarged", "Real and Inverted"],
+                ["Between F1 and O", "Same side as object", "Enlarged", "Virtual and Erect"]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Concave lenses always produce a virtual, erect, and diminished image regardless of the object position."
+            }
+          ]
+        },
+        {
+          "topic_name": "Lens Formula, Magnification, and Power",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Lens Formula: 1/v - 1/u = 1/f"
+            },
+            {
+              "type": "paragraph",
+              "text": "Magnification (m): m = h'/h = v/u."
+            },
+            {
+              "type": "note",
+              "title": "Power of a Lens (P)",
+              "text": "Power is the reciprocal of focal length: P = 1/f. The SI unit is Dioptre (D), where 1D = 1m⁻¹. Power is positive for convex and negative for concave lenses."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Reflection", "definition": "The bouncing back of light from a polished surface." },
+    { "term": "Refraction", "definition": "The bending of light as it enters obliquely from one medium to another." },
+    { "term": "Concave Mirror", "definition": "A spherical mirror with an inwardly curved reflecting surface." },
+    { "term": "Convex Mirror", "definition": "A spherical mirror with an outwardly curved reflecting surface." },
+    { "term": "Principal focus", "definition": "A point on the principal axis where rays parallel to it meet or appear to diverge from after reflection/refraction." },
+    { "term": "Focal Length", "definition": "The distance between the pole/optical centre and the principal focus." },
+    { "term": "Refractive Index", "definition": "The ratio of the speed of light in vacuum to the speed in the medium." },
+    { "term": "Aperture", "definition": "The diameter of the reflecting surface of a spherical mirror or lens." },
+    { "term": "Dioptre", "definition": "The SI unit of power of a lens (1 D = 1 m⁻¹)." }
+  ],
+  "summary_points": [
+    "Light travels in straight lines; mirrors and lenses form real or virtual images depending on object position.",
+    "The radius of curvature of a spherical mirror is twice its focal length (R = 2f).",
+    "Mirror formula relates u, v, and f: 1/v + 1/u = 1/f; for lenses, it is 1/v - 1/u = 1/f.",
+    "Refraction occurs because light speed changes in different media; Snell's law defines the refractive index.",
+    "Concave mirrors and convex lenses are generally converging, while convex mirrors and concave lenses are diverging.",
+    "Magnification (m) is the ratio of image height to object height; its sign indicates image nature (real/virtual).",
+    "Power of a lens (P = 1/f) is the degree of convergence or divergence; SI unit is the Dioptre (D)."
+  ]
+}

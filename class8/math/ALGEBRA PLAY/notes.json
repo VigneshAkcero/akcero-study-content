@@ -1,0 +1,514 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Mathematics",
+    "chapter_name": "Algebra Play",
+    "chapter_number": 6
+  },
+  "notes": [
+    {
+      "section_title": "6.1 Introduction to Algebra Play",
+      "topics": [
+        {
+          "topic_name": "Discovering Mathematical Tricks through Algebra",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Algebra provides a powerful tool for understanding and creating mathematical tricks and puzzles. By representing unknown numbers with variables (letter-numbers), we can analyze why certain trick operations always produce the same result, regardless of the starting number. This section explores how algebra helps us understand, prove, and invent mathematical tricks."
+            },
+            {
+              "type": "paragraph",
+              "text": "The key insight is that when we perform a series of operations on an unknown number x, we can track what happens at each step algebraically. If the algebraic expression simplifies to a constant (a number without x), then the trick works regardless of the starting number."
+            },
+            {
+              "type": "note",
+              "title": "Why Algebra Works for Tricks",
+              "text": "Using variables allows us to prove that certain operations always lead to the same final value. This is much more convincing than just testing a few numbers, and it shows why the trick must work for ANY starting number."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.2 Think of a Number Tricks",
+      "topics": [
+        {
+          "topic_name": "Basic 'Think of a Number' Tricks",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A 'Think of a Number' trick consists of a series of operations performed on an unknown starting number. The trick works if, after all operations are complete, the final result is always the same constant value, no matter what number was initially chosen."
+            },
+            {
+              "type": "example",
+              "title": "Example 1: The Classic Double-and-Divide Trick",
+              "text": "Instructions: (1) Think of a number. (2) Double it. (3) Add 4. (4) Divide by 2. (5) Subtract the original number. Expected result: 2. Algebraic verification: Let the starting number be x. Step 2: 2x. Step 3: 2x + 4. Step 4: (2x + 4)/2 = x + 2. Step 5: (x + 2) - x = 2. Conclusion: The result is always 2."
+            },
+            {
+              "type": "rule",
+              "title": "How to Verify a Think-of-a-Number Trick",
+              "text": "To verify that a trick always works: (1) Let x represent the starting number. (2) Apply each operation step-by-step to the expression. (3) Simplify the final expression. (4) If the final expression is a constant (no x term), the trick works for all starting numbers."
+            },
+            {
+              "type": "example",
+              "title": "Example 2: Modifying the Trick to Get a Different Result",
+              "text": "To modify the trick to get 3 instead of 2: Change step 3 to 'Add 6' instead of 'Add 4'. Verification: 2x + 6, then (2x + 6)/2 = x + 3, then (x + 3) - x = 3. To get 5: Change step 3 to 'Add 10' instead of 'Add 4'."
+            }
+          ]
+        },
+        {
+          "topic_name": "Date-Finding Tricks Using Algebra",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A more complex application of Think-of-a-Number tricks is to encode information (like a date) into the final result. By carefully designing the operations, we can extract the original information from the final number using algebraic relationships."
+            },
+            {
+              "type": "example",
+              "title": "Example 3: Date Encoding Trick",
+              "text": "Instructions for finding a date (Month M, Day D): (1) Multiply M by 5. (2) Add 6. (3) Multiply by 4. (4) Add 9. (5) Multiply by 5. (6) Add the day D. Algebraic breakdown: Step 1: 5M. Step 2: 5M + 6. Step 3: 20M + 24. Step 4: 20M + 33. Step 5: 100M + 165. Step 6: 100M + 165 + D. Result: The final number is 100M + 165 + D. To decode: subtract 165, giving 100M + D. Since D ≤ 31 (uses 2 digits max), the last two digits are D and the remaining digit(s) represent M."
+            },
+            {
+              "type": "example",
+              "title": "Example 4: Decoding a Date",
+              "text": "If the final answer is 291: Subtract 165: 291 - 165 = 126. The last two digits (26) represent the day. The remaining digits (1) represent the month. Therefore, the date is January 26 (26/1). If the final answer is 1390: Subtract 165: 1390 - 165 = 1225. The date is December 25 (25/12)."
+            },
+            {
+              "type": "note",
+              "title": "Key Insight of Date-Finding Tricks",
+              "text": "The constant 165 (obtained from the operations 6, 24, 33, and multiplication factors) acts as a 'shift' that allows us to extract the original date by subtraction. Different series of operations would produce different shift values, which is why the trick can be modified."
+            }
+          ]
+        },
+        {
+          "topic_name": "Designing Your Own Tricks",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Using algebra, it's possible to design custom tricks that produce any desired final result. The process involves working backwards from the target result and determining what operations would lead to a constant expression."
+            },
+            {
+              "type": "paragraph",
+              "text": "To design a trick that always produces result C, start with (x + C), then work backwards by applying inverse operations. For example, if you want the final answer to be 5, you could create: (1) Think of a number. (2) Add 10. (3) Divide by 2. (4) Subtract half the original number. This gives: (x + 10)/2 - x/2 = (x + 10 - x)/2 = 10/2 = 5."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.3 Number Pyramids",
+      "topics": [
+        {
+          "topic_name": "Understanding Number Pyramid Structure",
+          "content": [
+            {
+              "type": "definition",
+              "title": "Number Pyramid",
+              "text": "A number pyramid is an arrangement of numbers where each number is the sum of the two numbers directly below it. Starting from a base (bottom row) of numbers, we build upward, where each position's value equals the sum of its two adjacent lower neighbors."
+            },
+            {
+              "type": "example",
+              "title": "Example 5: Simple Number Pyramid",
+              "text": "Base row: 1, 9, 4. Next row: 1+9=10, 9+4=13. Top row: 10+13=23. The complete pyramid: 23 (top), 10 and 13 (middle), 1, 9, and 4 (base)."
+            },
+            {
+              "type": "paragraph",
+              "text": "To fill an incomplete pyramid, we use algebraic expressions. If some values are unknown, we assign variables to them and use the sum relationships to create equations that we can solve."
+            }
+          ]
+        },
+        {
+          "topic_name": "Solving Incomplete Number Pyramids",
+          "content": [
+            {
+              "type": "example",
+              "title": "Example 6: Solving a Pyramid with Unknown Values",
+              "text": "Given pyramid: Top = 60, Middle row = [?, ?], Base = [12, c, 8]. Let middle row values be a and b. Then: a = 12 + c, b = c + 8, and a + b = 60. Substituting: (12 + c) + (c + 8) = 60. Simplifying: 20 + 2c = 60, so 2c = 40, thus c = 20. Therefore: a = 12 + 20 = 32, b = 20 + 8 = 28. Complete pyramid: 60 (top), 32 and 28 (middle), 12, 20, and 8 (base)."
+            },
+            {
+              "type": "paragraph",
+              "text": "The algebraic approach allows us to solve pyramids by setting up equations based on the sum rule. Each relationship (each number equals the sum of two below) provides an equation that constrains the unknowns."
+            }
+          ]
+        },
+        {
+          "topic_name": "Relationship Between Base and Top of Pyramids",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "For a pyramid with a 3-number base [a, b, c], the top number can be expressed as a linear combination of the base numbers. Specifically, the top = a + 2b + c."
+            },
+            {
+              "type": "example",
+              "title": "Example 7: Three-Row Pyramid Pattern",
+              "text": "Base: [a, b, c]. Second row: [a+b, b+c]. Top: (a+b) + (b+c) = a + 2b + c. This formula allows us to find the top without building the entire pyramid. For example, with base [4, 13, 8]: Top = 4 + 2(13) + 8 = 4 + 26 + 8 = 38."
+            },
+            {
+              "type": "rule",
+              "title": "Pyramid Formulas",
+              "text": "For a 3-row pyramid with base [a, b, c]: Top = a + 2b + c. For a 4-row pyramid with base [a, b, c, d]: Top = a + 3b + 3c + d. For an n-row pyramid: The coefficients follow the binomial expansion pattern (Pascal's triangle)."
+            },
+            {
+              "type": "note",
+              "title": "Pascal's Triangle Connection",
+              "text": "The coefficients in the pyramid formula (1, 2, 1 for 3-row; 1, 3, 3, 1 for 4-row) are rows from Pascal's triangle. This is not coincidental—it reflects the combinatorial structure of how each base number contributes to the top through multiple paths."
+            }
+          ]
+        },
+        {
+          "topic_name": "Virahnka-Fibonacci Sequence and Pyramids",
+          "content": [
+            {
+              "type": "definition",
+              "title": "Virahnka-Fibonacci Sequence",
+              "text": "The Virahnka-Fibonacci sequence is defined as: V₁ = 1, V₂ = 2, and Vₙ = Vₙ₋₁ + Vₙ₋₂ for n ≥ 3. The sequence is: 1, 2, 3, 5, 8, 13, 21, 34, ... where each term is the sum of the two preceding terms."
+            },
+            {
+              "type": "paragraph",
+              "text": "When the Virahnka-Fibonacci sequence numbers are placed in the base of a pyramid, interesting patterns emerge. The numbers inside the pyramid remain Virahnka-Fibonacci numbers, and the top of the pyramid is also a Virahnka-Fibonacci number. This property holds for pyramids of any number of rows."
+            },
+            {
+              "type": "observation",
+              "title": "Property of Virahnka-Fibonacci Pyramids",
+              "text": "If the bottom row of an n-row pyramid contains the first n Virahnka-Fibonacci numbers (1, 2, 3, 5, 8, ...), then all numbers in the pyramid (including the top) are Virahnka-Fibonacci numbers. The top of the pyramid is specifically the (2n-1)th Virahnka-Fibonacci number."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.4 Calendar Magic and Grid Puzzles",
+      "topics": [
+        {
+          "topic_name": "Calendar Magic Tricks",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A calendar trick involves selecting a 2×2 grid of dates from a calendar, adding the four numbers, and predicting or analyzing the sum. The algebraic structure of calendars (numbers increasing by 1 horizontally and 7 vertically) creates predictable patterns."
+            },
+            {
+              "type": "example",
+              "title": "Example 8: Calendar Magic with 2×2 Grid",
+              "text": "Consider a 2×2 grid with top-left number a. The four numbers are: a (top-left), a+1 (top-right), a+7 (bottom-left), a+8 (bottom-right). Sum = a + (a+1) + (a+7) + (a+8) = 4a + 16. If the sum is 36, then 4a + 16 = 36, so 4a = 20, thus a = 5. The grid contains: 5, 6 (top row); 12, 13 (bottom row)."
+            },
+            {
+              "type": "rule",
+              "title": "Calendar Grid Formula",
+              "text": "For a 2×2 calendar grid with top-left number a: Sum = 4a + 16. This means: (1) Given the sum, find a by solving 4a + 16 = Sum. (2) The four numbers are a, a+1, a+7, a+8."
+            }
+          ]
+        },
+        {
+          "topic_name": "Algebra Grids and Shape Puzzles",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In algebra grids, different shapes represent unknown numbers. Each row has a row-sum equation: the values in the row sum to the number shown at the end. By solving the system of equations, we can find the value of each shape."
+            },
+            {
+              "type": "example",
+              "title": "Example 9: Solving Shape Grid Puzzles",
+              "text": "Let circle = c, square = s, triangle = t. Given equations: Row 1: 2c + s = 10. Row 2: s + 3t = 15. Row 3: c + t = 6. Solve by substitution or elimination. From Row 3: c = 6 - t. Substitute into Row 1: 2(6-t) + s = 10, so 12 - 2t + s = 10, thus s = 2t - 2. Substitute into Row 2: (2t-2) + 3t = 15, so 5t - 2 = 15, thus 5t = 17, t = 3.4. Then c = 6 - 3.4 = 2.6, and s = 2(3.4) - 2 = 4.8."
+            },
+            {
+              "type": "note",
+              "title": "Grid Puzzle Solving Strategy",
+              "text": "Identify all equations from the row sums. Use substitution or elimination to solve the system. Check the solution by verifying that all row equations are satisfied."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.5 The Largest Product Problem",
+      "topics": [
+        {
+          "topic_name": "Arranging Digits to Maximize a Product",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Given a set of digits, we want to arrange them into two numbers (a multiplicand and a multiplier) such that their product is maximized. The challenge is to determine the optimal arrangement."
+            },
+            {
+              "type": "example",
+              "title": "Example 10: Maximizing Product with Digits 2, 3, 5",
+              "text": "Possible arrangements: 23×5 = 115, 25×3 = 75, 32×5 = 160, 35×2 = 70, 52×3 = 156, 53×2 = 106. The largest product is 32×5 = 160. Notice that 5 (the largest digit) is the multiplier, and the remaining digits (3, 2) are arranged in decreasing order (3 before 2) to form the multiplicand 32."
+            },
+            {
+              "type": "rule",
+              "title": "Strategy for Maximizing Two-Number Product",
+              "text": "To maximize the product of two numbers formed from digits p < q < r: (1) Use the largest digit (r) as the multiplier. (2) Arrange the remaining digits in decreasing order to form the multiplicand. (3) For p < q < r, the maximum product is qp × r."
+            },
+            {
+              "type": "paragraph",
+              "text": "This strategy can be understood algebraically. The product of a multiplicand and a fixed multiplier increases as the multiplicand increases. To maximize the multiplicand with a fixed set of digits, place larger digits in higher place values (tens place before ones place)."
+            },
+            {
+              "type": "example",
+              "title": "Example 11: Algebraic Verification",
+              "text": "Compare 32×5 and 52×3: 32×5 = (30+2)×5 = 150+10 = 160. 52×3 = (50+2)×3 = 150+6 = 156. The difference comes from the ones place contribution: 2×5 = 10 vs. 2×3 = 6. Since 5 > 3, using 5 as multiplier is better. Similarly, 52×3 > 53×2 because 52 > 53 is false; actually 53 > 52. But (50+3)×2 = 100+6 = 106, while (50+2)×3 = 150+6 = 156. The strategy yields the optimal arrangement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.6 Decoding Divisibility Tricks",
+      "topics": [
+        {
+          "topic_name": "Two-Digit Number Reversal and Divisibility",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A divisibility trick involves taking a two-digit number, reversing its digits, finding the difference between the larger and smaller numbers, and discovering that the result is always divisible by 9."
+            },
+            {
+              "type": "example",
+              "title": "Example 12: Divisibility by 9 with Reversed Numbers",
+              "text": "Start with two-digit number with digits a and b (the number is 10a + b). Reversed number: 10b + a. If b > a, difference = (10b + a) - (10a + b) = 10b + a - 10a - b = 9b - 9a = 9(b - a). The difference is divisible by 9. For example, 31 reversed is 13. Difference: 31 - 13 = 18 = 9×2."
+            },
+            {
+              "type": "rule",
+              "title": "Divisibility by 9 Rule",
+              "text": "For any two-digit number with digits a and b (number = 10a + b), the difference between the larger and smaller numbers (when reversed) is divisible by 9. Algebraically: |10a + b - (10b + a)| = |9(a - b)| = 9|a - b|."
+            }
+          ]
+        },
+        {
+          "topic_name": "Sum of Reversed Two-Digit Numbers and Divisibility by 11",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Instead of finding the difference, if we add a two-digit number and its reverse, the result is always divisible by 11."
+            },
+            {
+              "type": "example",
+              "title": "Example 13: Divisibility by 11 with Sum of Reversed Numbers",
+              "text": "Start with 31. Reverse to get 13. Sum: 31 + 13 = 44 = 11×4. Algebraically: (10a + b) + (10b + a) = 10a + b + 10b + a = 11a + 11b = 11(a + b). The sum is always divisible by 11."
+            },
+            {
+              "type": "rule",
+              "title": "Divisibility by 11 Rule",
+              "text": "For any two-digit number with digits a and b (number = 10a + b), the sum of the number and its reverse is divisible by 11. Algebraically: (10a + b) + (10b + a) = 11(a + b)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Three-Digit Cyclic Numbers and Divisibility by 37",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A three-digit number abc (digits a, b, c) can be rotated to create bca and cab. The sum of all three numbers is always divisible by 37."
+            },
+            {
+              "type": "example",
+              "title": "Example 14: Divisibility by 37 with Cyclic Three-Digit Numbers",
+              "text": "Number abc = 100a + 10b + c. Number bca = 100b + 10c + a. Number cab = 100c + 10a + b. Sum = (100a + 10b + c) + (100b + 10c + a) + (100c + 10a + b) = 100a + a + 10a + 10b + 100b + b + c + 10c + 100c = 111a + 111b + 111c = 111(a + b + c). Since 111 = 3×37, the sum is divisible by 37."
+            },
+            {
+              "type": "rule",
+              "title": "Divisibility by 37 Rule",
+              "text": "For a three-digit number abc, the sum abc + bca + cab = 111(a + b + c), which is divisible by 37 (since 111 = 3×37). The sum is also divisible by 3 (since it equals 3×37(a+b+c)) and by 111."
+            }
+          ]
+        },
+        {
+          "topic_name": "Six-Digit Repdigit Numbers and Divisibility",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A six-digit number formed by repeating a three-digit number (abcabc) has special divisibility properties. Dividing by 7, 11, and 13 successively yields the original three-digit number."
+            },
+            {
+              "type": "example",
+              "title": "Example 15: Divisibility of Repdigit Six-Digit Numbers",
+              "text": "Six-digit number abcabc = 100000a + 10000b + 1000c + 100a + 10b + c = 100100a + 10010b + 1001c = 1001(100a + 10b + c) = 1001×abc. Note: 1001 = 7×11×13. Therefore: abcabc ÷ 7 = 143×abc, abcabc ÷ 11 = 91×abc, abcabc ÷ 13 = 77×abc, and abcabc ÷ (7×11×13) = abc."
+            },
+            {
+              "type": "rule",
+              "title": "Repdigit Divisibility Rule",
+              "text": "For a three-digit number abc, the six-digit number abcabc = 1001×abc = (7×11×13)×abc. Therefore, abcabc is divisible by 7, 11, 13, and 1001, and abcabc ÷ 1001 = abc."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.7 Real-World Applications of Algebra",
+      "topics": [
+        {
+          "topic_name": "Word Problems and Algebraic Modeling",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Algebra is invaluable for solving real-world word problems. By translating the problem into algebraic equations, we can systematically find solutions that might be difficult to discover through trial and error."
+            },
+            {
+              "type": "example",
+              "title": "Example 16: Mother and Daughter Ages",
+              "text": "Problem: A mother is 5 times her daughter's age. In 6 years, the mother will be 3 times the daughter's age. Find the daughter's current age. Let d = daughter's current age. Mother's current age = 5d. In 6 years: daughter's age = d + 6, mother's age = 5d + 6. Equation: 5d + 6 = 3(d + 6). Solving: 5d + 6 = 3d + 18, so 2d = 12, thus d = 6. Daughter is currently 6 years old; mother is 30. Verification: In 6 years, daughter will be 12 and mother will be 36. 36 = 3×12. ✓"
+            },
+            {
+              "type": "example",
+              "title": "Example 17: Livestock Problem",
+              "text": "Problem: A farm has horses and hens. Total heads = 55, total legs = 150. Find the numbers. Let h = horses, c = hens. Heads equation: h + c = 55. Legs equation: 4h + 2c = 150 (horses have 4 legs, hens have 2). From first: c = 55 - h. Substitute: 4h + 2(55 - h) = 150. Simplifying: 4h + 110 - 2h = 150, so 2h = 40, thus h = 20. Then c = 35. The farm has 20 horses and 35 hens."
+            },
+            {
+              "type": "example",
+              "title": "Example 18: Business Profit Problem",
+              "text": "Problem: A dosa cart has rent ₹5000/day and cost ₹10/dosa. (i) To make ₹2000 profit selling 100 dosas: Revenue - Cost = Profit. 100p - (5000 + 100×10) = 2000, so 100p - 6000 = 2000, thus 100p = 8000, p = ₹80. (ii) If price is ₹50/dosa, dosas needed for ₹2000 profit: n×50 - (5000 + 10n) = 2000, so 50n - 5000 - 10n = 2000, thus 40n = 7000, n = 175 dosas."
+            }
+          ]
+        },
+        {
+          "topic_name": "Magical Sequences and Pattern Recognition",
+          "content": [
+            {
+              "type": "example",
+              "title": "Example 19: Fraction Pattern with Odd Numbers",
+              "text": "Pattern: 1/3, (1+3)/(5+7), (1+3+5)/(7+9+11). Observed pattern: 1/3, 4/12 = 1/3, 9/27 = 1/3. All equal 1/3. Explanation: Sum of first n odd numbers = n². Therefore: (1+3+...+(2n-1)) / ((2n+1)+(2n+3)+...+(4n-1)) = n² / (sum of n odd numbers starting from 2n+1) = n² / n² = 1 / (sum of n odd numbers / n²)... Actually: numerator = n², denominator = (n+1)² - n² + n² = ... Let me recalculate: numerator (sum of first n odds) = n². Denominator (sum of next n odds starting from (2n+1)) = n² + 2n². Wait, the sum of n consecutive odd numbers starting from 2n+1 is n² + 2n(n). Let's use: the (n+1)th through (2n)th odd numbers sum to (n+1)² - 1 = (2n)² - ... Actually, it's easier to observe: 1/3 = 1/3, 4/12 = 1/3, 9/27 = 1/3."
+            },
+            {
+              "type": "paragraph",
+              "text": "The pattern shows that each fraction equals 1/3. This relates to the fact that the sum of consecutive odd numbers forms perfect squares, creating a consistent ratio."
+            }
+          ]
+        },
+        {
+          "topic_name": "The Genie and the Doubling Problem",
+          "content": [
+            {
+              "type": "example",
+              "title": "Example 20: Karim and the Genie Trick",
+              "text": "Problem: Karim's money doubles each round, but he pays 8 coins. After 3 rounds with final amount 8, find initial amount. Let initial amount = x. After round 1: 2x - 8. After round 2: 2(2x - 8) - 8 = 4x - 16 - 8 = 4x - 24. After round 3: 2(4x - 24) - 8 = 8x - 48 - 8 = 8x - 56. Given final amount = 8: 8x - 56 = 8, so 8x = 64, thus x = 8. Karim started with 8 coins. After round 1: 16 - 8 = 8. After round 2: 16 - 8 = 8. After round 3: 16 - 8 = 8. (The amount stays constant at 8!)"
+            },
+            {
+              "type": "paragraph",
+              "text": "This problem demonstrates how algebra can reveal unexpected patterns. The trick works because the payment amount (8) equals the initial amount, creating a fixed point where the doubling effect is exactly canceled by the payment."
+            },
+            {
+              "type": "observation",
+              "title": "Why the Trick Works",
+              "text": "For initial amount x, after round n, the amount is 2ⁿx - 8(2ⁿ - 1) = 2ⁿ(x - 8) + 8. If x = 8, this becomes 2ⁿ(0) + 8 = 8 for all n. The genie's trick ensures that if payment = x, then the amount remains constant at x regardless of rounds. The genie knew x = 8 and set payment to 8, ensuring Karim never gains."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Think of a Number Trick",
+      "definition": "A sequence of operations performed on an unknown starting number that always produces the same final result, regardless of the starting value. Proven using algebra."
+    },
+    {
+      "term": "Variable",
+      "definition": "A letter (like x or a) used to represent an unknown number in algebraic expressions and equations."
+    },
+    {
+      "term": "Algebraic Expression",
+      "definition": "A mathematical phrase combining variables, numbers, and operations (such as 2x + 4) without an equals sign."
+    },
+    {
+      "term": "Constant",
+      "definition": "A number that does not change. In a trick, if the final algebraic expression is a constant (like 2, 3, or 5), the trick always produces that value."
+    },
+    {
+      "term": "Number Pyramid",
+      "definition": "An arrangement of numbers where each number equals the sum of the two numbers directly below it."
+    },
+    {
+      "term": "Virahnka-Fibonacci Sequence",
+      "definition": "A sequence where each term is the sum of the two preceding terms: 1, 2, 3, 5, 8, 13, 21, 34, ... Also called the Fibonacci sequence in some contexts."
+    },
+    {
+      "term": "Pascal's Triangle",
+      "definition": "A triangular array of numbers where each number is the sum of the two above it. The coefficients in pyramid formulas match rows of Pascal's triangle."
+    },
+    {
+      "term": "Coefficient",
+      "definition": "A number that multiplies a variable in an algebraic expression. In 2x, the coefficient of x is 2."
+    },
+    {
+      "term": "Multiplicand",
+      "definition": "The number being multiplied in a multiplication operation. In 32 × 5, the multiplicand is 32."
+    },
+    {
+      "term": "Multiplier",
+      "definition": "The number by which another number is multiplied. In 32 × 5, the multiplier is 5."
+    },
+    {
+      "term": "Digit",
+      "definition": "One of the numerals 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 used to write numbers."
+    },
+    {
+      "term": "Place Value",
+      "definition": "The value of a digit based on its position in a number. In 32, the digit 3 has place value 30 (tens place) and 2 has value 2 (ones place)."
+    },
+    {
+      "term": "Two-Digit Number",
+      "definition": "A number with exactly two digits, from 10 to 99. Algebraically represented as 10a + b where a and b are digits."
+    },
+    {
+      "term": "Three-Digit Number",
+      "definition": "A number with exactly three digits, from 100 to 999. Algebraically represented as 100a + 10b + c."
+    },
+    {
+      "term": "Divisibility",
+      "definition": "A property of numbers: a number is divisible by another if it can be divided evenly with no remainder."
+    },
+    {
+      "term": "Divisible by 9",
+      "definition": "A number is divisible by 9 if the difference between a two-digit number and its reverse equals 9(a - b), which is always divisible by 9."
+    },
+    {
+      "term": "Divisible by 11",
+      "definition": "A number is divisible by 11 if the sum of a two-digit number and its reverse equals 11(a + b), which is always divisible by 11."
+    },
+    {
+      "term": "Repdigit",
+      "definition": "A number formed by repeating a digit or group of digits. Example: 123123 is formed by repeating 123."
+    },
+    {
+      "term": "System of Equations",
+      "definition": "A set of multiple equations with multiple unknowns, solved simultaneously to find values that satisfy all equations."
+    },
+    {
+      "term": "Substitution",
+      "definition": "A method of solving equations by replacing one variable with an expression from another equation."
+    },
+    {
+      "term": "Elimination",
+      "definition": "A method of solving systems of equations by adding or subtracting equations to eliminate one variable."
+    },
+    {
+      "term": "Optimization",
+      "definition": "The process of finding the best or maximum/minimum value of something. In this chapter, finding the largest product from given digits."
+    },
+    {
+      "term": "Profit",
+      "definition": "The amount of money remaining after subtracting all costs from revenue. Profit = Revenue - Costs."
+    },
+    {
+      "term": "Word Problem",
+      "definition": "A mathematical problem presented in words rather than purely symbolic form, requiring translation into equations."
+    }
+  ],
+  "summary_points": [
+    "A 'Think of a Number' trick uses algebra to prove that a sequence of operations always produces the same final result, regardless of the starting number. This is proven by replacing the unknown starting number with a variable x and simplifying the final expression to a constant.",
+    "Think-of-a-Number tricks can be designed by working backwards from the desired final result and determining what operations would lead to a constant expression. For example, to get final answer C, create operations that simplify to C.",
+    "Date-encoding tricks use multiple operations to embed information (like month M and day D) into a final number as 100M + 165 + D. By subtracting the constant 165 from the final number and extracting digits, the original date can be recovered.",
+    "A number pyramid is structured so each number equals the sum of the two numbers below it. For a 3-row pyramid with base [a, b, c], the top is a + 2b + c. For a 4-row pyramid with base [a, b, c, d], the top is a + 3b + 3c + d. The coefficients follow Pascal's triangle.",
+    "Incomplete pyramids can be solved by setting up algebraic equations based on the sum rule and solving the system of equations. Each known sum relationship provides an equation that constrains the unknowns.",
+    "The Virahnka-Fibonacci sequence (1, 2, 3, 5, 8, 13, 21, ...) has the property that if placed in the bottom row of a pyramid, all resulting numbers in the pyramid are also Virahnka-Fibonacci numbers.",
+    "Calendar magic tricks work because calendar dates increase by 1 horizontally (adjacent days) and 7 vertically (same day of week). For a 2×2 grid starting at a, the sum is 4a + 16.",
+    "Algebra grids require solving systems of equations where shapes represent unknowns and row sums provide the equations. Multiple methods like substitution or elimination can solve these systems.",
+    "To maximize a product of two numbers formed from digits p < q < r: use the largest digit r as the multiplier and arrange the remaining digits in decreasing order as the multiplicand, giving qp × r as the maximum product.",
+    "Divisibility tricks are proven algebraically: a two-digit number ab reversed to ba has difference divisible by 9 because the difference equals 9(b - a). The sum is divisible by 11 because the sum equals 11(a + b).",
+    "A three-digit number abc, when added to its cyclic rotations bca and cab, yields a sum divisible by 37 because the sum equals 111(a + b + c) and 111 = 3 × 37.",
+    "A six-digit repdigit number abcabc equals 1001 times the original three-digit number, where 1001 = 7 × 11 × 13. Therefore, abcabc is divisible by 7, 11, 13, and 1001.",
+    "Real-world problems (ages, livestock, business profit) are solved by translating them into algebraic equations and solving systematically. This approach is more reliable than guessing or trial-and-error.",
+    "The Genie and Karim problem demonstrates that in a doubling trick with fixed payment, if payment equals the starting amount, the total amount remains constant. Algebra reveals this hidden pattern.",
+    "Algebra is an indispensable tool for justifying mathematical statements, designing tricks, solving puzzles, and modeling real-world situations where relationships between quantities need to be analyzed systematically."
+  ]
+}

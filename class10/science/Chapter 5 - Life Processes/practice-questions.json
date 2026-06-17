@@ -1,0 +1,136 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Life Processes",
+    "chapter_number": 5
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Why is simple diffusion insufficient to meet the oxygen requirements of complex multi-cellular organisms like humans?",
+      "answer": "The body size is too large and most cells are not in direct contact with the environment.",
+      "solution": "In single-celled organisms, the entire surface is in contact with the environment. In large multi-cellular organisms, oxygen would take too long (estimated 3 years to reach the toes) to reach interior cells via diffusion alone; hence, a specialized respiratory and circulatory system is needed."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Describe the function of guard cells in the stomata of a leaf.",
+      "answer": "They regulate the opening and closing of the stomatal pores by Changing their shape.",
+      "solution": "When water flows into the guard cells, they swell and curve, opening the pore. When they lose water, they shrink and become straight, closing the pore to prevent water loss when CO₂ is not needed."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What is the role of hydrochloric acid (HCl) in the human stomach?",
+      "answer": "It provides an acidic medium for pepsin to act and kills harmful bacteria.",
+      "solution": "HCl creates an environment with a low pH, which is necessary to activate the protein-digesting enzyme pepsin. It also acts as a protective barrier by destroying pathogens ingested with food."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Why do aquatic organisms breathe faster than terrestrial organisms?",
+      "answer": "Because the amount of dissolved oxygen in water is much lower than the oxygen available in air.",
+      "solution": "To obtain sufficient oxygen for survival, aquatic animals like fish must pass water over their gills at a much higher frequency to extract the limited dissolved oxygen compared to land animals breathing atmospheric air."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Medium",
+      "question": "How is the small intestine of herbivores different from that of carnivores, and why?",
+      "answer": "Herbivores have a longer small intestine to allow for the complex digestion of cellulose.",
+      "solution": "Cellulose (found in grass) is difficult to digest and requires more time and space for breakdown. Carnivores like tigers eat meat, which is easier to digest, hence they have a relatively shorter small intestine."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "Explain the role of bile juice in the digestion of fats. Why is it important?",
+      "answer": "It emulsifies large fat globules into smaller ones, increasing the efficiency of lipase action.",
+      "solution": "Fats are present as large globules in the intestine, making it hard for enzymes to penetrate. Bile salts break these into tiny droplets (emulsification). Bile also neutralizes the acidic chyme from the stomach, making it alkaline for pancreatic enzymes to function."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "Compare the site and products of anaerobic respiration in yeast and in human muscle cells.",
+      "answer": "Yeast: Ethanol + CO₂; Muscles: Lactic acid. Both occur in the cytoplasm.",
+      "solution": "In yeast, fermentation occurs in the absence of oxygen producing ethanol and carbon dioxide. In human muscles, during heavy exercise when oxygen is scarce, pyruvate is converted to lactic acid, which can lead to muscle cramps."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "What are the components of 'transpiration pull' and how does it benefit the plant?",
+      "answer": "It is the suction force created by evaporation of water from leaves that pulls water and minerals upward.",
+      "solution": "Water loss through stomata creates a negative pressure in the leaf xylem, pulling a continuous column of water from the roots. It helps in water/mineral transport and temperature regulation (cooling effect)."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Describe the function of values in the heart and veins.",
+      "answer": "They ensure the unidirectional flow of blood and prevent backflow.",
+      "solution": "In the heart, valves prevent blood from flowing back into the atria or ventricles during contraction. In veins, where blood pressure is low, valves prevent blood from pooling downward due to gravity, ensuring it returns to the heart."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Hard",
+      "question": "Explain the step-by-step process of urine formation in a nephron. Which substances are selectively reabsorbed?",
+      "answer": "Filtration in Bowman's capsule followed by selective reabsorption of glucose, amino acids, salts, and water in the tubule.",
+      "solution": "The glomerulus filters blood into the Bowman's capsule. As the filtrate moves through the coiled tubule, essential nutrients like glucose and amino acids, along with water depending on body needs, are moved back into the blood capillaries, leaving concentrated waste (urine)."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Hard",
+      "question": "What is 'double circulation'? Why is it necessary for birds and mammals but not for fishes?",
+      "answer": "Blood passes through the heart twice in one cycle. It provides a highly efficient oxygen supply for maintaining constant body temperature.",
+      "solution": "Fishes have a 2-chambered heart with single circulation. Birds and mammals are warm-blooded (endothermic) and require high energy to maintain body temperature; double circulation completely separates oxygenated and deoxygenated blood, maximizing oxygen delivery to tissues."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Hard",
+      "question": "Contrast the transport of materials in xylem and phloem in terms of direction and energy usage.",
+      "answer": "Xylem: Unidirectional (upward), uses physical forces. Phloem: Bidirectional, uses energy from ATP.",
+      "solution": "Xylem moves water/minerals mainly through transpiration pull (physical). Phloem translocates sugar/amino acids from 'source' (leaves) to 'sink' (growing parts/roots) by loading sucrose using ATP, which increases osmotic pressure and moves materials as needed."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "Evaluate the design of alveoli and villi in the human body. What common structural features do they share to maximize efficiency?",
+      "answer": "Both have a massive surface area, thin walls, and an extensive network of blood vessels.",
+      "solution": "Alveoli (lungs) and Villi (intestine) are both designed for exchange. Their thin walls (one-cell thick) reduce diffusion distance, their large numbers provide a huge surface area ($80 m^2$ for alveoli), and their rich blood supply ensures rapid transport of absorbed gases/nutrients."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "How do desert plants perform photosynthesis if they keep their stomata closed during the day to prevent water loss?",
+      "answer": "They take up CO₂ at night and store it as an intermediate to be used during the day with solar energy.",
+      "solution": "Desert plants (CAM plants) show a temporal separation. At night, they open stomata to absorb CO₂ and convert it into a 4-carbon intermediate. During the day, they close stomata to conserve water and use the stored intermediate to complete the Calvin cycle using light energy trapped by chlorophyll."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "In case of kidney failure, how does an artificial kidney (hemodialysis) work, and how does it differ from a natural kidney?",
+      "answer": "It uses diffusion across a semi-permeable membrane in dialysing fluid to remove wastes, but lacks selective reabsorption.",
+      "solution": "Blood is passed through tubes in a fluid with the same osmotic pressure as blood but without nitrogenous wastes. Wastes diffuse out. Unlike a real kidney, which reabsorbs nearly 178L of the initial 180L filtrate daily, dialysis is purely a filtration process with no reabsorption phase."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "A person is advised to take low-fat diet. Relate this advice to the function of bile and lipase in the small intestine.",
+      "answer": "Low fat reduces the burden on bile for emulsification and lipase for breakdown, preventing digestive distress.",
+      "solution": "Since fat digestion is a complex 2-step process (emulsification by bile followed by lipase action), high fat intake can overwhelm the system if bile secretion is insufficient or the intestine is sensitive, leading to improper absorption."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "What would happen if the rings of cartilage were not present in the human throat?",
+      "answer": "The air passage would collapse when air is sucked in.",
+      "solution": "The C-shaped rings of cartilage provide structural support and prevent the trachea (windpipe) from collapsing during inhalation when pressure changes occur, ensuring a continuous path for air to reach the lungs."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Explain how plants get rid of solid and liquid waste products, given they lack a dedicated excretory system.",
+      "answer": "They store wastes in vacuoles, leaves (which shed), and as resins/gums in old xylem.",
+      "solution": "Plants utilize dead tissues and the shed-off parts (like leaves/bark) to discard accumulated wastes. Liquid wastes are transpired, and some compounds are actively excreted into the soil through the roots."
+    }
+  ]
+}

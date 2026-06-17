@@ -1,0 +1,28 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Introduction to Trigonometry",
+    "chapter_number": 8
+  },
+  "summary": [
+    {
+      "category": "Trigonometric Ratios and Their Properties",
+      "points": [
+        "Trigonometric ratios (sin, cos, tan, cosec, sec, cot) are defined for acute angles in right triangles as ratios of sides: sin A = opposite/hypotenuse, cos A = adjacent/hypotenuse, tan A = opposite/adjacent. These ratios depend only on the angle, not the triangle's size, as similar triangles maintain identical ratios. The reciprocal relationships are: cosec A = 1/sin A, sec A = 1/cos A, and cot A = 1/tan A."
+      ]
+    },
+    {
+      "category": "Standard Angles and Their Values",
+      "points": [
+        "Trigonometric ratios of standard angles (0°, 30°, 45°, 60°, 90°) are derived from special triangles: isosceles right triangle yields sin 45° = cos 45° = 1/√2 and tan 45° = 1; equilateral triangle yields sin 30° = 1/2, cos 30° = √3/2, tan 30° = 1/√3, and sin 60° = √3/2, cos 60° = 1/2, tan 60° = √3. These standard values are memorized for quick computation and algebraic manipulation."
+      ]
+    },
+    {
+      "category": "Trigonometric Identities",
+      "points": [
+        "The fundamental Pythagorean identity sin²A + cos²A = 1 is derived from the Pythagorean theorem and holds for all acute angles. Secondary identities 1 + tan²A = sec²A and cot²A + 1 = cosec²A are obtained by dividing the Pythagorean relation by different sides. These identities enable expressing any ratio in terms of others and proving complex trigonometric equations through algebraic manipulation."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Science",
+    "chapter_name": "Life Processes in Plants",
+    "chapter_number": 10
+  },
+  "notes": [
+    {
+      "section_title": "10.1 How Do Plants Grow?",
+      "topics": [
+        {
+          "topic_name": "Role of Sunlight and Water",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Just like animals, plants require essential nutrients and water for growth. As a plant grows, new leaves and branches emerge, its height increases, and its stem thickens."
+            },
+            {
+              "type": "activity",
+              "id": "10.1",
+              "title": "Let us test some explanations — Role of sunlight and water in plant growth",
+              "procedure": [
+                "Take three earthen pots (A, B, C) filled with garden soil and plant saplings of roughly the same size (e.g., chilli or tomato).",
+                "Place Pot A in direct sunlight and water it adequately every day.",
+                "Place Pot B in direct sunlight but do not add water.",
+                "Place Pot C in the dark and water it adequately every day.",
+                "Observe the plants for two weeks and record changes."
+              ],
+              "observation": "The plant in Pot A grows better and healthier than the plant in Pot C. The plant in Pot B likely dies from lack of water.",
+              "conclusion": "Plants universally require both adequate sunlight and adequate water for healthy growth."
+            },
+            {
+              "type": "note",
+              "title": "Fascinating Facts — Vrikshayurveda",
+              "text": "An ancient Indian text, Vrikshayurveda, systematically documents observations about plant growth, soil, and agricultural practices. It includes methods for organic manure preparation, highlighting early understanding of plant health."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "10.2 How Do Plants Get Food for their Growth?",
+      "topics": [
+        {
+          "topic_name": "10.2.1 Leaves: the 'food factories' of plants",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Unlike animals, plants do not eat food. Instead, they produce and store food in the form of starch (a carbohydrate). This production happens primarily in the leaves, which contain a green pigment called chlorophyll that efficiently captures sunlight."
+            },
+            {
+              "type": "activity",
+              "id": "10.2",
+              "title": "Let us check — Starch test in a leaf (Demonstration)",
+              "procedure": [
+                "Boil a leaf in water to soften it.",
+                "Dip the leaf in a test tube of alcohol and place the tube in boiling water until the leaf is decolourised (chlorophyll is removed).",
+                "Place the colourless leaf on a plate and add drops of diluted iodine solution."
+              ],
+              "observation": "The leaf changes to a blue-black colour.",
+              "conclusion": "The blue-black colour confirms the presence of starch stored securely within the leaf."
+            },
+            {
+              "type": "activity",
+              "id": "10.3",
+              "title": "Let us check — Role of sunlight in starch production",
+              "procedure": [
+                "Take a leaf with green and non-green patches from two similar plants: one kept in sunlight, the other in the dark for 36 hours.",
+                "Sketch the exact locations of the patches.",
+                "Perform the iodine test (decolourise, then add iodine) on both leaves."
+              ],
+              "observation": "For the sunlight plant, the originally green patches turn blue-black, while the non-green patches do not. For the dark plant, no patches turn blue-black.",
+              "conclusion": "Starch is only produced in the parts of the leaf containing chlorophyll (green patches) and only when the plant is exposed to sunlight."
+            },
+            {
+              "type": "note",
+              "title": "Fascinating Facts — Coloured Leaves",
+              "text": "Some leaves appear red, violet, or brown. They still contain green chlorophyll, but it is heavily masked by other coloured pigments. These leaves can still perform photosynthesis and will show positive starch tests."
+            }
+          ]
+        },
+        {
+          "topic_name": "10.2.2 Role of air in the preparation of food",
+          "content": [
+            {
+              "type": "activity",
+              "id": "10.4",
+              "title": "Let us experiment — Role of carbon dioxide",
+              "procedure": [
+                "Destarch a potted plant by keeping it in the dark for 2-3 days.",
+                "Insert half of a leaf into a wide-mouthed bottle containing caustic soda (which absorbs carbon dioxide), sealing it with a split cork. Leave the other half of the leaf outside.",
+                "Place the set-up in sunlight for a few hours, then perform the iodine test."
+              ],
+              "observation": "The half of the leaf outside the bottle turns blue-black (starch present). The half inside the bottle does not turn blue-black.",
+              "conclusion": "Because caustic soda absorbed the carbon dioxide inside the bottle, the leaf inside could not produce starch. Therefore, carbon dioxide is strictly essential for plants to prepare food."
+            },
+            {
+              "type": "activity",
+              "id": "10.5",
+              "title": "Let us explore — Release of oxygen",
+              "procedure": [
+                "Place an aquatic plant set-up (covered by a funnel with an inverted test tube full of water on top) in sunlight (Set-up A).",
+                "Place an identical set-up in the dark (Set-up B).",
+                "Observe the inverted test tubes."
+              ],
+              "observation": "In Set-up A (sunlight), gas bubbles emerge from the plant and accumulate at the top of the test tube. Testing this gas with a matchstick produces an intense flame, indicating it is oxygen.",
+              "conclusion": "Plants actively release pure oxygen gas during the process of food production in sunlight."
+            }
+          ]
+        },
+        {
+          "topic_name": "10.2.3 Photosynthesis: in a nutshell",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The process by which plants heavily utilise sunlight, water, carbon dioxide, and chlorophyll to synthesize their own food is called photosynthesis. The primary product is a simple carbohydrate called glucose, which provides instant energy and is later converted into starch for long-term storage."
+            },
+            {
+              "type": "paragraph",
+              "text": "The word equation for photosynthesis is:\nCarbon dioxide + Water → (in the presence of Sunlight and Chlorophyll) → Glucose + Oxygen"
+            },
+            {
+              "type": "note",
+              "title": "Know a Scientist — Rustom Hormusji Dastur",
+              "text": "R. H. Dastur (1896-1961) was a prominent Indian plant scientist who extensively studied the effects of water amount, temperature variations, and the colour of light on the complex process of photosynthesis."
+            }
+          ]
+        },
+        {
+          "topic_name": "10.2.4 How do leaves exchange gases during photosynthesis?",
+          "content": [
+            {
+              "type": "activity",
+              "id": "10.6",
+              "title": "Let us examine — Observation of stomata",
+              "procedure": [
+                "Carefully peel a highly thin layer from the lower surface of a leaf (like rhoeo or money plant).",
+                "Place the peel on a microscope slide with water and a drop of ink.",
+                "Observe it thoroughly under a microscope."
+              ],
+              "observation": "Microscopic, distinct pores are clearly visible scattered across the peel.",
+              "conclusion": "These tiny pores are called stomata. They are strategically located on the leaf surface to directly facilitate the massive exchange of gases (carbon dioxide and oxygen) with the atmosphere."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "10.3 Transport in Plants",
+      "topics": [
+        {
+          "topic_name": "Transport of water, minerals, and food",
+          "content": [
+            {
+              "type": "activity",
+              "id": "10.7",
+              "title": "Let us experiment — Transport of water",
+              "procedure": [
+                "Take two tender plant twigs with white flowers. Cut their stems obliquely.",
+                "Place one twig in a tumbler with plain water (A), and the other in a tumbler with water mixed with red ink (B).",
+                "Observe the next day, and cut the stem above the water line to examine inside."
+              ],
+              "observation": "The stem, leaves, and flowers of the plant in tumbler B turn noticeably red. The cut stem shows red colour intensely drawn up exactly through specific internal tube-like structures.",
+              "conclusion": "Water and dissolved minerals are physically transported aggressively upwards through the plant via thin tube-like structures structurally called the xylem."
+            },
+            {
+              "type": "paragraph",
+              "text": "While the xylem heavily transports water and minerals from the roots upwards, the carefully synthesized food (glucose) from the leaves must also reach all parts of the plant. This critical food transport occurs downwards and outwards through a completely different set of thin tube-like structures called the phloem."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "10.4 Do Plants Respire?",
+      "topics": [
+        {
+          "topic_name": "Respiration in plants",
+          "content": [
+            {
+              "type": "activity",
+              "id": "10.8",
+              "title": "Let us find out — Proof of plant respiration",
+              "procedure": [
+                "Place soaked moong bean seeds on wet cotton inside a specially sealed conical flask.",
+                "Connect the flask via a rubber pipe directly to a test tube containing indicator lime water.",
+                "Leave carefully undisturbed for 24 hours in complete darkness."
+              ],
+              "observation": "The clear lime water forcefully turns completely milky.",
+              "conclusion": "Lime water strictly turns milky in the presence of carbon dioxide. The germinating seeds actively produced substantial carbon dioxide internally as they respired."
+            },
+            {
+              "type": "paragraph",
+              "text": "Like animals, plants must respire to survive and grow. During respiration, glucose perfectly breaks down in the presence of oxygen to violently release usable cellular energy, releasing carbon dioxide and water as byproducts."
+            },
+            {
+              "type": "paragraph",
+              "text": "The word equation for respiration is:\nGlucose + Oxygen → Carbon dioxide + Water + Energy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Chlorophyll",
+      "definition": "The vital green pigment heavily present in leaves that physically captures sunlight required for photosynthesis."
+    },
+    {
+      "term": "Photosynthesis",
+      "definition": "The complex biological process by which green plants meticulously prepare their own food (glucose) using carbon dioxide, water, and sunlight in the precise presence of chlorophyll."
+    },
+    {
+      "term": "Stomata",
+      "definition": "Microscopic pores situated mostly on the surface of leaves that critically allow the continuous exchange of gases (oxygen and carbon dioxide)."
+    },
+    {
+      "term": "Xylem",
+      "definition": "Internal, thin tube-like structures responsible for efficiently transporting water and dissolved soil minerals vertically from the roots to the leaves."
+    },
+    {
+      "term": "Phloem",
+      "definition": "Internal, delicate tube-like structures responsible for physically transporting newly synthesised food from the 'factory' leaves to all other living parts of the plant."
+    },
+    {
+      "term": "Respiration",
+      "definition": "The internal cellular process where glucose is chemically broken down using oxygen to forcefully release usable energy, securely producing carbon dioxide and water."
+    }
+  ],
+  "summary_points": [
+    "Plants categorically require sunlight and water to ensure vigorous physical growth.",
+    "The process of primarily producing food inside leaves using carbon dioxide, liquid water, sunlight, and chlorophyll is termed photosynthesis.",
+    "During photosynthesis, the simple carbohydrate glucose and free oxygen are actively produced; the glucose is frequently stored safely as starch.",
+    "Tiny microscopic pores called the stomata, mostly found on leaves, exclusively facilitate the vital gaseous exchange of carbon dioxide and oxygen with the atmosphere.",
+    "The xylem functions as an internal plumbing system heavily transporting water and minerals up from the roots, whilst the separate phloem transports produced food from the leaves everywhere.",
+    "Plants continuously respire, aggressively breaking down glucose with oxygen to successfully release internal energy fundamental for growth, releasing carbon dioxide globally as a byproduct."
+  ]
+}

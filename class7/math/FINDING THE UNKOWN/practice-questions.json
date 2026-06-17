@@ -1,0 +1,325 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Math",
+    "chapter_name": "Finding the Unknown",
+    "chapter_number": 7
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is an equation? Give one example.",
+      "answer": "An equation is a statement of equality between two algebraic expressions, with an equal sign between the LHS and RHS. Example: 2x + 3 = 11.",
+      "solution": "An equation asserts that two algebraic expressions have the same value. The expression to the left of '=' is the Left Hand Side (LHS) and the expression to the right is the Right Hand Side (RHS). For example, in 2x + 3 = 11: LHS = 2x + 3 and RHS = 11. The value of x that makes both sides equal is the solution."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Solve the equation: x + 9 = 21.",
+      "answer": "x = 12.",
+      "solution": "To isolate x, subtract 9 from both sides:\nx + 9 − 9 = 21 − 9\nx = 12.\nVerification: LHS = 12 + 9 = 21 = RHS. ✓"
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Solve: 3y = 45.",
+      "answer": "y = 15.",
+      "solution": "To isolate y, divide both sides by 3:\n3y ÷ 3 = 45 ÷ 3\ny = 15.\nVerification: LHS = 3 × 15 = 45 = RHS. ✓"
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Solve: m − 7 = 13.",
+      "answer": "m = 20.",
+      "solution": "To isolate m, add 7 to both sides:\nm − 7 + 7 = 13 + 7\nm = 20.\nVerification: LHS = 20 − 7 = 13 = RHS. ✓"
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Solve: u/5 = 8.",
+      "answer": "u = 40.",
+      "solution": "To isolate u, multiply both sides by 5:\n(u/5) × 5 = 8 × 5\nu = 40.\nVerification: LHS = 40/5 = 8 = RHS. ✓"
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Solve: 2n + 1 = 99.",
+      "answer": "n = 49.",
+      "solution": "Step 1: Subtract 1 from both sides:\n2n + 1 − 1 = 99 − 1\n2n = 98.\nStep 2: Divide both sides by 2:\n2n ÷ 2 = 98 ÷ 2\nn = 49.\nVerification: LHS = 2 × 49 + 1 = 98 + 1 = 99 = RHS. ✓"
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Solve: 4p − 3 = 17.",
+      "answer": "p = 5.",
+      "solution": "Step 1: Add 3 to both sides:\n4p − 3 + 3 = 17 + 3\n4p = 20.\nStep 2: Divide both sides by 4:\np = 20 ÷ 4 = 5.\nVerification: LHS = 4 × 5 − 3 = 20 − 3 = 17 = RHS. ✓"
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Solve: 11y + (−5) = 61.",
+      "answer": "y = 6.",
+      "solution": "Step 1: Subtract (−5) from both sides, i.e., add 5 to both sides:\n11y + (−5) − (−5) = 61 − (−5)\n11y = 61 + 5 = 66.\nStep 2: Divide both sides by 11:\ny = 66 ÷ 11 = 6.\nVerification: LHS = 11 × 6 + (−5) = 66 − 5 = 61 = RHS. ✓"
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "What is meant by 'solving an equation'?",
+      "answer": "Solving an equation means finding the value(s) of the unknown letter-number for which the LHS equals the RHS.",
+      "solution": "To solve an equation is to find the specific value (or values) of the unknown variable that makes both sides of the equation equal. For example, in 5x = 20, the solution is x = 4 because 5 × 4 = 20, making LHS = RHS. Any value that satisfies the equation is called a solution."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Solve: 5s = 3s.",
+      "answer": "s = 0.",
+      "solution": "Subtract 3s from both sides:\n5s − 3s = 3s − 3s\n2s = 0.\nDivide both sides by 2:\ns = 0.\nVerification: LHS = 5 × 0 = 0; RHS = 3 × 0 = 0. LHS = RHS. ✓"
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "Frame an equation for the following: 'A number when multiplied by 6 gives 54.'",
+      "answer": "6x = 54, where x is the unknown number.",
+      "solution": "Let the unknown number be x. According to the statement, multiplying x by 6 gives 54. So the equation is: 6x = 54. Solving: x = 54 ÷ 6 = 9. The number is 9."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "Is x = 3 a solution of the equation 4x − 5 = 7? Justify your answer.",
+      "answer": "Yes, x = 3 is the solution.",
+      "solution": "Substitute x = 3 into the LHS: LHS = 4 × 3 − 5 = 12 − 5 = 7. RHS = 7. Since LHS = RHS = 7, x = 3 is indeed the solution of the equation 4x − 5 = 7."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Easy",
+      "question": "If a weighing scale is balanced with 3 blocks of equal unknown weight 'w' on one side and 18 units on the other, frame and solve the equation.",
+      "answer": "3w = 18, so w = 6 units.",
+      "solution": "Since the scale is balanced, the total weight on both sides must be equal. There are 3 blocks of weight w on one side and 18 units on the other. The equation is: 3w = 18. Dividing both sides by 3: w = 6. Each block weighs 6 units."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Easy",
+      "question": "Solve: 3x − 10 = 35.",
+      "answer": "x = 15.",
+      "solution": "Step 1: Add 10 to both sides:\n3x − 10 + 10 = 35 + 10\n3x = 45.\nStep 2: Divide both sides by 3:\nx = 45 ÷ 3 = 15.\nVerification: LHS = 3 × 15 − 10 = 45 − 10 = 35 = RHS. ✓"
+    },
+    {
+      "id": "q15",
+      "difficulty": "Easy",
+      "question": "Write two different equations whose solution is x = 4.",
+      "answer": "Examples: x + 3 = 7 and 3x = 12.",
+      "solution": "Any equation satisfied by x = 4 is acceptable. Two examples:\n(1) x + 3 = 7: Substituting x = 4, LHS = 4 + 3 = 7 = RHS. ✓\n(2) 3x = 12: Substituting x = 4, LHS = 3 × 4 = 12 = RHS. ✓\nOther valid examples: 2x − 1 = 7, x/2 = 2, 5x + 1 = 21."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Solve: 3u − 7 = 2u + 3.",
+      "answer": "u = 10.",
+      "solution": "Step 1: Subtract 2u from both sides to bring unknown terms to one side:\n3u − 7 − 2u = 2u + 3 − 2u\nu − 7 = 3.\nStep 2: Add 7 to both sides:\nu = 3 + 7 = 10.\nVerification: LHS = 3 × 10 − 7 = 30 − 7 = 23; RHS = 2 × 10 + 3 = 20 + 3 = 23. LHS = RHS. ✓"
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Solve: 4(m + 6) − 8 = 2m − 4.",
+      "answer": "m = −10.",
+      "solution": "Step 1: Expand the bracket on the LHS:\n4m + 24 − 8 = 2m − 4\n4m + 16 = 2m − 4.\nStep 2: Subtract 2m from both sides:\n2m + 16 = −4.\nStep 3: Subtract 16 from both sides:\n2m = −4 − 16 = −20.\nStep 4: Divide both sides by 2:\nm = −10.\nVerification: LHS = 4(−10 + 6) − 8 = 4(−4) − 8 = −16 − 8 = −24; RHS = 2(−10) − 4 = −20 − 4 = −24. ✓"
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Solve: u/15 = 6.",
+      "answer": "u = 90.",
+      "solution": "To isolate u, multiply both sides by 15 (since division and multiplication are inverse operations):\nu = 6 × 15 = 90.\nVerification: LHS = 90/15 = 6 = RHS. ✓"
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "A number sequence made with matchsticks has the formula: number of matchsticks at position n = 3n + 1. Can position n use exactly 85 matchsticks? If yes, find n.",
+      "answer": "Yes. n = 28.",
+      "solution": "We need to solve the equation: 3n + 1 = 85.\nSubtract 1 from both sides: 3n = 84.\nDivide both sides by 3: n = 28.\nVerification: 3 × 28 + 1 = 84 + 1 = 85. ✓\nSo yes, position 28 uses exactly 85 matchsticks."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "A matchstick sequence has the formula 2n + 1 matchsticks at position n. Is it possible to make an arrangement in this sequence using exactly 200 matchsticks?  Justify your answer.",
+      "answer": "No, it is not possible.",
+      "solution": "We need to check if 2n + 1 = 200 has a whole-number solution.\nSubtract 1 from both sides: 2n = 199.\nDivide both sides by 2: n = 99.5.\nSince n must be a whole number (position number), n = 99.5 is not valid. Therefore, it is NOT possible to make an arrangement using exactly 200 matchsticks in this sequence.\nNote: 2n + 1 is always an odd number for any whole number n, and 200 is even — so 200 can never be a term in this sequence."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "Each plate of snacks costs ₹25. A delivery charge of ₹50 is added. Meena has ₹500. How many plates of snacks can she afford with delivery?",
+      "answer": "18 plates.",
+      "solution": "Let the number of plates = p.\nTotal cost = 25p + 50.\nSince Meena has ₹500: 25p + 50 = 500.\nSubtract 50 from both sides: 25p = 450.\nDivide both sides by 25: p = 18.\nMeena can afford 18 plates of snacks.\nVerification: 25 × 18 + 50 = 450 + 50 = 500. ✓"
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "Rajan starts saving with ₹2000 and puts away ₹300 every month. Priya starts with ₹3500 and saves ₹100 every month. After how many months will both have the same savings?",
+      "answer": "After 7.5 months — but since months must be whole numbers, they never have exactly equal savings at a whole-month mark.",
+      "solution": "Let months = m.\nRajan's savings = 2000 + 300m.\nPriya's savings = 3500 + 100m.\nSetting them equal: 2000 + 300m = 3500 + 100m.\nSubtract 100m from both sides: 2000 + 200m = 3500.\nSubtract 2000 from both sides: 200m = 1500.\nDivide by 200: m = 7.5.\nSince m = 7.5 is not a whole number, they will never have exactly equal savings at the end of a complete month. After 7 months: Rajan has 2000 + 2100 = ₹4100; Priya has 3500 + 700 = ₹4200. After 8 months: Rajan has ₹4400; Priya has ₹4300."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "Solve: 28(x + 4) + 300 = 1000.",
+      "answer": "x = 21.",
+      "solution": "Step 1: Subtract 300 from both sides:\n28(x + 4) = 700.\nStep 2: Divide both sides by 28:\nx + 4 = 700 ÷ 28 = 25.\nStep 3: Subtract 4 from both sides:\nx = 25 − 4 = 21.\nVerification: LHS = 28(21 + 4) + 300 = 28 × 25 + 300 = 700 + 300 = 1000 = RHS. ✓"
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "The sum of two numbers is 76. One number is three times the other. Find both numbers.",
+      "answer": "The numbers are 19 and 57.",
+      "solution": "Let the smaller number = x. Then the larger number = 3x.\nTheir sum: x + 3x = 76.\n4x = 76.\nDivide both sides by 4: x = 19.\nThe larger number = 3 × 19 = 57.\nVerification: 19 + 57 = 76 ✓; 57 = 3 × 19 ✓."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Medium",
+      "question": "The weight of a brick is 1 kg more than half its weight. What is the weight of the brick?",
+      "answer": "The brick weighs 2 kg.",
+      "solution": "Let the weight of the brick = w kg.\n'Half its weight' = w/2.\n'1 kg more than half its weight' = w/2 + 1.\nThis equals the total weight: w = w/2 + 1.\nSubtract w/2 from both sides: w − w/2 = 1.\nw/2 = 1.\nMultiply both sides by 2: w = 2.\nVerification: Half of 2 is 1; 1 + 1 = 2 = weight of the brick. ✓"
+    },
+    {
+      "id": "q26",
+      "difficulty": "Medium",
+      "question": "One quarter of a number increased by 9 gives the same number. Find the number.",
+      "answer": "The number is 12.",
+      "solution": "Let the number = n.\n'One quarter of the number increased by 9' = n/4 + 9.\nThis equals the number itself: n/4 + 9 = n.\nSubtract n/4 from both sides: 9 = n − n/4 = 3n/4.\nMultiply both sides by 4: 36 = 3n.\nDivide both sides by 3: n = 12.\nVerification: n/4 + 9 = 12/4 + 9 = 3 + 9 = 12 = n. ✓"
+    },
+    {
+      "id": "q27",
+      "difficulty": "Medium",
+      "question": "If 4k + 1 = 13, find the value of (a) 8k + 2, (b) 4k, (c) 4k − 1.",
+      "answer": "(a) 26, (b) 12, (c) 11.",
+      "solution": "First, solve for k: 4k + 1 = 13 → 4k = 12 → k = 3.\n(a) 8k + 2 = 2(4k + 1) = 2 × 13 = 26. (Or: 8 × 3 + 2 = 24 + 2 = 26.)\n(b) 4k = 12. (Directly from above.)\n(c) 4k − 1 = 12 − 1 = 11.\nNote: For (a), we used the fact that 4k + 1 = 13 to find 8k + 2 = 2(4k + 1) = 26 without needing to compute k first."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Medium",
+      "question": "A taxi driver charges a fixed fee of ₹50 for every ride, plus ₹15 per kilometre. If the total cost of a ride is ₹200, how many kilometres was the ride?",
+      "answer": "10 kilometres.",
+      "solution": "Let the number of kilometres = d.\nTotal cost = 15d + 50.\nSince total cost = ₹200: 15d + 50 = 200.\nSubtract 50 from both sides: 15d = 150.\nDivide both sides by 15: d = 10.\nVerification: 15 × 10 + 50 = 150 + 50 = 200. ✓\nThe ride was 10 kilometres."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Medium",
+      "question": "Frame an equation for the following situation and solve it: 'A number decreased by 36 equals ten times itself.'",
+      "answer": "The number is −4.",
+      "solution": "Let the number = n.\n'A number decreased by 36': n − 36.\n'Equals ten times itself': = 10n.\nEquation: n − 36 = 10n.\nSubtract n from both sides: −36 = 9n.\nDivide both sides by 9: n = −36 / 9 = −4.\nVerification: LHS = −4 − 36 = −40; RHS = 10 × (−4) = −40. LHS = RHS. ✓"
+    },
+    {
+      "id": "q30",
+      "difficulty": "Medium",
+      "question": "In a sequence of square-tile arrangements, the number of tiles at Step k is given by 3k + 1. At which step will there be exactly 100 tiles? Is it possible?",
+      "answer": "No, it is not possible to have exactly 100 tiles using this formula.",
+      "solution": "Set 3k + 1 = 100.\nSubtract 1: 3k = 99.\nDivide by 3: k = 33.\nSince k = 33 is a whole number, it IS possible. Step 33 will have exactly 100 tiles.\nVerification: 3 × 33 + 1 = 99 + 1 = 100. ✓"
+    },
+    {
+      "id": "q31",
+      "difficulty": "Medium",
+      "question": "Why can performing the same operation on both sides of an equation be used to solve it? Explain with an example.",
+      "answer": "Because the LHS and RHS have the same value, any operation applied equally to both sides maintains their equality.",
+      "solution": "The LHS and RHS of an equation represent the same numerical value. If we perform any operation on a quantity and then perform the same operation on an equal quantity, the results will still be equal. This is like a balanced weighing scale: removing equal weights from both sides keeps it balanced.\nExample: 5x = 20. Both sides represent the same value. Dividing both sides by 5: 5x/5 = 20/5, giving x = 4. Because both sides were divided by the same number, equality is preserved and we successfully isolated x."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "Solve: 6(x − 1) = 2(x − 1) − 4.",
+      "answer": "x = 0.",
+      "solution": "Step 1: Expand both sides:\n6x − 6 = 2x − 2 − 4\n6x − 6 = 2x − 6.\nStep 2: Subtract 2x from both sides:\n4x − 6 = −6.\nStep 3: Add 6 to both sides:\n4x = 0.\nStep 4: Divide both sides by 4:\nx = 0.\nVerification: LHS = 6(0 − 1) = −6; RHS = 2(0 − 1) − 4 = −2 − 4 = −6. LHS = RHS. ✓"
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "Solve: 2x + 1 = 6 − (2x − 3).",
+      "answer": "x = 1.",
+      "solution": "Step 1: Expand the RHS:\n2x + 1 = 6 − 2x + 3\n2x + 1 = 9 − 2x.\nStep 2: Add 2x to both sides:\n4x + 1 = 9.\nStep 3: Subtract 1 from both sides:\n4x = 8.\nStep 4: Divide both sides by 4:\nx = 2.\nVerification: LHS = 2 × 2 + 1 = 5; RHS = 6 − (2 × 2 − 3) = 6 − 1 = 5. ✓"
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "Solve: −3(u + 2) = 2(u − 1).",
+      "answer": "u = −4/5.",
+      "solution": "Step 1: Expand both sides:\n−3u − 6 = 2u − 2.\nStep 2: Subtract 2u from both sides:\n−3u − 2u − 6 = −2\n−5u − 6 = −2.\nStep 3: Add 6 to both sides:\n−5u = 4.\nStep 4: Divide both sides by −5:\nu = −4/5.\nVerification: LHS = −3(−4/5 + 2) = −3(6/5) = −18/5; RHS = 2(−4/5 − 1) = 2(−9/5) = −18/5. LHS = RHS. ✓"
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "There are some children and donkeys on a beach. Together they have 28 heads and 80 feet. How many donkeys are there?",
+      "answer": "12 donkeys and 16 children.",
+      "solution": "Let the number of donkeys = d. Then number of children = 28 − d (since each head belongs to one animal/person).\nDonkeys have 4 feet each; children have 2 feet each.\nTotal feet equation: 4d + 2(28 − d) = 80.\n4d + 56 − 2d = 80\n2d + 56 = 80\n2d = 24\nd = 12.\nNumber of children = 28 − 12 = 16.\nVerification: Heads = 12 + 16 = 28 ✓; Feet = 4 × 12 + 2 × 16 = 48 + 32 = 80 ✓."
+    },
+    {
+      "id": "q36",
+      "difficulty": "Hard",
+      "question": "The amount given to the second person is twice that of the first; the third person is given thrice the second; and the fourth person four times the third. The total distributed is 132. Find the amount given to the first person.",
+      "answer": "The first person receives 4.",
+      "solution": "Let amount given to first person = x.\nSecond person = 2x.\nThird person = 3 × 2x = 6x.\nFourth person = 4 × 6x = 24x.\nTotal: x + 2x + 6x + 24x = 132.\n33x = 132.\nx = 132 ÷ 33 = 4.\nSo the first person receives 4 units.\nVerification: 4 + 8 + 24 + 96 = 132. ✓"
+    },
+    {
+      "id": "q37",
+      "difficulty": "Hard",
+      "question": "A fruit juice costs ₹15 less than a chocolate milkshake. If 4 fruit juices and 7 chocolate milkshakes together cost ₹600, find the cost of each.",
+      "answer": "Fruit juice = ₹45; Chocolate milkshake = ₹60.",
+      "solution": "Let the cost of a chocolate milkshake = ₹m.\nThen the cost of a fruit juice = ₹(m − 15).\nTotal cost: 4(m − 15) + 7m = 600.\n4m − 60 + 7m = 600\n11m − 60 = 600\n11m = 660\nm = 60.\nCost of milkshake = ₹60; cost of fruit juice = 60 − 15 = ₹45.\nVerification: 4 × 45 + 7 × 60 = 180 + 420 = 600. ✓"
+    },
+    {
+      "id": "q38",
+      "difficulty": "Hard",
+      "question": "Ramesh and Suresh together have 60 marbles. Ramesh has 30 more marbles than Suresh. How many marbles does each have?",
+      "answer": "Suresh has 15 marbles; Ramesh has 45 marbles.",
+      "solution": "Let Suresh have y marbles. Then Ramesh has (y + 30) marbles.\nTotal: y + (y + 30) = 60.\n2y + 30 = 60.\n2y = 30.\ny = 15.\nSuresh has 15 marbles and Ramesh has 15 + 30 = 45 marbles.\nVerification: 15 + 45 = 60 ✓; 45 − 15 = 30 ✓."
+    },
+    {
+      "id": "q39",
+      "difficulty": "Hard",
+      "question": "The height of a giraffe is two and a half metres more than half its height. How tall is the giraffe?",
+      "answer": "The giraffe is 5 metres tall.",
+      "solution": "Let the height of the giraffe = h metres.\n'Half its height' = h/2.\n'Two and a half metres more than half its height' = h/2 + 2.5.\nThis equals the total height: h = h/2 + 2.5.\nSubtract h/2 from both sides: h − h/2 = 2.5.\nh/2 = 2.5.\nMultiply both sides by 2: h = 5 metres.\nVerification: Half of 5 = 2.5; 2.5 + 2.5 = 5 = height. ✓"
+    },
+    {
+      "id": "q40",
+      "difficulty": "Hard",
+      "question": "If 28p − 36 = 98, find the values of: (a) 14p − 19, (b) 28p − 38.",
+      "answer": "(a) 67, (b) 96.",
+      "solution": "First, solve for p: 28p − 36 = 98 → 28p = 134 → p = 134/28 = 67/14.\n(a) 14p − 19 = (28p − 36)/2 + (36/2) − 19 = (28p − 36)/2 + 18 − 19 = (28p − 36)/2 − 1.\nSince 28p − 36 = 98: 14p − 19 = 98/2 − 1 = 49 − 1 = 48.\nAlternatively: 14p = (28p)/2 = 134/2 = 67. So 14p − 19 = 67 − 19 = 48.\n(b) 28p − 38 = (28p − 36) − 2 = 98 − 2 = 96.\nNote for (a): 14p − 19 = half of (28p − 38) + first solve: 28p = 134, p = 67/14, 14p = 67, 14p − 19 = 48."
+    },
+    {
+      "id": "q41",
+      "difficulty": "Hard",
+      "question": "Ramya is assigned the following sequence of steps on a number: add 5, multiply by 3, subtract 6, divide by 3. Her final result is 9. Frame an equation and find the number she started with.",
+      "answer": "The starting number is 4.",
+      "solution": "Let the starting number = x.\nAfter adding 5: x + 5.\nAfter multiplying by 3: 3(x + 5) = 3x + 15.\nAfter subtracting 6: 3x + 15 − 6 = 3x + 9.\nAfter dividing by 3: (3x + 9)/3 = x + 3.\nFinal result = 9: x + 3 = 9 → x = 6.\nVerification: Start: 6 → 6 + 5 = 11 → 11 × 3 = 33 → 33 − 6 = 27 → 27 ÷ 3 = 9. ✓\n(Note: The starting number is 6.)"
+    },
+    {
+      "id": "q42",
+      "difficulty": "Hard",
+      "question": "A 3-digit number has its hundred's digit 3 less than its ten's digit, and its ten's digit 3 less than its unit's digit. The sum of all three digits is 15. What is the number?",
+      "answer": "The number is 369.",
+      "solution": "Let the unit's digit = u. Then ten's digit = u − 3 and hundred's digit = (u − 3) − 3 = u − 6.\nSum of digits: (u − 6) + (u − 3) + u = 15.\n3u − 9 = 15.\n3u = 24.\nu = 8.\nUnit's digit = 8, ten's digit = 5, hundred's digit = 2.\nWait — let us recheck the problem. The hundred's digit is 3 less than the ten's digit, and the ten's digit is 3 less than the unit's digit. So:\nLet unit's digit = u. Ten's digit = u − 3. Hundred's digit = (u − 3) − 3 = u − 6.\nSum: (u − 6) + (u − 3) + u = 15 → 3u − 9 = 15 → 3u = 24 → u = 8.\nUnit = 8, Ten = 5, Hundred = 2. The number is 258.\nVerification: Digits 2, 5, 8. Hundred (2) is 3 less than ten (5) ✓; ten (5) is 3 less than unit (8) ✓; 2 + 5 + 8 = 15 ✓."
+    },
+    {
+      "id": "q43",
+      "difficulty": "Hard",
+      "question": "Explain with reasoning: why does the equation x + 4 = x + 9 have no solution?",
+      "answer": "Because it leads to a false statement (4 = 9) that is never true for any value of x.",
+      "solution": "To solve x + 4 = x + 9, subtract x from both sides:\nx + 4 − x = x + 9 − x\n4 = 9.\nThis is a false statement — 4 can never equal 9. No value of x can make LHS equal to RHS, because adding the same number x to both sides still leaves a difference of 5 between the two sides (4 and 9). Therefore, this equation has no solution. This illustrates how 4 more than a number and 9 more than the same number can never be equal."
+    },
+    {
+      "id": "q44",
+      "difficulty": "Hard",
+      "question": "Priya and Raju have money in the ratio 2:3. Together they have ₹120. How much money does each have?",
+      "answer": "Priya has ₹48 and Raju has ₹72.",
+      "solution": "Let Priya's money = 2k and Raju's money = 3k.\nTotal: 2k + 3k = 120.\n5k = 120.\nk = 24.\nPriya's amount = 2 × 24 = ₹48.\nRaju's amount = 3 × 24 = ₹72.\nVerification: 48 + 72 = 120 ✓; ratio = 48:72 = 2:3 ✓."
+    },
+    {
+      "id": "q45",
+      "difficulty": "Hard",
+      "question": "A train covers a certain distance at a speed of 60 km/h. If the speed were increased by 20 km/h, the same journey would take 1 hour less. Find the distance.",
+      "answer": "The distance is 240 km.",
+      "solution": "Let the distance = d km.\nTime at 60 km/h = d/60 hours.\nTime at 80 km/h = d/80 hours.\nDifference in time = 1 hour: d/60 − d/80 = 1.\nFinding a common denominator (240):\n4d/240 − 3d/240 = 1\nd/240 = 1\nd = 240 km.\nVerification: Time at 60 km/h = 240/60 = 4 h; Time at 80 km/h = 240/80 = 3 h; Difference = 1 h. "
+    }
+  ]
+}

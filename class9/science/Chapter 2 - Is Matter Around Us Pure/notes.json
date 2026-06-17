@@ -1,0 +1,422 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Is Matter Around Us Pure?",
+    "chapter_number": 2
+  },
+  "notes": [
+    {
+      "section_title": "2.1 What is a Mixture?",
+      "topics": [
+        {
+          "topic_name": "Pure Substance vs Mixture",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In everyday language, 'pure' means unadulterated. But in science, a pure substance is one where all constituent particles are chemically the same — it consists of a single type of particle. Examples: sodium chloride (salt), sugar, gold, oxygen. A mixture, on the other hand, contains more than one kind of pure substance (element and/or compound) mixed in any proportion. Most matter around us — soil, seawater, air, milk — exists as mixtures."
+            },
+            {
+              "type": "note",
+              "title": "Key Distinction",
+              "text": "• Pure substance: single type of particle, fixed composition, same properties throughout. Cannot be separated by physical methods into simpler forms.\n• Mixture: two or more pure substances, variable composition, shows properties of its constituents. Can be separated by physical methods."
+            }
+          ]
+        },
+        {
+          "topic_name": "2.1.1 Types of Mixtures — Homogeneous and Heterogeneous",
+          "content": [
+            {
+              "type": "activity",
+              "id": "2.1",
+              "title": "Activity 2.1 — Copper Sulphate Solution (Variable Composition)",
+              "procedure": [
+                "Group A: dissolve 1 spatula of CuSO₄ in 50 mL water.",
+                "Group B: dissolve 2 spatulas of CuSO₄ in 50 mL water.",
+                "Groups C & D: mix different amounts of CuSO₄ + KMnO₄ or NaCl.",
+                "Compare colour, texture, and uniformity across groups."
+              ],
+              "observation": "Groups A & B get uniform blue solutions (different intensities). Groups C & D get non-uniform mixtures with visibly distinct parts.",
+              "conclusion": "Groups A & B demonstrate homogeneous mixtures (solutions) — uniform throughout but with variable composition. Groups C & D demonstrate heterogeneous mixtures — non-uniform, physically distinct parts."
+            },
+            {
+              "type": "note",
+              "title": "Homogeneous Mixture",
+              "text": "A mixture that has uniform composition and appearance throughout. Also called a solution. Particles are evenly distributed — particle size < 1 nm. Examples: salt in water, sugar in water, air (mixture of gases), brass (solid solution of Cu and Zn). Note: a homogeneous mixture can still have variable composition (e.g., copper sulphate solutions of different concentrations are both homogeneous but differ in depth of colour)."
+            },
+            {
+              "type": "note",
+              "title": "Heterogeneous Mixture",
+              "text": "A mixture that has non-uniform composition with physically distinct parts. Different regions look and behave differently. Examples: sand and iron filings, oil and water, sodium chloride and sulphur, chalk in water."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.2 What is a Solution?",
+      "topics": [
+        {
+          "topic_name": "Definition and Components of a Solution",
+          "content": [
+            {
+              "type": "note",
+              "title": "Solution",
+              "text": "A solution is a homogeneous mixture of two or more substances. Components:\n• Solvent: the component that dissolves the other; usually present in larger amount. Example: water in salt water.\n• Solute: the component that is dissolved; usually in smaller amount. Example: salt in salt water.\nNote: 'solvent' and 'solute' are relative — in a 60% ethanol–40% water solution, ethanol is the solvent."
+            },
+            {
+              "type": "list",
+              "title": "Types of Solutions with Examples",
+              "items": [
+                "Solid in liquid: sugar in water (solute = sugar, solvent = water).",
+                "Solid in liquid: tincture of iodine = iodine (solid) in alcohol (liquid).",
+                "Gas in liquid: soda water = CO₂ (gas) in water (liquid).",
+                "Gas in gas: air = mixture of N₂ (78%), O₂ (21%), and traces of other gases.",
+                "Solid in solid: alloys — e.g., brass = ~30% zinc + ~70% copper; steel = iron + carbon."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Alloys",
+              "text": "Alloys are mixtures of two or more metals, or a metal and a non-metal (e.g., steel = iron + carbon). They are considered mixtures because: (1) they show properties of their constituents, and (2) they have variable composition (different grades of brass have different zinc percentages). They cannot be separated by physical methods but are still mixtures because no new chemical compound is formed."
+            },
+            {
+              "type": "list",
+              "title": "Properties of a Solution",
+              "items": [
+                "Homogeneous — uniform composition and appearance throughout.",
+                "Particle size < 1 nm (10⁻⁹ m) — cannot be seen with naked eyes or ordinary microscope.",
+                "Does NOT scatter a beam of light — the path of light is NOT visible through a solution (no Tyndall effect).",
+                "Stable — solute particles do NOT settle on standing.",
+                "Cannot be separated by filtration — particles pass through filter paper."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "2.2.1 Concentration of a Solution",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Based on the amount of solute dissolved, a solution can be:\n• Dilute: less solute dissolved (relatively).\n• Concentrated: more solute dissolved (relatively).\n• Saturated: the maximum amount of solute is already dissolved at that temperature — no more solute can dissolve.\n• Unsaturated: the amount of solute dissolved is less than the maximum possible at that temperature."
+            },
+            {
+              "type": "note",
+              "title": "Solubility",
+              "text": "Solubility is the maximum amount of solute that can be dissolved in a given amount of solvent at a given temperature to form a saturated solution. Different substances have different solubilities in the same solvent. Solubility generally increases with temperature for solid solutes in liquid solvents."
+            },
+            {
+              "type": "activity",
+              "id": "2.3",
+              "title": "Activity 2.3 — Saturated Solution",
+              "procedure": [
+                "Take 50 mL water in two beakers.",
+                "Add salt to one and sugar (or BaCl₂) to the other with stirring.",
+                "Keep adding until no more dissolves — this is the saturated solution.",
+                "Heat to raise temperature by ~5°C and add more solute."
+              ],
+              "observation": "On heating, more solute dissolves — the saturation point shifts upward. Different substances dissolve in different amounts.",
+              "conclusion": "Solubility depends on both the nature of the solute and the temperature. Heating increases the capacity of solvent to dissolve solute."
+            },
+            {
+              "type": "note",
+              "title": "Concentration Formula",
+              "text": "The concentration of a solution is the amount of solute per unit amount of solution.\n\nMass by mass percentage = (Mass of solute / Mass of solution) × 100\n\nMass of solution = Mass of solute + Mass of solvent\n\nWorked Example (Ex. 2.1): 40 g salt dissolved in 320 g water.\nMass of solution = 40 + 320 = 360 g.\nMass % = (40/360) × 100 = 11.1%"
+            }
+          ]
+        },
+        {
+          "topic_name": "2.2.2 What is a Suspension?",
+          "content": [
+            {
+              "type": "note",
+              "title": "Suspension",
+              "text": "A suspension is a heterogeneous mixture in which solute particles do not dissolve but remain suspended throughout the medium. Example: chalk powder in water, muddy water, flour in water."
+            },
+            {
+              "type": "list",
+              "title": "Properties of a Suspension",
+              "items": [
+                "Heterogeneous mixture — non-uniform.",
+                "Particle size > 1000 nm — visible to naked eye.",
+                "Scatters a beam of light — path of light is visible (similar to Tyndall effect but due to large particle size).",
+                "Unstable — particles settle down on standing (sedimentation).",
+                "Can be separated by filtration — particles are retained on filter paper.",
+                "When particles settle, the suspension breaks and no longer scatters light."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "2.2.3 What is a Colloidal Solution?",
+          "content": [
+            {
+              "type": "note",
+              "title": "Colloid (Colloidal Solution)",
+              "text": "A colloid (or colloidal solution) is a heterogeneous mixture where particles are too small to be seen with the naked eye but large enough to scatter light. Particle size: 1 nm to 1000 nm. Appears homogeneous to the naked eye but is actually heterogeneous. Example: milk, fog, smoke, ink, blood, foam."
+            },
+            {
+              "type": "note",
+              "title": "Tyndall Effect",
+              "text": "The scattering of a beam of visible light by colloidal particles is called the Tyndall effect (named after scientist John Tyndall). Observed when: (1) a torch beam passes through milk or starch solution — the beam becomes visible, (2) sunlight passes through a canopy of dense forest (mist droplets scatter light), (3) a beam of light enters a dusty room through a small hole (dust particles scatter light). Solutions do NOT show the Tyndall effect (particles too small). Suspensions do scatter light but particles are visible and settle."
+            },
+            {
+              "type": "note",
+              "title": "Components of a Colloid",
+              "text": "• Dispersed phase: the solute-like component (the particles that are spread out). Example: fat droplets in milk.\n• Dispersion medium: the medium in which the dispersed phase is distributed. Example: water in milk.\nColloids are classified by the state of dispersed phase and dispersion medium."
+            },
+            {
+              "type": "list",
+              "title": "Properties of a Colloid",
+              "items": [
+                "Heterogeneous mixture — though appears uniform to naked eye.",
+                "Particle size: 1 nm to 1000 nm.",
+                "Particles NOT visible to naked eye.",
+                "Scatters light — shows Tyndall effect (path of beam visible).",
+                "Stable — particles do NOT settle on standing.",
+                "Cannot be separated by filtration — particles pass through filter paper.",
+                "Can be separated by centrifugation — a special high-speed spinning technique."
+              ]
+            },
+            {
+              "type": "table",
+              "headers": ["Type of Colloid", "Dispersed Phase", "Dispersing Medium", "Examples"],
+              "rows": [
+                ["Aerosol", "Liquid", "Gas", "Fog, clouds, mist"],
+                ["Aerosol", "Solid", "Gas", "Smoke, automobile exhaust"],
+                ["Foam", "Gas", "Liquid", "Shaving cream"],
+                ["Emulsion", "Liquid", "Liquid", "Milk, face cream"],
+                ["Sol", "Solid", "Liquid", "Milk of magnesia, mud"],
+                ["Foam (solid)", "Gas", "Solid", "Rubber, sponge, pumice"],
+                ["Gel", "Liquid", "Solid", "Jelly, cheese, butter"],
+                ["Solid Sol", "Solid", "Solid", "Coloured gemstone, milky glass"]
+              ]
+            },
+            {
+              "type": "table",
+              "headers": ["Property", "Solution", "Colloid", "Suspension"],
+              "rows": [
+                ["Type of mixture", "Homogeneous", "Heterogeneous (appears homogeneous)", "Heterogeneous"],
+                ["Particle size", "< 1 nm", "1 nm to 1000 nm", "> 1000 nm"],
+                ["Visible to naked eye?", "No", "No", "Yes"],
+                ["Tyndall effect?", "No", "Yes", "Yes (particles visible)"],
+                ["Stability", "Stable — does not settle", "Stable — does not settle", "Unstable — settles on standing"],
+                ["Filtration", "Cannot be filtered", "Cannot be filtered (use centrifugation)", "Can be separated by filtration"]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.3 Physical and Chemical Changes",
+      "topics": [
+        {
+          "topic_name": "Physical vs Chemical Changes",
+          "content": [
+            {
+              "type": "note",
+              "title": "Physical Change",
+              "text": "A change in which no new substance is formed and the chemical composition remains the same. Physical properties (colour, hardness, state) may change but chemical nature does not. Examples: melting of ice, boiling of water, dissolving salt in water, cutting of wood, bending a wire. The interconversion of states of matter (solid ↔ liquid ↔ gas) is a physical change — ice, water, and water vapour are chemically the same (H₂O)."
+            },
+            {
+              "type": "note",
+              "title": "Chemical Change",
+              "text": "A change in which one or more new substances are formed with completely different chemical properties. Also called a chemical reaction. Examples: burning of wood/paper (new gases formed), rusting of iron, digestion of food, cooking food, electrolysis of water (breaks into H₂ and O₂). Chemical changes are generally irreversible."
+            },
+            {
+              "type": "paragraph",
+              "text": "During burning of a candle: (1) Melting of wax = physical change (wax changes state but remains wax). (2) Burning of wax vapour = chemical change (new substances CO₂ and H₂O are produced)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.4 What are the Types of Pure Substances?",
+      "topics": [
+        {
+          "topic_name": "2.4.1 Elements",
+          "content": [
+            {
+              "type": "note",
+              "title": "Element",
+              "text": "An element is a basic form of matter that cannot be broken down into simpler substances by chemical reactions. All atoms of an element are chemically the same. Elements are classified into metals, non-metals, and metalloids."
+            },
+            {
+              "type": "list",
+              "title": "Properties of Metals",
+              "items": [
+                "Have lustre (shine).",
+                "Silvery-grey or golden-yellow colour.",
+                "Good conductors of heat and electricity.",
+                "Ductile — can be drawn into wires.",
+                "Malleable — can be hammered into thin sheets.",
+                "Sonorous — produce a ringing sound when struck.",
+                "Examples: gold, silver, copper, iron, sodium, potassium. Special case: mercury is the only metal that is liquid at room temperature."
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Properties of Non-metals",
+              "items": [
+                "Display a variety of colours.",
+                "Poor conductors of heat and electricity.",
+                "Not lustrous, not sonorous, not malleable.",
+                "Examples: hydrogen, oxygen, iodine, carbon (coal, coke), bromine, chlorine.",
+                "Special case: bromine is the only non-metal that is liquid at room temperature."
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Metalloids",
+              "items": [
+                "Elements with properties intermediate between metals and non-metals.",
+                "Examples: boron, silicon, germanium."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Key Facts about Elements",
+              "text": "• More than 100 elements are known today.\n• 92 are naturally occurring; the rest are man-made (synthetic).\n• Majority of elements are solid at room temperature.\n• 11 elements are gaseous at room temperature (e.g., H₂, O₂, N₂, Cl₂, noble gases).\n• 2 elements are liquid at room temperature: mercury (metal) and bromine (non-metal).\n• Gallium and cesium become liquid just above room temperature (303 K)."
+            }
+          ]
+        },
+        {
+          "topic_name": "2.4.2 Compounds",
+          "content": [
+            {
+              "type": "note",
+              "title": "Compound",
+              "text": "A compound is a pure substance composed of two or more elements chemically combined in a fixed proportion. The properties of a compound are entirely different from those of its constituent elements. A compound has a fixed composition — its ratio of elements by mass is always constant. Compounds can be broken down into their elements only by chemical or electrochemical reactions, not by physical methods."
+            },
+            {
+              "type": "activity",
+              "id": "2.4",
+              "title": "Activity 2.4 — Iron + Sulphur: Mixture vs Compound",
+              "procedure": [
+                "Give both groups 5 g iron filings and 3 g sulphur powder.",
+                "Group I: mix and crush — no heating (forms mixture).",
+                "Group II: mix, crush, then heat strongly until red hot — cool (forms compound FeS).",
+                "Test both: bring magnet near, add carbon disulphide, add dilute HCl/H₂SO₄."
+              ],
+              "observation": "Group I (mixture): Iron attracted by magnet. Yellow sulphur dissolves in carbon disulphide. With acid → colourless, odourless H₂ gas produced.\nGroup II (compound): NOT attracted by magnet. Does not dissolve in carbon disulphide. With acid → colourless gas with rotten egg smell (H₂S — hydrogen sulphide produced).",
+              "conclusion": "The mixture (Group I) retains properties of its components. The compound (Group II, iron sulphide FeS) has completely new properties different from both iron and sulphur — proving a chemical change occurred."
+            },
+            {
+              "type": "table",
+              "headers": ["Mixtures", "Compounds"],
+              "rows": [
+                ["Elements/compounds just mix — no new substance formed.", "Elements react to form new compounds."],
+                ["Variable composition (can be mixed in any proportion).", "Fixed composition (elements always in the same ratio)."],
+                ["Shows properties of its constituent substances.", "Has entirely new properties — different from constituents."],
+                ["Can be separated by physical methods (filtration, evaporation, etc.).", "Can only be separated by chemical or electrochemical reactions."]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Classification of Matter — Summary",
+              "text": "Matter → Pure Substances + Mixtures.\nPure Substances → Elements (cannot be broken down chemically) + Compounds (fixed ratio of elements, broken down by chemical/electrochemical means).\nMixtures → Homogeneous (uniform, e.g., solutions, alloys, air) + Heterogeneous (non-uniform, e.g., soil, salad, suspensions)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Pure Substance",
+      "definition": "A substance consisting of a single type of particle, with the same chemical nature throughout and a fixed composition. Examples: gold, oxygen, water, sugar. Cannot be separated into simpler forms by physical methods."
+    },
+    {
+      "term": "Mixture",
+      "definition": "A combination of two or more pure substances (elements and/or compounds) in any proportion. Shows properties of its constituents. Can be separated by physical methods. Has variable composition."
+    },
+    {
+      "term": "Homogeneous Mixture",
+      "definition": "A mixture with uniform composition and appearance throughout. Also called a solution. No visible boundaries between components. Examples: salt water, air, brass."
+    },
+    {
+      "term": "Heterogeneous Mixture",
+      "definition": "A mixture with non-uniform composition where physically distinct regions can be identified. Examples: sand and gravel, oil and water, soil."
+    },
+    {
+      "term": "Solution",
+      "definition": "A homogeneous mixture of two or more substances where particle size < 1 nm. Stable (no settling), cannot be filtered, does not show Tyndall effect. Components: solvent (larger quantity) and solute (smaller quantity)."
+    },
+    {
+      "term": "Solvent",
+      "definition": "The component of a solution that dissolves the solute — usually present in larger quantity. Example: water in salt water."
+    },
+    {
+      "term": "Solute",
+      "definition": "The component of a solution that is dissolved in the solvent — usually present in smaller quantity. Example: salt in salt water."
+    },
+    {
+      "term": "Saturated Solution",
+      "definition": "A solution in which the maximum possible amount of solute has been dissolved at a given temperature. No more solute can dissolve without changing the temperature."
+    },
+    {
+      "term": "Solubility",
+      "definition": "The maximum amount of solute that can be dissolved in a given amount of solvent at a specific temperature to form a saturated solution. Generally increases with temperature for solid solutes."
+    },
+    {
+      "term": "Concentration of Solution",
+      "definition": "The amount of solute dissolved per unit amount of solution. Mass % = (mass of solute / mass of solution) × 100."
+    },
+    {
+      "term": "Suspension",
+      "definition": "A heterogeneous mixture where solid particles (> 1000 nm) are dispersed in a liquid but do not dissolve. Particles are visible, settle on standing (unstable), and can be filtered. Examples: chalk in water, muddy water."
+    },
+    {
+      "term": "Colloid",
+      "definition": "A heterogeneous mixture where particle size is 1–1000 nm — too small to see with naked eye but large enough to scatter light. Appears homogeneous, stable (doesn't settle), cannot be filtered. Examples: milk, fog, smoke, jelly."
+    },
+    {
+      "term": "Tyndall Effect",
+      "definition": "The scattering of a beam of visible light by colloidal particles, making the beam's path visible. Shown by colloids but NOT by true solutions. Named after scientist John Tyndall. Examples: sunlight through forest canopy, beam through dusty room, light through milk."
+    },
+    {
+      "term": "Dispersed Phase",
+      "definition": "The solute-like component in a colloid — the particles that are spread throughout. Example: fat droplets in milk."
+    },
+    {
+      "term": "Dispersion Medium",
+      "definition": "The medium in which the dispersed phase is distributed in a colloid. Example: water in milk."
+    },
+    {
+      "term": "Physical Change",
+      "definition": "A change in which no new substance is formed; chemical composition remains unchanged. Only physical properties change. Examples: melting, boiling, dissolving, cutting. Generally reversible."
+    },
+    {
+      "term": "Chemical Change",
+      "definition": "A change in which new substances with new chemical properties are formed. Also called a chemical reaction. Generally irreversible. Examples: rusting, burning, digestion."
+    },
+    {
+      "term": "Element",
+      "definition": "A pure substance that cannot be broken down into simpler substances by chemical reactions. All atoms of an element are chemically identical. Examples: gold, oxygen, carbon. Classified as metals, non-metals, or metalloids."
+    },
+    {
+      "term": "Compound",
+      "definition": "A pure substance composed of two or more elements chemically combined in a fixed proportion. Has properties entirely different from its elements. Can only be broken down by chemical or electrochemical methods. Examples: water (H₂O), iron sulphide (FeS), common salt (NaCl)."
+    },
+    {
+      "term": "Alloy",
+      "definition": "A homogeneous mixture (solid solution) of two or more metals, or a metal and a non-metal. Considered a mixture because it has variable composition and retains properties of constituents. Examples: brass (Cu + Zn), steel (Fe + C)."
+    }
+  ],
+  "summary_points": [
+    "A pure substance has a single type of particle with fixed composition and uniform properties. A mixture contains two or more pure substances in any proportion and can be separated by physical methods.",
+    "Mixtures are classified as homogeneous (uniform throughout — also called solutions) or heterogeneous (non-uniform with distinct parts). Homogeneous mixtures can have variable composition (e.g., copper sulphate solutions of different concentrations).",
+    "A solution is a homogeneous mixture with particle size < 1 nm. It is stable (no settling), cannot be filtered, and does NOT show the Tyndall effect. Components: solvent (larger quantity) + solute (smaller quantity). Types include solid-in-liquid, gas-in-liquid, gas-in-gas, and solid-in-solid (alloys).",
+    "Concentration of a solution = (mass of solute / mass of solution) × 100. A saturated solution has the maximum solute dissolved at a given temperature; solubility generally increases with temperature.",
+    "A suspension is a heterogeneous mixture with particle size > 1000 nm. Particles are visible, settle on standing (unstable), scatter light, and can be separated by filtration. Examples: chalk in water, muddy water.",
+    "A colloid is a heterogeneous mixture with particle size 1–1000 nm. Particles are not visible with naked eye but scatter light (Tyndall effect). Colloids are stable (particles don't settle) and cannot be filtered — centrifugation is used. Examples: milk, fog, smoke, jelly. Components: dispersed phase + dispersion medium.",
+    "The Tyndall effect is the scattering of light by colloidal particles. It is shown by colloids and suspensions but NOT by true solutions. Observed when sunlight passes through forest canopy, a beam enters dusty room, or light passes through milk.",
+    "Physical changes do not form new substances (melting, boiling, dissolving are reversible). Chemical changes form one or more new substances with new properties (burning, rusting, digestion — generally irreversible). Interconversion of states is physical; ice, water, steam are all H₂O.",
+    "The Activity 2.4 (iron + sulphur) demonstrates: mixing iron and sulphur = physical change (retains magnetic property of iron, dissolves in CS₂, gives H₂ with acid). Heating them = chemical change forming FeS compound (not attracted by magnet, insoluble in CS₂, gives H₂S with acid — rotten egg smell).",
+    "Pure substances are either elements (cannot be broken down chemically — e.g., gold, oxygen) or compounds (fixed ratio of elements, broken by chemical/electrochemical reactions — e.g., water, FeS). Compounds have entirely new properties different from constituent elements.",
+    "Metals: lustrous, malleable, ductile, sonorous, good conductors. Non-metals: variety of colours, poor conductors, not malleable. Metalloids: intermediate properties (boron, silicon, germanium). Mercury (metal) and bromine (non-metal) are the only elements liquid at room temperature.",
+    "Key difference — Mixture vs Compound: (1) mixture has variable composition, compound has fixed; (2) mixture shows constituent properties, compound shows new properties; (3) mixture separated by physical methods, compound only by chemical/electrochemical means."
+  ]
+}

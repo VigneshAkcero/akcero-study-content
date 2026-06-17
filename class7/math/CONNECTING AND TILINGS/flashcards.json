@@ -1,0 +1,322 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "CONNECTING AND TILINGS",
+    "chapter_number": 6
+  },
+  "flashcards": [
+    {
+      "q": "What is a perpendicular bisector?",
+      "a": "A line that divides a segment into two equal parts and meets it at a right angle (90°)."
+    },
+    {
+      "q": "State the key property of a perpendicular bisector.",
+      "a": "Any point on the perpendicular bisector is equidistant from the two endpoints of the segment."
+    },
+    {
+      "q": "What tools are needed for geometric construction?",
+      "a": "An unmarked ruler (straightedge) and a compass."
+    },
+    {
+      "q": "How many pairs of arcs are drawn to construct a perpendicular bisector?",
+      "a": "Two pairs: one pair above the segment and one pair below."
+    },
+    {
+      "q": "What is an angle bisector?",
+      "a": "A ray that divides an angle into two equal angles."
+    },
+    {
+      "q": "What is the measure of each angle in an equilateral triangle?",
+      "a": "60°."
+    },
+    {
+      "q": "How is a 60° angle constructed using compass and ruler?",
+      "a": "By constructing an equilateral triangle (all sides equal)."
+    },
+    {
+      "q": "What is the measure of each interior angle of a regular hexagon?",
+      "a": "120°."
+    },
+    {
+      "q": "How many equilateral triangles form a regular hexagon?",
+      "a": "Six congruent equilateral triangles meeting at a common center."
+    },
+    {
+      "q": "What condition allows angles to fit perfectly around a point without gaps?",
+      "a": "The angles must sum to exactly 360°."
+    },
+    {
+      "q": "What is a geometric construction?",
+      "a": "Drawing geometric figures precisely using only unmarked ruler and compass, without measuring."
+    },
+    {
+      "q": "State the congruence condition needed to prove perpendicular bisector property.",
+      "a": "SSS congruence (Side-Side-Side): if two triangles have equal sides, they are congruent."
+    },
+    {
+      "q": "How can a 45° angle be constructed?",
+      "a": "By bisecting a 90° angle."
+    },
+    {
+      "q": "How can a 30° angle be constructed?",
+      "a": "By bisecting a 60° angle."
+    },
+    {
+      "q": "How can a 90° angle be constructed at a point on a line?",
+      "a": "By constructing the perpendicular bisector of a segment for which that point is the midpoint."
+    },
+    {
+      "q": "What does 'bisection' mean?",
+      "a": "Dividing a line segment or angle into two identical (congruent) parts."
+    },
+    {
+      "q": "What is a transversal?",
+      "a": "A line that intersects two or more other lines at different points."
+    },
+    {
+      "q": "When are two lines parallel (using corresponding angles)?",
+      "a": "When a transversal creates equal corresponding angles with both lines."
+    },
+    {
+      "q": "How do you construct a line parallel to a given line?",
+      "a": "By copying the angle between the original line and a transversal at a new point on the transversal."
+    },
+    {
+      "q": "What is the formula for the interior angle of a regular n-sided polygon?",
+      "a": "Interior angle = (n - 2) × 180° / n."
+    },
+    {
+      "q": "Can a regular pentagon tile the entire plane alone?",
+      "a": "No, because its interior angle (108°) does not divide 360° evenly."
+    },
+    {
+      "q": "Which regular polygons can tile the entire plane individually?",
+      "a": "Equilateral triangles (60°), squares (90°), and regular hexagons (120°)."
+    },
+    {
+      "q": "What is tiling (tessellation)?",
+      "a": "Covering a region or plane with shapes (tiles) without gaps or overlaps."
+    },
+    {
+      "q": "Define a 2×1 tile in tiling problems.",
+      "a": "A rectangular tile with dimensions 2 units by 1 unit."
+    },
+    {
+      "q": "What is the parity condition for tiling with 2×1 tiles?",
+      "a": "The total number of unit squares must be even (since each tile covers 2 squares)."
+    },
+    {
+      "q": "Can a 5×7 grid be tiled with 2×1 tiles?",
+      "a": "No, because 5 × 7 = 35 (odd), and 35 ÷ 2 = 17.5 (not whole)."
+    },
+    {
+      "q": "Can a 4×6 grid be tiled with 2×1 tiles?",
+      "a": "Yes, because 4 × 6 = 24 (even), and 24 ÷ 2 = 12 tiles are needed."
+    },
+    {
+      "q": "Describe the checkerboard coloring strategy for tiling.",
+      "a": "Color the grid like a checkerboard. Each 2×1 tile covers one black and one white square. If counts are unequal, tiling is impossible."
+    },
+    {
+      "q": "When is an m×n grid tileable with 2×1 tiles?",
+      "a": "When at least one of m or n is even (making m × n even), OR both are even."
+    },
+    {
+      "q": "Is a 5×6 grid tileable with 2×1 tiles?",
+      "a": "Yes, because one dimension (6) is even, making 5 × 6 = 30 (even)."
+    },
+    {
+      "q": "Define corresponding angles.",
+      "a": "Angles in the same relative position at two intersections when a transversal crosses two lines."
+    },
+    {
+      "q": "What is an angle bisector used for in construction?",
+      "a": "To divide an angle into two equal parts or to create a bisector for designs."
+    },
+    {
+      "q": "State a defining property of a regular polygon.",
+      "a": "All sides are equal in length and all interior angles are equal in measure."
+    },
+    {
+      "q": "What is a tangram?",
+      "a": "An ancient Chinese puzzle consisting of 7 geometric pieces (triangles, square, parallelogram) that fit a square and can be rearranged into many shapes."
+    },
+    {
+      "q": "How many pieces are in a standard tangram?",
+      "a": "7 pieces: 2 large triangles, 1 medium triangle, 2 small triangles, 1 square, 1 parallelogram."
+    },
+    {
+      "q": "What historical texts describe geometric constructions in ancient India?",
+      "a": "The Sulba-Sutras, which record methods for constructing perpendiculars and right angles using ropes."
+    },
+    {
+      "q": "What was a rope used for in ancient geometric constructions?",
+      "a": "To draw circles/arcs (like a compass) and to form straight lines (like a ruler)."
+    },
+    {
+      "q": "What is a trefoil arch?",
+      "a": "An arch with three lobes or curves, characterized by equal arm lengths (AB = CD) and equal angles (∠BAD = ∠CDA)."
+    },
+    {
+      "q": "What is a pointed arch?",
+      "a": "An arch formed by two arcs of equal radius meeting at a pointed peak."
+    },
+    {
+      "q": "How many sides does a regular hexagon have?",
+      "a": "6 sides."
+    },
+    {
+      "q": "What is the relationship between a hexagon and equilateral triangles?",
+      "a": "A regular hexagon can be divided into 6 congruent equilateral triangles by joining the center to all vertices."
+    },
+    {
+      "q": "What is the interior angle of a regular triangle (equilateral)?",
+      "a": "60°."
+    },
+    {
+      "q": "What is the interior angle of a regular quadrilateral (square)?",
+      "a": "90°."
+    },
+    {
+      "q": "How do you determine if a regular polygon can tile the plane?",
+      "a": "Check if its interior angle divides 360° evenly (360° ÷ interior angle must be a whole number)."
+    },
+    {
+      "q": "Can a 15° angle be constructed?",
+      "a": "Yes, by bisecting a 30° angle (which itself is obtained by bisecting a 60° angle)."
+    },
+    {
+      "q": "How many times can you bisect an angle to construct 22.5°?",
+      "a": "Bisect a 90° angle once to get 45°, then bisect the 45° angle again to get 22.5°."
+    },
+    {
+      "q": "Name the congruence condition: SSS.",
+      "a": "Side-Side-Side: Two triangles are congruent if all three sides are equal respectively."
+    },
+    {
+      "q": "Name the congruence condition: SAS.",
+      "a": "Side-Angle-Side: Two triangles are congruent if two sides and the included angle are equal."
+    },
+    {
+      "q": "What does 'isosceles triangle' mean?",
+      "a": "A triangle with two sides of equal length."
+    },
+    {
+      "q": "What property of an isosceles triangle is used in angle bisection?",
+      "a": "If two sides are equal, the angles opposite them are equal."
+    },
+    {
+      "q": "What is the relationship between the three angles in a triangle?",
+      "a": "They sum to exactly 180°."
+    },
+    {
+      "q": "If a transversal crosses two parallel lines, what can you say about corresponding angles?",
+      "a": "Corresponding angles are equal."
+    },
+    {
+      "q": "How many vertices does a regular hexagon have?",
+      "a": "6 vertices."
+    },
+    {
+      "q": "Define the term 'perpendicular'.",
+      "a": "Two lines are perpendicular if they meet at a right angle (90°)."
+    },
+    {
+      "q": "What is the sum of all angles around a point?",
+      "a": "360°."
+    },
+    {
+      "q": "Why doesn't a regular pentagon tile the plane?",
+      "a": "Its interior angle is 108°, and 360° ÷ 108° ≈ 3.33 (not a whole number), so pentagons don't fit evenly around a point."
+    },
+    {
+      "q": "Can two parallel lines ever intersect?",
+      "a": "No, parallel lines are defined as lines that never meet."
+    },
+    {
+      "q": "What is a supporting line in geometric construction?",
+      "a": "A reference line or arc used to guide construction but not part of the final figure."
+    },
+    {
+      "q": "How is an angle copied using compass and ruler?",
+      "a": "By constructing an isosceles triangle with equal sides and transferring the base length to create a congruent triangle."
+    },
+    {
+      "q": "What is the significance of 360° in geometric constructions?",
+      "a": "It represents the complete angle around a point; designers and constructors use it to fit shapes without gaps."
+    },
+    {
+      "q": "Define 'collinear points'.",
+      "a": "Points that lie on the same straight line."
+    },
+    {
+      "q": "What is the midpoint of a line segment?",
+      "a": "The point that divides the segment into two equal parts."
+    },
+    {
+      "q": "How do you find the midpoint of a segment using compass and ruler?",
+      "a": "Construct the perpendicular bisector; it intersects the segment at the midpoint."
+    },
+    {
+      "q": "What is a rectangle?",
+      "a": "A quadrilateral with four right angles (90°) and opposite sides equal."
+    },
+    {
+      "q": "Why are bees and wasps able to make hexagonal cells in honeycombs?",
+      "a": "Hexagons tile the plane efficiently with no gaps, maximizing storage space and minimizing material."
+    },
+    {
+      "q": "Name three shapes that appear in a tangram puzzle.",
+      "a": "Right triangles, square, and parallelogram."
+    },
+    {
+      "q": "What is the total area covered by a tangram in terms of its bounding square?",
+      "a": "Equal to the area of the entire bounding square."
+    },
+    {
+      "q": "Can a line have more than one perpendicular bisector?",
+      "a": "No, each line segment has exactly one perpendicular bisector."
+    },
+    {
+      "q": "What does 'congruent' mean?",
+      "a": "Identical in shape and size; congruent figures can be mapped onto each other."
+    },
+    {
+      "q": "How many degrees are in a complete angle around a point?",
+      "a": "360 degrees."
+    },
+    {
+      "q": "What three angles can be directly constructed without bisection?",
+      "a": "90° (perpendicular), 60° (equilateral triangle), and any angle whose measure is formed by these."
+    },
+    {
+      "q": "Define 'acute angle'.",
+      "a": "An angle that measures less than 90°."
+    },
+    {
+      "q": "Define 'obtuse angle'.",
+      "a": "An angle that measures more than 90° but less than 180°."
+    },
+    {
+      "q": "Define 'right angle'.",
+      "a": "An angle that measures exactly 90°."
+    },
+    {
+      "q": "Define 'straight angle'.",
+      "a": "An angle that measures exactly 180° (a straight line)."
+    },
+    {
+      "q": "What makes a tiling 'complete'?",
+      "a": "Every region is covered by tiles, with no gaps or overlaps."
+    },
+    {
+      "q": "Can a non-regular polygon tile the plane?",
+      "a": "Yes, some non-regular polygons (like parallelograms and certain quadrilaterals) can tile the plane."
+    },
+    {
+      "q": "What is Dutch artist M.C. Escher famous for?",
+      "a": "Creating intricate tilings of the plane with animal shapes and artistic designs based on mathematical principles."
+    }
+  ]
+}

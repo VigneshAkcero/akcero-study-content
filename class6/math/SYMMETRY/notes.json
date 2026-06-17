@@ -1,0 +1,147 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "SYMMETRY",
+    "chapter_number": 9
+  },
+  "notes": [
+    {
+      "section_title": "Understanding Line Symmetry",
+      "topics": [
+        {
+          "topic_name": "Line of Symmetry and Reflection",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A figure has line symmetry if a line can be drawn dividing it into two halves that overlap exactly when folded. This line is called the line of symmetry or axis of symmetry. The two parts are called mirror halves."
+            },
+            {
+              "type": "list",
+              "title": "Lines of Symmetry in Common Shapes",
+              "items": [
+                "**Rectangle**: 2 lines of symmetry (horizontal and vertical). Note: Diagonals are NOT lines of symmetry.",
+                "**Square**: 4 lines of symmetry (horizontal, vertical, and both diagonals).",
+                "**Equilateral Triangle**: 3 lines of symmetry.",
+                "**Regular Hexagon**: 6 lines of symmetry.",
+                "**Circle**: Infinite lines of symmetry (every diameter)."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example-1",
+              "question": "Does a rectangle have its diagonal as a line of symmetry? Explain by folding.",
+              "solution": "No. When you fold a rectangular sheet of paper along its diagonal, the two parts do not overlap exactly. Therefore, the diagonal is not a line of symmetry."
+            },
+            {
+              "type": "example",
+              "title": "Example-2",
+              "question": "A square ABCD is reflected along its vertical line of symmetry. Where do the points A and B move?",
+              "solution": "1. Point B (on the right) is reflected to the left and occupies the position previously held by A.\n2. Point A (on the left) is reflected to the right and occupies the position previously held by B."
+            }
+          ]
+        },
+        {
+          "topic_name": "Generating Symmetric Shapes",
+          "content": [
+            {
+              "type": "activity",
+              "title": "Ink Blot Devils",
+              "procedure": [
+                "Fold a piece of paper in half.",
+                "Spill a few drops of ink on one half.",
+                "Press the halves together and open."
+              ],
+              "conclusion": "The resulting pattern is mirrored across the fold line, which becomes the line of symmetry."
+            },
+            {
+              "type": "activity",
+              "title": "Punching Game",
+              "procedure": [
+                "Fold a square sheet of paper.",
+                "Punch a hole through the folded layers.",
+                "Unfold the paper."
+              ],
+              "conclusion": "The unfolded paper shows multiple holes arranged symmetrically relative to the fold lines."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Rotational Symmetry",
+      "topics": [
+        {
+          "topic_name": "Centre and Angles of Rotation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A figure has rotational symmetry if it looks exactly the same after being rotated by some angle less than $360^\\circ$ about a fixed point (centre of rotation)."
+            },
+            {
+              "type": "list",
+              "title": "Common Angles of Symmetry",
+              "items": [
+                "**Windmill/Square**: $90^\\circ, 180^\\circ, 270^\\circ, 360^\\circ$. The smallest angle is $90^\\circ$ (quarter turn).",
+                "**Equilateral Triangle**: $120^\\circ, 240^\\circ, 360^\\circ$. The smallest angle is $120^\\circ$.",
+                "**Rectangle**: $180^\\circ, 360^\\circ$. The smallest angle is $180^\\circ$."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example-3",
+              "question": "A figure has a smallest angle of rotational symmetry of $60^\\circ$. What are its other angles of symmetry?",
+              "solution": "The angles of symmetry are always multiples of the smallest angle. So, the angles are $60^\\circ, 120^\\circ, 180^\\circ, 240^\\circ, 300^\\circ, 360^\\circ$."
+            },
+            {
+              "type": "example",
+              "title": "Example-4",
+              "question": "Can a figure have rotational symmetry if its smallest angle is $17^\\circ$?",
+              "solution": "No. For a figure to have rotational symmetry, the smallest angle in degrees must be a factor of $360^\\circ$. Since 360 is not divisible by 17, it cannot have rotational symmetry."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Regular Polygons and Circles",
+      "topics": [
+        {
+          "topic_name": "Combined Symmetry",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Regular polygons (like a square or equilateral triangle) have both line symmetry and rotational symmetry. The number of lines of symmetry is equal to the number of sides, which is also equal to the order of rotational symmetry."
+            },
+            {
+              "type": "note",
+              "title": "The Circle",
+              "text": "A circle is the most symmetric shape. It has infinite lines of symmetry (any diameter) and infinite angles of rotational symmetry about its centre."
+            },
+            {
+              "type": "example",
+              "title": "Example-5",
+              "question": "How many lines and angles of symmetry does the Ashoka Chakra have?",
+              "solution": "The Ashoka Chakra has 24 spokes. It has 24 lines of symmetry and 24 angles of rotational symmetry (smallest angle = $360^\\circ \\div 24 = 15^\\circ$)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Line of Symmetry", "definition": "A line that divides a figure into two identical halves that exactly overlap upon folding." },
+    { "term": "Reflection Symmetry", "definition": "A type of symmetry where one half of a figure is the mirror image of the other half." },
+    { "term": "Rotational Symmetry", "definition": "A property where a figure looks the same after a rotation about its centre by an angle less than $360^\\circ$." },
+    { "term": "Centre of Rotation", "definition": "The fixed point about which a figure is rotated." },
+    { "term": "Angle of Symmetry", "definition": "The angle through which a figure is rotated to coincide with its original position." }
+  ],
+  "summary_points": [
+    "Symmetry exists when parts of a figure repeat in a definite pattern.",
+    "A line of symmetry folds a figure into two identical mirror halves.",
+    "Regular polygons have as many lines of symmetry as they have sides.",
+    "Rotational symmetry depends on a centre of rotation and an angle that is a factor of $360^\\circ$.",
+    "Circles possess infinite line and rotational symmetries.",
+    "Some figures, like the pinwheel, have rotational symmetry but no line symmetry."
+  ]
+}

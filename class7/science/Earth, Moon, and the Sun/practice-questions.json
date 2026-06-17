@@ -1,0 +1,227 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Science",
+    "chapter_name": "Earth, Moon, and the Sun",
+    "chapter_number": 12
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is rotation? Define the axis of rotation.",
+      "answer": "Rotation is the motion of an object in which all its parts move in circles around an imaginary line passing through it. That imaginary line is called the axis of rotation.",
+      "solution": "Rotation describes a spinning motion. Every point in the rotating object traces a circular path around a fixed line — the axis of rotation. For the Earth, the axis of rotation is an imaginary line passing through the geographic North Pole and the South Pole. A spinning top, a spinning fan, and a ball spinning in place are all examples of rotation."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "In approximately how many hours does the Earth complete one rotation? In which direction does it rotate?",
+      "answer": "The Earth completes one rotation in approximately 24 hours. It rotates from West to East (anti-clockwise when viewed from above the North Pole).",
+      "solution": "The Earth spins on its own axis continuously. One complete rotation takes approximately 24 hours, which defines the length of a day. When viewed from above the North Pole, this rotation appears anti-clockwise, meaning the Earth moves from West to East. This is why the Sun appears to rise in the East and set in the West — the Earth is rotating towards the East beneath the Sun."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What causes the day-night cycle on Earth?",
+      "answer": "The rotation of the Earth from West to East causes the day-night cycle. The side facing the Sun has daytime; the side facing away has night-time.",
+      "solution": "At any given moment, the Sun illuminates exactly half of the Earth's surface. The half facing the Sun experiences daytime, and the other half experiences night-time. As the Earth rotates from West to East over approximately 24 hours, every location on Earth moves alternately into the sunlit side (day) and the dark side (night). Sunrise occurs as a location rotates into the sunlit side, and sunset occurs as it rotates into darkness."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What is revolution? What is the orbit of the Earth?",
+      "answer": "Revolution is the motion of an object around another object. The Earth's orbit is the nearly circular path it takes while revolving around the Sun.",
+      "solution": "Revolution differs from rotation — rotation is spinning on one's own axis, while revolution is moving around another body. The Earth revolves around the Sun. The path traced by the Earth during this revolution is called its orbit, which is nearly circular when viewed from the top (above the North Pole). The Earth completes one full revolution in approximately 365 days and 6 hours, which defines one year."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What causes seasons on the Earth?",
+      "answer": "Seasons are caused by the tilt of Earth's axis of rotation combined with the spherical shape of the Earth — not by Earth's changing distance from the Sun.",
+      "solution": "The Earth's axis is tilted with respect to the plane of its orbit, and it maintains this tilt throughout the year as it revolves around the Sun. This tilt causes different hemispheres to receive: (1) Sunlight at different angles — a tilted hemisphere facing the Sun receives concentrated (intense) sunlight over a smaller area due to Earth's spherical shape. (2) Sunlight for different durations — the tilted hemisphere receives more than 12 hours of sunlight per day. Together, these cause summer in the hemisphere tilted towards the Sun and winter in the hemisphere tilted away."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What is a solar eclipse?",
+      "answer": "A solar eclipse occurs when the Moon comes between the Sun and the Earth, blocking sunlight from reaching a part of the Earth.",
+      "solution": "The arrangement during a solar eclipse is: Sun → Moon → Earth. The Moon's shadow falls on a small area of Earth's surface. Observers in the region completely covered by the Moon's shadow (umbra) experience a total solar eclipse — the Sun is completely hidden. Observers in regions partially covered experience a partial solar eclipse — only part of the Sun is hidden."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What is a lunar eclipse?",
+      "answer": "A lunar eclipse occurs when the Earth comes between the Sun and the Moon, causing the Earth's shadow to fall on the Moon.",
+      "solution": "The arrangement during a lunar eclipse is: Sun → Earth → Moon. The Earth blocks sunlight that would otherwise illuminate the Moon. When the Moon moves completely into Earth's shadow, it is a total lunar eclipse — the Moon's bright disc appears dark red. When only part of the Moon enters Earth's shadow, it is a partial lunar eclipse."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Is it safe to watch a solar eclipse with the naked eye? What about a lunar eclipse?",
+      "answer": "No — watching a solar eclipse directly with the naked eye can permanently damage the eyes and cause blindness. A lunar eclipse is completely safe to watch with the naked eye.",
+      "solution": "During a solar eclipse, the Sun's radiation is still intense enough to cause permanent eye damage even though the Moon partially or fully covers the Sun. The eyes can be damaged without feeling immediate pain. Safe methods include certified solar eclipse goggles, or projecting the Sun's image onto a screen using a mirror. A lunar eclipse, on the other hand, involves only reflected light from the Moon — there is no danger in watching it directly."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Name the two types of solar eclipse and two types of lunar eclipse.",
+      "answer": "Solar eclipse: Total solar eclipse and partial solar eclipse. Lunar eclipse: Total lunar eclipse and partial lunar eclipse.",
+      "solution": "Solar eclipses — (1) Total solar eclipse: The Moon completely covers the Sun; the Moon's full shadow (umbra) falls on a small area of Earth. It is dark during the day for a few minutes. (2) Partial solar eclipse: The Moon covers only part of the Sun; the Moon's partial shadow (penumbra) falls on the observer. Lunar eclipses — (1) Total lunar eclipse: The Moon moves completely into Earth's shadow; the Moon appears dark red. (2) Partial lunar eclipse: Only part of the Moon enters Earth's shadow."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "What is the Pole Star (Dhruva Tara)? Why does it appear nearly stationary in the sky?",
+      "answer": "The Pole Star is a star that appears nearly stationary in the night sky because the Earth's axis of rotation points very close to it in the Northern Hemisphere.",
+      "solution": "As the Earth rotates, all stars appear to move across the night sky — just as objects appear to move when you spin around. However, the Earth's axis of rotation points almost directly at the Pole Star. This means the Pole Star barely shifts position as the Earth rotates, making it appear nearly stationary. All other stars appear to revolve around it in circular paths. This made the Pole Star invaluable for navigation historically."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "In the Northern Hemisphere, on approximately which date does the longest day occur? What is this day called?",
+      "answer": "Around 21 June. It is called the Summer Solstice.",
+      "solution": "On 21 June, the Northern Hemisphere is tilted most directly towards the Sun. This results in the maximum duration of daylight — the longest day and shortest night of the year in the Northern Hemisphere. This day is called the Summer Solstice. In the Southern Hemisphere, 21 June is the Winter Solstice — the shortest day. The situation is reversed on 22 December, which is the Winter Solstice in the Northern Hemisphere and Summer Solstice in the Southern Hemisphere."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "What is an equinox? Name the two equinoxes and when they occur in the Northern Hemisphere.",
+      "answer": "An equinox is a day when daytime and night-time are each approximately 12 hours long. Spring Equinox: ~21 March; Autumn Equinox: ~23 September.",
+      "solution": "The word 'equinox' means 'equal night'. On equinox days, neither hemisphere is tilted more towards the Sun than the other, so sunlight falls equally on both hemispheres. This results in approximately 12 hours of daylight and 12 hours of darkness everywhere on Earth. In the Northern Hemisphere: (1) Spring Equinox — around 21 March, marking the beginning of spring. (2) Autumn Equinox — around 23 September, marking the beginning of autumn."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Abhay noticed that when it was daytime in India, his uncle in the USA was sleeping as it was night-time there. Explain why this happens.",
+      "answer": "Because the Earth rotates on its axis, different parts of the Earth face the Sun at different times. India and the USA are on opposite sides of the Earth, so when India faces the Sun (daytime), the USA faces away (night-time).",
+      "solution": "The Earth rotates on its axis once every 24 hours. At any given moment, exactly one half of the Earth faces the Sun (experiencing day) while the other half faces away (experiencing night). India and the USA are located at very different longitudes — India is in South Asia and the USA is in North America, roughly on opposite sides of the Earth with respect to day-night timing. When it is daytime in India (India is facing the Sun), the USA is on the dark side of the Earth and therefore experiencing night-time. As the Earth continues to rotate, the USA will eventually rotate into the sunlit side while India moves into the dark side."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Explain the merry-go-round analogy used in Activity 12.1 to understand why the Sun appears to move across the sky.",
+      "answer": "When you turn anti-clockwise on a merry-go-round, stationary objects around you appear to move clockwise. Similarly, as the Earth rotates from West to East, the stationary Sun appears to move from East to West.",
+      "solution": "In Activity 12.1, a student sits on a merry-go-round facing outward, turning anti-clockwise. The stationary objects around them (trees, buildings) appear to move in the opposite direction — clockwise — because the observer's perspective is rotating. Similarly, the Earth rotates from West to East (anti-clockwise from the North Pole). A person standing on Earth observes the stationary Sun apparently moving in the opposite direction — from East to West — across the sky. The Sun is not actually moving across our sky; it is our platform (the Earth) that is rotating. This analogy neatly illustrates how the motion of the observer creates an apparent motion in stationary objects."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Padmashree saw the Orion constellation nearly overhead at 8 pm one evening. When will she see Orion overhead the next evening?",
+      "answer": "She will see Orion overhead at approximately 8 pm the next evening as well, since the Earth completes one full rotation in ~24 hours.",
+      "solution": "The apparent positions of stars in the night sky are governed primarily by the Earth's rotation. Since the Earth completes one full rotation in approximately 24 hours, the stars return to (nearly) the same positions in the sky at the same time each night. Therefore, Padmashree will see Orion nearly overhead again at approximately 8 pm the following evening. (There is a slight shift each night — about 4 minutes earlier — because the Earth also revolves around the Sun, which is why star positions shift gradually over months. But over just one day, this effect is negligible.)"
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Why do different constellations appear in the night sky in different months of the year?",
+      "answer": "Because the Earth revolves around the Sun, it faces different directions in space at different times of year, causing different constellations to be visible in the night sky.",
+      "solution": "Every evening after sunset, we can see stars in the direction away from the Sun. As the Earth revolves around the Sun over the course of a year, it faces different regions of space on different nights. In January, Earth's night side faces a particular region of space; by June, the Earth has moved halfway around the Sun, so the night side faces the opposite region of space. This causes the stars and constellations visible after sunset to gradually change throughout the year. Some constellations visible in winter are behind the Sun in summer and therefore hidden in the glare of daylight."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Why can the Moon, which is much smaller than the Sun, completely block the Sun during a total solar eclipse?",
+      "answer": "Because the Moon's apparent size as seen from Earth is nearly equal to the Sun's apparent size — the Moon is ~400 times smaller but also ~400 times closer to Earth, making them look the same size in the sky.",
+      "solution": "The apparent size of an object depends on both its actual physical size and its distance from the observer. Although the Moon is about 400 times smaller than the Sun in actual diameter, it is also about 400 times closer to the Earth than the Sun. This remarkable coincidence means that the Moon and Sun have nearly equal apparent sizes (angular diameters) as seen from Earth. This can be understood through Activity 12.4 — a thumb held close to the eye can block the view of a friend's head that is much larger but farther away. Since their apparent sizes match, the Moon can perfectly cover the Sun's disc during a total solar eclipse."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Why is a total solar eclipse visible only from a small area of the Earth and for only a few minutes, while a total lunar eclipse is visible from a much larger area?",
+      "answer": "The Moon's shadow covers only a small area on Earth's surface, limiting total solar eclipse visibility. During a lunar eclipse, Earth's large shadow covers the Moon entirely, making it visible from the whole night side of Earth.",
+      "solution": "Solar eclipse: The Moon is a small body, so its shadow (umbra) cast on the Earth is very small — typically only a few hundred kilometres wide. Only observers within this narrow shadow band witness a total solar eclipse. Additionally, due to the Earth's rotation and the Moon's orbital motion, this shadow sweeps across Earth's surface quickly, limiting the duration of totality at any location to a few minutes. Lunar eclipse: The Earth is much larger than the Moon, so Earth's shadow is large enough to completely engulf the Moon. Whenever a total lunar eclipse occurs, it is visible from the entire hemisphere of Earth from which the Moon is above the horizon — a much larger area. The Moon can remain in Earth's shadow for over an hour, making it a longer event."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "State whether the following statements are True or False and correct the false ones: (i) Lunar eclipse occurs when the Sun comes between the Earth and the Moon. (ii) Sunrise happens earlier in Gujarat than in Jharkhand. (iii) The Earth's revolution around the Sun causes day and night. (iv) Seasons occur due to the tilt of Earth's axis and its spherical shape.",
+      "answer": "(i) False (ii) False (iii) False (iv) True",
+      "solution": "(i) False. A lunar eclipse occurs when the EARTH comes between the Sun and the Moon (Sun → Earth → Moon). When the Sun comes between the Earth and Moon, that is not possible as the Sun is much farther away — the correct arrangement for a solar eclipse is Sun → Moon → Earth. (ii) False. India rotates from West to East. Jharkhand is located to the east of Gujarat. Since eastern locations rotate into sunlight first, sunrise occurs earlier in Jharkhand than in Gujarat. (iii) False. Day and night are caused by the Earth's ROTATION (spinning on its axis), not revolution. Revolution (around the Sun) causes the changing night sky and seasons. (iv) True. Seasons occur because the Earth's axis is tilted with respect to its orbit, and due to the spherical shape of the Earth, this tilt causes different intensities and durations of sunlight in different hemispheres at different times of year."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "The Indian cricket team is travelling to Australia for matches in December. Should they pack winter or summer clothes? Explain.",
+      "answer": "They should pack summer clothes. December is summer in Australia because it is in the Southern Hemisphere, where the seasons are opposite to those in the Northern Hemisphere.",
+      "solution": "Seasons in the Northern and Southern Hemispheres are always opposite to each other. In December, the Southern Hemisphere is tilted towards the Sun — it receives more intense sunlight for a longer duration, causing summer. Australia is entirely in the Southern Hemisphere. Therefore, while India (in the Northern Hemisphere) experiences winter in December, Australia experiences summer. The cricket team should pack light summer clothes for their trip to Australia in December."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "Four friends observed a solar eclipse as follows: (i) Ravikiran used solar eclipse goggles. (ii) Jyothi used a mirror to project the Sun's image on a wall. (iii) Adithya viewed the Sun directly with his eyes. (iv) Aruna attended a planetarium viewing event. Who was being careless and why?",
+      "answer": "Adithya was being careless — looking at the Sun directly during a solar eclipse can permanently damage the eyes and cause blindness.",
+      "solution": "During a solar eclipse, the Sun's radiation remains extremely intense — even when partially blocked by the Moon. Looking at the Sun directly without proper protection: (1) Can damage the retina (back of the eye) permanently. (2) May cause partial or complete blindness. (3) Does not cause immediate pain — so the damage can occur without warning. The other three friends used safe methods: Ravikiran used certified solar eclipse goggles (specifically designed to block harmful radiation). Jyothi used a mirror to project an image — indirect viewing, safe. Aruna attended a planetarium event where professionals provide proper eye protection and guidance. Adithya alone was being careless and putting his eyesight at risk."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "What is the Foucault pendulum and what does it demonstrate?",
+      "answer": "The Foucault pendulum is a long pendulum with a heavy bob suspended from a high ceiling. As the Earth rotates beneath it, the plane of the pendulum's swing appears to rotate — demonstrating the Earth's rotation.",
+      "solution": "In the mid-19th century, scientist Léon Foucault devised a simple and elegant demonstration of the Earth's rotation. A Foucault pendulum consists of a very long wire with a heavy, dense bob (weight) suspended from a high fixed point. When set swinging, a pendulum naturally continues swinging in the same plane in space (it has no force to change its plane). However, because the Earth rotates beneath it, observers on Earth see the plane of the pendulum's swing gradually rotating over the course of the day. This apparent rotation of the swing plane is direct evidence of the Earth's rotation. A 22-metre Foucault pendulum is installed in the Constitution Hall of India's new Parliament building in New Delhi, symbolising the integration of scientific understanding with national identity."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "Nandhini saw a group of stars rising at midnight on 21 June. When will she next see the same group of stars rising at midnight?",
+      "answer": "She will see the same group of stars rising at midnight approximately one year later — around 21 June the following year.",
+      "solution": "The time at which a specific star or group of stars rises at a given location is determined by: (1) The Earth's rotation (which causes stars to rise and set each day). (2) The Earth's revolution around the Sun (which shifts the rising time of stars by about 4 minutes earlier each night). Over the course of a full year (one complete revolution of the Earth around the Sun), stars return to exactly the same position in the sky at the same time of night. Therefore, if a group of stars rises at midnight on 21 June, it will rise at midnight again on approximately 21 June the following year — after Earth has completed one full revolution around the Sun."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Two incorrect explanations for seasons are often given: (i) The hemisphere tilted towards the Sun is closer to the Sun. (ii) Earth's oval orbit brings it closer to the Sun in summer. Explain clearly why both are wrong.",
+      "answer": "Both are wrong: the difference in distance caused by either explanation is negligible and cannot cause seasons. In fact, the Earth is closest to the Sun in January — Northern Hemisphere winter.",
+      "solution": "Explanation (i) — Tilted hemisphere being closer: While it is true that when a hemisphere tilts towards the Sun, that hemisphere is very slightly closer to the Sun than the opposite hemisphere, the difference in distance is extremely small compared to the Earth-Sun distance (~150 million km). Such a tiny difference in distance cannot account for the dramatic temperature difference between summer and winter. The real reasons are the angle and duration of sunlight. Explanation (ii) — Earth's oval orbit: Earth's orbit is indeed slightly elliptical (not a perfect circle), and Earth does vary slightly in distance from the Sun over the year. However, the Earth is actually closest to the Sun (perihelion) in early January — which is when the Northern Hemisphere experiences winter, not summer. If closeness to the Sun caused summer, January would be the Northern Hemisphere's hottest month, which is clearly not the case. The correct cause: Seasons are caused by the TILT of Earth's axis. When a hemisphere tilts towards the Sun: (1) Sunrays strike at a steeper angle, concentrating energy over a smaller area (more intense). (2) The hemisphere has more than 12 hours of daylight (longer exposure). Both effects together produce summer; neither effect is related to distance."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "If the Earth's axis were not tilted with respect to its orbit, what would be the effect on seasons? Explain.",
+      "answer": "If the Earth's axis were upright (not tilted), there would be no seasons anywhere on Earth. Every location would have 12 hours of day and 12 hours of night all year round, and the intensity of sunlight at any location would not change throughout the year.",
+      "solution": "Seasons exist because of two effects of the axial tilt: (1) Different intensities of sunlight — when a hemisphere is tilted towards the Sun, sunrays strike at a steeper angle, concentrating energy on a smaller area. (2) Different durations of sunlight — the tilted hemisphere receives more than 12 hours of daylight. If the axis were upright (0° tilt): (1) The Sun would always be directly overhead at the equator and at the same angle at every other latitude throughout the year — no change in intensity from season to season. (2) Every location on Earth would receive exactly 12 hours of day and 12 hours of night throughout the year — no change in duration. (3) Neither hemisphere would ever be tilted more towards or away from the Sun. Result: No seasons. The equatorial regions would remain hot, the polar regions cold, and the mid-latitudes temperate — all year, with no seasonal change. The equinox conditions would effectively persist all year everywhere on Earth."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Explain why the Moon turns dark red during a total lunar eclipse instead of becoming completely dark.",
+      "answer": "During a total lunar eclipse, Earth's atmosphere bends (refracts) some sunlight — particularly red wavelengths — around Earth's curvature and redirects it onto the Moon, giving it a dark red colour.",
+      "solution": "One might expect the Moon to become completely dark during a total lunar eclipse, since Earth blocks the Sun's light. However, the Earth has an atmosphere that acts like a lens and bends light around its edges through a process called refraction. When sunlight passes through Earth's atmosphere at the edges, the atmosphere scatters shorter wavelengths (blue, violet) and bends longer wavelengths (red, orange) more efficiently around the Earth's curvature. This red-shifted light is directed onto the Moon even though the Moon is in Earth's geometric shadow. The result is that the Moon appears dark red — the same reason sunsets and sunrises appear red (sunlight travelling through a thick layer of atmosphere). This striking appearance is why a total lunar eclipse is sometimes called a 'blood moon'."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Why do southern states of India (near the equator) not experience prominent seasons, while northern states do? Explain using the concept of axial tilt.",
+      "answer": "Near the equator, the Sun's angle and duration of sunlight change very little throughout the year regardless of Earth's axial tilt, so temperature remains relatively constant and seasons are not prominent.",
+      "solution": "The effect of Earth's axial tilt on seasons is greatest at the poles and diminishes towards the equator. Here's why: At higher latitudes (like northern India), when the Northern Hemisphere tilts towards the Sun in June: (1) Sunrays strike at a much steeper angle — much more concentrated energy per unit area (intense sunlight). (2) Days are significantly longer than 12 hours — more hours of heating. Both effects cause a pronounced summer. In December, the opposite is true — weak, oblique sunlight for fewer hours causes pronounced winter. At the equator: (1) The Sun is always approximately overhead (nearly perpendicular to the surface) throughout the year — the angle of sunlight changes very little. (2) Day length is always close to 12 hours throughout the year. Since neither the intensity nor the duration of sunlight changes significantly at the equator during Earth's revolution, temperatures remain relatively constant year-round. Other factors such as monsoon winds, proximity to oceans, and local geography have a greater influence on the climate of equatorial regions than the seasonal effect of axial tilt."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Aryabhata stated that the apparent motion of stars is due to the Earth's rotation. He used the analogy: 'Just as a man in a boat moving forward sees stationary objects as moving backwards, so also the stars that are stationary are seen as moving towards the west.' Explain this analogy in the context of Earth's rotation.",
+      "answer": "Just as a forward-moving boat makes stationary banks appear to move backward, the eastward-rotating Earth makes stationary stars appear to move westward — the observer's motion creates the illusion of motion in stationary objects.",
+      "solution": "Aryabhata's analogy is a brilliant insight into relative motion: (1) Boat analogy: A person sitting in a boat moving forward perceives the riverbanks (which are stationary) as moving backwards. This is because the person's brain interprets their own motion through the frame of reference of the stationary surroundings. The banks are not actually moving — the boat (and the observer) are. (2) Earth's rotation: Similarly, the Earth rotates from West to East. An observer standing on Earth is being carried eastward. Stars are essentially stationary (they are vastly far away). But because the observer's platform (Earth) is rotating eastward, the stars appear to move westward — just as the riverbank appears to move backward. This is a perfect example of apparent motion caused by the motion of the observer, not the observed object. Aryabhata recognised this principle in the 5th century CE — over a millennium before Western astronomers formally established it."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Why can Mercury and Venus never block the entire Sun from our view (as the Moon can), even though they are larger in actual size than the Moon?",
+      "answer": "Because Mercury and Venus are much farther from Earth than the Moon, their apparent sizes as seen from Earth are much smaller than the Sun's apparent size — they can never cover the entire Sun.",
+      "solution": "The key concept is apparent size — how large an object looks, which depends on actual size AND distance. The Moon: Although the Moon is physically smaller than Venus and Mercury, it is also much closer to Earth (~384,000 km). This closeness gives the Moon an apparent size nearly equal to the Sun, allowing it to cover the Sun completely during a total solar eclipse. Mercury and Venus: Both are physically larger than the Moon. However, they orbit the Sun at much greater distances from Earth (Mercury: ~77–222 million km from Earth; Venus: ~38–261 million km from Earth) compared to the Moon. At these vast distances, their apparent sizes are very small — much smaller than the Sun's apparent size. When Venus passes between the Sun and Earth during a Transit of Venus, it appears as only a tiny black dot moving across the Sun's bright face — nowhere near large enough to block the Sun. Therefore, it is the combination of actual size and distance (apparent size) that determines whether an object can cover the Sun — not actual size alone."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "The North Pole receives 24-hour sunlight for six months and 24-hour darkness for six months. Using your knowledge of Earth's axial tilt and revolution, explain why this happens.",
+      "answer": "Because the Earth's tilted axis points the North Pole continuously towards (or away from) the Sun for six months at a time as the Earth revolves, resulting in uninterrupted sunlight or darkness.",
+      "solution": "This extreme phenomenon at the poles is a direct consequence of Earth's axial tilt (~23.5°) and its revolution around the Sun: March to September (6 months of Arctic daylight): From the spring equinox (21 March) to the autumn equinox (23 September), the North Pole is on the side of Earth tilted towards the Sun. As the Earth rotates daily, the North Pole always remains in the sunlit half — it never rotates into the dark side. The Sun circles the horizon continuously, never setting. This is called the Midnight Sun. September to March (6 months of Arctic darkness): After 22 September, the Northern Hemisphere tilts away from the Sun. Now the North Pole is permanently on the dark side of Earth — it never rotates into sunlight. This is called the Polar Night. The equator, by contrast, is never affected by the axial tilt in this extreme way — it always receives approximately 12 hours of sunlight regardless of Earth's position in its orbit. The South Pole experiences the opposite pattern: six months of daylight when the North Pole is in darkness, and vice versa."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "Draw and explain the arrangement of the Sun, Moon, and Earth during (a) a solar eclipse and (b) a lunar eclipse. Why does a solar eclipse occur on a New Moon day and a lunar eclipse on a Full Moon day?",
+      "answer": "Solar eclipse: Sun → Moon → Earth (New Moon). Lunar eclipse: Sun → Earth → Moon (Full Moon). The Moon's phase determines which body is in between.",
+      "solution": "Arrangement during a Solar Eclipse: Sun → Moon → Earth. The Moon is positioned directly between the Sun and the Earth. The Moon's shadow falls on part of Earth's surface. This can only happen when the Moon is on the same side of Earth as the Sun — i.e., when the Moon is between the Earth and Sun. This corresponds to the New Moon (Amavasya) phase, when the Moon's lit side faces away from Earth and the Moon is near the Sun in the sky. Arrangement during a Lunar Eclipse: Sun → Earth → Moon. The Earth is positioned directly between the Sun and the Moon. Earth's shadow falls on the Moon. This can only happen when the Moon is on the opposite side of Earth from the Sun — i.e., when the Sun, Earth, and Moon are aligned with Earth in the middle. This corresponds to the Full Moon (Purnima) phase, when the Moon's entire lit face is visible from Earth. Note: Eclipses do not occur every New Moon or Full Moon because the Moon's orbit is tilted about 5° relative to Earth's orbit around the Sun. Eclipses only occur when the Moon is near the points where its orbit crosses Earth's orbital plane (called nodes)."
+    }
+  ]
+}

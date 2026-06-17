@@ -1,0 +1,25 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Data Handling and Presentation",
+    "chapter_number": 4
+  },
+  "flashcards": [
+    { "q": "What is the definition of data?", "a": "A collection of facts, numbers, or observations conveying information." },
+    { "q": "What is the primary purpose of tally marks?", "a": "To count and organise data efficiently in a frequency table." },
+    { "q": "How is the fifth tally mark drawn in a group?", "a": "As a diagonal line across the previous four vertical marks (HH)." },
+    { "q": "Define 'frequency' in data handling.", "a": "The number of times a particular value or observation occurs." },
+    { "q": "What does a pictograph use to represent data?", "a": "Pictures or symbols." },
+    { "q": "What is a 'scale' in a pictograph?", "a": "The specified number of units that each symbol represents." },
+    { "q": "Why are bar graphs used for large amounts of data?", "a": "It is faster to draw and easier to interpret than a pictograph for large numbers." },
+    { "q": "What must be uniform for all bars in a bar graph?", "a": "Their width." },
+    { "q": "How is each bar spaced in a bar graph?", "a": "With equal/uniform gaps between them." },
+    { "q": "What does the length or height of a bar represent?", "a": "The frequency or quantity of that category." },
+    { "q": "What is an infographic?", "a": "A data visualisation enhanced with extensive artistic and visual imagery." },
+    { "q": "What is a downside of 'fancy' infographics?", "a": "They can sometimes be misleading by distorting factual proportions." },
+    { "q": "What type of graph is best for representing mountain heights?", "a": "Vertical bar graph (column graph)." },
+    { "q": "What type of graph is best for representing river lengths?", "a": "Horizontal bar graph." },
+    { "q": "From what value must the markings of unit lengths start?", "a": "Zero." }
+  ]
+}

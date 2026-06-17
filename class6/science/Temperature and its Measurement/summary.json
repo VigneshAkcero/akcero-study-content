@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Temperature and its Measurement",
+    "chapter_number": 7
+  },
+  "summary": [
+    {
+      "category": "Thermodynamics and Human Health",
+      "points": [
+        "Temperature is a reliable measure of hotness/coldness, replacing subjective senses like touch.",
+        "Clinical thermometers (Digital/Infrared) measure human body temperature. Mercury is toxic and being replaced.",
+        "Normal body temperature for a healthy person is ~37.0\u00b0C or 98.6\u00b0F (variations exist by age/time)."
+      ]
+    },
+    {
+      "category": "Scientific Measurement and Scales",
+      "points": [
+        "Laboratory thermometers measure wider ranges (-10\u00b0C to 110\u00b0C) and must be read while immersed in the substance.",
+        "The three main scales are Celsius (\u00b0C), Fahrenheit (\u00b0F), and Kelvin (K). Kelvin is the SI unit.",
+        "Conversion formula: Temperature in Kelvin = Temperature in Celsius + 273.15."
+      ]
+    },
+    {
+      "category": "Physical Constants and Pioneers",
+      "points": [
+        "Boiling point of water is 100\u00b0C; freezing/melting point of ice is 0\u00b0C. These stay constant during phase changes.",
+        "Absolute Zero is the lowest theoretical temperature (-273.15\u00b0C or 0 K).",
+        "Anna Mani ('Weather Woman of India') was a leading Indian scientist in meteorological measurements."
+      ]
+    }
+  ]
+}

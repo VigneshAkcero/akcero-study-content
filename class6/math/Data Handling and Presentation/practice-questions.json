@@ -1,0 +1,115 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Data Handling and Presentation",
+    "chapter_number": 4
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is meant by the term 'data' in mathematics?",
+      "answer": "A collection of facts, numbers, or observations that convey information.",
+      "solution": "Any collection of facts, numbers, measures, observations, or other descriptions of things that convey information about those things is called data."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "If a tally mark is represented as HH II, what number does it represent?",
+      "answer": "7",
+      "solution": "In tally marks, HH represents a group of 5, and II represents 2. Therefore, $5 + 2 = 7$."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What is 'frequency' in a data table?",
+      "answer": "The number of times a particular observation occurs.",
+      "solution": "The number of occurrences of a particular value, measure, or observation is known as its frequency."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Medium",
+      "question": "How does arranging data in ascending order help in analysis? Provide two reasons.",
+      "answer": "It helps in quickly finding the largest/smallest values and makes counting frequencies easier.",
+      "solution": "1. It allows for immediate identification of the maximum and minimum values (e.g., shoe sizes). 2. It makes it easier to count how many times each value appears (frequency)."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Medium",
+      "question": "In a pictograph, one symbol $\\circledcirc$ represents 10 students. How would you represent 25 students?",
+      "answer": "Using 2 full symbols and one half symbol.",
+      "solution": "$25 = 10 + 10 + 5$. Since one symbol = 10, 2 full symbols cover 20, and half a symbol covers 5."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "If the total number of books borrowed in a week is 24, and one symbol in a pictograph represents 2 books, how many symbols would be drawn for the whole week?",
+      "answer": "12 symbols",
+      "solution": "Number of symbols = Total books $\\div$ Scale per symbol = $24 \\div 2 = 12$ symbols."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Hard",
+      "question": "A village has 48 Mudhol dogs. If you draw a pictograph where one dog symbol $= 6$ dogs, how many symbols will you use? If the number of dogs increases to 51, what challenge will you face?",
+      "answer": "8 symbols; difficulty in representing non-multiples of 6 accurately.",
+      "solution": "1. Symbols used = $48 \\div 6 = 8$ symbols. 2. If the count is 51, which is not a multiple of 6 ($51 = 6 \\times 8 + 3$), it becomes difficult to represent the remaining 3 dogs accurately by dividing the symbol."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What are the two axes called when drawing a bar graph?",
+      "answer": "Horizontal axis and Vertical axis.",
+      "solution": "A bar graph is drawn using two perpendicular lines: a horizontal line and a vertical line, where labels and frequencies are placed."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "In a bar graph, if 1 unit length represents 5 students, and the 'Painting' bar is 15 units high, how many students prefer painting?",
+      "answer": "75 students",
+      "solution": "Number of students = Height of bar in units $\\times$ Scale = $15 \\times 5 = 75$ students."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Hard",
+      "question": "Imran's family spends $3400$ on food. If the scale of the bar graph is 1 unit length $= 200$, calculate the height of the bar for food. Also, if education cost is $800$, compare it with the food cost.",
+      "answer": "17 units; Education cost is less than one-fourth of food cost.",
+      "solution": "1. Bar height for food = $3400 \\div 200 = 17$ units. 2. Comparison: One-fourth of food cost = $3400 \\div 4 = 850$. Since $800 < 850$, education cost is less than one-fourth of food cost."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Which type of bar graph (vertical or horizontal) is more suitable for representing the heights of the tallest mountains? Why?",
+      "answer": "Vertical bar graph.",
+      "solution": "Heights are measured upwards from the ground. A vertical bar graph (column graph) where bars grow upwards is more intuitive and suggestive for representing heights."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "What is an infographic?",
+      "answer": "A data visualisation enhanced with artistic and visual imagery.",
+      "solution": "When data visualisations like bar graphs are beautified with extensive artistic imagery to communicate information more clearly and attractively, they are called infographics."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "Why can infographics be sometimes misleading? Give an example.",
+      "answer": "They may distort proportions to look 'fancy', implying incorrect information.",
+      "solution": "For example, in a mountain infographic, using triangles instead of rectangles might make taller mountains look wider. This implies that taller mountains are always wider, which may not be true."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Following data on cricketer Smriti's runs was collected: Match 1: 80, Match 2: 50, Match 3: 10, Match 4: 100. If we use 1 unit = 10 runs, what will be the heights of the bars for Match 3 and Match 4?",
+      "answer": "Match 3: 1 unit; Match 4: 10 units.",
+      "solution": "1. Match 3: $10 \\div 10 = 1$ unit. 2. Match 4: $100 \\div 10 = 10$ units."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "A die is rolled 30 times. The number '3' appeared 8 times, and '5' appeared 5 times. If you prepare a frequency table, what will be the total of the frequency column? How can you find which number appeared the least?",
+      "answer": "Total frequency = 30; By finding the number with the smallest frequency value.",
+      "solution": "1. The total frequency must equal the total number of trials (30). 2. To find the least occurring number, compare the frequency of each face (1 to 6) and pick the one with the lowest value."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Exploring Magnets",
+    "chapter_number": 4
+  },
+  "summary": [
+    {
+      "category": "Properties of Magnets",
+      "points": [
+        "A magnet has two poles: North (N) and South (S), which always exist in pairs and cannot be isolated.",
+        "Magnetic materials (Iron, Nickel, Cobalt) are attracted to magnets, while non-magnetic materials (Wood, Plastic) are not.",
+        "Repulsion between two magnets is the only sure test to identify a magnet."
+      ]
+    },
+    {
+      "category": "Finding Directions",
+      "points": [
+        "A freely suspended magnet always rests in the North-South direction, used historically for navigation with devices like the 'matsya-yantra'.",
+        "A magnetic compass uses a magnetized needle to indicate direction, aligning itself with Earth's magnetic field."
+      ]
+    },
+    {
+      "category": "Interactions and Care",
+      "points": [
+        "Like poles (N-N, S-S) repel each other, while unlike poles (N-S) attract each other.",
+        "Magnetic forces can act through non-magnetic materials like glass, water, and cardboard.",
+        "Magnets must be stored in pairs with unlike poles together and iron 'keepers' to prevent demagnetization."
+      ]
+    }
+  ]
+}

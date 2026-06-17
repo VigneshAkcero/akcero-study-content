@@ -1,0 +1,369 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Math",
+    "chapter_name": "Finding the Unknown",
+    "chapter_number": 7
+  },
+  "notes": [
+    {
+      "section_title": "7.1 Find the Unknowns",
+      "topics": [
+        {
+          "topic_name": "Unknown Weights and the Weighing Scale",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A weighing scale is balanced when the total weight on both plates is equal. We can use this idea to find unknown weights. If both plates are balanced, the total weight on the left side equals the total weight on the right side."
+            },
+            {
+              "type": "activity",
+              "id": "7.1",
+              "title": "Find the Unknown Weights",
+              "procedure": [
+                "Consider a series of weighing scale diagrams (Figs. 7.1–7.12) where known and unknown weights are placed on either side.",
+                "For each diagram, find the value of the unknown weight(s) so that the scale is balanced.",
+                "For cases where all sacks have the same weight (e.g., Fig. 7.10), use the hint: if we remove equal weights from both plates of a balanced scale, the scale remains balanced.",
+                "Discuss your answers with classmates and give reasons for why your answer is correct.",
+                "Try different strategies and compare methods."
+              ],
+              "observation": "The scale remains balanced when equal weights are removed from both sides. This principle allows us to isolate the unknown weight on one side.",
+              "conclusion": "A balanced weighing scale behaves exactly like an equation: both sides must have equal total weight. This gives us the key idea for solving equations."
+            },
+            {
+              "type": "note",
+              "title": "Key Principle",
+              "text": "If we remove equal weights from both plates of a balanced weighing scale, the scale remains balanced. Similarly, if we add equal weights to both plates, the scale remains balanced."
+            }
+          ]
+        },
+        {
+          "topic_name": "Matchstick Pattern and the Need for Equations",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Consider a sequence of matchstick arrangements. The arrangement at position n has (2n + 1) matchsticks. For example: position 1 has 2×1 + 1 = 3 matchsticks, position 2 has 2×2 + 1 = 5 matchsticks, position 3 has 2×3 + 1 = 7 matchsticks, and so on."
+            },
+            {
+              "type": "paragraph",
+              "text": "Jasmine wants to make an arrangement using exactly 99 matchsticks. To find which position number this would be, we need to find n such that 2n + 1 = 99. This is an example of solving an equation."
+            },
+            {
+              "type": "note",
+              "title": "Equation",
+              "text": "A statement of equality between two algebraic expressions is called an equation. It is written with an equal sign (=) between two algebraic expressions. For example: 2n + 1 = 99, a/3 = 50."
+            },
+            {
+              "type": "note",
+              "title": "Solving an Equation",
+              "text": "The process of finding the value(s) of the letter-number (unknown) for which the equality holds — that is, for which the Left Hand Side (LHS) equals the Right Hand Side (RHS) — is called solving the equation."
+            },
+            {
+              "type": "paragraph",
+              "text": "Framing an equation using an unknown quantity as a letter-number helps us find its value systematically. For example, for Fig. 7.6 (weighing scale with fried eggs and bread slices of weight 2 each), letting the weight of one fried egg = e, we get 2e = 6. For Fig. 7.7, letting the unknown weight = y, we get 4 + 2y = 16."
+            },
+            {
+              "type": "note",
+              "title": "LHS and RHS",
+              "text": "In an equation, the expression on the left of the equal sign is called the Left Hand Side (LHS) and the expression on the right of the equal sign is called the Right Hand Side (RHS). A solution is a value of the unknown that makes LHS = RHS."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "7.2 Solving Equations Systematically",
+      "topics": [
+        {
+          "topic_name": "Trial and Error Method",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "One way to solve an equation is to substitute different values in place of the unknown letter-number and check which value makes LHS = RHS. This is called the trial and error method."
+            },
+            {
+              "type": "paragraph",
+              "text": "For example, to solve 2n + 1 = 99: substituting n = 5 gives LHS = 11 (too low); n = 10 gives LHS = 21; n = 30 gives LHS = 61; n = 40 gives LHS = 81; n = 50 gives LHS = 101 (too high); n = 49 gives LHS = 99. So n = 49 is the solution."
+            },
+            {
+              "type": "note",
+              "title": "Limitation of Trial and Error",
+              "text": "The trial and error method can be inefficient, especially when the solution is not a whole number or when the equation is complex. A more systematic approach is preferred."
+            }
+          ]
+        },
+        {
+          "topic_name": "Property of Equations: Same Operation on Both Sides",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Since the LHS and the RHS of an equation have the same value, performing the same operation (addition, subtraction, multiplication, or division) on both sides will not change the equality between LHS and RHS."
+            },
+            {
+              "type": "note",
+              "title": "Key Property",
+              "text": "If we add, subtract, multiply, or divide both sides of an equation by the same number (non-zero, in case of division), the equation remains valid. This is the fundamental rule used to systematically solve equations."
+            },
+            {
+              "type": "paragraph",
+              "text": "This is similar to the weighing scale: removing equal weights from both plates keeps the scale balanced. The strategy is to isolate the unknown on one side by performing appropriate operations on both sides."
+            }
+          ]
+        },
+        {
+          "topic_name": "Using Inverse Operations to Solve Equations",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Addition and subtraction are inverse operations of each other. Multiplication and division are inverse operations of each other. We use these relationships to isolate the unknown."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 1: It is known that 14593 − 1459 + 145 − 14 + 88 = 13353. To find the value of 14593 − 1459 + 145 − 14, we can subtract 88 from both sides, because addition and subtraction are inverse operations. So, 14593 − 1459 + 145 − 14 = 13353 − 88 = 13265."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 2: It is known that 23 × 41 × 11 × 8 × 7 = 5,80,888. To find 23 × 41 × 11 × 8, we divide both sides by 7 (since multiplication and division are inverse operations): 23 × 41 × 11 × 8 = 5,80,888 ÷ 7 = 82,984."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 3: It is known that 12345 − 5432 + 135 − 24 − (−67) = 7091. To find 12345 − 5432 + 135 − 24, we add (−67) to both sides to remove the term −(−67): 12345 − 5432 + 135 − 24 = 7091 + (−67) = 7024."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 4: It is known that (35/113) × 24 × 14 × (8/9) = 94080/1017. To find (35/113) × 24 × 14, we divide both sides by (8/9), which is the same as multiplying by (9/8): (35/113) × 24 × 14 = (94080/1017) × (9/8) = 11760/113."
+            }
+          ]
+        },
+        {
+          "topic_name": "Solving Linear Equations Step by Step",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To solve an equation with one unknown, the goal is to isolate the unknown on one side. We do this by using inverse operations to remove terms and factors one by one."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 5: Solve 5x − 4 = 7.\nStep 1: To isolate 5x, add 4 to both sides: 5x − 4 + 4 = 7 + 4, so 5x = 11.\nStep 2: To isolate x, divide both sides by 5: x = 11/5.\nVerification: LHS = 5 × (11/5) − 4 = 11 − 4 = 7 = RHS. ✓"
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 6: Solve 11y + (−5) = 61.\nStep 1: To isolate 11y, subtract (−5) from both sides (i.e., add 5): 11y + (−5) − (−5) = 61 − (−5), so 11y = 66.\nStep 2: Divide both sides by 11: y = 66 ÷ 11 = 6.\nVerification: LHS = 11 × 6 + (−5) = 66 − 5 = 61 = RHS. ✓"
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 7: Solve 6y + 7 = 4y + 21 (unknowns on both sides).\nStep 1: Subtract 4y from both sides: 6y + 7 − 4y = 4y + 21 − 4y, giving 2y + 7 = 21.\nStep 2: Subtract 7 from both sides: 2y = 14.\nStep 3: Divide both sides by 2: y = 7.\nVerification: LHS = 6 × 7 + 7 = 49; RHS = 4 × 7 + 21 = 49. ✓"
+            },
+            {
+              "type": "note",
+              "title": "Important: Always Verify",
+              "text": "After solving an equation, always substitute the solution back into the original equation and check whether LHS = RHS. This confirms that the solution is correct."
+            }
+          ]
+        },
+        {
+          "topic_name": "Rules for Systematic Solving: Transposing Terms",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When solving equations, we can observe three key rules that make the process more efficient:"
+            },
+            {
+              "type": "list",
+              "title": "Three Rules for Solving Equations",
+              "items": [
+                "(a) When a term that is added or subtracted on one side is removed from that side, its additive inverse appears as a term on the other side. Example: 2y + 7 = 21 becomes 2y = 21 − 7.",
+                "(b) If one side of an equation is a product of two or more expressions, and we remove one factor, the other side must be divided by that factor. Example: 2y = 14 becomes y = 14 ÷ 2.",
+                "(c) If one side is a quotient, and we remove the divisor, the other side must be multiplied by that divisor. Example: u/15 = 6 becomes u = 6 × 15."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Shortcut: Transposing",
+              "text": "These rules together describe 'transposing': a term moved from one side of the equation to the other changes its sign (addition becomes subtraction and vice versa), and a factor moved from one side becomes a divisor on the other (and vice versa). This is a convenient shorthand for performing the same operation on both sides."
+            },
+            {
+              "type": "table",
+              "headers": ["Long Method (Same operation on both sides)", "Short Method (Transposing)"],
+              "rows": [
+                ["11y + (−5) = 61\n11y + (−5) − (−5) = 61 − (−5)\n11y = 66\n11y ÷ 11 = 66 ÷ 11\ny = 6", "11y + (−5) = 61\n11y = 61 − (−5) = 66\ny = 66 ÷ 11 = 6"],
+                ["6y + 7 = 4y + 21\n6y + 7 − 4y = 4y + 21 − 4y\n2y + 7 = 21\n2y + 7 − 7 = 21 − 7\n2y = 14\n2y ÷ 2 = 14 ÷ 2\ny = 7", "6y + 7 = 4y + 21\n6y − 4y = 21 − 7\n2y = 14\ny = 14 ÷ 2 = 7"]
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Solving Problems Using Equations",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Forming and solving equations allows us to find solutions to many real-life problems. The key steps are: (1) Identify the unknown and represent it with a letter-number. (2) Frame an equation using the given information. (3) Solve the equation using systematic methods. (4) Verify the solution."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 8 (Tile Pattern): Ranjana creates a sequence of arrangements with square tiles. The number of tiles at Step k is 3k + 1. To check if an arrangement with exactly 100 tiles is possible, we solve 3k + 1 = 100. Subtracting 1: 3k = 99. Dividing by 3: k = 33. So yes, Step 33 uses exactly 100 tiles."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 9 (Party Planning): Madhubanti has ₹500. Each plate of snacks costs ₹25 and delivery charges are ₹50. Her family has 5 members. How many friends can she invite?\nMethod (Mahesh): Let total people = p. Cost = 25p + 50 = 500. So 25p = 450, giving p = 18. Friends = 18 − 5 = 13.\nMethod (Srikanth): Let friends = f. Cost = 25(f + 5) = 450. So f + 5 = 18, giving f = 13."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 10 (Savings): Jahnavi starts with ₹4000 and saves ₹650/month. Sunita starts with ₹5050 and saves ₹500/month. After how many months will they have equal savings?\nLet months = m. Equation: 4000 + 650m = 5050 + 500m.\nSubtracting 500m: 4000 + 150m = 5050.\nSubtracting 4000: 150m = 1050.\nDividing by 150: m = 7. After 7 months, both will have equal savings."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 11: Solve 28(x + 4) + 300 = 1000.\nMethod 1: Subtract 300: 28(x + 4) = 700. Divide by 28: x + 4 = 25. So x = 21.\nMethod 2: Expand: 28x + 112 + 300 = 1000, so 28x + 412 = 1000, giving 28x = 588, x = 21.\nMethod 3: Divide all terms by 4 (since 28, 300, 1000 are divisible by 4): 7(x + 4) + 75 = 250, so 7(x + 4) = 175, then x + 4 = 25, x = 21."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 12 (Number Trick): Riyaz asks Akash to: think of a number (x), subtract 3 (x − 3), multiply by 4 (4x − 12), add 8 (4x − 4). Akash reveals 24. So 4x − 4 = 24, giving 4(x − 1) = 24, x − 1 = 6, x = 7. Akash thought of 7."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 13 (Two Unknowns): Ramesh and Suresh together have 60 marbles. Ramesh has 30 more than Suresh. Let Suresh have y marbles; Ramesh has y + 30. Then y + (y + 30) = 60, giving 2y + 30 = 60, so 2y = 30, y = 15. Suresh has 15 marbles and Ramesh has 45 marbles."
+            }
+          ]
+        },
+        {
+          "topic_name": "Generating Equations from a Given Solution",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "We can also work in reverse: given the solution (value of the unknown), we can create equations that have that solution. For example, equations with solution y = 5 include: y + 1 = 6, 3y = 15, 2y − 3 = 7, y/5 = 1."
+            },
+            {
+              "type": "note",
+              "title": "Chain of Equations",
+              "text": "If we perform the same operation on both sides of an equation, we get a new equation with the same solution. So we can build 'chains' of equations, all sharing the same solution. This also means we can identify the solution of a new equation if we know it was derived from an equation whose solution we already know."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 14: Give a real-life situation modelled by 100x + 75 = 250. Thinking of money: ₹250 is the total. ₹75 is a fixed charge (e.g., delivery). The remaining ₹175 is spent on x units at ₹100 each (e.g., x is the cost per plate of snacks costing ₹100 each, with delivery charge ₹75, totalling ₹250 for 1 plate)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "7.3 Mind the Mistake, Mend the Mistake",
+      "topics": [
+        {
+          "topic_name": "Common Errors in Solving Equations and How to Correct Them",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A powerful way to strengthen understanding is to examine incorrect solutions, identify the mistake, and correct it. This section presents equations with errors in their solution steps."
+            },
+            {
+              "type": "list",
+              "title": "Common Mistakes to Watch Out For",
+              "items": [
+                "Transposing a term without changing its sign. E.g., from 4x + 6 = 10, writing 4x = 10 + 6 instead of 4x = 10 − 6.",
+                "Not applying an operation to ALL terms on a side. E.g., when dividing by 2, failing to divide every term.",
+                "Incorrectly expanding brackets. E.g., writing 4(4q + 2) = 4q + 2 instead of 16q + 8.",
+                "Changing both sides differently. E.g., subtracting from one side but adding to the other.",
+                "Sign errors when dealing with negative terms. E.g., treating −(−5) as −5 instead of +5."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "How to Avoid Mistakes",
+              "text": "Always write down each step clearly. When transposing a term, immediately write its additive inverse on the other side. When multiplying or dividing, apply the operation to every term on both sides. Always verify your solution by substituting it back into the original equation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "7.4 A Pinch of History — Bījaganita",
+      "topics": [
+        {
+          "topic_name": "Ancient Indian Algebra and Brahmagupta's Formula",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The ancient Indian branch of mathematics dealing with the use of letter symbols to solve problems was called bījaganita (also known as algebra). The word bīja means 'seed' — just as a tree is hidden inside a seed, the answer to a problem is hidden inside an unknown number. Solving an equation is like helping the tree grow, step by step discovering what is hidden."
+            },
+            {
+              "type": "note",
+              "title": "Brahmagupta's Formula for Linear Equations",
+              "text": "Brahmagupta (628 CE) gave a formula for solving equations of the form Ax + B = Cx + D. The solution is: x = (D − B) / (A − C). For example, for 5x + 4 = 3x + 8: x = (8 − 4) / (5 − 3) = 4 / 2 = 2. This formula works whenever A ≠ C."
+            },
+            {
+              "type": "paragraph",
+              "text": "Using Brahmagupta's formula to solve 650m + 4000 = 500m + 5050 (from Example 10): m = (5050 − 4000) / (650 − 500) = 1050 / 150 = 7. This confirms the answer found earlier by step-by-step solving."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example 15 (from Bījaganita by Bhāskarāchārya, 1150 CE): One man has ₹300 and 6 horses. Another has 10 horses but a debt of ₹100. If they are equally rich and each horse has the same price, find the price of one horse. Let price of one horse = x. Then: 300 + 6x = 10x − 100. Solving: 300 + 100 = 10x − 6x, so 400 = 4x, giving x = 100. Each horse costs ₹100."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Equation",
+      "definition": "A mathematical statement asserting that two algebraic expressions are equal. Written with an equal sign (=) between the Left Hand Side (LHS) and the Right Hand Side (RHS). Example: 2n + 1 = 99."
+    },
+    {
+      "term": "Left Hand Side (LHS)",
+      "definition": "The algebraic expression to the left of the equal sign in an equation."
+    },
+    {
+      "term": "Right Hand Side (RHS)",
+      "definition": "The algebraic expression to the right of the equal sign in an equation."
+    },
+    {
+      "term": "Solving an Equation",
+      "definition": "The process of finding the value(s) of the unknown letter-number for which the LHS equals the RHS of the equation."
+    },
+    {
+      "term": "Solution",
+      "definition": "The value of the unknown letter-number that satisfies an equation, i.e., makes LHS = RHS."
+    },
+    {
+      "term": "Trial and Error Method",
+      "definition": "A method of solving equations by substituting different values for the unknown and checking which makes LHS = RHS. This method can be inefficient."
+    },
+    {
+      "term": "Inverse Operations",
+      "definition": "Pairs of operations that undo each other. Addition and subtraction are inverse operations; multiplication and division are inverse operations. They are used to isolate the unknown when solving equations."
+    },
+    {
+      "term": "Transposing",
+      "definition": "Moving a term from one side of an equation to the other. When a term is transposed, its sign changes: an added term becomes subtracted, and a multiplied factor becomes a divisor."
+    },
+    {
+      "term": "Letter-number (unknown)",
+      "definition": "A letter used to represent an unknown quantity in an algebraic expression or equation. Also called a variable. Common examples: x, y, n, m, u."
+    },
+    {
+      "term": "Algebraic Expression",
+      "definition": "A combination of letter-numbers (unknowns) and known numbers connected by mathematical operations. Example: 2n + 1, 5x − 4."
+    },
+    {
+      "term": "Bījaganita",
+      "definition": "The ancient Indian branch of mathematics that used letter symbols to represent unknowns and solve mathematical problems. It corresponds to what is now called algebra. The word 'bīja' means 'seed'."
+    },
+    {
+      "term": "Brahmagupta's Formula",
+      "definition": "For an equation of the form Ax + B = Cx + D, the solution is x = (D − B) / (A − C). First outlined in Brahmagupta's Brāhmasphutasiddhānta (628 CE)."
+    }
+  ],
+  "summary_points": [
+    "An equation is a mathematical statement of equality between two algebraic expressions, written with an equal sign between the LHS and RHS.",
+    "Solving an equation means finding the value of the unknown letter-number that makes LHS = RHS.",
+    "Performing the same arithmetic operation (add, subtract, multiply, divide) on both sides of an equation preserves the equality.",
+    "The trial and error method substitutes different values for the unknown to find the solution, but it can be slow and inefficient.",
+    "Equations are solved systematically by using inverse operations to isolate the unknown: (a) a term added/subtracted on one side moves to the other side with its sign changed; (b) a multiplied factor moves to the other side as a divisor; (c) a divisor moves to the other side as a multiplied factor.",
+    "Equations with unknowns on both sides (e.g., 6y + 7 = 4y + 21) are solved by first moving all unknown terms to one side and all known terms to the other.",
+    "After solving an equation, always verify the solution by substituting it back into the original equation and checking LHS = RHS.",
+    "Real-life problems (patterns, money, savings, number tricks) can be modelled as equations and solved systematically.",
+    "Equations with two unknowns can often be reduced to a single-unknown equation by expressing one unknown in terms of the other.",
+    "Brahmagupta's formula for equations of the form Ax + B = Cx + D gives the solution directly as x = (D − B) / (A − C).",
+    "Ancient Indian mathematicians called algebra 'bījaganita' (bīja = seed); solving an equation is like uncovering what is hidden, just as a tree is hidden inside a seed."
+  ]
+}

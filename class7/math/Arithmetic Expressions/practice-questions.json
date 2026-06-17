@@ -1,0 +1,255 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Arithmetic Expressions",
+    "chapter_number": 2
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is the value of the expression 13 + 2?",
+      "answer": "15",
+      "solution": "The expression 13 + 2 represents the sum of 13 and 2. Adding them: 13 + 2 = 15."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Evaluate: 20 - 4",
+      "answer": "16",
+      "solution": "The expression 20 - 4 represents the difference when 4 is subtracted from 20. Performing the subtraction: 20 - 4 = 16."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Find the value of 12 × 5.",
+      "answer": "60",
+      "solution": "The expression 12 × 5 represents the product of 12 and 5. Multiplying: 12 × 5 = 60."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Calculate: 18 ÷ 3",
+      "answer": "6",
+      "solution": "The expression 18 ÷ 3 represents 18 divided by 3. Dividing: 18 ÷ 3 = 6."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Compare the expressions: Is 10 + 2 greater than, less than, or equal to 7 + 1?",
+      "answer": "10 + 2 > 7 + 1 (greater than), since 12 > 8",
+      "solution": "First evaluate each expression: 10 + 2 = 12 and 7 + 1 = 8. Then compare: 12 > 8, so 10 + 2 > 7 + 1."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Identify the terms in the expression 13 - 2 + 6.",
+      "answer": "The terms are 13, -2, and 6",
+      "solution": "To identify terms, rewrite subtraction as addition: 13 - 2 + 6 = 13 + (-2) + 6. The terms separated by + signs are: 13, -2, and 6."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What are the terms in 5 + 6 × 3?",
+      "answer": "The terms are 5 and (6 × 3)",
+      "solution": "In this expression, 6 × 3 is a single term (multiplication is not separated by + or -). So the two terms are 5 and (6 × 3)."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Evaluate: 30 + (5 × 4)",
+      "answer": "50",
+      "solution": "First evaluate the expression inside brackets: 5 × 4 = 20. Then add: 30 + 20 = 50."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Evaluate: 100 - (15 + 56)",
+      "answer": "29",
+      "solution": "First evaluate the expression inside brackets: 15 + 56 = 71. Then subtract: 100 - 71 = 29."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "State the commutative property of addition in words.",
+      "answer": "The order of adding terms does not change the sum.",
+      "solution": "The commutative property states that a + b = b + a. In other words, swapping the order of terms in addition gives the same result. For example, 6 + 4 = 4 + 6 = 10."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Evaluate: 6 + (-4) and (-4) + 6. Are they equal?",
+      "answer": "Both equal 2, so yes, they are equal.",
+      "solution": "6 + (-4) = 2 and (-4) + 6 = 2. This demonstrates the commutative property: changing the order of terms does not change the sum, even with negative terms."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Evaluate: [(-7) + 10] + (-11) and (-7) + [10 + (-11)]. Are they equal?",
+      "answer": "Both equal -8, so yes, they are equal.",
+      "solution": "[(-7) + 10] + (-11) = 3 + (-11) = -8. And (-7) + [10 + (-11)] = (-7) + (-1) = -8. This demonstrates the associative property: grouping terms differently does not change the sum."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Remove the brackets from: 28 + (35 - 10)",
+      "answer": "28 + 35 - 10",
+      "solution": "Since the brackets are preceded by an addition sign, we remove them without changing signs: 28 + (35 - 10) = 28 + 35 - 10. Both expressions equal 53."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Remove the brackets from: 200 - (40 + 3)",
+      "answer": "200 - 40 - 3",
+      "solution": "Since the brackets are preceded by a subtraction sign, we reverse the signs inside: 200 - (40 + 3) = 200 - 40 - 3. Both expressions equal 157."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Remove the brackets from: 500 - (250 - 100)",
+      "answer": "500 - 250 + 100",
+      "solution": "When brackets are preceded by a subtraction sign, signs inside reverse: +250 becomes -250 and -100 becomes +100. So 500 - (250 - 100) = 500 - 250 + 100. Both expressions equal 350."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Apply the distributive property: 2 × (43 + 24)",
+      "answer": "2 × 43 + 2 × 24 = 86 + 48 = 134",
+      "solution": "The distributive property states: a × (b + c) = a × b + a × c. So 2 × (43 + 24) = (2 × 43) + (2 × 24) = 86 + 48 = 134."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Apply the distributive property: 5 × (12 - 8)",
+      "answer": "5 × 12 - 5 × 8 = 60 - 40 = 20",
+      "solution": "The distributive property for subtraction: a × (b - c) = a × b - a × c. So 5 × (12 - 8) = (5 × 12) - (5 × 8) = 60 - 40 = 20."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Factor out the common factor: 14 × 10 - 6 × 10",
+      "answer": "8 × 10 = 80",
+      "solution": "Both terms have factor 10. Using the distributive property in reverse: 14 × 10 - 6 × 10 = (14 - 6) × 10 = 8 × 10 = 80."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Factor out the common factor: 98 × 10 + 98 × 3",
+      "answer": "98 × 13 = 1274",
+      "solution": "Both terms have factor 98. Using factoring: 98 × 10 + 98 × 3 = 98 × (10 + 3) = 98 × 13 = 1274."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Show that 53 + (-16) = 37. If 53 becomes 54, what does the sum become?",
+      "answer": "The new sum is 38 (38 = 37 + 1)",
+      "solution": "Originally: 53 + (-16) = 37. If 53 increases by 1 to become 54, then: 54 + (-16) = 38. The sum increases by the same amount (1) that the term increased."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "In the expression 53 + (-16) = 37, if -16 becomes -15, what does the sum become?",
+      "answer": "The new sum is 38 (38 = 37 + 1)",
+      "solution": "Originally: 53 + (-16) = 37. If -16 becomes -15 (increases by 1), then: 53 + (-15) = 38. When a negative term increases (becomes less negative), the sum increases."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "Evaluate: 30 + 5 × 4 - 8 ÷ 2 (without changing the order of operations)",
+      "answer": "48",
+      "solution": "Identify terms: 30, (5 × 4), and (8 ÷ 2). Evaluate each term: 30, 20, and 4. Then add/subtract: 30 + 20 - 4 = 48."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Evaluate: 5 × (3 + 2) + 7 × 8 + 3",
+      "answer": "84",
+      "solution": "Identify terms: (5 × [3+2]), (7 × 8), and 3. Evaluate brackets first: 5 × 5 = 25. Then: 25 + 56 + 3 = 84."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Evaluate: 48 - 10 × 2 + 16 ÷ 2",
+      "answer": "36",
+      "solution": "Identify terms: 48, (10 × 2), and (16 ÷ 2). Evaluate: 48, 20, and 8. Combine: 48 - 20 + 8 = 36."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Show that 2 × (43 + 24) = 2 × 43 + 2 × 24",
+      "answer": "Both equal 134",
+      "solution": "Left side: 2 × (43 + 24) = 2 × 67 = 134. Right side: 2 × 43 + 2 × 24 = 86 + 48 = 134. This demonstrates the distributive property."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Using the distributive property, efficiently calculate 97 × 25.",
+      "answer": "2425",
+      "solution": "Rewrite 97 as (100 - 3): 97 × 25 = (100 - 3) × 25 = (100 × 25) - (3 × 25) = 2500 - 75 = 2425."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Using the distributive property, efficiently calculate 104 × 15.",
+      "answer": "1560",
+      "solution": "Rewrite 104 as (100 + 4): 104 × 15 = (100 + 4) × 15 = (100 × 15) + (4 × 15) = 1500 + 60 = 1560."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "If 423 + _____ = 419 + _____, what number goes in each blank to make them equal?",
+      "answer": "If 423 becomes 419 (decrease by 4), the second blank must be 4 more than the first.",
+      "solution": "Since 423 is 4 more than 419, to keep both sides equal, subtract 4 from the second side's blank. For example: 423 + 5 = 419 + 9."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Medium",
+      "question": "Compare: (6 + 10) - 2 and 6 + (10 - 2). Are they equal?",
+      "answer": "Yes, both equal 14.",
+      "solution": "(6 + 10) - 2 = 16 - 2 = 14. And 6 + (10 - 2) = 6 + 8 = 14. When we have only addition and subtraction, the operations can be grouped differently."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Medium",
+      "question": "Compare: 16 - (8 - 3) and (16 - 8) - 3. Are they equal?",
+      "answer": "No, they are not equal. 16 - (8 - 3) = 11, and (16 - 8) - 3 = 5.",
+      "solution": "16 - (8 - 3) = 16 - 5 = 11. And (16 - 8) - 3 = 8 - 3 = 5. The grouping matters when brackets contain subtraction. This shows that subtraction is NOT associative."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Easy",
+      "question": "Write an expression for: Mallika spends ₹25 daily for lunch. What does she spend in 5 days?",
+      "answer": "5 × 25",
+      "solution": "To find the total for 5 days at ₹25 per day, we multiply: 5 × 25 = ₹125."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Medium",
+      "question": "Write an expression for: Irfan buys biscuits for ₹15 and toor dal for ₹56. He pays ₹100. What is his change?",
+      "answer": "100 - (15 + 56) = 29",
+      "solution": "Total cost = 15 + 56 = 71. Change = 100 - 71 = 29. The expression 100 - (15 + 56) shows the change. Using bracket removal: 100 - (15 + 56) = 100 - 15 - 56 = 29."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "Amu, Charan, Madhu, and John order four dosas at ₹23 each and tip ₹75. Write the expression for total cost and find its value.",
+      "answer": "4 × 23 + 75 = 167",
+      "solution": "Cost of 4 dosas: 4 × 23 = 92. With tip: 4 × 23 + 75 = 92 + 75 = 167. Terms are (4 × 23) and 75."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "Raghu bought 100 kg of rice and packed into 2 kg packets. He already had 4 packets. Write the expression for total packets.",
+      "answer": "4 + 100 ÷ 2 = 54",
+      "solution": "New packets from 100 kg: 100 ÷ 2 = 50. Total: 4 + (100 ÷ 2) = 4 + 50 = 54. Terms are 4 and (100 ÷ 2)."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "Remove brackets and simplify: 14 + (12 + 10) - (12 - 10)",
+      "answer": "34",
+      "solution": "First bracket (preceded by +): 14 + 12 + 10. Second bracket (preceded by -): Signs change, so -12 + 10 becomes -12 + 10. Result: 14 + 12 + 10 - 12 + 10 = 34. Or directly: 14 + 22 - 2 = 34."
+    }
+  ]
+}

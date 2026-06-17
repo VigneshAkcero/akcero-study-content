@@ -1,0 +1,529 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Mathematics",
+    "chapter_name": "Number Play",
+    "chapter_number": 5
+  },
+  "notes": [
+    {
+      "section_title": "5.1 Is This a Multiple Of?",
+      "topics": [
+        {
+          "topic_name": "Sums of Consecutive Numbers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Exploring sums of consecutive numbers is a fascinating area of number theory. For example, can every natural number be expressed as the sum of consecutive numbers? Which numbers can be expressed as sums in multiple ways? What about even numbers? These questions lead us to discover important patterns and properties about how numbers combine."
+            },
+            {
+              "type": "note",
+              "title": "Key Questions About Consecutive Sums",
+              "text": "Can every natural number be written as a sum of consecutive numbers? Which numbers can be expressed as sums of consecutive numbers in more than one way? Are all odd numbers expressible as sums of two consecutive numbers? Can we express numbers using negative consecutive integers?"
+            },
+            {
+              "type": "paragraph",
+              "text": "The exploration of these questions teaches us that patterns emerge in mathematics through careful observation and testing. By trying different sets of consecutive numbers and looking for patterns, we develop the ability to make conjectures and test them mathematically."
+            }
+          ]
+        },
+        {
+          "topic_name": "Parity of Sums and Differences of Four Numbers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When we take any four consecutive numbers and place + and − signs between them in all eight possible ways, we get eight expressions. A remarkable observation emerges: regardless of which four consecutive numbers we choose or how we arrange the signs, all eight resulting values have the same parity (all even or all odd)."
+            },
+            {
+              "type": "note",
+              "title": "The Eight Possible Expressions",
+              "text": "For four numbers a, b, c, d, the eight possible combinations are: (1) a+b+c+d, (2) a+b+c−d, (3) a+b−c+d, (4) a+b−c−d, (5) a−b+c+d, (6) a−b+c−d, (7) a−b−c+d, (8) a−b−c−d. All eight expressions always have the same parity."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example: Take 3, 4, 5, 6. The eight expressions are: 3+4+5+6=18, 3+4+5−6=6, 3+4−5+6=8, 3+4−5−6=−4, 3−4+5+6=10, 3−4+5−6=−2, 3−4−5+6=0, 3−4−5−6=−8. All results are even numbers!"
+            },
+            {
+              "type": "note",
+              "title": "Why This Happens: Algebraic Explanation",
+              "text": "Consider the expression a+b−c−d. If we switch +b to −b, we get a−b−c−d. The change is: (a+b−c−d) − (a−b−c−d) = 2b, which is always even. Since changing a sign alters the value by an even amount, if one expression is even, all others obtained by switching signs are also even. Similarly, if one is odd, all are odd."
+            },
+            {
+              "type": "note",
+              "title": "Parity Rules for Operations",
+              "text": "odd ± odd = even, even ± even = even, odd ± even = odd. The key insight: a+b and a−b have the same parity regardless of the parities of a and b. Therefore, all expressions a±b±c±d always have the same parity."
+            },
+            {
+              "type": "paragraph",
+              "text": "This principle is not limited to four numbers. The same parity property holds for any number of terms. If we have five numbers a, b, c, d, e and form expressions with ± signs, all resulting values maintain the same parity. This is a fundamental property that extends the pattern we observed with four numbers."
+            }
+          ]
+        },
+        {
+          "topic_name": "Breaking Even: Parity in Algebraic Expressions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Understanding parity—whether a number is even or odd—helps us determine the parity of algebraic expressions without computing them. An expression always gives an even number if it contains a factor of 2 or if it's the sum/difference of even terms."
+            },
+            {
+              "type": "note",
+              "title": "Always Even Expressions",
+              "text": "2a + 2b = 2(a+b) — always even (factor of 2). 4m + 2n = 2(2m+n) — always even (factor of 2). 2u − 4v = 2(u−2v) — always even (factor of 2). 4k × 3j — always even (one factor is even). These expressions always give even numbers for any integer values."
+            },
+            {
+              "type": "note",
+              "title": "Not Always Even Expressions",
+              "text": "3g + 5h — sometimes even, sometimes odd. If g is odd and h is odd: 3(odd) + 5(odd) = odd + odd = even. If g is even and h is odd: 3(even) + 5(odd) = even + odd = odd. x² + 2 — depends on x. If x is even: x² is even, so x²+2 is even. If x is odd: x² is odd, so x²+2 is odd."
+            },
+            {
+              "type": "paragraph",
+              "text": "The key to determining if an expression always gives an even number is to check: (1) Does it have a factor of 2? (2) Are all terms even? (3) Can we prove using parity rules that the result is always even? If the answer is 'yes' to any of these, the expression always gives an even number."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.2 Checking Divisibility Quickly",
+      "topics": [
+        {
+          "topic_name": "Pairs to Make Fours: Divisibility by 4",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When we add two even numbers, we need to determine when their sum is divisible by 4. This depends on the classification of even numbers based on remainders when divided by 4."
+            },
+            {
+              "type": "note",
+              "title": "Two Types of Even Numbers",
+              "text": "Type 1: Multiples of 4 — leave remainder 0 when divided by 4. Examples: 0, 4, 8, 12, 16, 20, ... Form: 4p. Type 2: Not multiples of 4 — leave remainder 2 when divided by 4. Examples: 2, 6, 10, 14, 18, 22, ... Form: 4q + 2."
+            },
+            {
+              "type": "note",
+              "title": "When is the Sum Divisible by 4?",
+              "text": "Case 1: Both numbers are multiples of 4. (4p) + (4m) = 4(p+m) → divisible by 4. Case 2: Both numbers have remainder 2. (4p+2) + (4q+2) = 4(p+q+1) → divisible by 4. Case 3: One is multiple of 4, other has remainder 2. (4p) + (4q+2) = 4(p+q) + 2 → remainder 2, NOT divisible by 4."
+            },
+            {
+              "type": "paragraph",
+              "text": "The sum of two even numbers is divisible by 4 if and only if both numbers are of the same type: either both are multiples of 4, or both leave remainder 2. If they are of different types, the sum is not divisible by 4."
+            }
+          ]
+        },
+        {
+          "topic_name": "Divisibility by 3 and 9: Digit Sum Rule",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A remarkable shortcut allows us to check divisibility by 9 or 3 without performing division. This rule is based on the observation that place values (10, 100, 1000, ...) leave specific remainders when divided by 9."
+            },
+            {
+              "type": "note",
+              "title": "The Place Value Pattern",
+              "text": "10 = 9 + 1, so 10 leaves remainder 1 when divided by 9. 100 = 99 + 1, so 100 leaves remainder 1 when divided by 9. 1000 = 999 + 1, so 1000 leaves remainder 1 when divided by 9. In general: 10, 100, 1000, 10000, ... all leave remainder 1 when divided by 9."
+            },
+            {
+              "type": "note",
+              "title": "Divisibility by 9 Rule",
+              "text": "A number is divisible by 9 if and only if the sum of its digits is divisible by 9. For example: 7309: digit sum = 7+3+0+9 = 19. Then 1+9 = 10. Then 1+0 = 1. So 7309 leaves remainder 1 when divided by 9. To verify: 7309 ÷ 9 = 812 remainder 1. ✓"
+            },
+            {
+              "type": "paragraph",
+              "text": "The digit sum method works because when we write a number in expanded form, each digit's contribution equals digit × (place value). Since each place value ≡ 1 (mod 9), each digit contributes its face value to the remainder. Therefore, the number's remainder equals the sum of digits' remainder."
+            },
+            {
+              "type": "note",
+              "title": "Divisibility by 3 Rule",
+              "text": "A number is divisible by 3 if and only if the sum of its digits is divisible by 3. This works by similar logic: place values 10, 100, 1000, ... all leave remainder 1 when divided by 3 (since 10 ≡ 1 (mod 3)). Therefore, the number's remainder mod 3 equals the sum of digits' remainder mod 3."
+            },
+            {
+              "type": "paragraph",
+              "text": "The digital root (repeatedly summing digits until a single digit remains) provides the remainder when divided by 9. However, if the digital root is 9, the number is divisible by 9. For divisibility by 3, we only need to check if the digit sum is divisible by 3."
+            }
+          ]
+        },
+        {
+          "topic_name": "Divisibility by 11: The Alternating Sum Rule",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Divisibility by 11 follows a unique pattern based on the alternating relationship between place values and 11. Unlike divisibility by 3 and 9, the position of digits matters for divisibility by 11."
+            },
+            {
+              "type": "note",
+              "title": "The Place Value Pattern for 11",
+              "text": "1 = 0×11 + 1, so 1 ≡ 1 (mod 11). 10 = 1×11 − 1, so 10 ≡ −1 (mod 11). 100 = 9×11 + 1, so 100 ≡ 1 (mod 11). 1000 = 91×11 − 1, so 1000 ≡ −1 (mod 11). Pattern: Units place (1 ≡ 1), Tens (10 ≡ −1), Hundreds (100 ≡ 1), Thousands (1000 ≡ −1), and so on."
+            },
+            {
+              "type": "note",
+              "title": "Divisibility by 11 Rule: Method 1",
+              "text": "Separate digits into two groups: Odd-position digits (from right): units, hundreds, ten-thousands, ... Subtract sum of these from sum of even-position digits (tens, thousands, hundred-thousands, ...). If the difference is divisible by 11, the number is divisible by 11. Example: 320185. Odd positions: 5+1+2 = 8. Even positions: 8+0+3 = 11. Difference: 11−8 = 3. Since 3 is not divisible by 11, 320185 is not divisible by 11."
+            },
+            {
+              "type": "note",
+              "title": "Divisibility by 11 Rule: Method 2 (Alternating Sum)",
+              "text": "Place alternating + and − signs from right to left: units digit gets +, tens digit gets −, hundreds digit gets +, and so on. Example: 328105 → −3+2−8+1−0+5 = −3. Evaluate this expression. If the result is divisible by 11 (including 0 and negative multiples of 11), the original number is divisible by 11. If the result is negative, it represents how many less than a multiple of 11 the number is."
+            },
+            {
+              "type": "paragraph",
+              "text": "The alternating pattern makes sense because consecutive place values have opposite remainders (mod 11): +1, −1, +1, −1, ... This creates the alternating sum naturally from the place values' structure."
+            }
+          ]
+        },
+        {
+          "topic_name": "Divisibility Shortcuts for 2, 5, 10, 4, and 8",
+          "content": [
+            {
+              "type": "note",
+              "title": "Divisibility by 10, 5, and 2",
+              "text": "Divisibility by 10: Last digit must be 0. (Units place is the only place not a multiple of 10.) Divisibility by 5: Last digit must be 0 or 5. (Units digit determines divisibility since 10, 100, ... are all divisible by 5.) Divisibility by 2: Last digit must be even (0, 2, 4, 6, 8). (Units digit determines divisibility since 10, 100, ... are all even.)"
+            },
+            {
+              "type": "note",
+              "title": "Divisibility by 4 and 8",
+              "text": "Divisibility by 4: Last two digits must form a number divisible by 4. (Check last 2 digits only, since 100, 1000, ... are all divisible by 4.) Divisibility by 8: Last three digits must form a number divisible by 8. (Check last 3 digits only, since 1000, 10000, ... are all divisible by 8.) Verification: 1000 = 125 × 8, 10000 = 1250 × 8, etc."
+            },
+            {
+              "type": "paragraph",
+              "text": "These shortcuts work because they're based on the structure of place values. For 2 and 5, we only care about the units digit since all other place values (10, 100, ...) are divisible by both 2 and 5. For 4 and 8, we check the last 2 or 3 digits since larger place values are divisible by these numbers."
+            }
+          ]
+        },
+        {
+          "topic_name": "Divisibility by 6 and Composite Numbers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To check divisibility by composite numbers, we use the property that if a is divisible by both b and c (where b and c are coprime), then a is divisible by their product b×c. For 6 = 2 × 3, a number is divisible by 6 if and only if it's divisible by both 2 and 3."
+            },
+            {
+              "type": "note",
+              "title": "Divisibility by 6 Rule",
+              "text": "A number is divisible by 6 if: (1) It's divisible by 2 (last digit is even), AND (2) It's divisible by 3 (digit sum is divisible by 3). Example: 186. Last digit is 6 (even) ✓. Digit sum: 1+8+6 = 15, divisible by 3 ✓. Therefore, 186 is divisible by 6."
+            },
+            {
+              "type": "paragraph",
+              "text": "This principle extends to other composite numbers: Divisibility by 12 = 4 × 3: check both 4 (last 2 digits) and 3 (digit sum). Divisibility by 18 = 2 × 9: check both 2 (last digit) and 9 (digit sum). Divisibility by 24 = 8 × 3: check both 8 (last 3 digits) and 3 (digit sum). The key requirement is that the factors are coprime (share no common factors)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Divisibility Properties and Theorems",
+          "content": [
+            {
+              "type": "note",
+              "title": "Key Divisibility Properties",
+              "text": "Property 1: If a divides m and a divides n, then a divides (m+n) and (m−n). Property 2: If a divides m and a divides n, then a divides any linear combination αm + βn. Property 3: If a is divisible by b, then every multiple of a is divisible by b. Property 4: If a is divisible by b, then a is divisible by all factors of b. Property 5: If a is divisible by both b and c, then a is divisible by LCM(b,c)."
+            },
+            {
+              "type": "paragraph",
+              "text": "These properties form the foundation of modular arithmetic and number theory. They allow us to make powerful deductions about divisibility without performing actual division. For instance, if we know a number's divisibility by two smaller numbers, we can determine its divisibility by their LCM."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.3 Digital Roots",
+      "topics": [
+        {
+          "topic_name": "Definition and Calculation of Digital Root",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The digital root of a number is obtained by repeatedly adding its digits until a single-digit number is reached. This ancient technique, mentioned in Aryabhata II's work around 950 CE, was used to check arithmetic calculations."
+            },
+            {
+              "type": "note",
+              "title": "Digital Root Definition and Example",
+              "text": "Digital Root: The single digit obtained by repeatedly summing the digits of a number. Example: Digital root of 489710. Step 1: 4+8+9+7+1+0 = 29. Step 2: 2+9 = 11. Step 3: 1+1 = 2. Digital root = 2."
+            },
+            {
+              "type": "note",
+              "title": "Digital Root and Divisibility by 9",
+              "text": "The digital root is closely related to the remainder when dividing by 9: If a number is divisible by 9, its digital root is 9. If a number leaves remainder r when divided by 9 (where r ≠ 0), its digital root is r. If a number leaves remainder 9 when divided by 9 (meaning divisible by 9), its digital root is 9."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example: 47 has digital root 4+7 = 11 → 1+1 = 2. When we divide 47 by 9: 47 = 5×9 + 2, remainder is 2. So the digital root equals the remainder (when remainder ≠ 9). For 63: 6+3 = 9 (digital root). Dividing by 9: 63 = 7×9 + 0, divisible by 9. Digital root is 9 when the number is divisible by 9."
+            }
+          ]
+        },
+        {
+          "topic_name": "Patterns in Digital Roots",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When we write consecutive multiples of a number, their digital roots follow predictable patterns. These patterns help us understand the structure of multiplication and divisibility."
+            },
+            {
+              "type": "note",
+              "title": "Digital Roots of Multiples",
+              "text": "Multiples of 3: Digital roots follow the pattern 3, 6, 9, 3, 6, 9, ... (repeating). Multiples of 9: Digital roots are always 9 (since any multiple of 9 is divisible by 9). Multiples of other numbers: Show various patterns depending on the number. Examples: Multiples of 3 (3, 6, 9, 12, 15, 18, ...): digital roots are 3, 6, 9, 3, 6, 9, ... Multiples of 4 (4, 8, 12, 16, 20, ...): digital roots are 4, 8, 3, 7, 2, ... (no simple repetition)."
+            },
+            {
+              "type": "paragraph",
+              "text": "An important observation: Digital roots of consecutive multiples of 3 cycle through 3, 6, 9. This is because adding 3 to a number increases its digital root by 3 (mod 9). This pattern reflects the underlying structure of divisibility by 3 and 9."
+            }
+          ]
+        },
+        {
+          "topic_name": "Digital Root and Operations",
+          "content": [
+            {
+              "type": "note",
+              "title": "Digital Root of a Sequence (Adding 11 Repeatedly)",
+              "text": "When a sequence is generated by repeatedly adding 11 to a starting number: If the starting number has digital root d, the sequence's digital roots form a predictable pattern. Adding 11 adds its digital root (1+1=2) to the current digital root. Therefore, if we start with digital root d, successive terms have digital roots d+2, d+4, d+6, ... (mod 9). The pattern depends on d and repeats after at most 9 steps."
+            },
+            {
+              "type": "note",
+              "title": "What is the Digital Root of a Specific Form?",
+              "text": "For expressions like 9a + 36b + 13: Digital root of 9a = 9 (since 9a is a multiple of 9). Digital root of 36b = 9 (since 36b is a multiple of 9). Digital root of 13 = 1+3 = 4. Digital root of 9a + 36b + 13 = digital root of (9 + 9 + 4) = digital root of 22 = 2+2 = 4. The digital root depends only on the parts not divisible by 9."
+            },
+            {
+              "type": "paragraph",
+              "text": "The digital root of a sum equals the digital root of the sum of the digital roots. In other words: DR(a+b) = DR(DR(a) + DR(b)). This property, combined with understanding how operations affect digital roots, allows us to predict digital roots of complex expressions."
+            }
+          ]
+        },
+        {
+          "topic_name": "Relationships Between Digital Root and Other Properties",
+          "content": [
+            {
+              "type": "note",
+              "title": "Digital Root and Parity",
+              "text": "Is there a relationship between a number's parity (even/odd) and its digital root? Not a direct one: Even numbers: can have any digital root 1-9 (e.g., 2 has root 2, 4 has root 4, 8 has root 8, 10 has root 1). Odd numbers: can also have any digital root 1-9 (e.g., 1 has root 1, 3 has root 3, 5 has root 5, 7 has root 7, 9 has root 9, 11 has root 2). There is no inherent connection between parity and digital root."
+            },
+            {
+              "type": "note",
+              "title": "Digital Root and Divisibility by 3 or 9",
+              "text": "Direct relationship exists: Digital root is 3, 6, or 9 → number is divisible by 3. Digital root is 9 → number is divisible by 9 (and also by 3). Digital root is 3 or 6 → number is divisible by 3 but not by 9. This is because digital root = remainder when divided by 9. If remainder is divisible by 3, then the number is divisible by 3."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.4 Digits in Disguise: Cryptarithmetic",
+      "topics": [
+        {
+          "topic_name": "Introduction to Cryptarithmetic and Rules",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Cryptarithmetic is a puzzles where letters represent digits. The goal is to find which digit each letter represents. These puzzles develop logical reasoning, number properties understanding, and systematic problem-solving skills."
+            },
+            {
+              "type": "note",
+              "title": "Rules of Cryptarithmetic",
+              "text": "Rule 1: Each letter represents exactly one digit (0-9). Rule 2: Each digit is represented by at most one letter. Rule 3: Different letters represent different digits. Rule 4: The first digit of a number is never 0 (leading digits must be non-zero). Rule 5: Arithmetic operations must hold true numerically (addition, subtraction, multiplication must work correctly)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Solving cryptarithmetic puzzles involves using constraints from the arithmetic operation combined with properties of numbers, divisibility rules, and systematic elimination. The puzzles range from simple addition to complex multiplication problems."
+            }
+          ]
+        },
+        {
+          "topic_name": "Solving Cryptarithmetic: Addition and Subtraction",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In addition and subtraction cryptarithmetic, we analyze column by column, starting from the units place. Carries and borrows propagate from one column to the next, creating constraints that help us identify digit values."
+            },
+            {
+              "type": "note",
+              "title": "Addition Example and Strategy",
+              "text": "General strategy for addition puzzles: Analyze the units column first: the units digits of the two numbers must sum to give a units digit that matches the result (considering possible carry). If there's a carry, note it affects the tens column. Move to tens, hundreds, etc., using the constraints from previous columns. Look for unique letters that appear in multiple columns (like the leading digit), which severely constrains their values."
+            },
+            {
+              "type": "paragraph",
+              "text": "Subtraction follows similar logic, but with borrowing instead of carrying. The key is to identify columns where borrowing occurs and use this information to constrain digit values. Sometimes, we must try multiple values systematically to find the unique solution."
+            }
+          ]
+        },
+        {
+          "topic_name": "Solving Cryptarithmetic: Multiplication",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Multiplication cryptarithmetic is more complex because a single digit multiplication can affect multiple columns simultaneously. The range of the result constrains the possible values of the multiplier and multiplicand."
+            },
+            {
+              "type": "note",
+              "title": "Multiplication Analysis Strategy",
+              "text": "Step 1: Determine the range of possible values. If a 2-digit number × a 1-digit number = 2-digit number, what values are possible? Example: PQ × 8 = RS means a 2-digit number times 8 gives a 2-digit result. Since 10×8 = 80 and 13×8 = 104 (3-digit), PQ must be 10, 11, or 12. Step 2: Use digit constraints. If P and Q are different letters, then 10×8=80 doesn't work (P=Q=8). Step 3: Check remaining candidates against the cryptarithmetic condition."
+            },
+            {
+              "type": "note",
+              "title": "Complex Multiplication Example: BYE × 6 = RAY",
+              "text": "Constraint 1: Since RAY is 3-digit and BYE×6 must be 3-digit, B cannot be too large. If B≥2, then BYE≥200, so BYE×6≥1200 (4-digit). Therefore B=1. Constraint 2: Y determines the units digit. Y×6 must end in Y, so Y×6 ≡ Y (mod 10), meaning 5Y ≡ 0 (mod 10). Thus Y∈{0, 2, 4, 6, 8} (Y must be even). Constraint 3: For the result to be 3-digit: 1YE×6 < 1000, so 1YE < 167, meaning Y ≤ 6. Combined with Y being even and ≠B=1: Y∈{0,2,4,6}."
+            },
+            {
+              "type": "paragraph",
+              "text": "The multiplication puzzles often require finding which units digit, when multiplied by the multiplier, gives itself as the units digit. This severely constrains possibilities. For instance, finding digits d such that d×8 has units digit d only works for specific values (like 0 for d=0, though 0×8=0 doesn't give us digit information)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Advanced Cryptarithmetic: Pattern Recognition",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Advanced cryptarithmetic problems sometimes have special structures. For instance, PP × QQ = PRP involves repeated digits, creating strong constraints. EF × E = GGG requires G to be a repeated digit in the result, which is rare for multiplication."
+            },
+            {
+              "type": "note",
+              "title": "Patterns with Repeated Digits",
+              "text": "When a result has repeated digits like GGG (where all digits are the same), the number is divisible by 111. For GGG = G×111, we need EF×E to equal G×111. This means G×111 must be expressible as EF×E where E,F,G are single digits. This greatly limits possibilities. Example: If G=1, then 111 = EF×E. Trying E=3 doesn't work (3F×3 can't equal 111). This approach quickly eliminates most possibilities."
+            },
+            {
+              "type": "paragraph",
+              "text": "Another useful observation: if multiplication gives a result where the first digit equals the first digit of the multiplicand (like in PQ×5 = BC where B=P), this creates cascading constraints. Such patterns reduce the solution space dramatically and make cryptarithmetic puzzles solvable through systematic reasoning rather than brute force."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.5 Divisibility Problem Solving",
+      "topics": [
+        {
+          "topic_name": "Testing Divisibility Conditions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Many problems involve finding which numbers satisfy specific divisibility conditions. These problems combine multiple divisibility rules and require systematic checking of possibilities. Understanding the constraints is key to efficiently finding solutions."
+            },
+            {
+              "type": "note",
+              "title": "Example: 31z5 is a Multiple of 9",
+              "text": "For 31z5 to be divisible by 9, its digit sum must be divisible by 9. Digit sum: 3+1+z+5 = 9+z. For 9+z to be divisible by 9: If z=0: digit sum = 9 (divisible by 9) ✓. If z=9: digit sum = 18 (divisible by 9) ✓. All other values of z (1-8) give digit sums 10-17, which are not divisible by 9. Therefore, z = 0 or z = 9 (two answers)."
+            },
+            {
+              "type": "paragraph",
+              "text": "This example illustrates why problems can have multiple answers: the divisibility condition may not uniquely determine all unknowns. We must find all values that satisfy the condition, not assume there's only one solution."
+            }
+          ]
+        },
+        {
+          "topic_name": "Composite Conditions: Multiple Divisibility Requirements",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Some problems require a number to satisfy multiple divisibility conditions simultaneously. For instance, finding numbers divisible by both 18 and specific digit constraints. These require understanding how different prime factors interact."
+            },
+            {
+              "type": "note",
+              "title": "Example: 48a23b is a Multiple of 18",
+              "text": "For divisibility by 18 = 2 × 9: Divisibility by 2: b must be even (b ∈ {0,2,4,6,8}). Divisibility by 9: digit sum 4+8+a+2+3+b = 17+a+b must be divisible by 9. So a+b ≡ 1 (mod 9) (since 17 ≡ 8 (mod 9), and 8+1=9≡0). Checking combinations: For each even b, find a values 0-9 such that a+b ≡ 1 (mod 9). b=0: a+0≡1 → a∈{1} b=2: a+2≡1 → a∈{8} b=4: a+4≡1 → a∈{6} b=6: a+6≡1 → a∈{4} b=8: a+8≡1 → a∈{2} Valid pairs: (1,0), (8,2), (6,4), (4,6), (2,8)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Exploring Patterns: Consecutive Numbers and Products",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Products of consecutive integers have remarkable divisibility properties. These arise naturally because consecutive numbers have different parities and ensure certain factors are always present."
+            },
+            {
+              "type": "note",
+              "title": "Product of Consecutive Integers: Divisibility Patterns",
+              "text": "Product of 2 consecutive integers: n(n+1) is always divisible by 2 (one of two consecutive numbers is even). Product of 3 consecutive integers: n(n+1)(n+2) is always divisible by 6 = 2×3 (contains at least one multiple of 2 and one of 3). Product of 4 consecutive integers: n(n+1)(n+2)(n+3) is always divisible by 24 = 2³×3 (guaranteed divisibility by 8 and 3). Product of 5 consecutive integers: Always divisible by 120 = 2³×3×5 (includes guaranteed factors of 8, 3, and 5)."
+            },
+            {
+              "type": "paragraph",
+              "text": "These divisibility patterns arise because: Among any k consecutive integers, exactly one is divisible by k. Among any 2 consecutive integers, at least one is even. Among any 3 consecutive integers, exactly one is divisible by 3. Among any 4 consecutive integers, at least two are even (making the product divisible by at least 2²=4, often more). These properties combine to guarantee the stated divisibility."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Parity",
+      "definition": "The property of being even or odd. An integer's parity is even if divisible by 2, and odd if it leaves remainder 1 when divided by 2."
+    },
+    {
+      "term": "Even Number",
+      "definition": "An integer divisible by 2. Form: 2n where n is any integer. Examples: ..., -4, -2, 0, 2, 4, 6, ..."
+    },
+    {
+      "term": "Odd Number",
+      "definition": "An integer that leaves remainder 1 when divided by 2. Form: 2n+1 where n is any integer. Examples: ..., -3, -1, 1, 3, 5, 7, ..."
+    },
+    {
+      "term": "Divisible",
+      "definition": "A number a is divisible by b if a = b×k for some integer k, meaning the division leaves no remainder."
+    },
+    {
+      "term": "Multiple",
+      "definition": "A number that is divisible by another number. For example, 12 is a multiple of 3, 4, and 6 because 12 = 3×4 = 4×3 = 6×2."
+    },
+    {
+      "term": "Factor (Divisor)",
+      "definition": "A number that divides another number exactly. For example, 3 and 4 are factors of 12 because 12 = 3×4."
+    },
+    {
+      "term": "Remainder",
+      "definition": "The amount left over after division. When a is divided by b, the remainder r satisfies 0 ≤ r < b and a = bq + r for some integer quotient q."
+    },
+    {
+      "term": "Digital Root",
+      "definition": "The single digit obtained by repeatedly summing the digits of a number until a single digit remains. Also related to the remainder when divided by 9."
+    },
+    {
+      "term": "Digit Sum",
+      "definition": "The sum of all digits in a number. For divisibility by 9 or 3, we check if the digit sum is divisible by 9 or 3."
+    },
+    {
+      "term": "Cryptarithmetic",
+      "definition": "A puzzle where letters represent digits, and the goal is to find which digit each letter represents such that arithmetic operations hold true."
+    },
+    {
+      "term": "Consecutive Numbers",
+      "definition": "Numbers that follow each other in order with difference 1. Example: 7, 8, 9 are three consecutive numbers."
+    },
+    {
+      "term": "LCM (Least Common Multiple)",
+      "definition": "The smallest positive integer that is divisible by two or more given numbers. For example, LCM(4,6) = 12."
+    },
+    {
+      "term": "GCD (Greatest Common Divisor)",
+      "definition": "The largest positive integer that divides two or more given numbers. For example, GCD(12,18) = 6."
+    },
+    {
+      "term": "Coprime Numbers",
+      "definition": "Two numbers whose greatest common divisor (GCD) is 1. They share no common factors except 1. Example: 8 and 9 are coprime."
+    },
+    {
+      "term": "Alternating Sum",
+      "definition": "A sum where signs alternate between addition and subtraction. Used in divisibility rule for 11: a±b∓c±d... where signs alternate from right to left."
+    },
+    {
+      "term": "Modular Arithmetic",
+      "definition": "Arithmetic based on remainders. 'a ≡ r (mod b)' means a leaves remainder r when divided by b."
+    },
+    {
+      "term": "Divisibility Rule",
+      "definition": "A shortcut to determine if a number is divisible by another number without performing full division. Examples: divisibility by 2 (check last digit), divisibility by 9 (check digit sum)."
+    }
+  ],
+  "summary_points": [
+    "When four consecutive numbers are combined with ± signs in eight possible ways, all resulting expressions have the same parity (all even or all odd), regardless of which four consecutive numbers are chosen.",
+    "An algebraic expression always gives an even number if it contains a factor of 2 or is a sum of even terms. Expressions like 2a+2b, 4m+2n, and 2u−4v always give even numbers.",
+    "Even numbers are classified into two types: multiples of 4 (remainder 0) and numbers leaving remainder 2. The sum of two even numbers is divisible by 4 if both are the same type, not if they're different types.",
+    "A number is divisible by 9 if and only if the sum of its digits is divisible by 9. A number is divisible by 3 if and only if the sum of its digits is divisible by 3.",
+    "Divisibility by 11 uses an alternating sum: place + and − signs from right to left (units gets +, tens gets −, etc.). If this alternating sum is divisible by 11, the original number is divisible by 11.",
+    "Divisibility shortcuts exist for all basic numbers: 2 (last digit even), 5 (last digit 0 or 5), 10 (last digit 0), 4 (last 2 digits divisible by 4), 8 (last 3 digits divisible by 8).",
+    "For composite numbers like 6, 12, 18, use divisibility of prime factors: 6 requires divisibility by both 2 and 3; 12 requires divisibility by both 4 and 3; 18 requires divisibility by both 2 and 9.",
+    "Digital root is found by repeatedly summing digits until a single digit remains. It equals the remainder when divided by 9 (with digital root 9 when divisible by 9).",
+    "Digital roots of consecutive multiples of 3 follow the pattern: 3, 6, 9, 3, 6, 9, ... The digital root of a sum equals the digital root of the sum of digital roots.",
+    "Key divisibility properties: If a divides m and a divides n, then a divides both m+n and m−n. If a is divisible by both b and c (where b and c are coprime), then a is divisible by their product.",
+    "In cryptarithmetic, each letter represents a unique digit, different letters represent different digits, and the first digit of a number is never 0. Solutions require using divisibility properties and systematic reasoning.",
+    "Products of consecutive integers have guaranteed divisibility: 2 consecutive (divisible by 2), 3 consecutive (divisible by 6), 4 consecutive (divisible by 24), 5 consecutive (divisible by 120).",
+    "Patterns in arithmetic operations: Adding 11 repeatedly creates predictable digital root patterns; multiplying specific digits with themselves can create repeated digit results (like GGG), which equals G×111."
+  ]
+}

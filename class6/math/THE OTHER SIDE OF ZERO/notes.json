@@ -1,0 +1,165 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "THE OTHER SIDE OF ZERO",
+    "chapter_number": 10
+  },
+  "notes": [
+    {
+      "section_title": "Introduction to Integers",
+      "topics": [
+        {
+          "topic_name": "Negative Numbers and Integers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Numbers less than zero are called negative numbers, written with a '–' sign. The collection of counting numbers (1, 2, 3...), zero, and negative counting numbers (... -3, -2, -1) are called integers."
+            },
+            {
+              "type": "note",
+              "title": "Properties of Zero",
+              "text": "Zero is an integer that is neither positive nor negative. It acts as the reference point on the number line."
+            },
+            {
+              "type": "activity",
+              "title": "Bela's Building of Fun",
+              "procedure": [
+                "Imagine a building with floors above and below ground.",
+                "Ground floor is 0.",
+                "Floors above are positive (+1, +2...).",
+                "Floors below are negative (-1, -2...)."
+              ],
+              "conclusion": "Moving up is represented by addition of positive numbers, and moving down by subtraction or addition of negative numbers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Operations with Integers",
+      "topics": [
+        {
+          "topic_name": "Addition and Subtraction Models",
+          "content": [
+            {
+              "type": "list",
+              "title": "The Number Line Rule",
+              "items": [
+                "**Addition**: Starting Position + Movement = Target Position.",
+                "**Subtraction**: Target Position – Starting Position = Movement needed."
+              ]
+            },
+            {
+              "type": "activity",
+              "title": "The Token Model",
+              "procedure": [
+                "Use red tokens for positive numbers and green tokens for negative numbers.",
+                "A 'zero pair' (one red and one green) cancels out to zero.",
+                "For subtraction, if you don't have enough tokens of a color, add zero pairs until you do."
+              ],
+              "conclusion": "Subtraction is the same as adding the additive inverse of a number."
+            },
+            {
+              "type": "example",
+              "title": "Example-1",
+              "question": "You start at Floor +2 and move 3 floors down. Where do you reach?",
+              "solution": "1. Starting floor = +2.\n2. Movement = -3.\n3. Expression: $(+2) + (-3) = -1$.\nYou reach Floor -1 (the Toy Store)."
+            },
+            {
+              "type": "example",
+              "title": "Example-2",
+              "question": "Subtract +6 from +5 using the token model.",
+              "solution": "1. Start with 5 positive tokens.\n2. We need to take away 6, but we only have 5.\n3. Add one 'zero pair' (+ and -). Now we have 6 positive and 1 negative token.\n4. Take away 6 positive tokens.\n5. Result: 1 negative token remains, so $(+5) - (+6) = -1$."
+            }
+          ]
+        },
+        {
+          "topic_name": "Comparing Integers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "On a number line, a number is smaller if it is to the left of another number. All negative numbers are less than 0, and 0 is less than all positive numbers."
+            },
+            {
+              "type": "example",
+              "title": "Example-3",
+              "question": "Compare -10 and -12.",
+              "solution": "On a vertical lift or number line, -12 is lower (further left) than -10. Therefore, $-12 < -10$."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Real-world Applications",
+      "topics": [
+        {
+          "topic_name": "Banking, Geography, and Temperature",
+          "content": [
+            {
+              "type": "list",
+              "title": "Usage of Integers",
+              "items": [
+                "**Banking**: Credits (+) increase balance, while Debits (-) decrease it.",
+                "**Geography**: Heights are measured from sea level (0 m). Mountains are positive, and deep ocean trenches are negative.",
+                "**Temperature**: Degrees Celsius measure heat. $0^\\circ C$ is the freezing point of water. Temperatures like $-4^\\circ C$ are colder than $0^\\circ C$."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example-4",
+              "question": "A bank account starts at ₹100. There is a credit of ₹60 and a debit of ₹200. What is the final balance?",
+              "solution": "1. Start: +100.\n2. Credit: +60 $\\to 100 + 60 = 160$.\n3. Debit: -200 $\\to 160 - 200 = -40$.\nThe balance is -₹40."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Historical Context: Brahmagupta's Rules",
+      "topics": [
+        {
+          "topic_name": "Ancient Rules for Integers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In 628 CE, the Indian mathematician Brahmagupta provided clear rules for operations with positive numbers, negative numbers, and zero."
+            },
+            {
+              "type": "list",
+              "title": "Rules for Addition",
+              "items": [
+                "Sum of two positives is positive.",
+                "Sum of two negatives is negative.",
+                "Sum of a positive and a negative: Subtract smaller from larger (without signs) and keep the sign of the larger.",
+                "Sum of a number and its inverse is zero."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example-5",
+              "question": "Calculate $(-5) + (+3)$ using Brahmagupta's rule.",
+              "solution": "1. Signs are different, so subtract the smaller (3) from the larger (5) $\\to 5 - 3 = 2$.\n2. The larger number (without sign) is 5, which originally had a '-' sign.\n3. Result: -2."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Integers", "definition": "The set of whole numbers and their negatives: {..., -3, -2, -1, 0, 1, 2, 3, ...}." },
+    { "term": "Positive Number", "definition": "A number greater than zero, usually written with a '+' sign or no sign." },
+    { "term": "Negative Number", "definition": "A number less than zero, always written with a '–' sign." },
+    { "term": "Additive Inverse", "definition": "The number that, when added to a given number, results in zero (e.g., -4 is the inverse of 4)." },
+    { "term": "Zero Pair", "definition": "A pair consisting of one positive unit and one negative unit that cancel each other out." }
+  ],
+  "summary_points": [
+    "Integers extend the number system to include values less than zero.",
+    "The ground floor/sea level/freezing point represents 0 in various real-world models.",
+    "Adding a negative number is equivalent to moving left or down.",
+    "Subtracting an integer is the same as adding its inverse.",
+    "On a number line, numbers increase as you move to the right and decrease as you move to the left.",
+    "Brahmagupta's 7th-century rules remain the foundation for modern integer arithmetic."
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "A Journey through States of Water",
+    "chapter_number": 8
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Name the three states of water found in our daily life.",
+      "answer": "Solid, Liquid, and Gas.",
+      "solution": "The three states of water are ice (solid), water (liquid), and water vapour (gas)."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What is the process of conversion of water into its vapour state called?",
+      "answer": "Evaporation.",
+      "solution": "The process of conversion of water into its vapour state is called evaporation."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Medium",
+      "question": "Why do clothes dry faster on a windy day?",
+      "answer": "Increase in air movement speeds up evaporation.",
+      "solution": "With the increase in the movement of air (wind), water evaporates faster from the wet clothes, making them dry quicker."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Medium",
+      "question": "When cold water is poured into a glass, tiny droplets appear on its outer surface. Where do these droplets come from?",
+      "answer": "From the water vapour present in the air.",
+      "solution": "The water vapour present in the air comes in contact with the cold surface of the glass and condenses into liquid water droplets."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Hard",
+      "question": "Describe the two conditions necessary for the formation of clouds in the atmosphere.",
+      "answer": "Cooling of air at high altitudes and presence of dust particles.",
+      "solution": "1. As water vapour rises, it reaches higher altitudes where the air is cooler, causing condensation. 2. The vapour condenses around tiny dust particles to form clouds."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Hard",
+      "question": "How does an earthen pot (matka) keep water cool during summer?",
+      "answer": "Through the cooling effect of evaporation.",
+      "solution": "An earthen pot has tiny pores through which water seeps out. This water evaporates from the outer surface, taking latent heat from the pot and the water inside, thereby cooling the remaining water."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "Compare the rate of evaporation of water kept in a bottle cap and water kept in a wide plate. Explain the difference.",
+      "answer": "Water in the plate evaporates faster due to larger exposed area.",
+      "solution": "Evaporation is a surface phenomenon. The plate provides a much larger exposed surface area to the air compared to the bottle cap, allowing more water molecules to escape into the air simultaneously."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What is the continuous circulation of water between the Earth's surface and the atmosphere called?",
+      "answer": "The Water Cycle.",
+      "solution": "The circulation of water from the ocean and Earth's surface into the atmosphere as vapour and back to Earth as rain, hail, or snow is called the water cycle."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Why does water vapour rise up into the atmosphere?",
+      "answer": "It is lighter than air.",
+      "solution": "Water vapour is lighter than air, which causes it to rise up into the atmosphere."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Aside from ice, name two solid substances mentioned in the chapter.",
+      "answer": "Wood and glass (or stones).",
+      "solution": "The chapter mentions stones, wood, and glass as examples of solid substances."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "How does the smell of food being cooked in the kitchen reach us in another room?",
+      "answer": "Gases (water vapour/smell particles) have the ability to spread out and fill the entire available space.",
+      "solution": "The smell of food spreads through the air because gases do not have a fixed shape and possess the property of spreading out completely in the available space."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Explain how liquid wax from a burning candle can be turned back into solid state.",
+      "answer": "By cooling it.",
+      "solution": "Like water, other substances like wax change their state on cooling. Liquid wax becomes solid when its temperature is lowered."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "If you pour 500ml of water from a jug into a bowl, what happens to its shape and volume?",
+      "answer": "The shape changes to match the bowl, but the volume remains constant (500ml).",
+      "solution": "Liquid water has a fixed volume but no fixed shape; it takes the shape of the container it is kept in."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "In the 'Cloud in a Bottle' experiment, why was it necessary to add a small burnt piece of newspaper?",
+      "answer": "To provide dust/smoke particles for the water vapour to condense upon.",
+      "solution": "In the atmosphere, water vapour condenses around tiny dust particles. The smoke from the burnt newspaper provides these particles, making the cloud formation (haziness) visible."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Why is it difficult to dry wet clothes on a rainy day?",
+      "answer": "High humidity in the air slows down evaporation.",
+      "solution": "On a rainy day, the air already contains a large amount of water vapour (high humidity). This high humidity level makes evaporation much slower."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Hard",
+      "question": "Differentiate between the properties of ice (solid) and water vapour (gas) in terms of shape and flow.",
+      "answer": "Ice has a fixed shape and cannot flow; water vapour has no fixed shape and spreads in all directions.",
+      "solution": "Ice (solid state) retains its shape regardless of the container and does not flow. Water vapour (gaseous state) does not possess a fixed shape and spreads out to fill the entire available space."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Hard",
+      "question": "What is 'Humidity', and how does it affect the rate of evaporation of sweat from our body on a hot day?",
+      "answer": "Humidity is the amount of water vapour in the air. High humidity slows down the evaporation of sweat.",
+      "solution": "Humidity refers to the amount of water vapour already present in the air. If humidity is high, the air can't easily take in more vapour, slowing down the evaporation of sweat, which makes us feel sticky and less cooled."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "How does an Atmospheric Water Generator (AWG) work to produce drinking water?",
+      "answer": "It collects water from humid air through the process of condensation.",
+      "solution": "AWG machines cool the surrounding humid air until the water vapour in it condenses into liquid water droplets, which are then collected for drinking."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "How can you modify a digital weighing balance experiment to prove that water appearing outside a cold tumbler is NOT due to seepage?",
+      "answer": "By marking the water level inside the tumbler.",
+      "solution": "If the water level inside the tumbler remains constant while the weight increases and extra water appears outside, it proves that the external water comes from the air (condensation) and not from inside (seepage)."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Explain the role of the sun in the water cycle.",
+      "answer": "The sun provides the heat necessary for evaporation.",
+      "solution": "The heat from the sun causes water from oceans, lakes, and rivers to evaporate into the atmosphere as water vapour, which is the first step in the water cycle."
+    }
+  ]
+}

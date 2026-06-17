@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Atoms and Molecules",
+    "chapter_number": 3
+  },
+  "summary": [
+    {
+      "category": "Laws of Chemical Combination and Dalton's Atomic Theory",
+      "points": [
+        "Law of Conservation of Mass: total mass of reactants = total mass of products in any chemical reaction (e.g., 5.3 g Na₂CO₃ + 6 g acetic acid → 11.3 g products). Law of Constant Proportions: elements in a compound are always in a fixed mass ratio regardless of source (e.g., H:O in water = 1:8 always).",
+        "Dalton's Atomic Theory (1808) explains both laws: atoms are indivisible (→ mass conservation) and atoms of an element are identical with constant mass (→ definite proportions). Key postulates: all matter is made of atoms; atoms combine in small whole-number ratios; the relative number and kinds of atoms in a compound are constant.",
+        "Atomic mass is measured relative to 1/12th the mass of one carbon-12 atom (the standard since 1961), giving the atomic mass unit 'u'. Key masses: H=1u, C=12u, N=14u, O=16u, Na=23u, Mg=24u, S=32u, Cl=35.5u, Ca=40u."
+      ]
+    },
+    {
+      "category": "Atoms, Molecules, and Ions",
+      "points": [
+        "An atom (radius ≈ 10⁻¹⁰ m) is the smallest particle of an element retaining its chemical properties; most atoms cannot exist independently. Atomicity = number of atoms per molecule: noble gases are monoatomic (Ar, He); most non-metals are diatomic (H₂, O₂, N₂, Cl₂); P₄ is tetraatomic; S₈ is polyatomic.",
+        "A molecule is the smallest independent particle of an element or compound showing all properties of the substance. Ratio by number of atoms is derived from mass ratio ÷ atomic mass (e.g., H:O in water = 1/1 : 8/16 = 1:0.5 = 2:1, confirming H₂O).",
+        "Ions are charged species: cations (positive, metal loses e⁻: Na⁺, Mg²⁺, Al³⁺) and anions (negative, non-metal gains e⁻: Cl⁻, O²⁻, N³⁻). Polyatomic ions are groups of atoms with a net charge: OH⁻, NO₃⁻, SO₄²⁻, CO₃²⁻, NH₄⁺, PO₄³⁻, HCO₃⁻."
+      ]
+    },
+    {
+      "category": "Chemical Formulae, Molecular Mass, and Formula Unit Mass",
+      "points": [
+        "Valency is the combining power of an element. Chemical formulae are written by the criss-cross method: write metal first, non-metal second, criss-cross their valencies as subscripts, simplify. Brackets are used when polyatomic ions appear more than once (e.g., Ca(OH)₂, not CaOH₂). Some symbols come from Latin: Fe (ferrum), Na (natrium), K (kalium), Au (aurum), Ag (argentum), Pb (plumbum).",
+        "Molecular mass = Σ(number of atoms × atomic mass) for all atoms in one molecule. Examples: H₂O = 2×1 + 1×16 = 18 u; HNO₃ = 1 + 14 + 3×16 = 63 u; CO₂ = 12 + 2×16 = 44 u.",
+        "Formula unit mass is used for ionic compounds (no discrete molecules). Calculated the same way: NaCl = 23 + 35.5 = 58.5 u; CaCl₂ = 40 + 2×35.5 = 111 u; K₂CO₃ = 2×39 + 12 + 3×16 = 138 u."
+      ]
+    }
+  ]
+}

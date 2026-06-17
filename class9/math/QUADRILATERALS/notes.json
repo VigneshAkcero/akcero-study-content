@@ -1,0 +1,198 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Quadrilaterals",
+    "chapter_number": 8
+  },
+  "notes": [
+    {
+      "section_title": "8.1 Properties of a Parallelogram",
+      "topics": [
+        {
+          "topic_name": "Introduction and Diagonals",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A quadrilateral has four sides, four angles, and four vertices. A parallelogram is a special type of quadrilateral in which both pairs of opposite sides are parallel."
+            },
+            {
+              "type": "activity",
+              "id": "8.1",
+              "title": "Properties of a Diagonal",
+              "procedure": [
+                "Cut out a parallelogram from a sheet of paper.",
+                "Cut it along a diagonal to obtain two triangles.",
+                "Place one triangle over the other and turn if necessary to compare them."
+              ],
+              "observation": "The two triangles cover each other exactly, meaning they are congruent.",
+              "conclusion": "A diagonal of a parallelogram divides it into two congruent triangles."
+            },
+            {
+              "type": "note",
+              "title": "Theorem 8.1",
+              "text": "A diagonal of a parallelogram divides it into two congruent triangles. Proof involves Alternate Interior Angles equal due to parallel opposite sides."
+            }
+          ]
+        },
+        {
+          "topic_name": "Properties of Sides",
+          "content": [
+            {
+              "type": "note",
+              "title": "Theorem 8.2",
+              "text": "In a parallelogram, opposite sides are equal."
+            },
+            {
+              "type": "note",
+              "title": "Theorem 8.3 (Converse of 8.2)",
+              "text": "If each pair of opposite sides of a quadrilateral is equal, then it is a parallelogram."
+            }
+          ]
+        },
+        {
+          "topic_name": "Properties of Angles",
+          "content": [
+            {
+              "type": "note",
+              "title": "Theorem 8.4",
+              "text": "In a parallelogram, opposite angles are equal."
+            },
+            {
+              "type": "note",
+              "title": "Theorem 8.5 (Converse of 8.4)",
+              "text": "If in a quadrilateral, each pair of opposite angles is equal, then it is a parallelogram."
+            }
+          ]
+        },
+        {
+          "topic_name": "Properties of Intersecting Diagonals",
+          "content": [
+            {
+              "type": "note",
+              "title": "Theorem 8.6",
+              "text": "The diagonals of a parallelogram bisect each other."
+            },
+            {
+              "type": "note",
+              "title": "Theorem 8.7 (Converse of 8.6)",
+              "text": "If the diagonals of a quadrilateral bisect each other, then it is a parallelogram."
+            }
+          ]
+        },
+        {
+          "topic_name": "Special Parallelograms: Rectangles and Rhombuses",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A rectangle is a parallelogram in which one angle is a right angle. By applying consecutive interior angle sum logic, it can be proven that each angle of a rectangle is a right angle."
+            },
+            {
+              "type": "note",
+              "title": "Diagonals of a Rhombus",
+              "text": "A rhombus has all four sides equal. By proving the congruence of the adjoining triangles formed by the intersecting diagonals, it can be shown that the diagonals of a rhombus are perpendicular to each other."
+            },
+            {
+              "type": "note",
+              "title": "Angle Bisectors of a Parallelogram",
+              "text": "The bisectors of the interior angles of a parallelogram form a rectangle at their intersections."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "8.2 The Mid-point Theorem",
+      "topics": [
+        {
+          "topic_name": "The Line Joining Mid-points",
+          "content": [
+            {
+              "type": "activity",
+              "id": "8.2",
+              "title": "Mid-point Measurements",
+              "procedure": [
+                "Draw a triangle ABC and mark the mid-points E and F of the two sides AB and AC respectively.",
+                "Join E and F. Measure EF and BC.",
+                "Measure angle AEF and angle ABC."
+              ],
+              "observation": "EF is half the length of BC, and angle AEF equals angle ABC (meaning EF is parallel to BC).",
+              "conclusion": "The line segment joining the mid-points of two sides of a triangle is parallel to the third side."
+            },
+            {
+              "type": "note",
+              "title": "Theorem 8.8 (The Mid-point Theorem)",
+              "text": "The line segment joining the mid-points of two sides of a triangle is parallel to the third side and is half of it."
+            }
+          ]
+        },
+        {
+          "topic_name": "Converse of the Mid-point Theorem",
+          "content": [
+            {
+              "type": "note",
+              "title": "Theorem 8.9",
+              "text": "The line drawn through the mid-point of one side of a triangle parallel to another side bisects the third side."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example Application: If D, E, and F are respectively the mid-points of sides AB, BC, and CA of a triangle ABC, then joining D, E, and F divides the original triangle into four congruent triangles."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Quadrilateral",
+      "definition": "A closed two-dimensional polygon bounded by four straight sides and having four vertices and four angles."
+    },
+    {
+      "term": "Parallelogram",
+      "definition": "A quadrilateral in which both pairs of opposite sides are parallel."
+    },
+    {
+      "term": "Rectangle",
+      "definition": "A parallelogram in which every angle is a right angle (90 degrees). Its diagonals are equal and bisect each other."
+    },
+    {
+      "term": "Rhombus",
+      "definition": "A parallelogram in which all four sides are equal in length. Its diagonals bisect each other at right angles."
+    },
+    {
+      "term": "Square",
+      "definition": "A parallelogram which is both a rectangle (all angles are 90 degrees) and a rhombus (all sides are equal). Its diagonals bisect each other at right angles and are equal."
+    },
+    {
+      "term": "Trapezium",
+      "definition": "A quadrilateral in which exactly one pair of opposite sides is parallel."
+    },
+    {
+      "term": "Diagonal",
+      "definition": "A line segment connecting two non-consecutive vertices of a polygon."
+    },
+    {
+      "term": "Bisect",
+      "definition": "To divide a line, an angle, or a shape into two exactly equal parts."
+    },
+    {
+      "term": "Congruent Triangles",
+      "definition": "Triangles that are exactly the same in size and shape, meaning all corresponding angles and sides are equal."
+    },
+    {
+      "term": "Transversal",
+      "definition": "A line that passes through two or more other lines in the same plane at distinct points."
+    }
+  ],
+  "summary_points": [
+    "A diagonal of a parallelogram divides it into two congruent triangles.",
+    "In a parallelogram, opposite sides are equal, opposite angles are equal, and the diagonals bisect each other.",
+    "The converse statements of parallelogram properties are also true: if opposite sides are equal, opposite angles are equal, or diagonals bisect each other in a quadrilateral, it is a parallelogram.",
+    "The diagonals of a rectangle bisect each other and are equal in length.",
+    "The diagonals of a rhombus bisect each other at right angles.",
+    "The diagonals of a square bisect each other at right angles and are equal.",
+    "The Mid-point Theorem states that the line segment joining the mid-points of any two sides of a triangle is parallel to the third side and is half of its length.",
+    "The line drawn through the mid-point of one side of a triangle, parallel to another side, bisects the third side."
+  ]
+}

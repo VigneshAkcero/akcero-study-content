@@ -1,0 +1,255 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Another Peek Beyond the Point",
+    "chapter_number": 4
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Express 27.53 in terms of place values.",
+      "answer": "27.53 = 2 Tens + 7 Ones + 5 Tenths + 3 Hundredths = 20 + 7 + 0.5 + 0.03",
+      "solution": "In the number 27.53, the digit 2 is in the tens place (value 20), 7 is in the ones place (value 7), 5 is in the tenths place (value 0.5 or 5/10), and 3 is in the hundredths place (value 0.03 or 3/100). Therefore, 27.53 = 20 + 7 + 0.5 + 0.03."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Convert 50 grams to kilograms as a decimal.",
+      "answer": "0.05 kg",
+      "solution": "1 kilogram = 1000 grams. To convert 50 grams to kilograms: 50 ÷ 1000 = 50/1000 = 0.05 kg."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Find the product: 9.5 × 5",
+      "answer": "47.5",
+      "solution": "Method 1: Convert to fractions: 9.5 × 5 = (95/10) × 5 = (95 × 5)/10 = 475/10 = 47.5. Method 2: Remove decimals: 95 × 5 = 475. Since 9.5 has 1 decimal place, place the decimal point 1 place from the right: 47.5."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Find the product: 12.5 × 7.5",
+      "answer": "93.75",
+      "solution": "Remove decimal points: 125 × 75 = 9375. Count decimal places: 12.5 has 1 decimal place, 7.5 has 1 decimal place, total = 2 decimal places. Place decimal point 2 places from the right in 9375: 93.75."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Find the product: 5.7 × 13.3",
+      "answer": "75.81",
+      "solution": "Remove decimal points: 57 × 133 = 7581. Count decimal places: 5.7 has 1, 13.3 has 1, total = 2. Place decimal point 2 places from the right: 75.81."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "How many decimal places will the product of 1.64 and 6 have?",
+      "answer": "2 decimal places",
+      "solution": "1.64 has 2 decimal places, 6 has 0 decimal places. Total decimal places = 2 + 0 = 2. The product will have 2 decimal places. Indeed, 1.64 × 6 = 9.84."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Divide: 3.9 ÷ 10",
+      "answer": "0.39",
+      "solution": "To divide by 10, move the decimal point 1 place to the left. 3.9 ÷ 10 = 0.39."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Divide: 3.9 ÷ 100",
+      "answer": "0.039",
+      "solution": "To divide by 100, move the decimal point 2 places to the left. 3.9 ÷ 100 = 0.039."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Complete the division: 18.7 ÷ 1000 = ?",
+      "answer": "0.0187",
+      "solution": "To divide by 1000, move the decimal point 3 places to the left. 18.7 ÷ 1000 = 0.0187."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Convert the fraction 29/4 to a decimal.",
+      "answer": "7.25",
+      "solution": "To convert 29/4 to decimal, find an equivalent fraction with denominator 10, 100, 1000, etc. Since 4 × 25 = 100, multiply numerator and denominator by 25: (29 × 25)/(4 × 25) = 725/100 = 7.25."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "If 596 × 248 = 147808, find 5.96 × 24.8.",
+      "answer": "147.808",
+      "solution": "We know 596 × 248 = 147808. Now, 5.96 has 2 decimal places and 24.8 has 1 decimal place, total = 3 decimal places. Place the decimal point 3 places from the right in 147808: 147.808."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Compare the products: Is 2.25 × 8 greater than both numbers? Is 0.25 × 0.8 greater than both numbers?",
+      "answer": "2.25 × 8 = 18 (greater than both); 0.25 × 0.8 = 0.2 (less than both)",
+      "solution": "For 2.25 × 8 = 18: Both 2.25 and 8 are greater than 1, so the product (18) is greater than both numbers. For 0.25 × 0.8 = 0.2: Both numbers are between 0 and 1, so the product (0.2) is less than both numbers. This shows the product of decimals depends on whether factors are greater than, equal to, or less than 1."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Perform long division to find: 1325 ÷ 4",
+      "answer": "331.25",
+      "solution": "Using long division: 13 ÷ 4 = 3 remainder 1 (hundreds place). 12 ÷ 4 = 3 (tens place). 4 ÷ 4 = 1 (ones place). Remainder 1 becomes 10 tenths; 10 ÷ 4 = 2 remainder 2 (tenths place). 2 tenths = 20 hundredths; 20 ÷ 4 = 5 (hundredths place). Result: 331.25."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Perform long division to find: 237 ÷ 8",
+      "answer": "29.625",
+      "solution": "Using long division: 23 ÷ 8 = 2 remainder 7 (tens and ones). 77 ÷ 8 = 9 remainder 5 (ones). 50 ÷ 8 = 6 remainder 2 (tenths). 20 ÷ 8 = 2 remainder 4 (hundredths). 40 ÷ 8 = 5 (thousandths). Result: 29.625."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Divide: 126 ÷ 2.5",
+      "answer": "50.4",
+      "solution": "Convert divisor to whole number: multiply both dividend and divisor by 10. 126 × 10 = 1260, 2.5 × 10 = 25. Now divide: 1260 ÷ 25 = 50.4."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Divide: 4.68 ÷ 1.3",
+      "answer": "3.6",
+      "solution": "The divisor 1.3 has 1 decimal place. Multiply both by 10: 4.68 × 10 = 46.8, 1.3 × 10 = 13. Now divide: 46.8 ÷ 13 = 3.6."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Divide: 4.68 ÷ 0.13",
+      "answer": "36",
+      "solution": "The divisor 0.13 has 2 decimal places. Multiply both by 100: 4.68 × 100 = 468, 0.13 × 100 = 13. Now divide: 468 ÷ 13 = 36."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Will the quotient of 128 ÷ 0.4 be greater than 128? Explain.",
+      "answer": "Yes, 128 ÷ 0.4 = 320, which is greater than 128.",
+      "solution": "When the divisor is between 0 and 1, the quotient is greater than the dividend. This is because dividing by a number less than 1 is like multiplying by a number greater than 1. Mathematically: 128 ÷ 0.4 = 128 × (10/4) = 128 × 2.5 = 320."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Easy",
+      "question": "Is 10 ÷ 3 a terminating or repeating decimal?",
+      "answer": "Repeating decimal: 3.333...",
+      "solution": "Using long division, at each step the remainder is 1. This remainder repeats infinitely, creating the repeating decimal 3.333... (written as 3.3̄). The denominator 3 has a prime factor other than 2 and 5, so it produces a repeating decimal."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Easy",
+      "question": "Is 1 ÷ 7 a terminating or repeating decimal?",
+      "answer": "Repeating decimal: 0.142857142857...",
+      "solution": "Using long division: 1 ÷ 7 = 0.142857142857.... The remainders cycle through 1, 3, 2, 6, 4, 5, then back to 1, creating a repeating block of 6 digits. The denominator 7 is prime (not a factor of any power of 10), so it produces a repeating decimal."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Easy",
+      "question": "Is 1/2 a terminating decimal? Express it as a decimal.",
+      "answer": "Yes, 1/2 = 0.5",
+      "solution": "The denominator 2 is a power of 10's only prime factor. Convert: 1/2 = (1 × 5)/(2 × 5) = 5/10 = 0.5. This is a terminating decimal."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Easy",
+      "question": "Is 1/4 a terminating decimal? Express it as a decimal.",
+      "answer": "Yes, 1/4 = 0.25",
+      "solution": "The denominator 4 = 2² has only 2 as a prime factor. Convert: 1/4 = (1 × 25)/(4 × 25) = 25/100 = 0.25. This is a terminating decimal."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "Determine which fraction gives a terminating decimal: 1/3 or 3/8?",
+      "answer": "3/8 gives a terminating decimal (0.375); 1/3 gives a repeating decimal (0.333...)",
+      "solution": "For a terminating decimal, the denominator must have only 2 and 5 as prime factors. For 3/8: 8 = 2³, so only 2 is a factor → terminating. Convert: 3/8 = (3 × 125)/(8 × 125) = 375/1000 = 0.375. For 1/3: 3 is prime and not a power of 10 → repeating decimal 0.333..."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Multiply the cyclic number 142857 by 2, 3, and 4. What pattern do you observe?",
+      "answer": "142857 × 2 = 285714; 142857 × 3 = 428571; 142857 × 4 = 571428. The digits rotate right.",
+      "solution": "When 142857 is multiplied by 2, 3, 4, 5, or 6, the result contains the same digits but in different cyclic order (rotated). For ×2: digits shift right by 1 (2-8-5-7-1-4). For ×3: shift right by 2 (4-2-8-5-7-1). For ×4: shift right by 3 (5-7-1-4-2-8). This magical property arises from the fact that 142857 is the repeating block of 1 ÷ 7."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "What is 142857 × 7? What does this tell you?",
+      "answer": "142857 × 7 = 999999",
+      "solution": "Multiplying the cyclic number 142857 by 7 gives 999999. This is because 142857 is the repeating block of 1 ÷ 7, and 7 × (1 ÷ 7) = 1. So 142857 × 7 = 999999, which represents all 9s. This property is unique and demonstrates why 142857 is called a cyclic number."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Is the quotient 128 ÷ 4 = 32 always less than the dividend? What if the divisor is less than 1?",
+      "answer": "When divisor > 1, quotient < dividend. When divisor < 1, quotient > dividend.",
+      "solution": "For 128 ÷ 4 = 32: Since 4 > 1, we have 32 < 128. But for 128 ÷ 0.4 = 320: Since 0.4 < 1, we have 320 > 128. When the divisor is between 0 and 1, division actually increases the dividend (similar to multiplication by a number > 1). The relationship: quotient > dividend if and only if divisor < 1."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "A car travels 234.45 km using 12.6 litres of petrol. Find the distance travelled per litre.",
+      "answer": "18.6 km per litre",
+      "solution": "Distance per litre = Total distance ÷ Litres of petrol = 234.45 ÷ 12.6. Convert divisor: multiply both by 10 to get 2344.5 ÷ 126. Using long division: 2344.5 ÷ 126 = 18.609..., which rounds to 18.6 km per litre."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "13.5 kg of flour is distributed equally among 15 students. How much flour does each student receive?",
+      "answer": "0.9 kg",
+      "solution": "Flour per student = 13.5 ÷ 15. Convert as fraction: 13.5/15 = 135/150. Simplify: 135 ÷ 15 = 9, 150 ÷ 15 = 10, so 9/10 = 0.9 kg. Alternatively, using long division: 13.5 ÷ 15 = 0.9."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "If 18 × 12 = 216, find the products: (a) 18 × 1.2, (b) 1.8 × 1.2, (c) 0.18 × 0.12",
+      "answer": "(a) 21.6, (b) 2.16, (c) 0.0216",
+      "solution": "(a) 18 × 1.2: 1.2 has 1 decimal place, so 216 becomes 21.6. (b) 1.8 × 1.2: Both have 1 decimal place, total = 2, so 216 becomes 2.16. (c) 0.18 × 0.12: Have 2 and 2 decimal places, total = 4, so 216 becomes 0.0216. Notice how the decimal point moves left as both factors decrease."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Medium",
+      "question": "A 4 m long wooden block is cut into 5 pieces of equal length. What is the length of each piece?",
+      "answer": "0.8 m",
+      "solution": "Length of each piece = 4 ÷ 5. Express as fraction: 4/5 = (4 × 2)/(5 × 2) = 8/10 = 0.8 m. Alternatively, 4 ÷ 5 = 0.8 using long division: 40 ÷ 5 = 8 tenths."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Medium",
+      "question": "The perimeter of a regular 12-sided polygon is 208.8 cm. What is the length of each side?",
+      "answer": "17.4 cm",
+      "solution": "For a regular polygon, all sides are equal. Length of each side = Perimeter ÷ Number of sides = 208.8 ÷ 12. Using long division: 208.8 ÷ 12 = 17.4 cm."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Medium",
+      "question": "3 litres of watermelon juice is shared equally among 8 friends. How much juice does each get in millilitres?",
+      "answer": "375 millilitres",
+      "solution": "Juice per friend = 3 ÷ 8 litres. As fraction: 3/8 = (3 × 125)/(8 × 125) = 375/1000 = 0.375 litres. Convert to millilitres: 0.375 L × 1000 = 375 mL."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "In the division 10 ÷ 3, why does the process never end? Explain using remainders.",
+      "answer": "At each step, the remainder is always 1, leading to a repeating pattern.",
+      "solution": "In long division of 10 ÷ 3: First step gives quotient 3, remainder 1 (from 10 - 9). Regroup remainder as 10 tenths; 10 ÷ 3 gives quotient 3, remainder 1 again. This same remainder 1 repeats at every step, meaning we can never fully divide 10 by 3. This creates the infinite repeating decimal 3.333...."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "Find the decimal equivalent: (a) 2.46 ÷ 1.5, (b) 2.46 ÷ 0.15, (c) 2.46 ÷ 0.015. What pattern exists?",
+      "answer": "(a) 1.64, (b) 16.4, (c) 164",
+      "solution": "(a) 2.46 ÷ 1.5: Multiply by 10 → 24.6 ÷ 15 = 1.64. (b) 2.46 ÷ 0.15: Multiply by 100 → 246 ÷ 15 = 16.4. (c) 2.46 ÷ 0.015: Multiply by 1000 → 2460 ÷ 15 = 164. Pattern: As the divisor gets smaller (0.15 to 0.015), the quotient gets 10 times larger (16.4 to 164). This shows the inverse relationship between divisor size and quotient magnitude."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "Why are 2 and 5 special for creating terminating decimals? (Hint: Think about 10 = 2 × 5)",
+      "answer": "Because 10 = 2 × 5, fractions whose denominators have only 2 and 5 as factors can be converted to denominators of 10, 100, 1000, etc., producing terminating decimals.",
+      "solution": "The decimal system is base 10, and 10 = 2 × 5. Any fraction with a denominator composed only of factors 2 and 5 can be multiplied by appropriate powers of 2 and 5 to make the denominator a power of 10. For example: 1/4 = 1/(2²) = (1 × 5²)/(2² × 5²) = 25/100 = 0.25. If the denominator has other prime factors (like 3 or 7), no multiplication by 2 and 5 can make it a power of 10, resulting in repeating decimals."
+    }
+  ]
+}

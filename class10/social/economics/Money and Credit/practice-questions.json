@@ -1,0 +1,150 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Social Science (Economics)",
+    "chapter_name": "Money and Credit",
+    "chapter_number": 3
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is barter?",
+      "answer": "Barter is a system of direct exchange of goods without using money. Both parties trade goods they possess for goods they need.",
+      "solution": "In barter, transactions occur through direct exchange: a farmer gives wheat to a potter in exchange for clay pots. No medium of exchange is used. The system is simple in small communities but becomes impractical in large economies with diverse goods because both parties must want each other's products simultaneously."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What is the 'double coincidence of wants'?",
+      "answer": "It is the problem in barter where what one person wants to sell is exactly what another person wants to buy at the same time. This coincidence is difficult to achieve and makes barter impractical.",
+      "solution": "Example: A shoe manufacturer wants wheat. He must find a farmer who (1) wants to sell wheat AND (2) wants to buy shoes. Finding both conditions simultaneously is difficult. The manufacturer might waste time searching or might not find the farmer at all. This simultaneity requirement—double coincidence—makes barter inefficient and limits trade."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "How does money solve the barter problem?",
+      "answer": "Money acts as a medium of exchange. The shoe manufacturer exchanges shoes for money, then uses money to buy wheat from anyone. No need for double coincidence.",
+      "solution": "Money eliminates the simultaneity problem. Step 1: Manufacturer exchanges shoes for money (anyone accepts money). Step 2: Manufacturer uses money to buy wheat (anyone accepts money as payment). The two transactions are separate and independent. No one needs to want shoes while selling wheat. Money's universal acceptance solves barter's inefficiency, enabling complex trade in large economies."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Why is money accepted universally?",
+      "answer": "Money is accepted because: (1) government authorizes it as legal tender, (2) everyone trusts others will accept it, (3) it can be stored and used later, (4) it represents value that others recognize.",
+      "solution": "Money's acceptance is based on confidence and law. Government declares rupees are legal tender—no one can refuse rupee payment in India. This legal backing creates universal acceptance. Additionally, the system works because everyone believes others will accept money, creating self-reinforcing confidence. People accept money not for its material value (a 100 rupee note is just paper) but for its purchasing power and general acceptability."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Name two forms of modern money.",
+      "answer": "Currency (paper notes and coins) and bank deposits (demand deposits that can be withdrawn on demand).",
+      "solution": "Modern money exists in two forms: (1) Currency—notes and coins issued by Reserve Bank of India. Not valuable for material (paper and metal have minimal value) but accepted as payment because government authorizes it. (2) Demand deposits—money stored in bank accounts. Withdrawable anytime without notice. Both forms function as money because they are widely accepted in transactions and can be easily converted to each other."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What is a cheque?",
+      "answer": "A cheque is a written instruction to a bank to pay a specific amount from the drawer's account to the payee. It enables cashless payment without physical cash movement.",
+      "solution": "Example: M. Salim writes a cheque to pay a leather supplier Rs 5,000. The supplier deposits this cheque in his bank. Salim's bank transfers Rs 5,000 from Salim's account to the supplier's account. The transaction occurs without cash changing hands—just account transfers. Cheques are important because they: (1) reduce theft risk from carrying cash, (2) create payment records, (3) enable large transactions efficiently."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Define credit.",
+      "answer": "Credit is an agreement where the lender supplies the borrower with money, goods, or services with a promise of future payment by the borrower.",
+      "solution": "Credit enables transactions where payment is deferred. A farmer receives seeds on credit from a trader, promising to pay after harvest. A homebuyer receives a loan from a bank, promising repayment over years. Credit is essential for economic activity because most people cannot pay for everything immediately. Without credit, economic growth would be severely limited."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What are the main terms of credit?",
+      "answer": "Interest rate (cost of borrowing), collateral (security for loan), repayment schedule (when loan must be repaid), and documentation requirements (legal agreements and proofs).",
+      "solution": "These terms vary based on lender and borrower. Example—housing loan: Interest rate 12% annually; collateral is the house paper; repayment schedule is monthly installments for 10 years; documentation includes employment proof and salary records. Different lenders and borrowers have different terms—banks offer better terms than moneylenders; wealthy borrowers get lower rates than poor borrowers."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "What is collateral in credit?",
+      "answer": "Collateral is an asset the borrower pledges as security for a loan. If the borrower fails to repay, the lender can seize and sell the collateral to recover losses.",
+      "solution": "Common collaterals: land, property, vehicles, livestock, bank deposits. Example: Farmer pledges his land as collateral for an agricultural loan. If he cannot repay, the bank can seize and sell the land. Collateral gives lenders confidence to lend because they have security. Borrowers without collateral (especially poor people) struggle to access formal credit."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Explain how banks function as intermediaries between depositors and borrowers.",
+      "answer": "Banks accept deposits from customers (who have surplus funds), pay them interest, and lend these deposits to borrowers at higher interest rates. Banks profit from the rate difference while mediating between those with and without funds.",
+      "solution": "Process: (1) Bank accepts deposit from customer, offers 4% interest; (2) Bank lends this money to borrower at 8% interest; (3) Bank profits from 4% difference. This system works because: (1) not all depositors withdraw simultaneously, (2) deposits and withdrawals roughly balance daily, (3) banks maintain cash reserves (5-10%) for daily needs. Banks enable economic activity by channeling savings into productive loans. Without banks, savers couldn't earn returns and borrowers couldn't access funds."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Why do banks keep only a fraction of deposits as cash reserves?",
+      "answer": "Banks keep only 5-10% deposits as cash reserves because not all depositors withdraw simultaneously. Daily deposits and withdrawals roughly balance, allowing banks to lend 90% of deposits to borrowers.",
+      "solution": "If banks kept all deposits as cash, they couldn't lend and couldn't make profit. But they don't need to keep all cash because customers withdraw at different times. On any given day, some customers deposit cash while others withdraw. These roughly balance. Banks keep just enough (5-10%) to meet daily withdrawal needs. The remaining 90% can be safely lent to borrowers. This system is efficient but vulnerable: if all depositors demanded cash simultaneously (bank run), the bank would fail. This is why banks are heavily regulated."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Compare interest rates charged by formal and informal credit sectors.",
+      "answer": "Formal sector (banks, cooperatives) charges 8-12% annually. Informal sector (moneylenders, traders) charges 10-30% monthly (120-360% annually)—2-5 times higher than formal sector.",
+      "solution": "The gap is enormous. A farmer borrowing Rs 10,000 from formal sector at 10% annually owes Rs 1,000 interest per year. Same loan from informal sector at 20% monthly owes Rs 2,000 monthly interest—Rs 24,000 annually. The borrower can never repay if productive returns don't match. This explains why formal credit expansion is crucial: poor borrowers stuck with informal credit pay so much interest they cannot invest productively. High interest rates trap borrowers in debt and perpetual poverty."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Why do poor households access credit mostly from informal sources despite higher interest rates?",
+      "answer": "Poor households lack collateral (land, property) and proper income documentation required by formal sector. Banks refuse them loans. Forced to borrow from moneylenders who don't demand collateral but charge high rates.",
+      "solution": "Formal sector requirements exclude poor: Banks demand collateral worth loan amount and documented income proof. Poor landless labourers own no property. Small farmers' land may be too small. They cannot provide income proof. Banks refuse credit. Informal lenders, knowing the poor, are willing to lend without documented collateral—sometimes using personal items, crops, or future labour as security. While rates are exploitative, poor have no alternative. This exclusion perpetuates inequality: poor pay 2-5 times more for credit than rich, reducing productive capacity and trapping them in poverty."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Distinguish between formal and informal credit sectors in terms of regulation, interest rates, and access.",
+      "answer": "Formal: regulated by RBI, 8-12% annual interest, requires collateral/documentation, accessible to those meeting criteria. Informal: unregulated, 10-30% monthly interest, accessible without documentation, high rates and exploitative terms.",
+      "solution": "Formal sector (banks, cooperatives): Government regulates through RBI. Interest rates capped at reasonable levels. Requirements: collateral, documented income, written agreements. Benefits: low interest, legal protection, records maintained. Access: limited to those meeting criteria. Informal sector (moneylenders, traders): No regulation. Rates uncontrolled—extremely high. Requirements: minimal—sometimes just personal connection. No written agreements. Benefits: easy access, flexible repayment. Costs: high interest, exploitation, no legal protection. The choice between formal and informal isn't preference but necessity—poor excluded from formal, forced into informal."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Explain how high informal interest rates create debt traps. Use Swapna's example from the chapter.",
+      "answer": "Swapna borrowed from moneylender at high rates. Crop failure due to pests made repayment impossible. Instead of forgiveness, she borrowed again for next year. New loan plus old interest became unrepayable. Eventually, she sold land to repay, becoming landless and trapped in poverty.",
+      "solution": "Debt trap mechanism: (1) Initial loan at high rate; (2) Production failure (crop disease, pest, drought); (3) Unable to repay—income less than loan plus interest; (4) Forced to borrow again for next year; (5) Accumulating debt—old interest plus new principal; (6) Earnings insufficient for accumulated debt; (7) Forced asset sales (land, jewelry) for emergency repayment; (8) Loss of productive asset worsens future capacity; (9) Perpetual poverty. Unlike formal sector where failure triggers rescheduling, informal lenders offer no relief. High rates ensure that even moderate production failures trigger debt spirals. This shows why formal credit access is crucial—lower rates provide buffer against shocks."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "What are Self-Help Groups (SHGs) and how do they solve the collateral problem?",
+      "answer": "SHGs are groups of 15-20 poor women who pool savings, provide loans to members at reasonable rates, and eventually access bank loans. Group credibility substitutes for individual collateral, enabling credit access for those lacking property.",
+      "solution": "SHG mechanism: (1) 15-20 women save regularly (Rs 25-100 monthly); (2) Accumulated fund enables small loans to members at interest lower than moneylenders; (3) After 1-2 years of consistent savings, group becomes eligible for bank loan; (4) Banks lend to group (not individuals), who then lend to members or invest collectively. Advantages: (1) Group monitoring ensures repayment discipline; (2) Group's savings track and meeting attendance prove reliability to banks; (3) Collective credibility replaces individual collateral; (4) Women's participation increases household welfare; (5) Loans for productive activities—seeds, livestock, equipment. SHGs have succeeded with 10+ million members in India, proving poor can be reliable borrowers if systems are designed appropriately."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Analyse the distribution of formal credit access. What does this inequality suggest about credit's role in development?",
+      "answer": "Rich households access 83% of credit from formal sources; poor access only 17%. This inequality means rich can borrow cheaply for productive investment; poor forced to informal sector at high rates, limiting investment. Inequality perpetuates itself.",
+      "solution": "Data reveals systemic exclusion: Rich can borrow at 8% annually for business expansion, education, property. Returns exceed interest costs, building wealth. Poor access same formal credit rarely; mostly borrow informally at 20% monthly. High rates consume income, preventing productive investment. Example: Rich borrower loans Rs 1 lakh at 8% for business earning 15% returns, gains 7% profit. Poor borrower same loan at 20% monthly (240% annually) with business earning 15%, loses 225%—impossible. Inequality means credit reinforces existing wealth gaps rather than enabling upward mobility. This suggests: development requires ensuring poor access to formal credit at reasonable rates; without this, credit deepens poverty rather than alleviating it."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "Evaluate the causes and consequences of formal credit sector's inability to serve poor populations. What policy changes are needed?",
+      "answer": "Causes: collateral requirements (poor lack assets), documentation demands (informal economy), perceived risk (no proof of repayment capacity). Consequences: poor excluded from cheap credit, forced into expensive informal sector, trapped in debt and poverty. Policy needs: relaxed collateral rules, group-based lending, simplified procedures, subsidized rates for poor.",
+      "solution": "Current formal sector barriers: (1) Collateral requirements exclude landless and marginal farmers; (2) Income documentation requirements reject informal sector workers; (3) Bureaucratic procedures intimidate poor; (4) Loan minimums exceed poor borrowers' needs; (5) Perceived risk discourages lending to poor. Consequences: 50% rural credit still informal; poor pay 2-5 times more; high debt traps. Policy solutions: (1) Group lending (SHGs) replacing individual collateral with collective guarantee; (2) Simplified procedures—single-page applications instead of extensive documentation; (3) Flexible collateral—crop liens, equipment instead of only land; (4) Subsidized rates for poor—government covering difference; (5) Direct lending to women groups and SHGs; (6) Mobile banking reducing distance barriers; (7) Financial literacy enabling poor to navigate formal system; (8) Regulatory incentives for banks lending to poor targets. These changes would expand formal credit, reduce informal dependence, lower borrowing costs for poor, enabling productive investment and poverty reduction. Grameen Bank's success proves poor are reliable—credit system design, not borrower reliability, is the issue."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "Using Shyamal, Arun, and Rama's examples, analyse how credit terms vary by borrower characteristics and how this affects economic opportunities.",
+      "answer": "Shyamal (marginal farmer): 5% monthly moneylender initially, 3% monthly trader (still high). Arun (large farmer): 8.5% annually bank loan. Rama (landless labourer): 5% monthly employer loan. Same region, vastly different rates. Large farmers access formal credit; small farmers trapped with informal. Landless have worst terms.",
+      "solution": "Rate differences create opportunity gaps: Arun at 8.5% annually can profitably invest—if crop returns 15%, he gains 6.5%. Shyamal at 3% monthly (36% annually) cannot profit unless returns exceed 36%—rare for agriculture. Rama at 5% monthly (60% annually) earning labourer wages cannot possibly repay. Credit terms determine: (1) Who can invest productively; (2) Who remains trapped in subsistence; (3) Who can accumulate assets; (4) Who must work for creditor indefinitely. Arun can save profits, buy equipment, expand—creating asset base for next generation. Shyamal barely survives interest obligations. Rama becomes permanent debtor to employer. These three represent India's credit hierarchy: large farmers (formal credit, low rates, productive investment, wealth accumulation); small farmers (informal credit, high rates, barely subsistence); landless (worst credit terms, perpetual debt). Development requires flattening this hierarchy—extending formal credit and reasonable rates to all. Without this, inequality perpetuates: children of large farmers inherit invested capital and family credit networks; children of poor inherit debt and dependence."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Critically examine whether credit expansion alone can achieve inclusive development. What complementary policies are essential?",
+      "answer": "Credit expansion is necessary but insufficient. Poor need: productive opportunity (jobs, markets), education and skills, infrastructure access, social security. Credit without these enables survival borrowing, not productive investment. Complementary policies: employment generation, education, infrastructure, healthcare, insurance.",
+      "solution": "Credit's limitations: Even with cheap formal credit, poor cannot invest profitably without: (1) Productive opportunity—markets for products, employment for labour; (2) Education and skills—technical knowledge for productive activities; (3) Infrastructure—roads to markets, electricity for industries, water for agriculture; (4) Social security—health insurance, disability coverage, enabling risk-taking; (5) Technology access—seeds, equipment, information. Example: Grameen Bank gave credit, but success depended on markets existing for borrowers' products (handicrafts, dairy). Without market, credit for production becomes consumption borrowing at high risk. Comprehensive development strategy: (1) Employment generation through industrial development, agriculture transformation, infrastructure creation; (2) Education expansion ensuring skills match job opportunities; (3) Infrastructure development—roads, electricity, water enabling production and trade; (4) Social protection—health, disability, crop insurance reducing poverty risk; (5) Technology and extension services improving productivity; (6) Market linkage ensuring producers can sell profitably; (7) Formal credit expansion with simplified access. These together enable poor to use credit for productive investment, creating sustainable poverty reduction. Credit alone without complementary policies leads to consumption borrowing and debt without escape. India's development requires integrated approach combining credit with employment, education, infrastructure, and social protection."
+    }
+  ]
+}

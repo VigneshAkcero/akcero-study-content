@@ -1,0 +1,31 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Acids, Bases and Salts",
+    "chapter_number": 2
+  },
+  "summary": [
+    {
+      "category": "Chemical Properties of Acids & Bases",
+      "points": [
+        "Acids natively generate hydrogen (H⁺) ions in aqueous solutions turning blue litmus red, whereas bases generate hydroxide (OH⁻) ions turning red litmus blue.",
+        "Acids chemically react with active metals to produce a salt and hydrogen gas, and with metal carbonates to yield a salt, water, and carbon dioxide."
+      ]
+    },
+    {
+      "category": "Ions, pH, and Neutralisation",
+      "points": [
+        "The universal pH scale accurately measures active hydrogen ion concentration from 0 to 14; exactly 7 indicates neutrality, below 7 is acidic, and above 7 is strictly basic.",
+        "During a neutralisation reaction, an acid and a base chemically cancel each other out completely to form a unique salt and liquid water."
+      ]
+    },
+    {
+      "category": "Salts and their Derived Chemicals",
+      "points": [
+        "Salts organically formed from a strong acid and a strong base are perfectly neutral (pH 7), while unequal acid-base strengths logically yield either acidic or basic salts.",
+        "Aqueous common salt (NaCl) serves safely as the foundational raw material for industrially manufacturing sodium hydroxide, baking soda, washing soda, and bleaching powder."
+      ]
+    }
+  ]
+}

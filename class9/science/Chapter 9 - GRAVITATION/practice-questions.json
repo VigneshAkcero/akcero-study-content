@@ -1,0 +1,234 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Gravitation",
+    "chapter_number": 9
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "State the universal law of gravitation.",
+      "answer": "Every object in the universe attracts every other object with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them. The force acts along the line joining the centres of the two objects.",
+      "solution": "The universal law of gravitation can be expressed mathematically as:\n  F = G × (M × m) / d²\nwhere F is the gravitational force, M and m are the masses of the two objects, d is the distance between their centres, and G = 6.673 × 10⁻¹¹ N m² kg⁻² is the universal gravitational constant. The law is universal — it applies to all bodies anywhere in the universe."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What is the SI unit of the universal gravitational constant G? Write its accepted value.",
+      "answer": "The SI unit of G is N m² kg⁻². Its accepted value is 6.673 × 10⁻¹¹ N m² kg⁻².",
+      "solution": "From the formula G = F × d² / (M × m), the SI unit is derived by substituting the individual units:\n  [G] = (N × m²) / (kg × kg) = N m² kg⁻²\nThe accepted value is G = 6.673 × 10⁻¹¹ N m² kg⁻². Since G is extremely small, gravitational forces between ordinary objects (with small masses) are negligibly small."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What is free fall? When does an object experience free fall?",
+      "answer": "Free fall is the motion of an object falling towards the earth under the influence of gravitational force alone, without any other forces such as air resistance.",
+      "solution": "When an object falls towards the earth and only the gravitational force acts on it (no air resistance, no applied force), the object is said to be in free fall. During free fall, the direction of motion remains the same (downward), but the speed increases — indicating acceleration. This acceleration is called acceleration due to gravity (g ≈ 9.8 m s⁻²). In practice, free fall conditions are approximately met in a vacuum."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Define acceleration due to gravity. What is its SI unit and approximate value near the earth's surface?",
+      "answer": "The acceleration produced in a freely falling object due to the earth's gravitational force is called acceleration due to gravity (g). Its SI unit is m s⁻². Near the earth's surface, g ≈ 9.8 m s⁻².",
+      "solution": "When an object falls freely under gravity, its speed changes — this change in speed per unit time is the acceleration due to gravity, denoted by g. It is derived from:\n  g = G × M / R²\nwhere M = mass of the earth = 6 × 10²⁴ kg and R = radius of the earth = 6.4 × 10⁶ m.\nSubstituting: g = (6.7 × 10⁻¹¹ × 6 × 10²⁴) / (6.4 × 10⁶)² ≈ 9.8 m s⁻².\nThe SI unit of g is m s⁻², the same as any acceleration."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Distinguish between mass and weight.",
+      "answer": "Mass is the measure of the inertia of an object (quantity of matter); it is a scalar, constant everywhere, and measured in kg. Weight is the gravitational force on an object (W = mg); it is a vector, varies with location, and measured in newtons (N).",
+      "solution": "Key differences between mass and weight:\n1. Mass measures the amount of matter (inertia); weight is the force due to gravity.\n2. Mass is a scalar quantity; weight is a vector (direction: vertically downward).\n3. Mass remains constant everywhere — on earth, moon, or in space; weight changes with location because g varies.\n4. SI unit of mass: kilogram (kg); SI unit of weight: newton (N).\n5. Mass is measured with a beam balance; weight is measured with a spring balance.\n6. Mass cannot be zero (unless the object does not exist); weight can be zero (in a gravity-free region, g = 0 → W = 0)."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Define thrust and pressure. Write the formula for pressure and its SI unit.",
+      "answer": "Thrust is the force acting perpendicular to a surface. Pressure is the thrust per unit area. Formula: P = F / A. SI unit: pascal (Pa) or N m⁻².",
+      "solution": "Thrust: The net force acting perpendicular (normal) to the surface of an object is called thrust. Its SI unit is newton (N).\nPressure: The effect of thrust depends on the area over which it acts. Pressure is defined as:\n  P = F / A\nwhere F is the thrust and A is the area of the surface. SI unit: N m⁻² = pascal (Pa).\nKey principle: The same thrust produces greater pressure over a smaller area and lesser pressure over a larger area. This is why sharp edges (knives, needles) penetrate easily — they concentrate force on a tiny area."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What is the buoyant force? In which direction does it act?",
+      "answer": "The buoyant force (or upthrust) is the upward force exerted by a fluid on an object immersed in it. It always acts vertically upward.",
+      "solution": "When an object is submerged in a fluid (liquid or gas), the fluid exerts forces on all surfaces of the object. The resultant of these forces has a net upward component, called the buoyant force or upthrust. It acts vertically upward, opposite to the weight of the object. The magnitude of the buoyant force increases as more of the object is submerged (more fluid is displaced), until the object is fully immersed — after which the buoyant force remains constant."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "State Archimedes' Principle.",
+      "answer": "When a body is immersed fully or partially in a fluid, it experiences an upward force (buoyant force) that is equal to the weight of the fluid displaced by it.",
+      "solution": "Archimedes' Principle establishes the relationship between the buoyant force and the displaced fluid:\n  Buoyant force = Weight of fluid displaced = Volume submerged × Density of fluid × g\nThis principle explains why:\n- Objects lighter than the fluid float (buoyant force ≥ weight).\n- Objects denser than the fluid sink (buoyant force < weight).\n- Once an object is fully immersed, the buoyant force remains constant regardless of depth, because no additional fluid is displaced."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "What is density? State the rule for whether an object floats or sinks in a liquid.",
+      "answer": "Density is the mass per unit volume of a substance (Density = Mass / Volume, SI unit: kg m⁻³). An object floats if its density is less than the fluid's density; it sinks if its density is greater.",
+      "solution": "Density determines the buoyant behaviour:\n- If density of object < density of fluid → Buoyant force > Weight → Object floats.\n- If density of object > density of fluid → Buoyant force < Weight → Object sinks.\n- If density of object = density of fluid → Buoyant force = Weight → Object is neutrally buoyant (remains suspended).\nExample: Cork has a density less than water, so it floats. Iron has a density greater than water, so it sinks. A ship floats because its average density (including hollow parts) is less than that of seawater."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "List any four phenomena explained by the universal law of gravitation.",
+      "answer": "1. The force that binds us to the earth. 2. The motion of the moon around the earth. 3. The motion of planets around the Sun. 4. The tides due to the moon and the Sun.",
+      "solution": "The universal law of gravitation is powerful because it unifies several apparently unrelated phenomena under one single law:\n1. Our weight — the earth's gravitational pull keeps us on its surface.\n2. The moon's orbit — the earth's gravity provides the centripetal force that keeps the moon in its circular orbit.\n3. Planetary motion — the Sun's gravity keeps all planets in their orbits.\n4. Tides — the gravitational pull of the moon (and to a lesser extent the Sun) on large bodies of water causes ocean tides."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "What is centripetal force? Give one example.",
+      "answer": "Centripetal force is the force directed towards the centre of a circular path that keeps an object moving in that path. Example: The gravitational pull of the earth provides the centripetal force that keeps the moon in its orbit.",
+      "solution": "When an object moves in a circular path, its direction changes constantly. This requires a force directed towards the centre of the circle — called centripetal (meaning 'centre-seeking') force. Without this force, the object would move off in a straight line tangent to the circle.\nExamples:\n- A stone tied to a thread and whirled in a circle: the tension in the thread provides centripetal force.\n- The moon orbiting the earth: the earth's gravitational attraction provides centripetal force.\n- Planets orbiting the Sun: the Sun's gravitational pull provides centripetal force."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "Write the formula for the weight of an object on the moon in terms of its weight on the earth.",
+      "answer": "Weight on the moon = (1/6) × Weight on the earth.",
+      "solution": "The weight of an object on any celestial body depends on the gravitational force of that body. Using the universal law of gravitation for the moon and earth:\n  Wm = G × Mm × m / Rm²\n  We = G × M × m / R²\nDividing and substituting the values:\n  Wm / We = (7.36 × 10²² × (6.37 × 10⁶)²) / (5.98 × 10²⁴ × (1.74 × 10⁶)²) ≈ 0.165 ≈ 1/6\nSo, Wm = We / 6. An object that weighs 60 N on earth weighs only 10 N on the moon."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "A stone is thrown vertically upwards with an initial velocity of 49 m/s. Calculate: (i) the maximum height reached, and (ii) the total time taken to return to the ground. (g = 9.8 m s⁻²)",
+      "answer": "(i) Maximum height = 122.5 m. (ii) Total time = 10 s.",
+      "solution": "At the maximum height, final velocity v = 0.\nGiven: u = 49 m s⁻¹, g = −9.8 m s⁻² (opposing upward motion).\n\n(i) Using v² = u² + 2gs:\n    0 = (49)² + 2 × (−9.8) × s\n    0 = 2401 − 19.6 × s\n    s = 2401 / 19.6 = 122.5 m\n\n(ii) Time to reach maximum height (using v = u + gt):\n    0 = 49 + (−9.8) × t\n    t = 49 / 9.8 = 5 s\n    Total time (up + down) = 2 × 5 = 10 s\n    (The time of ascent equals the time of descent under gravity.)"
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "A stone is released from the top of a tower 19.6 m high. Calculate its final velocity just before touching the ground. (g = 9.8 m s⁻²)",
+      "answer": "Final velocity = 19.6 m s⁻¹.",
+      "solution": "Given: s = 19.6 m (downward), u = 0 (released from rest), g = +9.8 m s⁻² (downward).\n\nUsing v² = u² + 2gs:\n  v² = 0 + 2 × 9.8 × 19.6\n  v² = 384.16\n  v = √384.16 = 19.6 m s⁻¹\n\nThe stone strikes the ground with a velocity of 19.6 m s⁻¹."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "The gravitational force between two objects is F when they are separated by a distance d. What will be the force if: (i) the distance is doubled, (ii) the distance is halved, (iii) the mass of one object is tripled?",
+      "answer": "(i) F/4  (ii) 4F  (iii) 3F",
+      "solution": "Using F = G × M × m / d²:\n\n(i) Distance doubled (d → 2d):\n    F' = G × M × m / (2d)² = G × M × m / (4d²) = F/4\n    Force becomes one-fourth.\n\n(ii) Distance halved (d → d/2):\n    F' = G × M × m / (d/2)² = G × M × m / (d²/4) = 4F\n    Force becomes four times.\n\n(iii) Mass of one object tripled (M → 3M):\n    F' = G × 3M × m / d² = 3F\n    Force becomes three times.\n\nConclusion: Gravitational force is very sensitive to distance (inverse-square relationship) and linearly proportional to mass."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Calculate the force of gravitation between the earth and the Sun. (Mass of earth = 6 × 10²⁴ kg, Mass of Sun = 2 × 10³⁰ kg, Average distance = 1.5 × 10¹¹ m, G = 6.7 × 10⁻¹¹ N m² kg⁻²)",
+      "answer": "F ≈ 3.57 × 10²² N",
+      "solution": "Given:\n  M (earth) = 6 × 10²⁴ kg\n  m (Sun) = 2 × 10³⁰ kg\n  d = 1.5 × 10¹¹ m\n  G = 6.7 × 10⁻¹¹ N m² kg⁻²\n\nUsing F = G × M × m / d²:\n  F = (6.7 × 10⁻¹¹ × 6 × 10²⁴ × 2 × 10³⁰) / (1.5 × 10¹¹)²\n  F = (6.7 × 6 × 2 × 10⁻¹¹⁺²⁴⁺³⁰) / (2.25 × 10²²)\n  F = (80.4 × 10⁴³) / (2.25 × 10²²)\n  F = 35.73 × 10²¹\n  F ≈ 3.57 × 10²² N\n\nThis enormous force is what keeps the earth in its orbit around the Sun."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "A wooden block of mass 5 kg is placed on a table. Its dimensions are 40 cm × 20 cm × 10 cm. On which face should the block be placed to exert: (i) maximum pressure, (ii) minimum pressure on the table? Calculate both pressures. (g = 9.8 m s⁻²)",
+      "answer": "(i) Maximum pressure = 2450 N m⁻² (on the 20 cm × 10 cm face). (ii) Minimum pressure = 612.5 N m⁻² (on the 40 cm × 20 cm face).",
+      "solution": "Weight (thrust) = m × g = 5 × 9.8 = 49 N\n\nThe three possible face areas are:\n  Face 1: 40 × 20 cm = 800 cm² = 0.08 m²\n  Face 2: 40 × 10 cm = 400 cm² = 0.04 m²\n  Face 3: 20 × 10 cm = 200 cm² = 0.02 m²\n\n(i) Maximum pressure → smallest area (Face 3: 0.02 m²):\n    P = 49 / 0.02 = 2450 N m⁻²\n\n(ii) Minimum pressure → largest area (Face 1: 0.08 m²):\n    P = 49 / 0.08 = 612.5 N m⁻²\n\nConclusion: For the same thrust, pressure is inversely proportional to area."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "The volume of 50 g of a substance is 20 cm³. If the density of water is 1 g cm⁻³, will the substance float or sink in water? Justify your answer.",
+      "answer": "The substance will sink because its density (2.5 g cm⁻³) is greater than the density of water (1 g cm⁻³).",
+      "solution": "Density of the substance = Mass / Volume = 50 g / 20 cm³ = 2.5 g cm⁻³\n\nDensity of water = 1 g cm⁻³\n\nSince density of substance (2.5 g cm⁻³) > density of water (1 g cm⁻³), the buoyant force on the substance is less than its weight.\n\nTherefore, the net downward force causes the substance to sink in water."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "The volume of a 500 g sealed packet is 350 cm³. Will the packet float or sink in water? If it floats, what is the mass of water displaced? (Density of water = 1 g cm⁻³)",
+      "answer": "The packet will sink as its density (≈ 1.43 g cm⁻³) is greater than that of water.",
+      "solution": "Density of packet = Mass / Volume = 500 g / 350 cm³ ≈ 1.43 g cm⁻³\n\nDensity of water = 1 g cm⁻³\n\nSince 1.43 g cm⁻³ > 1 g cm⁻³, the packet sinks.\n\nFor the packet to float, the displaced water would need to equal the package's weight — but since it sinks, the maximum water it can displace is when fully submerged:\n  Mass of water displaced = Volume of packet × Density of water = 350 cm³ × 1 g cm⁻³ = 350 g\nSince the packet's mass (500 g) exceeds the mass of water displaced (350 g), the net downward force causes it to sink."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Why does a person feel lighter when swimming in water compared to when standing on land?",
+      "answer": "Because water exerts an upward buoyant force on the person's body. This reduces the apparent weight, making the person feel lighter.",
+      "solution": "When a person is submerged (even partially) in water, the water exerts an upward buoyant force equal to the weight of water displaced by the body (Archimedes' Principle). The apparent weight experienced by the person is:\n  Apparent weight = Actual weight − Buoyant force = mg − (weight of water displaced)\nSince the buoyant force acts upward and partially cancels gravity, the person feels lighter. The denser the fluid (e.g., salt water has higher density than fresh water), the greater the buoyant force and the lighter the person feels."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "Why is the value of g greater at the poles than at the equator?",
+      "answer": "Because the earth's radius is smaller at the poles than at the equator. Since g = GM/R², a smaller R gives a larger g.",
+      "solution": "The formula for acceleration due to gravity is:\n  g = G × M / R²\nThe earth is not a perfect sphere — it is slightly flattened at the poles and bulges at the equator. Therefore:\n  Radius at poles (Rp) < Radius at equator (Re)\nSince g ∝ 1/R², a smaller radius at the poles means a larger value of g there:\n  g_poles > g_equator\nThis also means that an object weighs slightly more at the poles than at the equator, and a spring balance would show a slightly higher reading at the poles. A beam balance (which compares masses) would show the same reading everywhere."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "A ball thrown vertically upward returns to the thrower after 6 s. Find: (a) the velocity with which it was thrown up, (b) the maximum height it reaches, and (c) its position after 4 s. (g = 9.8 m s⁻²)",
+      "answer": "(a) u = 29.4 m s⁻¹  (b) Max height = 44.1 m  (c) At t = 4 s, height = 39.2 m above ground (on the way down).",
+      "solution": "Total flight time = 6 s → Time to reach max height = 3 s (up = down by symmetry)\n\n(a) At max height, v = 0:\n    v = u + gt → 0 = u − 9.8 × 3 → u = 29.4 m s⁻¹\n\n(b) Max height:\n    s = ut + ½gt² = 29.4 × 3 − ½ × 9.8 × 9 = 88.2 − 44.1 = 44.1 m\n\n(c) Position after 4 s (from the point of throwing):\n    s = ut + ½gt² = 29.4 × 4 − ½ × 9.8 × 16 = 117.6 − 78.4 = 39.2 m\n    The ball is at 39.2 m above the ground at t = 4 s (it has passed the highest point and is on its way down)."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "Amit buys a few grams of gold at the poles. When he meets his friend at the equator, his friend disagrees with the measured weight. Who is correct and why? What if they use a beam balance instead of a spring balance?",
+      "answer": "Both are correct in their own location. The gold weighs slightly more at the poles (g is higher) than at the equator (g is lower). A spring balance shows weight, which changes; a beam balance measures mass, which stays the same.",
+      "solution": "Weight = m × g. The value of g is greater at the poles than at the equator (because the earth's radius is smaller at the poles).\n\nScenario:\n- At the poles: W = m × g_poles (slightly higher)\n- At the equator: W = m × g_equator (slightly lower)\n\nA spring balance measures weight (force), so it will show a lower reading at the equator than at the poles for the same gold. Both readings reflect the true weight at that location — so neither is wrong, the weight genuinely differs.\n\nUsing a beam balance: A beam balance compares mass against known standard masses. Since both the gold and the standard masses experience the same local g, the reading is the same everywhere — both at poles and equator. Mass does not change with location."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "Why is it difficult to hold a school bag with a thin string strap rather than a wide belt strap?",
+      "answer": "Because a thin strap exerts greater pressure on the shoulder for the same weight (thrust), causing discomfort and pain. A wider belt distributes the same weight over a larger area, reducing pressure.",
+      "solution": "Pressure = Thrust / Area\nThe weight of the bag is the thrust acting on the shoulder. This thrust is the same regardless of the strap width.\n- Thin strap → small contact area → P = F / A_small → large pressure → causes pain.\n- Wide belt → large contact area → P = F / A_large → small pressure → comfortable.\nThis is the same principle behind why army tanks have wide continuous tracks (to reduce pressure on soft ground) and why camels have broad, padded feet (to walk on sand without sinking)."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Calculate the magnitude of the gravitational force between the earth and a 1 kg object on its surface. (Mass of earth = 6 × 10²⁴ kg, Radius of earth = 6.4 × 10⁶ m, G = 6.7 × 10⁻¹¹ N m² kg⁻²). Verify that this equals the weight of the 1 kg object.",
+      "answer": "F ≈ 9.8 N, which equals the weight W = m × g = 1 × 9.8 = 9.8 N.",
+      "solution": "Using F = G × M × m / R²:\n  F = (6.7 × 10⁻¹¹ × 6 × 10²⁴ × 1) / (6.4 × 10⁶)²\n  F = (6.7 × 6 × 10¹³) / (40.96 × 10¹²)\n  F = (40.2 × 10¹³) / (40.96 × 10¹²)\n  F = (40.2 / 40.96) × 10\n  F ≈ 0.981 × 10 ≈ 9.8 N\n\nWeight of the object: W = m × g = 1 × 9.8 = 9.8 N.\n\nVerification: The gravitational force calculated using Newton's law equals the weight calculated using W = mg — confirming that g is indeed derived from G × M / R²."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "A stone is dropped from the top of a 100 m tower. At the same instant, another stone is projected vertically upward from the ground with a velocity of 25 m/s. Calculate when and where the two stones will meet. (g = 10 m s⁻²)",
+      "answer": "The stones meet after 4 s, at a height of 20 m from the ground.",
+      "solution": "Let the two stones meet at time t seconds.\n\nStone 1 (dropped from the top, u = 0, moves downward):\n  Distance fallen, s₁ = ½ × 10 × t² = 5t²\n  Height from ground = 100 − 5t²\n\nStone 2 (projected upward, u = 25 m/s):\n  Height from ground, s₂ = 25t − ½ × 10 × t² = 25t − 5t²\n\nAt the meeting point: Heights are equal:\n  100 − 5t² = 25t − 5t²\n  100 = 25t\n  t = 4 s\n\nHeight from ground at t = 4 s:\n  s₂ = 25 × 4 − 5 × 16 = 100 − 80 = 20 m\n\nThe stones meet 4 seconds after they start, at a height of 20 m from the ground."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "A ball is thrown vertically upward with a velocity of 49 m/s. Calculate: (i) the maximum height to which it rises, (ii) the total time it takes to return to the surface. (g = 9.8 m s⁻²)",
+      "answer": "(i) Maximum height = 122.5 m. (ii) Total time = 10 s.",
+      "solution": "At the maximum height, v = 0. Taking upward as positive, g = −9.8 m s⁻².\n\n(i) Using v² = u² + 2gs:\n    0 = (49)² + 2 × (−9.8) × s\n    19.6 × s = 2401\n    s = 122.5 m\n\n(ii) Time to reach the maximum height (v = u + gt):\n    0 = 49 − 9.8 × t\n    t = 49 / 9.8 = 5 s\n    Total time (up and back down) = 2 × 5 = 10 s\n    (Since the motion is symmetric under constant gravity, time of ascent = time of descent.)"
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Why does the gravitational force between the earth and an apple cause the apple to fall visibly, while the earth shows no visible movement towards the apple — even though the forces are equal and opposite?",
+      "answer": "By Newton's third law, both forces are equal. But by Newton's second law, acceleration = Force / mass. The apple's tiny mass results in large acceleration (9.8 m s⁻²); the earth's enormous mass results in negligibly small acceleration, invisible to observation.",
+      "solution": "By Newton's third law of motion, the force the earth exerts on the apple is equal in magnitude but opposite in direction to the force the apple exerts on the earth. Let the mass of the apple = mₐ (say, 0.1 kg) and the mass of the earth = M = 6 × 10²⁴ kg.\n\nThe same gravitational force F acts on both:\n- Acceleration of the apple: aₐ = F / mₐ = 9.8 m s⁻² (large, easily observed)\n- Acceleration of the earth: a_earth = F / M = F / (6 × 10²⁴) ≈ 10⁻²⁴ m s⁻² (immeasurably small)\n\nBecause the earth's mass is approximately 6 × 10²⁵ times greater than the apple's mass, the earth's acceleration is proportionally 6 × 10²⁵ times smaller — utterly negligible. This is why we only observe the apple moving towards the earth, not the earth towards the apple."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "A spring balance shows a reading of 42 kg for a person standing on it. Is the person's actual mass more than, less than, or equal to 42 kg? Explain your reasoning.",
+      "answer": "The actual mass of the person is slightly more than 42 kg, because the spring balance measures apparent weight, which is reduced by the buoyant force of air.",
+      "solution": "A spring balance measures the net downward force on it. In air, every object experiences an upward buoyant force (due to air being a fluid) that partially offsets its weight:\n  Apparent weight = Actual weight − Buoyant force of air = mg − F_buoyancy\nSince the spring balance reads the apparent weight (reduced by air buoyancy), the reading (42 kg equivalent) corresponds to a force slightly less than the person's actual weight. Therefore, the actual mass of the person is slightly more than 42 kg.\n\nIn practice, the buoyant force of air on a human body is very small, so the difference is negligible. However, the principle is important for precise measurements — objects with very large volumes (like cotton) experience greater air buoyancy and show a more noticeable discrepancy between actual and apparent mass."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "You have a bag of cotton and an iron bar, each showing a mass of 100 kg on a weighing machine. In reality, which is heavier — the cotton or the iron? Justify with the concept of buoyancy.",
+      "answer": "The cotton bag is heavier in reality. It has a much larger volume than the iron bar, so it experiences a greater buoyant force from air. The weighing machine reads apparent weight; since the buoyant force on cotton is larger, its actual mass must be greater to show the same reading.",
+      "solution": "A weighing machine reads apparent weight = Actual weight − Buoyant force of air.\n\nBoth show 100 kg on the machine, so their apparent weights are equal:\n  Actual weight_cotton − F_buoyancy_cotton = Actual weight_iron − F_buoyancy_iron\n\nThe volume of 100 kg of cotton is enormously greater than that of 100 kg of iron (density of cotton ≈ 1.5 g/cm³, density of iron ≈ 7.87 g/cm³). Since buoyant force = Volume × Density of air × g, the cotton displaces much more air:\n  F_buoyancy_cotton >> F_buoyancy_iron\n\nRearranging:\n  Actual weight_cotton = Actual weight_iron + (F_buoyancy_cotton − F_buoyancy_iron)\n  Since F_buoyancy_cotton > F_buoyancy_iron:\n  Actual weight_cotton > Actual weight_iron\n\nTherefore, the cotton bag is actually heavier than the iron bar, even though both show the same reading on the weighing machine."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "A ship made of iron and steel floats in water, but the same iron and steel in the form of a flat sheet sinks. Explain this using the concept of density and buoyancy.",
+      "answer": "A ship is hollow, so its average density (iron + enclosed air) is less than the density of water, allowing it to float. A flat iron sheet has no enclosed air, so its average density is much greater than water, causing it to sink.",
+      "solution": "Condition for floating: Average density of object ≤ Density of fluid.\n\nFor a solid flat iron sheet:\n  Density of iron ≈ 7870 kg m⁻³ >> Density of water (1000 kg m⁻³)\n  No enclosed air → the sheet sinks.\n\nFor a ship:\n  A ship is a large hollow structure with a vast enclosed volume of air inside.\n  Average density = Total mass (iron + steel) / Total volume (metal + enclosed air)\n  Since the enclosed air has a very low density, the average density of the ship is much less than 1000 kg m⁻³ → the ship floats.\n  The ship displaces a volume of water whose weight equals the ship's total weight (Archimedes' Principle).\n\nIf a ship takes on too much water (e.g., after damage), the density of water replacing the enclosed air increases the average density above 1000 kg m⁻³ — and the ship sinks. Submarines control their depth by adjusting the amount of water in their ballast tanks to tune their average density."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "Using the universal law of gravitation, derive the expression for the acceleration due to gravity g at the surface of the earth. Show that g does not depend on the mass of the freely falling object.",
+      "answer": "g = GM/R² — independent of the mass m of the object.",
+      "solution": "Let an object of mass m be on or near the surface of the earth (mass M, radius R).\n\nStep 1 — Gravitational force (Newton's law):\n  F = G × M × m / R²  … (1)\n\nStep 2 — Newton's second law:\n  F = m × a  … (2)\n  For a freely falling body, a = g (acceleration due to gravity).\n  So: F = m × g  … (3)\n\nStep 3 — Equating (1) and (3):\n  m × g = G × M × m / R²\n  Dividing both sides by m:\n  g = G × M / R²\n\nSince G, M, and R are all constants (G is universal, M and R are properties of the earth), the value of g is independent of the mass m of the object. This means every object — regardless of its mass — falls with the same acceleration g near the earth's surface.\n\nSubstituting values:\n  g = (6.7 × 10⁻¹¹ × 6 × 10²⁴) / (6.4 × 10⁶)² ≈ 9.8 m s⁻²"
+    }
+  ]
+}

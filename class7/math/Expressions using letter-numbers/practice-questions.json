@@ -1,0 +1,255 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Expressions using letter-numbers",
+    "chapter_number": 4
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Write an algebraic expression for: 'A number multiplied by 5 and then 3 is added to it.'",
+      "answer": "5x + 3 (where x represents the number)",
+      "solution": "Step 1: Let the number be x. Step 2: Multiply by 5 gives 5x. Step 3: Add 3 to it gives 5x + 3."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Evaluate 3a + 4 when a = 2.",
+      "answer": "10",
+      "solution": "Replace a with 2: 3(2) + 4 = 6 + 4 = 10."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Is the expression 6y the same as 6 + y? Explain.",
+      "answer": "No. 6y means 6 × y (multiplication), while 6 + y means 6 more than y (addition). They are different operations.",
+      "solution": "Example: If y = 2, then 6y = 6 × 2 = 12, but 6 + y = 6 + 2 = 8. Since 12 ≠ 8, they are not the same."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Write an algebraic expression for the perimeter of a square with side length s.",
+      "answer": "4s",
+      "solution": "A square has 4 equal sides. Perimeter = s + s + s + s = 4s."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Which of the following are like terms? 5x, 3x, 5y, 8x",
+      "answer": "5x, 3x, and 8x are like terms (they all contain only x).",
+      "solution": "Like terms have the same variable(s). 5x, 3x, and 8x all contain x only. 5y has y, so it is different."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Simplify: 2a + 3a",
+      "answer": "5a",
+      "solution": "Both terms contain a. Combine: 2a + 3a = (2 + 3)a = 5a."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Write an expression: 'Three times a number minus 7.'",
+      "answer": "3x - 7 (or 3n - 7, where the letter represents the number)",
+      "solution": "Let the number be x. Three times it is 3x. Minus 7 gives 3x - 7."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Evaluate 10 - 2b when b = 3.",
+      "answer": "4",
+      "solution": "Replace b with 3: 10 - 2(3) = 10 - 6 = 4."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Can you simplify 5x + 3y further? Why or why not?",
+      "answer": "No, because x and y are different variables. These are unlike terms.",
+      "solution": "Unlike terms (different variables) cannot be combined. 5x + 3y is already in its simplest form."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Write the missing term: 4p + __ = 10p",
+      "answer": "6p",
+      "solution": "We need to find what adds to 4p to get 10p. 4p + 6p = (4 + 6)p = 10p. So the missing term is 6p."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "A shopkeeper sells notebooks for ₹x each. In one day, he sells 5 notebooks in the morning and 7 notebooks in the evening. Write an expression for total money earned from notebooks.",
+      "answer": "12x",
+      "solution": "Morning sales = 5x rupees. Evening sales = 7x rupees. Total = 5x + 7x = (5 + 7)x = 12x rupees."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Simplify: 8m - 3m + 2m",
+      "answer": "7m",
+      "solution": "All terms contain m (like terms). Combine: 8m - 3m + 2m = (8 - 3 + 2)m = 7m."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "A rectangle has length (2a + 3) and breadth a. Write an expression for its perimeter.",
+      "answer": "6a + 6",
+      "solution": "Perimeter = 2(length + breadth) = 2((2a + 3) + a) = 2(3a + 3) = 6a + 6."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Simplify: 3(x + 2) + 5",
+      "answer": "3x + 11",
+      "solution": "Expand using distributive property: 3(x + 2) + 5 = 3x + 6 + 5 = 3x + 11."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Add the expressions: (4p - 2q) and (3p + 5q)",
+      "answer": "7p + 3q",
+      "solution": "Remove brackets: 4p - 2q + 3p + 5q. Group like terms: (4p + 3p) + (-2q + 5q) = 7p + 3q."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Subtract (2x - 1) from (5x + 3).",
+      "answer": "3x + 4",
+      "solution": "(5x + 3) - (2x - 1) = 5x + 3 - 2x + 1 = (5x - 2x) + (3 + 1) = 3x + 4."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "In a pattern, the nth term is 2n + 1. Find the 5th term.",
+      "answer": "11",
+      "solution": "Substitute n = 5 into 2n + 1: 2(5) + 1 = 10 + 1 = 11."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Look at the sequence: 3, 5, 7, 9, 11, ... Write an algebraic expression for the nth term.",
+      "answer": "2n + 1",
+      "solution": "Observe: 1st term = 3 = 2(1) + 1, 2nd term = 5 = 2(2) + 1, 3rd term = 7 = 2(3) + 1. Pattern: nth term = 2n + 1."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Simplify: 5(a - 2) - 3a",
+      "answer": "2a - 10",
+      "solution": "Expand: 5(a - 2) - 3a = 5a - 10 - 3a. Combine like terms: (5a - 3a) - 10 = 2a - 10."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Is 2(x + 3) the same as 2x + 3? Verify with x = 1.",
+      "answer": "No. When x = 1: 2(x + 3) = 2(4) = 8, but 2x + 3 = 2 + 3 = 5. They are not the same.",
+      "solution": "Expand 2(x + 3) = 2x + 6 (using distributive property). Since 2x + 6 ≠ 2x + 3, they are different expressions."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "A factory produces 50 items daily. Write an expression for the number of items produced in d days.",
+      "answer": "50d",
+      "solution": "If 50 items are made per day, then in d days: 50 × d = 50d items."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "Simplify: (3a + 5b) + (2a - 3b)",
+      "answer": "5a + 2b",
+      "solution": "Remove brackets: 3a + 5b + 2a - 3b. Group: (3a + 2a) + (5b - 3b) = 5a + 2b."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "A 2×2 calendar grid has top-left number 'a'. Write expressions for all four numbers and verify that diagonal sums are equal.",
+      "answer": "Top-left: a, Top-right: a+1, Bottom-left: a+7, Bottom-right: a+8. Diagonal sums: a + (a+8) = 2a + 8 and (a+1) + (a+7) = 2a + 8. Equal!",
+      "solution": "In calendar: numbers increase by 1 going right and by 7 going down. First diagonal: a + (a + 8) = 2a + 8. Second diagonal: (a + 1) + (a + 7) = a + a + 1 + 7 = 2a + 8. Both equal, proving pattern holds for any value of a."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Simplify: 2(3x - 2y) + 4(x + y) - 5x",
+      "answer": "5x",
+      "solution": "Step 1: Expand 2(3x - 2y) = 6x - 4y. Step 2: Expand 4(x + y) = 4x + 4y. Step 3: Write all terms: 6x - 4y + 4x + 4y - 5x. Step 4: Combine like terms: (6x + 4x - 5x) + (-4y + 4y) = 5x + 0 = 5x."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "In the matchstick triangle pattern, Step 1 has 3 sticks, Step 2 has 5 sticks, Step 3 has 7 sticks. Prove the formula 2n + 1 works for any step n.",
+      "answer": "Formula: 2n + 1. For n=1: 2(1)+1=3✓. For n=2: 2(2)+1=5✓. For n=3: 2(3)+1=7✓. For any n, each step adds 2 sticks to previous, so the pattern is 3 + 2(n-1) = 3 + 2n - 2 = 2n + 1.",
+      "solution": "Observation: Pattern increases by 2 each time (3, 5, 7, 9, ...). Start value is 3 at step 1. For step n, we have initial 3 plus (n-1) additions of 2. Expression: 3 + 2(n - 1) = 3 + 2n - 2 = 2n + 1. This formula works for all positive integers n."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Write expressions for where designs A, B, and C appear in a repeating pattern (A, B, C, A, B, C, ...). The positions are 1, 2, 3, 4, 5, 6, ...",
+      "answer": "Design A: 3n - 2. Design B: 3n - 1. Design C: 3n.",
+      "solution": "Design A appears at positions 1, 4, 7, 10, ... (differ by 3). Pattern: 3n - 2. Design B at 2, 5, 8, 11, ... Pattern: 3n - 1. Design C at 3, 6, 9, 12, ... Pattern: 3n. Verify: For n=1, A is at 3(1)-2=1✓, B at 3(1)-1=2✓, C at 3(1)=3✓."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "A rope-folding pattern produces: 0 folds = 2 pieces, 1 fold = 3 pieces, 2 folds = 4 pieces. Write the formula for r folds and explain why it works.",
+      "answer": "Formula: r + 2. Reason: Each fold adds one cut location, which adds one extra piece.",
+      "solution": "No folds: 1 cut produces 2 pieces. One fold: 2 cut locations produce 3 pieces. Two folds: 3 cut locations produce 4 pieces. General pattern: r folds create r+1 cut locations, producing r+2 pieces. Formula: r + 2."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "A pen costs ₹a and a notebook costs ₹b. A student buys 3 pens and 2 notebooks, then sells them for ₹c per pen and ₹d per notebook. Write and simplify the profit/loss expression.",
+      "answer": "(3c + 2d) - (3a + 2b) = 3(c - a) + 2(d - b)",
+      "solution": "Cost = 3a + 2b. Revenue = 3c + 2d. Profit = Revenue - Cost = (3c + 2d) - (3a + 2b) = 3c + 2d - 3a - 2b. Simplify: 3c - 3a + 2d - 2b = 3(c - a) + 2(d - b)."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Two expressions are given: 10y - 3 and 10(y - 3). Are they equal? Show with y = 2.",
+      "answer": "No. When y = 2: 10y - 3 = 20 - 3 = 17, but 10(y - 3) = 10(-1) = -10. They are not equal.",
+      "solution": "Expression 1: 10y - 3 means 3 less than 10 times y. Expression 2: 10(y - 3) means 10 times (3 less than y). Expanding expression 2: 10(y - 3) = 10y - 30. Since 10y - 3 ≠ 10y - 30, the expressions are different."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Charu's quiz scores are: Round 1: 7p - 3q, Round 2: 8p - 4q, Round 3: 6p - 2q (where p = points for correct, q = penalty for wrong). Find her total score after three rounds.",
+      "answer": "21p - 9q",
+      "solution": "Total = (7p - 3q) + (8p - 4q) + (6p - 2q). Expand: 7p - 3q + 8p - 4q + 6p - 2q. Group like terms: (7p + 8p + 6p) + (-3q - 4q - 2q) = 21p - 9q."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "A train travels between two stations through 3 equal segments. Each segment takes t minutes. At each of the 3 intermediate stations, it stops for 2 minutes. Write an expression for total travel time.",
+      "answer": "4t + 6",
+      "solution": "Number of segments to travel = 4 (including from start to first station, and from last station to end). Travel time = 4t. Number of stops = 3. Stop time = 3 × 2 = 6 minutes. Total time = 4t + 6 minutes."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "Justify why (l + b + l + b) and (2l + 2b) represent the same rectangle perimeter.",
+      "answer": "Both equal 2l + 2b. Simplifying the first: l + b + l + b = 2l + 2b (combining like terms).",
+      "solution": "First expression adds all four sides: l + b + l + b. Grouping like terms: (l + l) + (b + b) = 2l + 2b. Second expression already shows: 2l + 2b. Both represent the same perimeter, just in different forms. Evaluating with specific values (e.g., l=5, b=3) gives the same result: 10 + 6 = 16."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "In a 3×2 grid calendar pattern with center number c, the six numbers sum to a multiple of c. Write this expression and prove it.",
+      "answer": "Sum = 6c. Proof: Center is c. Surrounding positions: c-8, c-7, c-1, c+1, c+7, c+8. Sum = (c-8) + (c-7) + (c-1) + c + (c+1) + (c+7) + (c+8) = 6c.",
+      "solution": "In calendar grid: numbers decrease/increase based on row and column position relative to center. Taking center as c: numbers are c-8, c-7, c-1, c, c+1, c+7, c+8 (8 numbers with center; for 3×2, we use 6 critical positions). Sum all terms: 6c + (-8-7-1+1+7+8) = 6c + 0 = 6c. The sum is always 6 times the center value."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "A furniture rental shop charges ₹40 per chair and ₹75 per table at start. Returns ₹6 per chair and ₹10 per table. For x chairs and y tables rented, write and simplify the net payment expression.",
+      "answer": "34x + 65y",
+      "solution": "Initial payment = 40x + 75y. Amount returned = 6x + 10y. Net payment = (40x + 75y) - (6x + 10y) = 40x + 75y - 6x - 10y. Combine like terms: (40x - 6x) + (75y - 10y) = 34x + 65y."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "Prove algebraically that in any calendar month following a 7-day week structure, a 2×2 square's diagonal sums are always equal, regardless of which dates are chosen.",
+      "answer": "Proof: Let top-left date = a. Then: top-right = a+1, bottom-left = a+7, bottom-right = a+8. Diagonal 1: a + (a+8) = 2a + 8. Diagonal 2: (a+1) + (a+7) = 2a + 8. Both diagonals equal 2a + 8 for any value of a, proving the pattern holds universally.",
+      "solution": "Using algebraic variables: Let the top-left date of the 2×2 grid be any number a. Calendar structure means: rightward increases by 1, downward increases by 7 (one week). So the grid looks like: [a, a+1; a+7, a+8]. Diagonal sum 1 = a + (a+8) = 2a + 8. Diagonal sum 2 = (a+1) + (a+7) = a + a + 1 + 7 = 2a + 8. Both equal 2a + 8 for ANY starting date a. This proves the pattern works universally without checking individual cases."
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Acids, Bases and Salts",
+    "chapter_number": 2
+  },
+  "notes": [
+    {
+      "section_title": "2.1 Understanding Chemical Properties",
+      "topics": [
+        {
+          "topic_name": "Indicators",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Acids are sour and change blue litmus to red. Bases are bitter and change red litmus to blue."
+            },
+            {
+              "type": "list",
+              "title": "Types of Indicators",
+              "items": [
+                "Natural: Litmus (purple dye from lichen), turmeric, red cabbage leaves.",
+                "Synthetic: Methyl orange, phenolphthalein.",
+                "Olfactory: Substances whose odour changes in acidic or basic media (e.g., onion, vanilla, clove oil)."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Reactions with Metals",
+          "content": [
+            {
+              "type": "example",
+              "title": "Acid + Metal",
+              "text": "Acid + Metal → Salt + Hydrogen gas. Example: Zinc granules react with dilute sulphuric acid to produce zinc sulphate and hydrogen gas bubbles."
+            },
+            {
+              "type": "example",
+              "title": "Base + Metal",
+              "text": "Some bases react with active metals too. Example: Sodium hydroxide reacts with zinc to form sodium zincate and hydrogen gas (2NaOH + Zn → Na₂ZnO₂ + H₂)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Reactions with Carbonates",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Metal carbonates and metal hydrogencarbonates react with acids to give salt, carbon dioxide, and water."
+            },
+            {
+              "type": "activity",
+              "id": "2.5",
+              "title": "Testing Carbon Dioxide",
+              "procedure": [
+                "Pass the evolved CO₂ gas through lime water (calcium hydroxide)."
+              ],
+              "observation": "Lime water turns milky due to the formation of white, insoluble calcium carbonate precipate.",
+              "conclusion": "Passing excess CO₂ dissolves the precipitate, forming soluble calcium hydrogencarbonate."
+            }
+          ]
+        },
+        {
+          "topic_name": "Neutralisation and Oxides",
+          "content": [
+            {
+              "type": "list",
+              "title": "Reactions",
+              "items": [
+                "Neutralisation: Acid + Base → Salt + Water. The effect of a base is completely nullified by an acid.",
+                "Metallic Oxides: They react with acids to give salt and water (e.g., CuO + HCl gives blue-green CuCl₂). They are termed basic oxides.",
+                "Non-metallic Oxides: They react with bases to give salt and water (e.g., CO₂ + Ca(OH)₂). They are termed acidic oxides."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.2 Properties Common to Acids and Bases",
+      "topics": [
+        {
+          "topic_name": "Ions in Aqueous Solutions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Acids conduct electricity in solutions because they produce positive hydrogen ions (H⁺) in water. These exist combined with water as hydronium ions (H₃O⁺)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Bases generate negative hydroxide ions (OH⁻) in water. Bases that dissolve in water are called alkalis. They feel soapy, taste bitter, and are corrosive."
+            },
+            {
+              "type": "note",
+              "title": "Dilution Process",
+              "text": "Dissolving an acid or base in water is highly exothermic. Always add concentrated acid smoothly into water with constant stirring to prevent splashing and severe burns."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.3 Strength of Acid or Base Solutions",
+      "topics": [
+        {
+          "topic_name": "The pH Scale",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A universal indicator visually shows different colours at different concentrations of hydrogen ions. The pH scale measures this concentration from 0 (very acidic) to 14 (very alkaline)."
+            },
+            {
+              "type": "list",
+              "title": "Scale Values",
+              "items": [
+                "pH = 7 indicates a neutral solution.",
+                "pH < 7 indicates an acidic solution. Lower values mean stronger acids (more H⁺ ions).",
+                "pH > 7 indicates a basic solution. Higher values mean stronger bases (more OH⁻ ions)."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Importance of pH in Everyday Life",
+          "content": [
+            {
+              "type": "list",
+              "title": "Practical Examples",
+              "items": [
+                "Human Body: Works within a specific, narrow pH range of 7.0 to 7.8.",
+                "Acid Rain: Rainwater with a pH below 5.6 is acid rain. It actively lowers river pH, harming aquatic life.",
+                "Digestive System: Our stomach produces hydrochloric acid for digestion. Excess acid causes pain, which is neutralized by mild bases called antacids (like Milk of Magnesia).",
+                "Tooth Decay: Starts when mouth pH falls below 5.5, corroding tooth enamel. Basic toothpastes neutralize these mouth acids.",
+                "Self Defense: Bee stings inject acid causing intense pain, relieved by applying baking soda. Nettle leaves naturally inject methanoic acid, countered traditionally by rubbing the nearby alkaline dock plant."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.4 More About Salts",
+      "topics": [
+        {
+          "topic_name": "Family and pH of Salts",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Salts sharing the same positive or negative radicals belong strictly to the same family (e.g., NaCl and Na₂SO₄ are sodium salts)."
+            },
+            {
+              "type": "list",
+              "title": "pH Rules for Salts",
+              "items": [
+                "Strong Acid + Strong Base = Neutral Salt (pH = 7).",
+                "Strong Acid + Weak Base = Acidic Salt (pH < 7).",
+                "Weak Acid + Strong Base = Basic Salt (pH > 7)."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Chemicals Derived from Common Salt (NaCl)",
+          "content": [
+            {
+              "type": "list",
+              "title": "Important Chemical Products",
+              "items": [
+                "Sodium Hydroxide (NaOH): Formed via the chlor-alkali process by passing electricity through aqueous sodium chloride (brine). Chlorine yields at the anode, hydrogen at the cathode.",
+                "Bleaching Powder (CaOCl₂): Produced by the direct chemical action of chlorine gas exclusively on dry slaked lime. Used industrially for textile bleaching and purifying drinking water.",
+                "Baking Soda (NaHCO₃): A mild, non-corrosive basic salt. Forms baking powder when mixed with mild tartaric acid; upon heating, it releases CO₂ making cakes soft and spongy.",
+                "Washing Soda (Na₂CO₃·10H₂O): Recrystallisation of sodium carbonate yields washing soda, a versatile basic salt used for removing permanent water hardness and in glass/soap industries."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Water of Crystallisation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Water of crystallisation is the fixed, definite number of water molecules locked structurally inside one formula unit of a salt."
+            },
+            {
+              "type": "example",
+              "title": "Examples",
+              "text": "Hydrated copper sulphate (CuSO₄·5H₂O) is visually blue but turns instantly white upon focal heating. Gypsum (CaSO₄·2H₂O) heated to 373 K loses some internal water explicitly becoming Plaster of Paris (CaSO₄·½H₂O), used medicinally by doctors for setting broken bones."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Olfactory Indicator",
+      "definition": "A specific substance whose distinct identifying odour changes chemically depending exclusively upon whether it is placed in an acidic or basic medium."
+    },
+    {
+      "term": "Neutralisation Reaction",
+      "definition": "A reaction precisely where an acid precisely cancels a base, reliably producing a unique salt and liquid water."
+    },
+    {
+      "term": "Alkali",
+      "definition": "A specific base compound that is reliably entirely soluble specifically within water."
+    },
+    {
+      "term": "pH Scale",
+      "definition": "A universal chemical measuring mechanism effectively determining the specific relative concentration of active hydrogen ions reliably present within liquids."
+    },
+    {
+      "term": "Chlor-alkali Process",
+      "definition": "The industrial electrolytic method reliably converting aqueous sodium chloride cleanly into fundamentally useful sodium hydroxide, chlorine gas, and hydrogen."
+    },
+    {
+      "term": "Water of Crystallisation",
+      "definition": "The exact fixed quantity of internal water molecules rigidly structurally bonded predictably inside a singular salt crystal unit."
+    }
+  ],
+  "summary_points": [
+    "Acid-base indicators function as chemical dyes confirming the distinct presence of acids or bases through visual colour shifts or distinct odour alterations.",
+    "Acids generally produce positively charged hydrogen ions in aqueous solutions, directly causing their universally sour characteristic acidic properties.",
+    "Bases natively generate negatively charged hydroxide ions smoothly in water, dictating their distinctly bitter and physically soapy chemical nature.",
+    "The pH scale maps hydrogen concentration from 0 to 14; exactly 7 defines neutrality, below 7 actively marks acidity, and reliably above 7 explicitly specifies alkalinity.",
+    "A neutralisation reaction chemically couples an acid safely tightly with a distinctly opposing base to reliably formulate a corresponding salt firmly merged with water.",
+    "Common salt (NaCl) serves perfectly essentially as the critical raw foundational material uniquely driving the industrial synthesis of baking soda, washing soda, and versatile bleaching powder."
+  ]
+}

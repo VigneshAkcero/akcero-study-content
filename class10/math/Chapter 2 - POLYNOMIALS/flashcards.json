@@ -1,0 +1,206 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Polynomials",
+    "chapter_number": 2
+  },
+  "flashcards": [
+    {
+      "q": "What is a polynomial?",
+      "a": "An algebraic expression of the form aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₁x + a₀, where a₀, a₁, ..., aₙ are constants and aₙ ≠ 0. All exponents are non-negative integers."
+    },
+    {
+      "q": "What is the degree of a polynomial?",
+      "a": "The highest power of the variable in the polynomial. For example, the degree of x³ - 2x + 1 is 3."
+    },
+    {
+      "q": "Define a linear polynomial.",
+      "a": "A polynomial of degree 1, of the form ax + b where a ≠ 0. Example: 2x - 3."
+    },
+    {
+      "q": "Define a quadratic polynomial.",
+      "a": "A polynomial of degree 2, of the form ax² + bx + c where a ≠ 0. Example: x² - 5x + 6."
+    },
+    {
+      "q": "Define a cubic polynomial.",
+      "a": "A polynomial of degree 3, of the form ax³ + bx² + cx + d where a ≠ 0. Example: x³ - 2x² + 3x - 1."
+    },
+    {
+      "q": "What is a zero of a polynomial?",
+      "a": "A real number k such that p(k) = 0. Also called a root of the polynomial or the equation p(x) = 0."
+    },
+    {
+      "q": "How do you find p(k) for a polynomial p(x)?",
+      "a": "Substitute k for x in the polynomial. For example, if p(x) = x² - 3x - 4, then p(2) = 4 - 6 - 4 = -6."
+    },
+    {
+      "q": "What is the geometric meaning of a zero?",
+      "a": "A zero is the x-coordinate of a point where the graph of y = p(x) intersects the x-axis."
+    },
+    {
+      "q": "What is the zero of the linear polynomial ax + b (a ≠ 0)?",
+      "a": "x = -b/a."
+    },
+    {
+      "q": "How many real zeroes can a linear polynomial have?",
+      "a": "Exactly one zero (or none in degenerate cases)."
+    },
+    {
+      "q": "How many real zeroes can a quadratic polynomial have at most?",
+      "a": "At most 2 real zeroes (can have 0, 1, or 2 depending on the discriminant)."
+    },
+    {
+      "q": "How many real zeroes can a cubic polynomial have at most?",
+      "a": "At most 3 real zeroes (can have 1, 2, or 3)."
+    },
+    {
+      "q": "State the relationship between zeroes and coefficients for a quadratic ax² + bx + c with zeroes α and β.",
+      "a": "Sum of zeroes: α + β = -b/a. Product of zeroes: αβ = c/a."
+    },
+    {
+      "q": "State the relationships between zeroes and coefficients for a cubic ax³ + bx² + cx + d with zeroes α, β, γ.",
+      "a": "Sum: α + β + γ = -b/a. Sum of products two at a time: αβ + βγ + γα = c/a. Product: αβγ = -d/a."
+    },
+    {
+      "q": "How do you find a quadratic polynomial if the sum and product of zeroes are given?",
+      "a": "If sum = S and product = P, the polynomial is x² - Sx + P, or more generally a(x² - Sx + P) for leading coefficient a."
+    },
+    {
+      "q": "What is the discriminant of a quadratic ax² + bx + c?",
+      "a": "Δ = b² - 4ac. It determines the nature of the zeroes."
+    },
+    {
+      "q": "If the discriminant Δ > 0, how many distinct real zeroes does the quadratic have?",
+      "a": "Two distinct real zeroes."
+    },
+    {
+      "q": "If the discriminant Δ = 0, how many real zeroes does the quadratic have?",
+      "a": "One repeated real zero (multiplicity 2)."
+    },
+    {
+      "q": "If the discriminant Δ < 0, how many real zeroes does the quadratic have?",
+      "a": "No real zeroes (the zeroes are complex/imaginary)."
+    },
+    {
+      "q": "What does it mean geometrically when a quadratic has Δ > 0?",
+      "a": "The parabola crosses the x-axis at two distinct points (two x-intercepts)."
+    },
+    {
+      "q": "What does it mean geometrically when a quadratic has Δ = 0?",
+      "a": "The parabola touches (is tangent to) the x-axis at exactly one point (vertex on x-axis)."
+    },
+    {
+      "q": "What does it mean geometrically when a quadratic has Δ < 0?",
+      "a": "The parabola does not touch the x-axis (no x-intercepts); it lies entirely above or below the x-axis."
+    },
+    {
+      "q": "State the Division Algorithm for polynomials.",
+      "a": "If p(x) and g(x) are polynomials with g(x) ≠ 0, then p(x) = g(x)·q(x) + r(x), where q(x) is the quotient and r(x) is the remainder with degree less than degree of g(x) or r(x) = 0."
+    },
+    {
+      "q": "State the Remainder Theorem.",
+      "a": "When polynomial p(x) is divided by (x - a), the remainder is p(a). When divided by (x + a), the remainder is p(-a)."
+    },
+    {
+      "q": "State the Factor Theorem.",
+      "a": "(x - a) is a factor of p(x) if and only if p(a) = 0. Equivalently, a is a zero of p(x) if and only if (x - a) is a factor."
+    },
+    {
+      "q": "If (x - a) is a factor of p(x), how can p(x) be written?",
+      "a": "p(x) = (x - a)·q(x) for some polynomial q(x)."
+    },
+    {
+      "q": "How is the Remainder Theorem related to the Factor Theorem?",
+      "a": "The Factor Theorem is a special case of the Remainder Theorem when the remainder equals zero."
+    },
+    {
+      "q": "How do you find the remainder when p(x) is divided by (x - 3)?",
+      "a": "By the Remainder Theorem, the remainder is p(3)."
+    },
+    {
+      "q": "How do you check if (x - 2) is a factor of p(x) = x³ - 3x² + 4x - 12?",
+      "a": "Calculate p(2). If p(2) = 0, then (x - 2) is a factor. If p(2) ≠ 0, it is not a factor."
+    },
+    {
+      "q": "What is a parabola?",
+      "a": "The U-shaped or inverted U-shaped curve that is the graph of a quadratic polynomial. Opens upward if a > 0, downward if a < 0."
+    },
+    {
+      "q": "For a parabola opening upward, what is the relationship between the vertex and the zeroes?",
+      "a": "The vertex is the lowest point. If the parabola has two zeroes, the vertex lies between them. The x-coordinate of the vertex is the midpoint of the two zeroes."
+    },
+    {
+      "q": "State the general principle about degree and zeroes.",
+      "a": "A polynomial of degree n has at most n real zeroes."
+    },
+    {
+      "q": "Can a polynomial have more zeroes than its degree?",
+      "a": "No, a polynomial of degree n has at most n real zeroes."
+    },
+    {
+      "q": "What does it mean if k is a repeated zero of multiplicity m?",
+      "a": "The factor (x - k) appears m times in the prime factorization of the polynomial. For example, if (x - 2)² is a factor, then 2 is a zero with multiplicity 2."
+    },
+    {
+      "q": "For a quadratic ax² + bx + c, what is the sum of zeroes in terms of coefficients?",
+      "a": "Sum = -b/a = -(Coefficient of x)/(Coefficient of x²)."
+    },
+    {
+      "q": "For a quadratic ax² + bx + c, what is the product of zeroes in terms of coefficients?",
+      "a": "Product = c/a = (Constant term)/(Coefficient of x²)."
+    },
+    {
+      "q": "If a quadratic has zeroes 3 and 5, what is the sum and product?",
+      "a": "Sum = 3 + 5 = 8, Product = 3 × 5 = 15."
+    },
+    {
+      "q": "Find a quadratic polynomial with zeroes 3 and 5.",
+      "a": "x² - 8x + 15 (or any scalar multiple like 2x² - 16x + 30)."
+    },
+    {
+      "q": "What is a repeated zero?",
+      "a": "A zero that occurs more than once (appears with multiplicity > 1). In a quadratic, a repeated zero occurs when Δ = 0."
+    },
+    {
+      "q": "What is a distinct zero?",
+      "a": "A zero that is different from all other zeroes. A quadratic with two distinct zeroes has Δ > 0."
+    },
+    {
+      "q": "If (x - p) and (x - q) are both factors of p(x) and p ≠ q, what else is a factor?",
+      "a": "(x - p)(x - q) is also a factor of p(x)."
+    },
+    {
+      "q": "For the quadratic formula x = [-b ± √(b² - 4ac)]/(2a), what determines the number of real solutions?",
+      "a": "The discriminant Δ = b² - 4ac. If Δ > 0, two real solutions; if Δ = 0, one real solution; if Δ < 0, no real solutions."
+    },
+    {
+      "q": "State the relationship: polynomial of degree n, at most ___ zeroes.",
+      "a": "n."
+    },
+    {
+      "q": "Can a cubic polynomial have exactly 2 zeroes?",
+      "a": "Yes, if one is a repeated zero. For example, (x - 1)²(x - 2) has zeroes 1 (with multiplicity 2) and 2."
+    },
+    {
+      "q": "If p(x) = (x - 2)²(x + 3), what are the zeroes?",
+      "a": "Zeroes are 2 (with multiplicity 2) and -3 (with multiplicity 1)."
+    },
+    {
+      "q": "What is the value of p(x) at one of its zeroes?",
+      "a": "Zero. By definition, if k is a zero, then p(k) = 0."
+    },
+    {
+      "q": "What is the x-intercept of the graph of y = p(x)?",
+      "a": "The x-intercepts are the zeroes of p(x). They are points (a, 0) where a is a zero of p(x)."
+    },
+    {
+      "q": "If a polynomial is divided by (x - a), when is the remainder 0?",
+      "a": "When p(a) = 0, i.e., when (x - a) is a factor."
+    },
+    {
+      "q": "For the Division Algorithm p(x) = g(x)·q(x) + r(x), what constraint is there on the degree of r(x)?",
+      "a": "Either r(x) = 0, or degree of r(x) < degree of g(x)."
+    }
+  ]
+}

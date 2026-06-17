@@ -1,0 +1,220 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "THE OTHER SIDE OF ZERO",
+    "chapter_number": 10
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What are negative numbers?",
+      "answer": "Numbers less than zero, written with a '–' sign.",
+      "solution": "They represent quantities like depth below sea level, temperatures below freezing, or debits in a bank account."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What is the additive inverse of -125?",
+      "answer": "125 (or +125)",
+      "solution": "The additive inverse of a number is the number that, when added to it, results in zero. $(-125) + (+125) = 0$."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Which integer is neither positive nor negative?",
+      "answer": "0 (Zero)",
+      "solution": "Zero acts as the origin on the number line and is the only integer without a sign."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Medium",
+      "question": "In the 'Building of Fun', if you start from Floor -2 and press +5 in the lift, which floor will you reach?",
+      "answer": "Floor +3",
+      "solution": "Use the expression: Starting Floor + Movement = Target Floor. $(-2) + (+5) = +3$."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Medium",
+      "question": "Arrange the following integers in increasing order: -5, 2, 0, -8, 1.",
+      "answer": "-8, -5, 0, 1, 2",
+      "solution": "On a number line, numbers further to the left are smaller. -8 is the leftmost, followed by -5, then 0, 1, and 2."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "If sea level is represented by 0 m, find the vertical distance between a mountain peak at +4000 m and a sea trench at -1000 m.",
+      "answer": "5000 m",
+      "solution": "Distance = Target - Starting = $4000 - (-1000)$. Since subtracting a negative is like adding: $4000 + 1000 = 5000$ m."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "A bank account has a balance of ₹500. A debit of ₹700 is applied. What is the new balance?",
+      "answer": "-₹200",
+      "solution": "Balance = $500 - 700 = -200$."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Hard",
+      "question": "Apply Brahmagupta's rule to calculate the sum of two negatives: (-15) + (-20).",
+      "answer": "-35",
+      "solution": "Rule: Add the numbers without signs ($15 + 20 = 35$) and place a minus sign. Result: -35."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Hard",
+      "question": "Evaluate $(+10) - (-15)$ by converting it into an addition problem.",
+      "answer": "25",
+      "solution": "Subtracting a number is the same as adding its inverse. Inverse of -15 is +15. So, $10 + 15 = 25$."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "What is the smallest possible sum when rolling two dice, each having faces labelled $\\{-1, 2, -3, 4, -5, 6\\}$?",
+      "answer": "-10",
+      "solution": "The smallest result is obtained by adding the smallest number on each die: $(-5) + (-5) = -10$."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "If the temperature falls from $5^\\circ C$ by $12^\\circ C$, what is the final temperature?",
+      "answer": "$-7^\\circ C$",
+      "solution": "$5 - 12 = -7$."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Hard",
+      "question": "Find the year that was 200 years before 50 BCE. (Hint: Assume BCE years are negative and there is no year 0).",
+      "answer": "250 BCE",
+      "solution": "50 BCE is -50. Moving 200 years back means $-50 - 200 = -250$. Since there is no year 0, we simply stay in the BCE era: 250 BCE."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Evaluate the difference: $(-8) - (-13)$.",
+      "answer": "5",
+      "solution": "$(-8) + (+13) = 5$."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "Using the token model, you have 3 positive tokens and 5 negative tokens. What integer value does this set represent?",
+      "answer": "-2",
+      "solution": "Each positive token cancels one negative token (zero pairs). After 3 pairs cancel, 2 negative tokens remain."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "To subtract (+10) from (-3) using tokens, how many 'zero pairs' must you add to have enough positive tokens to take away?",
+      "answer": "10 zero pairs",
+      "solution": "Initially, we have 3 negatives and 0 positives. To take away 10 positives, we must add 10 positive-negative pairs."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Is $(+105) - (-55)$ equal to $(+160)$ or $(+50)$?",
+      "answer": "+160",
+      "solution": "$105 + 55 = 160$."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Hard",
+      "question": "Find the missing movement: $( -200 ) - ( +40 ) = \\dots$?",
+      "answer": "-240",
+      "solution": "Target Level - Starting Level = Movement. $(-200) - (40) = -240$."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Which is greater: -25 or -7?",
+      "answer": "-7",
+      "solution": "-7 is higher up in a lift and further right on a number line than -25."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Evaluate: $(-1) + (+2) + (-3) + (+4)$.",
+      "answer": "2",
+      "solution": "$(-1+2) + (-3+4) = 1 + 1 = 2$."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Convert the subtraction expression $(+6) - (-9)$ into an addition expression.",
+      "answer": "$(+6) + (+9)$",
+      "solution": "Subtracting -9 is the same as adding its inverse, +9."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Easy",
+      "question": "True or False: The sum of two negative integers is always negative.",
+      "answer": "True",
+      "solution": "Brahmagupta's rule: $(-A) + (-B) = -(A+B)$."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "Find the missing number: $(-50) + \\dots = -200$.",
+      "answer": "-150",
+      "solution": "Movement = Target - Start = $(-200) - (-50) = -200 + 50 = -150$."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "A diver is swimming at -20 m (below sea level). He descends another 15 m. What is his new depth?",
+      "answer": "-35 m",
+      "solution": "$(-20) + (-15) = -35$."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "Write all integers between -4 and 4 in increasing order.",
+      "answer": "-3, -2, -1, 0, 1, 2, 3",
+      "solution": "These are the integers strictly greater than -4 and strictly less than 4."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Easy",
+      "question": "Identify the smallest 3-digit negative integer.",
+      "answer": "-999",
+      "solution": "In negative numbers, the larger the magnitude, the smaller the value. -999 is further left than -100."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Easy",
+      "question": "What is the largest negative integer?",
+      "answer": "-1",
+      "solution": "-1 is the negative integer closest to zero and furthest to the right."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Medium",
+      "question": "Complete the sequence: (-40), (-34), (-28), (-22), \\dots",
+      "answer": "-16, -10, -4",
+      "solution": "The numbers increase by 6 each time. $-22 + 6 = -16$, $-16 + 6 = -10$, $-10 + 6 = -4$."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "If $(-13) + X = -21$, find the value of X.",
+      "answer": "-8",
+      "solution": "$X = (-21) - (-13) = -21 + 13 = -8$."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Medium",
+      "question": "Does zero have an additive inverse? If yes, what is it?",
+      "answer": "Yes, 0.",
+      "solution": "$0 + 0 = 0$. The inverse of zero is zero itself."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Easy",
+      "question": "Which of these is closer to zero: -45 or +30?",
+      "answer": "+30",
+      "solution": "Distance from zero is the magnitude. 30 is less than 45, so +30 is closer."
+    }
+  ]
+}

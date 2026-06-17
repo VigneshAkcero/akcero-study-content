@@ -1,0 +1,25 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "PRIME TIME",
+    "chapter_number": 5
+  },
+  "flashcards": [
+    { "q": "What is a prime number?", "a": "A number that has exactly two factors: 1 and itself." },
+    { "q": "What is a composite number?", "a": "A number that has more than two factors." },
+    { "q": "Which number is neither prime nor composite?", "a": "1" },
+    { "q": "What is the only even prime number?", "a": "2" },
+    { "q": "Two numbers with no common factor other than 1 are called?", "a": "Co-prime numbers." },
+    { "q": "What is a perfect number?", "a": "A number where the sum of its factors is twice the number itself (e.g., 6, 28)." },
+    { "q": "Wait is the divisibility test for 4?", "a": "The number formed by the last two digits must be divisible by 4." },
+    { "q": "What is the divisibility test for 8?", "a": "The number formed by the last three digits must be divisible by 8." },
+    { "q": "What is the divisibility test for 5?", "a": "The last digit must be either 0 or 5." },
+    { "q": "What are twin primes?", "a": "Pairs of primes with a difference of 2 (e.g., 3 and 5)." },
+    { "q": "What is the Sieve of Eratosthenes used for?", "a": "A systematic method to find all prime numbers in a range." },
+    { "q": "If two numbers are co-prime, what is their LCM?", "a": "The product of the two numbers." },
+    { "q": "What is the prime factorisation of 36?", "a": "$2 \\times 2 \\times 3 \\times 3$" },
+    { "q": "How many factors does 1 have?", "a": "Exactly one (itself)." },
+    { "q": "Is the number 2100 a leap year?", "a": "No, because it is divisible by 100 but not by 400." }
+  ]
+}

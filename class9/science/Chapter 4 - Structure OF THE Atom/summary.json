@@ -1,0 +1,31 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Structure of the Atom",
+    "chapter_number": 4
+  },
+  "summary": [
+    {
+      "category": "Atomic Structure and Sub-Atomic Particles",
+      "points": [
+        "Atoms consist of three sub-atomic particles: electrons (negatively charged, mass ≈ 1/2000 u), protons (positively charged, mass = 1 u), and neutrons (neutral, mass ≈ 1 u). The nucleus contains protons and neutrons; electrons orbit in shells around the nucleus.",
+        "The atomic number (Z) equals the number of protons and uniquely identifies an element. The mass number (A) equals the sum of protons and neutrons (A = Z + N). In a neutral atom, the number of electrons equals the atomic number, making the atom electrically neutral."
+      ]
+    },
+    {
+      "category": "Evolution of Atomic Models",
+      "points": [
+        "Thomson's model proposed electrons embedded in a positive sphere (plum pudding model), explaining neutrality but failing to account for experimental observations. Rutherford's alpha-particle scattering experiment revealed that atoms have a small, dense nucleus surrounded by empty space, with electrons orbiting the nucleus—explaining most atomic space is empty but creating the stability problem.",
+        "Bohr's model solved the stability problem by proposing electrons occupy discrete energy levels (shells K, L, M, N, ... or n = 1, 2, 3, ...) and do not radiate energy while in these allowed orbits. The Bohr-Bury scheme determines electron distribution: maximum electrons per shell = 2n², outermost shell maximum = 8, and inner shells fill before outer shells."
+      ]
+    },
+    {
+      "category": "Valency, Isotopes, and Isobars",
+      "points": [
+        "Valency is the combining capacity of an atom, determined by valence electrons in the outermost shell. Atoms gain, lose, or share electrons to achieve a stable octet (8 electrons) in the outermost shell: for atoms with ≤4 outermost electrons, valency = number of outermost electrons; for >4, valency = 8 - number of outermost electrons.",
+        "Isotopes are atoms of the same element (same atomic number) with different mass numbers due to different neutron counts—they have identical chemical properties but different physical properties (examples: protium ¹₁H, deuterium ²₁H, tritium ³₁H; carbon-12 and carbon-14). Isobars are atoms of different elements (different atomic numbers) with the same mass number—they have completely different properties (example: Argon-40 and Calcium-40). Average atomic mass of isotopic elements is calculated as a weighted average based on relative abundance."
+      ]
+    }
+  ]
+}

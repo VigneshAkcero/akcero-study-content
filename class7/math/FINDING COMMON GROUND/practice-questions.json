@@ -1,0 +1,255 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Math",
+    "chapter_name": "Finding Common Ground",
+    "chapter_number": 3
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Define Highest Common Factor (HCF).",
+      "answer": "The Highest Common Factor (HCF) is the greatest number that divides two or more numbers without leaving a remainder.",
+      "solution": "The Highest Common Factor (HCF), also called the Greatest Common Divisor (GCD), is the largest of all common factors of two or more numbers. For example, the common factors of 12 and 16 are 1, 2, and 4, so the HCF of 12 and 16 is 4 because it is the greatest among them."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Define Lowest Common Multiple (LCM).",
+      "answer": "The Lowest Common Multiple (LCM) is the smallest positive number that is divisible by two or more given numbers.",
+      "solution": "The Lowest Common Multiple (LCM), also called the Least Common Multiple, is the smallest of all common multiples of two or more numbers. For example, the common multiples of 4 and 6 are 12, 24, 36, etc., so the LCM of 4 and 6 is 12 because it is the smallest among them."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What is a prime number? Give two examples.",
+      "answer": "A prime number is a natural number greater than 1 that has only two factors: 1 and the number itself. Examples: 2, 3, 5, 7.",
+      "solution": "A prime number must satisfy two conditions: (1) It is greater than 1, and (2) It has exactly two factors: 1 and itself. Examples include 2 (factors: 1, 2), 3 (factors: 1, 3), 5 (factors: 1, 5), and 7 (factors: 1, 7). These numbers cannot be divided evenly by any other number."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Find all the factors of 12.",
+      "answer": "1, 2, 3, 4, 6, 12.",
+      "solution": "A factor of 12 is a number that divides 12 exactly without leaving a remainder. Testing each number: 12 ÷ 1 = 12, 12 ÷ 2 = 6, 12 ÷ 3 = 4, 12 ÷ 4 = 3, 12 ÷ 6 = 2, 12 ÷ 12 = 1. Therefore, the factors of 12 are: 1, 2, 3, 4, 6, and 12."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Find all the factors of 20.",
+      "answer": "1, 2, 4, 5, 10, 20.",
+      "solution": "Testing divisibility: 20 ÷ 1 = 20, 20 ÷ 2 = 10, 20 ÷ 4 = 5, 20 ÷ 5 = 4, 20 ÷ 10 = 2, 20 ÷ 20 = 1. All of these give whole numbers, so the factors of 20 are: 1, 2, 4, 5, 10, and 20."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Find the common factors of 12 and 20.",
+      "answer": "1, 2, 4.",
+      "solution": "First, list all factors of 12: 1, 2, 3, 4, 6, 12. Then, list all factors of 20: 1, 2, 4, 5, 10, 20. The numbers appearing in both lists are the common factors: 1, 2, and 4."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Find the HCF of 12 and 20.",
+      "answer": "HCF(12, 20) = 4.",
+      "solution": "The common factors of 12 and 20 are 1, 2, and 4. The Highest Common Factor is the greatest among these, which is 4."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Write the prime factorisation of 24.",
+      "answer": "24 = 2³ × 3.",
+      "solution": "Using the prime factorisation method: 24 ÷ 2 = 12, 12 ÷ 2 = 6, 6 ÷ 2 = 3, 3 ÷ 3 = 1. Therefore, 24 = 2 × 2 × 2 × 3 = 2³ × 3."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Write the prime factorisation of 36.",
+      "answer": "36 = 2² × 3².",
+      "solution": "Using the prime factorisation method: 36 ÷ 2 = 18, 18 ÷ 2 = 9, 9 ÷ 3 = 3, 3 ÷ 3 = 1. Therefore, 36 = 2 × 2 × 3 × 3 = 2² × 3²."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "List the first five multiples of 6.",
+      "answer": "6, 12, 18, 24, 30.",
+      "solution": "Multiples of 6 are obtained by multiplying 6 by natural numbers: 6 × 1 = 6, 6 × 2 = 12, 6 × 3 = 18, 6 × 4 = 24, 6 × 5 = 30. So the first five multiples are 6, 12, 18, 24, and 30."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "Find the common multiples of 4 and 6 that are less than 30.",
+      "answer": "12, 24.",
+      "solution": "Multiples of 4: 4, 8, 12, 16, 20, 24, 28, ... Multiples of 6: 6, 12, 18, 24, 30, ... Common multiples are those appearing in both lists: 12 and 24 (both are less than 30)."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "What is the LCM of 4 and 6?",
+      "answer": "LCM(4, 6) = 12.",
+      "solution": "The common multiples of 4 and 6 are 12, 24, 36, etc. The smallest of these is 12, so LCM(4, 6) = 12."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Easy",
+      "question": "Are 9 and 16 co-prime numbers? Justify your answer.",
+      "answer": "Yes, because HCF(9, 16) = 1.",
+      "solution": "Two numbers are co-prime if their HCF is 1. Factors of 9: 1, 3, 9. Factors of 16: 1, 2, 4, 8, 16. The only common factor is 1, so HCF(9, 16) = 1. Therefore, 9 and 16 are co-prime numbers."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Find the HCF of 45 and 60 using prime factorisation.",
+      "answer": "HCF(45, 60) = 15.",
+      "solution": "Prime factorisation of 45: 45 = 3² × 5. Prime factorisation of 60: 60 = 2² × 3 × 5. Common prime factors: 3 and 5. Lowest power of 3: 3¹. Lowest power of 5: 5¹. HCF = 3 × 5 = 15."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Find the HCF of 48 and 72 using prime factorisation.",
+      "answer": "HCF(48, 72) = 24.",
+      "solution": "Prime factorisation of 48: 48 = 2⁴ × 3. Prime factorisation of 72: 72 = 2³ × 3². Common prime factors: 2 and 3. Lowest power of 2: 2³. Lowest power of 3: 3¹. HCF = 2³ × 3 = 8 × 3 = 24."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Find the LCM of 12 and 18 using prime factorisation.",
+      "answer": "LCM(12, 18) = 36.",
+      "solution": "Prime factorisation of 12: 12 = 2² × 3. Prime factorisation of 18: 18 = 2 × 3². All prime factors: 2 and 3. Highest power of 2: 2². Highest power of 3: 3². LCM = 2² × 3² = 4 × 9 = 36."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Find the LCM of 20 and 30 using prime factorisation.",
+      "answer": "LCM(20, 30) = 60.",
+      "solution": "Prime factorisation of 20: 20 = 2² × 5. Prime factorisation of 30: 30 = 2 × 3 × 5. All prime factors: 2, 3, and 5. Highest power of 2: 2². Highest power of 3: 3¹. Highest power of 5: 5¹. LCM = 2² × 3 × 5 = 4 × 3 × 5 = 60."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "The HCF of two numbers is 6 and their product is 216. Find their LCM.",
+      "answer": "LCM = 36.",
+      "solution": "Using the property: HCF × LCM = Product of two numbers. Given: HCF = 6, Product = 216. Therefore, 6 × LCM = 216. LCM = 216 ÷ 6 = 36."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "The LCM of two numbers is 48 and their product is 384. Find their HCF.",
+      "answer": "HCF = 8.",
+      "solution": "Using the property: HCF × LCM = Product of two numbers. Given: LCM = 48, Product = 384. Therefore, HCF × 48 = 384. HCF = 384 ÷ 48 = 8."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Verify the property HCF × LCM = Product for numbers 12 and 18.",
+      "answer": "HCF(12, 18) = 6, LCM(12, 18) = 36. HCF × LCM = 6 × 36 = 216. Product = 12 × 18 = 216. Property verified.",
+      "solution": "Prime factorisation of 12: 12 = 2² × 3. Prime factorisation of 18: 18 = 2 × 3². HCF = 2 × 3 = 6. LCM = 2² × 3² = 36. Now, HCF × LCM = 6 × 36 = 216. And Product = 12 × 18 = 216. Since both are equal, the property HCF × LCM = Product is verified."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "Two consecutive numbers are 25 and 26. What is their HCF? Explain why.",
+      "answer": "HCF(25, 26) = 1. Any two consecutive numbers have HCF = 1 because they share no common factors except 1.",
+      "solution": "Factors of 25: 1, 5, 25. Factors of 26: 1, 2, 13, 26. The only common factor is 1, so HCF(25, 26) = 1. In general, any two consecutive numbers have HCF = 1 because if a number divides both n and n+1, it must divide their difference (n+1) - n = 1. The only divisor of 1 is 1 itself."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "If 15 is a factor of a number, what can you say about the HCF of that number and 15?",
+      "answer": "The HCF of that number and 15 is 15 (or a multiple of 15).",
+      "solution": "If 15 is a factor of a number, say the number is 15k. Then both the number (15k) and 15 are divisible by 15. This means 15 is a common factor of both. Since 15 is the largest factor of 15 itself, the HCF of 15k and 15 is 15 (when k = 1) or a multiple of 15 (when k > 1). More precisely, HCF(15k, 15) = 15."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "Application: A teacher wants to divide 36 students and 24 notebooks equally into groups without any remainder. What is the maximum number of groups that can be formed?",
+      "answer": "Maximum 12 groups.",
+      "solution": "For equal division without remainder, the number of groups must be a common factor of both 36 and 24. To maximize the number of groups, we need the HCF of 36 and 24. Prime factorisation: 36 = 2² × 3², 24 = 2³ × 3. HCF = 2² × 3 = 12. Therefore, the maximum number of groups is 12. Each group would have 36÷12 = 3 students and 24÷12 = 2 notebooks."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "Application: A store gives discount on every 6th purchase and a gift on every 9th purchase. If you shop daily, on which day will you get both discount and gift together?",
+      "answer": "On day 18.",
+      "solution": "You get a discount on days 6, 12, 18, 24, ... (multiples of 6). You get a gift on days 9, 18, 27, ... (multiples of 9). To find when you get both together, we need the LCM of 6 and 9. Prime factorisation: 6 = 2 × 3, 9 = 3². LCM = 2 × 3² = 18. Therefore, you will get both discount and gift together on day 18 (and later on day 36, 54, etc.)."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Medium",
+      "question": "Reasoning: Why is the LCM of two co-prime numbers equal to their product?",
+      "answer": "Because co-prime numbers share no common prime factors, the LCM includes all prime factors from both numbers, which equals their product.",
+      "solution": "Co-prime numbers are numbers whose HCF is 1, meaning they share no common prime factors. For the LCM, we multiply the highest powers of all prime factors from both numbers. Since there are no common factors, all prime factors from both numbers appear in the LCM. Therefore, LCM = product of all prime factors from both numbers = product of the two numbers. For example, 9 = 3² and 16 = 2⁴. Since they have no common factors, LCM(9, 16) = 3² × 2⁴ = 9 × 16 = 144."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Medium",
+      "question": "If one number is a multiple of another, what can you say about their HCF and LCM?",
+      "answer": "HCF equals the smaller number, and LCM equals the larger number.",
+      "solution": "If one number is a multiple of another, say a = kb (where k is a natural number), then b divides a exactly. This means the largest factor that divides both is b itself. Therefore, HCF(a, b) = b (the smaller number). For LCM, since a is divisible by b, the smallest multiple of both is a itself. Therefore, LCM(a, b) = a (the larger number). For example, 24 = 6 × 4, so 24 is a multiple of 6. HCF(24, 6) = 6 and LCM(24, 6) = 24."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Application: A gardener has 120 rose plants and 96 jasmine plants. She wants to arrange them in rows such that each row has only one type of plant, all rows have equal number of plants, and the number of rows is maximized. How many plants will be in each row?",
+      "answer": "24 plants in each row.",
+      "solution": "To maximize the number of rows with equal number of plants per row, we need the HCF of 120 and 96. Prime factorisation: 120 = 2³ × 3 × 5, 96 = 2⁵ × 3. HCF = 2³ × 3 = 24. This means each row will have 24 plants. Number of rows for roses: 120 ÷ 24 = 5 rows. Number of rows for jasmine: 96 ÷ 24 = 4 rows. Total: 9 rows of 24 plants each."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Application: Two bells ring at intervals of 15 minutes and 20 minutes respectively. They both ring at 9:00 AM. At what time will they ring together again?",
+      "answer": "At 10:00 AM.",
+      "solution": "The first bell rings at 9:00, 9:15, 9:30, 9:45, 10:00, ... (every 15 minutes). The second bell rings at 9:00, 9:20, 9:40, 10:00, ... (every 20 minutes). To find when they ring together, we need the LCM of 15 and 20. Prime factorisation: 15 = 3 × 5, 20 = 2² × 5. LCM = 2² × 3 × 5 = 60 minutes = 1 hour. Therefore, they will ring together again at 9:00 AM + 60 minutes = 10:00 AM."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Conceptual: Two numbers are 48 and 180. Find their HCF, LCM, and verify the relationship HCF × LCM = Product.",
+      "answer": "HCF = 12, LCM = 720, HCF × LCM = 12 × 720 = 8640 = 48 × 180.",
+      "solution": "Prime factorisation of 48: 48 = 2⁴ × 3. Prime factorisation of 180: 180 = 2² × 3² × 5. HCF = 2² × 3 = 12. LCM = 2⁴ × 3² × 5 = 16 × 9 × 5 = 720. Verification: HCF × LCM = 12 × 720 = 8640. Product = 48 × 180 = 8640. Since both are equal, the relationship is verified."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Reasoning: Explain why a prime number always has HCF = 1 with any number that is not its multiple.",
+      "answer": "Because a prime number has only two factors (1 and itself), and if another number is not a multiple of it, they share only 1 as a common factor.",
+      "solution": "A prime number p has exactly two factors: 1 and p. If another number n is not a multiple of p, then p does not divide n. This means p is not a common factor of p and n. The only other factor of p is 1, which divides every number. Therefore, the only common factor of p and n is 1, giving HCF(p, n) = 1. For example, HCF(7, 15) = 1 because 7 is prime, 15 is not a multiple of 7, and their only common factor is 1."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "Application: Three pipes release water at intervals of 18 minutes, 24 minutes, and 30 minutes respectively. All three start releasing water at 8:00 AM. After how many minutes will they release water together again?",
+      "answer": "After 360 minutes (6 hours).",
+      "solution": "We need to find the LCM of 18, 24, and 30. Prime factorisation: 18 = 2 × 3², 24 = 2³ × 3, 30 = 2 × 3 × 5. LCM = 2³ × 3² × 5 = 8 × 9 × 5 = 360. Therefore, the three pipes will release water together again after 360 minutes, which is 6 hours. They will release together at 2:00 PM."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "Theoretical: If HCF(a, b) = 1, what can you conclude about LCM(a, b)?",
+      "answer": "LCM(a, b) = a × b.",
+      "solution": "When HCF(a, b) = 1, it means a and b are co-prime numbers sharing no common prime factors. Using the relationship HCF(a, b) × LCM(a, b) = a × b, we have 1 × LCM(a, b) = a × b. Therefore, LCM(a, b) = a × b. This shows that for co-prime numbers, their LCM is simply the product of the numbers. For example, if HCF(5, 12) = 1, then LCM(5, 12) = 5 × 12 = 60."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "Application: A rectangular garden measures 48 m by 60 m. Square tiles need to be laid such that no cutting is required. What is the largest size of square tiles that can be used?",
+      "answer": "12 m × 12 m tiles.",
+      "solution": "For square tiles to fit perfectly without cutting, the side of the square must be a common factor of both 48 and 60. To use the largest tiles, we need the HCF of 48 and 60. Prime factorisation: 48 = 2⁴ × 3, 60 = 2² × 3 × 5. HCF = 2² × 3 = 12. Therefore, the largest square tiles that can be used are 12 m × 12 m. The garden will need (48÷12) × (60÷12) = 4 × 5 = 20 tiles."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "Conceptual: Why does every pair of consecutive even numbers have HCF = 2?",
+      "answer": "Because consecutive even numbers share 2 as a common factor but no other even factor.",
+      "solution": "Consecutive even numbers can be written as 2n and 2(n+1) = 2n + 2. Both are divisible by 2, so 2 is a common factor. However, their difference is (2n + 2) - 2n = 2. Any common factor of both numbers must divide their difference. Since the difference is 2, the only common factors possible are 1 and 2. Since both numbers are even, 1 is not a common factor greater than 1. Therefore, HCF = 2. For example, HCF(8, 10) = 2, HCF(14, 16) = 2."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "Application: A store wants to pack 84 chocolates and 120 candies into identical gift boxes without any remainder. What is the maximum number of boxes that can be made? How many chocolates and candies will be in each box?",
+      "answer": "Maximum 12 boxes with 7 chocolates and 10 candies each.",
+      "solution": "The number of boxes must be a common factor of 84 and 120. To maximize the number of boxes, we need the HCF of 84 and 120. Prime factorisation: 84 = 2² × 3 × 7, 120 = 2³ × 3 × 5. HCF = 2² × 3 = 12. Therefore, 12 boxes can be made. Each box contains: Chocolates per box = 84 ÷ 12 = 7. Candies per box = 120 ÷ 12 = 10."
+    }
+  ]
+}

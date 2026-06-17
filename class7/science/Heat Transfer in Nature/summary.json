@@ -1,0 +1,30 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Science",
+    "chapter_name": "Heat Transfer in Nature",
+    "chapter_number": 7
+  },
+  "summary": {
+    "Conduction and Materials": [
+      "Conduction is the process of heat transfer from a hotter region to a colder region in solids, where particles pass heat without moving from their positions.",
+      "Materials that easily allow heat flow are conductors (e.g., metals like steel), making them ideal for cooking utensils.",
+      "Insulators, or poor conductors (e.g., wood, plastic, air, and wool), prevent rapid heat loss, which is why woollen clothes and trapped air keep us warm in winter."
+    ],
+    "Convection and Breezes": [
+      "Convection is heat transfer primarily in liquids and gases caused by the actual movement of particles; heated, less dense portions rise and cooler portions sink.",
+      "In coastal areas, uneven heating and cooling rates of land versus water create daily convection currents.",
+      "During the day, cooler air from the sea rushes in as a 'sea breeze,' while at night, cooler air from land moves out as a 'land breeze'."
+    ],
+    "Radiation": [
+      "Radiation is the direct transfer of heat energy without needing a material medium, allowing heat from the Sun or a fireplace to reach us.",
+      "All hot objects radiate heat to their surroundings; similarly, objects absorb radiated heat differently based on their color.",
+      "Light-colored clothes reflect solar radiation (comfortable in summer), whereas dark-colored clothes absorb more heat (preferable in winter)."
+    ],
+    "The Water Cycle and Groundwater": [
+      "The water cycle describes the continuous movement of water—evaporation, transpiration, condensation, and precipitation—redistributing and conserving Earth's water.",
+      "Surface water seeping downwards through soil and permeable rocks is known as infiltration, which gets stored in underground pore spaces as groundwater.",
+      "Massive underground rock and sediment layers holding groundwater are called aquifers; conserving this water through recharge pits or ice stupas is vital for sustainability."
+    ]
+  }
+}

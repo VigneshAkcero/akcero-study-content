@@ -1,0 +1,182 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Lines and Angles",
+    "chapter_number": 2
+  },
+  "notes": [
+    {
+      "section_title": "Points, Lines, and Rays",
+      "topics": [
+        {
+          "topic_name": "Basic Geometrical Ideas",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The basic building blocks of geometry are points, line segments, lines, and rays."
+            },
+            {
+              "type": "list",
+              "title": "Definitions",
+              "items": [
+                "**Point**: A sharp dot that determines a precise location. It has no length, breadth, or height. Labeled with a capital letter like P.",
+                "**Line Segment**: The shortest path between two points. It has two end points. Denoted as AB or BA.",
+                "**Line**: A line segment extended indefinitely in both directions. Denoted as $\\overleftrightarrow{AB}$. Any two points determine a unique line.",
+                "**Ray**: A part of a line that starts at one point and goes on endlessly in one direction. Denoted as AP."
+              ]
+            },
+            {
+              "type": "activity",
+              "title": "Folding a Line Segment",
+              "procedure": [
+                "Fold a piece of paper and unfold it.",
+                "The crease formed gives the idea of a line segment."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example-1",
+              "question": "How many lines can be drawn passing through: (a) one fixed point? (b) two fixed points?",
+              "solution": "(a) An uncountable (infinite) number of lines can pass through one fixed point.\n(b) Only one unique line can pass through two fixed points."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Understanding Angles",
+      "topics": [
+        {
+          "topic_name": "Angles and Rotation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "An angle is formed by two rays having a common starting point called the vertex. The rays are called the arms of the angle."
+            },
+            {
+              "type": "note",
+              "title": "Naming an Angle",
+              "text": "An angle formed by rays BD and BE is named as $\\angle DBE$ or $\\angle EBD$. The vertex (B) is always the middle letter."
+            },
+            {
+              "type": "activity",
+              "title": "Opening a Book",
+              "procedure": [
+                "Observe the cover of a book as you open it.",
+                "Notice how the angle between the cover and the first page changes as you rotate it more."
+              ],
+              "observation": "The size of an angle is the amount of rotation or turn needed to move the first ray to the second ray."
+            },
+            {
+              "type": "example",
+              "title": "Example-2",
+              "question": "Name the arms and the vertex of $\\angle SRT$.",
+              "solution": "The vertex is the middle letter, S.\nThe arms are the rays SR and ST."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Special Types and Classification",
+      "topics": [
+        {
+          "topic_name": "Types of Angles",
+          "content": [
+            {
+              "type": "list",
+              "title": "Classification based on Turn",
+              "items": [
+                "**Right Angle**: Exactly a quarter turn ($90^\\circ$). Resembles the shape of an 'L'.",
+                "**Straight Angle**: A half turn ($180^\\circ$). The arms lie in a straight line.",
+                "**Acute Angle**: Sharp angle, less than a right angle ($< 90^\\circ$).",
+                "**Obtuse Angle**: Blunt angle, greater than a right angle but less than a straight angle ($90^\\circ < x < 180^\\circ$).",
+                "**Reflex Angle**: Greater than a straight angle but less than a full turn ($180^\\circ < x < 360^\\circ$)."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Perpendicular Lines",
+              "text": "Two lines that meet at right angles are called perpendicular lines."
+            },
+            {
+              "type": "example",
+              "title": "Example-3",
+              "question": "Classify the following angle measures: $30^\\circ, 90^\\circ, 120^\\circ, 258^\\circ$.",
+              "solution": "- $30^\\circ$: Acute (less than $90^\\circ$)\n- $90^\\circ$: Right\n- $120^\\circ$: Obtuse (between $90^\\circ$ and $180^\\circ$)\n- $258^\\circ$: Reflex (between $180^\\circ$ and $360^\\circ$)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Measuring and History",
+      "topics": [
+        {
+          "topic_name": "The 360 Degree Circle",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Mathematicians divided a circle into 360 equal parts. Each part is $1^\\circ$ (one degree)."
+            },
+            {
+              "type": "note",
+              "title": "Why 360?",
+              "text": "360 is the smallest number evenly divisible by all numbers from 1 to 10 (except 7). Ancient texts like the Rigveda mention 360 spokes in a wheel, and ancient calendars used 360 days in a year."
+            },
+            {
+              "type": "activity",
+              "title": "Paper Protractor",
+              "procedure": [
+                "Cut a circle and fold it into halves ($180^\\circ$).",
+                "Fold the semicircle into half ($90^\\circ$).",
+                "Fold again to get $45^\\circ$ and $22.5^\\circ$."
+              ],
+              "conclusion": "The line that divides an angle into two equal parts is called an angle bisector."
+            }
+          ]
+        },
+        {
+          "topic_name": "Angles in a Clock",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A clock is divided into 12 equal parts. The total angle is $360^\\circ$."
+            },
+            {
+              "type": "example",
+              "title": "Example-4",
+              "question": "What is the angle between the hands of a clock at 1 o'clock?",
+              "solution": "Total angle = $360^\\circ$.\nNumber of parts = 12.\nAngle between two successive numbers = $360 \\div 12 = 30^\\circ$.\nAt 1 o'clock, the hands are 1 part apart, so the angle is $30^\\circ$."
+            },
+            {
+              "type": "example",
+              "title": "Example-5",
+              "question": "What is the angle at 4 o'clock?",
+              "solution": "At 4 o'clock, the hands are 4 parts apart.\nAngle = $4 \\times 30^\\circ = 120^\\circ$."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Point", "definition": "A precise location denoted by a capital letter, having no dimensions." },
+    { "term": "Line Segment", "definition": "The shortest path between two end points." },
+    { "term": "Ray", "definition": "A part of a line with one starting point, going endlessly in one direction." },
+    { "term": "Vertex", "definition": "The common starting point of two rays forming an angle." },
+    { "term": "Acute Angle", "definition": "An angle smaller than a right angle (more than $0^\\circ$ and less than $90^\\circ$)." },
+    { "term": "Obtuse Angle", "definition": "An angle greater than a right angle but less than a straight angle." },
+    { "term": "Reflex Angle", "definition": "An angle greater than $180^\\circ$ but less than $360^\\circ$." },
+    { "term": "Angle Bisector", "definition": "A line that divides an angle into two equal smaller angles." }
+  ],
+  "summary_points": [
+    "Points, lines, segments, and rays are the building blocks of plane geometry.",
+    "An angle measures the amount of rotation between two arms about a vertex.",
+    "Angles are measured in degrees using a protractor, with $360^\\circ$ representing a full rotation.",
+    "Special angles include right angles ($90^\\circ$) and straight angles ($180^\\circ$).",
+    "Angles can be compared using superimposition and categorized into acute, obtuse, and reflex based on their size.",
+    "Real-life applications of angles include clock hands, doors, and the slope of inclined surfaces."
+  ]
+}

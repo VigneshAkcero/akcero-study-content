@@ -1,0 +1,565 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Science",
+    "chapter_name": "Changes Around Us: Physical and Chemical",
+    "chapter_number": 5
+  },
+  "notes": [
+    {
+      "section_title": "Introduction: Observing Changes Around Us",
+      "topics": [
+        {
+          "topic_name": "How We Observe Changes",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Changes are constantly happening around us — in the size, shape, smell, colour, state, or other properties of substances and objects. We observe these changes using our senses of sight, smell, touch, hearing, and taste."
+            },
+            {
+              "type": "activity",
+              "id": "5.1",
+              "title": "Let Us Think and Reflect — Changes Around Us",
+              "procedure": [
+                "Observe various changes happening around you.",
+                "Record what is changing in each case — e.g., melting ice cubes, chopping vegetables, boiling water, making popcorn, cutting paper, adding beetroot extract to water, burning wood, drying wet clothes, making dough balls, rolling chapatis."
+              ],
+              "observation": "Each change involves a change in some property — shape, size, state, smell, colour, or composition of the substance.",
+              "conclusion": "Changes around us can be of different types. Some changes affect only the physical appearance of a substance, while others produce entirely new substances."
+            },
+            {
+              "type": "list",
+              "title": "Examples of Everyday Changes",
+              "items": [
+                "Melting ice cubes — change in state",
+                "Chopping vegetables — change in size and shape",
+                "Boiling water — change in state",
+                "Making popcorn from corn — formation of a new substance",
+                "Cutting paper — change in shape and size",
+                "Burning wood — formation of new substances (ash, gases)",
+                "Drying wet clothes — change in state (evaporation)",
+                "Rolling dough into chapatis — change in shape"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.1 Physical Changes — Appearance Changes, Substance Remains the Same",
+      "topics": [
+        {
+          "topic_name": "Definition and Characteristics of Physical Changes",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In some changes, only the physical properties of a substance — such as shape, size, or state — change. No new substance is formed. Such changes are called physical changes."
+            },
+            {
+              "type": "note",
+              "title": "Physical Change — Definition",
+              "text": "A physical change is one in which a substance or object undergoes a change in its physical properties (shape, size, state) and no new substance is formed. The original substance remains chemically the same."
+            },
+            {
+              "type": "activity",
+              "id": "5.2",
+              "title": "Let Us Create and Discuss — Physical Changes with Paper, Balloon, and Chalk",
+              "procedure": [
+                "A. Fold sheets of paper into objects. Observe if the paper can be unfolded to get the original sheets back.",
+                "B. Inflate a balloon, then release the air — observe if the original uninflated balloon is retrieved. Then prick an inflated balloon with a pin and observe.",
+                "C. Crush a small piece of chalk into powder. Check if the chalk piece can be recovered from the powder."
+              ],
+              "observation": "In A: Unfolding gives back the same paper. In B: Releasing air gives the original balloon; pricking does not. In C: Once crushed, the original chalk piece cannot be recovered. In all cases, the original material (paper, rubber, chalk) remains the same — only shape or size changes.",
+              "conclusion": "In all these changes, no new substance is formed. Only physical properties like shape and size change — these are physical changes."
+            },
+            {
+              "type": "list",
+              "title": "Examples of Physical Changes",
+              "items": [
+                "Folding, cutting, or tearing paper",
+                "Inflating and deflating a balloon",
+                "Crushing chalk into powder",
+                "Melting of ice into water",
+                "Boiling of water into steam",
+                "Freezing of water into ice",
+                "Dissolving sugar in water",
+                "Chopping vegetables",
+                "Rolling dough into chapatis"
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Key Point",
+              "text": "Water can exist in three states — solid (ice), liquid (water), gas (water vapour) — and can change from one state to another. All such state changes are physical changes since no new substance is formed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.2 Chemical Changes — Appearance Changes and New Substances Form",
+      "topics": [
+        {
+          "topic_name": "Definition and Characteristics of Chemical Changes",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In some changes, one or more new substances are formed. These changes involve a chemical reaction and are called chemical changes. The process through which new substances are formed is called a chemical reaction."
+            },
+            {
+              "type": "note",
+              "title": "Chemical Change — Definition",
+              "text": "A chemical change is one in which one or more new substances are formed through a chemical reaction. Chemical changes can be represented by a chemical equation."
+            },
+            {
+              "type": "activity",
+              "id": "5.3",
+              "title": "Let Us Explore — CO₂ and Lime Water Test",
+              "procedure": [
+                "Take two glass tumblers — mark them A and B.",
+                "Fill one-fourth of tumbler A with tap water and one-fourth of tumbler B with lime water.",
+                "Blow exhaled air into each tumbler separately through straws.",
+                "Observe any changes in each tumbler."
+              ],
+              "observation": "In tumbler A (tap water): only bubbles form; no change in appearance. In tumbler B (lime water): bubbles form AND the lime water turns milky/cloudy. After some time, a white substance settles at the bottom.",
+              "conclusion": "A new white substance (calcium carbonate) is formed in tumbler B. This indicates a chemical change. Carbon dioxide in exhaled air reacts with lime water (calcium hydroxide) to form calcium carbonate and water."
+            },
+            {
+              "type": "note",
+              "title": "Chemical Equation: CO₂ + Lime Water",
+              "text": "Calcium hydroxide + Carbon dioxide → Calcium carbonate + Water\n(Lime water)   (Exhaled air)       (White insoluble substance)\n\nThis reaction forms a white precipitate of calcium carbonate, making the lime water appear milky. Turning lime water milky is used as a standard test for the presence of carbon dioxide."
+            },
+            {
+              "type": "activity",
+              "id": "5.4",
+              "title": "Let Us Experiment — Vinegar and Baking Soda",
+              "procedure": [
+                "Take a teaspoonful of vinegar or lemon juice in a test tube.",
+                "Add a pinch of baking soda (sodium hydrogen carbonate) to it.",
+                "Observe the fizzing and bubble formation.",
+                "Pass the gas produced through freshly prepared lime water in another test tube.",
+                "Observe whether the lime water turns milky."
+              ],
+              "observation": "A fizzing, bubbling sound is heard when baking soda is added to vinegar. The gas produced turns lime water milky.",
+              "conclusion": "Since lime water turns milky, the gas produced is carbon dioxide. A new substance (CO₂) is formed, confirming this is a chemical change."
+            },
+            {
+              "type": "note",
+              "title": "Chemical Equation: Vinegar + Baking Soda",
+              "text": "Vinegar + Baking soda → Carbon dioxide + Other substances\n\nNote: When baking soda is mixed with water alone, no bubble formation occurs — this is a physical change (dissolving)."
+            },
+            {
+              "type": "list",
+              "title": "Indicators That a Chemical Change Has Occurred",
+              "items": [
+                "Formation of a new substance (e.g., a precipitate, a gas, a colour change).",
+                "Evolution of heat or light.",
+                "Production of a sound.",
+                "Change in smell.",
+                "The change usually cannot be reversed easily."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.3 Some Other Processes Involving Chemical Changes",
+      "topics": [
+        {
+          "topic_name": "5.3.1 Rusting",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When iron is exposed to moisture (water) and oxygen in the air over time, a new brown-coloured substance called rust (iron oxide) forms on its surface. This is a chemical change because a new substance — iron oxide — is produced."
+            },
+            {
+              "type": "note",
+              "title": "Rusting — Chemical Change",
+              "text": "Rusting of iron is a chemical change. The iron reacts with oxygen and water to form iron oxide (rust), which is a new substance with properties different from iron. Rust is brown/reddish in colour and is brittle."
+            },
+            {
+              "type": "list",
+              "title": "Key Facts About Rusting",
+              "items": [
+                "Rusting requires both oxygen and moisture (water).",
+                "Rust (iron oxide) is a new substance — different from iron.",
+                "Rusting weakens iron structures over time.",
+                "It is an undesirable chemical change in most situations.",
+                "Rusting can be prevented by painting, oiling, or galvanising iron."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "5.3.2 Combustion",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When a substance reacts with oxygen and produces heat and/or light, the process is called combustion. Combustion is a chemical change because new substances are formed during the reaction."
+            },
+            {
+              "type": "note",
+              "title": "Combustion — Definition",
+              "text": "Combustion is a chemical reaction in which a substance reacts with oxygen and produces heat and/or light. Substances that undergo combustion are called combustible substances (also called fuels). Examples: wood, paper, cotton, kerosene, wax."
+            },
+            {
+              "type": "example",
+              "title": "Burning of Magnesium Ribbon",
+              "description": "When magnesium ribbon is burnt in air, it reacts with oxygen to form magnesium oxide (a new white powder). Heat and bright light are also produced.\nChemical equation:\nMagnesium + Oxygen → Magnesium oxide + Heat + Light\n(Ribbon)     (Air)       (White powder)\nThis is a chemical change because a new substance (magnesium oxide) is formed."
+            },
+            {
+              "type": "activity",
+              "id": "5.5",
+              "title": "Let Us Investigate — Is Oxygen Essential for Combustion?",
+              "procedure": [
+                "Place two identical candles on separate petri dishes and light both.",
+                "Cover one candle with a glass tumbler.",
+                "Observe the flame in each candle."
+              ],
+              "observation": "The uncovered candle continues to burn. The covered candle's flame gets extinguished after some time.",
+              "conclusion": "The covered candle runs out of oxygen (air) and goes out. Oxygen is essential for combustion. The component of air that supports combustion is oxygen. Carbon dioxide formed inside the tumbler can be detected by adding lime water to the petri dish — it turns milky."
+            },
+            {
+              "type": "activity",
+              "id": "5.6",
+              "title": "Let Us Investigate — Ignition Temperature",
+              "procedure": [
+                "Hold a piece of paper with tongs and bring a lighted matchstick to it — observe that it quickly catches fire.",
+                "Take another piece of paper and focus sunrays onto it using a magnifying glass.",
+                "Hold the focused spot on the paper for some time."
+              ],
+              "observation": "The paper starts emitting smoke and then catches fire even without a direct flame — just from the heat of the focused sunrays.",
+              "conclusion": "A substance does not need direct fire to burn. When its temperature is raised to a minimum threshold, it catches fire. This minimum temperature is called the ignition temperature."
+            },
+            {
+              "type": "note",
+              "title": "Ignition Temperature",
+              "text": "The minimum temperature at which a substance catches fire (starts burning) is called its ignition temperature. Every combustible substance has its own specific ignition temperature. A lighted matchstick can ignite paper because its temperature is already above the ignition temperature of paper."
+            },
+            {
+              "type": "note",
+              "title": "Fire Triangle — Three Requirements for Combustion",
+              "text": "For combustion to occur, all three of the following must be present simultaneously:\n1. A combustible substance (fuel) — e.g., wood, paper, wax\n2. Oxygen — to sustain the reaction\n3. Heat — sufficient to raise the fuel to its ignition temperature\nRemoving any one of these three stops the combustion. This is the basis of fire extinguishing methods."
+            },
+            {
+              "type": "note",
+              "title": "Science and Society — Extinguishing Fire on Clothes",
+              "text": "If a person's clothes catch fire, the best way to extinguish it is to wrap a blanket or cloth tightly around the person. This cuts off the supply of oxygen (air) and the fire is extinguished. Caution: Never use a synthetic blanket or cloth, as it can melt and stick to the skin."
+            },
+            {
+              "type": "note",
+              "title": "Fascinating Fact — Bioluminescence",
+              "text": "Fireflies produce light through a chemical change in their bodies. This production of light (without heat) in living organisms is called bioluminescence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.4 Can Physical and Chemical Changes Occur in the Same Process?",
+      "topics": [
+        {
+          "topic_name": "Burning of a Candle — Both Physical and Chemical Changes",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Some processes involve both physical and chemical changes simultaneously. The burning of a candle is a classic example."
+            },
+            {
+              "type": "example",
+              "title": "Burning Candle — Analysis",
+              "description": "When a candle burns:\n• The wax melts (solid → liquid) — Physical change\n• The liquid wax is carried up the wick and evaporates (liquid → vapour) — Physical change\n• The solidification of melted wax if it drips and cools — Physical change\n• The wax vapour burns in the flame, reacting with oxygen to produce carbon dioxide and water — Chemical change\n\nConclusion: The burning of a candle involves BOTH physical changes (melting, evaporation, solidification of wax) and a chemical change (combustion of wax vapour)."
+            },
+            {
+              "type": "note",
+              "title": "Know a Scientist — Michael Faraday",
+              "text": "Michael Faraday, a 19th century scientist who made significant contributions to science, delivered a famous series of lectures titled 'Chemical History of a Candle'. He used the candle as a perfect object to explain the differences between physical processes (melting, vaporisation) and chemical processes (combustion)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.5 Are Changes Permanent? — Reversible and Irreversible Changes",
+      "topics": [
+        {
+          "topic_name": "Reversible Changes",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Some changes can be undone — the original substance or object can be recovered after the change. These are called reversible changes."
+            },
+            {
+              "type": "list",
+              "title": "Examples of Reversible Changes",
+              "items": [
+                "Melting of ice → can be refrozen back into ice.",
+                "Boiling of water → water vapour can be condensed back into water.",
+                "Folding of paper or cloth → can be unfolded.",
+                "Inflating a balloon → air can be released, giving back the original balloon.",
+                "Dissolving sugar in water → water can be evaporated to recover sugar.",
+                "Rolling a mat → can be unrolled."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Irreversible Changes",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Some changes cannot be undone — the original substance or object cannot be recovered after the change. These are called irreversible changes."
+            },
+            {
+              "type": "list",
+              "title": "Examples of Irreversible Changes",
+              "items": [
+                "Chopping vegetables → cannot be made whole again.",
+                "Making popcorn from corn → cannot revert to corn.",
+                "Burning of wood → ash and gases cannot become wood again.",
+                "Rusting of iron → rust cannot be converted back to iron easily.",
+                "Curdling of milk → curd cannot become milk again.",
+                "Making idlis from batter → cannot revert to batter.",
+                "Grinding wheat to flour → cannot become wheat grain again."
+              ]
+            },
+            {
+              "type": "activity",
+              "id": "5.8",
+              "title": "Let Us Think — Can Changes Be Reversed?",
+              "procedure": [
+                "Think about all the changes discussed in the chapter.",
+                "For each change, determine whether the original substance can be recovered.",
+                "Record observations in a table with columns: Change | Can be reversed? (Yes/No)"
+              ],
+              "observation": "Melting ice: Yes. Chopping vegetables: No. Boiling water: Yes. Making popcorn: No.",
+              "conclusion": "Changes can be classified as reversible (original can be recovered) or irreversible (original cannot be recovered)."
+            },
+            {
+              "type": "note",
+              "title": "Key Observation",
+              "text": "Most physical changes are reversible. Most chemical changes are irreversible. However, this is not an absolute rule — for example, chopping vegetables is a physical change but is irreversible."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.6 Are All Changes Desirable?",
+      "topics": [
+        {
+          "topic_name": "Desirable and Undesirable Changes",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Changes can be classified as desirable (useful and beneficial) or undesirable (harmful or unwanted), depending on the context."
+            },
+            {
+              "type": "list",
+              "title": "Examples of Desirable Changes",
+              "items": [
+                "Conversion of milk into curd (useful for nutrition).",
+                "Ripening of fruits (makes them edible).",
+                "Cooking of food (makes food safe and tasty).",
+                "Decomposition of food waste into compost (improves soil fertility)."
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Examples of Undesirable Changes",
+              "items": [
+                "Rusting of iron (weakens metal structures).",
+                "Decay of food during storage (food spoilage).",
+                "Increased CO₂ in the atmosphere due to burning of fuels (climate change).",
+                "Atmospheric pollution from evaporation of paint substances."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Context Matters",
+              "text": "A change that is undesirable in one context may be desirable in another. For example, decomposition of food is undesirable when it causes food spoilage in a kitchen, but desirable when it converts food waste into compost for agriculture."
+            },
+            {
+              "type": "note",
+              "title": "Environmental Impact",
+              "text": "Some changes caused by human activity have long-term environmental consequences. Increased burning of fuels in vehicles and industries raises CO₂ levels in the atmosphere, contributing to global warming. Drying of paint releases pollutant vapours into the air."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.7 Some Slow Natural Changes",
+      "topics": [
+        {
+          "topic_name": "5.7.1 Weathering of Rocks",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Heaps of sand, soil, and stones found at the base of mountains are called sediments. They are formed by the breaking up of large rocks over long periods of time. This process is called weathering."
+            },
+            {
+              "type": "note",
+              "title": "Weathering — Definition",
+              "text": "Weathering refers to the physical and chemical changes in rocks caused by natural factors such as temperature changes, growing roots of trees, freezing of water in cracks, and chemical reactions with water or air. Weathering eventually leads to the formation of soil."
+            },
+            {
+              "type": "list",
+              "title": "Causes of Weathering",
+              "items": [
+                "Physical causes: Temperature changes (heating and cooling), roots of trees growing into cracks, freezing and expansion of water within cracks in rocks.",
+                "Chemical causes: Water and dissolved chemicals reacting with minerals in rocks — e.g., iron in basalt rock reacts with water/air to form red-coloured iron oxide (rust layer)."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Chemical Weathering — Basalt Rock",
+              "description": "Basalt is an originally black-coloured rock that contains iron. When exposed to water or air containing water vapour for a long time, the iron in basalt undergoes a chemical change and forms iron oxide — which gives the rock surface a red colour. This is an example of chemical weathering."
+            },
+            {
+              "type": "note",
+              "title": "Key Point",
+              "text": "Weathering involves BOTH physical changes (breaking of rocks into smaller pieces) and chemical changes (alteration of rock composition). The end result of weathering over thousands of years is the formation of soil."
+            }
+          ]
+        },
+        {
+          "topic_name": "5.7.2 Erosion",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Erosion is the process by which rock pebbles, soil, and sediments are broken down and moved from one location to another by natural forces such as wind and flowing water."
+            },
+            {
+              "type": "note",
+              "title": "Erosion — Definition",
+              "text": "Erosion is the process of breaking down and transporting rock particles, soil, and sediments from one place to another by natural agents like flowing water, wind, and glaciers. It is primarily a physical change."
+            },
+            {
+              "type": "list",
+              "title": "Key Facts About Erosion",
+              "items": [
+                "River rocks and pebbles appear smooth due to constant erosion by flowing water.",
+                "Erosion during a landslide is an example of a physical change.",
+                "When the speed of water or wind decreases (e.g., in a lake or ocean), the transported material settles at the bottom.",
+                "These settled sediments harden over time to become new rocks.",
+                "Most erosion-related changes occur over thousands of years and cannot be reversed.",
+                "Fine sand in riverbeds and lakes is formed by erosion of rock pebbles."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Erosion vs Weathering",
+              "text": "Weathering breaks rocks down in place; erosion involves the movement and transport of the broken rock material from one location to another. Both processes together contribute to landscape changes and soil formation over geological timescales."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Summary: Classification of Changes",
+      "topics": [
+        {
+          "topic_name": "Overview — Classifying Changes",
+          "content": [
+            {
+              "type": "table",
+              "headers": ["Basis of Classification", "Type 1", "Type 2"],
+              "rows": [
+                ["Nature of change", "Physical Change", "Chemical Change"],
+                ["New substance formed?", "No", "Yes"],
+                ["Chemical properties altered?", "No", "Yes"],
+                ["Can usually be reversed?", "Yes (mostly)", "No (mostly)"],
+                ["Examples", "Melting ice, folding paper, boiling water", "Rusting, combustion, curdling of milk, mixing vinegar and baking soda"],
+                ["Basis of classification", "Reversible", "Irreversible"],
+                ["Can original be recovered?", "Yes", "No"],
+                ["Examples", "Melting ice, dissolving sugar, boiling water", "Burning wood, making popcorn, chopping vegetables"],
+                ["Basis of classification", "Desirable", "Undesirable"],
+                ["Examples", "Ripening fruits, making curd, cooking food", "Rusting of iron, decay of food, air pollution"]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Important Caution",
+              "text": "Not all physical changes are reversible and not all chemical changes are irreversible. For example, chopping vegetables is a physical change but is irreversible. Classification by reversibility is separate from classification by physical/chemical nature."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Physical Change",
+      "definition": "A change in which only the physical properties (shape, size, state) of a substance change and no new substance is formed."
+    },
+    {
+      "term": "Chemical Change",
+      "definition": "A change in which one or more new substances are formed through a chemical reaction."
+    },
+    {
+      "term": "Chemical Reaction",
+      "definition": "The process through which new substances are formed in a chemical change; can be represented by a chemical equation."
+    },
+    {
+      "term": "Combustion",
+      "definition": "A chemical reaction in which a substance reacts with oxygen and produces heat and/or light."
+    },
+    {
+      "term": "Combustible Substance",
+      "definition": "A substance that undergoes combustion (burns) when it reacts with oxygen. Also called fuel. Examples: wood, paper, kerosene, wax."
+    },
+    {
+      "term": "Ignition Temperature",
+      "definition": "The minimum temperature at which a substance catches fire and starts burning."
+    },
+    {
+      "term": "Fire Triangle",
+      "definition": "The three requirements for combustion: a combustible substance (fuel), oxygen, and heat sufficient to reach the ignition temperature."
+    },
+    {
+      "term": "Rusting",
+      "definition": "A chemical change in which iron reacts with oxygen and moisture to form iron oxide (rust), a new brown-coloured substance."
+    },
+    {
+      "term": "Reversible Change",
+      "definition": "A change in which the original substance or object can be recovered after the change occurs."
+    },
+    {
+      "term": "Irreversible Change",
+      "definition": "A change in which the original substance or object cannot be recovered after the change occurs."
+    },
+    {
+      "term": "Weathering",
+      "definition": "The physical and chemical breakdown of rocks by natural factors such as temperature changes, water, growing roots, and chemical reactions, leading eventually to the formation of soil."
+    },
+    {
+      "term": "Erosion",
+      "definition": "The process by which rock particles, soil, and sediments are broken down and transported from one location to another by natural agents like water and wind."
+    },
+    {
+      "term": "Sediments",
+      "definition": "Heaps of sand, soil, and broken rock pieces that collect at the base of mountains or settle at the bottom of water bodies as a result of weathering and erosion."
+    },
+    {
+      "term": "Bioluminescence",
+      "definition": "The production of light (without heat) by living organisms through a chemical change. Example: light produced by fireflies."
+    },
+    {
+      "term": "Lime Water Test",
+      "definition": "A standard test for detecting carbon dioxide — CO₂ turns lime water (calcium hydroxide solution) milky by forming white calcium carbonate."
+    }
+  ],
+  "summary_points": [
+    "A physical change alters the shape, size, or state of a substance without forming any new substance; examples include melting ice, boiling water, and folding paper.",
+    "A chemical change produces one or more new substances through a chemical reaction; examples include rusting, combustion, and mixing vinegar with baking soda.",
+    "Carbon dioxide turns lime water milky (forming calcium carbonate) — this is the standard test for CO₂.",
+    "Combustion is a chemical reaction with oxygen that produces heat and/or light; it requires a combustible substance, oxygen, and heat (the Fire Triangle).",
+    "The minimum temperature at which a substance catches fire is called its ignition temperature.",
+    "The burning of a candle involves both physical changes (melting and evaporation of wax) and a chemical change (combustion of wax vapour).",
+    "Changes can be reversible (original substance can be recovered) or irreversible (original cannot be recovered).",
+    "Changes can be desirable (useful — e.g., ripening of fruits, making curd) or undesirable (harmful — e.g., rusting of iron, food decay).",
+    "Weathering is the physical and chemical breakdown of rocks by natural factors, leading to soil formation; erosion is the transport of rock particles by wind and water."
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Methods of Separation in Everyday Life",
+    "chapter_number": 9
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is the process of removing stones from grains called?",
+      "answer": "Handpicking.",
+      "solution": "Handpicking is the method used when impurities like stones or husk are larger in size and present in small quantities."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Which method should a farmer use to separate grains from their stalks?",
+      "answer": "Threshing.",
+      "solution": "Threshing involves beating the stalks on a hard log to release the attached grains."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Name the tool traditionally used in India for the process of winnowing.",
+      "answer": "Soop (Bamboo tray).",
+      "solution": "A bamboo tray or 'soop' is used to hold the threshed grains while allowing wind to blow away the lighter husk."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Identify the separation method being used when you remove tea leaves from tea using a strainer.",
+      "answer": "Filtration.",
+      "solution": "A tea-strainer acts as a filter, allowing the liquid tea to pass through while retaining the solid tea leaves."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Where does common salt come from?",
+      "answer": "Seawater.",
+      "solution": "Salt is obtained by evaporating seawater kept in shallow pits under the sun."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "Explain how winnowing works on the basis of mass (weight).",
+      "answer": "Winnowing separates components based on weight; wind blows away the lighter husk while the heavier grains fall straight down.",
+      "solution": "Differences in weight (lighter husk vs heavier grain) allow the wind to carry one component away from the other."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "Why is sieving not an appropriate method for separating salt from sand?",
+      "answer": "Because both salt and sand particles can have similar sizes that would both pass through or be blocked by a sieve.",
+      "solution": "Sieving requires a significant difference in particle size. Since salt and sand have similar small sizes, a sieve cannot distinguish them."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "Distinguish between sedimentation and decantation with a practical example.",
+      "answer": "Sedimentation is mud settling at the bottom of a glass; Decantation is pouring out the clear water without moving the mud.",
+      "solution": "Sedimentation creates the separation (bottom settling), and decantation performs the physical removal of the liquid."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Explain the difference between a 'residue' and a 'filtrate' in a filtration experiment.",
+      "answer": "Residue is the solid left on the filter; Filtrate is the clear liquid that passes through.",
+      "solution": "In filtering muddy water, the mud is the residue and the clear water is the filtrate."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "What happens when a salt solution is kept on dark paper in the sun as per Activity 9.2?",
+      "answer": "The water evaporates, leaving behind white patches of salt.",
+      "solution": "Solar heat converts liquid water into vapour, leaving the dissolved solid salt behind on the paper."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "How is the process of churning used in a dairy setting or kitchen?",
+      "answer": "Stirring curd vigorously to separate lighter butter, which floats at the top.",
+      "solution": "Churning (using a mathni or machine) separates fats from the liquid buttermilk based on their density."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Hard",
+      "question": "A carpenter dropped iron nails into a heap of sawdust. Describe a faster way than handpicking to recover them.",
+      "answer": "By using a magnet (Magnetic Separation).",
+      "solution": "Magnetic substances like iron nails will be attracted to the magnet, leaving the non-magnetic sawdust behind instantly."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "If you are given a mixture of water, sand, and cooking oil, outline the steps to separate them.",
+      "answer": "1. Filter to remove sand; 2. Use decantation to separate the lighter oil layer from water.",
+      "solution": "Sand is insoluble (filtered first), and oil forms a separate layer on top (decanted next)."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "Connect the concept of evaporation to ancient Indian health systems (Ayurveda).",
+      "answer": "Ayurveda uses evaporation by drying medicinal herbs in the shade to remove excess water for remedies.",
+      "solution": "Drying plant parts (roots, leaves, flowers) facilitates the removal of moisture, which is a natural form of evaporation."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "Why did people originally use silk for tea bags, and why has it changed to paper today?",
+      "answer": "Silk was strong in hot water but and let water pass. It changed to paper because paper has finer pores and is more economical.",
+      "solution": "The evolution of the filter material (silk to gauze to paper) reflects the search for the optimal pore size and durability."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Hard",
+      "question": "Explain the historical significance of obtaining salt as mentioned in the Ahmedabad section of the text.",
+      "answer": "It relates to the Dandi March (Namak Satyagrah) where salt production was used as a protest against colonial laws.",
+      "solution": "Mahatma Gandhi's Dandi March highlighted the importance of a common substance like salt obtained through evaporation."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "What type of mesh or filter would you use to separate pebbles from construction sand?",
+      "answer": "A large-sized sieve.",
+      "solution": "Construction sieves have specific hole sizes designed to block stones while letting fine sand pass through."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "A student finds that muddy water still remains cloudy after decantation. Suggest a better method for complete clarity.",
+      "answer": "Filtration through a fine filter paper.",
+      "solution": "Filter paper has microscopic pores that can trap even the smallest suspended mud particles that decantation cannot remove."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Easy",
+      "question": "Does a mixture of oil and water form a single liquid or two layers?",
+      "answer": "Two separate layers.",
+      "solution": "Being immiscible, oil floats as a distinct layer on top of water if left undisturbed."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Describe the stepwise procedure to separate a mixture of iron powder, common salt, and sawdust.",
+      "answer": "1. Use a magnet for iron; 2. Mix remaining with water and filter for sawdust; 3. Evaporate filtrate for salt.",
+      "solution": "This multi-stage process utilizes magnetism (iron), insolubility (sawdust), and solubility/evaporation (salt)."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "State 'True' or 'False': Churning of milk is used to remove harmful bacteria.",
+      "answer": "False.",
+      "solution": "Churning is used to separate useful components (cream/butter), not for disinfection or removing bacteria."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "How can a fisherman's net be compared to a filtration method? What environmental concern was Malli surprised to see in it?",
+      "answer": "The net mesh acts as a filter (drains water, keeps fish). Malli saw plastic pollution (bags, wrappers).",
+      "solution": "Draining water while retaining solids is the principle of filtration; the presence of plastic highlights water pollution."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Easy",
+      "question": "Identify the process: Turning water vapour back into liquid state.",
+      "answer": "Condensation.",
+      "solution": "Condensation is the reverse of evaporation, where cooling allows vapours to return to liquid form."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "Which method would be used to separate a mixture of mustard oil and lemon water?",
+      "answer": "Decantation.",
+      "solution": "Since mustard oil forms a separate layer on top of lemon water, it can be poured off by decantation."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "How does the size of pores in a filter decide its effectiveness?",
+      "answer": "Fine pores trap smaller particles but may slow down liquid flow; large pores let small impurities pass.",
+      "solution": "The choice of filter (cloth vs filter paper) depends entirely on the particle size of the substance intended for removal."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Easy",
+      "question": "What is a 'theresher'?",
+      "answer": "A machine used to simultaneously perform threshing and winnowing.",
+      "solution": "Modern technological developments have centralized these agricultural tasks using a single machine."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Medium",
+      "question": "According to the wise fish game slips, what purpose does sedimentation serve?",
+      "answer": "Heavier particles settle down to separate from a liquid.",
+      "solution": "Sedimentation effectively separates insoluble solids that are denser than the liquid they are in."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "State with a reason: Can sieving be used to separate a mixture of rice flour and water?",
+      "answer": "No, because rice flour is fine enough to pass through most sieves along with the water.",
+      "solution": "To separate flour from water, filtration is the appropriate method; sieving is for solid-solid size differences."
+    }
+  ]
+}

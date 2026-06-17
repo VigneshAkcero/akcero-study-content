@@ -1,0 +1,54 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Fractions",
+    "chapter_number": 7
+  },
+  "summary": [
+    {
+      "category": "Basic Concepts of Fractions",
+      "points": [
+        "A fraction represents an equal share of a whole number of items or a part of a single whole unit.",
+        "A fractional unit (or unit fraction) is a part of a whole divided into several equal parts, always having 1 as the numerator (e.g., $\\frac{1}{2}, \\frac{1}{4}$).",
+        "In a fraction $\\frac{a}{b}$, 'a' is the numerator (parts taken) and 'b' is the denominator (total equal parts in the whole)."
+      ]
+    },
+    {
+      "category": "Mixed and Improper Fractions",
+      "points": [
+        "Fractions where the numerator is greater than the denominator are greater than 1 and are called improper fractions.",
+        "A mixed fraction consists of a whole number part and a proper fraction part (e.g., $\\frac{7}{2} = 3\\frac{1}{2}$)."
+      ]
+    },
+    {
+      "category": "Equivalent Fractions and Simplest Form",
+      "points": [
+        "Equivalent fractions denote the same share or length but use different fractional units (e.g., $\\frac{1}{2} = \\frac{2}{4} = \\frac{3}{6}$).",
+        "A fraction is in its simplest form (lowest terms) when the numerator and denominator have no common factor other than 1."
+      ]
+    },
+    {
+      "category": "Comparing and Ordering Fractions",
+      "points": [
+        "To compare fractions with different denominators, convert them into equivalent fractions with a common denominator (often the product or LCM of the original denominators).",
+        "Once denominators are the same, the fraction with the larger numerator is the greater fraction."
+      ]
+    },
+    {
+      "category": "Addition and Subtraction (Brahmagupta's Method)",
+      "points": [
+        "To add or subtract fractions, first find a common denominator to express them with the same fractional units.",
+        "The sum or difference is found by adding or subtracting the numerators while keeping the denominator unchanged ($\\frac{a}{c} \\pm \\frac{b}{c} = \\frac{a \\pm b}{c}$).",
+        "This general method was first codified by the Indian mathematician Brahmagupta in 628 CE."
+      ]
+    },
+    {
+      "category": "Historical Contribution",
+      "points": [
+        "The modern notation for fractions (numerator over denominator) originated in India, found in texts like the Bakshali manuscript (~300 CE).",
+        "Indian mathematicians like Aryabhata and Brahmagupta established the fundamental rules for fraction arithmetic that are still used worldwide today."
+      ]
+    }
+  ]
+}

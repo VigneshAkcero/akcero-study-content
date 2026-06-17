@@ -1,0 +1,404 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "A Peek Beyond the Point",
+    "chapter_number": 3
+  },
+  "notes": [
+    {
+      "section_title": "3.1 The Need for Smaller Units",
+      "topics": [
+        {
+          "topic_name": "Introduction to Smaller Units of Measurement",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In everyday life, we often need to measure objects precisely. The standard units like centimeters may not always be sufficient for accurate measurement. When exact measures are required, we need to use smaller units of measurement."
+            },
+            {
+              "type": "example",
+              "title": "Real-life Scenario",
+              "text": "Consider two screws that appear identical at first glance. However, when measured carefully using a finer scale, they differ in length. One screw may be 2 7/10 cm long while another may be 3 2/10 cm long. This small difference can be crucial for proper assembly."
+            },
+            {
+              "type": "note",
+              "title": "Dividing Units",
+              "text": "The unit length between two consecutive numbers on a ruler is divided into 10 equal parts. Each part represents 1/10 of the original unit. This allows us to measure lengths more accurately by using fractional units."
+            },
+            {
+              "type": "paragraph",
+              "text": "For example, a length of 2 7/10 cm means 2 complete centimeters plus 7 parts out of 10 equal divisions of 1 cm. This is read as 'two and seven-tenths centimeters'."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.2 A Tenth Part",
+      "topics": [
+        {
+          "topic_name": "Understanding Tenths and Fractional Representation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A tenth (1/10) is one of ten equal parts of a unit. When we divide a unit into 10 equal parts, each part is a one-tenth, represented as 1/10."
+            },
+            {
+              "type": "example",
+              "title": "Expressing Length in Tenths",
+              "text": "A pencil of length 3 4/10 units can be expressed as:\n- 3 units and 4 one-tenths, or\n- (3 × 1) + (4 × 1/10) units\n- This is equivalent to 34 one-tenths units because 10 one-tenths make 1 unit."
+            },
+            {
+              "type": "note",
+              "title": "Reading Numbers with Tenths",
+              "text": "4 1/10 is read as 'four and one-tenth'\n4/10 is read as 'four one-tenths' or 'four-tenths'\n41/10 is read as 'forty-one one-tenths' or 'forty-one tenths'\n41 1/10 is read as 'forty-one and one-tenth'"
+            },
+            {
+              "type": "paragraph",
+              "text": "Multiple ways of writing and expressing the same quantity help us understand the flexibility of our number system. For instance, 4 8/10 units can also be written as 48/10 units."
+            }
+          ]
+        },
+        {
+          "topic_name": "Addition of Numbers with Tenths",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When adding numbers containing tenths, we can use two approaches: (1) Adding units and tenths separately, (2) Converting all to tenths and then adding."
+            },
+            {
+              "type": "example",
+              "title": "Adding Mixed Lengths",
+              "text": "Lower arm: 2 7/10 units, Upper arm: 3 6/10 units\nTotal arm length = (2 + 3) + (7/10 + 6/10) = 5 + 13/10\nSince 13/10 = 1 + 3/10, total = 6 3/10 units"
+            },
+            {
+              "type": "paragraph",
+              "text": "Alternatively, we can convert both to tenths: 27/10 + 36/10 = 63/10 = 6 3/10 units"
+            }
+          ]
+        },
+        {
+          "topic_name": "Subtraction of Numbers with Tenths",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Subtraction of numbers with tenths requires careful handling when the tenths part of the minuend is smaller than that of the subtrahend. In such cases, we borrow 1 unit from the whole number part."
+            },
+            {
+              "type": "example",
+              "title": "Subtracting with Regrouping",
+              "text": "Finding finger length from hand and palm measurements:\nHand length: 12 4/10 units\nPalm length: 6 7/10 units\nFinger length = (12 4/10) - (6 7/10)\nSince we cannot subtract 7 tenths from 4 tenths, we borrow 1 from 12 to get 11 14/10\nNow: (11 14/10) - (6 7/10) = 5 7/10 units"
+            },
+            {
+              "type": "paragraph",
+              "text": "Another method is to convert both numbers to tenths and then subtract: 124/10 - 67/10 = 57/10 = 5 7/10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.3 A Hundredth Part",
+      "topics": [
+        {
+          "topic_name": "Introduction to Hundredths",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When even more precise measurements are needed, we divide each tenth into 10 equal parts. Each of these smaller parts represents 1/100 of a unit, called a hundredth."
+            },
+            {
+              "type": "note",
+              "title": "Relationship Between Units and their Parts",
+              "text": "- 1 unit = 10 tenths = 100 hundredths\n- 1 tenth = 10 hundredths (10 × 1/100)\n- 1 hundredth = 1/100 of a unit"
+            },
+            {
+              "type": "example",
+              "title": "Expressing Length with Tenths and Hundredths",
+              "text": "A length of 1 1/10 4/100 units means:\n- 1 unit, 1 tenth, and 4 hundredths\nThis can also be expressed as:\n- 1 14/100 units (1 unit and 14 hundredths)\n- 114/100 units (114 hundredths)"
+            }
+          ]
+        },
+        {
+          "topic_name": "Addition and Subtraction with Hundredths",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Operations involving tenths and hundredths can be performed by maintaining place value alignment. We can add or subtract units, tenths, and hundredths separately, or convert everything to a common place value (usually hundredths)."
+            },
+            {
+              "type": "example",
+              "title": "Addition with Tenths and Hundredths",
+              "text": "Sum of 1 5 3/10 4/100 and 2 6/10 8/100:\nMethod 1: (15 + 2) + (34/100 + 68/100) = 17 + 102/100 = 17 + 1 2/100 = 18 2/100\nMethod 2: 15 34/100 + 26 8/100 = 41 42/100... [continue calculation]\nBoth methods use the principle of regrouping when a place value exceeds its maximum value."
+            },
+            {
+              "type": "paragraph",
+              "text": "Similar to whole number operations, when adding fractions with hundredths, if the sum of hundredths exceeds 100, we regroup to tenths and units. If tenths exceed 10, we regroup to units."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.4 Decimal Place Value",
+      "topics": [
+        {
+          "topic_name": "The Decimal System and Place Value",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The decimal system is an extension of the Indian place value system based on powers of 10. Just as whole numbers have place values that increase by a factor of 10 (ones, tens, hundreds, thousands, etc.), decimals have place values that decrease by a factor of 10 (tenths, hundredths, thousandths, etc.)."
+            },
+            {
+              "type": "note",
+              "title": "Why Do We Use 10?",
+              "text": "The reason we divide units into 10 equal parts is the special role that 10 plays in the Indian place value system. In whole numbers: 10 ones = 1 ten, 10 tens = 1 hundred, 10 hundreds = 1 thousand, and so on. To extend this system to numbers smaller than 1, we maintain the same principle: 1 unit is divided into 10 tenths, each tenth into 10 hundredths, each hundredth into 10 thousandths, and so forth."
+            },
+            {
+              "type": "paragraph",
+              "text": "This is why the system is called the 'decimal system' (from 'decem', meaning 10 in Latin, related to 'daśha' in Sanskrit and similar words in Indian languages like Hindi, Odia, Marathi, Gujarati, Assamese, and others)."
+            },
+            {
+              "type": "example",
+              "title": "Place Value Extension",
+              "text": "From whole numbers: ... thousands (10³), hundreds (10²), tens (10¹), ones (10⁰)\nTo decimals: tenths (10⁻¹), hundredths (10⁻²), thousandths (10⁻³), and beyond"
+            }
+          ]
+        },
+        {
+          "topic_name": "The Decimal Point and Notation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To distinguish whole number places from fractional places, a symbol called the decimal point (.) is used. The decimal point separates the units place from the tenths place."
+            },
+            {
+              "type": "example",
+              "title": "Decimal Notation Examples",
+              "text": "705 (without decimal point) = 7 hundreds + 0 tens + 5 ones = 7×100 + 5×1\n70.5 = 7 tens + 0 ones + 5 tenths = 7×10 + 5×(1/10)\n7.05 = 7 ones + 0 tenths + 5 hundredths = 7×1 + 5×(1/100)\n7.005 = 7 ones + 0 tenths + 0 hundredths + 5 thousandths = 7×1 + 5×(1/1000)"
+            },
+            {
+              "type": "note",
+              "title": "Reading Decimal Numbers",
+              "text": "705 is read as 'seven hundred and five'\n70.5 is read as 'seventy point five' (seventy and five-tenths)\n7.05 is read as 'seven point zero five' (seven and five hundredths)\n0.274 is read as 'zero point two seven four' (not 'zero point two hundred seventy four')\nBecause 0.274 means 2 tenths, 7 hundredths, and 4 thousandths"
+            }
+          ]
+        },
+        {
+          "topic_name": "Place Value Table and Decimal Positions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A place value table helps organize decimal numbers by showing the value of each digit based on its position. It clearly shows where the decimal point is placed and how many digits are on each side."
+            },
+            {
+              "type": "example",
+              "title": "Converting Between Representations",
+              "text": "234 tenths = 234/10:\nBreakdown: 200/10 + 30/10 + 4/10 = 20 + 3 + 4/10 = 23.4\n\n234 hundredths = 234/100\nDecimal form: 2.34\n\n105 tenths = 105/10 = 10.5"
+            },
+            {
+              "type": "paragraph",
+              "text": "Understanding that a number like 47 tenths can be written as 4.7 (4 ones and 7 tenths) is crucial for working with decimals effectively. The position of each digit determines its place value."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.5 Units of Measurement and Conversions",
+      "topics": [
+        {
+          "topic_name": "Length Conversion Using Decimals",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In the metric system, units of length are related by factors of 10, making them perfectly suited for decimal representation. The most commonly used conversions are between millimeters (mm), centimeters (cm), and meters (m)."
+            },
+            {
+              "type": "note",
+              "title": "Length Conversions",
+              "text": "1 cm = 10 mm\n1 mm = 1/10 cm = 0.1 cm\n1 m = 100 cm\n1 cm = 1/100 m = 0.01 m\n1 m = 1000 mm\n1 mm = 1/1000 m = 0.001 m"
+            },
+            {
+              "type": "example",
+              "title": "Converting Millimeters to Centimeters",
+              "text": "5 mm = 5/10 cm = 0.5 cm\n12 mm = 10 mm + 2 mm = 1 cm + 2/10 cm = 1.2 cm\n5.6 cm = 5 cm + 0.6 cm = 50 mm + 6 mm = 56 mm"
+            },
+            {
+              "type": "example",
+              "title": "Converting Centimeters to Meters",
+              "text": "10 cm = 10/100 m = 0.1 m\n15 cm = 15/100 m = 0.15 m\n36 cm = 36/100 m = 0.36 m"
+            }
+          ]
+        },
+        {
+          "topic_name": "Weight Conversion Using Decimals",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Weight or mass conversions also use the base-10 system. The most important conversions involve grams (g), kilograms (kg), and milligrams (mg)."
+            },
+            {
+              "type": "note",
+              "title": "Weight Conversions",
+              "text": "1 kg = 1000 g\n1 g = 1/1000 kg = 0.001 kg\n1 g = 1000 mg\n1 mg = 1/1000 g = 0.001 g"
+            },
+            {
+              "type": "example",
+              "title": "Converting Grams to Kilograms",
+              "text": "5 g = 5/1000 kg = 0.005 kg\n10 g = 10/1000 kg = 0.01 kg\n254 g = (200 + 50 + 4)/1000 kg = 2/10 + 5/100 + 4/1000 kg = 0.254 kg\n465 g = 465/1000 kg = 0.465 kg"
+            }
+          ]
+        },
+        {
+          "topic_name": "Currency Conversion Using Decimals",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In the Indian currency system, 1 rupee = 100 paise. Since paise is 1/100th of a rupee, decimal notation is naturally suited for currency representation."
+            },
+            {
+              "type": "note",
+              "title": "Currency Conversions",
+              "text": "1 rupee = 100 paise\n1 paisa = 1/100 rupee = 0.01 rupee\n75 paise = 75/100 rupee = 0.75 rupee\n10 paise = 10/100 rupee = 0.10 rupee"
+            },
+            {
+              "type": "paragraph",
+              "text": "Historically, 100 paise coins equal 1 rupee. Different denominations existed: 1 paisa, 2 paise, 3 paise, 5 paise, 10 paise, 20 paise, 25 paise, and 50 paise. However, from 2011, denominations of 25 paise and less were removed from circulation, though paise still appear in bills and account statements."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.6 Locating and Comparing Decimals",
+      "topics": [
+        {
+          "topic_name": "Locating Decimals on a Number Line",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Decimal numbers can be located precisely on a number line by dividing the unit length into 10 equal parts (for tenths), and further subdividing if needed (for hundredths, thousandths, etc.)."
+            },
+            {
+              "type": "example",
+              "title": "Locating 1.4 on a Number Line",
+              "text": "The number 1.4 = 1 unit + 4 tenths. On a number line:\n- Mark the point 1\n- Divide the unit between 1 and 2 into 10 equal parts\n- Count 4 parts from 1, and mark the point 1.4\nThis point lies between 1 and 2, closer to 1 than to 2."
+            },
+            {
+              "type": "paragraph",
+              "text": "By magnifying segments of the number line, we can locate decimal numbers with greater precision. For example, to locate 4.185, we first locate 4.1, then 4.18, and finally 4.185 by progressively zooming into smaller intervals."
+            }
+          ]
+        },
+        {
+          "topic_name": "Comparing Decimal Numbers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To compare decimal numbers, we compare digits at each place value from left to right. We start with the highest place value. If the digits are equal, we move to the next smaller place value. The first difference we find determines which number is larger."
+            },
+            {
+              "type": "example",
+              "title": "Comparing Two Decimals",
+              "text": "Compare 6.456 and 6.465:\n- Units place: 6 = 6 (equal, continue)\n- Tenths place: 4 = 4 (equal, continue)\n- Hundredths place: 5 < 6 (difference found)\n- Therefore, 6.456 < 6.465"
+            },
+            {
+              "type": "example",
+              "title": "Comparing Different Decimal Numbers",
+              "text": "1.23 or 1.32: Compare at tenths → 2 < 3, so 1.23 < 1.32\n3.81 or 13.800: Compare at units → 3 < 13, so 3.81 < 13.800\n1.009 or 1.090: Compare at tenths → 0 = 0, compare hundredths → 0 < 9, so 1.009 < 1.090"
+            }
+          ]
+        },
+        {
+          "topic_name": "Zero in Decimal Numbers and Equivalence",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Zeros at the end of a decimal number (after the decimal point) do not change the value of the number. However, zeros in the middle of a decimal number play a critical role in determining place value."
+            },
+            {
+              "type": "note",
+              "title": "Zero Dilemma",
+              "text": "0.2 = 0.20 = 0.200 (all represent 2 tenths)\nBut 0.2 ≠ 0.02 ≠ 0.002\n\n0.2 is 2 tenths\n0.02 is 2 hundredths (which is 1/5 of 0.2)\n0.002 is 2 thousandths (which is 1/100 of 0.2)"
+            },
+            {
+              "type": "example",
+              "title": "Identifying Equivalent Decimals",
+              "text": "From the list: 4.5, 4.05, 0.405, 4.050, 4.50, 4.005, 04.50\nEquivalent decimals: 4.5 = 4.50 = 04.50\nAll other decimals are different."
+            }
+          ]
+        },
+        {
+          "topic_name": "Finding the Closest Decimal",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To find the decimal number closest to a given number, we arrange related decimals in order and calculate the distance of each from the reference number."
+            },
+            {
+              "type": "example",
+              "title": "Finding the Nearest Decimal to 1",
+              "text": "Consider: 0.9, 1.1, 1.01, and 1.11\nArranging in order: 0.9 < 1 < 1.01 < 1.1 < 1.11\n\nDistance from 1:\n- 0.9 is 0.1 (or 10/100) away from 1\n- 1.01 is 0.01 (or 1/100) away from 1\n- 1.1 is 0.1 away from 1\n\nTherefore, 1.01 is closest to 1."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Decimal",
+      "definition": "A number that includes a decimal point to represent parts of a whole, extending the place value system beyond the ones place."
+    },
+    {
+      "term": "Decimal Point",
+      "definition": "A dot (.) used to separate the units place from the tenths place, marking where whole numbers end and fractional parts begin."
+    },
+    {
+      "term": "Tenths",
+      "definition": "The first place value after the decimal point, representing 1/10 of a unit; ten tenths make one whole."
+    },
+    {
+      "term": "Hundredths",
+      "definition": "The second place value after the decimal point, representing 1/100 of a unit; 10 hundredths make one tenth, and 100 hundredths make one whole."
+    },
+    {
+      "term": "Thousandths",
+      "definition": "The third place value after the decimal point, representing 1/1000 of a unit; 10 thousandths make one hundredth."
+    },
+    {
+      "term": "Place Value",
+      "definition": "The value of a digit based on its position in a number; in the decimal system, each place value is 10 times the place value to its right."
+    },
+    {
+      "term": "Decimal System",
+      "definition": "A number system based on the number 10, where powers of 10 determine place values both for whole numbers and fractions."
+    },
+    {
+      "term": "Equivalent Decimals",
+      "definition": "Different decimal representations that have the same value; for example, 0.5, 0.50, and 0.500 are equivalent."
+    },
+    {
+      "term": "Metric System",
+      "definition": "An international system of measurement based on multiples of 10, including units like meters, centimeters, grams, and kilograms."
+    },
+    {
+      "term": "Conversion",
+      "definition": "The process of changing a measurement from one unit to another, often involving multiplication or division by powers of 10."
+    }
+  ],
+  "summary_points": [
+    "When precise measurements are needed, we divide units into smaller parts. The decimal system divides units into 10 equal tenths, then each tenth into 10 hundredths, and so on.",
+    "A tenth (1/10) is written as 0.1, a hundredth (1/100) as 0.01, a thousandth (1/1000) as 0.001, following the place value principle of the decimal system.",
+    "The decimal point (.) separates whole numbers from fractional parts. The first digit after the decimal point represents tenths, the second represents hundredths, and so on.",
+    "The decimal system is based on powers of 10 because it naturally extends the Indian place value system, where each place value is 10 times smaller than the place value to its left.",
+    "Numbers like 4 and 3/10 can be written in decimal form as 4.3, and 234 tenths can be written as 23.4 by placing the decimal point correctly.",
+    "Zeros at the end of decimal numbers (trailing zeros) do not change the value: 0.2 = 0.20 = 0.200. However, zeros in the middle change the value: 0.2 ≠ 0.02 ≠ 0.002.",
+    "In the metric system, units are related by factors of 10, making decimal conversion straightforward: 1 cm = 10 mm, 1 m = 100 cm, 1 kg = 1000 g.",
+    "Length conversions: 1 mm = 0.1 cm, 1 cm = 0.01 m, 1 mm = 0.001 m; Weight conversions: 1 g = 0.001 kg; Currency conversions: 1 paisa = 0.01 rupee.",
+    "Decimal numbers can be located precisely on a number line by dividing unit intervals into 10 equal parts and using magnification to find positions of numbers with more decimal places.",
+    "To compare decimals, compare corresponding digits starting from the leftmost digit. The first place where digits differ determines which number is larger."
+  ]
+}

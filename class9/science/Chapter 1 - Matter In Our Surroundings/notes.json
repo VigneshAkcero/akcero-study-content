@@ -1,0 +1,484 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Matter In Our Surroundings",
+    "chapter_number": 1
+  },
+  "notes": [
+    {
+      "section_title": "1.1 Physical Nature of Matter",
+      "topics": [
+        {
+          "topic_name": "1.1.1 Matter Is Made Up of Particles",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Everything in the universe that has mass and occupies space is called matter. For a long time, scientists debated whether matter is continuous (like a block of wood — with no gaps) or particulate (made up of tiny, discrete particles like sand). Activities and experiments strongly support the particulate nature of matter."
+            },
+            {
+              "type": "activity",
+              "id": "1.1",
+              "title": "Activity 1.1 — Dissolving Salt/Sugar in Water",
+              "procedure": [
+                "Fill a 100 mL beaker half with water. Mark the water level.",
+                "Dissolve salt or sugar in the water using a glass rod.",
+                "Observe any change in the water level."
+              ],
+              "observation": "The water level does not rise significantly even though solid matter (salt/sugar) was added. The solid seems to 'disappear'.",
+              "conclusion": "The particles of salt/sugar fit into the spaces between the particles of water. This demonstrates that matter is made up of particles with spaces between them — supporting the particulate nature of matter."
+            }
+          ]
+        },
+        {
+          "topic_name": "1.1.2 How Small Are the Particles of Matter?",
+          "content": [
+            {
+              "type": "activity",
+              "id": "1.2",
+              "title": "Activity 1.2 — Serial Dilution of Potassium Permanganate",
+              "procedure": [
+                "Dissolve 2–3 crystals of potassium permanganate in 100 mL of water.",
+                "Take 10 mL of this solution and dilute it in 90 mL of clear water.",
+                "Repeat the dilution 5 to 8 times, each time taking 10 mL and adding to 90 mL of fresh water.",
+                "Observe the colour of the solution at each step."
+              ],
+              "observation": "Even after 5 to 8 dilutions, the water still shows a faint pink/purple colour.",
+              "conclusion": "Just a few crystals of KMnO₄ can colour roughly 1000 L of water. This means one crystal contains millions of tiny particles — the particles of matter are extremely small, beyond our imagination."
+            },
+            {
+              "type": "note",
+              "title": "Alternative: Dettol Dilution",
+              "text": "The same activity can be done using 2 mL of Dettol. Even after repeated dilution, its smell can still be detected — further confirming that matter particles are incredibly tiny."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.2 Characteristics of Particles of Matter",
+      "topics": [
+        {
+          "topic_name": "1.2.1 Particles of Matter Have Space Between Them",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When sugar, salt, Dettol, or potassium permanganate is dissolved in water, the particles of one substance get evenly distributed into the spaces between the particles of water. Similarly, when tea, coffee, or lemonade is made, particles of one substance fill the interparticle spaces of another. This demonstrates that there is empty space between particles of matter."
+            }
+          ]
+        },
+        {
+          "topic_name": "1.2.2 Particles of Matter Are Continuously Moving",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Particles of matter are never at rest — they are always in continuous random motion. This motion gives them kinetic energy. As temperature increases, the kinetic energy of particles increases, causing them to move faster."
+            },
+            {
+              "type": "activity",
+              "id": "1.3",
+              "title": "Activity 1.3 — Ink Drop in Water",
+              "procedure": [
+                "Take two glasses of water.",
+                "Slowly add a drop of blue or red ink along the sides of glass 1, and honey in glass 2.",
+                "Leave both undisturbed and observe over several hours or days."
+              ],
+              "observation": "The ink drop gradually spreads and distributes evenly throughout the water. Honey, being denser and more viscous, takes much longer.",
+              "conclusion": "Particles of ink move continuously and intermix with water particles on their own — demonstrating continuous particle motion."
+            },
+            {
+              "type": "activity",
+              "id": "1.4–1.5",
+              "title": "Activity 1.4–1.5 — Copper Sulphate in Hot and Cold Water",
+              "procedure": [
+                "Drop one crystal of copper sulphate or potassium permanganate into a glass of hot water and another into a glass of cold water.",
+                "Do NOT stir. Allow the crystals to settle.",
+                "Observe the colour spreading above the crystal over time."
+              ],
+              "observation": "The colour spreads faster and more readily in hot water than in cold water.",
+              "conclusion": "Increasing temperature increases the kinetic energy of particles, causing faster movement and faster mixing (diffusion)."
+            },
+            {
+              "type": "note",
+              "title": "Diffusion",
+              "text": "The intermixing of particles of two different types of matter on their own is called diffusion. Diffusion becomes faster with increased temperature because higher temperature → more kinetic energy → faster particle movement. Diffusion rate: gases > liquids > solids."
+            }
+          ]
+        },
+        {
+          "topic_name": "1.2.3 Particles of Matter Attract Each Other",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "There is a force of attraction between particles of matter that holds them together. The strength of this force varies from one substance to another — it is strongest in solids and weakest in gases."
+            },
+            {
+              "type": "activity",
+              "id": "1.6",
+              "title": "Activity 1.6 — Human Chain Game",
+              "procedure": [
+                "Form four groups: Group 1 locks arms (tightest hold), Group 2 holds hands, Group 3 touches only fingertips, Group 4 tries to break all chains."
+              ],
+              "conclusion": "Group 1 is hardest to break — representing particles with the strongest attraction (like solids). Group 3 is easiest — representing weakly attracting particles (like gases)."
+            },
+            {
+              "type": "activity",
+              "id": "1.7–1.8",
+              "title": "Activity 1.7–1.8 — Iron Nail, Chalk, Rubber Band and Water",
+              "procedure": [
+                "Try to break or deform an iron nail, chalk piece, and rubber band.",
+                "Try to cut the surface of water with your fingers."
+              ],
+              "conclusion": "The iron nail is hardest to break — its particles are held together with the greatest force. Water cannot be easily cut because its particles attract each other strongly despite being in liquid state."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.3 States of Matter",
+      "topics": [
+        {
+          "topic_name": "1.3.1 The Solid State",
+          "content": [
+            {
+              "type": "activity",
+              "id": "1.9",
+              "title": "Activity 1.9 — Observing Properties of Solids",
+              "procedure": [
+                "Collect a pen, book, needle, and wooden stick.",
+                "Sketch their shapes. Try hammering, pulling, dropping them.",
+                "Try to compress them by applying force."
+              ],
+              "observation": "All have definite shape, distinct boundaries, and fixed volume. They resist compression and maintain shape under force.",
+              "conclusion": "These are solids — they are rigid and have negligible compressibility."
+            },
+            {
+              "type": "list",
+              "title": "Properties of Solids",
+              "items": [
+                "Definite shape and definite volume.",
+                "Rigid — tend to maintain their shape when force is applied; break rather than flow.",
+                "Negligible compressibility.",
+                "Strong intermolecular forces of attraction — particles are tightly packed.",
+                "Particles vibrate about fixed positions but do not move freely.",
+                "Very low (negligible) diffusion rate.",
+                "High density."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Note on Special Cases",
+              "text": "• A rubber band: changes shape under force and regains it — it is still a solid.\n• Sugar/salt: when placed in different jars they take the jar's shape — but each individual crystal has a fixed shape (they are solids).\n• Sponge: has minute holes filled with air; we compress the air, not the sponge material — it is still a solid."
+            }
+          ]
+        },
+        {
+          "topic_name": "1.3.2 The Liquid State",
+          "content": [
+            {
+              "type": "activity",
+              "id": "1.10",
+              "title": "Activity 1.10 — Observing Properties of Liquids",
+              "procedure": [
+                "Take 50 mL each of water, cooking oil, milk, juice, and cold drink.",
+                "Transfer each liquid into different shaped containers.",
+                "Observe whether volume and shape change."
+              ],
+              "observation": "Volume remains fixed at 50 mL in every container, but shape changes to match the container.",
+              "conclusion": "Liquids have fixed volume but no fixed shape. They flow easily — they are fluids."
+            },
+            {
+              "type": "list",
+              "title": "Properties of Liquids",
+              "items": [
+                "No fixed shape — take the shape of the container.",
+                "Fixed volume.",
+                "Can flow — are called fluids.",
+                "Moderate intermolecular forces of attraction — less than solids.",
+                "Particles move freely and slide over each other.",
+                "Moderate diffusion rate — higher than solids.",
+                "Can dissolve solids, and gases can dissolve in them.",
+                "Moderate density — generally lower than solids."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Dissolved oxygen and carbon dioxide in water are essential for the survival of aquatic animals and plants. This is possible because gases can diffuse and dissolve in liquids."
+            }
+          ]
+        },
+        {
+          "topic_name": "1.3.3 The Gaseous State",
+          "content": [
+            {
+              "type": "activity",
+              "id": "1.11",
+              "title": "Activity 1.11 — Comparing Compressibility of Solid, Liquid, and Gas",
+              "procedure": [
+                "Take three 100 mL syringes closed with rubber corks.",
+                "Keep one empty (air), fill second with water, third with chalk pieces.",
+                "Apply vaseline to pistons and insert; push the piston in each syringe."
+              ],
+              "observation": "The air syringe compresses easily. The water syringe barely compresses. The chalk syringe does not compress at all.",
+              "conclusion": "Gases are highly compressible; liquids have very low compressibility; solids have negligible compressibility."
+            },
+            {
+              "type": "list",
+              "title": "Properties of Gases",
+              "items": [
+                "No fixed shape — fill any container completely.",
+                "No fixed volume.",
+                "Highly compressible — large volumes of gas can be compressed into small cylinders (LPG, CNG, oxygen cylinders).",
+                "Very weak (negligible) intermolecular forces of attraction.",
+                "Particles move randomly at very high speed in all directions.",
+                "Exert pressure on walls of container due to the force of the randomly moving particles hitting the walls per unit area.",
+                "Very high diffusion rate — gases mix rapidly with other gases.",
+                "Very low density."
+              ]
+            },
+            {
+              "type": "table",
+              "headers": ["Property", "Solid", "Liquid", "Gas"],
+              "rows": [
+                ["Shape", "Definite", "No fixed shape (takes container shape)", "No fixed shape (fills container)"],
+                ["Volume", "Definite", "Definite", "No fixed volume"],
+                ["Compressibility", "Negligible", "Very low", "High"],
+                ["Intermolecular Force", "Maximum", "Intermediate", "Minimum"],
+                ["Interparticle Space", "Minimum", "Intermediate", "Maximum"],
+                ["Kinetic Energy", "Minimum (vibrate in place)", "Intermediate (slide over each other)", "Maximum (random, fast motion)"],
+                ["Diffusion", "Negligible", "Moderate", "Very fast"],
+                ["Density", "High", "Moderate", "Very low"],
+                ["Rigidity/Fluidity", "Rigid", "Fluid", "Highly fluid"],
+                ["Particle Arrangement", "Most ordered (fixed positions)", "Layers can slip and slide", "No order (completely random)"]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.4 Can Matter Change Its State?",
+      "topics": [
+        {
+          "topic_name": "1.4.1 Effect of Change of Temperature",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Water exists in three states: solid (ice), liquid (water), and gas (water vapour). Changes in state occur when temperature changes, because the kinetic energy of particles changes."
+            },
+            {
+              "type": "activity",
+              "id": "1.12",
+              "title": "Activity 1.12 — Heating Ice and Plotting Temperature Changes",
+              "procedure": [
+                "Take ~150 g of ice in a beaker. Suspend a thermometer with its bulb in contact with ice.",
+                "Heat slowly on a low flame. Note the temperature when ice starts melting.",
+                "Note temperature when all ice has converted to water.",
+                "Continue heating water till it boils. Record temperature throughout."
+              ],
+              "observation": "Temperature remains constant at 0°C (273 K) while ice melts. Then rises until 100°C (373 K) when water boils. Temperature remains constant at 100°C while water converts to steam.",
+              "conclusion": "Temperature stays constant during change of state — the heat supplied goes into breaking/overcoming the forces of attraction (latent heat) rather than raising temperature."
+            },
+            {
+              "type": "note",
+              "title": "Melting and Melting Point",
+              "text": "Melting: The change of solid state into liquid state on application of heat. Also called: Fusion.\nMelting point: The minimum temperature at which a solid melts to become a liquid at atmospheric pressure.\nMelting point of ice = 273.15 K (0°C).\nThe melting point reflects the strength of intermolecular forces — a higher melting point means stronger forces of attraction between particles."
+            },
+            {
+              "type": "note",
+              "title": "Latent Heat of Fusion",
+              "text": "When a solid melts, the temperature does NOT rise even though heat continues to be supplied. This heat goes into breaking the forces of attraction between particles. Since the heat is 'hidden' (not shown as temperature rise), it is called latent heat (latent = hidden).\nLatent heat of fusion: The amount of heat energy required to change 1 kg of a solid into liquid at its melting point at atmospheric pressure.\nNote: Particles in water at 0°C (273 K) have MORE energy than particles in ice at the same temperature, because water has absorbed the latent heat of fusion."
+            },
+            {
+              "type": "note",
+              "title": "Boiling and Boiling Point",
+              "text": "Boiling: When liquid is heated further, particles gain enough energy to break free from all forces of attraction and escape as gas from the body (bulk) of the liquid. This is a BULK phenomenon.\nBoiling point of water = 373 K (100°C).\nLatent heat of vaporisation: The heat energy required to change 1 kg of a liquid to gas at atmospheric pressure at its boiling point.\nParticles in steam (water vapour) at 373 K have MORE energy than particles in water at the same temperature, because steam has absorbed the latent heat of vaporisation.\nThis is why steam causes more severe burns than boiling water at the same temperature."
+            },
+            {
+              "type": "note",
+              "title": "Sublimation and Deposition",
+              "text": "Sublimation: The change of state directly from solid to gas WITHOUT passing through the liquid state. Example: camphor, naphthalene balls (mothballs), dry ice (solid CO₂).\nDeposition: The reverse — direct change of gas to solid WITHOUT passing through liquid state.\nDry ice (solid CO₂): Stored under high pressure. At 1 atmospheric pressure, it directly converts to gaseous CO₂ — it does NOT melt into liquid CO₂."
+            },
+            {
+              "type": "activity",
+              "id": "1.13",
+              "title": "Activity 1.13 — Sublimation of Camphor",
+              "procedure": [
+                "Crush some camphor and place it in a china dish.",
+                "Place an inverted funnel over it with a cotton plug at the stem.",
+                "Heat slowly and observe."
+              ],
+              "observation": "Camphor disappears from the china dish and appears as solid crystals on the cooler parts of the funnel lid — it has gone directly from solid to gas (sublimation) and back to solid (deposition) on the cooler funnel surface.",
+              "conclusion": "Some substances can change directly from solid to gaseous state — this is sublimation."
+            }
+          ]
+        },
+        {
+          "topic_name": "1.4.2 Effect of Change of Pressure",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The state of matter depends on both temperature AND pressure. Applying pressure compresses a gas, bringing particles closer — this can cause the gas to change state to liquid."
+            },
+            {
+              "type": "list",
+              "title": "Key Points on Pressure and State",
+              "items": [
+                "Applying pressure AND reducing temperature can liquefy gases.",
+                "LPG (liquefied petroleum gas) in cylinders is gas compressed under high pressure to liquid.",
+                "CNG (compressed natural gas) is a gas compressed under high pressure, used as vehicle fuel.",
+                "Solid CO₂ (dry ice) is stored under high pressure; when pressure is reduced to 1 atm, it directly converts to gas (sublimation) — it does NOT become liquid.",
+                "Both temperature and pressure together determine the state of a substance."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.5 Evaporation",
+      "topics": [
+        {
+          "topic_name": "Definition and Nature of Evaporation",
+          "content": [
+            {
+              "type": "note",
+              "title": "Evaporation",
+              "text": "Evaporation is the change of liquid into vapour at any temperature BELOW its boiling point. This is a SURFACE phenomenon — only particles at the surface of the liquid that have higher kinetic energy (enough to overcome forces of attraction) escape into the vapour state.\nKey difference from boiling:\n• Evaporation: Surface phenomenon, occurs at any temperature below boiling point, slow process.\n• Boiling: Bulk phenomenon, occurs at the boiling point, rapid process."
+            },
+            {
+              "type": "paragraph",
+              "text": "In any liquid at a given temperature, not all particles have the same kinetic energy — there is a distribution. A small fraction of surface particles always has high enough energy to escape into vapour. Over time, these particles leave, and the liquid slowly converts to vapour."
+            }
+          ]
+        },
+        {
+          "topic_name": "1.5.1 Factors Affecting Evaporation",
+          "content": [
+            {
+              "type": "activity",
+              "id": "1.14",
+              "title": "Activity 1.14 — Testing Factors Affecting Evaporation",
+              "procedure": [
+                "5 mL water in a test tube near a window/fan.",
+                "5 mL water in an open china dish near a window/fan.",
+                "5 mL water in an open china dish inside a cupboard.",
+                "Record time taken for evaporation in each case."
+              ],
+              "observation": "The china dish near a window/fan evaporates fastest. The test tube is slower. The cupboard (still air, covered) is slowest.",
+              "conclusion": "Evaporation rate depends on surface area, wind speed, temperature, and humidity."
+            },
+            {
+              "type": "list",
+              "title": "Factors That Increase the Rate of Evaporation",
+              "items": [
+                "Increased surface area: Evaporation is a surface phenomenon — larger surface area → more particles at the surface → faster evaporation. (Example: clothes are spread out for drying.)",
+                "Increased temperature: More particles gain sufficient kinetic energy to escape. (Example: clothes dry faster on a sunny day.)",
+                "Decreased humidity: Humidity = amount of water vapour in air. If air already contains lots of water vapour, it cannot hold much more → rate of evaporation decreases. Low humidity → faster evaporation. (Example: desert coolers work better in dry weather.)",
+                "Increased wind speed: Wind carries away evaporated water vapour, reducing the amount of vapour above the liquid surface → more evaporation can occur. (Example: clothes dry faster on windy days.)"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "1.5.2 How Does Evaporation Cause Cooling?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "During evaporation, particles at the surface absorb energy (equal to the latent heat of vaporisation) from the surrounding liquid or the environment to escape into the vapour state. This absorption of energy lowers the temperature of the remaining liquid and the surroundings — causing a cooling effect."
+            },
+            {
+              "type": "list",
+              "title": "Examples of Cooling by Evaporation",
+              "items": [
+                "Acetone (nail polish remover) poured on the palm: acetone evaporates rapidly, absorbing heat from the palm → palm feels cool.",
+                "Sprinkling water on roof/ground on a hot day: water evaporates using latent heat, cooling the surface.",
+                "An earthen pot (matka) keeps water cool: the porous clay allows slow evaporation of water through its walls, absorbing heat from the remaining water.",
+                "Cotton clothes in summer: cotton absorbs perspiration and exposes it to air for evaporation. The heat absorbed during evaporation (latent heat of vaporisation) comes from the body, keeping it cool.",
+                "Water droplets on outside of ice-cold tumbler: water vapour in air loses energy on contact with the cold surface and condenses into liquid droplets (the reverse of evaporation — condensation)."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Why We Wear Cotton in Summer",
+              "text": "The body perspires to cool itself. Cotton is a good absorber of water — it absorbs sweat and spreads it over a large surface area, exposing it to air. The sweat then evaporates, taking with it the latent heat of vaporisation from the body. This heat loss from the body surface produces a cooling effect. Synthetic fabrics do not absorb sweat well, so they are uncomfortable in summer."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Matter",
+      "definition": "Anything that has mass and occupies space. Everything around us — air, water, stones, food, living organisms — is matter."
+    },
+    {
+      "term": "Diffusion",
+      "definition": "The spontaneous intermixing of particles of two different substances due to the random motion of particles. Rate: gases > liquids > solids. Increases with temperature."
+    },
+    {
+      "term": "Kinetic Energy",
+      "definition": "The energy possessed by particles due to their continuous motion. Increases with temperature — at higher temperatures, particles move faster."
+    },
+    {
+      "term": "Melting (Fusion)",
+      "definition": "The change of state from solid to liquid on application of heat. Occurs at the melting point."
+    },
+    {
+      "term": "Melting Point",
+      "definition": "The minimum temperature at which a solid converts into liquid at atmospheric pressure. Indicates the strength of intermolecular forces — higher melting point = stronger forces. Melting point of ice = 273.15 K (0°C)."
+    },
+    {
+      "term": "Latent Heat of Fusion",
+      "definition": "The heat energy required to change 1 kg of a solid into liquid at its melting point at atmospheric pressure, without any change in temperature. The word 'latent' means 'hidden'."
+    },
+    {
+      "term": "Boiling Point",
+      "definition": "The temperature at which a liquid starts boiling at atmospheric pressure. Boiling point of water = 373 K (100°C). Boiling is a bulk phenomenon."
+    },
+    {
+      "term": "Latent Heat of Vaporisation",
+      "definition": "The heat energy required to change 1 kg of liquid into gas at its boiling point at atmospheric pressure, without any rise in temperature. Particles in steam at 373 K have more energy than water at the same temperature."
+    },
+    {
+      "term": "Sublimation",
+      "definition": "The direct change of state from solid to gas without passing through the liquid state. Examples: camphor, naphthalene balls, dry ice (solid CO₂)."
+    },
+    {
+      "term": "Deposition",
+      "definition": "The direct change of state from gas to solid without passing through the liquid state. It is the reverse of sublimation."
+    },
+    {
+      "term": "Evaporation",
+      "definition": "The change of liquid into vapour at any temperature below its boiling point. It is a surface phenomenon — only high-energy particles at the surface escape. Causes cooling of the surroundings."
+    },
+    {
+      "term": "Humidity",
+      "definition": "The amount of water vapour present in the air. High humidity reduces the rate of evaporation because air already contains a large amount of water vapour and cannot hold much more."
+    },
+    {
+      "term": "Dry Ice",
+      "definition": "Solid carbon dioxide (CO₂) stored under high pressure. At 1 atmospheric pressure, it directly sublimes to gaseous CO₂ without passing through the liquid state."
+    },
+    {
+      "term": "Latent Heat",
+      "definition": "Heat energy absorbed or released during a change of state at constant temperature. Called 'latent' (hidden) because it does not cause a temperature change — it is used to overcome forces of attraction between particles."
+    }
+  ],
+  "summary_points": [
+    "Matter is anything that has mass and occupies space. It is made up of tiny particles — this is confirmed by the dissolution of salt in water (Activity 1.1) and the serial dilution of KMnO₄ (Activity 1.2), where millions of particles from a few crystals colour 1000 L of water.",
+    "Three key characteristics of particles of matter: (1) they have spaces between them, (2) they are in continuous random motion (possessing kinetic energy, which increases with temperature), and (3) they attract each other with a force that varies between substances.",
+    "Diffusion is the spontaneous intermixing of particles of different substances due to random particle motion. Diffusion rate increases with temperature and follows the order: gases > liquids > solids.",
+    "Matter exists in three states — solid, liquid, and gas — due to differences in intermolecular forces, interparticle spaces, and kinetic energy. Solids: maximum forces, minimum spaces, fixed shape and volume. Liquids: intermediate forces and spaces, fixed volume but no fixed shape. Gases: minimum forces, maximum spaces, no fixed shape or volume.",
+    "Gases are highly compressible because of the large spaces between their particles. This allows large volumes of gas to be stored in small cylinders (LPG, CNG, oxygen cylinders).",
+    "The state of matter can be changed by changing temperature. On heating: solid → liquid (melting/fusion) → gas (boiling/vaporisation). On cooling: gas → liquid (condensation) → solid (freezing).",
+    "During change of state, temperature remains constant even though heat is continuously supplied. This heat is called latent heat — it overcomes intermolecular forces rather than raising temperature. Latent heat of fusion = heat to melt 1 kg solid at melting point; latent heat of vaporisation = heat to vaporise 1 kg liquid at boiling point.",
+    "Steam burns more severely than boiling water at 100°C because steam releases additional latent heat of vaporisation (540 cal/g) on condensing, in addition to the heat of the liquid water cooling from 100°C.",
+    "Sublimation is the direct conversion of solid to gas (e.g., camphor, naphthalene, dry ice); deposition is the reverse. Both occur without passing through the liquid state.",
+    "The state of matter depends on both temperature AND pressure. Applying pressure brings particles closer — gases can be liquefied by applying pressure and lowering temperature. Solid CO₂ (dry ice) sublimes directly at 1 atm without liquefying.",
+    "Evaporation is a surface phenomenon — only high-energy particles at the liquid surface escape into vapour at any temperature below the boiling point. Rate increases with: greater surface area, higher temperature, lower humidity, and higher wind speed.",
+    "Evaporation causes cooling because evaporating particles absorb latent heat from the surroundings or body surface. Applications: cotton clothes in summer (absorb and evaporate sweat), desert coolers (work best in dry weather), earthen pots (cool water through wall evaporation), acetone on palm (feels cold)."
+  ]
+}

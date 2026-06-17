@@ -1,0 +1,25 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Lines and Angles",
+    "chapter_number": 2
+  },
+  "flashcards": [
+    { "q": "What determines a precise location in geometry?", "a": "A point." },
+    { "q": "What is the shortest path between two points?", "a": "A line segment." },
+    { "q": "What is a line?", "a": "A line segment extended indefinitely in both directions." },
+    { "q": "What is a ray?", "a": "A portion of a line that has a starting point and goes on endlessly in one direction." },
+    { "q": "What is an angle formed by?", "a": "Two rays with a common starting point (vertex)." },
+    { "q": "What is the measure of a straight angle?", "a": "$180^\\circ$ (a half turn)." },
+    { "q": "What is the degree measure of a right angle?", "a": "$90^\\circ$ (a quarter turn)." },
+    { "q": "Define an acute angle.", "a": "An angle smaller than a right angle ($< 90^\\circ$)." },
+    { "q": "Define an obtuse angle.", "a": "An angle greater than $90^\\circ$ but less than $180^\\circ$." },
+    { "q": "What is a reflex angle?", "a": "An angle greater than $180^\\circ$ but less than $360^\\circ$." },
+    { "q": "What are perpendicular lines?", "a": "Two lines that meet at right angles ($90^\\circ$)." },
+    { "q": "In naming $\\angle XYZ$, which letter represents the vertex?", "a": "Y (the middle letter)." },
+    { "q": "What is an angle bisector?", "a": "A line that divides a given angle into two equal parts." },
+    { "q": "What is the angle between the hands of a clock at 2 o'clock?", "a": "$60^\\circ$ ($2 \\times 30^\\circ$)." },
+    { "q": "How many degrees are in a full rotation?", "a": "$360^\\circ$." }
+  ]
+}

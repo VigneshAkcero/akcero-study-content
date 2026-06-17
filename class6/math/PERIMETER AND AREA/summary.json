@@ -1,0 +1,42 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Perimeter and Area",
+    "chapter_number": 6
+  },
+  "summary": [
+    {
+      "category": "Concepts of Perimeter",
+      "points": [
+        "Perimeter is the total distance covered along the outer boundary of a closed plane figure.",
+        "For a rectangle, the formula is $2 \\times (\\text{length} + \\text{breadth})$. For a square, it is $4 \\times \\text{length of a side}$.",
+        "The perimeter of any regular polygon is the number of sides multiplied by the length of one side (e.g., $3 \\times \\text{side}$ for an equilateral triangle)."
+      ]
+    },
+    {
+      "category": "Concepts of Area",
+      "points": [
+        "Area is the amount of surface region enclosed within a closed figure, generally measured in square units.",
+        "The area of a rectangle is $\\text{length} \\times \\text{breadth}$, and the area of a square is $\\text{side} \\times \\text{side}$.",
+        "Area of irregular shapes can be estimated using grid paper by counting full squares, ignoring small fragments, and rounding larger ones."
+      ]
+    },
+    {
+      "category": "Key Geometric Relationships",
+      "points": [
+        "A rectangle can be divided by a diagonal into two equal triangles, each having half the area of the rectangle.",
+        "Shapes with the same area can have different perimeters (e.g., 9 unit squares can form perimeters ranging from 12 to 20 units).",
+        "Two figures can have the same perimeter but enclose different amounts of area depending on their specific dimensions."
+      ]
+    },
+    {
+      "category": "Practical Applications",
+      "points": [
+        "Perimeter is used in real-life tasks like finding the length of lace for a cloth or the distance covered when running around a park.",
+        "Area concepts are applied in tiling floors, carpeting rooms, or determining the number of trees that can be planted in a grove.",
+        "Complex problems often involve finding the 'remaining area' by subtracting one shape's area from another (e.g., a carpet on a floor)."
+      ]
+    }
+  ]
+}

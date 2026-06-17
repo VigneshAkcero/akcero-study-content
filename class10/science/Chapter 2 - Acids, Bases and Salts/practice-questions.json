@@ -1,0 +1,101 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Acids, Bases and Salts",
+    "chapter_number": 2
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What observable change happens when blue litmus paper is dipped into an acidic solution?",
+      "answer": "The blue litmus paper changes colour to red.",
+      "solution": "Acids possess chemical properties that interact with litmus, a natural lichen dye, causing its blue pigment to turn physically red."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Which specific chemical ion is fundamentally responsible for the acidic character of all aqueous acidic solutions?",
+      "answer": "The hydrogen ion (H⁺), which exists in water as the hydronium ion (H₃O⁺).",
+      "solution": "Acids dissociate in water to produce free hydrogen ions. Because naked H⁺ ions cannot exist alone, they combine instantly with water molecules to form H₃O⁺ ions, giving the solution its acidic nature."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What is an olfactory indicator?",
+      "answer": "A substance whose distinct natural odour changes depending on whether it is placed in an acidic or a basic medium.",
+      "solution": "Unlike visual indicators like litmus or turmeric which change colour, olfactory indicators like chopped onion or vanilla essence signal the presence of acids or bases by changing their smell."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What gas is typically evolved when a reactive metal connects directly with a dilute acid?",
+      "answer": "Hydrogen gas (H₂).",
+      "solution": "Reactive metals successfully displace hydrogen atoms from the acid compound. For example, zinc reacts with sulphuric acid to form zinc sulphate salt and freely escaping hydrogen gas bubbles."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "State the standard universally accepted pH value that chemically indicates a perfectly neutral solution.",
+      "answer": "Exactly 7.",
+      "solution": "On the universal pH scale, representing hydrogen ion concentration, a precise value of 7 means the solution is neutral (neither acidic nor basic), like pure distilled water."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "When a strong acid reacts chemically with a highly reactive metal carbonate, what three distinct products are always formed?",
+      "answer": "A corresponding salt, liquid water, and carbon dioxide gas.",
+      "solution": "Acids decompose metal carbonates. The chemical structural breakdown consistently yields a metallic salt, releases H₂O, and liberates CO₂ gas, which famously turns lime water milky."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "Why are non-metallic oxides traditionally classified as 'acidic oxides' in chemistry?",
+      "answer": "Because they naturally react directly with bases to yield a salt and water, closely mimicking the typical neutralisation behaviour of dedicated acids.",
+      "solution": "For example, non-metallic carbon dioxide (CO₂) reacts with basic calcium hydroxide to form calcium carbonate salt and water. This parallel to acid-base neutralisation confirms their acidic nature."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "Explain cleanly why dry HCl gas universally fails to alter the colour of dry blue litmus paper.",
+      "answer": "The physical separation of active H⁺ ions from the HCl molecule strictly requires the presence of water.",
+      "solution": "Without liquid water to facilitate dissociation, dry HCl gas remains completely molecular and cannot generate the free hydrogen ions necessary to structurally interact with and alter the dry litmus dye."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Describe the thermal dilution process and explain why a concentrated acid must be safely added to water rather than the reverse.",
+      "answer": "Dilution is highly exothermic. Pouring water directly into concentrated acid violently generates sudden massive heat, throwing the boiling, corrosive liquid outward.",
+      "solution": "Adding water to concentrated acid creates intense, instant localized heating that can easily shatter glass containers or cause severe acid burns due to splashing. Slowly adding acid into a large body of water dissipates this dangerous heat safely."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Why specifically is baking soda (sodium hydrogencarbonate) effectively used worldwide as an antacid medicine?",
+      "answer": "It predictably functions as a mild, non-corrosive basic salt chemically capable of successfully neutralizing painful excess hydrochloric acid in the stomach.",
+      "solution": "During severe indigestion, the stomach overproduces harsh acids causing deep irritation. Ingesting mildly alkaline baking soda initiates a safe internal neutralisation reaction, converting the harmful excess acid into harmless salt and water, providing rapid relief."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Hard",
+      "question": "Suppose three identical test tubes contain distilled water, an acidic solution, and a basic solution. If you possess only one strip of red litmus paper, analytically detail your step-by-step strategy to explicitly identify the exact contents of all three tubes.",
+      "answer": "Dip the red litmus into all three tubes. The one turning it blue holds the base. Safely extract this newly blue litmus and dip it into the two remaining tubes. The acidic solution will turn it back to red. The unreactive tube holds neutral distilled water.",
+      "solution": "Red litmus solely indicates bases by turning blue. Once converted to blue litmus, it can now successfully test for acids by returning strictly to red. The neutral distilled water will uniquely never alter the colour of either red or blue litmus."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Hard",
+      "question": "A milkman cautiously adds a very small, precisely measured amount of basic baking soda exclusively into a container of fresh milk. Explain why he identically shifts the pH of the milk toward a slightly alkaline state, and analyze why this specific milk takes much longer to firmly set into solid curd.",
+      "answer": "The basic baking soda raises the milk's pH, neutralizing natural lactic acid to prevent quick souring. It takes longer to set into curd because the naturally developing curd-forming bacteria must first expend time neutralizing this added artificial alkalinity.",
+      "solution": "In hot climates, milk naturally sours quickly as bacteria form lactic acid mapping a drop in pH. Adding an alkaline buffer artificially delays this drop. To successfully coagulate milk into solid curd, a highly acidic environment is strictly required; the bacteria must now work significantly harder to overcome the added base before coagulation can effectively begin."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "Predict structurally and analytically explain what uniquely occurs when solid gypsum is heavily and uniformly heated to exactly 373 K.",
+      "answer": "Applying 373 K heat forces the gypsum (CaSO₄·2H₂O) to securely lose 1.5 internal molecules of water of crystallisation, chemically transforming into calcium sulphate hemihydrate (CaSO₄·½H₂O), medically known as Plaster of Paris.",
+      "solution": "The heat thermally drives off most of the tightly bound structural water molecules nested inside the gypsum crystal lattice. The resulting hemihydrate powder possesses the unique property of rapidly absorbing water back into its structure, instantly hardening back into a solid gypsum block, perfectly ideal for casting fractured bones."
+    }
+  ]
+}

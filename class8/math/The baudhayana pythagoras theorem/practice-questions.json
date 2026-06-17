@@ -1,0 +1,255 @@
+{
+  "chapter_info": {
+    "class": 8,
+    "subject": "Mathematics",
+    "chapter_name": "The Baudhayana-Pythagoras Theorem",
+    "chapter_number": 2
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "In an isosceles right triangle with legs of length 5 cm each, find the hypotenuse.",
+      "answer": "5√2 cm ≈ 7.07 cm",
+      "solution": "For an isosceles right triangle with legs a = b = 5, the hypotenuse c = a√2 = 5√2 cm. Using approximation √2 ≈ 1.414, we get c ≈ 5 × 1.414 = 7.07 cm."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Check if (5, 12, 13) is a Pythagorean triple.",
+      "answer": "Yes, it is a Pythagorean triple because 5² + 12² = 13²",
+      "solution": "Verify: 5² + 12² = 25 + 144 = 169 = 13². Since the equation a² + b² = c² is satisfied, (5, 12, 13) is a Pythagorean triple."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Find the hypotenuse of a right triangle with legs 3 cm and 4 cm.",
+      "answer": "5 cm",
+      "solution": "Using the Baudhayana-Pythagoras theorem: c² = a² + b² = 3² + 4² = 9 + 16 = 25, so c = 5 cm."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "State whether √2 can be expressed as a fraction m/n where m and n are integers.",
+      "answer": "No, √2 cannot be expressed as a fraction of integers",
+      "solution": "√2 is irrational. If √2 = m/n, then 2n² = m². In prime factorization, 2 appears odd times on left and even times on right, contradiction. Therefore, √2 is irrational and cannot be expressed as m/n."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Find bounds for √2 with one decimal place accuracy.",
+      "answer": "1.4 < √2 < 1.5",
+      "solution": "Calculate: 1.4² = 1.96 < 2 and 1.5² = 2.25 > 2. Therefore, 1.4 < √2 < 1.5."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Find the third side of a right triangle if two sides are 6 cm and 8 cm.",
+      "answer": "10 cm (if these are the legs) or √28 ≈ 5.29 cm (if 6 cm is the hypotenuse)",
+      "solution": "If 6 and 8 are legs: c² = 36 + 64 = 100, so c = 10 cm. If 8 is the hypotenuse and 6 is a leg: b² = 64 - 36 = 28, so b = √28 ≈ 5.29 cm."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Is (6, 8, 10) a Pythagorean triple? Name its primitive form.",
+      "answer": "Yes, (6, 8, 10) is a Pythagorean triple. Its primitive form is (3, 4, 5)",
+      "solution": "Check: 6² + 8² = 36 + 64 = 100 = 10². Yes, it's a triple. Since 6, 8, 10 are all divisible by 2, dividing by 2 gives (3, 4, 5), which is primitive."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What is the diagonal of a square with side length 4 cm?",
+      "answer": "4√2 cm ≈ 5.66 cm",
+      "solution": "The diagonal of a square with side a is a√2. For a = 4, diagonal = 4√2 ≈ 4 × 1.414 = 5.66 cm."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Find two Pythagorean triples that are scaled versions of (3, 4, 5).",
+      "answer": "(6, 8, 10) with k=2 and (9, 12, 15) with k=3 (or any scaled version with k being a positive integer)",
+      "solution": "Scaling property: if (a, b, c) is a Pythagorean triple, then (ka, kb, kc) is also a triple. For (3, 4, 5): k=2 gives (6, 8, 10), k=3 gives (9, 12, 15). Both satisfy a² + b² = c²."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "The hypotenuse of a right triangle is 13 cm and one leg is 5 cm. Find the other leg.",
+      "answer": "12 cm",
+      "solution": "Using a² + b² = c²: 5² + b² = 13². So 25 + b² = 169, giving b² = 144, and b = 12 cm. The triple (5, 12, 13) is verified."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Find the diagonal of a rectangle with length 12 cm and width 5 cm.",
+      "answer": "13 cm",
+      "solution": "The diagonal d satisfies d² = l² + w² = 12² + 5² = 144 + 25 = 169, so d = 13 cm."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "A ladder leaning against a wall reaches 12 m up the wall and is 5 m away from the base. Find the ladder's length.",
+      "answer": "13 m",
+      "solution": "The ladder, wall, and ground form a right triangle with legs 12 m and 5 m. Using c² = 12² + 5² = 144 + 25 = 169, the ladder length c = 13 m."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Find tighter bounds for √2 with two decimal places accuracy.",
+      "answer": "1.41 < √2 < 1.42",
+      "solution": "Calculate: 1.41² = 1.9881 < 2 and 1.42² = 2.0164 > 2. Therefore, 1.41 < √2 < 1.42."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Generate a Pythagorean triple using the formula (n-1)² + (2n-1) = n² where 2n-1 = 9.",
+      "answer": "The triple is (3, 4, 5)",
+      "solution": "If 2n-1 = 9, then n = 5. Using the formula: (5-1)² + 9 = 16 + 9 = 25 = 5². So the triple is (4, 3, 5) or (3, 4, 5)."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Is (7, 24, 25) a Pythagorean triple? Verify using the theorem.",
+      "answer": "Yes, (7, 24, 25) is a Pythagorean triple",
+      "solution": "Check: 7² + 24² = 49 + 576 = 625 = 25². The theorem a² + b² = c² is satisfied, confirming it is a Pythagorean triple."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Find the side of a rhombus whose diagonals are 6 cm and 8 cm and bisect each other at right angles.",
+      "answer": "5 cm",
+      "solution": "In a rhombus, diagonals bisect each other at right angles, creating four congruent right triangles. Each triangle has legs 3 cm and 4 cm. Using c² = 3² + 4² = 9 + 16 = 25, the side c = 5 cm."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "If a square has area 2 square units, what is its side length?",
+      "answer": "√2 units",
+      "solution": "If a square has side length s, its area is s². Given area = 2, we have s² = 2, so s = √2 units. This relates to doubling a square by constructing on its diagonal."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Prove that (8, 15, 17) is a primitive Pythagorean triple.",
+      "answer": "The triple is primitive because gcd(8, 15, 17) = 1, and 8² + 15² = 17²",
+      "solution": "Verify the equation: 8² + 15² = 64 + 225 = 289 = 17². Check primality: 8, 15, 17 have no common factor > 1. Therefore, (8, 15, 17) is a primitive Pythagorean triple."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "A right triangle has hypotenuse 10 cm. If one leg is 6 cm, find the other leg and verify it satisfies the theorem.",
+      "answer": "The other leg is 8 cm. Verification: 6² + 8² = 36 + 64 = 100 = 10²",
+      "solution": "Using c² = a² + b²: 100 = 36 + b², so b² = 64, and b = 8 cm. Verification: 6² + 8² = 36 + 64 = 100 = 10². The triple (6, 8, 10) is a scaled version of the primitive triple (3, 4, 5)."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "The lotus problem: A lotus stem of length L has L-1 units submerged. When bent by the wind, its tip touches water 3 units away. Find L.",
+      "answer": "L = 5 units",
+      "solution": "Let depth = L-1. Right triangle: 3² + (L-1)² = L². Expanding: 9 + L² - 2L + 1 = L². Simplifying: 10 - 2L = 0, so L = 5. The depth is 4 units."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Generate two primitive Pythagorean triples using the odd square method where 2n-1 is a perfect square.",
+      "answer": "(3, 4, 5) for n=5 and (5, 12, 13) for n=13",
+      "solution": "For n=5: 2n-1=9 (perfect square). Formula: (5-1)² + 9 = 16 + 9 = 25 = 5², giving (3, 4, 5). For n=13: 2n-1=25 (perfect square). Formula: (13-1)² + 25 = 144 + 25 = 169 = 13², giving (5, 12, 13)."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "Prove that if (a, b, c) is a Pythagorean triple and k is a positive integer, then (ka, kb, kc) is also a Pythagorean triple.",
+      "answer": "Algebraic proof: (ka)² + (kb)² = k²(a² + b²) = k²c² = (kc)²",
+      "solution": "Given a² + b² = c². We need to show (ka)² + (kb)² = (kc)². LHS: (ka)² + (kb)² = k²a² + k²b² = k²(a² + b²) = k²c². RHS: (kc)² = k²c². LHS = RHS, so the triple (ka, kb, kc) satisfies the Pythagorean relation."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Find the height of an equilateral triangle with side 10 cm using the Pythagorean theorem.",
+      "answer": "5√3 cm ≈ 8.66 cm",
+      "solution": "The height h bisects the base, creating a right triangle with hypotenuse 10 and one leg 5. Using h² + 5² = 10²: h² + 25 = 100, so h² = 75, giving h = 5√3 ≈ 8.66 cm."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Two points are at coordinates (0, 0) and (3, 4). Find the distance between them using the Pythagorean theorem.",
+      "answer": "5 units",
+      "solution": "The distance formula is d = √((x₂-x₁)² + (y₂-y₁)²). Here, d = √(3² + 4²) = √(9 + 16) = √25 = 5 units. This is the Pythagorean theorem applied to coordinate geometry."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Is the triple (20, 21, 29) a Pythagorean triple? Show your calculation.",
+      "answer": "Yes, (20, 21, 29) is a Pythagorean triple because 20² + 21² = 29²",
+      "solution": "Check: 20² + 21² = 400 + 441 = 841. And 29² = 841. Since both sides equal 841, the triple (20, 21, 29) satisfies the Pythagorean relation."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "A rectangular field has diagonal 25 m. If one side is 15 m, find the other side.",
+      "answer": "20 m",
+      "solution": "Using diagonal² = length² + width²: 25² = 15² + w². So 625 = 225 + w², giving w² = 400, and w = 20 m. The triple (15, 20, 25) is verified."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Prove that √2 cannot be a terminating decimal.",
+      "answer": "A terminating decimal's square would also terminate, but √2² must equal exactly 2.00..., which is impossible.",
+      "solution": "A terminating decimal has a last non-zero digit. For example, if √2 ≈ 1.414a (with last digit a ≠ 0), then (1.414a)² would also have a non-zero last digit after the decimal point. It cannot equal 2.000... Therefore, √2 must have a non-terminating decimal representation."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "List all Pythagorean triples of the form (a, b, c) where c ≤ 20.",
+      "answer": "(3,4,5), (5,12,13), (8,15,17), (7,24,25) [if ≤25], (6,8,10), (9,12,15), (12,16,20)",
+      "solution": "Primitive: (3,4,5), (5,12,13), (8,15,17). Scaled: (6,8,10)=2×(3,4,5), (9,12,15)=3×(3,4,5), (12,16,20)=4×(3,4,5). All satisfy a² + b² = c²."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "If a right triangle has legs a and b, and hypotenuse c, show that c > a and c > b.",
+      "answer": "Since c² = a² + b² and both a² and b² are positive, c² > a² and c² > b², so c > a and c > b.",
+      "solution": "From the Pythagorean theorem c² = a² + b². Since b² > 0, we have c² = a² + b² > a², so c > a. Similarly, c² = a² + b² > b², so c > b. The hypotenuse is always the longest side."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "A square is constructed on the diagonal of another square with side 5 cm. Find the area of the outer square.",
+      "answer": "50 square cm",
+      "solution": "The diagonal of the inner square = 5√2 cm. This diagonal becomes the side of the outer square. Area of outer square = (5√2)² = 25 × 2 = 50 square cm. This demonstrates geometric doubling."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "Using the Pythagorean theorem, explain why a square with side a has diagonal a√2.",
+      "answer": "The diagonal forms the hypotenuse of a right triangle with legs a and a. Therefore, d² = a² + a² = 2a², giving d = a√2.",
+      "solution": "When we draw the diagonal of a square with side a, it divides the square into two congruent right triangles. Each triangle has legs of length a. Using c² = a² + a²: c² = 2a², so c = a√2. The diagonal connects opposite vertices and is the hypotenuse."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "Given that 2n-1 = 25 (an odd perfect square), use the formula (n-1)² + (2n-1) = n² to find a Pythagorean triple.",
+      "answer": "The triple is (5, 12, 13)",
+      "solution": "From 2n-1 = 25, we get n = 13. Using the formula: (13-1)² + 25 = 12² + 25 = 144 + 25 = 169 = 13². The triple is (12, 5, 13) or (5, 12, 13)."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "A rope 25 m long is stretched from ground to top of a wall. If the base is 7 m from the wall, what is the wall's height?",
+      "answer": "24 m",
+      "solution": "The rope, wall, and ground form a right triangle with hypotenuse 25 m and one leg 7 m. Using h² + 7² = 25²: h² + 49 = 625, so h² = 576, giving h = 24 m. The triple (7, 24, 25) is verified."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "Verify that (12, 35, 37) is a Pythagorean triple and determine if it is primitive.",
+      "answer": "Yes, 12² + 35² = 37², and it is primitive because gcd(12, 35, 37) = 1",
+      "solution": "Check: 12² + 35² = 144 + 1225 = 1369 = 37². The triple satisfies the Pythagorean relation. For primitivity: 12 = 2² × 3, 35 = 5 × 7, 37 = 37. No common factor, so it is primitive."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "Two legs of a right triangle are in the ratio 3:4. If the hypotenuse is 25 cm, find both legs.",
+      "answer": "15 cm and 20 cm",
+      "solution": "Let legs be 3k and 4k. Using (3k)² + (4k)² = 25²: 9k² + 16k² = 625, so 25k² = 625, giving k² = 25, and k = 5. Legs are 3(5) = 15 cm and 4(5) = 20 cm. The triple (15, 20, 25) = 5×(3, 4, 5)."
+    }
+  ]
+}

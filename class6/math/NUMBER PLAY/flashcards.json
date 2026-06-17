@@ -1,0 +1,25 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Number Play",
+    "chapter_number": 3
+  },
+  "flashcards": [
+    { "q": "What is a cell larger than all its adjacent cells called?", "a": "A supercell." },
+    { "q": "How many total 2-digit numbers exist?", "a": "90" },
+    { "q": "How many total 3-digit numbers exist?", "a": "900" },
+    { "q": "Define the digit sum of a number.", "a": "The total obtained by adding all the digits together." },
+    { "q": "What is a palindrome?", "a": "A number that remains the same when its digits are reversed (e.g., 84,488)." },
+    { "q": "What is the result of reversing and adding 76 once?", "a": "143 (which is not a palindrome)." },
+    { "q": "What is the magic Kaprekar constant for 4-digit numbers?", "a": "6174" },
+    { "q": "What repeats eventually in Kaprekar's 3-digit number process?", "a": "495" },
+    { "q": "What are the rules of the Collatz Conjecture?", "a": "Divide by 2 if even, multiply by 3 and add 1 if odd." },
+    { "q": "True or False: The Collatz sequence always reaches 1 for any whole number.", "a": "This is a conjecture; it stays an unsolved problem in math." },
+    { "q": "How many times does the digit '7' appear in numbers 1 to 100?", "a": "20 times" },
+    { "q": "Does adding two 5-digit numbers always result in a 5-digit number?", "a": "Sometimes; it can also result in a 6-digit number." },
+    { "q": "What is the smallest number with a digit sum of 14?", "a": "59" },
+    { "q": "In a 12-hour clock, how many $30^\\circ$ parts are there?", "a": "12 parts (since $360 \\div 30 = 12$)." },
+    { "q": "What is the winning strategy in a mathematical game?", "a": "Identifying a pattern of numbers that lead to the target goal." }
+  ]
+}

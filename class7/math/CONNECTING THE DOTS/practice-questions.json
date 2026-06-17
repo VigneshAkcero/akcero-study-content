@@ -1,0 +1,234 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "CONNECTING THE DOTS",
+    "chapter_number": 5
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Is the question 'What is the price of a specific pen right now?' a statistical question?",
+      "answer": "No, this is not a statistical question because it has a single definite answer and does not involve variability or data collection from multiple sources.",
+      "solution": "A statistical question must involve collecting data where different individuals or items have different values. 'What is the price of a specific pen right now?' asks for one specific price at one specific moment, not involving variability across multiple observations."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Is the question 'How tall are Grade 7 students in our school?' a statistical question? Justify.",
+      "answer": "Yes, this is a statistical question because heights vary among students, and answering it requires collecting data and analyzing the different heights present.",
+      "solution": "This is statistical because: (1) Different Grade 7 students have different heights (variability is expected), (2) We need to collect data from multiple students, (3) We can analyze the data to describe typical heights, ranges, patterns."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Calculate the mean of the cricket runs: 0, 17, 21, 90.",
+      "answer": "Mean = 32 runs",
+      "solution": "Mean = (Sum of all values) ÷ (Number of values) = (0 + 17 + 21 + 90) ÷ 4 = 128 ÷ 4 = 32 runs."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Five friends collected following numbers of guavas: 3, 8, 10, 5, 4. If they share equally, how many does each get?",
+      "answer": "Each friend gets 6 guavas.",
+      "solution": "Total guavas = 3 + 8 + 10 + 5 + 4 = 30. Number of friends = 5. Fair-share = 30 ÷ 5 = 6 guavas per friend."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Find the median of: 118, 165, 170, 173, 175.",
+      "answer": "Median = 170",
+      "solution": "Data is already sorted. Median is the middle value (3rd of 5 values) = 170."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Find the median of: 155, 160, 164, 165, 169, 173.",
+      "answer": "Median = 164.5",
+      "solution": "Even number of values (6). Median = (average of 3rd and 4th values) = (164 + 165) ÷ 2 = 164.5."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "In the data set 57, 13, 0, 84, 51, 27, what is the total and how many data points are there?",
+      "answer": "Total = 232, Number of data points = 6",
+      "solution": "Sum = 57 + 13 + 0 + 84 + 51 + 27 = 232. Count of values = 6. (Note: 0 is a data point here, not a missing value.)"
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "If a player has scores 14, 16, 10, 10 in four games, what is the average score per game?",
+      "answer": "Average = 12.5 points per game",
+      "solution": "Mean = (14 + 16 + 10 + 10) ÷ 4 = 50 ÷ 4 = 12.5 points per game."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "What does the scale '1 unit = 5 hours' mean on a graph?",
+      "answer": "One unit length on the graph axis represents 5 actual hours in the data.",
+      "solution": "Scale indicates the ratio between graph measurement and real value. If a bar is 3 units tall with scale '1 unit = 5 hours', the actual value is 3 × 5 = 15 hours."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "What is the range for data values: 25, 24, 26, 28, 30?",
+      "answer": "Range = 6",
+      "solution": "Range = Maximum - Minimum = 30 - 24 = 6."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Shubman's Cricket Series 2: Scores = 23, 7, 10, 52, 18 (5 matches). Yashasvi's scores = 26, 53, 2, 15 (4 matches, one missed). Who has higher average?",
+      "answer": "Yashasvi has higher average (24 runs per match vs. 22 runs per match).",
+      "solution": "Shubman: Mean = (23+7+10+52+18)÷5 = 110÷5 = 22 runs/match. Yashasvi: Mean = (26+53+2+15)÷4 = 96÷4 = 24 runs/match. Yashasvi's average is higher even though his total (96) is lower because he played fewer matches."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Heights of Yaangba's family: 169, 173, 155, 165, 160, 164 cm. Find mean and median.",
+      "answer": "Mean = 164.3 cm, Median = 164.5 cm",
+      "solution": "Mean = (169+173+155+165+160+164)÷6 = 986÷6 ≈ 164.3 cm. Sorted: 155, 160, 164, 165, 169, 173. Median = (164+165)÷2 = 164.5 cm."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Heights of Poovizhi's family: 170, 173, 165, 118, 175 cm. Find mean and median. Is there an outlier?",
+      "answer": "Mean = 160.2 cm, Median = 170 cm. Outlier = 118 cm (unusually low, youngest child).",
+      "solution": "Mean = (170+173+165+118+175)÷5 = 801÷5 = 160.2 cm. Sorted: 118, 165, 170, 173, 175. Median = 170 cm (middle value). The value 118 is an outlier (much smaller) causing the mean to be less than most family members' heights."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "In Poovizhi's family data (with outlier 118), remove the outlier and recalculate mean. What changes?",
+      "answer": "New data: 165, 170, 173, 175. New Mean = 170.75 cm (previously 160.2 cm). Mean increased significantly (by 10.55 cm) when outlier removed.",
+      "solution": "Without 118: Mean = (165+170+173+175)÷4 = 683÷4 = 170.75 cm. The outlier was pulling the mean down significantly. Without it, the mean moves much closer to the median (170 cm), showing how outliers distort the average."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Student short story reads: 6, 8, 2, 5, 4, 1, 2, 40, 0, 0, 1, 8, 3, 5, 10. Find mean and median. Identify outlier.",
+      "answer": "Mean ≈ 6.67, Median = 3, Outlier = 40 (very high)",
+      "solution": "Sum = 95, Count = 15. Mean = 95÷15 ≈ 6.67. Sorted: 0,0,1,1,2,2,3,4,5,5,6,8,8,10,40. Median = 8th value = 4. Wait, let me recount: position (15+1)÷2 = 8. 8th value when sorted = 4. Outlier 40 is unusually high, pulling mean up. Median (4) better represents typical reading."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Onion prices in Yahapur: 25,24,26,28,30,35,39,43,49,56,59,44 rupees. Find minimum, maximum, and range.",
+      "answer": "Min = 24, Max = 59, Range = 35",
+      "solution": "Minimum value = 24 (February). Maximum value = 59 (November). Range = 59 - 24 = 35. This shows Yahapur prices vary by 35 rupees across the year."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Compare Yahapur (458 total rupees/12 months) vs Wahapur (450 total rupees/12 months) onion prices using averages.",
+      "answer": "Yahapur average ≈ 38.17 rupees/kg, Wahapur average = 37.5 rupees/kg. Yahapur is slightly costlier on average.",
+      "solution": "Yahapur: 458÷12 ≈ 38.17 rupees/kg. Wahapur: 450÷12 = 37.5 rupees/kg. Though both have same total ~450, when calculated per month it matters for fair comparison. Yahapur's average is higher, suggesting costlier overall."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "A dot plot shows onion prices from two towns. What information does it preserve that a bar chart might not?",
+      "answer": "It preserves individual data values, clustering patterns, gaps, and exact position of each value without losing data points.",
+      "solution": "Dot plots show each data point visually. Unlike frequency histograms, they show actual values (not grouped ranges), making it easy to: (1) Spot exact values, (2) See clustering of repeated values, (3) Identify gaps and outliers, (4) Compare distributions between groups visually."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "In a clustered bar graph showing rocket launches by different organizations for 3 years, what patterns can you look for?",
+      "answer": "Growth/decline trends over years for each organization, comparison between organizations per year, which organization dominates, changes in relative positions.",
+      "solution": "A clustered bar graph lets you: (1) Compare within a year (different organizations), (2) Track change across years (same organization), (3) Identify trends (increasing/decreasing), (4) Spot outliers (unusually high/low values), (5) Compare relative sizes."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "SpaceX launches increased from 30 rockets in 2021 to 65 in 2023. Did it double? Calculate the ratio.",
+      "answer": "Ratio = 65÷30 ≈ 2.17. More than doubled; approximately increased by a factor of 2.17.",
+      "solution": "2023 launches ÷ 2021 launches = 65÷30 ≈ 2.17. This means 2023 had about 2.17 times more launches than 2021, or increased by about 117% (or more than doubled)."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "Is the statement 'All organisations launched more rockets than previous years' justified by rocket launch data showing some decrease?",
+      "answer": "No, this statement is NOT justified. Some organizations (like Arianespace) launched fewer rockets in later years.",
+      "solution": "For a universal 'all' statement to be true, every single organization must show the pattern. If even one organization (Arianespace) shows decreasing launches, the statement is false. We must carefully check all organizations before making 'all' statements."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "City 1 has 210 hours daylight-equivalent in January and 564 in June (out of ~12 months). Calculate average daylight hours per day. What does pattern suggest geographically?",
+      "answer": "Jan avg: 210÷31≈6.8 hrs/day, Jun avg: 564÷30≈18.8 hrs/day. Pattern shows extreme variation suggesting location far from equator in Northern Hemisphere (long summer days, short winter days).",
+      "solution": "Convert monthly to daily average: January = 210÷31 ≈ 6.8 hours/day (very short). June = 564÷30 ≈ 18.8 hours/day (very long). The dramatic difference (12-hour swing) indicates the city is at high latitude where seasonal tilt of Earth causes extreme day-length variation. This is typical of cities like Helsinki, Finland."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Cricket team's median runs scored = 0, but total score = 407. How is this possible?",
+      "answer": "Many players scored 0 (placing median at 0), but a few players scored high (50+), making the total large. With 11 players, the median is the 6th player's score. If players 1-6 all scored 0, median=0. Players 7-11 can score high totals.",
+      "solution": "Median depends on the middle position value, not total. With 11 players, median = 6th value when sorted. If first 6 players score 0, median=0 regardless. The other 5 players could score: 19, 34, 31, 18, 305 (example) totaling 407. High scores from few players don't affect median but greatly affect mean and total."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Compare two groups' General Knowledge quiz scores: Group 1: {85,76,90,85,39,48,56,95,81,75}, Group 2: {68,59,73,86,47,79,90,93,86}. Which performed better using mean and median?",
+      "answer": "Group 1: Mean=78.5, Median=83.5. Group 2: Mean≈75.7, Median=79. Group 1 performed better on both measures.",
+      "solution": "Group 1: Sum=810, Count=10, Mean=81 (recalculate: 85+76+90+85+39+48+56+95+81+75=785, Mean=78.5). Sorted: 39,48,56,75,76,81,85,85,90,95. Median=(76+81)÷2=78.5. Group 2: Sum=681, Count=9, Mean=75.67. Sorted: 47,59,68,73,79,86,86,90,93. Median=79. Group 1 has higher mean and median, plus less skew from outliers, suggesting stronger overall performance."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "A mango tree produced: 0,0,8,24,41,16,5,0,0,0,0,0 mangoes (Jan-Dec). Should you calculate mean and median using all 12 months?",
+      "answer": "No, only consider the 5 months when mangoes actually grow: 8,24,41,16,5. Mean=18.8, Median=16.",
+      "solution": "The tree produces mangoes only during summer months (Mar-May roughly in India). Including the 0 months would distort: Mean(all 12)=99÷12=8.25 (not representative of growing season). Mean(growing months only)=94÷5=18.8 (better represents production during season). Median(growing only)=16 kg. Stats should match the context of the question—if asking about mangoes during season, exclude months when production is naturally 0."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Grade 7 boys' heights (cm): 147,135,130,154,128,135,134,158,155,146,146,142,140,141,144,145,150. Find mean, median, and describe the variability.",
+      "answer": "Mean≈143.5cm, Median=144.5cm, Range=30cm(128-158), data fairly well-distributed with most between 140-150.",
+      "solution": "Sum=(147+135+130+154+128+135+134+158+155+146+146+142+140+141+144+145+150)=2440. Count=17. Mean=2440÷17≈143.5cm. Sorted: 128,130,134,135,135,140,141,142,144,145,146,146,147,150,154,155,158. Median=9th value=144. Range=158-128=30. Mean≈Median (both~144) suggests balanced distribution with no major outliers, reasonably symmetric."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Two groups estimated 1 minute with eyes closed. Group A: Mean=59.3, Median=60.5. Group B: Mean=59.28, Median=59.5. Which group was more consistent (accurate)?",
+      "answer": "Group B was more consistent/accurate. Mean and Median are nearly equal in both, but Group B's median (59.5) is closer to 60 seconds (target), indicating less bias.",
+      "solution": "For time estimation to be good: (1) Mean close to 60, (2) Median close to 60, (3) Small spread. Group A: Mean=59.3, Median=60.5 (difference=1.2, suggests slight skew). Group B: Mean=59.28, Median=59.5 (nearly identical, balanced estimates). Group B's median is closer to true 60 seconds and both measures align, suggesting more accurate and consistent estimates."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Comparing sumo wrestlers vs ballet dancers' weights: Sumo avg≈240kg, Ballet avg≈42kg. How many times heavier is a sumo wrestler on average?",
+      "answer": "Approximately 5.7 times heavier (240÷42≈5.71).",
+      "solution": "Sumo wrestlers: (295.2+250.7+234.1+221.0+200.9)÷5=240.38kg. Ballet dancers: (40.3+37.6+38.8+45.5+44.1+48.2)÷6=42.42kg. Ratio=240.38÷42.42≈5.66 times. Sumo wrestlers are roughly 5.7 times heavier, reflecting massive differences in body composition between the professions."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Why do mean and median sometimes diverge significantly in a dataset?",
+      "answer": "They diverge when outliers are present. Outliers pull the mean toward them while median (middle value) remains unaffected, especially if outliers are on one side.",
+      "solution": "Example with outlier on low end: Data {2,3,4,5,100}. Mean=(2+3+4+5+100)÷5=22.8. Median=4. Mean>>Median because 100 pulls average up. For low outlier {1,100,101,102,103}: Mean=81.4, Median=101. Mean<<Median because 1 pulls it down. When data is balanced without outliers: Mean≈Median."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "In a survey, 17 students have heights (cm): 106,110,123,125,117,120,112,115,110,120,115,102,115,115,109,115,101. A teacher wants to divide into two groups with equal sizes based on height threshold. What height should be the threshold?",
+      "answer": "Threshold = Median height ≈ 115 cm. Below 115: one group, Above 115: other group.",
+      "solution": "With 17 students (odd), sort: 101,102,106,109,110,110,112,115,115,115,115,115,117,120,120,123,125. Median (9th value)=115. Students with height ≤115: including the median value gives 9 students. Students >115: 8 students. For perfect equal split, some boundary logic needed, but median naturally divides data into two roughly equal groups."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "If two classroom sections each have 15 boys and 15 girls, and Section 1 has mean height 154.2cm, what CAN we say about Section 2's mean height?",
+      "answer": "We cannot determine Section 2's mean height. It could be higher, lower, or equal to 154.2cm—it's independent information.",
+      "solution": "Knowing Section 1's mean tells us nothing about Section 2's mean. They are different groups with different students. Section 2's mean could be 144cm, 154.2cm, or 164cm—all are possible. The only thing we know is that Section 2 also has 30 students (15b+15g), but this doesn't constrain the mean."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "A boy tracks how many times he steps out daily for a month. His data shows high variability some days (10+ times) and low other days (0-2 times). What does high variability suggest?",
+      "answer": "High variability in daily outings suggests lifestyle varies greatly—some days busy/social, other days home-bound. Single 'average' doesn't capture this pattern.",
+      "solution": "If mean=5 outings/day but data ranges 0-15 with clustering at extremes (not bell-curved), it shows: (1) No typical day, (2) Patterns might exist (weekday vs weekend), (3) Each statistic (mean, median, range) tells different story. Examining the variability and distribution (dot plot) matters as much as the central measures."
+    }
+  ]
+}

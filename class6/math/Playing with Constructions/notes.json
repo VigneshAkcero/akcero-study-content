@@ -1,0 +1,170 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Playing with Constructions",
+    "chapter_number": 8
+  },
+  "notes": [
+    {
+      "section_title": "Getting Started with Tools",
+      "topics": [
+        {
+          "topic_name": "The Compass and Circles",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A compass is a tool used to draw circles and arcs. A circle is a set of all points that are at the same fixed distance from a point called the centre."
+            },
+            {
+              "type": "list",
+              "title": "Circle Terminology",
+              "items": [
+                "**Centre**: The fixed point where the metal tip of the compass is placed.",
+                "**Radius**: The fixed distance between the centre and any point on the circle's boundary."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example-1",
+              "question": "How do you draw a circle of radius 4 cm with a compass?",
+              "solution": "1. Open the compass against a ruler so that the distance between the tip and the pencil is 4 cm.\n2. Mark a point P as the centre.\n3. Fix the compass tip at P and rotate the pencil to draw the full curve."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Properties of Squares and Rectangles",
+      "topics": [
+        {
+          "topic_name": "Shapes and Naming",
+          "content": [
+            {
+              "type": "list",
+              "title": "Key Properties",
+              "items": [
+                "**Rectangle**: Opposite sides are equal, and all four angles are $90^\\circ$.",
+                "**Square**: All four sides are equal, and all four angles are $90^\\circ$."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Naming Convention",
+              "text": "The corners of a square or rectangle must be named in order (clockwise or anti-clockwise). For a square PQRS, the names PQRS or RSPQ are valid, but PQSR is not."
+            },
+            {
+              "type": "example",
+              "title": "Example-2",
+              "question": "Is a square still a square if it is rotated?",
+              "solution": "Yes. Rotation does not change the length of the sides or the measures of the angles. Since all sides remain equal and all angles remain $90^\\circ$, it remains a square."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Construction Procedures",
+      "topics": [
+        {
+          "topic_name": "Constructing Quadrilaterals",
+          "content": [
+            {
+              "type": "list",
+              "title": "Constructing a Square (Side 6 cm)",
+              "items": [
+                "Draw a line segment PQ of 6 cm.",
+                "Draw perpendicular lines at P and Q.",
+                "Mark points S and R on these perpendiculars such that PS = 6 cm and QR = 6 cm.",
+                "Join RS to complete the square."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example-3",
+              "question": "Construct a rectangle one of whose sides is 5 cm and whose diagonal is 7 cm.",
+              "solution": "1. Draw a base segment DC of 5 cm.\n2. Draw a perpendicular line at C.\n3. Set the compass to a radius of 7 cm. Placing the tip at D, draw an arc that intersects the perpendicular line at point B.\n4. From B, draw a line parallel to DC and from D draw a line parallel to CB to find the fourth point A."
+            }
+          ]
+        },
+        {
+          "topic_name": "Breaking and Building Rectangles",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A rectangle can be divided into identical squares. If a rectangle consists of 3 identical squares in a row, its length will be 3 times its breadth."
+            },
+            {
+              "type": "example",
+              "title": "Example-4",
+              "question": "If you want to construct a rectangle made of two identical squares of side 4 cm, what should the dimensions be?",
+              "solution": "1. Width remains the same as the square side = 4 cm.\n2. Length becomes twice the side = $4 \\times 2 = 8$ cm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Diagonals and Artistic Constructions",
+      "topics": [
+        {
+          "topic_name": "Diagonal Properties",
+          "content": [
+            {
+              "type": "list",
+              "title": "Diagonals in Squares and Rectangles",
+              "items": [
+                "The two diagonals of a rectangle are equal in length.",
+                "In a square, the diagonal divides the $90^\\circ$ corner angles into two equal $45^\\circ$ angles.",
+                "In a rectangle that is not a square, the diagonal divides the corner angles into unequal parts."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example-5",
+              "question": "If a square's diagonal is used to divide a corner angle, what are the measures of the resulting two angles?",
+              "solution": "Since a square is perfectly symmetrical, its diagonal bisects the $90^\\circ$ angle into two equal parts: $90^\\circ \\div 2 = 45^\\circ$."
+            }
+          ]
+        },
+        {
+          "topic_name": "Advanced Artwork",
+          "content": [
+            {
+              "type": "activity",
+              "title": "Constructing a House",
+              "procedure": [
+                "Draw a square base of 5 cm side.",
+                "To draw the roof (triangle), find a point A exactly 5 cm away from both top corners B and C.",
+                "Use a compass to draw arcs of radius 5 cm from B and C. Their intersection is point A."
+              ],
+              "conclusion": "Arcs are a powerful way to locate points that are equidistant from two given points."
+            },
+            {
+              "type": "example",
+              "title": "Example-6",
+              "question": "How can you find a point equidistant from two points B and C without a ruler?",
+              "solution": "1. Set a fixed radius in your compass.\n2. Draw an arc with the tip at B and another arc with the tip at C.\n3. The point where the two arcs cross is equidistant from B and C."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Centre", "definition": "The fixed point from which all points on a circle are at an equal distance." },
+    { "term": "Radius", "definition": "The distance from the centre of a circle to any point on its boundary." },
+    { "term": "Diagonal", "definition": "A line segment connecting two opposite corners of a quadrilateral." },
+    { "term": "Regular Polygon", "definition": "A figure with equal sides and equal angles." },
+    { "term": "Equidistant", "definition": "Being at an equal distance from two or more points." },
+    { "term": "Perpendicular", "definition": "Lines that meet or intersect at a right angle ($90^\\circ$)." }
+  ],
+  "summary_points": [
+    "A compass is essential for drawing circles and arcs by fixing a central point and a specific radius.",
+    "Squares and rectangles can be constructed precisely using a ruler for lengths and a compass or protrator for perpendiculars.",
+    "Property check: Squares must have all sides equal, while rectangles only require opposite sides to be equal; both must have $90^\\circ$ angles.",
+    "Diagonals of rectangles are equal, and for squares, they bisect the corner angles into two $45^\\circ$ parts.",
+    "Complex figures often use arcs to locate points that satisfy multiple distance requirements simultaneously.",
+    "Rough diagrams are vital for planning the order of steps in geometric constructions."
+  ]
+}

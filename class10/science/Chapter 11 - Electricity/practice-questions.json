@@ -1,0 +1,255 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Electricity",
+    "chapter_number": 11
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "A current of 0.75 A is drawn by a filament of an electric bulb for 5 minutes. Calculate the amount of electric charge that flows through the circuit.",
+      "answer": "225 C.",
+      "solution": "Given: Current (I) = 0.75 A, Time (t) = 5 min = 5 x 60 = 300 s. We know that Q = I x t. Therefore, Q = 0.75 A x 300 s = 225 C."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Define the SI unit of electric current.",
+      "answer": "Ampere (A).",
+      "solution": "One Ampere is constituted by the flow of one coulomb of charge per second, i.e., 1 A = 1 C / 1 s."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Medium",
+      "question": "In an electric circuit, why is an ammeter always connected in series while a voltmeter is connected in parallel?",
+      "answer": "Ammeter has low resistance to measure full current; Voltmeter has high resistance to measure potential difference without drawing significant current.",
+      "solution": "An ammeter measures the flow of charge (current) through a circuit, so it must be part of the flow path (series) and have very low resistance to avoid altering the current. A voltmeter measures the 'electrical pressure' difference between two points, so it is connected across them (parallel) and has very high resistance to ensure it does not draw significant current away from the main circuit."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Medium",
+      "question": "What is the conventional direction of electric current, and how does it relate to the flow of electrons?",
+      "answer": "Positive to negative terminal; opposite to electron flow.",
+      "solution": "By convention, electric current is taken as the flow of positive charges, which moves from the positive terminal to the negative terminal of a cell. Since electrons are negatively charged, they flow in the opposite direction—from negative to positive."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Medium",
+      "question": "How much work is done in moving a charge of 4 C across two points having a potential difference of 15 V?",
+      "answer": "60 J.",
+      "solution": "Given: Charge (Q) = 4 C, Potential Difference (V) = 15 V. Work done (W) = V x Q = 15 V x 4 C = 60 J."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Hard",
+      "question": "Calculate the number of electrons constituting 0.5 Coulomb of charge.",
+      "answer": "3.125 x 10^18 electrons.",
+      "solution": "Charge on one electron (e) = 1.6 x 10^-19 C. Total charge (Q) = 0.5 C. Number of electrons (n) = Q / e = 0.5 / (1.6 x 10^-19) = 0.3125 x 10^19 = 3.125 x 10^18 electrons."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "State the physical condition that must remain constant for Ohm's Law to hold true.",
+      "answer": "Temperature.",
+      "solution": "Ohm's law states that V is proportional to I, *provided the temperature remains the same*. Change in temperature alters the resistance of the conductor, which would deviate from the linear V-I relationship."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What does the slope of a V-I graph (with V on the y-axis and I on the x-axis) represent?",
+      "answer": "Resistance (R).",
+      "solution": "According to Ohm's Law, V = IR, which can be written as V/I = R. In a V-I graph, the ratio of V to I represents the slope of the straight line, which is the resistance of the conductor."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "A component used in electric circuits to regulate current without changing the voltage source is called ________.",
+      "answer": "Variable resistance (or Rheostat).",
+      "solution": "A rheostat allows the user to manually change the resistance in a circuit. Since I = V/R, increasing the resistance decreases the current (and vice versa) even if the battery voltage stays the same."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "If the potential difference across a resistor remains constant but its resistance is doubled, what happens to the current flowing through it?",
+      "answer": "The current becomes half.",
+      "solution": "From Ohm's Law, I = V / R. If R is replaced by 2R (doubled) and V is constant, the new current I' = V / (2R) = 0.5 (V/R) = 0.5 I. Thus, current is halved."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Why are the coils of electric toasters and electric irons made of an alloy rather than a pure metal?",
+      "answer": "Alloys have higher resistivity and do not oxidize (burn) easily at high temperatures.",
+      "solution": "Heating elements need to produce significant heat and withstand high temperatures. Alloys like Nichrome have much higher resistivity than pure metals, generating more heat for the same current, and they are resistant to oxidation even when they become red hot."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Hard",
+      "question": "A wire of resistance R is stretched so that its length becomes three times its original length. Find the new resistance in terms of R, assuming the volume remains constant.",
+      "answer": "9R.",
+      "solution": "When length (l) becomes 3l, the area (A) must become A/3 to keep the volume (V=Al) constant. New Resistance R' = ρ(3l)/(A/3) = 9 [ρ(l/A)] = 9R."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "Compare the resistivity of iron (10.0 x 10^-8 Ωm) and mercury (94.0 x 10^-8 Ωm). Which is a better conductor, and why?",
+      "answer": "Iron is a better conductor because it has lower resistivity.",
+      "solution": "Conductivity is inversely related to resistivity. Since iron has a lower resistivity value compared to mercury, electrons face less opposition flowing through iron, making it a more efficient (better) conductor."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "A copper wire has a diameter of 0.5 mm and resistivity of 1.6 x 10^-8 Ωm. What length of this wire is required to make its resistance 10 Ω?",
+      "answer": "~122.7 m.",
+      "solution": "Diameter d = 0.5 mm = 0.0005 m. Radius r = 0.00025 m. Area A = πr^2 = 3.14 x (0.00025)^2 = 1.96 x 10^-7 m^2. Using R = ρl/A => l = RA/ρ = (10 x 1.96 x 10^-7) / (1.6 x 10^-8) = 1.225 x 10^2 = 122.5 m (accurate calculation gives ~122.7 m)."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "In a series circuit, how does the current through each resistor compare to the total current in the circuit?",
+      "answer": "The current is the same through every resistor.",
+      "solution": "In a series combination, there is only one path for the charges to flow. Therefore, the same number of coulombs per second must pass through every component connected in the series line."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Calculate the equivalent resistance when 5 Ω, 10 Ω, and 15 Ω resistors are connected in series.",
+      "answer": "30 Ω.",
+      "solution": "For series combination, Rs = R1 + R2 + R3 = 5 + 10 + 15 = 30 Ω."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Why does the total resistance of a parallel circuit decrease as more resistors are added?",
+      "answer": "Adding resistors in parallel provides more paths for current flow, increasing overall conductance.",
+      "solution": "Mathematically, the reciprocal of total resistance is the sum of reciprocals (1/Rp = Σ 1/Ri). Physically, each parallel branch is a new route for electrons; adding more routes (even resistive ones) makes it easier for the battery to push charges through the entire configuration."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Three resistors of 6 Ω each are connected in parallel. What is the total resistance?",
+      "answer": "2 Ω.",
+      "solution": "1/Rp = 1/6 + 1/6 + 1/6 = 3/6 = 1/2. Therefore, Rp = 2 Ω."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "A potential difference of 12 V is applied across a parallel combination of two resistors, 4 Ω and 6 Ω. Calculate the current in each resistor and the total current.",
+      "answer": "I(4Ω) = 3 A; I(6Ω) = 2 A; Total Current = 5 A.",
+      "solution": "In parallel, V is the same (12 V). I1 = V/R1 = 12/4 = 3 A. I2 = V/R2 = 12/6 = 2 A. Total I = I1 + I2 = 3 + 2 = 5 A."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "How can you connect three resistors of 2 Ω, 3 Ω, and 6 Ω to obtain an equivalent resistance of 4 Ω?",
+      "answer": "Connect 3 Ω and 6 Ω in parallel, then connect this combination in series with 2 Ω.",
+      "solution": "Parallel of 3 and 6: 1/Rp' = 1/3 + 1/6 = 3/6 = 1/2 => Rp' = 2 Ω. Then, Rs = Rp' + 2 Ω = 2 + 2 = 4 Ω."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Analyze the disadvantage of a series circuit for domestic lighting (e.g., fairy lights/decorations).",
+      "answer": "If one bulb fails, the whole circuit breaks and none of the bulbs work; it is also hard to locate the faulty bulb.",
+      "solution": "In series, all components share the same path. If any single filament breaks, the continuous path is interrupted, stopping the current for every other bulb. This makes troubleshooting extremely difficult compared to parallel wiring where components operate independently."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "Calculate the highest and lowest resistance possible using four coils of 4 Ω, 8 Ω, 12 Ω, and 24 Ω.",
+      "answer": "Highest = 48 Ω (Series); Lowest = 2 Ω (Parallel).",
+      "solution": "Highest is sum (series): 4 + 8 + 12 + 24 = 48 Ω. Lowest is parallel: 1/Rp = 1/4 + 1/8 + 1/12 + 1/24 = (6+3+2+1)/24 = 12/24 = 1/2 => Rp = 2 Ω."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Easy",
+      "question": "What is the phenomenon called when electrical energy is converted into heat energy in a resistor?",
+      "answer": "Heating effect of electric current (or Joule's heating).",
+      "solution": "When current flows through a resistor, work is done to overcome opposition, and this expended energy is dissipated as heat, raising the temperature of the component."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Easy",
+      "question": "State Joule's Law of heating in the form of a mathematical relation.",
+      "answer": "H = I^2 Rt.",
+      "solution": "The heat produced (H) is directly proportional to the square of current (I), the resistance (R), and the time (t) for which current flows."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Medium",
+      "question": "Why does the cord of an electric heater not glow while the heating element does?",
+      "answer": "The cord has very low resistance (pure copper), while the element has very high resistance (alloy).",
+      "solution": "Since H = I^2Rt, for the same current, heat produced is proportional to resistance. The connecting cord's resistance is negligible, so it stays cool. The heating element's high resistance causes it to produce enough heat to become red-hot and glow."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Medium",
+      "question": "An electric iron of resistance 25 Ω takes a current of 4 A. Calculate the heat developed in 1 minute.",
+      "answer": "24,000 J.",
+      "solution": "Given: R = 25 Ω, I = 4 A, t = 1 min = 60 s. H = I^2 Rt = (4^2) * 25 * 60 = 16 * 25 * 60 = 400 * 60 = 24,000 J."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "How does a fuse wire protect electrical appliances?",
+      "answer": "It melts and breaks the circuit when the current exceeds its specified rating, preventing overheating and fire.",
+      "solution": "A fuse is a safety device made of an alloy with a low melting point. If a short circuit or overload occurs, the excessive current generates significant heat in the fuse (H=I^2Rt). The fuse wire melts, interrupting the current flow before it can damage appliances or cause a fire."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "An electric oven consumes 2.2 kW power when operated at 220 V. Calculate the current and recommend a suitable fuse rating (from 1 A, 2 A, 5 A, 10 A, 15 A).",
+      "answer": "Current = 10 A; Recommended Fuse = 15 A (or 10 A if exactly rated).",
+      "solution": "P = 2200 W, V = 220 V. I = P/V = 2200 / 220 = 10 A. A fuse rating slightly higher than the operating current is required to avoid nuisance blowing, but since 10 A is a standard rating, a 10 A fuse is usually the minimum, while 15 A provides a broader safety margin for start-up surges."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Easy",
+      "question": "Define 1 Watt of power in terms of Volts and Amperes.",
+      "answer": "1 Watt = 1 Volt x 1 Ampere.",
+      "solution": "One watt is the power consumed by a device that carries 1 A of current when operated at a potential difference of 1 V."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Medium",
+      "question": "Which of the following does NOT represent electrical power: (a) VI, (b) I^2R, (c) IR^2, (d) V^2/R?",
+      "answer": "(c) IR^2.",
+      "solution": "Power equations are P = VI, P = I^2R, and P = V^2/R. IR^2 is not a valid derivation of electrical power."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Medium",
+      "question": "An electric motor takes 5 A from a 220 V line. Determine the power of the motor.",
+      "answer": "1100 W (or 1.1 kW).",
+      "solution": "P = VI = 220 V * 5 A = 1100 W."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Medium",
+      "question": "Convert 1 kilowatt-hour (kWh) into Joules.",
+      "answer": "3.6 x 10^6 J.",
+      "solution": "1 kWh = 1000 W * 3600 s = 3,600,000 Ws = 3.6 x 10^6 Joules."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "A 100 W electric bulb is used for 10 hours a day. Calculate the 'units' of energy consumed in one day and the cost if 1 unit is Rs. 5.00.",
+      "answer": "1 Unit; Cost = Rs. 5.00.",
+      "solution": "Energy = Power x Time = 100 W * 10 h = 1000 Wh = 1 kWh = 1 unit. Cost = 1 unit * Rs. 5 = Rs. 5.00."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "Two bulbs are rated (100 W, 220 V) and (60 W, 220 V). Which bulb has higher resistance?",
+      "answer": "The 60 W bulb.",
+      "solution": "Using R = V^2 / P. For bulb 1: R1 = (220^2) / 100. For bulb 2: R2 = (220^2) / 60. Since R is inversely proportional to P for the same voltage, the lower wattage bulb (60 W) will have the higher resistance."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "An electric kettle rated 1500 W, 220 V and an electric toaster rated 1000 W, 220 V are connected in parallel. What is the total current drawn from the 220 V mains?",
+      "answer": "11.36 A.",
+      "solution": "Total Power P = 1500 + 1000 = 2500 W. Total Current I = P/V = 2500 / 220 = 11.36 A."
+    }
+  ]
+}

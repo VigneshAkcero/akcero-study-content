@@ -1,0 +1,186 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Living Creatures: Exploring their Characteristics",
+    "chapter_number": 10
+  },
+  "notes": [
+    {
+      "section_title": "Defining Life: Living vs. Non-living",
+      "topics": [
+        {
+          "topic_name": "The Seven Characteristics of Life",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Living beings are distinguished from non-living things by certain common characteristics: movement, growth, need for food (nutrition), respiration, excretion, response to stimuli, and reproduction."
+            },
+            {
+              "type": "activity",
+              "id": "10.1",
+              "title": "Living and Non-living in Surroundings",
+              "procedure": [
+                "List objects around you and categorize them as living or non-living.",
+                "Provide reasons for your classification (e.g., a pigeon moves on its own, a pencil does not grow)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Key Characteristics of Living Beings",
+      "topics": [
+        {
+          "topic_name": "Movement and Growth",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Animals move from place to place. While plants do not move their location, they show internal movements like opening of flowers and response to insects (e.g., Drosera)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Living beings increase in size over time. This is called growth. Example: A child growing into an adult."
+            }
+          ]
+        },
+        {
+          "topic_name": "Nutrition and Respiration",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "All living beings need food for growth and development. Breathing is part of respiration. Animals breathe in oxygen and breathe out carbon dioxide. In plants, respiration occurs through tiny pores called stomata on leaves."
+            }
+          ]
+        },
+        {
+          "topic_name": "Excretion and Stimuli",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Removal of waste products like sweat, urine, and excess water (in plants) is called excretion."
+            },
+            {
+              "type": "paragraph",
+              "text": "Response to stimuli is a reaction to external changes. Examples: Stepping on a thorn, Mimosa (touch-me-not) leaves folding when touched, and Amla leaves closing after sunset."
+            }
+          ]
+        },
+        {
+          "topic_name": "Reproduction and Death",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Reproduction is the process of producing young ones of one's own kind, ensuring the continuity of life."
+            },
+            {
+              "type": "paragraph",
+              "text": "Death is the final stage where all life activities stop permanently."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Exploring Plants: Germination and Growth",
+      "topics": [
+        {
+          "topic_name": "Essential Conditions for Germination",
+          "content": [
+            {
+              "type": "activity",
+              "id": "10.2",
+              "title": "Testing Germination Conditions",
+              "procedure": [
+                "Pot A: Direct sunlight, no water.",
+                "Pot B: Direct sunlight, excess water.",
+                "Pot C: Dark location, moist soil.",
+                "Pot D: Direct sunlight, moist soil."
+              ],
+              "observation": "Seeds in Pot C and Pot D germinate, while Pot A (no water) and Pot B (no air due to flooding) do not.",
+              "conclusion": "Air and the right amount of water are essential for germination. Sunlight is not required for the germination phase itself."
+            }
+          ]
+        },
+        {
+          "topic_name": "Direction of Growth",
+          "content": [
+            {
+              "type": "activity",
+              "id": "10.3",
+              "title": "Sunlight and Gravity Influence",
+              "procedure": [
+                "Seedling A: Upright, sunlight from all directions.",
+                "Seedling B: Inverted.",
+                "Seedling C: Upright, sunlight from one direction."
+              ],
+              "observation": "Shoots always grow upwards and towards light. Roots always grow downwards.",
+              "conclusion": "Shoots are positively phototropic (move towards light) and roots grow down towards the earth."
+            },
+            {
+              "type": "note",
+              "title": "Jagadish Chandra Bose",
+              "text": "Indian scientist who invented the 'crescograph' to measure plant growth and demonstrated that plants sense and respond to stimuli like light and heat."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Life Cycles of Animals",
+      "topics": [
+        {
+          "topic_name": "Life Cycle of a Mosquito",
+          "content": [
+            {
+              "type": "list",
+              "title": "Stages of Mosquito Life Cycle",
+              "items": [
+                "1. Egg: Laid on surface of stagnant water.",
+                "2. Larva: Worm-like, active in water, breathes air at surface.",
+                "3. Pupa: Distinct stage before adult.",
+                "4. Adult: Emerging mosquito flies away."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Precaution",
+              "text": "Spraying kerosene oil on stagnant water blocks air for larvae and pupae, causing them to die and disrupting the life cycle."
+            }
+          ]
+        },
+        {
+          "topic_name": "Life Cycle of a Frog",
+          "content": [
+            {
+              "type": "list",
+              "title": "Stages of Frog Life Cycle",
+              "items": [
+                "1. Spawn: Cluster of eggs in jelly.",
+                "2. Tadpole: Aquatic stage with tail, later develops legs.",
+                "3. Froglet: Small frog with tail still present; begins land life.",
+                "4. Adult Frog: No tail, strong legs for jumping, lives on land and water."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Stomata", "definition": "Tiny pores on plant leaves for gas exchange (air movement)." },
+    { "term": "Stimulus", "definition": "Any event or change in surroundings that prompts a response in a living being." },
+    { "term": "Excretion", "definition": "The elimination of waste products from a living organism's body." },
+    { "term": "Germination", "definition": "The process by which a seed develops into a sprout and eventually a seedling." },
+    { "term": "Tadpole", "definition": "The larval stage in the life cycle of an amphibian, specifically a frog." },
+    { "term": "Crescograph", "definition": "An instrument designed by J.C. Bose to record the growth and response of plants." }
+  ],
+  "summary_points": [
+    "Living beings share seven primary characteristics: movement, growth, nutrition, respiration, excretion, stimulus response, and reproduction.",
+    "Air and water are the two most critical abiotic factors for seed germination.",
+    "Shoots grow towards sunlight and roots grow towards the ground.",
+    "The life cycle of a mosquito follows four stages: Egg -> Larva -> Pupa -> Adult.",
+    "Frogs undergo metamorphosis from aquatic tadpoles to amphibious adult frogs."
+  ]
+}

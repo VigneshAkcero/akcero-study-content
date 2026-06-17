@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "A Tale of Three Intersecting Lines",
+    "chapter_number": 7
+  },
+  "summary": [
+    {
+      "category": "Triangle Construction and Triangle Inequality",
+      "points": [
+        "A triangle consists of three vertices (corner points), three sides (line segments joining vertices), and three angles at each vertex; triangles are named by listing their vertices (e.g., ∆ABC), and can have different shapes and sizes.",
+        "For a set of three lengths to form a triangle, each length must be smaller than the sum of the other two lengths (triangle inequality); if this condition is satisfied, a triangle can be constructed using a compass, and if not, the triangle cannot exist.",
+        "Triangles can be constructed when given: (a) three side lengths, (b) two sides and the included angle (SAS), or (c) two angles and the included side (ASA); compass construction is efficient for building triangles with given measurements."
+      ]
+    },
+    {
+      "category": "Angle Properties and Classification",
+      "points": [
+        "The sum of all three angles in any triangle is always 180° (angle sum property); this fundamental property holds for all triangles regardless of shape or size and can be proven using parallel lines and alternate angles.",
+        "An exterior angle of a triangle (formed by extending a side) equals the sum of the two non-adjacent interior angles; for two angles to form a triangle with an included side, their sum must be less than 180°.",
+        "Triangles are classified by sides (equilateral—all equal, isosceles—two equal, scalene—all different) and by angles (acute—all angles <90°, right—one angle =90°, obtuse—one angle >90°); each triangle fits into both classifications simultaneously."
+      ]
+    },
+    {
+      "category": "Altitudes and Special Properties",
+      "points": [
+        "An altitude of a triangle is a perpendicular line segment from a vertex to the opposite side (or its extension); every triangle has three altitudes, one from each vertex, with the altitude length representing the height of the triangle.",
+        "In a right-angled triangle, the two sides forming the right angle are themselves altitudes to each other; in obtuse triangles, some altitudes lie outside the triangle, meeting extended lines of opposite sides.",
+        "An equilateral triangle has all sides equal and all angles equal to 60°, possessing the highest symmetry; an isosceles triangle has two equal sides, and the angles opposite these equal sides are also equal."
+      ]
+    }
+  ]
+}

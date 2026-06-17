@@ -1,0 +1,28 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Statistics",
+    "chapter_number": 13
+  },
+  "summary": [
+    {
+      "category": "Mean of Grouped Data",
+      "points": [
+        "The mean of grouped data is found using three equivalent methods: (1) Direct Method: x̄ = Σ(fi × xi) / Σfi where xi are class marks and fi are frequencies. (2) Assumed Mean Method: x̄ = a + Σ(fi × di) / Σfi where di = xi − a (deviations). (3) Step Deviation Method: x̄ = a + [Σ(fi × ui) / Σfi] × h where ui = di/h (normalized deviations). The assumed mean method and step deviation method reduce computational effort for large class marks or values."
+      ]
+    },
+    {
+      "category": "Mode and Median of Grouped Data",
+      "points": [
+        "The mode of grouped data is found using: Mode = l + [(f1 − f0) / (2f1 − f0 − f2)] × h, where l is the lower limit of the modal class (highest frequency), f1 is the modal class frequency, f0 and f2 are frequencies of preceding and succeeding classes, and h is the class width. The median is found using: Median = l + [(n/2 − CF) / f] × h, where n is total frequency, CF is cumulative frequency before median class, f is median class frequency. The median class is identified where cumulative frequency first exceeds n/2."
+      ]
+    },
+    {
+      "category": "Cumulative Frequency and Ogives",
+      "points": [
+        "Cumulative frequency (CF) is the running total of frequencies up to each class. An ogive is a cumulative frequency curve: the less than ogive plots (upper limit, CF) and rises from left to right, while the greater than ogive plots (lower limit, CF from right) and falls from left to right. Medians and percentiles can be found graphically from ogives or calculated using formulas. The empirical relationship Mode = 3 Median − 2 Mean provides validation and connects the three central tendency measures."
+      ]
+    }
+  ]
+}

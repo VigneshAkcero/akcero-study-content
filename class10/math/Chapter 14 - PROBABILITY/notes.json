@@ -1,0 +1,333 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Probability",
+    "chapter_number": 14
+  },
+  "notes": [
+    {
+      "section_title": "14.1 Introduction to Probability",
+      "topics": [
+        {
+          "topic_name": "Understanding Probability in Daily Life",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Probability is the mathematical measure of how likely an event is to occur. In everyday language, we use terms like 'certain,' 'probable,' 'possible,' and 'impossible' to describe the likelihood of events. For example, 'it will probably rain tomorrow' or 'it is impossible for the sun to rise in the west.' Probability provides a rigorous mathematical framework to quantify these intuitive notions."
+            },
+            {
+              "type": "paragraph",
+              "text": "There are two main approaches to probability: experimental (empirical) probability based on actual experiments, and theoretical (classical) probability based on logical analysis of equally likely outcomes. In Class IX, you studied empirical probability. This chapter extends to theoretical probability, which is more fundamental and requires fewer repetitions of experiments."
+            }
+          ]
+        },
+        {
+          "topic_name": "Experimental vs Theoretical Probability",
+          "content": [
+            {
+              "type": "note",
+              "title": "Empirical (Experimental) Probability",
+              "text": "Based on actual experiments: P(E) = (Number of times E occurred) / (Total number of trials). Requires repeating the experiment many times; results vary with different runs but approach theoretical probability as trials increase."
+            },
+            {
+              "type": "note",
+              "title": "Theoretical (Classical) Probability",
+              "text": "Based on logical reasoning: P(E) = (Number of favorable outcomes) / (Total number of possible outcomes). Assumes all outcomes are equally likely; requires no experiments; provides exact values without repetition."
+            },
+            {
+              "type": "paragraph",
+              "text": "The limitation of empirical probability is that it may be impossible or impractical to repeat experiments many times. For instance, calculating the probability of a building surviving an earthquake through experimentation would be costly and unethical. Theoretical probability overcomes this by making mathematical assumptions about equally likely outcomes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "14.2 Theoretical Probability (Classical Probability)",
+      "topics": [
+        {
+          "topic_name": "Concept of Equally Likely Outcomes",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When we say outcomes are equally likely, we mean each outcome has the same chance of occurring. For example, when a fair (unbiased) coin is tossed, heads and tails are equally likely because the coin is symmetrical with no reason to favor one side. Similarly, a fair die has each of its six faces equally likely because it is symmetrical and homogeneous."
+            },
+            {
+              "type": "paragraph",
+              "text": "The assumption of equally likely outcomes is crucial. If outcomes are not equally likely, we cannot use the simple theoretical probability formula. For instance, if a die is loaded or a coin is biased, the outcomes are not equally likely, and we would need empirical probability or adjusted calculations."
+            },
+            {
+              "type": "note",
+              "title": "Fair vs Biased Outcomes",
+              "text": "A fair experiment has equally likely outcomes (e.g., fair coin, fair die). A biased experiment has outcomes with unequal probabilities (e.g., loaded die, biased coin). Theoretical probability assumes fairness and equal likelihood."
+            }
+          ]
+        },
+        {
+          "topic_name": "Theoretical Probability Formula",
+          "content": [
+            {
+              "type": "note",
+              "title": "Theoretical Probability Definition",
+              "text": "For an event E with equally likely outcomes: P(E) = (Number of outcomes favorable to E) / (Total number of possible outcomes). Given by Laplace in 1795, this formula is the foundation of classical probability theory."
+            },
+            {
+              "type": "example",
+              "id": "prob1",
+              "title": "Example 1: Coin Toss",
+              "problem": "Find the probability of getting a head when a fair coin is tossed once.",
+              "solution": "Possible outcomes: Head (H), Tail (T). Total possible outcomes = 2. Favorable outcomes for head = 1. P(Head) = 1/2 = 0.5."
+            },
+            {
+              "type": "example",
+              "id": "prob2",
+              "title": "Example 2: Die Roll",
+              "problem": "What is the probability of getting a number greater than 4 when a fair die is rolled once?",
+              "solution": "Possible outcomes: 1, 2, 3, 4, 5, 6. Total outcomes = 6. Favorable outcomes (>4): 5, 6. Number of favorable outcomes = 2. P(number > 4) = 2/6 = 1/3 ≈ 0.333."
+            }
+          ]
+        },
+        {
+          "topic_name": "Sample Space and Events",
+          "content": [
+            {
+              "type": "note",
+              "title": "Sample Space",
+              "text": "The sample space is the set of all possible outcomes of an experiment. Denoted by S. For coin toss: S = {H, T}. For die roll: S = {1, 2, 3, 4, 5, 6}. For two dice: S has 36 outcomes (6 × 6)."
+            },
+            {
+              "type": "note",
+              "title": "Event",
+              "text": "An event is a subset of the sample space. Elementary events contain only one outcome (e.g., 'getting exactly 5 on a die'). Compound events contain multiple outcomes (e.g., 'getting an even number on a die' = {2, 4, 6})."
+            },
+            {
+              "type": "example",
+              "id": "prob3",
+              "title": "Example 3: Sample Space and Events",
+              "problem": "For drawing a ball from a bag containing 3 red and 2 blue balls, define the sample space and find the probability of drawing a red ball.",
+              "solution": "Sample space S = {R1, R2, R3, B1, B2}, where Ri = ith red ball, Bi = ith blue ball. Total outcomes = 5. Favorable outcomes (red ball) = 3. P(Red) = 3/5."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "14.3 Complementary Events",
+      "topics": [
+        {
+          "topic_name": "Understanding Complement of an Event",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The complement of an event E, denoted as Ē or 'not E', is the set of all outcomes in the sample space that are not in E. If E occurs, then Ē does not occur, and vice versa. The events E and Ē partition the sample space—together they account for all possible outcomes."
+            },
+            {
+              "type": "note",
+              "title": "Complementary Events",
+              "text": "Events E and Ē are complementary if: (1) They are mutually exclusive (cannot occur together), (2) They are exhaustive (together cover all outcomes). Example: For a die, 'getting 6' and 'not getting 6' are complementary."
+            }
+          ]
+        },
+        {
+          "topic_name": "Relationship Between P(E) and P(Ē)",
+          "content": [
+            {
+              "type": "note",
+              "title": "Complement Rule",
+              "text": "P(E) + P(Ē) = 1, which gives P(Ē) = 1 - P(E). This relationship always holds and is fundamental in probability calculations."
+            },
+            {
+              "type": "paragraph",
+              "text": "This relationship is useful when calculating the probability of 'not happening' is easier than calculating the probability of 'happening.' For instance, finding the probability of 'at least one success' is often easier by calculating the complement: P(at least one) = 1 - P(none)."
+            },
+            {
+              "type": "example",
+              "id": "comp1",
+              "title": "Example 4: Using Complement",
+              "problem": "A die is rolled. Find the probability of not getting a 3.",
+              "solution": "P(getting 3) = 1/6. P(not getting 3) = 1 - 1/6 = 5/6. Alternatively, outcomes not 3: {1, 2, 4, 5, 6} = 5 outcomes. P(not 3) = 5/6."
+            },
+            {
+              "type": "example",
+              "id": "comp2",
+              "title": "Example 5: Complement in Cards",
+              "problem": "From a deck of 52 cards, one card is drawn. Find the probability that it is not an ace.",
+              "solution": "P(ace) = 4/52 = 1/13. P(not ace) = 1 - 1/13 = 12/13. Alternatively, non-aces = 48 cards. P(not ace) = 48/52 = 12/13."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "14.4 Properties of Probability",
+      "topics": [
+        {
+          "topic_name": "Fundamental Properties",
+          "content": [
+            {
+              "type": "list",
+              "title": "Key Properties of Probability",
+              "items": [
+                "Probability ranges from 0 to 1: 0 ≤ P(E) ≤ 1 for any event E.",
+                "Impossible event has probability 0: P(∅) = 0. Example: getting 8 on a standard die.",
+                "Certain event has probability 1: P(S) = 1, where S is the sample space.",
+                "Sum of probabilities of all elementary events equals 1: Σ P(Ei) = 1.",
+                "Complementary events: P(E) + P(Ē) = 1.",
+                "Mutually exclusive events cannot occur together: P(E ∩ F) = 0."
+              ]
+            },
+            {
+              "type": "example",
+              "id": "prop1",
+              "title": "Example 6: Sum of Elementary Event Probabilities",
+              "problem": "For a fair die, verify that the sum of probabilities of all elementary events equals 1.",
+              "solution": "Elementary events: {1}, {2}, {3}, {4}, {5}, {6}. Each has probability 1/6. Sum = 6 × (1/6) = 1. Verified."
+            }
+          ]
+        },
+        {
+          "topic_name": "Application of Properties",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "These properties help solve probability problems efficiently. For instance, the complementary event property is often used when direct calculation is difficult. The mutual exclusivity property helps when events cannot happen simultaneously."
+            },
+            {
+              "type": "example",
+              "id": "prop2",
+              "title": "Example 7: Impossible vs Certain Events",
+              "problem": "Classify these events: (a) Sun rises in the west, (b) Sun rises in the east, (c) Drawing a card from a standard deck.",
+              "solution": "(a) Impossible event, P = 0. (b) Certain event, P = 1. (c) Neither; it's a compound event that will definitely occur with different outcomes. Each card has probability 1/52, sum = 1."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "14.5 Calculation Methods and Examples",
+      "topics": [
+        {
+          "topic_name": "Multi-step Probability Problems",
+          "content": [
+            {
+              "type": "example",
+              "id": "multi1",
+              "title": "Example 8: Two Dice",
+              "problem": "Two fair dice are rolled simultaneously. Find the probability that the sum is 8.",
+              "solution": "Sample space has 6 × 6 = 36 equally likely outcomes. Favorable outcomes (sum = 8): (2,6), (3,5), (4,4), (5,3), (6,2) = 5 outcomes. P(sum = 8) = 5/36."
+            },
+            {
+              "type": "example",
+              "id": "multi2",
+              "title": "Example 9: Cards Problem",
+              "problem": "One card is drawn from a well-shuffled deck of 52 cards. Find the probability that it is a king of red color.",
+              "solution": "Sample space = 52 cards. Kings of red color (king of hearts, king of diamonds) = 2. P(king of red) = 2/52 = 1/26."
+            }
+          ]
+        },
+        {
+          "topic_name": "Common Pitfalls and Corrections",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A common mistake is assuming all outcomes are equally likely when they are not. For example, when selecting a person 'at random' based on height, taller and shorter individuals are not equally likely to be selected if selection is purely random from a mixed population. Another pitfall is forgetting the complement: computing P(E) when P(Ē) would be simpler."
+            },
+            {
+              "type": "example",
+              "id": "pitfall1",
+              "title": "Example 10: Not All Outcomes Equally Likely",
+              "problem": "A bag contains 3 red balls and 1 blue ball. If we select a ball 'at random,' are red and blue equally likely?",
+              "solution": "No. P(Red) = 3/4, P(Blue) = 1/4. The balls themselves are equally likely (each of 4 balls), but the colors are not because there are more red balls. We must count individual balls, not colors."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Probability",
+      "definition": "The mathematical measure of the likelihood of an event; a number between 0 and 1 indicating how likely an event is to occur."
+    },
+    {
+      "term": "Experiment",
+      "definition": "An action or process that produces one or more outcomes; examples include tossing a coin, rolling a die, or drawing a card."
+    },
+    {
+      "term": "Outcome",
+      "definition": "A single result of an experiment; examples include getting heads on a coin toss or rolling a 5 on a die."
+    },
+    {
+      "term": "Sample Space",
+      "definition": "The set of all possible outcomes of an experiment; denoted by S. Example: For a die, S = {1, 2, 3, 4, 5, 6}."
+    },
+    {
+      "term": "Event",
+      "definition": "A subset of the sample space; a set of one or more outcomes. Example: 'getting an even number on a die' = {2, 4, 6}."
+    },
+    {
+      "term": "Elementary Event",
+      "definition": "An event containing only one outcome; the simplest possible event. Example: 'getting exactly 5 on a die'."
+    },
+    {
+      "term": "Compound Event",
+      "definition": "An event containing two or more outcomes. Example: 'getting an even number on a die'."
+    },
+    {
+      "term": "Equally Likely Outcomes",
+      "definition": "Outcomes that have the same probability of occurring; each outcome has an equal chance. Assumed in theoretical probability."
+    },
+    {
+      "term": "Theoretical Probability",
+      "definition": "Probability calculated using logic and assumptions about equally likely outcomes, without experiments: P(E) = (Favorable outcomes) / (Total outcomes)."
+    },
+    {
+      "term": "Empirical Probability",
+      "definition": "Probability calculated from actual experimental data: P(E) = (Times E occurred) / (Total trials)."
+    },
+    {
+      "term": "Complementary Events",
+      "definition": "Events E and Ē where Ē represents 'not E'; they are mutually exclusive and exhaustive, satisfying P(E) + P(Ē) = 1."
+    },
+    {
+      "term": "Complement of Event E",
+      "definition": "Denoted as Ē or 'not E'; the set of all outcomes in the sample space that are not in E."
+    },
+    {
+      "term": "Mutually Exclusive Events",
+      "definition": "Events that cannot occur together; their intersection is empty. Example: 'getting heads' and 'getting tails' in a single coin toss."
+    },
+    {
+      "term": "Exhaustive Events",
+      "definition": "Events that together cover all possible outcomes of an experiment. Example: 'getting even' and 'getting odd' on a die cover all outcomes."
+    },
+    {
+      "term": "Certain Event",
+      "definition": "An event that is guaranteed to occur; has probability 1. Example: 'getting a number ≤ 6 on a die'."
+    },
+    {
+      "term": "Impossible Event",
+      "definition": "An event that cannot occur; has probability 0. Example: 'getting 7 on a standard die'."
+    },
+    {
+      "term": "Fair Experiment",
+      "definition": "An experiment where all outcomes are equally likely. Example: tossing a fair coin or rolling a fair die."
+    },
+    {
+      "term": "Biased Experiment",
+      "definition": "An experiment where outcomes are not equally likely. Example: rolling a loaded die or tossing a biased coin."
+    },
+    {
+      "term": "Laplace's Definition",
+      "definition": "The classical definition of probability given by Pierre Simon Laplace in 1795: P(E) = (Number of favorable outcomes) / (Total number of equally likely outcomes)."
+    }
+  ],
+  "summary_points": [
+    "Probability is a numerical measure of the likelihood of an event occurring, ranging from 0 to 1. There are two main approaches: empirical probability based on experiments (P = favorable occurrences / total trials) and theoretical probability based on logical analysis (P = favorable outcomes / total outcomes). Theoretical probability is more efficient and requires the assumption that all outcomes are equally likely, which holds for fair experiments like unbiased coins and fair dice.",
+    "Theoretical probability assumes equally likely outcomes: each outcome in the sample space has the same chance of occurring. The probability of an event E is calculated as P(E) = (Number of favorable outcomes) / (Total number of possible outcomes). This requires identifying the sample space (all possible outcomes) and counting favorable outcomes (those satisfying the event condition). For example, P(rolling a 3 on a die) = 1/6.",
+    "The complement of an event E, denoted Ē, represents 'not E.' Complementary events satisfy the fundamental relationship: P(E) + P(Ē) = 1, therefore P(Ē) = 1 - P(E). This relationship is powerful for computing probabilities when the direct approach is complicated. Key properties include: impossible events have P = 0, certain events have P = 1, elementary events are the simplest building blocks, and all elementary events sum to probability 1.",
+    "Common probability problems involve multiple outcomes (dice, cards, balls) where the total number of outcomes increases multiplicatively. For instance, two dice have 36 total outcomes; a well-shuffled deck has 52 equally likely cards. The key is identifying all possible outcomes and counting those favorable to the event. Care must be taken to ensure outcomes are truly equally likely before applying the theoretical probability formula.",
+    "Essential principle: Always verify that outcomes are equally likely before using the theoretical probability formula. In real-world applications, ensuring fairness and equal likelihood is crucial. When outcomes are not equally likely (biased coin, loaded die, or unequal compositions like a bag with different numbers of colored balls), count individual items rather than grouping them by category to maintain equal likelihood of individual outcomes."
+  ]
+}

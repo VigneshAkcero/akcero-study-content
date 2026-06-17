@@ -1,0 +1,234 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Is Matter Around Us Pure?",
+    "chapter_number": 2
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is the scientific meaning of a 'pure substance'? How does it differ from the common meaning?",
+      "answer": "Scientifically, a pure substance consists of a single type of particle with the same chemical nature throughout. Commonly, 'pure' means unadulterated, but milk or juice labelled 'pure' is actually a mixture of several substances.",
+      "solution": "In everyday language, 'pure' implies no added adulterants. But in science, a pure substance must have only one type of particle — fixed composition and identical chemical nature throughout. For example, milk labelled 'pure' contains fat, protein, water, and minerals — it is a mixture, not a pure substance in scientific terms. Only substances like gold, oxygen, water, and sugar qualify as scientifically pure."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Distinguish between homogeneous and heterogeneous mixtures with two examples each.",
+      "answer": "Homogeneous: uniform composition throughout (e.g., salt water, air). Heterogeneous: non-uniform, physically distinct parts visible (e.g., oil and water, soil).",
+      "solution": "Homogeneous mixtures have the same composition and appearance in every part — no distinct regions are visible. Examples: (1) copper sulphate solution — uniformly blue throughout, (2) air — N₂, O₂ and other gases uniformly mixed.\nHeterogeneous mixtures have different regions with different compositions — distinct parts are visible or identifiable. Examples: (1) sand and salt mixture — grains visible separately, (2) oil and water — two distinct layers form."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What are the components of a solution? Which component is present in larger quantity?",
+      "answer": "A solution has two components: solvent (present in larger quantity, does the dissolving) and solute (present in smaller quantity, gets dissolved).",
+      "solution": "• Solvent: the component that dissolves the other substance. It is usually present in larger quantity. Example: water in salt water.\n• Solute: the component that is dissolved. Usually present in smaller quantity. Example: salt in salt water.\nIn a solution of iodine in alcohol (tincture of iodine): iodine is solute, alcohol is solvent. In air: nitrogen (78%) is the major component (solvent-like) and oxygen, CO₂ are solutes."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Why is brass considered a mixture even though it cannot be separated by physical methods?",
+      "answer": "Brass is a mixture because it has variable composition and retains properties of its constituents (copper and zinc), even though it cannot be physically separated.",
+      "solution": "Brass is classified as a mixture (solid solution/alloy) because:\n(1) Variable composition: different grades of brass contain different percentages of copper and zinc (e.g., ~70% Cu + 30% Zn). A true compound always has a fixed composition.\n(2) Constituent properties retained: brass shows properties of both copper and zinc.\n(3) No chemical reaction occurs when copper and zinc are alloyed — no new compound is formed.\nThough it cannot be separated by simple physical methods, it is still a mixture based on its chemical nature."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "List four properties of a true solution.",
+      "answer": "Solutions are homogeneous, have particle size < 1 nm, are stable (do not settle), and do not show the Tyndall effect.",
+      "solution": "(1) Homogeneous — uniform composition throughout.\n(2) Particle size < 1 nm (10⁻⁹ m) — particles invisible to naked eye.\n(3) Stable — solute particles do not settle even after standing undisturbed for a long time.\n(4) No Tyndall effect — particles are too small to scatter light; the path of a light beam is NOT visible.\n(5) Cannot be separated by filtration — particles pass through filter paper."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What is a saturated solution? How does temperature affect saturation?",
+      "answer": "A saturated solution has the maximum amount of solute dissolved at a given temperature. Increasing temperature generally allows more solute to dissolve (increases solubility), making the solution unsaturated.",
+      "solution": "A saturated solution is one in which no more solute can be dissolved at a particular temperature — it has reached its saturation limit. The amount of solute that can be dissolved at that temperature is called solubility.\nEffect of temperature: for most solid solutes dissolved in liquid solvents, solubility increases with temperature. So a saturated solution at 30°C may become unsaturated at 50°C — more solute can now be added. Conversely, cooling a saturated solution causes excess solute to crystallise out."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What is the Tyndall effect? Name two everyday situations where it can be observed.",
+      "answer": "The Tyndall effect is the scattering of a beam of visible light by colloidal particles, making the beam's path visible. Examples: sunlight through a forest canopy, a beam entering a dusty room through a small hole.",
+      "solution": "Colloidal particles (size 1–1000 nm) are large enough to scatter light but too small to be seen individually. When a beam of light passes through a colloid, the particles scatter the light in all directions — making the beam's path visible. This is the Tyndall effect.\nOther examples: (1) Light through milk — the beam becomes visible (milk is a colloid). (2) Vehicle fog lights in misty conditions — mist (water droplets in air) scatters the beam. (3) Sunlight through forest canopy — mist droplets in air scatter sunlight, creating visible beams."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "State the difference between a suspension and a colloidal solution in terms of particle size and stability.",
+      "answer": "Suspension: particle size > 1000 nm, unstable (particles settle). Colloid: particle size 1–1000 nm, stable (particles do not settle).",
+      "solution": "Suspension: particles are large (> 1000 nm), visible to naked eye, and heavy enough to settle due to gravity when left undisturbed — they are UNSTABLE. Example: chalk in water settles to the bottom.\nColloid: particles are smaller (1–1000 nm), NOT visible with naked eye. They remain evenly suspended due to their small size and interactions with the medium — they are STABLE and do not settle. Example: milk does not separate into its components just by standing."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Define an element. Classify the following as metal, non-metal, or metalloid: gold, chlorine, silicon, bromine, carbon.",
+      "answer": "An element is a pure substance that cannot be broken down into simpler substances by chemical reactions. Gold → metal; Chlorine → non-metal; Silicon → metalloid; Bromine → non-metal; Carbon → non-metal.",
+      "solution": "An element consists of only one type of atom and cannot be split into simpler substances by chemical means.\n• Gold (Au) — lustrous, malleable, good conductor → Metal.\n• Chlorine (Cl) — gas, poor conductor, not lustrous → Non-metal.\n• Silicon (Si) — has properties of both metals and non-metals → Metalloid.\n• Bromine (Br) — liquid at room temperature, poor conductor → Non-metal (the only liquid non-metal at room temperature).\n• Carbon (C) — poor conductor (as coal/graphite has some conductivity, but classified as non-metal), not malleable → Non-metal."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Classify each as physical or chemical change: (a) dissolving sugar in water, (b) rusting of iron, (c) boiling water to steam, (d) burning of paper.",
+      "answer": "(a) Physical. (b) Chemical. (c) Physical. (d) Chemical.",
+      "solution": "(a) Dissolving sugar in water: sugar can be recovered by evaporation — no new substance is formed, only sugar particles disperse in water → PHYSICAL.\n(b) Rusting of iron: iron reacts with oxygen and moisture to form iron oxide (Fe₂O₃·nH₂O) — a new substance with different properties → CHEMICAL.\n(c) Boiling water to steam: water changes state to vapour — H₂O is still H₂O, no new substance formed, reversible by cooling → PHYSICAL.\n(d) Burning of paper: paper reacts with oxygen to produce CO₂, H₂O, and ash — new substances with different properties → CHEMICAL."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "What is a compound? Give two properties that distinguish it from a mixture.",
+      "answer": "A compound is a pure substance of two or more elements chemically combined in a fixed proportion. Unlike a mixture: (1) it has fixed composition, and (2) its properties are entirely different from its constituent elements.",
+      "solution": "A compound is formed when elements chemically react and bond in a fixed ratio. Example: water (H₂O) always has hydrogen and oxygen in 1:8 mass ratio.\nDistinctions from a mixture:\n(1) Fixed composition: compound → always same ratio (e.g., H₂O always 2H:1O). Mixture → variable ratio (e.g., can dissolve 5g or 50g of salt in 100 mL water).\n(2) New properties: compound → properties completely different from elements (water is liquid, neither H₂ nor O₂ is liquid at room temperature). Mixture → retains properties of its components (iron + sulphur mixture is still attracted to magnet and can dissolve in CS₂)."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "How can a colloidal solution be separated? Why does filtration fail for colloids?",
+      "answer": "Centrifugation is used to separate colloids. Filtration fails because colloidal particles (1–1000 nm) are too small to be retained by ordinary filter paper.",
+      "solution": "Ordinary filter paper has pores that are large enough for colloidal particles (1–1000 nm) to pass through — so filtration cannot separate them.\nCentrifugation works by spinning the colloidal mixture at very high speed. The centrifugal force causes the denser colloidal particles to move outward and settle at the bottom of the tube, separating them from the dispersion medium. This technique is used to separate cream from milk and in blood analysis."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "A solution contains 40 g of common salt dissolved in 320 g of water. Calculate the mass by mass percentage of the solution.",
+      "answer": "Mass % of salt = 11.1%",
+      "solution": "Given: Mass of solute (salt) = 40 g. Mass of solvent (water) = 320 g.\nMass of solution = mass of solute + mass of solvent = 40 + 320 = 360 g.\nMass by mass % = (mass of solute / mass of solution) × 100\n= (40/360) × 100\n= 11.11% ≈ 11.1%\nSo 11.1 g of salt is present in every 100 g of this solution."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "To make a saturated solution, 36 g of sodium chloride is dissolved in 100 g of water at 293 K. Find its concentration.",
+      "answer": "Concentration = 26.5% (mass by mass).",
+      "solution": "Mass of solute (NaCl) = 36 g. Mass of solvent (water) = 100 g.\nMass of solution = 36 + 100 = 136 g.\nMass by mass % = (36/136) × 100 = 26.47% ≈ 26.5%.\nThis means 26.5 g of NaCl is present per 100 g of solution at 293 K — the saturation concentration at this temperature."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "When you shine a torch beam through (a) a copper sulphate solution, and (b) a milk-water mixture, which shows the Tyndall effect? Explain why.",
+      "answer": "Milk-water shows Tyndall effect; copper sulphate solution does not.",
+      "solution": "(a) Copper sulphate solution is a TRUE SOLUTION: particle size < 1 nm. Particles are too small to scatter visible light. The beam's path is NOT visible → No Tyndall effect.\n(b) Milk is a COLLOID (emulsion of fat in water): particle size 1–1000 nm. Fat droplets are large enough to scatter the beam of light, making the beam path visible → Tyndall effect IS observed.\nThis is the standard experimental test to distinguish a solution from a colloid — shine a torch through both; the colloid scatters the beam."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Classify each as solution, colloid, or suspension: (a) soda water, (b) fog, (c) muddy water, (d) starch solution, (e) sea water.",
+      "answer": "(a) Solution. (b) Colloid. (c) Suspension. (d) Colloid. (e) Solution.",
+      "solution": "(a) Soda water: CO₂ gas dissolved in water, homogeneous, particles < 1 nm → TRUE SOLUTION.\n(b) Fog: water droplets (liquid) dispersed in air (gas), particles 1–1000 nm, shows Tyndall effect, stable → COLLOID (aerosol).\n(c) Muddy water: clay/mud particles > 1000 nm, visible particles, settles on standing, can be filtered → SUSPENSION.\n(d) Starch solution: starch particles 1–1000 nm, shows Tyndall effect, stable → COLLOID (sol).\n(e) Sea water: various salts dissolved in water, uniform, particle size < 1 nm → TRUE SOLUTION."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "In Activity 2.4 (iron + sulphur experiment), how does bringing a magnet near the products of Groups I and II help distinguish a mixture from a compound?",
+      "answer": "Group I (mixture): iron is attracted by the magnet, confirming iron's properties are retained. Group II (compound, FeS): not attracted — iron has lost its magnetic property after chemically combining with sulphur.",
+      "solution": "A mixture retains the individual properties of its components. In Group I, iron and sulphur are just physically mixed — iron particles are still free and attracted by a magnet.\nIn Group II, iron and sulphur were heated strongly and chemically reacted to form iron sulphide (FeS) — a new compound. In FeS, iron atoms are chemically bonded to sulphur atoms. The resulting compound has completely new properties: iron sulphide is NOT attracted by a magnet because the metallic iron no longer exists as free iron — it is part of a new chemical substance.\nThis clearly demonstrates: Mixture → constituent properties retained. Compound → entirely new properties."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "How does adding dilute hydrochloric acid help differentiate between the iron-sulphur mixture and iron sulphide compound?",
+      "answer": "Mixture (Group I) + HCl → colourless, odourless H₂ gas. Compound FeS (Group II) + HCl → colourless gas with rotten-egg smell (H₂S). Different gases confirm a new substance was formed.",
+      "solution": "Group I (iron-sulphur mixture): Iron reacts with HCl: Fe + 2HCl → FeCl₂ + H₂↑. The hydrogen gas produced is colourless and odourless.\nGroup II (iron sulphide compound FeS): FeS + 2HCl → FeCl₂ + H₂S↑. Hydrogen sulphide (H₂S) is produced — it is colourless but has a very characteristic smell of rotten eggs.\nThe different gases produced prove that the chemical nature of iron and sulphur in the mixture is different from that in the compound FeS — confirming that a chemical change occurred in Group II."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Why is the interconversion of states of matter (solid ↔ liquid ↔ gas) classified as a physical change and not a chemical change?",
+      "answer": "Because no new substance is formed — the chemical composition (e.g., H₂O) remains the same in all three states. Only physical properties change.",
+      "solution": "Ice, water, and steam are all H₂O — they have identical chemical composition. When ice melts or water boils, only the arrangement and movement of water molecules change (intermolecular distances and kinetic energy change), not the chemical bonds within each molecule.\nSince: (1) no new substance is formed, (2) the change is reversible (steam can be condensed back to water, water can be frozen back to ice), and (3) chemical properties (composition) are unchanged — these are PHYSICAL changes, not chemical changes."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Why are there only 2 elements that are liquid at room temperature? Name them and classify each.",
+      "answer": "Mercury (metal) and bromine (non-metal) are liquid at room temperature because their melting points are below 25°C.",
+      "solution": "Mercury (Hg): a metal, melting point −38.8°C — it is liquid at all ordinary temperatures. It is silvery, dense, and conducts electricity. It is the only metal liquid at room temperature.\nBromine (Br₂): a non-metal, melting point −7.2°C — liquid reddish-brown at room temperature. Poor conductor of electricity. Only non-metal that is liquid at room temperature.\nMost other elements have melting points above 25°C (room temperature), so they exist as solids. 11 elements are gaseous at room temperature (H₂, O₂, N₂, F₂, Cl₂, and the 6 noble gases He, Ne, Ar, Kr, Xe, Rn)."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "A saturated solution of potassium chloride is made at 353 K and then cooled to room temperature (293 K). What will be observed? Explain.",
+      "answer": "Crystals of potassium chloride will separate out (crystallise) from the solution.",
+      "solution": "At 353 K: solubility of KCl is higher (from data: 54 g per 100 g water). The solution is saturated at this temperature.\nOn cooling to 293 K: solubility of KCl decreases (from data: 35 g per 100 g water). The solution can now dissolve only 35 g KCl per 100 g water, but it had 54 g dissolved. The excess (54 − 35 = 19 g per 100 g water) can no longer remain dissolved.\nTherefore: the excess KCl separates out as solid crystals. This process is called crystallisation. The solution becomes saturated at 293 K with 35 g dissolved, and 19 g has crystallised out."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "Classify the following as elements, compounds, or mixtures: (a) sodium, (b) calcium carbonate, (c) air, (d) sea water, (e) silicon, (f) blood.",
+      "answer": "(a) Element. (b) Compound. (c) Mixture. (d) Mixture. (e) Element. (f) Mixture.",
+      "solution": "(a) Sodium (Na): single type of atom, cannot be broken down → ELEMENT (metal).\n(b) Calcium carbonate (CaCO₃): Ca, C, O in fixed ratio (40:12:48 by mass), new properties → COMPOUND.\n(c) Air: mixture of N₂, O₂, CO₂, Ar, etc., composition varies by location → MIXTURE (homogeneous).\n(d) Sea water: water + dissolved salts (NaCl, MgCl₂, etc.) in variable amounts → MIXTURE (homogeneous solution).\n(e) Silicon (Si): single type of atom, cannot be broken down → ELEMENT (metalloid).\n(f) Blood: plasma (water + proteins) + red blood cells + white blood cells + platelets → MIXTURE (heterogeneous colloid)."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "Which of the following show the Tyndall effect: (a) salt solution, (b) milk, (c) copper sulphate solution, (d) starch solution? Justify.",
+      "answer": "(b) Milk and (d) starch solution show Tyndall effect. They are colloids (particle size 1–1000 nm).",
+      "solution": "(a) Salt solution: true solution, particle size < 1 nm — too small to scatter light → No Tyndall effect.\n(b) Milk: emulsion (fat droplets in water), particle size 1–1000 nm → Tyndall effect observed.\n(c) Copper sulphate solution: true solution, particle size < 1 nm → No Tyndall effect.\n(d) Starch solution: colloidal sol, starch particles 1–1000 nm → Tyndall effect observed.\nRule: Tyndall effect is shown ONLY by colloids (1–1000 nm particles). True solutions (< 1 nm) do not show it."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "Identify the separation technique for: (a) salt from its solution in water, (b) ammonium chloride from salt + ammonium chloride mixture, (c) butter from curd, (d) iron pins from sand.",
+      "answer": "(a) Evaporation/crystallisation. (b) Sublimation. (c) Centrifugation. (d) Magnetic separation.",
+      "solution": "(a) Salt from salt water: evaporate water by heating — salt crystallises out (or use crystallisation). Salt is non-volatile; water evaporates.\n(b) Ammonium chloride from NaCl: ammonium chloride sublimes on heating (solid → gas directly), while NaCl does not. The NH₄Cl vapour is collected and cooled back to solid. Technique: SUBLIMATION.\n(c) Butter from curd: curd is a colloid. Spinning curd at high speed in a centrifuge separates the denser butter fat. Technique: CENTRIFUGATION.\n(d) Iron pins from sand: iron is magnetic, sand is not. A magnet attracts and removes iron pins from the mixture. Technique: MAGNETIC SEPARATION."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Two solutions of copper sulphate are prepared — one with 1 spatula of CuSO₄ (Group A) and one with 2 spatulas (Group B), both in 50 mL water. Both are homogeneous. Does this contradict the statement 'a pure substance has fixed composition'? Explain.",
+      "answer": "No contradiction. Both are MIXTURES (solutions), not pure substances. Homogeneous mixtures can have variable composition. Only compounds (pure substances) have fixed composition.",
+      "solution": "This does NOT contradict the fixed composition rule because:\n• Group A and Group B solutions are HOMOGENEOUS MIXTURES (solutions), not pure substances.\n• The rule 'fixed composition' applies only to PURE SUBSTANCES (elements and compounds), such as CuSO₄ itself (which is always Cu:S:O in a fixed ratio).\n• Mixtures — including homogeneous ones like solutions — can have any composition. 1 g or 10 g of CuSO₄ can be dissolved in the same volume of water — both form homogeneous solutions with different concentrations.\nThe key distinction: homogeneous = uniform appearance ≠ fixed composition. Fixed composition is a property of pure substances, not mixtures."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "How would you confirm that a colourless liquid given to you is pure water? Suggest a method based on physical properties.",
+      "answer": "Check its boiling point (must be exactly 100°C at 1 atm) and freezing point (must be exactly 0°C). Pure water will show a constant boiling/melting point; impure water will show elevation of boiling point and depression of freezing point.",
+      "solution": "A pure substance has a sharp, definite melting point and boiling point.\nMethod:\n(1) Boiling point test: heat the liquid and measure its boiling point. Pure water boils at exactly 100°C (373 K) at 1 atm and maintains this temperature until fully vaporised. Impure water (e.g., salt water) shows boiling point elevation — it boils above 100°C.\n(2) Freezing point test: cool the liquid. Pure water freezes at exactly 0°C (273 K). Impure water shows freezing point depression — it freezes below 0°C.\n(3) Additionally: check Tyndall effect — pure water shows NO Tyndall effect (true solution). If it does, it contains colloidal impurities.\n(4) Density test: pure water = 1 g/cm³ at 4°C. Any deviation indicates impurities."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Explain why a colloid appears homogeneous to the naked eye but is actually heterogeneous.",
+      "answer": "Colloidal particles (1–1000 nm) are too small to be individually seen by the naked eye, so the mixture appears uniform. But these particles are chemically different from the medium — making it heterogeneous at the particle level.",
+      "solution": "The naked eye can resolve objects larger than about 100 μm (100,000 nm). Colloidal particles are only 1–1000 nm — far too small to see individually without instruments.\nTherefore: from a distance, the mixture appears smooth and uniform — like a pure substance or true solution. Example: milk appears as a uniform white liquid.\nHowever, at the microscopic level: (1) the fat droplets (dispersed phase) are chemically different from water (dispersion medium), (2) the particles scatter light (Tyndall effect), proving boundaries exist between the two types of matter, and (3) centrifugation can separate the two components.\nTrue homogeneous mixtures (solutions) have particles < 1 nm — no boundaries even at the molecular level within the medium. Colloids have distinct boundaries, hence heterogeneous."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "When we burn a candle, both physical and chemical changes take place simultaneously. Identify each and justify.",
+      "answer": "Physical changes: melting of wax (wax → liquid), solidifying of wax drops. Chemical change: burning of wax vapour in air (produces CO₂ and H₂O — new substances).",
+      "solution": "A burning candle involves both:\nPhysical changes:\n(1) Melting of wax: solid wax near the wick melts into liquid wax due to heat — state changes but wax remains chemically wax (no new substance). This is reversible — the melted wax can solidify again.\n(2) Wax dripping and solidifying at the sides: still a physical state change.\n\nChemical change:\n(3) Burning of wax vapour: the liquid wax near the wick vaporises and the vapour burns (reacts with atmospheric oxygen). New substances — CO₂ (carbon dioxide) and H₂O (water vapour) — are produced. This is irreversible. The wax is consumed and cannot be recovered. This is a chemical reaction: Wax (hydrocarbon) + O₂ → CO₂ + H₂O."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Why can a mixture be separated by physical methods but a compound cannot? Use the iron-sulphur example to illustrate.",
+      "answer": "In a mixture, constituents are not chemically bonded — only physically present together, so physical forces (magnetism, filtration, etc.) can separate them. In a compound (FeS), elements are chemically bonded — only a chemical reaction can break those bonds.",
+      "solution": "Iron-sulphur MIXTURE (Group I): Iron and sulphur particles are simply in contact with each other. No chemical bonds are formed between Fe atoms and S atoms. Therefore:\n• A magnet attracts iron filings — physical property of iron is intact.\n• Carbon disulphide dissolves the sulphur — sulphur's solubility is intact.\n• Each element can be extracted by exploiting its individual physical property.\n\nIron sulphide COMPOUND FeS (Group II): Iron and sulphur atoms are covalently/ionically bonded into a new crystal lattice — FeS. The Fe-S bonds cannot be broken by magnets or solvents. To extract iron or sulphur, you must break these chemical bonds: e.g., reacting FeS with acid gives H₂S, not free iron or sulphur. Only a chemical reaction can decompose the compound.\n\nThis illustrates the fundamental difference: physical methods work on mixtures; chemical methods are needed for compounds."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Give a quantitative example to show that solubility of a salt changes with temperature. What happens to the excess solute when a saturated solution is cooled?",
+      "answer": "KNO₃ dissolves 32 g in 100 g water at 293 K but 106 g at 333 K. When cooled from 333 K to 293 K, the excess (106−32=74 g) crystallises out.",
+      "solution": "From the solubility data:\nPotassium nitrate (KNO₃) solubility:\n• At 293 K: 32 g per 100 g water.\n• At 333 K: 106 g per 100 g water.\n\nIf we prepare a saturated solution at 333 K: 106 g KNO₃ is dissolved in 100 g water.\nOn cooling to 293 K: the solvent can now hold only 32 g. The remaining 106 − 32 = 74 g of KNO₃ can no longer stay dissolved.\n\nWhat happens: the excess 74 g of KNO₃ separates from the solution as solid crystals — this process is called crystallisation. The crystals are pure KNO₃. The solution becomes saturated at 293 K with 32 g dissolved.\n\nThis is the basis of the industrial technique of purification by crystallisation — impure substances are dissolved at high temperature and then cooled to obtain pure crystals."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "Classify the following into elements, compounds, and mixtures: sugar solution, silver, calcium oxide, coal, soap, methane, carbon dioxide, blood.",
+      "answer": "Elements: silver. Compounds: calcium oxide, methane, carbon dioxide. Mixtures: sugar solution, coal, soap, blood.",
+      "solution": "• Sugar solution (sucrose + water): two pure substances mixed → MIXTURE (homogeneous solution).\n• Silver (Ag): single type of atom, cannot be chemically broken down → ELEMENT (metal).\n• Calcium oxide (CaO): Ca and O in fixed 1:1 ratio, chemically bonded, fixed composition → COMPOUND.\n• Coal: primarily carbon but also contains sulphur, nitrogen, ash — variable composition → MIXTURE (heterogeneous).\n• Soap: mixture of sodium salts of fatty acids (sodium stearate, palmitate, etc.) + glycerol → MIXTURE.\n• Methane (CH₄): C and H in fixed ratio (1C:4H), chemically bonded → COMPOUND.\n• Carbon dioxide (CO₂): C and O in fixed ratio (1C:2O), chemically bonded → COMPOUND.\n• Blood: plasma (water, proteins, dissolved salts) + red blood cells + white blood cells + platelets → MIXTURE (colloidal heterogeneous mixture)."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "A student adds chalk powder to water. The mixture is turbid. He passes a beam of light through it: the path is visible. He lets it stand for 10 minutes: the chalk settles. He filters it: residue is found on filter paper. What type of mixture did he prepare? Justify all four observations.",
+      "answer": "The student prepared a suspension (heterogeneous mixture with particle size > 1000 nm).",
+      "solution": "All four observations point to a suspension:\n(1) Turbid appearance: chalk particles (CaCO₃) are large (> 1000 nm) — visible to naked eye, making water opaque/cloudy. A solution would be clear.\n(2) Visible beam of light: large particles scatter the beam, making its path visible. A true solution would not scatter light (no Tyndall effect). (Note: colloids also scatter light, but the settling and filterability distinguish this as a suspension.)\n(3) Particles settle after standing: suspension is unstable — large particles are heavy enough to sediment under gravity. Colloids are stable and do not settle; solutions never settle.\n(4) Residue on filter paper: chalk particles are too large to pass through filter paper pores. Solutions and colloids pass through filter paper.\nConclusion: all four properties — turbidity, light scattering, settling, and filtration retention — are characteristics of a SUSPENSION."
+    }
+  ]
+}

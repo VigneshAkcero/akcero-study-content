@@ -1,0 +1,45 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Statistics",
+    "chapter_number": 12
+  },
+  "summary": [
+    {
+      "category": "Graphical Representation Overview",
+      "points": [
+        "Graphical representation converts numerical data into visual formats (bar graphs, histograms, frequency polygons) that make patterns, trends, and comparisons immediately apparent and easier to interpret than tabular form.",
+        "Bar graphs use rectangular bars of uniform width to represent categorical (discrete) data, with heights proportional to values. Histograms represent grouped frequency distributions with continuous data in class intervals and no gaps between bars, where areas are proportional to frequencies. Frequency polygons are line graphs formed by joining class-mark points at their frequencies."
+      ]
+    },
+    {
+      "category": "Bar Graphs",
+      "points": [
+        "A bar graph displays categorical data using bars of equal width with equal spacing on the horizontal axis and a frequency/value scale on the vertical axis. Construction involves: (i) choosing an appropriate scale, (ii) marking categories with equal spacing, (iii) drawing bars with heights proportional to values, (iv) labeling both axes clearly.",
+        "Bar graphs are ideal for comparing values across distinct categories and making quick visual comparisons. They cannot represent continuous data or show frequency distributions over intervals."
+      ]
+    },
+    {
+      "category": "Histograms: Uniform and Varying Widths",
+      "points": [
+        "A histogram represents grouped frequency distributions with continuous data organized into class intervals. Unlike bar graphs, rectangles have no gaps. With uniform class widths, rectangle heights are directly proportional to frequencies. With varying widths, frequency density (frequency ÷ class width) must be used to calculate heights, ensuring rectangle areas remain proportional to frequencies.",
+        "The class-mark (class midpoint) is calculated as (Upper Limit + Lower Limit) / 2. When class intervals do not start at zero, a kink or break symbol (~) is drawn on the axis to indicate omitted values. Key principle: in histograms, area (width × height) represents frequency, not height alone."
+      ]
+    },
+    {
+      "category": "Frequency Polygons and Applications",
+      "points": [
+        "A frequency polygon is formed by: (i) joining midpoints of histogram rectangle tops, or (ii) directly plotting (class-mark, frequency) points and connecting them. To close the polygon, hypothetical zero-frequency classes are added before the first and after the last class intervals. This ensures the polygon's area equals the histogram's area.",
+        "Frequency polygons are particularly useful for comparing multiple distributions of the same nature on one graph—multiple polygons can be overlaid to identify differences in distribution shapes, peaks, and patterns. They are preferred for large, continuous datasets where visualization of distribution shape is important."
+      ]
+    },
+    {
+      "category": "Data Types and Scale Selection",
+      "points": [
+        "Continuous data (height, weight, temperature) can take any value in a range and is subdivided into class intervals; represented by histograms or frequency polygons. Discrete data (number of students, number of items) consists of separate, countable values; represented by bar graphs.",
+        "Appropriate scale selection is critical: choose simple, easy-to-read scales (e.g., 1 cm = 10 kg, 1 cm = 5 students) that allow efficient use of space and clarity. Always clearly label axes with variable names and units, provide a descriptive title, and mark scale divisions. Kink symbols indicate omitted axis portions."
+      ]
+    }
+  ]
+}

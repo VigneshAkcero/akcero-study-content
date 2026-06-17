@@ -1,0 +1,255 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "A Tale of Three Intersecting Lines",
+    "chapter_number": 7
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What are the three essential components of a triangle?",
+      "answer": "Three vertices (corner points), three sides (line segments), and three angles.",
+      "solution": "A triangle is formed by three line segments called sides that connect three corner points called vertices. At each vertex, two sides meet to form an angle, giving three angles in total."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What is an equilateral triangle?",
+      "answer": "A triangle in which all three sides have equal length.",
+      "solution": "An equilateral triangle is a special type of triangle where all three sides are of equal length, and consequently, all three angles are also equal (each 60°)."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Define an isosceles triangle.",
+      "answer": "A triangle in which two sides are of equal length.",
+      "solution": "An isosceles triangle has exactly two sides of equal length. The angles opposite these equal sides are also equal to each other."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What is the triangle inequality?",
+      "answer": "For three lengths to form a triangle, each length must be smaller than the sum of the other two.",
+      "solution": "The triangle inequality states that for lengths a, b, and c to form a triangle: a < b + c, b < a + c, and c < a + b. If any of these conditions fails, no triangle can be formed."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Can a triangle be formed with sides 3 cm, 4 cm, and 8 cm?",
+      "answer": "No, a triangle cannot be formed.",
+      "solution": "Check triangle inequality: 3 < 4 + 8 ✓, 4 < 3 + 8 ✓, and 8 < 3 + 4? 8 < 7 ✗. Since the condition 8 < 7 is not satisfied, no triangle can be formed."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What is the sum of the three angles of any triangle?",
+      "answer": "180°",
+      "solution": "The angle sum property of triangles states that the sum of all three interior angles in any triangle is always 180°. This is true for all triangles regardless of their shape or size."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "If two angles of a triangle are 50° and 60°, what is the third angle?",
+      "answer": "70°",
+      "solution": "Using the angle sum property: ∠A + ∠B + ∠C = 180°. Therefore, 50° + 60° + ∠C = 180°. Solving: ∠C = 180° - 50° - 60° = 70°"
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What is an altitude of a triangle?",
+      "answer": "A perpendicular line segment drawn from a vertex to the opposite side.",
+      "solution": "An altitude is a perpendicular (90° angle) drawn from a vertex of the triangle to the opposite side (or the extension of the opposite side). The length of the altitude represents the height of the triangle with respect to that base."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "How many altitudes does a triangle have?",
+      "answer": "Three altitudes, one from each vertex.",
+      "solution": "Every triangle has exactly three altitudes: one from vertex A perpendicular to side BC, one from vertex B perpendicular to side AC, and one from vertex C perpendicular to side AB."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Define a right-angled triangle.",
+      "answer": "A triangle with one angle equal to 90°.",
+      "solution": "A right-angled triangle (or right triangle) is a triangle in which one of the three angles is a right angle (measuring exactly 90°). The side opposite the right angle is called the hypotenuse."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "What is an acute-angled triangle?",
+      "answer": "A triangle in which all three angles are acute (less than 90°).",
+      "solution": "An acute-angled triangle has all three interior angles measuring less than 90°. The sum of these three acute angles still equals 180°."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "Define an obtuse-angled triangle.",
+      "answer": "A triangle in which one angle is obtuse (greater than 90° but less than 180°).",
+      "solution": "An obtuse-angled triangle contains exactly one obtuse angle (between 90° and 180°), and the other two angles must be acute angles so that the sum equals 180°."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Easy",
+      "question": "What is a scalene triangle?",
+      "answer": "A triangle in which all three sides have different lengths.",
+      "solution": "A scalene triangle has no sides of equal length and consequently no angles of equal measure. All three sides are different, and all three angles are different."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Check whether a triangle can be formed with sides 5 cm, 5 cm, and 8 cm.",
+      "answer": "Yes, a triangle can be formed.",
+      "solution": "Check triangle inequality: 5 < 5 + 8 = 13 ✓, 5 < 8 + 5 = 13 ✓, and 8 < 5 + 5 = 10 ✓. All three conditions are satisfied, so a triangle can be formed. This is an isosceles triangle."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "For two angles and an included side to form a triangle, what condition must be satisfied?",
+      "answer": "The sum of the two angles must be less than 180°.",
+      "solution": "For a triangle to exist with two angles and an included side (ASA method), the sum of these two angles must be less than 180°. If the sum is ≥180°, the two line segments drawn from the endpoints of the base will not meet, so no triangle can be formed."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Can a triangle be formed with angles 35° and 150°? Explain.",
+      "answer": "No, a triangle cannot be formed.",
+      "solution": "The sum of the two given angles is 35° + 150° = 185°, which is greater than 180°. For a triangle to exist, the sum of any two angles must be less than 180°. Since 185° > 180°, no triangle can be formed with these two angles."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "If one angle of a triangle is 90° and another is 30°, what is the third angle?",
+      "answer": "60°",
+      "solution": "Using the angle sum property: 90° + 30° + third angle = 180°. Therefore, third angle = 180° - 90° - 30° = 60°. This is a right-angled triangle."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "In a triangle, if ∠B = ∠C and ∠A = 50°, find ∠B and ∠C.",
+      "answer": "∠B = ∠C = 65°",
+      "solution": "Since ∠B = ∠C, let both angles be x. Using angle sum: 50° + x + x = 180°. Therefore, 50° + 2x = 180°, which gives 2x = 130°, so x = 65°. Thus ∠B = ∠C = 65°. This is an isosceles triangle."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "What is the relationship between an exterior angle and the two non-adjacent interior angles?",
+      "answer": "An exterior angle equals the sum of the two non-adjacent interior angles.",
+      "solution": "The exterior angle theorem states that if we extend one side of a triangle, the exterior angle formed equals the sum of the two remote (non-adjacent) interior angles. For example, if we extend side BC of triangle ABC to point D, then ∠ACD = ∠A + ∠B."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "In triangle ABC, ∠A = 50° and ∠B = 60°. If we extend BC beyond C to point D, what is the exterior angle ∠ACD?",
+      "answer": "110°",
+      "solution": "Using the exterior angle theorem: Exterior angle = sum of two non-adjacent interior angles. Therefore, ∠ACD = ∠A + ∠B = 50° + 60° = 110°. Alternatively, find ∠C first: ∠C = 180° - 50° - 60° = 70°, then ∠ACD = 180° - 70° = 110°."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Determine which of the following sets of lengths can form triangles: (a) 2, 2, 5; (b) 3, 4, 6; (c) 10, 20, 25.",
+      "answer": "(a) No triangle; (b) Triangle exists; (c) Triangle exists.",
+      "solution": "(a) 2 + 2 = 4 < 5, so the condition 5 < 2 + 2 fails. No triangle. (b) 3 < 4 + 6 ✓, 4 < 3 + 6 ✓, 6 < 3 + 4 = 7 ✓. Triangle exists. (c) 10 < 20 + 25 ✓, 20 < 10 + 25 ✓, 25 < 10 + 20 = 30 ✓. Triangle exists."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "Can a triangle be constructed with all three sides equal to 50 cm? Justify.",
+      "answer": "Yes, an equilateral triangle can be constructed.",
+      "solution": "Check triangle inequality: 50 < 50 + 50 = 100 ✓ for all three sides. Since each side is less than the sum of the other two, a triangle exists. This would be an equilateral triangle with all sides equal and all angles equal to 60°."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "For sides 1 and 100, give five possible values for the third side such that a triangle exists.",
+      "answer": "Examples: 99.5, 100, 100.5, 101, and any value between 99 and 101 (exclusive).",
+      "solution": "For a triangle to exist with sides a = 1 and b = 100, the third side c must satisfy: c < 1 + 100 = 101 and c > |100 - 1| = 99. Therefore, 99 < c < 101. Any five values strictly between 99 and 101 work, such as 99.5, 100, 100.2, 100.7, 100.9."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Explain why an equilateral triangle cannot be right-angled.",
+      "answer": "In an equilateral triangle, all angles are 60°, so no angle can be 90°.",
+      "solution": "An equilateral triangle is defined as a triangle where all three sides are equal. In such a triangle, all three angles must be equal. Since the sum of angles is 180°, each angle = 180° / 3 = 60°. A right angle requires an angle of 90°, but in an equilateral triangle, all angles are 60°. Therefore, an equilateral triangle cannot be right-angled."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "In triangle ABC, construct it with AB = 5 cm, ∠A = 45°, and AC = 4 cm. What type of triangle is it?",
+      "answer": "A scalene acute-angled triangle (or scalene triangle with specific angle measurements).",
+      "solution": "Using SAS construction with sides 5 cm and 4 cm and included angle 45°, we construct triangle ABC. Since AB ≠ AC (5 ≠ 4) and the angle A is 45° (acute), this creates a scalene triangle. The third angle and side length can be found using angle sum and rules, and it would be an acute-angled scalene triangle."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "In triangle ABC with ∠B = 50° and ∠C = 70°. Construct a line XY parallel to BC through vertex A. Find ∠BAC using alternate angles.",
+      "answer": "∠BAC = 60°",
+      "solution": "Draw line XY parallel to BC through A. Since XY || BC with transversals AB and AC: ∠XAB = ∠B = 50° (alternate angles) and ∠YAC = ∠C = 70° (alternate angles). On the straight line XY: ∠XAB + ∠BAC + ∠YAC = 180°. Therefore, 50° + ∠BAC + 70° = 180°, giving ∠BAC = 60°."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Prove that the sum of angles in a triangle is 180° using parallel lines.",
+      "answer": "See solution for complete proof.",
+      "solution": "Consider triangle ABC. Draw line XY through vertex A parallel to BC. Since XY || BC: ∠XAB = ∠ABC (alternate angles with transversal AB) and ∠YAC = ∠ACB (alternate angles with transversal AC). On the straight line XY, angles form: ∠XAB + ∠BAC + ∠YAC = 180°. Substituting: ∠ABC + ∠BAC + ∠ACB = 180°. This proves the angle sum property."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "For the ASA construction, if one angle is 70° and the other is 75°, and the included side is 6 cm, can a triangle be formed?",
+      "answer": "Yes, a triangle can be formed.",
+      "solution": "For ASA construction, the sum of the two angles must be less than 180°. Here, 70° + 75° = 145° < 180° ✓. Therefore, a triangle can be formed. The third angle would be 180° - 70° - 75° = 35°."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Can we construct a triangle with two sides and a non-included angle? Explain.",
+      "answer": "Not always; multiple triangles may be possible or no triangle may exist.",
+      "solution": "Two sides and a non-included angle (SSA) do not uniquely determine a triangle. Depending on the lengths and angle, there may be zero, one, or two possible triangles (the ambiguous case). This is why this is not a standard construction method. The standard methods are SSS (three sides), SAS (two sides with included angle), and ASA (two angles with included side)."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Visualize and describe the construction of a triangle with sides 4 cm, 5 cm, and 8 cm using circles. Will the circles intersect?",
+      "answer": "Yes, the circles will intersect internally, allowing triangle construction.",
+      "solution": "Take the longest side (8 cm) as base AB. Draw circle with center A and radius 4 cm, and circle with center B and radius 5 cm. For circles to intersect internally, sum of radii > AB: 4 + 5 = 9 > 8 ✓. Also, |4 - 5| = 1 < 8 ✓. Both conditions are satisfied, so circles intersect at two points, either of which serves as the third vertex C. This forms the required triangle."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Medium",
+      "question": "Is it possible for a triangle to have two right angles? Explain.",
+      "answer": "No, it is impossible.",
+      "solution": "If a triangle had two right angles, their sum would be 90° + 90° = 180°, leaving 0° for the third angle. Since any angle must have a positive measure, a triangle cannot have two or more right angles."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Medium",
+      "question": "In a right-angled triangle with one angle 90° and another 45°, find the third angle.",
+      "answer": "45°",
+      "solution": "Using angle sum property: 90° + 45° + third angle = 180°. Therefore, third angle = 180° - 90° - 45° = 45°. This is an isosceles right-angled triangle (45-45-90 triangle) where the two legs are equal."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Easy",
+      "question": "State the angle sum property for triangles.",
+      "answer": "The sum of all three interior angles of a triangle is 180°.",
+      "solution": "This fundamental property holds for all triangles regardless of their type, size, or shape. Mathematically: ∠A + ∠B + ∠C = 180° for any triangle ABC."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Medium",
+      "question": "If all angles of a triangle are equal, what is the measure of each angle?",
+      "answer": "Each angle measures 60°.",
+      "solution": "If all three angles are equal, let each angle be x. Using angle sum: x + x + x = 180°. Therefore, 3x = 180°, so x = 60°. A triangle with all angles equal to 60° is an equilateral triangle."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "For a set of three lengths to not form a triangle, explain one scenario when we can immediately identify this without checking all conditions.",
+      "answer": "When the largest length is greater than or equal to the sum of the other two.",
+      "solution": "If the longest side c ≥ a + b (where a and b are the other two sides), then the triangle inequality is violated. This is because for a closed triangle to form, the longest side must always be less than the sum of the other two sides. Checking this one condition is sufficient to eliminate impossible triangles without checking the other two conditions."
+    }
+  ]
+}

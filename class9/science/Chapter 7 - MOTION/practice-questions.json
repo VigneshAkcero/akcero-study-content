@@ -1,0 +1,206 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Motion",
+    "chapter_number": 7
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Can an object have zero displacement even after travelling a non-zero distance? Explain with an example.",
+      "answer": "Yes. When an object returns to its starting point, displacement = 0 but distance ≠ 0.",
+      "solution": "Displacement = shortest straight-line distance from initial to final position. If the final position coincides with the initial position, displacement = 0.\nExample: A boy walks 60 m from O to A, then walks back 60 m from A to O. Distance covered = 60 + 60 = 120 m. Displacement = 0 m (started and ended at O).\nAnother example: an athlete completes one full lap of a circular track — distance = 2πr, displacement = 0."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "A car travels along a rectangular path: 40 m east, 30 m north, 40 m west, 30 m south, returning to start. What is the distance covered and the displacement?",
+      "answer": "Distance = 40 + 30 + 40 + 30 = 140 m. Displacement = 0 m (returns to starting point).",
+      "solution": "Distance: sum of all path lengths = 40 + 30 + 40 + 30 = 140 m.\nDisplacement: the car starts and ends at the same point → final position = initial position → displacement = 0 m.\nThis shows: distance is always the actual path length (140 m), displacement is the straight-line gap between start and end (0 m). Both distance and displacement have the same unit (m)."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What does the odometer of a vehicle measure — distance or displacement? Justify.",
+      "answer": "Odometer measures distance (total path length), not displacement.",
+      "solution": "An odometer records every metre of path the vehicle travels, regardless of direction. It counts total path length, including all curves and back-and-forth movement.\nDisplacement would be the straight-line distance from the journey's start to end — the odometer has no way to record this (it doesn't track direction or final position relative to start).\nExample: A car drives 1850 km from Bhubaneshwar to New Delhi via a curved road. Odometer reads 1850 km (distance). The actual straight-line displacement between the two cities is less than 1850 km."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Under what condition is the magnitude of displacement equal to the distance travelled by an object?",
+      "answer": "When the object moves along a straight line in one direction only, without reversing.",
+      "solution": "Displacement (magnitude) = shortest straight-line distance from initial to final position.\nDistance = total path length.\nThese are equal ONLY when the entire path is a straight line and the object never reverses direction — every metre of path directly contributes to the straight-line gap from start to end.\nExamples:\n• Object moving from O to A on a straight road without turning back → distance = displacement magnitude.\n• Car driving straight 60 km north → distance = 60 km = displacement magnitude.\nBut: car drives 40 km east, then 30 km north → distance = 70 km; displacement magnitude = √(40²+30²) = 50 km → not equal."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Distinguish between speed and velocity with one example each.",
+      "answer": "Speed: scalar — only magnitude (distance/time). Velocity: vector — magnitude + direction (displacement/time).",
+      "solution": "Speed = distance covered per unit time. Scalar — only magnitude.\nFormula: speed = total distance / total time. SI unit: m s⁻¹.\nVelocity = displacement per unit time. Vector — magnitude AND direction.\nFormula: velocity = total displacement / total time. SI unit: m s⁻¹.\n\nExamples:\n• Speed: 'The car is moving at 60 km h⁻¹' — only how fast.\n• Velocity: 'The car is moving at 60 km h⁻¹ due north' — how fast and which direction.\n\nKey consequence: average speed ≥ |average velocity| always. For Usha swimming 180 m (90 m + 90 m back) in 60 s: average speed = 3 m s⁻¹, average velocity = 0/60 = 0 m s⁻¹ (displacement = 0)."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "An object travels 16 m in 4 s and then another 16 m in 2 s. Calculate its average speed.",
+      "answer": "Average speed = 32/6 = 5.33 m s⁻¹.",
+      "solution": "Total distance = 16 m + 16 m = 32 m.\nTotal time = 4 s + 2 s = 6 s.\nAverage speed = total distance / total time = 32/6 = 5.33 m s⁻¹.\nNote: we cannot say the instantaneous speed was constant throughout — the object was faster in the second leg (16 m in 2 s = 8 m s⁻¹) than the first (16 m in 4 s = 4 m s⁻¹). Average speed gives the effective rate over the whole journey."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "When will you say a body is in (i) uniform acceleration? (ii) non-uniform acceleration?",
+      "answer": "(i) Uniform acceleration: velocity changes by equal amounts in equal intervals of time. (ii) Non-uniform acceleration: velocity changes by unequal amounts in equal intervals of time.",
+      "solution": "(i) Uniform (constant) acceleration: the velocity of the object increases or decreases by the same amount every second. Example: a freely falling body — gains 10 m s⁻¹ every second under gravity (on Earth, ignoring air resistance).\n(ii) Non-uniform acceleration: the rate of change of velocity itself changes — it is not constant. Example: a car in city traffic — sometimes speeding up fast, sometimes slowly, sometimes decelerating.\n\nKey test: If the velocity-time graph is a STRAIGHT LINE → uniform acceleration. If it is a CURVE → non-uniform acceleration."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What is the nature of the distance-time graph for (i) uniform motion, (ii) non-uniform motion, and (iii) an object at rest?",
+      "answer": "(i) Straight inclined line (positive slope). (ii) Curved line. (iii) Horizontal straight line (parallel to time axis).",
+      "solution": "(i) Uniform motion: equal distances in equal time → distance is directly proportional to time → graph is a straight line with a positive slope. Slope of this line = constant speed.\n(ii) Non-uniform motion: unequal distances in equal time → graph is a curve (non-linear). If the object is accelerating, the curve bends upward (increasing slope = increasing speed).\n(iii) Object at rest: distance does not change with time → graph is a horizontal straight line (slope = 0 = speed).\n\nKey rule: Slope of distance-time graph = speed at that instant."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "What does the area under a velocity-time graph represent?",
+      "answer": "The area under the velocity-time graph represents the distance (magnitude of displacement) covered by the object in the given time interval.",
+      "solution": "From the definition: distance = velocity × time.\nOn a v-t graph: the 'area' of the region between the graph line and the x-axis = height (velocity) × base (time) = displacement/distance.\n\nSpecific cases:\n• Uniform velocity (horizontal line): area = rectangle = v × t = distance.\n• Uniform acceleration (straight inclined line): area = trapezoid = area of rectangle (u×t) + area of triangle (½×(v−u)×t) = ut + ½at².\n• This is exactly the second equation of motion: s = ut + ½at².\n\nFull area under any v-t graph (using integration concept) = total distance covered."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "State the three equations of motion. What are the symbols used, and when can these equations be applied?",
+      "answer": "v = u + at; s = ut + ½at²; v² = u² + 2as. Applied only for uniform (constant) acceleration along a straight line.",
+      "solution": "Symbols: u = initial velocity (m s⁻¹), v = final velocity (m s⁻¹), a = acceleration (m s⁻²), t = time (s), s = distance covered (m).\n\n1. v = u + at: gives final velocity after time t. Derived from definition of acceleration.\n2. s = ut + ½at²: gives distance covered in time t.\n3. v² = u² + 2as: gives final velocity after covering distance s. Eliminates t.\n\nConditions: ONLY valid when:\n(a) Acceleration is constant (uniform) throughout the motion.\n(b) Motion is along a straight line.\nNOT valid for circular motion, varying acceleration, or 2D motion (directly)."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "Why is uniform circular motion considered accelerated motion even though the speed is constant?",
+      "answer": "Because velocity is a vector. Even at constant speed, the direction of motion changes at every point on the circle — this change in velocity direction means the object is accelerating.",
+      "solution": "Velocity = speed + direction (vector quantity).\nIn uniform circular motion:\n• Speed (magnitude of velocity): CONSTANT.\n• Direction of velocity: changes continuously at every point (always tangential to the circle).\nSince velocity (the vector) is changing (direction changes), there IS a rate of change of velocity → there IS acceleration.\nThis acceleration is called centripetal acceleration and is always directed toward the centre of the circle.\n\nProof from Activity 7.11 (stone on thread): when released, the stone moves in a straight line along the tangent — at the moment of release, this was the direction of its velocity. This means the velocity direction was always changing while it moved in a circle."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "A car's odometer reads 2000 km at the start and 2400 km at the end of a trip lasting 8 hours. Find average speed in km h⁻¹ and m s⁻¹.",
+      "answer": "Average speed = 50 km h⁻¹ = 13.9 m s⁻¹.",
+      "solution": "Distance covered = 2400 − 2000 = 400 km.\nTime = 8 h.\nAverage speed = distance / time = 400/8 = 50 km h⁻¹.\n\nConversion to m s⁻¹:\n50 km h⁻¹ × (1000 m / 1 km) × (1 h / 3600 s) = 50 × 1000/3600 = 50 × 5/18 = 13.9 m s⁻¹.\n\nNote: This is the average speed over the whole trip. The car might have gone faster or slower at various points — the average smooths these variations."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "A bus starts from rest and moves with uniform acceleration of 0.1 m s⁻² for 2 minutes. Find (a) the speed acquired and (b) the distance travelled.",
+      "answer": "(a) v = 12 m s⁻¹. (b) s = 720 m.",
+      "solution": "Given: u = 0 (starts from rest), a = 0.1 m s⁻², t = 2 min = 120 s.\n(a) Using v = u + at:\nv = 0 + 0.1 × 120 = 12 m s⁻¹.\n\n(b) Using s = ut + ½at²:\ns = 0 × 120 + ½ × 0.1 × 120²\ns = 0 + 0.05 × 14400\ns = 720 m.\n\nVerification using v² = u² + 2as: 12² = 0 + 2 × 0.1 × s → s = 144/0.2 = 720 m. ✓"
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "A train is travelling at 90 km h⁻¹. Brakes produce a uniform acceleration of −0.5 m s⁻². How far will the train go before stopping?",
+      "answer": "s = 625 m.",
+      "solution": "Given: u = 90 km h⁻¹ = 90 × (5/18) = 25 m s⁻¹; a = −0.5 m s⁻²; v = 0 (stops).\n\nUsing v² = u² + 2as:\n0 = 25² + 2 × (−0.5) × s\n0 = 625 − s\ns = 625 m.\n\nTime to stop: from v = u + at → 0 = 25 + (−0.5)t → t = 50 s.\n\nPhysical insight: a heavily loaded train at high speed requires a very long braking distance (625 m ≈ over half a kilometre). This is why trains need to apply brakes well in advance of stations."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "A car accelerates uniformly from 18 km h⁻¹ to 36 km h⁻¹ in 5 s. Calculate (i) the acceleration and (ii) the distance covered.",
+      "answer": "(i) a = 1 m s⁻². (ii) s = 37.5 m.",
+      "solution": "Convert velocities: u = 18 × 5/18 = 5 m s⁻¹; v = 36 × 5/18 = 10 m s⁻¹; t = 5 s.\n\n(i) a = (v − u)/t = (10 − 5)/5 = 5/5 = 1 m s⁻².\n\n(ii) Using s = ut + ½at²:\ns = 5 × 5 + ½ × 1 × 5²\ns = 25 + 12.5\ns = 37.5 m.\n\nAlternative using v² = u² + 2as: 100 = 25 + 2 × 1 × s → s = 75/2 = 37.5 m. ✓"
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Brakes applied to a car produce an acceleration of 6 m s⁻² in the opposite direction to motion. If the car takes 2 s to stop, calculate (i) the initial speed and (ii) the stopping distance.",
+      "answer": "(i) u = 12 m s⁻¹. (ii) s = 12 m.",
+      "solution": "Given: a = −6 m s⁻² (deceleration), t = 2 s, v = 0 (stops).\n\n(i) Using v = u + at:\n0 = u + (−6) × 2 → u = 12 m s⁻¹.\n\n(ii) Using s = ut + ½at²:\ns = 12 × 2 + ½ × (−6) × 4\ns = 24 − 12 = 12 m.\n\nPhysical reasoning: the car still travels 12 m forward after brakes are applied before stopping. This is the stopping distance or braking distance. This explains why drivers must maintain a safe following distance — a car cannot stop instantly."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "A train starting from rest attains a velocity of 72 km h⁻¹ in 5 minutes. Find (i) acceleration and (ii) distance travelled. Assume uniform acceleration.",
+      "answer": "(i) a = 1/15 m s⁻² ≈ 0.067 m s⁻². (ii) s = 3000 m = 3 km.",
+      "solution": "Convert: v = 72 km h⁻¹ = 72 × 5/18 = 20 m s⁻¹; u = 0; t = 5 min = 300 s.\n\n(i) a = (v − u)/t = (20 − 0)/300 = 1/15 m s⁻² ≈ 0.067 m s⁻².\n\n(ii) Using v² = u² + 2as:\n20² = 0 + 2 × (1/15) × s\n400 = (2/15)s\ns = 400 × 15/2 = 3000 m = 3 km.\n\nVerification: s = ut + ½at² = 0 + ½ × (1/15) × 300² = (1/30) × 90000 = 3000 m. ✓"
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "A stone is thrown vertically upward with velocity 5 m s⁻¹. Acceleration = 10 m s⁻² downward. Find (i) maximum height reached and (ii) time taken to reach maximum height.",
+      "answer": "(i) Maximum height = 1.25 m. (ii) Time = 0.5 s.",
+      "solution": "Given: u = 5 m s⁻¹ (upward), a = −10 m s⁻² (downward, opposing motion), v = 0 (at maximum height).\n\n(i) Using v² = u² + 2as:\n0 = 5² + 2 × (−10) × s\n0 = 25 − 20s\ns = 25/20 = 1.25 m.\n\n(ii) Using v = u + at:\n0 = 5 + (−10)t\nt = 5/10 = 0.5 s.\n\nReasoning: At maximum height, velocity = 0 (stone momentarily stops before falling back). Gravity always acts downward (−10 m s⁻²), slowing the stone on the way up."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "A ball is dropped from a height of 20 m. Its velocity increases uniformly at 10 m s⁻² (acceleration due to gravity). With what velocity does it strike the ground, and in what time?",
+      "answer": "v = 20 m s⁻¹. t = 2 s.",
+      "solution": "Given: u = 0 (dropped from rest), a = 10 m s⁻², s = 20 m.\n\nFinding velocity using v² = u² + 2as:\nv² = 0 + 2 × 10 × 20 = 400\nv = 20 m s⁻¹.\n\nFinding time using v = u + at:\n20 = 0 + 10 × t\nt = 2 s.\n\nVerification using s = ut + ½at²: s = 0 + ½ × 10 × 4 = 20 m. ✓\n\nReasoning: A freely falling body (ignoring air resistance) has constant acceleration = g = 10 m s⁻² downward. Every second, it gains 10 m s⁻¹ of speed."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "An athlete completes one round of a circular track of diameter 200 m in 40 s. What is (i) the distance covered and (ii) the displacement after one complete round? What is the speed?",
+      "answer": "(i) Distance = 200π ≈ 628 m. (ii) Displacement = 0 m. Speed = 200π/40 = 5π ≈ 15.7 m s⁻¹.",
+      "solution": "Radius r = diameter/2 = 200/2 = 100 m.\n\n(i) Distance for one full round = circumference = 2πr = 2 × π × 100 = 200π ≈ 628.3 m.\n\n(ii) After one complete round, the athlete returns to the starting position. Final position = initial position. Displacement = 0 m.\n\nSpeed = circumference / time = 200π / 40 = 5π ≈ 15.7 m s⁻¹.\n\nVelocity (average): displacement/time = 0/40 = 0 m s⁻¹ for one complete round.\n(Instantaneous velocity is never zero — the athlete is always moving — but average velocity over a full lap is zero.)"
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "A velocity-time graph shows a straight line passing through the origin to the point (5 s, 10 m s⁻¹). (i) What type of motion does this represent? (ii) Calculate acceleration. (iii) Calculate distance covered.",
+      "answer": "(i) Uniform acceleration from rest. (ii) a = 2 m s⁻². (iii) s = 25 m.",
+      "solution": "(i) Straight line on v-t graph → uniform (constant) acceleration. Starting from origin means u = 0 (starts from rest).\n\n(ii) Acceleration = slope of v-t graph = rise/run = (10 − 0)/(5 − 0) = 10/5 = 2 m s⁻².\n\n(iii) Distance = area under v-t graph = area of triangle (since starts from 0):\n= ½ × base × height = ½ × 5 × 10 = 25 m.\n\nVerification using s = ut + ½at²: s = 0 + ½ × 2 × 25 = 25 m. ✓\n\nLinks graphical method to equations of motion — both give the same result."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "A trolley on an inclined plane starts from rest and has an acceleration of 2 cm s⁻². What will be its velocity after 3 s?",
+      "answer": "v = 6 cm s⁻¹ = 0.06 m s⁻¹.",
+      "solution": "Given: u = 0 (starts from rest), a = 2 cm s⁻² = 0.02 m s⁻², t = 3 s.\n\nUsing v = u + at:\nv = 0 + 2 × 3 = 6 cm s⁻¹ = 0.06 m s⁻¹.\n\nDistance covered: s = ut + ½at² = 0 + ½ × 2 × 9 = 9 cm = 0.09 m.\n\nPhysical context: The inclined plane provides a component of gravity as the driving force. As the trolley moves down, it keeps gaining speed — typical of uniformly accelerated motion along an incline."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "A motorboat accelerates from rest at 3.0 m s⁻² for 8 s. (i) Find the distance covered. (ii) If after 8 s the engine is cut and the boat decelerates at 1.5 m s⁻², how much further does it travel before stopping?",
+      "answer": "(i) s₁ = 96 m. (ii) s₂ = 192 m. Total = 288 m.",
+      "solution": "Phase 1 (acceleration): u = 0, a = 3.0 m s⁻², t = 8 s.\nv₁ = u + at = 0 + 3 × 8 = 24 m s⁻¹.\ns₁ = ut + ½at² = 0 + ½ × 3 × 64 = 96 m.\n\nPhase 2 (deceleration to rest): u₂ = 24 m s⁻¹, a = −1.5 m s⁻², v = 0.\nUsing v² = u² + 2as:\n0 = 24² + 2 × (−1.5) × s₂\n0 = 576 − 3s₂\ns₂ = 192 m.\n\nTime to stop: v = u + at → 0 = 24 − 1.5t → t = 16 s.\n\nTotal distance = s₁ + s₂ = 96 + 192 = 288 m.\nInsight: the deceleration phase takes longer and covers greater distance than the acceleration phase — because deceleration rate (1.5 m s⁻²) is only half the acceleration rate (3.0 m s⁻²)."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Joseph jogs from A to B (300 m) in 2 min 30 s, then turns and jogs 100 m back to C in 1 min. Find (a) average speed and (b) average velocity for the entire journey A to C.",
+      "answer": "(a) Average speed = 2 m s⁻¹. (b) Average velocity = 200/210 ≈ 0.95 m s⁻¹ (toward B).",
+      "solution": "Total distance = 300 + 100 = 400 m.\nTotal time = 2 min 30 s + 1 min = 3 min 30 s = 210 s.\n\n(a) Average speed = total distance / total time = 400/210 ≈ 1.90 m s⁻¹.\n(Note: some textbooks get exactly 2 m s⁻¹ — 400/200. Check time: 2 min 30 s = 150 s + 60 s = 210 s total → 400/210 = 1.90 m s⁻¹.)\n\n(b) Displacement (A to C): C is 300 − 100 = 200 m from A (toward B direction).\nAverage velocity = displacement / time = 200/210 ≈ 0.95 m s⁻¹ in the direction from A toward B.\n\nKey insight: average speed ≠ average velocity because the paths in the two legs are in opposite directions — displacement is less than total distance."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Abdul drives to school at 20 km h⁻¹ and returns along the same route at 30 km h⁻¹. Calculate the average speed for the whole trip. Why is it NOT simply (20 + 30)/2 = 25 km h⁻¹?",
+      "answer": "Average speed = 24 km h⁻¹, not 25 km h⁻¹.",
+      "solution": "Let one-way distance = d km.\nTime going (at 20 km h⁻¹) = d/20 h.\nTime returning (at 30 km h⁻¹) = d/30 h.\nTotal distance = 2d km.\nTotal time = d/20 + d/30 = 3d/60 + 2d/60 = 5d/60 = d/12 h.\n\nAverage speed = 2d / (d/12) = 2d × 12/d = 24 km h⁻¹.\n\nWhy not 25 km h⁻¹?\nSimply averaging speeds (25 km h⁻¹) is incorrect because equal distances are covered at each speed, NOT equal times. The journey at 20 km h⁻¹ takes MORE time than at 30 km h⁻¹. So the slower speed contributes more to the total time. The correct method weights speeds by time, giving a harmonic mean: 2×20×30/(20+30) = 1200/50 = 24 km h⁻¹."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "An artificial satellite moves in a circular orbit of radius 42250 km and completes one revolution in 24 hours. Calculate its orbital speed.",
+      "answer": "v ≈ 3.07 km s⁻¹ ≈ 3070 m s⁻¹.",
+      "solution": "Given: r = 42250 km = 42,250,000 m; t = 24 h = 24 × 3600 = 86400 s.\n\nCircumference = 2πr = 2 × 3.14159 × 42,250,000 ≈ 265,464,000 m ≈ 2.65 × 10⁸ m.\n\nSpeed v = 2πr / t = 2.65 × 10⁸ / 86400 ≈ 3067 m s⁻¹ ≈ 3.07 km s⁻¹.\n\nThis is a geostationary satellite — completing one orbit in exactly 24 h means it stays above the same point on Earth (since Earth also rotates once in 24 h). Even at 3.07 km/s, since the orbit is so large the angular speed matches Earth's rotation."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "A racing car at rest has uniform acceleration of 4 m s⁻². Another car B starts at the same time from the same point with a uniform velocity of 20 m s⁻¹. (i) After how many seconds does car A reach the same speed as car B? (ii) After how many seconds does car A cover the same distance as car B at that moment?",
+      "answer": "(i) Car A reaches 20 m s⁻¹ after t = 5 s. (ii) Car A covers the same distance as car B at t = 10 s.",
+      "solution": "(i) Car A: v = u + at = 0 + 4t. Car B: constant velocity 20 m s⁻¹.\nFor equal speeds: 4t = 20 → t = 5 s. At t=5s, car A speed = car B speed = 20 m s⁻¹.\n\n(ii) Distance by car A: s_A = ½ × 4 × t² = 2t².\n    Distance by car B: s_B = 20t.\n    Equal distances: 2t² = 20t → 2t = 20 → t = 10 s.\n    At t=10s: s_A = 2 × 100 = 200 m; s_B = 20 × 10 = 200 m. ✓\n\nInsight: car A is slower than B for the first 5 s (B has a head start on distance). Car A overtakes B after t = 10 s because it is consistently accelerating. Between t = 5s and t = 10s, car A is faster than B but B still has a distance advantage from the first 5 s."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "A velocity-time graph shows: from t=0 to t=4 s, velocity increases uniformly from 0 to 8 m s⁻¹. From t=4 s to t=8 s, velocity stays constant at 8 m s⁻¹. From t=8 s to t=12 s, velocity decreases uniformly from 8 m s⁻¹ to 0. Calculate: (i) acceleration in each phase, (ii) total distance covered.",
+      "answer": "(i) Phase 1: a = 2 m s⁻². Phase 2: a = 0. Phase 3: a = −2 m s⁻². (ii) Total distance = 64 m.",
+      "solution": "(i) Acceleration = slope of v-t graph:\nPhase 1 (0–4 s): a = (8 − 0)/(4 − 0) = 2 m s⁻². [Uniform acceleration]\nPhase 2 (4–8 s): a = (8 − 8)/(8 − 4) = 0. [Uniform velocity]\nPhase 3 (8–12 s): a = (0 − 8)/(12 − 8) = −8/4 = −2 m s⁻². [Uniform deceleration]\n\n(ii) Distance = total area under v-t graph:\nPhase 1 (triangle): ½ × 4 × 8 = 16 m.\nPhase 2 (rectangle): 4 × 8 = 32 m.\nPhase 3 (triangle): ½ × 4 × 8 = 16 m.\nTotal = 16 + 32 + 16 = 64 m.\n\nVerification: average velocity over whole = total distance/total time = 64/12 ≈ 5.33 m s⁻¹."
+    }
+  ]
+}

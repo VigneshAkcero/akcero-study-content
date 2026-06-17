@@ -1,0 +1,58 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Lines and Angles",
+    "chapter_number": 2
+  },
+  "summary": [
+    {
+      "category": "Basic Geometrical Elements",
+      "points": [
+        "A point determines a precise location and has no dimensions (length, breadth, or height).",
+        "A line segment is the shortest distance between two points, whereas a line extends indefinitely in both directions.",
+        "A ray starts at a point and goes on endlessly in a certain direction."
+      ]
+    },
+    {
+      "category": "Angles and Rotation",
+      "points": [
+        "An angle is formed when two rays share a common starting point called the vertex.",
+        "The size of an angle is determined by the amount of rotation or turn needed to move one ray (arm) to the other.",
+        "Angles are named using three letters with the vertex in the middle (e.g., $\\angle ABC$ or $\\angle CBA$)."
+      ]
+    },
+    {
+      "category": "Classification of Angles",
+      "points": [
+        "Acute angles are sharp angles measuring more than $0^\\circ$ but less than $90^\\circ$.",
+        "Right angles represent exactly a quarter turn ($90^\\circ$), often appearing in 'L' shaped corners.",
+        "Obtuse angles are blunt angles measuring more than $90^\\circ$ but less than $180^\\circ$.",
+        "Straight angles ($180^\\circ$) form a straight line, while reflex angles range from $180^\\circ$ to $360^\\circ$."
+      ]
+    },
+    {
+      "category": "Measuring Angles",
+      "points": [
+        "Angles are measured in degrees ($^\\circ$), where a full rotation is divided into $360$ equal unit parts.",
+        "A protractor is the standard tool used to measure or draw angles of specific degree measures.",
+        "An angle bisector is a line that divides a given angle into two exactly equal smaller angles."
+      ]
+    },
+    {
+      "category": "Practical Applications",
+      "points": [
+        "In a clock, the angle between two successive numbers (e.g., 12 and 1) is $30^\\circ$ since $360 \\div 12 = 30$.",
+        "Perpendicular lines meet at right angles ($90^\\circ$), forming common structural shapes like window frames.",
+        "Angles find use in real-life contexts like opening doors, swings, and determining the slope of inclined surfaces."
+      ]
+    },
+    {
+      "category": "Historical Significance",
+      "points": [
+        "The division of a circle into 360 parts is ancient, referenced in the Rigveda as a wheel with 360 spokes.",
+        "360 is mathematically useful because it is divisible by every number from 1 to 10 except for 7, allowing for easy division into parts."
+      ]
+    }
+  ]
+}

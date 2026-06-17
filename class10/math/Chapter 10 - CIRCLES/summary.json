@@ -1,0 +1,30 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Circles",
+    "chapter_number": 10
+  },
+  "summary": [
+    {
+      "category": "Tangent Definition and Fundamental Property",
+      "points": [
+        "A tangent to a circle is a line that touches the circle at exactly one point (point of contact). A circle and a line can have three relationships: non-intersecting (0 common points), secant (2 common points), or tangent (1 common point).",
+        "Theorem 10.1: The tangent at any point of a circle is perpendicular to the radius through the point of contact. At any given point on a circle, exactly one tangent exists."
+      ]
+    },
+    {
+      "category": "Tangents from External Points",
+      "points": [
+        "From a point inside the circle: No tangent can be drawn. From a point on the circle: Exactly one tangent exists. From a point outside the circle: Exactly two tangents can be drawn.",
+        "Theorem 10.2: The lengths of tangents drawn from an external point to a circle are equal. If an external point is at distance d from the centre and the radius is r, the tangent length = √(d² - r²)."
+      ]
+    },
+    {
+      "category": "Key Applications and Properties",
+      "points": [
+        "Tangents at the ends of a diameter are parallel. In a quadrilateral circumscribing a circle: AB + CD = AD + BC. In a triangle circumscribing a circle, tangent segments from each vertex are equal. The angle between two tangents and the angle at the centre (subtended by the chord joining points of contact) are supplementary."
+      ]
+    }
+  ]
+}

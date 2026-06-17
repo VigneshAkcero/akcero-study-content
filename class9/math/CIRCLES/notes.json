@@ -1,0 +1,639 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Circles",
+    "chapter_number": 9
+  },
+  "notes": [
+    {
+      "section_title": "9.1 Angle Subtended by a Chord at a Point",
+      "topics": [
+        {
+          "topic_name": "Angle Subtended by a Line Segment",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Consider a line segment PQ and a point R not lying on the line containing PQ. When we join PR and QR, the angle PRQ is called the angle subtended by the line segment PQ at the point R."
+            },
+            {
+              "type": "note",
+              "title": "Angle Subtended",
+              "text": "The angle subtended by a line segment at a point is the angle formed when line segments are drawn from that point to the endpoints of the line segment."
+            }
+          ]
+        },
+        {
+          "topic_name": "Angles Subtended by a Chord",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A chord of a circle divides the circle into two arcs — a major arc and a minor arc. When a chord PQ is drawn in a circle with centre O, the angle POQ is called the angle subtended by the chord PQ at the centre O."
+            },
+            {
+              "type": "paragraph",
+              "text": "If a point R lies on the major arc of the chord PQ, then the angle PRQ is the angle subtended by the chord PQ at point R. Similarly, if a point S lies on the minor arc, then the angle PSQ is the angle subtended by the chord PQ at point S."
+            },
+            {
+              "type": "list",
+              "title": "Types of Angles Subtended by a Chord PQ",
+              "items": [
+                "Angle at the centre: ∠POQ (where O is the centre)",
+                "Angle at a point on the major arc: ∠PRQ",
+                "Angle at a point on the minor arc: ∠PSQ"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Relationship Between Chord Length and Central Angle",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "By drawing different chords in a circle and measuring the angles subtended by them at the centre, we can observe that the longer the chord, the larger the angle subtended at the centre. Conversely, shorter chords subtend smaller angles at the centre."
+            },
+            {
+              "type": "note",
+              "title": "Key Observation",
+              "text": "When two chords are equal in length, the angles they subtend at the centre are also equal. This is a fundamental property of circles."
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 9.1: Equal Chords Subtend Equal Angles at the Centre",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statement: Equal chords of a circle subtend equal angles at the centre."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof: Let AB and CD be two equal chords of a circle with centre O. We need to prove that ∠AOB = ∠COD."
+            },
+            {
+              "type": "list",
+              "title": "Given Information",
+              "items": [
+                "AB = CD (equal chords)",
+                "OA = OB = OC = OD (all radii of the same circle)"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "In triangles AOB and COD: AB = CD (given), OA = OC (radii), OB = OD (radii). By SSS (Side-Side-Side) congruence, △AOB ≅ △COD."
+            },
+            {
+              "type": "paragraph",
+              "text": "Since the triangles are congruent, their corresponding parts are equal (CPCT). Therefore, ∠AOB = ∠COD."
+            },
+            {
+              "type": "note",
+              "title": "CPCT",
+              "text": "CPCT stands for 'Corresponding Parts of Congruent Triangles'. When two triangles are proven congruent, all their corresponding angles and sides are equal."
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 9.2: Converse of Theorem 9.1",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statement: If the angles subtended by two chords of a circle at the centre are equal, then the chords are equal."
+            },
+            {
+              "type": "paragraph",
+              "text": "This is the converse of Theorem 9.1. If ∠AOB = ∠COD, then AB = CD."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof: In triangles AOB and COD: OA = OC (radii), OB = OD (radii), ∠AOB = ∠COD (given). By SAS (Side-Angle-Side) congruence, △AOB ≅ △COD."
+            },
+            {
+              "type": "paragraph",
+              "text": "From congruence, AB = CD (CPCT)."
+            },
+            {
+              "type": "note",
+              "title": "Key Result",
+              "text": "Theorems 9.1 and 9.2 establish a two-way relationship: equal chords ↔ equal central angles. This is applicable to a single circle or to congruent circles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "9.2 Perpendicular from the Centre to a Chord",
+      "topics": [
+        {
+          "topic_name": "Definition of Distance from a Point to a Line",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The distance from a point P to a line AB is defined as the length of the perpendicular from P to the line AB. Among all line segments from P to points on AB, the perpendicular PM is the shortest."
+            },
+            {
+              "type": "paragraph",
+              "text": "Mathematically: The length of the perpendicular from a point to a line is the distance of the line from the point."
+            },
+            {
+              "type": "note",
+              "title": "Special Case",
+              "text": "If the point lies on the line, the distance is zero."
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 9.3: Perpendicular from Centre Bisects the Chord",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statement: The perpendicular from the centre of a circle to a chord bisects the chord."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof: Let AB be a chord of a circle with centre O, and let OM be perpendicular to AB, where M lies on AB. We need to prove that AM = MB."
+            },
+            {
+              "type": "list",
+              "title": "Proof Steps",
+              "items": [
+                "In triangles OAM and OBM: OA = OB (radii), OM = OM (common side), ∠OMA = ∠OMB = 90° (OM ⊥ AB)",
+                "By RHS (Right angle-Hypotenuse-Side) congruence, △OAM ≅ △OBM",
+                "By CPCT, AM = MB. Thus, M is the midpoint of AB, and OM bisects the chord."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 9.4: Converse of Theorem 9.3",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statement: The line drawn through the centre of a circle to bisect a chord is perpendicular to the chord."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof: Let AB be a chord of a circle with centre O, and let M be the midpoint of AB. Line OM is drawn from the centre. We need to prove that OM ⊥ AB."
+            },
+            {
+              "type": "list",
+              "title": "Proof Steps",
+              "items": [
+                "In triangles OAM and OBM: OA = OB (radii), AM = BM (M is midpoint), OM = OM (common side)",
+                "By SSS congruence, △OAM ≅ △OBM",
+                "By CPCT, ∠OMA = ∠OMB. Since these angles are supplementary and equal, each is 90°.",
+                "Therefore, OM ⊥ AB."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Combined Result",
+              "text": "Theorems 9.3 and 9.4 together show that the perpendicular from the centre to a chord and the line from the centre bisecting the chord are the same line."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "9.3 Equal Chords and their Distances from the Centre",
+      "topics": [
+        {
+          "topic_name": "Understanding Distance of a Chord from the Centre",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In a circle, the distance of a chord from the centre is the length of the perpendicular drawn from the centre to the chord. By Theorem 9.3, this perpendicular bisects the chord."
+            },
+            {
+              "type": "paragraph",
+              "text": "For the diameter (the longest chord), the perpendicular distance from the centre is zero because the centre lies on the diameter itself."
+            },
+            {
+              "type": "note",
+              "title": "Distance and Chord Length Relationship",
+              "text": "In a circle, longer chords are generally closer to the centre, while shorter chords are farther from the centre."
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 9.5: Equal Chords are Equidistant from the Centre",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statement: Equal chords of a circle (or of congruent circles) are equidistant from the centre (or centres)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Explanation: If two chords of a circle are equal in length, then the perpendicular distances from the centre to these two chords are also equal."
+            },
+            {
+              "type": "paragraph",
+              "text": "Verification (Activity): Draw two equal chords AB and CD in a circle with centre O. Draw perpendiculars OM and ON from O to the chords. By folding and superposition, it can be verified that OM = ON."
+            },
+            {
+              "type": "paragraph",
+              "text": "This property also holds for equal chords in congruent circles drawn from their respective centres."
+            },
+            {
+              "type": "note",
+              "title": "For Congruent Circles",
+              "text": "If AB and CD are equal chords in two congruent circles with centres O and O', then the distances OM and O'N are equal, where M and N are the feet of perpendiculars from O and O' to the chords respectively."
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 9.6: Chords Equidistant from Centre are Equal",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statement: Chords equidistant from the centre of a circle are equal in length."
+            },
+            {
+              "type": "paragraph",
+              "text": "This is the converse of Theorem 9.5. If two chords have equal perpendicular distances from the centre, then the chords themselves are equal in length."
+            },
+            {
+              "type": "paragraph",
+              "text": "Verification (Activity): Draw line segments OL and OM of equal length from centre O (both inside the circle). Draw chords PQ and RS perpendicular to OL and OM respectively. Measurement shows that PQ = RS."
+            },
+            {
+              "type": "list",
+              "title": "Combined Properties of Theorems 9.5 and 9.6",
+              "items": [
+                "Equal chords → Equal distances from centre (Theorem 9.5)",
+                "Equal distances from centre → Equal chords (Theorem 9.6)",
+                "These properties establish a two-way relationship between chord length and distance from centre"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Example 1: Intersecting Chords Making Equal Angles",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Problem: If two intersecting chords AB and CD of a circle make equal angles with the diameter PQ passing through their point of intersection E, prove that AB = CD."
+            },
+            {
+              "type": "paragraph",
+              "text": "Solution approach: The key is to show that the perpendicular distances from the centre O to the two chords are equal. If ∠AEQ = ∠DEQ, then the perpendiculars OL and OM (drawn on chords AB and CD) satisfy OL = OM."
+            },
+            {
+              "type": "list",
+              "title": "Solution Steps",
+              "items": [
+                "Draw perpendiculars OL and OM on chords AB and CD from centre O",
+                "In triangle OLE, ∠LOE = 90° - ∠LEO = 90° - ∠AEQ (using properties of right triangles)",
+                "Similarly, ∠MOE = 90° - ∠DEQ",
+                "Since ∠AEQ = ∠DEQ (given), we have ∠LOE = ∠MOE",
+                "In triangles OLE and OME: OE = OE (common), ∠OEL = ∠OEM = 90°, ∠LOE = ∠MOE",
+                "By ASA congruence, △OLE ≅ △OME, so OL = OM",
+                "Since chords with equal perpendicular distances from centre are equal (Theorem 9.6), AB = CD"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "9.4 Angle Subtended by an Arc of a Circle",
+      "topics": [
+        {
+          "topic_name": "Arc and its Properties",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A chord (other than a diameter) divides a circle into two arcs: the minor arc (shorter) and the major arc (longer). Equal chords subtend congruent arcs, and conversely, congruent arcs correspond to equal chords."
+            },
+            {
+              "type": "note",
+              "title": "Congruent Arcs",
+              "text": "Two arcs are congruent if one can be superimposed on the other without bending or twisting. This means they have the same length and curve."
+            },
+            {
+              "type": "paragraph",
+              "text": "The angle subtended by an arc at the centre is defined as the angle subtended by the corresponding chord at the centre. The minor arc subtends the angle ∠POQ, while the major arc subtends the reflex angle at O."
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 9.7: Angle at Centre is Double the Angle at Circumference",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statement: The angle subtended by an arc at the centre is double the angle subtended by it at any point on the remaining part of the circle."
+            },
+            {
+              "type": "paragraph",
+              "text": "In other words: If an arc PQ subtends angle ∠POQ at the centre O and angle ∠PAQ at a point A on the remaining arc, then ∠POQ = 2∠PAQ."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof outline: Join AO and extend it to point B. In triangle OAQ, since OA = OQ (radii), the triangle is isosceles. Using the exterior angle theorem: ∠BOQ = ∠OAQ + ∠OQA = 2∠OAQ. Similarly, ∠BOP = 2∠OAP. Adding these: ∠POQ = ∠BOP + ∠BOQ = 2(∠OAP + ∠OAQ) = 2∠PAQ."
+            },
+            {
+              "type": "list",
+              "title": "Cases of Theorem 9.7",
+              "items": [
+                "Case 1 (Minor arc): When arc PQ is minor, the angle at centre and at circumference are both acute/obtuse with the relationship ∠POQ = 2∠PAQ",
+                "Case 2 (Semicircle): When arc PQ is a semicircle, ∠POQ = 180°, so ∠PAQ = 90°",
+                "Case 3 (Major arc): When arc PQ is major, the reflex angle at centre equals double the obtuse angle at circumference"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 9.8: Angles in the Same Segment are Equal",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statement: Angles subtended by the same arc at any two points on the remaining part of the circle are equal."
+            },
+            {
+              "type": "paragraph",
+              "text": "In other words: If points A and C lie on the major arc of chord PQ, then ∠PAQ = ∠PCQ."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof: By Theorem 9.7, ∠POQ = 2∠PAQ and ∠POQ = 2∠PCQ. Therefore, ∠PAQ = ∠PCQ."
+            },
+            {
+              "type": "note",
+              "title": "Angle in a Segment",
+              "text": "The angle subtended by a chord at a point on the circle is called the angle in the segment or angle in the arc."
+            }
+          ]
+        },
+        {
+          "topic_name": "Angle in a Semicircle",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A special case of Theorem 9.8 occurs when the arc is a semicircle. When PQ is a diameter, the arc is a semicircle and ∠POQ = 180°."
+            },
+            {
+              "type": "paragraph",
+              "text": "By Theorem 9.7: ∠PAQ = (1/2)∠POQ = (1/2)(180°) = 90°."
+            },
+            {
+              "type": "note",
+              "title": "Angle in a Semicircle is a Right Angle",
+              "text": "If a triangle is inscribed in a circle such that one side is a diameter, then the angle opposite to that diameter is always 90°. This is a fundamental and frequently used property."
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 9.9: Converse — Concyclic Points",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statement: If a line segment joining two points subtends equal angles at two other points lying on the same side of the line, then the four points lie on a circle (are concyclic)."
+            },
+            {
+              "type": "paragraph",
+              "text": "In other words: If ∠ACB = ∠ADB (where C and D are on the same side of AB), then points A, B, C, and D are concyclic."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof idea: Draw a circle through A, C, and B. Assume it does not pass through D; let it intersect line AD at point E. Then ∠ACB = ∠AEB (Theorem 9.8). But ∠ACB = ∠ADB (given), so ∠AEB = ∠ADB. This is impossible unless E coincides with D. Therefore, D lies on the circle through A, C, and B."
+            },
+            {
+              "type": "note",
+              "title": "Concyclic Points",
+              "text": "Four or more points that lie on the same circle are called concyclic points. Theorem 9.9 provides a criterion to determine if four points are concyclic."
+            }
+          ]
+        },
+        {
+          "topic_name": "Example 2: Chord Equal to Radius",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Problem: AB is a diameter of a circle, CD is a chord equal to the radius. AC and BD when extended intersect at point E. Prove that ∠AEB = 60°."
+            },
+            {
+              "type": "list",
+              "title": "Solution Steps",
+              "items": [
+                "Join OC, OD, and BC",
+                "Since OC = OD = CD (all equal to radius r), triangle OCD is equilateral",
+                "Therefore, ∠COD = 60°",
+                "By Theorem 9.7, ∠CBD = (1/2)∠COD = 30°",
+                "Since AB is diameter, ∠ACB = 90° (angle in semicircle)",
+                "In triangle BCE: ∠CEB = 180° - ∠ECB - ∠EBC = 180° - 90° - 30° = 60°",
+                "Therefore, ∠AEB = 60°"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "9.5 Cyclic Quadrilaterals",
+      "topics": [
+        {
+          "topic_name": "Definition and Properties of Cyclic Quadrilaterals",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A cyclic quadrilateral is a quadrilateral whose all four vertices lie on a circle. In other words, all four vertices are concyclic."
+            },
+            {
+              "type": "note",
+              "title": "Cyclic Quadrilateral",
+              "text": "For a quadrilateral ABCD to be cyclic, all four points A, B, C, and D must lie on the same circle."
+            },
+            {
+              "type": "paragraph",
+              "text": "Cyclic quadrilaterals have a special and important property: the sum of opposite angles is always 180°."
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 9.10: Opposite Angles of Cyclic Quadrilateral Sum to 180°",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statement: The sum of either pair of opposite angles of a cyclic quadrilateral is 180°."
+            },
+            {
+              "type": "paragraph",
+              "text": "In other words: If ABCD is a cyclic quadrilateral, then ∠A + ∠C = 180° and ∠B + ∠D = 180°."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof: In cyclic quadrilateral ABCD, arcs ABC and ADC together form the complete circle. By Theorem 9.8, the angles subtended by these arcs at the circumference are equal to half their respective arc measures (in terms of central angles)."
+            },
+            {
+              "type": "list",
+              "title": "Proof Details",
+              "items": [
+                "∠ABC is subtended by arc ADC, so ∠ABC = (1/2)(arc ADC)",
+                "∠ADC is subtended by arc ABC, so ∠ADC = (1/2)(arc ABC)",
+                "Since arc ADC + arc ABC = 360° (complete circle), we have ∠ABC + ∠ADC = (1/2)(360°) = 180°",
+                "Similarly, ∠BAD + ∠BCD = 180°"
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Key Property",
+              "text": "This is a defining characteristic of cyclic quadrilaterals and is frequently used in circle geometry problems."
+            }
+          ]
+        },
+        {
+          "topic_name": "Theorem 9.11: Converse — Quadrilateral with Opposite Angles Summing to 180° is Cyclic",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statement: If the sum of a pair of opposite angles of a quadrilateral is 180°, then the quadrilateral is cyclic."
+            },
+            {
+              "type": "paragraph",
+              "text": "In other words: If ABCD is a quadrilateral with ∠A + ∠C = 180° (or ∠B + ∠D = 180°), then all four vertices lie on a circle."
+            },
+            {
+              "type": "paragraph",
+              "text": "Proof idea: Draw a circle through A, B, and C. Let it intersect line AD at point E (if it doesn't coincide with D). Then in cyclic quadrilateral ABCE, ∠A + ∠C = 180° (Theorem 9.10). But given that ∠A + ∠C = 180° in quadrilateral ABCD. This implies that points E and D subtend equal supplementary angles, which is only possible if E = D. Therefore, D lies on the circle."
+            }
+          ]
+        },
+        {
+          "topic_name": "Example 3: Angles in Cyclic Quadrilateral",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Problem: ABCD is a cyclic quadrilateral where AC and BD are diagonals. If ∠DBC = 55° and ∠BAC = 45°, find ∠BCD."
+            },
+            {
+              "type": "list",
+              "title": "Solution Steps",
+              "items": [
+                "∠CAD = ∠DBC = 55° (angles in the same segment subtended by chord CD)",
+                "∠DAB = ∠CAD + ∠BAC = 55° + 45° = 100°",
+                "In cyclic quadrilateral ABCD, ∠DAB + ∠BCD = 180° (opposite angles)",
+                "Therefore, ∠BCD = 180° - 100° = 80°"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Example 4: Intersection of Two Circles with Diameters",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Problem: Two circles intersect at points A and B. AD and AC are diameters of the two circles respectively. Prove that B lies on the line segment DC."
+            },
+            {
+              "type": "list",
+              "title": "Solution Steps",
+              "items": [
+                "Since AD is a diameter of the first circle and B is on the circle, ∠ABD = 90° (angle in semicircle)",
+                "Since AC is a diameter of the second circle and B is on the circle, ∠ABC = 90° (angle in semicircle)",
+                "∠ABD + ∠ABC = 90° + 90° = 180°",
+                "This means that points D, B, and C are collinear (form a straight line)",
+                "Therefore, B lies on line segment DC"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Example 5: Cyclic Quadrilateral from Angle Bisectors",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Problem: Prove that the quadrilateral formed by the internal angle bisectors of any quadrilateral is cyclic."
+            },
+            {
+              "type": "paragraph",
+              "text": "Solution outline: Let ABCD be any quadrilateral. Let the angle bisectors of angles A, B, C, D meet at points E, F, G, H respectively, forming quadrilateral EFGH."
+            },
+            {
+              "type": "list",
+              "title": "Key Steps",
+              "items": [
+                "At point E (intersection of bisectors of ∠A and ∠B), the angle ∠FEH = 180° - (∠A/2 + ∠B/2) = 180° - (∠A + ∠B)/2",
+                "At point G (intersection of bisectors of ∠C and ∠D), the angle ∠FGH = 180° - (∠C/2 + ∠D/2) = 180° - (∠C + ∠D)/2",
+                "Since ∠A + ∠B + ∠C + ∠D = 360°, we have (∠A + ∠B)/2 + (∠C + ∠D)/2 = 180°",
+                "Therefore, ∠FEH + ∠FGH = 180° - (∠A + ∠B)/2 + 180° - (∠C + ∠D)/2 = 360° - 180° = 180°",
+                "Since opposite angles of quadrilateral EFGH sum to 180°, EFGH is cyclic (Theorem 9.11)"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Angle Subtended by a Chord",
+      "definition": "The angle formed by joining the endpoints of a chord to a point. The angle at the centre is denoted ∠AOB for a chord AB; the angle at a point on the circle is the angle formed by line segments from that point to the chord's endpoints."
+    },
+    {
+      "term": "Major Arc",
+      "definition": "The longer arc formed when a chord (other than diameter) divides the circle into two parts."
+    },
+    {
+      "term": "Minor Arc",
+      "definition": "The shorter arc formed when a chord (other than diameter) divides the circle into two parts."
+    },
+    {
+      "term": "Perpendicular Distance of a Chord from Centre",
+      "definition": "The length of the perpendicular dropped from the centre of the circle to the chord."
+    },
+    {
+      "term": "Congruent Arcs",
+      "definition": "Two arcs are congruent if they have the same length and one can be superimposed on the other without bending or twisting; they correspond to equal chords."
+    },
+    {
+      "term": "Cyclic Quadrilateral",
+      "definition": "A quadrilateral whose all four vertices lie on the same circle. The opposite angles of a cyclic quadrilateral sum to 180°."
+    },
+    {
+      "term": "Concyclic Points",
+      "definition": "Points that lie on the same circle. Four points are concyclic if a single circle passes through all four points."
+    },
+    {
+      "term": "Angle in a Segment",
+      "definition": "The angle subtended by a chord at a point on the circle. All angles in the same segment (on the same arc) are equal."
+    },
+    {
+      "term": "Angle in a Semicircle",
+      "definition": "The angle subtended by a diameter at any point on the circle; it is always 90° or a right angle."
+    },
+    {
+      "term": "Central Angle",
+      "definition": "An angle formed at the centre of the circle by two radii drawn to the endpoints of a chord or arc."
+    },
+    {
+      "term": "CPCT",
+      "definition": "Abbreviation for 'Corresponding Parts of Congruent Triangles'. When two triangles are proven congruent, all their corresponding sides and angles are equal."
+    },
+    {
+      "term": "Chord",
+      "definition": "A line segment whose both endpoints lie on the circle. The diameter is the longest chord of a circle."
+    },
+    {
+      "term": "Diameter",
+      "definition": "A chord that passes through the centre of the circle. It is the longest possible chord and divides the circle into two semicircles."
+    },
+    {
+      "term": "Radius",
+      "definition": "A line segment from the centre of the circle to any point on the circle. All radii of a circle are equal in length."
+    }
+  ],
+  "summary_points": [
+    "A circle is the set of all points equidistant from a fixed point (centre) in a plane.",
+    "Equal chords of a circle subtend equal angles at the centre (Theorem 9.1), and conversely, equal central angles correspond to equal chords (Theorem 9.2).",
+    "The perpendicular from the centre of a circle to a chord bisects the chord (Theorem 9.3); conversely, the line from the centre bisecting a chord is perpendicular to it (Theorem 9.4).",
+    "Equal chords of a circle are equidistant from the centre (Theorem 9.5); conversely, chords equidistant from the centre are equal (Theorem 9.6).",
+    "Equal chords of a circle subtend congruent arcs, and congruent arcs correspond to equal chords.",
+    "The angle subtended by an arc at the centre is double the angle it subtends at any point on the remaining arc (Theorem 9.7).",
+    "Angles subtended by the same arc at any two points on the remaining circle are equal (Theorem 9.8) — these are called angles in the same segment.",
+    "The angle subtended by a diameter at any point on the circle is 90° (angle in a semicircle).",
+    "If a line segment subtends equal angles at two points on the same side of the line, those four points are concyclic (lie on the same circle) (Theorem 9.9).",
+    "In a cyclic quadrilateral, the sum of opposite angles is 180° (Theorem 9.10).",
+    "If the sum of opposite angles in a quadrilateral is 180°, the quadrilateral is cyclic (Theorem 9.11).",
+    "Applications of circle theorems include proving angle relationships, proving quadrilaterals are cyclic, and solving problems involving intersecting chords, secants, and tangents."
+  ]
+}

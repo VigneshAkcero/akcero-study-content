@@ -1,0 +1,31 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Heredity",
+    "chapter_number": 8
+  },
+  "summary": [
+    {
+      "category": "Accumulation of Variation",
+      "points": [
+        "Variation naturally accumulates over generations through reproduction; asexual reproduction produces only minor DNA copying inaccuracies, whereas sexual reproduction inherently maximises diversity.",
+        "Advantageous variations, such as heat resistance in bacteria, undergo environmental selection to critically secure species survival and form the basis of evolutionary processes."
+      ]
+    },
+    {
+      "category": "Inheritance and Mendel's Laws",
+      "points": [
+        "Mendelian experiments proved that offspring inherit traits from equal genetic contributions of maternal and paternal DNA, strictly existing as two gene factors (e.g., TT or Tt).",
+        "Different traits are inherited entirely independently of each other; dominant traits visibly express even with a single copy, while recessive traits predictably require two identical copies."
+      ]
+    },
+    {
+      "category": "Genetic Expression and Sex Determination",
+      "points": [
+        "Cellular DNA acts as the biological blueprint; specific genes functionally control characteristics by dictating the efficiency of protein production, which in turn regulates hormone levels.",
+        "Sex determination strategies vary biologically among species; in humans, it is strictly genetic and depends entirely on whether the father contributes an X (girl) or a Y (boy) chromosome."
+      ]
+    }
+  ]
+}

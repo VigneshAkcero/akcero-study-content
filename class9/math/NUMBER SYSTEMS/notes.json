@@ -1,0 +1,313 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Number Systems",
+    "chapter_number": 1
+  },
+  "notes": [
+    {
+      "section_title": "1.1 Introduction",
+      "topics": [
+        {
+          "topic_name": "Number Line and Collections of Numbers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The number line can be used to represent various types of numbers. Depending on which numbers are collected, they form different mathematical sets."
+            },
+            {
+              "type": "list",
+              "title": "Basic Collections of Numbers",
+              "items": [
+                "Natural Numbers (N): Starting from 1, mapping the positive direction on the number line (1, 2, 3, ...). There are infinitely many.",
+                "Whole Numbers (W): The collection of all natural numbers along with 0.",
+                "Integers (Z): The collection of all positive and negative numbers without fractional parts, including zero."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Rational Numbers",
+          "content": [
+            {
+              "type": "note",
+              "title": "Rational Numbers Definition",
+              "text": "A number is called a rational number (denoted by Q) if it can be written in the form p/q, where p and q are integers and q is not equal to zero."
+            },
+            {
+              "type": "paragraph",
+              "text": "Rational numbers include all natural numbers, whole numbers, and integers (since they can be written as m/1). They do not have a unique representation (for example, 1/2 = 2/4 = 10/20) but are generally represented in their simplest co-prime form."
+            },
+            {
+              "type": "note",
+              "title": "Finding Rational Numbers Between Given Numbers",
+              "text": "There are infinitely many rational numbers between any two given rational numbers. They can be found by taking the average of the two numbers, or by multiplying the numerator and denominator to create a common denominator with a larger gap."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example: To find five rational numbers between 1 and 2, one could rewrite 1 as 6/6 and 2 as 12/6. The numbers between them are 7/6, 8/6, 9/6, 10/6, and 11/6."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.2 Irrational Numbers",
+      "topics": [
+        {
+          "topic_name": "Defining Irrational Numbers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "There are points on the number line which cannot be represented as p/q. These numbers were first discovered by the Pythagoreans in ancient Greece."
+            },
+            {
+              "type": "note",
+              "title": "Irrational Numbers Definition",
+              "text": "A number is called an irrational number if it cannot be written in the form p/q, where p and q are integers and q is not equal to zero. Examples include √2, √3, √15, π, and 0.10110111011110..."
+            }
+          ]
+        },
+        {
+          "topic_name": "Real Numbers and The Number Line",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The collection of all rational numbers and irrational numbers together makes up what is called the collection of real numbers, which is denoted by R."
+            },
+            {
+              "type": "note",
+              "title": "The Real Number Line",
+              "text": "Every real number is represented by a unique point on the number line. Correspondingly, every point on the number line represents a unique real number. This is why the number line is called the real number line."
+            }
+          ]
+        },
+        {
+          "topic_name": "Locating Irrational Numbers Geometrically",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Irrational numbers like √2 or √3 can be represented on the number line geometrically using right-angled triangles and applying the Pythagoras Theorem."
+            },
+            {
+              "type": "activity",
+              "id": "1.1",
+              "title": "Classroom Activity — Constructing the 'Square Root Spiral'",
+              "procedure": [
+                "Start with a point O and draw a line segment OP_1 of unit length.",
+                "Draw a line segment P_1P_2 perpendicular to OP_1 of unit length.",
+                "Draw a line segment P_2P_3 perpendicular to OP_2 of unit length. Continue this process iteratively."
+              ],
+              "observation": "Each new hypotenuse corresponds to the square root of the next consecutive integer.",
+              "conclusion": "A beautiful spiral depicting the lengths √2, √3, √4... is created, showing a clear geometrical continuity."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.3 Real Numbers and their Decimal Expansions",
+      "topics": [
+        {
+          "topic_name": "Decimal Expansions of Rational Numbers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "By calculating the decimal expansions of given rational numbers, it acts as a tool to distinguish rationals from irrationals. For rational numbers, there are only two possibilities."
+            },
+            {
+              "type": "list",
+              "title": "Two Types of Rational Decimal Expansions",
+              "items": [
+                "Terminating: The remainder becomes zero after a certain number of decimal places (e.g., 7/8 = 0.875).",
+                "Non-terminating recurring: The remainder never becomes zero, but rather it begins to repeat, forming a repeating block of digits (e.g., 10/3 = 3.333... or 1/7 = 0.142857142857...)."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Key Property of Rational Numbers",
+              "text": "The decimal expansion of a rational number is either terminating or non-terminating recurring. Moreover, a number whose decimal expansion is terminating or non-terminating recurring is a rational number."
+            }
+          ]
+        },
+        {
+          "topic_name": "Converting decimals to p/q form",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Terminating decimals are simply converted using powers of 10. For non-terminating recurring decimals, an algebraic trick is used."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example: For x = 1.2727..., since two digits are repeating, multiply by 100 to get 100x = 127.2727... Subtracting x from 100x yields 99x = 126, which simplifies to x = 14/11."
+            }
+          ]
+        },
+        {
+          "topic_name": "Decimal Expansions of Irrational Numbers",
+          "content": [
+            {
+              "type": "note",
+              "title": "Key Property of Irrational Numbers",
+              "text": "The decimal expansion of an irrational number is non-terminating non-recurring. Moreover, a number whose decimal expansion is non-terminating non-recurring is irrational."
+            },
+            {
+              "type": "paragraph",
+              "text": "Familiar irrational values such as √2 (1.41421356...) and π (3.14159265...) never end, nor do they feature a consistent repeating block. To find an irrational number between two rationals, simply construct any non-terminating, non-recurring decimal lying between them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.4 Operations on Real Numbers",
+      "topics": [
+        {
+          "topic_name": "Results of Arithmetic Operations",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Rational numbers satisfy commutative, associative, and distributive laws. They are 'closed' with respect to addition, subtraction, multiplication, and division (except by zero). Irrational numbers also satisfy these laws, but their sums or products aren't always irrational (e.g., √3 × √3 = 3)."
+            },
+            {
+              "type": "list",
+              "title": "Rules for Operations between Rationals and Irrationals",
+              "items": [
+                "The sum or difference of a rational number and an irrational number is irrational.",
+                "The product or quotient of a non-zero rational number with an irrational number is irrational.",
+                "Adding, subtracting, multiplying, or dividing two irrational numbers can result in either a rational or an irrational number."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Finding Square Roots and Nth Roots",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A general geometrical method can be applied to find √x for any positive real number x by drawing a semicircle and establishing a right-angled triangle. This visually shows √x exists for all positive real numbers."
+            },
+            {
+              "type": "note",
+              "title": "Definition of General Root",
+              "text": "Let a > 0 be a real number and n be a positive integer. Then the nth root of a is equal to b if b^n = a and b > 0."
+            }
+          ]
+        },
+        {
+          "topic_name": "Identities Relating to Square Roots",
+          "content": [
+            {
+              "type": "list",
+              "title": "Important Identities",
+              "items": [
+                "√(ab) = √a * √b",
+                "√(a/b) = √a / √b",
+                "(√a + √b)(√a - √b) = a - b",
+                "(a + √b)(a - √b) = a² - b",
+                "(√a + √b)² = a + 2√(ab) + b"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Rationalising the Denominator",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When the denominator of an expression contains a term with a square root, returning an equivalent expression whose denominator is rational is referred to as rationalising the denominator."
+            },
+            {
+              "type": "paragraph",
+              "text": "Example: To rationalise 1/(√2), multiply by (√2)/(√2) to get √2 / 2. To rationalise 1/(2 + √3), multiply by the conjugate (2 - √3)/(2 - √3)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "1.5 Laws of Exponents for Real Numbers",
+      "topics": [
+        {
+          "topic_name": "Extended Laws of Exponents",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The fundamental laws of integer exponents can be extended to situations where the base is a positive real number and the exponents are rational numbers."
+            },
+            {
+              "type": "note",
+              "title": "Fractional Exponents",
+              "text": "Let a > 0. If m and n are integers (with no common factors) and n > 0, then a^(m/n) is defined as the nth root of a raised to the power m: (n√a)^m."
+            },
+            {
+              "type": "list",
+              "title": "Laws of Exponents (where p and q are rational numbers)",
+              "items": [
+                "(a^p) * (a^q) = a^(p + q)",
+                "(a^p)^q = a^(pq)",
+                "(a^p) / (a^q) = a^(p - q)",
+                "(a^p) * (b^p) = (ab)^p"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Natural Numbers",
+      "definition": "The counting numbers starting from 1 (1, 2, 3, ...), denoted by N."
+    },
+    {
+      "term": "Whole Numbers",
+      "definition": "The collection of all natural numbers alongside 0, denoted by W."
+    },
+    {
+      "term": "Integers",
+      "definition": "The collection of whole numbers and their negative counterparts, extending to infinity in both positive and negative directions, denoted by Z."
+    },
+    {
+      "term": "Rational Number",
+      "definition": "A number that can be expressed in the form p/q, where p and q are integers and q is not zero, denoted by Q."
+    },
+    {
+      "term": "Irrational Number",
+      "definition": "A number that cannot be written in the form p/q where p and q are integers and q is not zero."
+    },
+    {
+      "term": "Real Numbers",
+      "definition": "The combined collection of all rational and irrational numbers, denoted by R."
+    },
+    {
+      "term": "Terminating Decimal",
+      "definition": "A decimal expansion that comes to an end (remainder becomes zero) after a finite number of steps."
+    },
+    {
+      "term": "Non-terminating Recurring Decimal",
+      "definition": "A decimal expansion where the remainder never becomes zero, but begins to repeat and creates a repeating block of digits."
+    },
+    {
+      "term": "Non-terminating Non-recurring Decimal",
+      "definition": "A decimal expansion that never ends and features no repeating pattern, specifically a property of irrational numbers."
+    },
+    {
+      "term": "Rationalising the Denominator",
+      "definition": "The process of converting a denominator that involves a radical sign into an equivalent expression where the denominator is a rational number."
+    }
+  ],
+  "summary_points": [
+    "A number is called a rational number if it can be written in the form p/q, where p and q are integers and q is not zero.",
+    "A number is called an irrational number if it cannot be written in the form p/q, where p and q are integers and q is not zero.",
+    "The decimal expansion of a rational number is either terminating or non-terminating recurring. A number exhibiting this type of decimal expansion is rational.",
+    "The decimal expansion of an irrational number is non-terminating non-recurring. A number exhibiting this type of decimal expansion is irrational.",
+    "All rational and irrational numbers collectively form the collection of real numbers.",
+    "If r is a rational number and s is an irrational number, then the sum (r+s) and difference (r-s) are irrational.",
+    "If r is a non-zero rational number and s is an irrational number, then their product (rs) and quotient (r/s) are irrational.",
+    "Various algebraic identities for real numbers exist, like √(ab) = √a * √b and (√a + √b)(√a - √b) = a - b.",
+    "Rationalising the denominator involves multiplying the numerator and denominator by an appropriate conjugate to remove radicals from the denominator.",
+    "The fundamental laws of exponents carry over to real number bases raised to rational indices: (a^p)(a^q) = a^(p+q), (a^p)^q = a^(pq), and so forth."
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Arithmetic Progressions",
+    "chapter_number": 5
+  },
+  "notes": [
+    {
+      "section_title": "5.1 Introduction",
+      "topics": [
+        {
+          "topic_name": "Observing Patterns in Nature and Mathematics",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Many naturally occurring phenomena and mathematical sequences follow observable patterns. Examples include the arrangement of petals in a sunflower, the structure of a honeycomb, grains on a maize cob, spirals on a pineapple, and the arrangement of numbers in sequences. Recognizing and analysing these patterns is fundamental to understanding sequences and progressions."
+            },
+            {
+              "type": "example",
+              "title": "Real-Life Arithmetic Progressions",
+              "description": "1) Salary Progression: Reena gets a starting salary of ₹8000 with an annual increment of ₹500. Her salaries form the sequence: 8000, 8500, 9000, 9500, ..., which is an AP with first term a = 8000 and common difference d = 500. 2) Ladder Rungs: A ladder has rungs that decrease uniformly by 2 cm from bottom to top, starting at 45 cm. The lengths form: 45, 43, 41, 39, ..., which is an AP with a = 45 and d = -2. 3) Savings: Shakila saves ₹50 in week 1, ₹100 in week 2, ₹150 in week 3, and so on. The amounts form: 50, 100, 150, 200, ..., an AP with a = 50 and d = 50."
+            },
+            {
+              "type": "paragraph",
+              "text": "An Arithmetic Progression (AP) is a sequence in which each term, after the first, is obtained by adding a fixed number (called the common difference) to the preceding term. This fixed number can be positive, negative, or zero."
+            },
+            {
+              "type": "note",
+              "title": "Definition of Arithmetic Progression",
+              "text": "An arithmetic progression is a list of numbers in which the difference between consecutive terms is constant. If a₁, a₂, a₃, ..., aₙ, ... are terms of an AP, then aₖ₊₁ - aₖ = d for all k, where d is the common difference."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.2 Arithmetic Progressions",
+      "topics": [
+        {
+          "topic_name": "Identifying and Understanding APs",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To determine if a given list of numbers forms an arithmetic progression, check whether the difference between consecutive terms is constant. If the differences are all the same, the sequence is an AP. The first term is denoted by 'a', and the common difference by 'd'."
+            },
+            {
+              "type": "list",
+              "title": "Examples of Arithmetic Progressions",
+              "items": [
+                "1, 2, 3, 4, ... is an AP with a = 1, d = 1.",
+                "100, 70, 40, 10, ... is an AP with a = 100, d = -30.",
+                "-3, -2, -1, 0, ... is an AP with a = -3, d = 1.",
+                "3, 3, 3, 3, ... is an AP with a = 3, d = 0 (constant sequence).",
+                "-1.0, -1.5, -2.0, -2.5, ... is an AP with a = -1.0, d = -0.5."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The general (or standard) form of an AP is: a, a + d, a + 2d, a + 3d, ..., where 'a' is the first term and 'd' is the common difference. Every AP is completely determined by specifying 'a' and 'd'."
+            },
+            {
+              "type": "example",
+              "title": "Verifying if a Sequence is an AP",
+              "description": "Given the sequence 4, 10, 16, 22, ... Check differences: 10 - 4 = 6, 16 - 10 = 6, 22 - 16 = 6. Since all differences equal 6, this is an AP with a = 4 and d = 6. The next two terms are: 22 + 6 = 28 and 28 + 6 = 34."
+            },
+            {
+              "type": "example",
+              "title": "Non-AP Sequence",
+              "description": "Given the sequence 1, 1, 2, 3, 5, 8, ... Check differences: 1 - 1 = 0, 2 - 1 = 1, 3 - 2 = 1, 5 - 3 = 2, 8 - 5 = 3. The differences are not constant (0, 1, 1, 2, 3), so this is NOT an AP. (This is the Fibonacci sequence.)"
+            },
+            {
+              "type": "note",
+              "title": "Important Caution",
+              "text": "Always calculate the differences between consecutive terms carefully. A single inconsistency means the sequence is not an AP. The common difference must be the same for every pair of consecutive terms."
+            }
+          ]
+        },
+        {
+          "topic_name": "Finite and Infinite APs",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "An AP with a finite number of terms is called a finite AP. It has a first term and a last term. An AP with infinitely many terms is called an infinite AP. It continues indefinitely without a last term."
+            },
+            {
+              "type": "example",
+              "title": "Finite AP",
+              "description": "The heights of students standing in assembly: 147, 148, 149, ..., 157 cm. This is a finite AP with 11 terms, first term a = 147 cm, common difference d = 1 cm, and last term l = 157 cm."
+            },
+            {
+              "type": "example",
+              "title": "Infinite AP",
+              "description": "The sequence of all positive integers: 1, 2, 3, 4, ... This is an infinite AP with a = 1, d = 1, and no last term."
+            },
+            {
+              "type": "note",
+              "title": "Last Term Notation",
+              "text": "In a finite AP, if there are n terms, the last term is denoted by 'l' or aₙ. We have: l = a + (n - 1)d. The last term is the nth term of the AP."
+            }
+          ]
+        },
+        {
+          "topic_name": "Generating an AP from First Term and Common Difference",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Given the first term 'a' and common difference 'd', we can generate any AP. Each successive term is obtained by adding 'd' to the previous term."
+            },
+            {
+              "type": "example",
+              "title": "Generating APs",
+              "description": "1) If a = 6, d = 3: AP is 6, 9, 12, 15, ... 2) If a = 6, d = -3: AP is 6, 3, 0, -3, ... 3) If a = -7, d = -2: AP is -7, -9, -11, -13, ... 4) If a = 1.0, d = 0.1: AP is 1.0, 1.1, 1.2, 1.3, ... 5) If a = 0, d = 3/2: AP is 0, 3/2, 3, 9/2, 6, ..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.3 nth Term of an AP",
+      "topics": [
+        {
+          "topic_name": "Formula for the nth Term",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Finding the nth term of an AP without calculating all previous terms is efficient. For an AP with first term 'a' and common difference 'd', the nth term is given by: aₙ = a + (n - 1)d. This formula allows us to find any term directly."
+            },
+            {
+              "type": "note",
+              "title": "Derivation of nth Term Formula",
+              "text": "In an AP: a₁ = a, a₂ = a + d = a + (2 - 1)d, a₃ = a + 2d = a + (3 - 1)d, a₄ = a + 3d = a + (4 - 1)d, ... Following the pattern, aₙ = a + (n - 1)d. This formula is general and works for any AP."
+            },
+            {
+              "type": "example",
+              "title": "Example 1: Finding a Specific Term",
+              "description": "Find the 10th term of the AP: 2, 7, 12, ... Here, a = 2, d = 7 - 2 = 5, n = 10. Using aₙ = a + (n - 1)d: a₁₀ = 2 + (10 - 1) × 5 = 2 + 45 = 47. The 10th term is 47."
+            },
+            {
+              "type": "example",
+              "title": "Example 2: Finding Which Term Equals a Given Value",
+              "description": "Which term of the AP: 21, 18, 15, ... equals -81? Here, a = 21, d = 18 - 21 = -3, aₙ = -81. Using aₙ = a + (n - 1)d: -81 = 21 + (n - 1)(-3), which gives -81 - 21 = -3(n - 1), so -102 = -3(n - 1), thus n - 1 = 34, and n = 35. The 35th term is -81."
+            },
+            {
+              "type": "example",
+              "title": "Example 3: Determining if a Number is in an AP",
+              "description": "Check if 301 is a term of the AP: 5, 11, 17, 23, ... Here, a = 5, d = 6. If 301 is the nth term: 301 = 5 + (n - 1) × 6, which gives 296 = 6(n - 1), so n - 1 = 296/6 = 148/3 ≈ 49.33. Since n must be a positive integer and 148/3 is not an integer, 301 is NOT a term of this AP."
+            },
+            {
+              "type": "example",
+              "title": "Example 4: Application - Prayer Hall Problem",
+              "description": "A prayer hall has dimensions such that the number of marble stones laid form an AP. If there are 23 rose plants in the first row, 21 in the second, 19 in the third, and so on, and 5 plants in the last row, how many rows are there? Here, a = 23, d = 21 - 23 = -2, aₙ = 5. Using aₙ = a + (n - 1)d: 5 = 23 + (n - 1)(-2), which gives 5 - 23 = -2(n - 1), so -18 = -2(n - 1), thus n - 1 = 9, and n = 10. There are 10 rows."
+            }
+          ]
+        },
+        {
+          "topic_name": "Applications of nth Term Formula",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The nth term formula is useful in many contexts: finding specific terms without listing all previous terms, checking if a number is part of an AP, determining the number of terms in a sequence, and solving problems involving arithmetic progressions."
+            },
+            {
+              "type": "example",
+              "title": "Example 5: How Many Two-Digit Numbers are Divisible by 3?",
+              "description": "Two-digit multiples of 3 form the AP: 12, 15, 18, ..., 99. Here, a = 12, d = 3, aₙ = 99. Using aₙ = a + (n - 1)d: 99 = 12 + (n - 1) × 3, which gives 99 - 12 = 3(n - 1), so 87 = 3(n - 1), thus n - 1 = 29, and n = 30. There are 30 two-digit numbers divisible by 3."
+            },
+            {
+              "type": "example",
+              "title": "Example 6: Finding the 11th Term from the Last",
+              "description": "Find the 11th term from the last (towards the first) in the AP: 10, 7, 4, ..., -62. First, find the total number of terms: -62 = 10 + (n - 1)(-3), giving n = 25. The 11th term from the last is the (25 - 11 + 1) = 15th term from the beginning. a₁₅ = 10 + (15 - 1)(-3) = 10 - 42 = -32."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.4 Sum of First n Terms of an AP",
+      "topics": [
+        {
+          "topic_name": "Formula for the Sum of First n Terms",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "For many problems, we need to find the sum of terms in an AP rather than individual terms. The sum of the first n terms of an AP with first term 'a' and common difference 'd' is given by: Sₙ = n/2 [2a + (n - 1)d] or equivalently, Sₙ = n/2 (a + l), where l is the last term."
+            },
+            {
+              "type": "note",
+              "title": "Derivation Using Gauss's Method",
+              "text": "Consider S = a + (a + d) + (a + 2d) + ... + l. Writing in reverse: S = l + (l - d) + (l - 2d) + ... + a. Adding: 2S = (a + l) + (a + l) + ... + (a + l) [n times] = n(a + l). Thus S = n(a + l)/2. Substituting l = a + (n - 1)d gives S = n/2 [2a + (n - 1)d]."
+            },
+            {
+              "type": "example",
+              "title": "Example 1: Finding the Sum of First n Terms",
+              "description": "Find the sum of the first 22 terms of the AP: 8, 3, -2, ... Here, a = 8, d = 3 - 8 = -5, n = 22. Using Sₙ = n/2 [2a + (n - 1)d]: S₂₂ = 22/2 [2(8) + (22 - 1)(-5)] = 11 [16 + 21(-5)] = 11 [16 - 105] = 11(-89) = -979. The sum of the first 22 terms is -979."
+            },
+            {
+              "type": "example",
+              "title": "Example 2: Finding the Sum Using First and Last Terms",
+              "description": "Find the sum of the AP: 2, 7, 12, ..., to 10 terms. First find the 10th term: a₁₀ = 2 + (10 - 1) × 5 = 2 + 45 = 47. Using Sₙ = n/2 (a + l): S₁₀ = 10/2 (2 + 47) = 5 × 49 = 245."
+            },
+            {
+              "type": "example",
+              "title": "Example 3: Real-Life Application - Savings Problem",
+              "description": "Shakila puts ₹100 into her daughter's money box on the 1st birthday, ₹150 on the 2nd, ₹200 on the 3rd, and so on. How much money will be collected by the 21st birthday? The amounts form an AP: 100, 150, 200, ..., with a = 100, d = 50, n = 21. Using Sₙ = n/2 [2a + (n - 1)d]: S₂₁ = 21/2 [2(100) + (21 - 1) × 50] = 21/2 [200 + 1000] = 21/2 × 1200 = 21 × 600 = ₹12,600."
+            },
+            {
+              "type": "example",
+              "title": "Example 4: Sum of First n Positive Integers",
+              "description": "Find the sum of the first 1000 positive integers: 1 + 2 + 3 + ... + 1000. Here, a = 1, l = 1000, n = 1000. Using Sₙ = n/2 (a + l): S₁₀₀₀ = 1000/2 (1 + 1000) = 500 × 1001 = 500,500. General formula: Sₙ = n(n + 1)/2."
+            }
+          ]
+        },
+        {
+          "topic_name": "Relationship Between nth Term and Sum",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "There is an important relationship between the nth term and the sum of the first n terms: aₙ = Sₙ - Sₙ₋₁ (for n ≥ 2). The nth term is the difference between the sum of the first n terms and the sum of the first (n - 1) terms."
+            },
+            {
+              "type": "note",
+              "title": "Using This Relationship",
+              "text": "If you know the sum formula Sₙ, you can find the nth term by computing Sₙ - Sₙ₋₁. Conversely, if you know the terms, you can find the sum. This relationship holds for any sequence, not just APs."
+            },
+            {
+              "type": "example",
+              "title": "Example 5: Finding the nth Term from Sum Formula",
+              "description": "Given that Sₙ = n² for the first n terms of a sequence, find the first few terms. S₁ = 1, so a₁ = 1. S₂ = 4, so a₂ = S₂ - S₁ = 4 - 1 = 3. S₃ = 9, so a₃ = S₃ - S₂ = 9 - 4 = 5. S₄ = 16, so a₄ = S₄ - S₃ = 16 - 9 = 7. The sequence is 1, 3, 5, 7, ..., which is an AP with d = 2."
+            }
+          ]
+        },
+        {
+          "topic_name": "Applications: Finding Unknown Terms or Number of Terms",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The sum formula can be used to find unknown values in AP problems. By setting up equations and using the sum formula along with the nth term formula, we can solve for unknown terms, common differences, or the number of terms."
+            },
+            {
+              "type": "example",
+              "title": "Example 6: Finding How Many Terms Give a Specific Sum",
+              "description": "How many terms of the AP: 24, 21, 18, ... must be taken so that their sum is 78? Here, a = 24, d = -3, Sₙ = 78. Using Sₙ = n/2 [2a + (n - 1)d]: 78 = n/2 [2(24) + (n - 1)(-3)] = n/2 [48 - 3n + 3] = n/2 [51 - 3n]. So 156 = n(51 - 3n), giving 3n² - 51n + 156 = 0, or n² - 17n + 52 = 0. Factorising: (n - 4)(n - 13) = 0, so n = 4 or n = 13. Both values are valid: the sum of the first 4 terms equals the sum of the first 13 terms (= 78) because the 5th to 13th terms sum to zero."
+            },
+            {
+              "type": "example",
+              "title": "Example 7: Television Manufacturing Problem",
+              "description": "A TV manufacturer produced 600 sets in year 3 and 700 sets in year 7. Assuming production increases uniformly, find: (i) Production in year 1: a₃ = 600, a₇ = 700. Using aₙ = a + (n - 1)d: 600 = a + 2d and 700 = a + 6d. Subtracting: 100 = 4d, so d = 25. Then a = 600 - 50 = 550. (ii) Production in year 10: a₁₀ = 550 + 9(25) = 550 + 225 = 775. (iii) Total production in first 7 years: S₇ = 7/2 [2(550) + 6(25)] = 7/2 [1100 + 150] = 7/2 × 1250 = 4375."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "5.5 Applications and Special Cases",
+      "topics": [
+        {
+          "topic_name": "Arithmetic Mean",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "If three numbers a, b, c are in AP, then b is called the arithmetic mean (AM) of a and c. The relationship is: b = (a + c) / 2. This extends to the insertion of arithmetic means between two numbers."
+            },
+            {
+              "type": "example",
+              "title": "Example 1: Finding Arithmetic Mean",
+              "description": "Find the arithmetic mean of 5 and 13. AM = (5 + 13) / 2 = 18 / 2 = 9. The numbers 5, 9, 13 form an AP with d = 4."
+            },
+            {
+              "type": "example",
+              "title": "Example 2: Inserting Arithmetic Means",
+              "description": "Insert 5 arithmetic means between 2 and 20. We need 7 numbers in AP: 2, m₁, m₂, m₃, m₄, m₅, 20. Here, a = 2, a₇ = 20, n = 7. Using aₙ = a + (n - 1)d: 20 = 2 + 6d, so d = 3. The AP is: 2, 5, 8, 11, 14, 17, 20. The five means are 5, 8, 11, 14, 17."
+            }
+          ]
+        },
+        {
+          "topic_name": "Special Types of APs",
+          "content": [
+            {
+              "type": "list",
+              "title": "Common Special Cases",
+              "items": [
+                "Constant AP: When d = 0, all terms are equal (e.g., 5, 5, 5, 5, ...). The sum of n terms is Sₙ = na.",
+                "AP with d = 1: The sequence is a, a+1, a+2, ... (consecutive integers starting from a).",
+                "AP with d = -1: The sequence decreases by 1 each term.",
+                "Pure AP: An AP where a = 0, so the sequence is 0, d, 2d, 3d, ..."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Problem-Solving with APs",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Many practical problems can be modelled using APs. These include problems about sequences of numbers, regular increases or decreases, distributing items in patterns, and finding cumulative totals. The approach is to identify the AP parameters (a and d), then use the appropriate formula."
+            },
+            {
+              "type": "example",
+              "title": "Example 3: Terrace Problem",
+              "description": "A terrace has 15 steps, each 50 m long. Each step has a rise of 1/4 m and a tread of 1/2 m. The volume of concrete for each step forms an AP. Total volume = Σ(volume of each step) = Σ[(1/4) × (1/2) × 50] = Σ(25/4) for 15 steps = 15 × 25/4 = 375/4 = 93.75 m³."
+            },
+            {
+              "type": "example",
+              "title": "Example 4: House Numbering Problem",
+              "description": "Houses in a row are numbered 1 to 49. Show that there is a value of x such that the sum of house numbers before x equals the sum after x. Let the house be numbered x. Sum before x = (x-1)(x)/2. Sum after x = (49 × 50)/2 - (x(x+1))/2. Setting equal: (x-1)x/2 = (49 × 50 - x² - x)/2. Simplifying: x² - x = 2450 - x² - x, so 2x² = 2450, thus x² = 1225, and x = 35. House 35 divides the sum equally."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Arithmetic Progression (AP)",
+      "definition": "A sequence of numbers in which the difference between consecutive terms is constant. Each term is obtained by adding a fixed number (common difference) to the preceding term."
+    },
+    {
+      "term": "Common Difference",
+      "definition": "The constant difference between consecutive terms in an AP, denoted by 'd'. It can be positive, negative, or zero. d = aₖ₊₁ - aₖ for all k."
+    },
+    {
+      "term": "First Term",
+      "definition": "The initial term of an AP, denoted by 'a' or a₁. It is the starting point from which the sequence is generated."
+    },
+    {
+      "term": "nth Term",
+      "definition": "The general term of an AP given by aₙ = a + (n - 1)d, where n is the position in the sequence. It allows finding any term without listing all previous terms."
+    },
+    {
+      "term": "Last Term",
+      "definition": "The final term in a finite AP, denoted by 'l' or aₙ. It is the term at position n when the AP has exactly n terms."
+    },
+    {
+      "term": "Finite AP",
+      "definition": "An AP with a finite (limited) number of terms. It has both a first term and a last term."
+    },
+    {
+      "term": "Infinite AP",
+      "definition": "An AP with infinitely many terms. It continues indefinitely without a last term. Examples include 1, 2, 3, 4, ..."
+    },
+    {
+      "term": "Sum of First n Terms",
+      "definition": "The sum Sₙ = a₁ + a₂ + ... + aₙ of the first n terms of an AP, given by Sₙ = n/2 [2a + (n - 1)d] or Sₙ = n/2 (a + l)."
+    },
+    {
+      "term": "Arithmetic Mean",
+      "definition": "If a, b, c are in AP, then b is the arithmetic mean of a and c, given by b = (a + c) / 2."
+    },
+    {
+      "term": "Constant Sequence",
+      "definition": "A special AP where the common difference d = 0. All terms are equal. For example, 5, 5, 5, 5, ..."
+    },
+    {
+      "term": "General Form of AP",
+      "definition": "The representation a, a + d, a + 2d, a + 3d, ..., which shows how each term is constructed from the first term and the common difference."
+    },
+    {
+      "term": "Gauss's Method",
+      "definition": "A technique for finding the sum of an AP by writing the sum in forward and reverse order, adding them to find 2Sₙ, then dividing by 2 to get Sₙ."
+    },
+    {
+      "term": "Inserting Arithmetic Means",
+      "definition": "The process of finding intermediate terms that form an AP between two given numbers. If m means are inserted between a and b, there are m + 2 terms in the AP."
+    },
+    {
+      "term": "Term-to-Term Difference",
+      "definition": "The difference aₖ₊₁ - aₖ between any two consecutive terms in a sequence. For an AP, this is constant and equal to the common difference d."
+    },
+    {
+      "term": "Index",
+      "definition": "The position of a term in a sequence, denoted by n. The nth term aₙ has index n."
+    },
+    {
+      "term": "Sequence",
+      "definition": "An ordered list of numbers, typically following a pattern or rule. An AP is a special type of sequence with constant differences."
+    },
+    {
+      "term": "Recurrence Relation",
+      "definition": "A formula relating consecutive terms in a sequence. For an AP, the recurrence relation is aₙ = aₙ₋₁ + d."
+    }
+  ],
+  "summary_points": [
+    "An arithmetic progression (AP) is a sequence where the difference between consecutive terms is constant (the common difference d).",
+    "The general form of an AP is a, a + d, a + 2d, ..., where a is the first term. Every AP is determined by its first term and common difference.",
+    "The nth term of an AP is aₙ = a + (n - 1)d. This formula allows finding any term directly without calculating all previous terms.",
+    "The sum of the first n terms of an AP is Sₙ = n/2 [2a + (n - 1)d] or equivalently Sₙ = n/2 (a + l), where l is the last term.",
+    "The relationship aₙ = Sₙ - Sₙ₋₁ (for n ≥ 2) connects the nth term to the sums, allowing derivation of the nth term when the sum formula is known.",
+    "A finite AP has n terms with first term a and last term l = a + (n - 1)d. An infinite AP continues indefinitely.",
+    "If three numbers a, b, c are in AP, then b is the arithmetic mean of a and c, with b = (a + c) / 2.",
+    "APs arise in many practical contexts: salary increases, ladder rungs, savings schemes, house numbering, and geometric measurements.",
+    "To verify if a sequence is an AP, check that the difference between consecutive terms is constant. If any difference is different, it is not an AP.",
+    "The sum formula can be used to find unknown terms, common differences, or the number of terms in an AP by setting up and solving equations."
+  ]
+}

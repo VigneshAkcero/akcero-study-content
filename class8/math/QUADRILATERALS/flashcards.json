@@ -1,0 +1,362 @@
+{
+  "chapter_info": {
+    "class": 8,
+    "subject": "Mathematics",
+    "chapter_name": "Quadrilaterals",
+    "chapter_number": 4
+  },
+  "flashcards": [
+    {
+      "q": "What is the sum of all interior angles in any quadrilateral?",
+      "a": "360°. This is true for all types of quadrilaterals regardless of their shape or size."
+    },
+    {
+      "q": "Define a quadrilateral.",
+      "a": "A quadrilateral is a polygon with four sides, four vertices, and four interior angles."
+    },
+    {
+      "q": "What are the two defining properties of a rectangle?",
+      "a": "All angles are 90° and opposite sides are equal in length."
+    },
+    {
+      "q": "State the properties of a rectangle's diagonals.",
+      "a": "The diagonals of a rectangle are equal in length and bisect each other (meet at their midpoints). They are not perpendicular."
+    },
+    {
+      "q": "How does a square differ from a rectangle?",
+      "a": "A square has all four sides equal in length, while a rectangle has only opposite sides equal. A square's diagonals are perpendicular, but a rectangle's are not."
+    },
+    {
+      "q": "What are the properties of a square's diagonals?",
+      "a": "The diagonals are equal, bisect each other at 90° (perpendicular), and bisect the vertex angles into 45° angles each."
+    },
+    {
+      "q": "Is every square a rectangle? Is every rectangle a square?",
+      "a": "Yes, every square is a rectangle. No, not every rectangle is a square (only when all sides are equal)."
+    },
+    {
+      "q": "Define a parallelogram.",
+      "a": "A parallelogram is a quadrilateral in which both pairs of opposite sides are parallel."
+    },
+    {
+      "q": "What is the relationship between a rectangle and a parallelogram?",
+      "a": "A rectangle is a special type of parallelogram where all angles are 90°. All rectangles are parallelograms, but not all parallelograms are rectangles."
+    },
+    {
+      "q": "State the angle properties of a parallelogram.",
+      "a": "Opposite angles are equal, and adjacent (consecutive) angles are supplementary (sum to 180°)."
+    },
+    {
+      "q": "What property do the diagonals of a parallelogram have?",
+      "a": "The diagonals of a parallelogram bisect each other. They are not necessarily equal or perpendicular."
+    },
+    {
+      "q": "Are opposite sides of a parallelogram equal?",
+      "a": "Yes, opposite sides of a parallelogram are always equal in length."
+    },
+    {
+      "q": "Define a rhombus.",
+      "a": "A rhombus is a quadrilateral in which all four sides are equal in length."
+    },
+    {
+      "q": "What is the relationship between a rhombus and a parallelogram?",
+      "a": "A rhombus is a special type of parallelogram with the additional property that all sides are equal."
+    },
+    {
+      "q": "State the diagonal properties of a rhombus.",
+      "a": "The diagonals of a rhombus bisect each other at 90° (perpendicular), and they bisect the vertex angles."
+    },
+    {
+      "q": "How are the angles of a rhombus related?",
+      "a": "Opposite angles are equal, and adjacent angles are supplementary (sum to 180°), just like a parallelogram."
+    },
+    {
+      "q": "What is the relationship between a square and a rhombus?",
+      "a": "A square is a special rhombus in which all angles are 90°. Every square is a rhombus, but not every rhombus is a square."
+    },
+    {
+      "q": "Define a kite.",
+      "a": "A kite is a quadrilateral with two pairs of adjacent sides that are equal (AB = BC and CD = DA)."
+    },
+    {
+      "q": "State the diagonal properties of a kite.",
+      "a": "One diagonal bisects the other perpendicularly. The diagonals are perpendicular to each other."
+    },
+    {
+      "q": "Which diagonal of a kite acts as the axis of symmetry?",
+      "a": "The diagonal connecting the vertices where unequal pairs of sides meet (e.g., diagonal BD if AB = BC and AD = CD)."
+    },
+    {
+      "q": "What is a trapezium?",
+      "a": "A trapezium is a quadrilateral with at least one pair of parallel opposite sides."
+    },
+    {
+      "q": "What is the angle relationship in a trapezium with parallel sides?",
+      "a": "Consecutive angles on the same leg are supplementary (sum to 180°)."
+    },
+    {
+      "q": "Define an isosceles trapezium.",
+      "a": "An isosceles trapezium is a trapezium in which the non-parallel sides (legs) are equal in length."
+    },
+    {
+      "q": "What is special about the angles in an isosceles trapezium?",
+      "a": "The angles at each parallel side (base) are equal to each other. Both base angles on the same base are equal."
+    },
+    {
+      "q": "True or False: In a rectangle, can the diagonals be perpendicular?",
+      "a": "True, but only if the rectangle is a square. In a general rectangle, diagonals are not perpendicular."
+    },
+    {
+      "q": "What condition makes a quadrilateral a rectangle based on diagonals?",
+      "a": "If the diagonals are equal and bisect each other, the quadrilateral is a rectangle."
+    },
+    {
+      "q": "What condition makes a quadrilateral a square based on diagonals?",
+      "a": "If the diagonals are equal, bisect each other, and are perpendicular, the quadrilateral is a square."
+    },
+    {
+      "q": "What condition makes a quadrilateral a rhombus based on diagonals?",
+      "a": "If the diagonals bisect each other at 90° (perpendicular), the quadrilateral is a rhombus."
+    },
+    {
+      "q": "In a parallelogram, if one angle is x°, what are the other three angles?",
+      "a": "Adjacent angles are (180 - x)°, opposite angles are x° and (180 - x)°. Pattern: x°, (180 - x)°, x°, (180 - x)°."
+    },
+    {
+      "q": "What does it mean for diagonals to bisect each other?",
+      "a": "The diagonals intersect at their midpoints, dividing each diagonal into two equal segments."
+    },
+    {
+      "q": "Can a kite have all four sides equal?",
+      "a": "Yes, if a kite has all four sides equal, it becomes a rhombus."
+    },
+    {
+      "q": "Is every rhombus a kite?",
+      "a": "No, a rhombus has all sides equal, but not in the adjacent-pair pattern required for a kite definition."
+    },
+    {
+      "q": "What is the defining difference between a kite and a rhombus?",
+      "a": "A kite has two pairs of adjacent equal sides; a rhombus has all four sides equal (and opposite sides are parallel)."
+    },
+    {
+      "q": "State the angle sum property and how to prove it.",
+      "a": "Sum = 360°. Proof: Draw a diagonal dividing the quadrilateral into two triangles. Each triangle's angles sum to 180°, giving total 360°."
+    },
+    {
+      "q": "What must be true if a quadrilateral has three right angles?",
+      "a": "The fourth angle must also be 90°, making it a rectangle. (90° + 90° + 90° + x = 360° implies x = 90°)."
+    },
+    {
+      "q": "Are opposite sides of a rectangle parallel?",
+      "a": "Yes, opposite sides of a rectangle are always parallel to each other."
+    },
+    {
+      "q": "Are opposite sides of a square parallel?",
+      "a": "Yes, opposite sides of a square are always parallel to each other."
+    },
+    {
+      "q": "True or False: A parallelogram has all sides equal.",
+      "a": "False. A parallelogram has opposite sides equal, but not necessarily all sides equal (unless it's a rhombus)."
+    },
+    {
+      "q": "True or False: A rectangle has all sides equal.",
+      "a": "False. A rectangle has opposite sides equal, but not necessarily all sides equal (unless it's a square)."
+    },
+    {
+      "q": "True or False: All angles of a rhombus are equal.",
+      "a": "False. A rhombus has opposite angles equal, but adjacent angles are generally not equal (unless it's a square)."
+    },
+    {
+      "q": "True or False: Diagonals of a kite are equal.",
+      "a": "False. In a kite, one diagonal bisects the other, but they are not necessarily equal in length."
+    },
+    {
+      "q": "In a square ABCD with side 5 cm, find the length of diagonal AC.",
+      "a": "AC = 5√2 cm (approximately 7.07 cm). Using Pythagorean theorem: AC² = 5² + 5² = 50, so AC = √50 = 5√2 cm."
+    },
+    {
+      "q": "In a rectangle with length 6 cm and width 4 cm, find the diagonal length.",
+      "a": "Diagonal = 2√13 cm (approximately 7.21 cm). Using Pythagorean theorem: d² = 6² + 4² = 36 + 16 = 52, so d = √52 = 2√13 cm."
+    },
+    {
+      "q": "In a parallelogram, if adjacent angles are 65° and 115°, what are the other two angles?",
+      "a": "The other two angles are 65° and 115° (opposite angles are equal). Pattern: 65°, 115°, 65°, 115°."
+    },
+    {
+      "q": "In a rhombus with diagonals 8 cm and 6 cm, find the side length.",
+      "a": "Side = 5 cm. Diagonals bisect at right angles: segments are 4 cm and 3 cm, forming a 3-4-5 right triangle. Side = √(4² + 3²) = 5 cm."
+    },
+    {
+      "q": "What is the Carpenter's Problem?",
+      "a": "Two wooden strips (representing diagonals) of equal length must be placed so they bisect each other to form a rectangle, regardless of the angle between them."
+    },
+    {
+      "q": "In a trapezium PQRS with PQ || SR and ∠S = 120°, what is ∠P?",
+      "a": "∠P = 60°. Since PQ || SR, consecutive angles are supplementary: ∠S + ∠P = 180°, so ∠P = 180° - 120° = 60°."
+    },
+    {
+      "q": "In a kite ABCD with AB = BC = 5 cm and CD = DA = 7 cm, which diagonal is the axis of symmetry?",
+      "a": "Diagonal BD is the axis of symmetry (connects vertices B and D where unequal adjacent pairs meet)."
+    },
+    {
+      "q": "Name the quadrilateral that has both rectangle and rhombus properties.",
+      "a": "A square. A square has all angles 90° (rectangle property) and all sides equal (rhombus property)."
+    },
+    {
+      "q": "In parallelogram ABCD, if AO = 5 cm where O is the diagonal intersection point, what is OC?",
+      "a": "OC = 5 cm. Diagonals of a parallelogram bisect each other, so AO = OC."
+    },
+    {
+      "q": "What property distinguishes a square from a rhombus?",
+      "a": "A square has all angles equal to 90°. A rhombus has all sides equal but angles are not necessarily 90°."
+    },
+    {
+      "q": "What property distinguishes a rectangle from a parallelogram?",
+      "a": "A rectangle has all angles equal to 90°. A parallelogram has opposite angles equal but not necessarily 90°."
+    },
+    {
+      "q": "Can a trapezium have two parallel sides of equal length?",
+      "a": "Yes, this would make it a parallelogram (a special trapezium with two pairs of parallel sides)."
+    },
+    {
+      "q": "Are the diagonals of a trapezium necessarily equal?",
+      "a": "No, except in an isosceles trapezium where the diagonals are equal."
+    },
+    {
+      "q": "In a square, what angle do the diagonals make with each other?",
+      "a": "90°. The diagonals of a square are perpendicular to each other."
+    },
+    {
+      "q": "In a rectangle (non-square), do the diagonals bisect the vertex angles?",
+      "a": "No. Only in a square do the diagonals bisect the vertex angles (into 45° each)."
+    },
+    {
+      "q": "What are the vertices of a quadrilateral?",
+      "a": "The vertices are the four corner points where the sides of the quadrilateral meet."
+    },
+    {
+      "q": "How many diagonals does a quadrilateral have?",
+      "a": "A quadrilateral has exactly two diagonals (line segments connecting non-adjacent vertices)."
+    },
+    {
+      "q": "In a rhombus, are diagonals necessarily equal in length?",
+      "a": "No. Diagonals of a rhombus are perpendicular and bisect each other, but are not necessarily equal."
+    },
+    {
+      "q": "In a parallelogram, are opposite sides necessarily equal?",
+      "a": "Yes, opposite sides of a parallelogram are always equal in length."
+    },
+    {
+      "q": "What makes a quadrilateral a rectangle instead of just a parallelogram?",
+      "a": "Having all angles equal to 90°. If a parallelogram has even one right angle, all angles must be 90°, making it a rectangle."
+    },
+    {
+      "q": "In an isosceles trapezium, which angles are equal?",
+      "a": "The angles at each base (parallel side) are equal. Both base angles on the same parallel side are equal to each other."
+    },
+    {
+      "q": "Can a kite be a parallelogram?",
+      "a": "Only if it's a rhombus (when all four sides are equal). A general kite is not a parallelogram."
+    },
+    {
+      "q": "What is meant by 'bisecting' an angle?",
+      "a": "Dividing the angle into two equal parts with equal measures."
+    },
+    {
+      "q": "What is meant by 'perpendicular' diagonals?",
+      "a": "Diagonals that intersect at a 90° angle (right angle) to each other."
+    },
+    {
+      "q": "True or False: All parallelograms are rectangles.",
+      "a": "False. Only parallelograms with all angles 90° are rectangles."
+    },
+    {
+      "q": "True or False: All rectangles are parallelograms.",
+      "a": "True. Rectangles satisfy all properties of parallelograms (opposite sides parallel and equal)."
+    },
+    {
+      "q": "True or False: All rhombuses are parallelograms.",
+      "a": "True. Rhombuses have opposite sides parallel, making them parallelograms."
+    },
+    {
+      "q": "True or False: All squares are rhombuses.",
+      "a": "True. Squares have all sides equal, satisfying the rhombus definition."
+    },
+    {
+      "q": "In a quadrilateral, what do consecutive angles mean?",
+      "a": "Consecutive (or adjacent) angles are angles that share a common side of the quadrilateral."
+    },
+    {
+      "q": "In a quadrilateral, what do opposite angles mean?",
+      "a": "Opposite angles are angles at opposite vertices (non-adjacent vertices) of the quadrilateral."
+    },
+    {
+      "q": "What property of parallel lines is used to find angles in a trapezium?",
+      "a": "When a transversal cuts parallel lines, consecutive interior angles on the same side sum to 180°."
+    },
+    {
+      "q": "In a rhombus ABCD, if ∠A = 70°, what are the other angles?",
+      "a": "∠B = 110° (adjacent), ∠C = 70° (opposite), ∠D = 110° (adjacent). Pattern: 70°, 110°, 70°, 110°."
+    },
+    {
+      "q": "Can a quadrilateral be both a rectangle and a kite?",
+      "a": "No, a rectangle requires all angles to be 90°, but a general kite does not have this property."
+    },
+    {
+      "q": "In a square ABCD with diagonal 8√2 cm, find the side length.",
+      "a": "Side = 8 cm. If diagonal = 8√2, then using d = s√2 for a square, we get s = 8 cm."
+    },
+    {
+      "q": "What is the relationship between adjacent and opposite angles in a parallelogram?",
+      "a": "Adjacent angles are supplementary (sum to 180°). Opposite angles are equal."
+    },
+    {
+      "q": "In a trapezium, which sides are called the bases?",
+      "a": "The bases are the parallel sides of the trapezium."
+    },
+    {
+      "q": "In a trapezium, which sides are called the legs?",
+      "a": "The legs are the non-parallel sides of the trapezium."
+    },
+    {
+      "q": "How many types of angles does a kite have based on its sides?",
+      "a": "A kite has two pairs of angles: one pair at the vertices where equal sides meet, and another pair at the other two vertices."
+    },
+    {
+      "q": "True or False: The diagonals of every parallelogram are equal.",
+      "a": "False. Diagonals are equal only in rectangles and squares, not in all parallelograms."
+    },
+    {
+      "q": "True or False: The diagonals of every rectangle are perpendicular.",
+      "a": "False. Diagonals are perpendicular only in squares, not in all rectangles."
+    },
+    {
+      "q": "In a rectangle, if one diagonal is 10 cm, what is the other diagonal?",
+      "a": "10 cm. The diagonals of a rectangle are always equal in length."
+    },
+    {
+      "q": "In a parallelogram, do diagonals always bisect each other?",
+      "a": "Yes, the diagonals of every parallelogram bisect each other."
+    },
+    {
+      "q": "In a kite, does one diagonal bisect the other?",
+      "a": "Yes, one diagonal (the axis of symmetry) bisects the other diagonal."
+    },
+    {
+      "q": "What congruence condition is often used to prove properties of rectangles?",
+      "a": "SAS (Side-Angle-Side) congruence, using equal opposite sides, right angles, and common sides."
+    },
+    {
+      "q": "What congruence condition is often used to prove properties of parallelograms?",
+      "a": "AAS (Angle-Angle-Side) congruence, using alternate angles and common sides formed by diagonals."
+    },
+    {
+      "q": "In a rhombus, if the diagonals are 6 cm and 8 cm, what is the perimeter?",
+      "a": "Perimeter = 20 cm. Each half-diagonal forms a right triangle with legs 3 cm and 4 cm. Side = 5 cm (3-4-5 triangle). Perimeter = 4 × 5 = 20 cm."
+    },
+    {
+      "q": "Are the diagonals of a parallelogram required to bisect the angles?",
+      "a": "No. Diagonals of a general parallelogram do not bisect the angles (only in rhombuses do they bisect angles)."
+    }
+  ]
+}

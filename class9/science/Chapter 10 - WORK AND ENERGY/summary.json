@@ -1,0 +1,31 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Physics",
+    "chapter_name": "Work and Energy",
+    "chapter_number": 10
+  },
+  "summary": [
+    {
+      "category": "Work and Its Definition",
+      "points": [
+        "Work is done on an object only when both conditions are met: a force acts on it AND it is displaced in the direction of the force (W = F × s). Work requires force and displacement; if either is zero, work is zero. Unit: joule (J), where 1 J = 1 N × 1 m.",
+        "Work can be positive (force and displacement same direction) or negative (opposite directions). Positive work increases object's energy or speed; negative work decreases energy or speed. Gravity does positive work on falling objects and negative work on rising objects."
+      ]
+    },
+    {
+      "category": "Energy: Forms and Conservation",
+      "points": [
+        "Energy is the capacity to do work. Kinetic energy (E_k = 1/2 mv²) is energy of motion (increases with velocity squared); potential energy (E_p = mgh) is energy due to position/height. Mechanical energy = kinetic + potential energy.",
+        "Law of Conservation of Energy: Total energy in an isolated system remains constant. Energy transforms from one form to another (kinetic ↔ potential, chemical → electrical, etc.) but total amount never changes. Dissipative forces (friction) convert mechanical energy to heat, but including heat, total energy is still conserved."
+      ]
+    },
+    {
+      "category": "Power: Rate of Energy Transfer",
+      "points": [
+        "Power is the rate of doing work (P = W/t). SI unit: watt (W), where 1 W = 1 J/s. Average power = Total work / Total time. Higher power means same work done in less time or more work done in same time.",
+        "Work-Energy Theorem: Net work done on an object equals change in kinetic energy (W_net = ΔE_k = 1/2 m(v_f)² - 1/2 m(v_i)²). This theorem connects forces to motion: forces do work, work changes kinetic energy, kinetic energy determines velocity and momentum changes."
+      ]
+    }
+  ]
+}

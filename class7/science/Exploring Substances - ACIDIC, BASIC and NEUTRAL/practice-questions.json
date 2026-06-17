@@ -1,0 +1,164 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Science",
+    "chapter_name": "Exploring Substances: Acidic, Basic, and Neutral",
+    "chapter_number": 2
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What are acidic substances? Give two examples.",
+      "answer": "Substances that generally taste sour and turn blue litmus paper to red are called acidic substances. Examples: lemon juice, vinegar.",
+      "solution": "Acidic substances contain acids. In our daily lives, many edible items are acidic, which gives them their characteristic sour taste. For instance, lemon juice contains citric acid, and vinegar contains acetic acid. When tested with a blue litmus paper strip (a natural indicator), acidic substances change its colour to red."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What are basic substances? Give two examples.",
+      "answer": "Substances that feel soapy or slippery to the touch, generally taste bitter, and turn red litmus paper to blue are basic substances. Examples: soap solution, baking soda solution.",
+      "solution": "Basic substances contain bases. Unlike acids, they are generally bitter to taste (though not all bitter things are basic) and have a slippery or soapy feel when rubbed between the fingers. When a drop of a basic solution is placed on red litmus paper, it changes the colour of the paper to blue. Common examples include baking soda solution, soap solution, and lime water."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What is an acid-base indicator? Name two natural indicators.",
+      "answer": "An indicator is a substance that shows a noticeable colour change to indicate whether a given sample is acidic or basic. Examples: Litmus and Turmeric.",
+      "solution": "It is not safe to touch or taste every substance to determine its chemical nature. Instead, we use special substances called indicators. These indicators exhibit one colour in an acidic medium and a different colour in a basic medium. Natural indicators are obtained from nature; for example, litmus is extracted from lichens, while turmeric and red rose petals are obtained from plants."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What is the effect of an acidic substance on blue and red litmus paper?",
+      "answer": "An acidic substance turns blue litmus paper to red, but has no effect on red litmus paper.",
+      "solution": "Litmus is an acid-base indicator. When an acidic substance (like lemon juice or tamarind water) comes in contact with blue litmus paper, it acts on the dye and turns it red. However, if the same acidic substance is applied to red litmus paper, there is no colour change because the indicator is already in its acidic colour state (red)."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What is the effect of a basic substance on blue and red litmus paper?",
+      "answer": "A basic substance turns red litmus paper to blue, but has no effect on blue litmus paper.",
+      "solution": "When a basic substance (like soap solution or lime water) comes in contact with red litmus paper, it changes the colour of the paper to blue. If a basic substance is applied to blue litmus paper, the colour remains unchanged (blue), reflecting the basic nature of the solution."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Name the specific acids present in lemon, amla, and tamarind.",
+      "answer": "Lemon contains citric acid, amla contains ascorbic acid (Vitamin C) and citric acid, and tamarind contains tartaric acid.",
+      "solution": "Many natural, sour-tasting foods get their flavours from naturally occurring acids. According to the textbook: (1) Lemon is rich in citric acid. (2) Amla (Indian gooseberry) is a rich source of ascorbic acid (also known as Vitamin C) along with citric acid. (3) Tamarind gets its distinct sourness from tartaric acid."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What colour change is observed when turmeric paper is exposed to a basic solution?",
+      "answer": "Turmeric paper changes its colour from yellow to red/brown when exposed to a basic solution.",
+      "solution": "Turmeric is a naturally occurring yellow spice that acts as an indicator. When a piece of yellow turmeric paper comes in contact with a basic substance (such as soap solution or baking soda solution), a chemical interaction turns the yellow dye into a deep red or reddish-brown colour. This is why a curry stain on a white shirt turns red when washed with soap."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What colour does red rose extract turn in acidic and basic solutions respectively?",
+      "answer": "Red rose extract turns to a shade of red in acidic solutions and to a shade of green in basic solutions.",
+      "solution": "An extract made by steeping crushed red rose petals in hot water serves as an excellent natural indicator. When added to an acidic substance (like lemon juice), the extract maintains or turns into a distinct shade of bright red. Conversely, when added to a basic substance (like baking soda solution), the extract undergoes a chemical change and turns green."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "What are neutral substances? Give two examples.",
+      "answer": "Substances that are neither acidic nor basic and do not change the colour of either red or blue litmus paper are called neutral substances. Examples: tap water, sugar solution.",
+      "solution": "Neutral substances have a balanced chemical nature, meaning they lack the properties of both acids and bases. Because their nature is neutral, they do not trigger any colour change in acid-base indicators like litmus. For example, if you place drops of tap water, a sugar solution, or a salt solution on blue or red litmus paper, the colour of the papers will remain unchanged."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "What is a neutralisation reaction?",
+      "answer": "A neutralisation reaction is a chemical reaction in which a solution of an acid is mixed with a solution of a base in sufficient quantities, cancelling out each other's effects to form salt and water, along with the release of heat.",
+      "solution": "When acidic and basic solutions form a mixture in the right proportions, the acidic nature of the acid and the basic nature of the base are destroyed. The resulting solution is neither acidic nor basic—it is neutral. This process is called neutralisation. The reaction always produces a new substance called a 'salt' (which can be acidic, basic, or neutral in nature) and water. Additionally, heat is always evolved (released) during this reaction, which makes the reaction mixture warm."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "How is lime water prepared, and what is its chemical nature?",
+      "answer": "Lime water is prepared by mixing lime (calcium oxide) in water, letting it settle, and filtering it. Its chemical nature is basic.",
+      "solution": "To prepare lime water, you take some lime (also known as chuna or calcium oxide, which is different from the lemon fruit) and dissolve it in water. After leaving the mixture undisturbed for about an hour, the clear liquid at the top is filtered into a separate container. This clear liquid is a solution of calcium hydroxide, commonly called lime water. When tested with red litmus paper, it turns the paper blue, proving that it is basic in nature."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Why do people often apply moist baking soda on an ant bite?",
+      "answer": "An ant bite injects formic acid into the skin. Moist baking soda is a base, which neutralises the acidic effect and relieves the pain.",
+      "solution": "When a red ant bites a person, it pierces the skin and injects an acidic liquid called formic acid. This acid causes a stinging, burning pain and redness. To treat this, a mild basic substance is required to neutralise the acid's effect on the skin. Moist baking soda (sodium hydrogen carbonate) is a readily available household base. Rubbing it on the affected area causes a neutralisation reaction that cancels out the formic acid, providing immediate relief."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Can you use turmeric paper to distinguish between a sugar solution and vinegar? Explain your answer.",
+      "answer": "No. Turmeric paper remains yellow in both neutral (sugar) and acidic (vinegar) solutions, so it cannot distinguish between them.",
+      "solution": "Turmeric is a natural indicator that only shows a colour change (from yellow to red/brown) in the presence of a basic substance. Sugar solution is a neutral substance, and vinegar is an acidic substance. When tested on turmeric paper, the paper will remain yellow for both the sugar solution and the vinegar. Because there is no observable difference in colour in either case, turmeric paper alone cannot be used to distinguish an acid from a neutral substance."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "What is an olfactory indicator? Explain how onion functions as one.",
+      "answer": "An olfactory indicator is a substance whose smell changes depending on whether it is in an acidic or basic medium. Onion retains its smell in acids but loses its smell in basic solutions.",
+      "solution": "While visual indicators change colour, olfactory indicators change their characteristic odour when mixed with acids or bases. Onion is a common olfactory indicator. In an experiment, if cloth strips are kept with chopped onions overnight, they absorb the strong onion smell. If a few drops of an acidic solution (like tamarind water) are put on the strip, the onion smell persists. However, if a basic solution (like baking soda) is added to the strip, the characteristic smell of the onion is suppressed or entirely eliminated. This difference in odour allows us to identify the nature of the substance."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "A student added red rose extract to lemon juice, and it turned red. What will happen to the colour if she continuously adds lime water to this mixture drop by drop?",
+      "answer": "The colour will gradually change from red to green because the basic lime water will safely neutralise the acidic lemon juice, eventually making the solution basic.",
+      "solution": "Initially, the mixture of lemon juice (acidic) and red rose extract is red, which is the indicator's characteristic colour in an acidic medium. Lime water is a basic solution. When lime water is added drop by drop, a neutralisation reaction begins, and the base gradually cancels out the effect of the acid. Once enough lime water is added to completely neutralise the acid, any extra drops will make the entire solution basic. Consequently, the red rose extract will respond to the newly basic environment by changing its colour to a shade of green."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "If a farmer finds that the plants in a field are growing poorly due to excessively acidic soil, how can this issue be treated chemically?",
+      "answer": "The farmer should treat the soil by adding a basic substance like lime to neutralise the excess acid.",
+      "solution": "Soil can become too acidic due to the excessive use of chemical fertilisers. Plants generally do not grow well in soil that is overly acidic or overly basic. To correct acidic soil, a neutralisation process is employed. The farmer can add a base to the soil, such as lime (calcium oxide or calcium hydroxide). The basic agricultural lime reacts with the acids in the soil, neutralising their effect and restoring the soil to a more balanced, neutral state suitable for plant growth."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "How is excessively basic soil treated in agriculture, and what is the underlying chemical process?",
+      "answer": "Excessively basic soil is treated by adding organic matter (manure/compost). The decomposing organic matter releases acids that neutralise the basic nature of the soil.",
+      "solution": "Just as with acidic soil, badly stunted plant growth can happen if the soil is too basic. To fix this, farmers add organic matter such as composted leaves or manure to the fields. As the organic matter naturally breaks down and decomposes in the earth, it releases various organic acids. These released acids safely and slowly react with the excessive bases in the soil, neutralising them and making the soil more hospitable for crops."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Why is it necessary to chemically treat industrial factory waste before discharging it into lakes or rivers?",
+      "answer": "Factory waste often contains strong acids that can kill fish and aquatic life. It must be treated with basic substances to neutralise the acids before disposal.",
+      "solution": "Many manufacturing processes produce highly acidic wastewater as a byproduct. If this acidic factory waste is discharged directly into local rivers, lakes, or ponds, it drastically lowers the pH of the water body. This highly acidic environment is toxic and can quickly lead to the death of fish, aquatic plants, and other organisms. To prevent this environmental damage, factories are required to treat their waste by adding basic (alkaline) substances to it. This triggers a neutralisation reaction, turning the harmful acids into harmless salts and water before the effluent is released into the environment."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "You have three unknown solutions: X, Y, and Z. Solution X turns red litmus blue. Solution Y turns blue litmus red. Solution Z has no effect on either litmus paper. Predict the colour changes if turmeric paper and red rose extract are applied to each solution.",
+      "answer": "Solution X (Base): Turmeric turns red, Rose turns green. Solution Y (Acid): Turmeric stays yellow, Rose turns red. Solution Z (Neutral): Turmeric stays yellow, Rose colour remains unchanged.",
+      "solution": "First, identify the nature of the solutions from the litmus test:\n- Solution X turns red litmus blue → It is a Basic substance.\n- Solution Y turns blue litmus red → It is an Acidic substance.\n- Solution Z has no effect on litmus → It is a Neutral substance.\n\nNow, applying the behaviour of the other indicators:\n1. Turmeric paper: It only changes colour (yellow to red/brown) in a basic medium. Therefore, it will turn red in X, and remain yellow in Y and Z.\n2. Red rose extract: It turns red in acidic solutions and green in basic solutions. Therefore, it will turn green in X, turn a distinct deeper red in Y, and remain its original colour in neutral Z."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Your teacher gives you three colourless liquids: tap water, vinegar, and a soap solution, but the labels have fallen off. You are provided with only a strip of red litmus paper. How will you logically identify all three liquids?",
+      "answer": "First, test all three with red litmus. The one that turns it blue is the soap solution (base). Now the litmus paper is blue. Use this blue paper to test the other two; the one that turns it back to red is vinegar (acid). The remaining liquid is tap water (neutral).",
+      "solution": "This requires a step-by-step logical deduction using a single indicator strip:\nStep 1: Dip the red litmus paper into each of the three liquids. The basic liquid (soap solution) will turn the red litmus paper blue. We have now identified the soap solution.\nStep 2: You now hold a piece of litmus paper that has turned blue. You can use it as 'blue litmus paper' to distinguish between the two remaining unknown liquids (vinegar and tap water).\nStep 3: Dip the blue end of the paper into the remaining two liquids. The acidic liquid (vinegar) will turn the blue litmus paper back to red. We have now identified the vinegar.\nStep 4: By elimination, the third liquid, which had no effect on the red litmus initially and no effect on the blue litmus subsequently, is the neutral tap water."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Ashwin made a greeting card by applying turmeric paste on white paper and letting it dry. He wrote a secret message on it using a soap solution, which appeared in red. (a) Explain the chemistry behind this. (b) What would happen if he tried to erase the message by applying lemon juice over the red text?",
+      "answer": "(a) Turmeric acts as an indicator, turning red in contact with a base (soap). (b) Applying lemon juice (acid) would neutralise the basic soap, changing the colour back from red to yellow, effectively erasing the message.",
+      "solution": "(a) Chemistry of the message: Turmeric is a natural acid-base indicator that is naturally yellow. The soap solution is basic in nature. When the basic soap solution comes in contact with the dried yellow turmeric paste on the paper, a chemical reaction occurs that changes the colour of the turmeric dye from yellow to a deep brownish-red. This makes the invisible writing appear.\n(b) Chemistry of erasing: Lemon juice contains citric acid. When lemon juice is painted over the red letters, the acid reacts with the basic soap residue on the paper. This is a neutralisation reaction. Once the base is completely neutralised by the acid, the environment is no longer basic. Consequently, the turmeric indicator shifts back to its default state for acidic/neutral environments, turning back to yellow. The message disappears."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "During a laboratory activity, two students mix equal amounts of an unknown acidic solution and an unknown basic solution in a test tube. After mixing, they touch the bottom of the test tube and notice it feels noticeably warm. Explain exactly what chemical process has occurred inside the test tube to cause this, and what the final products are.",
+      "answer": "A neutralisation reaction occurred, where the acid and base cancelled each other out to form a salt and water. The test tube feels warm because neutralisation is an exothermic reaction, meaning it always releases heat.",
+      "solution": "When an acidic solution and a basic solution are forced to interact in a test tube, their chemical properties oppose and destroy one another. This is called a chemical neutralisation reaction. The core principle of a neutralisation reaction is:\nAcid + Base → Salt + Water\nThe original acidic and basic molecules are re-arranged to form a completely new substance called a 'salt' dissolved in water. The specific type of salt depends on which acids and bases were mixed. Crucially, breaking and forming these chemical bonds releases excess energy in the form of thermal energy (heat). This is why the reaction mixture heats up and the test tube feels noticeably warm to the touch. The reaction also leaves the final resulting mixture with properties that are neither acidic nor basic, assuming equal strengths and quantities were mixed."
+    }
+  ]
+}

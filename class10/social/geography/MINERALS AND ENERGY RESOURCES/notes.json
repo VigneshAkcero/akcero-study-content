@@ -1,0 +1,229 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Geography",
+    "chapter_name": "Minerals and Energy Resources",
+    "chapter_number": 5
+  },
+  "notes": [
+    {
+      "section_title": "Introduction to Minerals",
+      "topics": [
+        {
+          "topic_name": "Definition and Importance",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Geologists define a mineral as a 'homogenous, naturally occurring substance with a definable internal structure.' Minerals are indispensable; almost everything from a tiny pin to a big ship is made from them."
+            },
+            {
+              "type": "note",
+              "title": "Minerals in Life Processes",
+              "text": "Life processes cannot occur without minerals. Although mineral intake represents only about 0.3 per cent of our total nutrient intake, we cannot utilize the other 99.7 per cent of foodstuffs without them."
+            },
+            {
+              "type": "paragraph",
+              "text": "Toothpaste minerals: Abrasives (silica, limestone), Fluoride (from fluorite), Whiteness (titanium oxide from rutile/ilmenite), Sparkle (mica)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Modes of Occurrence of Minerals",
+      "topics": [
+        {
+          "topic_name": "Types of Formations",
+          "content": [
+            {
+              "type": "list",
+              "title": "Where minerals are found:",
+              "items": [
+                "Igneous and Metamorphic Rocks: Occur in cracks as veins (small) or lodes (large). Examples: Tin, copper, zinc, lead.",
+                "Sedimentary Rocks: Occur in beds or layers due to deposition/accumulation. Examples: Coal, iron ore, gypsum, potash salt.",
+                "Decomposition of Surface Rocks: Removal of soluble constituents leaving residual weathered material. Example: Bauxite.",
+                "Alluvial Deposits: Found in sands of valley floors; called 'placer deposits'. Examples: Gold, silver, platinum.",
+                "Ocean Waters: Common salt, magnesium, and bromine. Manganese nodules found on ocean beds."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Rat-Hole Mining",
+              "text": "In Meghalaya, coal mining is done by family members in long narrow tunnels. Though common in tribal areas, the National Green Tribunal has declared this illegal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Metallic Minerals",
+      "topics": [
+        {
+          "topic_name": "Ferrous Minerals (Iron & Manganese)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Ferrous minerals account for 3/4ths of the total value of metallic mineral production. India is rich in good quality iron ores."
+            },
+            {
+              "type": "list",
+              "title": "Iron Ore Types and Belts:",
+              "items": [
+                "Magnetite: Finest ore with 70% iron; excellent magnetic qualities for electronics.",
+                "Hematite: Most important industrial ore, 50-60% iron content.",
+                "Major Belts: Odisha-Jharkhand, Durg-Bastar-Chandrapur (Bailadila), Ballari-Chitradurga (Kudremukh), Maharashtra-Goa."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Manganese",
+              "text": "Used for manufacturing steel and ferro-manganese alloys. Nearly 10 kg of manganese is required to manufacture one tonne of steel."
+            }
+          ]
+        },
+        {
+          "topic_name": "Non-Ferrous Minerals (Copper & Bauxite)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "India is deficient in copper but rich in bauxite. Copper is essential for electrical cables and electronics due to its conductivity."
+            },
+            {
+              "type": "list",
+              "title": "Distribution:",
+              "items": [
+                "Copper: Leading producers are Balaghat mines (MP), Khetri (Rajasthan), and Singhbhum (Jharkhand).",
+                "Bauxite: Obtained from aluminium silicates. Major deposits in Amarkantak plateau and Odisha (Panchpatmali). Odisha is the largest producer (65%)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Non-Metallic Minerals and Mining Hazards",
+      "topics": [
+        {
+          "topic_name": "Mica and Limestone",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Mica: Famous for di-electric strength and resistance to high voltage; indispensable for electronics. Koderma-Gaya-Hazaribagh is the leading belt.",
+                "Limestone: Basic raw material for cement industry and essential for smelting iron ore."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Hazards of Mining",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Mining is called a 'killer industry' due to dust/fumes causing pulmonary diseases, risk of roof collapse, and water contamination. Conservation is necessary as minerals are finite and non-renewable."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Energy Resources: Conventional",
+      "topics": [
+        {
+          "topic_name": "Coal",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Most abundantly available fossil fuel in India. Primary source for power and metallurgy."
+            },
+            {
+              "type": "table",
+              "headers": ["Type", "Description", "Usage"],
+              "rows": [
+                ["Peat", "Low carbon, high moisture", "Low heating capacity"],
+                ["Lignite", "Soft brown coal", "Electricity (Neyveli)"],
+                ["Bituminous", "Buried deep, popular", "Commercial/Metallurgical"],
+                ["Anthracite", "Highest quality", "Hard coal"]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Geological Age",
+              "text": "Gondwana coal (200m years old) found in Damodar valley (Jharia, Raniganj). Tertiary coal (55m years old) found in NE states."
+            }
+          ]
+        },
+        {
+          "topic_name": "Petroleum and Natural Gas",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Petroleum refineries act as 'nodal industries' for chemicals. Found in anticlines/fault traps. Mumbai High is the largest producer."
+            },
+            {
+              "type": "paragraph",
+              "text": "Natural gas is an environment-friendly fuel. The HVJ cross-country pipeline (1700km) constructed by GAIL provided impetus to the gas market."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Non-Conventional Energy and Conservation",
+      "topics": [
+        {
+          "topic_name": "Renewable Sources",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Nuclear: Altering atom structures. Uranium (Jharkhand/Rajasthan), Thorium (Kerala monazite sands).",
+                "Solar: Photovoltaic technology; popular in rural areas.",
+                "Wind Power: Largest cluster in Tamil Nadu (Nagercoil to Madurai).",
+                "Other: Biogas (Gobar gas), Tidal energy (Gulf of Khambhat), Geothermal (Parvati Valley, Puga Valley)."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Conservation of Energy",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Economic development depends on energy. We must switch to public transport, use power-saving devices, and renewable sources. Remember: 'Energy saved is energy produced'."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Ore",
+      "definition": "An accumulation of any mineral mixed with other elements in sufficient concentration for commercial extraction."
+    },
+    {
+      "term": "Veins and Lodes",
+      "definition": "Mineral occurrences in cracks of igneous/metamorphic rocks; veins are small, lodes are large."
+    },
+    {
+      "term": "Bauxite",
+      "definition": "A clay-like substance obtained from rocks rich in aluminium silicates; source of aluminium."
+    },
+    {
+      "term": "Gondwana Coal",
+      "definition": "High grade metallurgical coal found in the Damodar valley, a little over 200 million years old."
+    },
+    {
+      "term": "Non-Conventional Energy",
+      "definition": "Renewable energy sources like solar, wind, tidal, and geothermal energy."
+    }
+  ],
+  "summary_points": [
+    "Minerals are homogenous substances occurring in nature as ores, essential for everything from daily objects to complex machinery.",
+    "Iron ore is the backbone of industrial development, with Magnetite and Hematite being the primary types in India.",
+    "Non-ferrous minerals like copper and bauxite play vital roles in electrical and metallurgical industries respectively.",
+    "Energy resources are divided into conventional (Coal, Petroleum, Gas) and non-conventional (Solar, Wind, Nuclear).",
+    "Sustainable mineral and energy use is critical, summarized by the mantra 'Energy saved is energy produced'."
+  ]
+}

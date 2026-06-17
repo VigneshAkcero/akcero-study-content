@@ -1,0 +1,206 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Mindful Eating: A Path to a Healthy Body",
+    "chapter_number": 23
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is the meaning of the Sanskrit saying 'annena jtni jivanti' mentioned in the chapter?",
+      "answer": "Food gives life to living beings.",
+      "solution": "This saying emphasizes the essential nature of food for the survival of all living organisms."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Which nutrient is the primary source of 'instant energy' for a marathon runner?",
+      "answer": "Glucose (a type of carbohydrate).",
+      "solution": "As per the text, glucose provides immediate energy required during or after physically demanding activities."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Classify the following as Energy-giving, Body-building, or Protective food: (i) Rice, (ii) Milk, (iii) Lemon.",
+      "answer": "(i) Energy-giving, (ii) Body-building, (iii) Protective.",
+      "solution": "Rice is rich in carbohydrates (energy), milk is rich in proteins (growth/repair), and lemon is rich in Vitamin C (protection)."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "True or False: Roughage provides essential nutrients to our body.",
+      "answer": "False.",
+      "solution": "Roughage (dietary fibre) does not provide nutrients but helps in the smooth passage of stools and removing undigested food."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Which mineral deficiency causes swelling at the front of the neck (Goitre)?",
+      "answer": "Iodine.",
+      "solution": "Symptoms of neck swelling are linked to a deficiency of iodine in the diet, as seen in the Himalayan region case study."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "Why is it recommended to wash vegetables before cutting or peeling them rather than after?",
+      "answer": "To prevent the loss of water-soluble vitamins like Vitamin C.",
+      "solution": "Washing already cut or peeled vegetables can wash away essential vitamins and minerals that are exposed."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "Explain the role of fat in the survival of a polar bear during hibernation.",
+      "answer": "Fat stored under the skin acts as an energy source during the months-long winter sleep.",
+      "solution": "Polar bears accumulate thick layers of fat which sustain them without eating for months by providing stored energy."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "A student adds iodine solution to a slice of potato and it turns blue-black. What does this indicate?",
+      "answer": "The presence of starch (a carbohydrate).",
+      "solution": "The iodine test is a standard method to detect the presence of starch in food items."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Compare the nutritional value of potato wafers and roasted chana. Which one is better and why?",
+      "answer": "Roasted chana is better because it has more proteins, fibre, and lower fats compared to wafers.",
+      "solution": "Based on Activity 3.9, chana has 18.64g protein and 16.8g fibre, while wafers have only 7g protein and 4.8g fibre."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "What are 'nutri-cereals'? Give two examples native to India.",
+      "answer": "Highly nutritious grains called millets; Examples: Jowar, Bajra, Ragi, or Sanwa.",
+      "solution": "These crops are integral to the Indian diet and are rich in vitamins, minerals like iron and calcium, and dietary fibres."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Define 'Food Miles' and state one reason why reducing them is beneficial.",
+      "answer": "The distance food travels from producer to consumer; benefit: reduces transport pollution and supports local farmers.",
+      "solution": "Lowering food miles ensures fresher food and minimizes the carbon footprint caused by long-distance transportation."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Hard",
+      "question": "A person suffers from bleeding and swollen gums. Identify the deficiency disease and suggest the best immediate dietary fix from the textbook.",
+      "answer": "Scurvy (Vitamin C deficiency); Best fix: include citrus fruits like lemons and oranges.",
+      "solution": "Bleeding gums are a hallmark symptom of scurvy, which was historically cured by sailors using citrus fruits (James Lind's observation)."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "How does the 'PM POSHAN' (Mid Day Meal) initiative improve the health and nutrition of school children?",
+      "answer": "By providing balanced food containing required proteins, energy, and other nutrients.",
+      "solution": "Initiated based on Coluthur Gopalan's research, it addresses widespread nutritional deficiencies in the Indian student population."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "A solution turns violet when treated with copper sulphate and caustic soda. What nutrient is present?",
+      "answer": "Protein.",
+      "solution": "The combination of these two chemicals reacting to form a violet colour is the standard laboratory test for proteins."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "Analyse the statement: 'Health is the Ultimate Wealth.' How does consuming junk food regularly contradict this?",
+      "answer": "Junk foods cause obesity and provide high calories without essential nutrients like vitamins and minerals.",
+      "solution": "Frequent consumption of junk food like wafers and carbonated drinks leads to health problems, negating the wealth of a healthy body."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Hard",
+      "question": "Compare the 'chulha' and 'sil-batta' with their modern kitchen equivalents. Why have these practices changed?",
+      "answer": "Modern equivalents: Gas stove and electrical grinder; changed due to technological development and ease of use.",
+      "solution": "Technological improvements provide faster, cleaner, and less manually intensive ways to prepare food."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "What is the function of water in our diet besides quenching thirst?",
+      "answer": "It helps absorb nutrients and remove waste from the body through sweat and urine.",
+      "solution": "Water is a vital solvent for biological processes and temperature regulation through waste expulsion."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "A twelve-year-old child's diet chart is being prepared. Why should it include millets and fortified salt?",
+      "answer": "Millets provide minerals/fibre and fortified salt prevents iodine deficiency diseases like goitre.",
+      "solution": "Growing children require diverse minerals and vitamins; fortification ensures even common items like salt provide protective nutrients."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Easy",
+      "question": "Which vitamin prevents the disease 'Rickets' (weak/bent bones)?",
+      "answer": "Vitamin D.",
+      "solution": "Vitamin D is essential for calcium absorption into bones, preventing rickets especially in growing children."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Explain how food miles are related to environmental sustainability.",
+      "answer": "Lower food miles reduce the pollution cost of transportation and support local biodiversity.",
+      "solution": "When we eat local, seasonal food, we minimize the energy used for shipping and promote the health of our local planet/environment."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "What is 'fortification' of food? Give one example from the chapter.",
+      "answer": "Adding extra nutrients to food during processing; Example: Iodised salt or fortified baby foods.",
+      "solution": "Government initiatives and agencies like FSSAI encourage fortification to address common nutritional gaps in the population."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "If Mishti eats only white bread and biscuits, why might she suffer from constipation?",
+      "answer": "Because these highly processed foods lack dietary fibre (roughage) needed for smooth bowel movements.",
+      "solution": "As per Case study of Medu/Mishti, a lack of roughage from wholegrains and vegetables leads to stomach ache and constipation."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Easy",
+      "question": "Name two plant sources and two animal sources of protein.",
+      "answer": "Plant: Pulses, Peas; Animal: Egg, Milk.",
+      "solution": "The textbook classifies protein sources into these two broad categories based on their origin."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "Which component of food do Sportspersons need in larger quantities and why?",
+      "answer": "Proteins; for growth and building/repair of muscles.",
+      "solution": "High physical activity requires significant body-building nutrients to sustain muscle development."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Describe the 'Paper Patch Test' and state which nutrient it detects.",
+      "answer": "Rubbing food on paper to see if it leaves a persistent oily patch; it detects Fats.",
+      "solution": "If the paper remains translucent/oily after drying, it indicates the presence of oils or fats in the food sample."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Easy",
+      "question": "What does FSSAI stand for?",
+      "answer": "Food Safety and Standards Authority of India.",
+      "solution": "FSSAI is the government agency responsible for regulating food quality and safety standards nationwide."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Medium",
+      "question": "Why are vitamins and minerals called 'protective nutrients'?",
+      "answer": "Because they protect our body from various diseases and keep us healthy.",
+      "solution": "Unlike energy-giving or body-building foods, vitamins/minerals are primarily responsible for maintaining health and immunity."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Link the traditional food items of Karnataka to its locally grown crops based on the provided data.",
+      "answer": "Karnataka grows rice, ragi, and coconut; traditional items include Idli, Dosa, and Ragi mudde.",
+      "solution": "Dietary habits are historically rooted in the crops that can be successfully cultivated in the local soil and climate."
+    }
+  ]
+}

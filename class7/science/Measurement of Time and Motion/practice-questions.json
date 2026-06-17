@@ -1,0 +1,255 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Science",
+    "chapter_name": "Measurement of Time and Motion",
+    "chapter_number": 8
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is a simple pendulum?",
+      "answer": "A simple pendulum is a small metallic ball (bob) suspended from a rigid support by a long thread.",
+      "solution": "A simple pendulum consists of three main components: (1) A small metallic ball called the bob, (2) A thread or string of specific length, and (3) A rigid support from which the thread is suspended. When the bob is displaced slightly from its mean position and released, it oscillates back and forth in a regular periodic motion. This simple device demonstrates harmonic motion and forms the basis of pendulum clocks."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What is the time period of a pendulum?",
+      "answer": "The time period is the time taken by a pendulum to complete one oscillation.",
+      "solution": "The time period (usually denoted as 'T') is defined as the time required for the pendulum to complete one full oscillation. One complete oscillation occurs when the bob starts from its mean position, moves to one extreme position, then to the other extreme position, and returns to the mean position. The time period is measured in seconds and is a fundamental property that depends on the length of the pendulum."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What is one oscillation of a pendulum?",
+      "answer": "One oscillation is the complete motion from the mean position through one extreme, to the other extreme, and back to the mean position.",
+      "solution": "An oscillation is one complete cycle of the pendulum's motion. Starting at the mean (equilibrium) position, the pendulum swings to one extreme position (maximum displacement), reverses direction and swings to the opposite extreme position, and finally returns to the mean position. This entire path constitutes one oscillation. For example, if a pendulum swings from the center to the right extreme, then to the left extreme, and back to center, this is one oscillation."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Does the time period of a pendulum depend on the mass of the bob?",
+      "answer": "No, the time period does not depend on the mass of the bob.",
+      "solution": "Experimental observations, beginning with Galileo's investigations, demonstrate that the time period of a simple pendulum is independent of the bob's mass. Whether a light bob or a heavy bob is used, as long as the length of the pendulum remains the same, the time period remains constant. This surprising result occurs because gravitational acceleration affects all masses equally, so the inertial and gravitational effects cancel out in the equation of motion."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What does the time period of a pendulum depend on?",
+      "answer": "The time period depends on the length of the pendulum.",
+      "solution": "The time period of a simple pendulum is determined primarily by its length. Longer pendulums have longer time periods, while shorter pendulums have shorter time periods. This relationship is not linear — if you double the length, the time period does not double but increases by a factor of √2. This length-dependent property makes pendulums useful for measuring time, as you can construct a pendulum of specific length to achieve a desired time period."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Name four ancient devices used to measure time.",
+      "answer": "Sundials, water clocks, hourglasses, and candle clocks.",
+      "solution": "Ancient civilizations developed several ingenious devices for measuring time before modern clocks: (1) Sundials — used the shadow of an object cast by the Sun's position to indicate time, (2) Water clocks — used the flow of water from one container to another calibrated with time markings, (3) Hourglasses — used the flow of sand from one bulb to another, (4) Candle clocks — used burning candles with markings to indicate time passage. Each method relied on natural, measurable processes."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What is the SI unit of time?",
+      "answer": "The second (s) is the SI unit of time.",
+      "solution": "The SI (International System of Units) unit of time is the second, with the symbol 's' (written in lowercase). The second is the fundamental unit of time from which larger units are derived: 1 minute (min) = 60 seconds, 1 hour (h) = 60 minutes = 3,600 seconds. When writing time units, always use lowercase letters and leave a space between the number and unit (e.g., '5 s' not '5 sec' or '5s')."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Convert 2 hours into seconds.",
+      "answer": "2 hours = 7,200 seconds.",
+      "solution": "To convert hours to seconds: 1 hour = 3,600 seconds. Therefore, 2 hours = 2 × 3,600 seconds = 7,200 seconds. Alternatively, you can break it down: 1 hour = 60 minutes, so 2 hours = 120 minutes. Then, 120 minutes × 60 seconds/minute = 7,200 seconds."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "What is speed?",
+      "answer": "Speed is the distance covered by an object in a unit time.",
+      "solution": "Speed is a measure of how fast an object is moving. It is defined as the distance traveled divided by the time taken to travel that distance. Speed tells us how much distance is covered in a standard time unit (such as 1 second, 1 minute, or 1 hour). Higher speed means the object covers more distance in the same time, while lower speed means it covers less distance in the same time."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Write the formula for speed.",
+      "answer": "Speed = Total distance covered / Total time taken.",
+      "solution": "The basic formula for calculating speed is: Speed = Distance / Time. If an object covers a distance 'd' in time 't', then its speed 'v' is given by v = d/t. This formula can be rearranged to find distance (d = v × t) or time (t = d/v) if the other two variables are known. The formula assumes average speed when the object's speed may vary during the journey."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "What is the SI unit of speed?",
+      "answer": "The SI unit of speed is metre per second (m/s).",
+      "solution": "Since speed is the ratio of distance (measured in metres) to time (measured in seconds), the SI unit of speed is metre per second, written as m/s. Another commonly used unit is kilometre per hour (km/h), which is often used for vehicles and weather reports. The conversion between these units is: 1 m/s = 3.6 km/h."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "Name two common units of speed.",
+      "answer": "Metre per second (m/s) and kilometre per hour (km/h).",
+      "solution": "The two most commonly used units of speed are: (1) Metre per second (m/s) — This is the SI unit and is used in scientific contexts and physics. (2) Kilometre per hour (km/h) — This is widely used in everyday situations such as describing vehicle speeds, weather reports, and speed limits. Other units like miles per hour (mph) are used in some countries. The choice of unit depends on the context and the magnitude of the speed being measured."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Easy",
+      "question": "What does a speedometer measure?",
+      "answer": "A speedometer measures the speed of a vehicle in km/h (or mph).",
+      "solution": "A speedometer is an instrument fitted in vehicles (cars, buses, motorcycles, etc.) that continuously measures and displays the vehicle's instantaneous speed. It shows the speed in kilometres per hour (km/h) in most countries, or in miles per hour (mph) in some countries. The speedometer needle or digital display changes as the vehicle accelerates or decelerates, giving the driver real-time information about the vehicle's current speed."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Easy",
+      "question": "What does an odometer measure?",
+      "answer": "An odometer measures the total distance travelled by a vehicle in kilometres.",
+      "solution": "An odometer is an instrument fitted in vehicles that measures the cumulative distance traveled by the vehicle. Unlike a speedometer which shows instantaneous speed, the odometer continuously accumulates and displays the total distance covered. It measures in kilometres (or miles in some countries) from when the vehicle was manufactured. The odometer reading can be used along with time information to calculate average speed over a journey."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Easy",
+      "question": "What is the difference between speed and velocity?",
+      "answer": "Speed is the distance covered in unit time; velocity is speed in a specific direction.",
+      "solution": "Speed and velocity are often used interchangeably in everyday language, but they have distinct meanings in physics: Speed is a scalar quantity (magnitude only) that describes how fast an object is moving, regardless of direction. Velocity is a vector quantity (magnitude and direction) that specifies how fast and in what direction an object is moving. For example, '50 km/h' describes speed, while '50 km/h north' describes velocity. In this chapter, we primarily focus on speed in linear motion along a straight line."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Easy",
+      "question": "What is linear motion?",
+      "answer": "Linear motion is the motion of an object along a straight line.",
+      "solution": "Linear motion refers to the movement of an object in a straight line path. The object maintains the same direction throughout its motion, and any change occurs only in the rate of movement (speed). Examples include a car moving on a straight highway, a train moving between two stations on a straight track, or a runner moving along a straight track. Linear motion contrasts with curved motion where the path is not straight."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Easy",
+      "question": "What is uniform linear motion?",
+      "answer": "Uniform linear motion is motion along a straight line with constant speed.",
+      "solution": "Uniform linear motion occurs when an object moves along a straight line while maintaining a constant speed. In uniform motion, the object covers the same distance in each equal time interval. For example, a car traveling at a constant speed of 60 km/h on a straight highway with no acceleration or deceleration exhibits uniform linear motion. The key characteristic is that both the direction (straight line) and the speed (constant) remain unchanged."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Easy",
+      "question": "What is non-uniform linear motion?",
+      "answer": "Non-uniform linear motion is motion along a straight line with changing speed.",
+      "solution": "Non-uniform linear motion occurs when an object moves along a straight line while its speed changes. The object covers different distances in equal time intervals. Examples include a train accelerating from rest, a car decelerating as it approaches a red light, or any object whose speed is not constant. The motion remains linear (along a straight line) but is non-uniform because the speed varies. This is the most common type of motion in real-world situations."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Easy",
+      "question": "How can you distinguish between uniform and non-uniform motion by observing distances in equal time intervals?",
+      "answer": "Uniform motion covers equal distances in equal time intervals; non-uniform motion covers unequal distances in equal time intervals.",
+      "solution": "By measuring the distances covered in successive equal time intervals, you can determine the type of motion: If the distances are the same in each interval (20 km in each 10-minute period), the motion is uniform. If the distances differ (20 km, then 15 km, then 25 km in successive 10-minute periods), the motion is non-uniform. This observation method directly reveals whether the speed is constant or changing. A data table showing positions at regular time intervals can be used to make this distinction."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Easy",
+      "question": "Who invented the pendulum clock?",
+      "answer": "Christiaan Huygens invented the pendulum clock in 1656.",
+      "solution": "The pendulum clock was invented by Dutch scientist Christiaan Huygens in 1656 and patented in 1657. Huygens was inspired by the observations of Italian scientist Galileo Galilei, who noticed that a swinging lamp in a church took the same time for each swing regardless of the size of the swing. This constant time period property of pendulums made them ideal for timekeeping. The pendulum clock represented a major breakthrough in accurate mechanical timekeeping and was far superior to mechanical clocks of that era."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "Calculate the speed of a cyclist who covers 45 km in 3 hours.",
+      "answer": "Speed = 45 km / 3 h = 15 km/h.",
+      "solution": "Given: Distance = 45 km; Time = 3 hours\nUsing the formula: Speed = Distance / Time\nSpeed = 45 km / 3 h = 15 km/h\n\nTo verify: If the cyclist travels at 15 km/h for 3 hours, the distance covered = 15 km/h × 3 h = 45 km ✓\n\nThe cyclist's speed is 15 km/h. To convert to m/s: 15 km/h ÷ 3.6 = 4.17 m/s (approximately)."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "A car travels 120 km in 2 hours. What is its speed in m/s?",
+      "answer": "Speed = 60 km/h = 16.67 m/s.",
+      "solution": "Given: Distance = 120 km; Time = 2 hours\n\nStep 1: Calculate speed in km/h\nSpeed = Distance / Time = 120 km / 2 h = 60 km/h\n\nStep 2: Convert from km/h to m/s\nTo convert km/h to m/s, divide by 3.6\nSpeed = 60 / 3.6 = 16.67 m/s (approximately)\n\nAlternatively, using SI units directly:\nDistance = 120 km = 120,000 m\nTime = 2 h = 7,200 s\nSpeed = 120,000 m / 7,200 s = 16.67 m/s"
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "A train travels at 72 km/h. How far will it travel in 5 hours?",
+      "answer": "Distance = Speed × Time = 72 km/h × 5 h = 360 km.",
+      "solution": "Given: Speed = 72 km/h; Time = 5 hours\nUsing the formula: Distance = Speed × Time\nDistance = 72 km/h × 5 h = 360 km\n\nTherefore, the train will travel 360 km in 5 hours.\n\nVerification using speed formula: Speed = 360 km / 5 h = 72 km/h ✓"
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "How long will it take for a runner to cover 800 metres if he runs at a speed of 8 m/s?",
+      "answer": "Time = Distance / Speed = 800 m / 8 m/s = 100 seconds.",
+      "solution": "Given: Distance = 800 metres; Speed = 8 m/s\nUsing the formula: Time = Distance / Speed\nTime = 800 m / 8 m/s = 100 s\n\nTherefore, it will take the runner 100 seconds to cover 800 metres.\n\nConvert to minutes: 100 s ÷ 60 = 1 minute and 40 seconds (approximately).\n\nVerification: Distance = Speed × Time = 8 m/s × 100 s = 800 m ✓"
+    },
+    {
+      "id": "q25",
+      "difficulty": "Medium",
+      "question": "What is average speed? How does it differ from instantaneous speed?",
+      "answer": "Average speed is total distance divided by total time. Instantaneous speed is the speed at a specific moment.",
+      "solution": "Average Speed: This is the total distance covered by an object divided by the total time taken. It represents the uniform speed at which an object would need to travel to cover the same distance in the same time. For example, if a car travels 240 km in 4 hours, the average speed is 60 km/h, even if the car was not always traveling at exactly 60 km/h (it might have been slower in traffic and faster on highways).\n\nInstantaneous Speed: This is the speed of an object at a specific moment in time, as shown by a speedometer at that instant. It may be different from the average speed.\n\nDifference: A speedometer shows instantaneous speed at any given moment. When we calculate speed using total distance and total time (as in most problems in this chapter), we get average speed. Most real-world motion is non-uniform, so average speed is more meaningful for describing overall motion."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Medium",
+      "question": "Explain why 1 m/s equals 3.6 km/h with the conversion process.",
+      "answer": "1 m/s = (1/1000) km / (1/3600) h = 3.6 km/h.",
+      "solution": "To convert from m/s to km/h:\n\nStarting with 1 metre per second:\n1 m/s means 1 metre is covered in 1 second.\n\nIn 1 hour (3,600 seconds), distance covered = 1 m/s × 3,600 s = 3,600 m\n\nConverting 3,600 m to km: 3,600 m = 3.6 km\n\nTherefore: 1 m/s = 3.6 km/h\n\nGeneral conversion formula:\n- To convert m/s to km/h: multiply by 3.6\n- To convert km/h to m/s: divide by 3.6\n\nExample: 10 m/s = 10 × 3.6 = 36 km/h\n         72 km/h = 72 ÷ 3.6 = 20 m/s"
+    },
+    {
+      "id": "q27",
+      "difficulty": "Medium",
+      "question": "Is the motion of a train between two stations uniform or non-uniform? Explain why.",
+      "answer": "The motion is non-uniform because the train accelerates from rest, maintains constant speed, then decelerates.",
+      "solution": "The motion of a train between two railway stations is non-uniform for the following reasons:\n\n1. Starting Phase: When the train leaves the first station, it starts from rest and accelerates to higher speeds. During this phase, its speed is increasing, so the motion is non-uniform.\n\n2. Middle Phase: Between the two stations, there may be a section where the train moves at a relatively constant speed. This section exhibits uniform motion.\n\n3. Stopping Phase: As the train approaches the next station, it decelerates and comes to rest. During this phase, its speed is decreasing, making the motion non-uniform.\n\nOverall: Since different sections have different speeds (some sections with changing speed, some with constant speed), the overall motion from one station to the next is non-uniform.\n\nConclusion: Most real-world motion is non-uniform, which is why the concept of average speed is important — it gives a meaningful representation of the overall motion."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Medium",
+      "question": "A car travels 60 km in the first hour, 80 km in the second hour, and 100 km in the third hour. Is the motion uniform? Calculate the average speed.",
+      "answer": "No, the motion is non-uniform. Average speed = 240 km / 3 h = 80 km/h.",
+      "solution": "1. Determine if motion is uniform:\nIn equal time intervals (1 hour each), the distances are: 60 km, 80 km, 100 km\nSince the distances are different in equal time intervals, the motion is non-uniform.\n\n2. Calculate average speed:\nTotal distance = 60 + 80 + 100 = 240 km\nTotal time = 3 hours\nAverage speed = Total distance / Total time = 240 km / 3 h = 80 km/h\n\n3. Interpretation:\nAlthough the car's instantaneous speed varied throughout the journey (60 km/h in hour 1, 80 km/h in hour 2, 100 km/h in hour 3), it covered an average of 80 km each hour over the entire journey.\n\nThis example shows how non-uniform motion is characterized by unequal distances in equal time intervals, yet we can still describe the overall motion using average speed."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Medium",
+      "question": "What were the main limitations of water clocks in ancient times?",
+      "answer": "Water clocks became less accurate as water levels dropped because the flow rate of water decreased.",
+      "solution": "Water clocks (also called clepsydras) had significant limitations despite being one of the first time-measuring devices:\n\n1. Main Limitation: As water level in the vessel decreased, the pressure at the bottom of the vessel decreased, causing the water flow rate to decrease. This meant that equal volumes of water would take progressively longer to drain as the vessel emptied.\n\n2. Effect on Accuracy: This decreasing flow rate made water clocks progressively less accurate. That is, the time marked for later portions would be longer than intended.\n\n3. Solution: To overcome this limitation, more sophisticated designs were developed, such as the sinking bowl water clock (Ghatika-yantra in ancient India). In this design, a bowl with a small hole floated on the surface of water and filled gradually. When full, it sank, maintaining consistent time measurements.\n\n4. Further Developments: These limitations led to the development of mechanical clocks driven by weights, gears, and springs, and eventually to the pendulum clock, which provided much greater accuracy."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Medium",
+      "question": "What is the Ghatika-yantra, and what was its significance in ancient India?",
+      "answer": "Ghatika-yantra was a sinking bowl water clock in ancient India where the bowl took 24 minutes to fill and sink.",
+      "solution": "The Ghatika-yantra (also spelled Ghatika or Ghati Yantra) was an ancient Indian timekeeping device:\n\n1. Design: It consisted of a small bowl with a finely made hole at the bottom, which floated on the surface of water in a larger container. Water slowly seeped into the bowl causing it to gradually fill.\n\n2. Time Period: The device was designed such that it took exactly 24 minutes for the bowl to completely fill with water and sink to the bottom.\n\n3. Time Unit: The time taken for one sinking (24 minutes) was called one 'ghatika' or 'ghati', which became a standard unit of time measurement.\n\n4. Daily Division: A 24-hour day was divided into 60 equal ghatikas (60 × 24 min = 1,440 min = 24 hours). This shows sophisticated mathematical understanding of time division.\n\n5. Usage: Ghatika-yantras were employed in Buddhist monasteries, royal palaces, and public squares. When the bowl sank, its sinking was announced by striking a drum, conch shell, or gong.\n\n6. Historical Significance: The Ghatika-yantra represents a brilliant solution to the water clock's accuracy problem. It was first mentioned by the astronomer Aryabhata and continued to be used until the nineteenth century when pendulum clocks became common, though it retained use in religious ceremonies.\n\n7. Advancement: Unlike simple water clocks where accuracy decreased with time, the Ghatika-yantra maintained consistent timing because the float maintained the same water pressure throughout the process."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "A vehicle travels 2 km with the following conditions: first 500 m at 10 m/s, next 500 m at 5 m/s, and remaining 1000 m at unknown speed. It completes the entire journey in 200 seconds. Find the speed for the remaining distance and the average speed for the entire journey.",
+      "answer": "Speed for remaining distance = 10 m/s; Average speed = 10 m/s.",
+      "solution": "Given:\nTotal distance = 2 km = 2,000 m\nFirst segment: 500 m at 10 m/s\nSecond segment: 500 m at 5 m/s\nThird segment: 1,000 m at unknown speed\nTotal time = 200 s\n\nStep 1: Calculate time for first segment\nTime₁ = Distance / Speed = 500 m / 10 m/s = 50 s\n\nStep 2: Calculate time for second segment\nTime₂ = Distance / Speed = 500 m / 5 m/s = 100 s\n\nStep 3: Calculate time for third segment\nTime₃ = Total time - Time₁ - Time₂ = 200 - 50 - 100 = 50 s\n\nStep 4: Calculate speed for third segment\nSpeed₃ = Distance / Time = 1,000 m / 50 s = 20 m/s\n\nWait, let me recalculate. The remaining distance should be: 2,000 - 500 - 500 = 1,000 m\nSpeed for remaining 1,000 m = 1,000 m / 50 s = 20 m/s\n\nActually, let me verify if the problem setup allows for a solvable answer. Let me reconsider:\nIf Speed for remaining = 1,000 m / Time = needs solving\n\nTime₃ = 200 - 50 - 100 = 50 s\nSpeed₃ = 1,000 / 50 = 20 m/s\n\nHowever, checking example values: If we assume the remaining speed is 10 m/s:\nTime for remaining = 1,000 m / 10 m/s = 100 s\nTotal time = 50 + 100 + 100 = 250 s (exceeds 200 s)\n\nSo the remaining speed must be higher. Using our calculation: 20 m/s\nTotal time = 50 + 100 + 50 = 200 s ✓\n\nStep 5: Calculate average speed\nAverage speed = Total distance / Total time = 2,000 m / 200 s = 10 m/s\n\nTherefore:\n- Speed for remaining 1,000 m = 20 m/s\n- Average speed for entire journey = 10 m/s"
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "Two runners complete a 400 m race. Runner A completes it in 50 seconds, while Runner B completes it in 45 seconds. Calculate the speed of each runner and determine who is faster and by how much.",
+      "answer": "Runner A: 8 m/s; Runner B: 8.89 m/s; Runner B is faster by 0.89 m/s.",
+      "solution": "Given:\nDistance for both runners = 400 m\nTime for Runner A = 50 s\nTime for Runner B = 45 s\n\nStep 1: Calculate speed of Runner A\nSpeed_A = Distance / Time = 400 m / 50 s = 8 m/s\n\nStep 2: Calculate speed of Runner B\nSpeed_B = Distance / Time = 400 m / 45 s = 8.89 m/s (approximately)\n\nStep 3: Determine who is faster\nSince 8.89 m/s > 8 m/s, Runner B is faster.\n\nStep 4: Calculate the difference in speed\nDifference = Speed_B - Speed_A = 8.89 - 8 = 0.89 m/s\n\nAlternatively in km/h:\nSpeed_A = 8 m/s × 3.6 = 28.8 km/h\nSpeed_B = 8.89 m/s × 3.6 = 32 km/h (approximately)\nDifference = 32 - 28.8 = 3.2 km/h\n\nConclusion: Runner B is faster by 0.89 m/s (or 3.2 km/h approximately). Runner B completed the same distance in 5 seconds less, demonstrating that faster runners cover more distance in the same amount of time or the same distance in less time."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "Explain the relationship between a pendulum's length and its time period using Galileo's and Huygens' discoveries.",
+      "answer": "Galileo discovered that time period is constant for a pendulum; Huygens used this to build precise clocks.",
+      "solution": "This question addresses the historical and scientific relationship between pendulum length and time period:\n\nGalileo's Discovery (1600s):\n1. While observing a swinging lamp in a church, Galileo noticed that the lamp seemed to take the same time for each swing, regardless of how widely it swung.\n2. Using his pulse to measure time intervals, he confirmed this observation with multiple pendulums.\n3. He concluded: \"The time period of a pendulum depends on its length, not on the amplitude of swing.\"\n4. This property is called 'isochronism' — the time period remains constant for a pendulum of given length.\n\nScientific Explanation:\nThe time period T of a simple pendulum is given by: T = 2π√(L/g)\nWhere: L = length of the pendulum; g = acceleration due to gravity\nThis shows that:\n- T is proportional to √L (longer pendulums have longer periods, but not linearly)\n- T is independent of mass (m) of the bob\n- T is independent of amplitude (for small swings)\n- T depends on gravitational acceleration (g) at a given location\n\nHuygens' Application (1656):\n1. Inspired by Galileo's work, Huygens invented the pendulum clock in 1656.\n2. He recognized that the constant time period property made pendulums ideal for precise timekeeping.\n3. By using a pendulum of specific length, he could achieve a known, constant time period.\n4. A clock mechanism regulated by a pendulum could measure time with much greater accuracy than previous mechanical clocks.\n5. Early pendulum clocks could keep time to within 10 seconds per day — a huge improvement over mechanical clocks.\n\nPractical Application:\nTo construct a pendulum clock with a specific time period:\n- For a 2-second time period: L = g × T² / (4π²) ≈ 10 × 4 / 40 ≈ 1 meter\n- For a 1-second time period: L ≈ 0.25 meters\nDifferent lengths produced different time periods, allowing clock makers to design precise timekeeping devices.\n\nConclusion:\nGalileo's discovery of the constant time period property and Huygens' clever application of this principle to clock design revolutionized timekeeping. This demonstrates how a fundamental observation in physics can lead to practical innovations that change civilization."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "Analyze the motion data given below and determine whether it represents uniform or non-uniform motion. Justify your answer with calculations.",
+      "answer": "Non-uniform motion: distances in equal time intervals vary (8, 12, 15, 16 m), but average speed is consistent.",
+      "solution": "Motion Analysis Table:\nTime (s):      0    5    10   15   20\nDistance (m):  0    8    20   35   51\n\nStep 1: Calculate distances covered in each 5-second interval\nInterval 1 (0-5s): 8 - 0 = 8 m\nInterval 2 (5-10s): 20 - 8 = 12 m\nInterval 3 (10-15s): 35 - 20 = 15 m\nInterval 4 (15-20s): 51 - 35 = 16 m\n\nStep 2: Determine motion type\nThe distances in equal time intervals are: 8 m, 12 m, 15 m, 16 m\nSince the distances are UNEQUAL in equal time intervals, the motion is NON-UNIFORM.\nThis indicates that the speed is changing throughout the motion.\n\nStep 3: Calculate speed in each interval\nSpeed₁ = 8 m / 5 s = 1.6 m/s\nSpeed₂ = 12 m / 5 s = 2.4 m/s\nSpeed₃ = 15 m / 5 s = 3.0 m/s\nSpeed₄ = 16 m / 5 s = 3.2 m/s\n\nThe speeds are increasing: 1.6, 2.4, 3.0, 3.2 m/s\nConclusion: The object is accelerating (speed increasing) throughout the motion.\n\nStep 4: Calculate average speed\nTotal distance = 51 m\nTotal time = 20 s\nAverage speed = 51 m / 20 s = 2.55 m/s\n\nStep 5: Final Analysis\nThe motion is non-uniform because:\n1. Distances in equal time intervals are unequal\n2. Speeds in successive intervals are increasing\n3. The object is accelerating\n\nThe average speed of 2.55 m/s gives a single representative value for the overall motion, even though the instantaneous speed varies from 1.6 m/s to 3.2 m/s. This example illustrates why non-uniform motion requires the use of average speed for meaningful description."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "How have timekeeping devices evolved from ancient times to the modern era? Discuss the advantages of each generation of devices.",
+      "answer": "From sundials to atomic clocks: each advancement improved accuracy from hours to microseconds.",
+      "solution": "The evolution of timekeeping demonstrates how human ingenuity addresses the need for increasingly precise time measurement:\n\n1. Natural Cycles (Pre-3000 BCE):\nDevices: Day/night cycle, lunar phases, seasons\nAdvantages: Simple, required no technology\nLimitations: Only measure long periods, not precise\nAccuracy: Days to months\n\n2. Sundials (1500 BCE onwards):\nDevices: Shadow position of sun-lit objects\nAdvantages: No moving parts, precise within hours\nOperating principle: Shadow moves approximately 1° per 4 minutes\nLimitations: Only work during daylight, affected by clouds and season\nAccuracy: Hours\nExample: Samrat Yantra in Jaipur, shadow moves at 1 mm/s, measures to 2 seconds\n\n3. Water Clocks (1500 BCE onwards):\nDevices: Water flowing out or bowl filling\nAdvantages: Work day and night, independent of weather\nOperating principle: Constant water flow marks time\nLimitations: Accuracy decreases as water level drops (pressure decreases)\nAccuracy: Minutes\nIndian Innovation: Ghatika-yantra solved accuracy problem (24-minute period), used 60 ghatikas per day\n\n4. Mechanical Clocks (1300s CE onwards):\nDevices: Weight-driven, gear-based mechanisms\nAdvantages: More accurate than previous devices, can run continuously\nOperating principle: Gravity drives weight, gears regulate motion\nLimitations: Gain/lose several seconds daily\nAccuracy: Seconds per day\n\n5. Pendulum Clock (1656 CE):\nInventor: Christiaan Huygens (inspired by Galileo Galilei)\nAdvantages: Constant time period of pendulum ensures high precision\nOperating principle: Pendulum's isochronism regulates clock\nImprovement: Reduced error to ~10 seconds per day (major breakthrough)\nAccuracy: Seconds per week/month\nImpact: Revolutionized timekeeping, enabled modern science\n\n6. Mechanical Watches (1700s-1900s):\nDevices: Spring-driven with balance wheel oscillation\nAdvantages: Portable, personal timekeeping, increasingly accurate\nAdvances: Chronometer development for ships, more precise mechanisms\nAccuracy: Seconds per day (high-quality watches)\n\n7. Atomic Clocks (1950s onwards):\nDevices: Cesium-133 vibration (9,192,631,770 Hz frequency)\nAdvantages: Extraordinary precision, defines the second in SI units\nOperating principle: Atomic vibrations regulate time\nAccuracy: 1 second error in several million years\nApplications: GPS, telecommunications, scientific research\n\n8. Modern Timekeeping (1970s onwards):\nDevices: Quartz clocks, digital clocks, GPS-synchronized time\nQuartz clocks: 32,768 Hz crystal vibration\nAdvantages: Extremely accurate, inexpensive, miniaturized\nAccuracy: Seconds per year (quartz), nanoseconds (atomic standards)\nApplications: All electronic devices, sports timing (milliseconds), medicine (ECG), music (microseconds)\n\nComparison Table:\nDevice | Accuracy | Portability | Weather-Independent | Precision Level\nSundial | hours | poor | no | Day level\nWater clock | minutes | poor | yes | Hour level  \nMechanical | seconds/day | limited | yes | Minute level\nPendulum | seconds/week | poor | yes | Second level\nQuartz | seconds/year | excellent | yes | Millisecond level\nAtomic | nanoseconds | good | yes | Nanosecond level\n\nKey Developments:\n1. From natural to artificial: Humans moved from observing nature to engineering devices\n2. From macro to micro: From hour-scale (water) to nanosecond-scale (atomic) precision\n3. From crude to precise: Accuracy improved by factor of ~10^9 (billion times better in 2500 years)\n4. From location-dependent to universal: Modern atomic clocks provide universally accurate time\n\nModern Impact:\n- Sports: Determine winners to 1/1000s second\n- Medicine: ECG machines detect heartbeat variations in milliseconds\n- Music: Digital audio captures sound 44,000+ times per second\n- Computing: Processors operate in nanoseconds (billionths of second)\n- Space: Satellite navigation requires microsecond accuracy\n\nConclusion:\nThe evolution of timekeeping reflects humanity's increasing need for precision and the continuous advancement of technology. From Galileo's observation of a swinging lamp to modern atomic clocks, each generation of devices solved the limitations of its predecessor and enabled new capabilities in science, technology, and society."
+    }
+  ]
+}

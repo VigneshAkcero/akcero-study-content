@@ -1,0 +1,262 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Mathematics",
+    "chapter_name": "Number Play",
+    "chapter_number": 5
+  },
+  "flashcards": [
+    {
+      "q": "What is parity?",
+      "a": "Parity is the property of a number being even or odd. Even numbers are divisible by 2 (form: 2n). Odd numbers leave remainder 1 when divided by 2 (form: 2n+1)."
+    },
+    {
+      "q": "What is the sum of two even numbers?",
+      "a": "The sum of two even numbers is always even. If a = 2m and b = 2n, then a + b = 2(m+n), which is even."
+    },
+    {
+      "q": "What is the sum of two odd numbers?",
+      "a": "The sum of two odd numbers is always even. If a = 2m+1 and b = 2n+1, then a + b = 2(m+n+1), which is even."
+    },
+    {
+      "q": "What is the sum of an even and an odd number?",
+      "a": "The sum of an even and an odd number is always odd. If a = 2m (even) and b = 2n+1 (odd), then a + b = 2(m+n) + 1, which is odd."
+    },
+    {
+      "q": "State the complete parity rules for addition.",
+      "a": "even + even = even, odd + odd = even, even + odd = odd, odd + even = odd."
+    },
+    {
+      "q": "What is the product of two even numbers?",
+      "a": "The product of two even numbers is always even (and divisible by 4). If a = 2m and b = 2n, then a × b = 4mn, which is divisible by 4."
+    },
+    {
+      "q": "What is the product of an even and an odd number?",
+      "a": "The product of an even and an odd number is always even. If a = 2m (even), then a × b = 2(mb), which is even."
+    },
+    {
+      "q": "What is the product of two odd numbers?",
+      "a": "The product of two odd numbers is always odd. If a = 2m+1 and b = 2n+1, then a × b = 4mn + 2m + 2n + 1 = 2(2mn+m+n) + 1, which is odd."
+    },
+    {
+      "q": "When four numbers are combined with ± signs (a±b±c±d), what can you say about all eight expressions?",
+      "a": "All eight expressions have the same parity (all even or all odd), regardless of the four numbers chosen or how the signs are arranged."
+    },
+    {
+      "q": "Why do all eight expressions a±b±c±d have the same parity?",
+      "a": "Switching a sign from + to − changes the value by an even amount (twice the number). Since even changes preserve parity, all expressions maintain the same parity."
+    },
+    {
+      "q": "Which expressions always give even numbers: (i) 2a+2b, (ii) 3g+5h, (iii) 4m+2n?",
+      "a": "(i) 2a+2b = 2(a+b) → always even. (ii) 3g+5h → sometimes even, sometimes odd. (iii) 4m+2n = 2(2m+n) → always even."
+    },
+    {
+      "q": "State the divisibility rule for 2.",
+      "a": "A number is divisible by 2 if its last digit is even (0, 2, 4, 6, 8)."
+    },
+    {
+      "q": "State the divisibility rule for 5.",
+      "a": "A number is divisible by 5 if its last digit is 0 or 5."
+    },
+    {
+      "q": "State the divisibility rule for 10.",
+      "a": "A number is divisible by 10 if its last digit is 0."
+    },
+    {
+      "q": "State the divisibility rule for 4.",
+      "a": "A number is divisible by 4 if its last two digits form a number divisible by 4."
+    },
+    {
+      "q": "State the divisibility rule for 8.",
+      "a": "A number is divisible by 8 if its last three digits form a number divisible by 8."
+    },
+    {
+      "q": "State the divisibility rule for 9.",
+      "a": "A number is divisible by 9 if the sum of its digits is divisible by 9."
+    },
+    {
+      "q": "State the divisibility rule for 3.",
+      "a": "A number is divisible by 3 if the sum of its digits is divisible by 3."
+    },
+    {
+      "q": "Explain the divisibility rule for 11 using alternating sum.",
+      "a": "Place alternating + and − signs from right to left (units +, tens −, hundreds +, ...). If the result is divisible by 11, the number is divisible by 11."
+    },
+    {
+      "q": "Why does the divisibility rule for 9 work?",
+      "a": "Powers of 10 (10, 100, 1000, ...) all leave remainder 1 when divided by 9. So a number ≡ sum of its digits (mod 9). Therefore, digit sum divisibility by 9 determines the number's divisibility."
+    },
+    {
+      "q": "Why does the divisibility rule for 11 work?",
+      "a": "Powers of 10 alternate: 10 ≡ −1, 100 ≡ 1, 1000 ≡ −1 (mod 11). So a number's remainder equals its alternating digit sum (mod 11)."
+    },
+    {
+      "q": "State the divisibility rule for 6.",
+      "a": "A number is divisible by 6 if it is divisible by both 2 and 3 (since 6 = 2×3 and gcd(2,3) = 1)."
+    },
+    {
+      "q": "State the divisibility rule for 12.",
+      "a": "A number is divisible by 12 if it is divisible by both 4 and 3 (since 12 = 4×3 and gcd(4,3) = 1)."
+    },
+    {
+      "q": "State the divisibility rule for 18.",
+      "a": "A number is divisible by 18 if it is divisible by both 2 and 9 (since 18 = 2×9 and gcd(2,9) = 1)."
+    },
+    {
+      "q": "Even numbers can be classified into two types based on remainder when divided by 4. What are they?",
+      "a": "Type A: Multiples of 4 (remainder 0). Form: 4k. Type B: Remainder 2 when divided by 4. Form: 4k+2."
+    },
+    {
+      "q": "When is the sum of two even numbers divisible by 4?",
+      "a": "When both numbers are of the same type: either both are multiples of 4, or both leave remainder 2. If they are different types, the sum is not divisible by 4."
+    },
+    {
+      "q": "Define digital root.",
+      "a": "The digital root is the single digit obtained by repeatedly summing the digits of a number until a single digit remains."
+    },
+    {
+      "q": "What is the digital root of 489710?",
+      "a": "4+8+9+7+1+0 = 29. Then 2+9 = 11. Then 1+1 = 2. Digital root = 2."
+    },
+    {
+      "q": "What is the relationship between digital root and divisibility by 9?",
+      "a": "The digital root equals the remainder when divided by 9 (with digital root 9 representing remainder 0, i.e., divisible by 9)."
+    },
+    {
+      "q": "When is a number divisible by 9 using digital root?",
+      "a": "A number is divisible by 9 if and only if its digital root is 9 (equivalently, the sum of its digits is divisible by 9)."
+    },
+    {
+      "q": "What is the relationship between digital root and divisibility by 3?",
+      "a": "A number is divisible by 3 if its digit sum (which determines the digital root) is divisible by 3. The digital root is 3, 6, or 9 when divisible by 3."
+    },
+    {
+      "q": "State the property of digital roots and addition.",
+      "a": "The digital root of a sum equals the digital root of the sum of digital roots: DR(a+b) = DR(DR(a) + DR(b))."
+    },
+    {
+      "q": "What is the digital root of the sum 10+20+30+40+50?",
+      "a": "Digital roots: 10→1, 20→2, 30→3, 40→4, 50→5. Sum of DRs: 1+2+3+4+5 = 15 → 1+5 = 6. Digital root of sum = 6."
+    },
+    {
+      "q": "What patterns do digital roots of multiples of 3 follow?",
+      "a": "Digital roots of multiples of 3 follow the pattern 3, 6, 9, 3, 6, 9, ... (repeating cycle)."
+    },
+    {
+      "q": "What is the digital root of all multiples of 9?",
+      "a": "The digital root of all multiples of 9 is always 9 (since multiples of 9 are divisible by 9)."
+    },
+    {
+      "q": "Define cryptarithmetic.",
+      "a": "Cryptarithmetic is a puzzle where letters represent digits, and the goal is to find which digit each letter represents such that arithmetic operations hold true."
+    },
+    {
+      "q": "State the rules of cryptarithmetic.",
+      "a": "Rule 1: Each letter represents one digit (0−9). Rule 2: Different letters represent different digits. Rule 3: Each digit is represented by at most one letter. Rule 4: The first digit of a number is never 0."
+    },
+    {
+      "q": "Why is the first digit of a number never 0 in cryptarithmetic?",
+      "a": "Leading zeros are not written in standard notation. For example, 0123 is not a 4-digit number; it's 123, a 3-digit number. Allowing 0 as a leading digit would be ambiguous."
+    },
+    {
+      "q": "In the cryptarithmetic AB × 5 = BC, what constraint does AB × 5 being 2-digit give us?",
+      "a": "Since BC is 2-digit, AB × 5 ≤ 99, so AB ≤ 19.8, meaning AB ≤ 19, so A = 1."
+    },
+    {
+      "q": "What does it mean if a cryptarithmetic result has repeated digits like GGG?",
+      "a": "A number with all digits the same, like GGG, equals G × 111. This severely constrains possible solutions since 111 is a specific number."
+    },
+    {
+      "q": "For a cryptarithmetic GH × H = result where units digit matters, what does H × H's units digit tell us?",
+      "a": "The units digit of H × H gives the units digit of the result. Only certain single digits d satisfy d × d having units digit d: d ∈ {0, 1, 5, 6}."
+    },
+    {
+      "q": "In cryptarithmetic BYE × 6 = RAY, why is B = 1?",
+      "a": "If BYE × 6 is 3-digit (RAY), then BYE < 167 (since 167×6=1002 is 4-digit). Therefore B = 1."
+    },
+    {
+      "q": "State the property: If a divides m and a divides n, then a divides ___.",
+      "a": "If a divides m and a divides n, then a divides both m+n and m−n."
+    },
+    {
+      "q": "State the property: If a divides b, then all ___ of a are divisible by b.",
+      "a": "If a is divisible by b, then all multiples of a are divisible by b. (E.g., if 12 is divisible by 6, then 24, 36, 48, ... are all divisible by 6.)"
+    },
+    {
+      "q": "State the property: If a is divisible by b, then a is divisible by all ___ of b.",
+      "a": "If a is divisible by b, then a is divisible by all factors (divisors) of b."
+    },
+    {
+      "q": "State the property using LCM: If a is divisible by both b and c (coprime), then a is divisible by ___.",
+      "a": "If a is divisible by both coprime b and c, then a is divisible by b × c (their LCM)."
+    },
+    {
+      "q": "For 31z5 to be a multiple of 9, what must be true about z?",
+      "a": "Digit sum: 3+1+z+5 = 9+z must be divisible by 9. So z = 0 or z = 9 (giving digit sums 9 and 18)."
+    },
+    {
+      "q": "What is the product of two consecutive integers always divisible by?",
+      "a": "The product of two consecutive integers n(n+1) is always divisible by 2 (since one is even)."
+    },
+    {
+      "q": "What is the product of three consecutive integers always divisible by?",
+      "a": "The product of three consecutive integers n(n+1)(n+2) is always divisible by 6 = 2×3 (at least one is even, exactly one is divisible by 3)."
+    },
+    {
+      "q": "What is the product of four consecutive integers always divisible by?",
+      "a": "The product of four consecutive integers n(n+1)(n+2)(n+3) is always divisible by 24 = 2³×3 (at least one is divisible by 4, and at least one is divisible by 3)."
+    },
+    {
+      "q": "Why is the sum of three consecutive even numbers always divisible by 6?",
+      "a": "Sum = 2n + (2n+2) + (2n+4) = 6n + 6 = 6(n+1), which has 6 as a factor."
+    },
+    {
+      "q": "Explain the concept of modular arithmetic with an example.",
+      "a": "Modular arithmetic studies remainders. 'a ≡ r (mod m)' means a leaves remainder r when divided by m. Example: 17 ≡ 2 (mod 5) because 17 = 3×5 + 2."
+    },
+    {
+      "q": "If a number leaves remainder 8 when divided by 12, what remainder does it leave when divided by 4?",
+      "a": "Since 4 divides 12, and 8 ≡ 0 (mod 4), the remainder when divided by 4 is 0 (divisible by 4)."
+    },
+    {
+      "q": "If a number has digital root 7, what is its remainder when divided by 9?",
+      "a": "Digital root 7 means remainder 7 when divided by 9."
+    },
+    {
+      "q": "If a number has digital root 5, what is its remainder when divided by 3?",
+      "a": "Since 5 ≡ 2 (mod 3), the remainder when divided by 3 is 2. (Digital root determines remainder mod 9, which determines remainder mod 3.)"
+    },
+    {
+      "q": "Is the statement 'All multiples of 12 are divisible by 8' true, sometimes true, or false?",
+      "a": "FALSE. 12 is a multiple of 12, but 12 ÷ 8 = 1.5 (not divisible). 12 = 8×1 + 4 (remainder 4)."
+    },
+    {
+      "q": "Is the statement 'If n is divisible by 6 and n is divisible by 4, then n is divisible by 24' true, sometimes true, or false?",
+      "a": "SOMETIMES TRUE. 12 is divisible by both 6 and 4, but 12 ÷ 24 doesn't work. Since lcm(6,4)=12, n must be divisible by 12, not necessarily 24."
+    },
+    {
+      "q": "Is the statement 'The sum of three consecutive integers is always divisible by 3' true or false?",
+      "a": "TRUE. Sum = n + (n+1) + (n+2) = 3n + 3 = 3(n+1), which is divisible by 3."
+    },
+    {
+      "q": "What does it mean for two numbers to be coprime?",
+      "a": "Two numbers are coprime if their greatest common divisor (GCD) is 1, meaning they share no common factors except 1."
+    },
+    {
+      "q": "How do we check divisibility by a composite number using its factors?",
+      "a": "If the factors are coprime, check divisibility by each factor separately. The number is divisible by the composite number if divisible by all its coprime factors."
+    },
+    {
+      "q": "What is the significance of understanding parity in mathematical reasoning?",
+      "a": "Parity allows us to make deductions without full computation, classify numbers, and prove properties that hold universally for even/odd numbers."
+    },
+    {
+      "q": "What is the significance of digital roots in checking calculations?",
+      "a": "Digital roots can be used to verify arithmetic operations. Since operations preserve digital root relationships, an incorrect answer will usually have a different digital root than expected."
+    },
+    {
+      "q": "How does understanding divisibility properties help in problem-solving?",
+      "a": "Divisibility properties allow us to eliminate impossible solutions in cryptarithmetic and other puzzles, and to prove statements about numbers without explicit calculation."
+    }
+  ]
+}

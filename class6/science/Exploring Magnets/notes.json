@@ -1,0 +1,192 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Exploring Magnets",
+    "chapter_number": 4
+  },
+  "notes": [
+    {
+      "section_title": "Introduction to Magnets",
+      "topics": [
+        {
+          "topic_name": "Discovery and Types",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Magnets are materials that attract certain metals. Naturally occurring magnets are known as lodestones, discovered in ancient times. Artificial magnets are made by humans in various shapes like bar, horseshoe, cylindrical, and ball-ended magnets."
+            },
+            {
+              "type": "example",
+              "title": "Common Items",
+              "description": "Magnetic stickers, pencil boxes, refrigerator doors, and magnetic dusters use magnets for closure or attachment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Properties of Materials",
+      "topics": [
+        {
+          "topic_name": "Magnetic and Non-magnetic Materials",
+          "content": [
+            {
+              "type": "activity",
+              "id": "4.1",
+              "title": "Identifying Magnetic Materials",
+              "procedure": [
+                "Collect items like pencils, erasers, pins, and a magnet.",
+                "Bring the magnet near each object and observe if it sticks."
+              ],
+              "conclusion": "Materials like iron, nickel, and cobalt are magnetic. Materials like wood, plastic, and rubber are non-magnetic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Poles of a Magnet",
+      "topics": [
+        {
+          "topic_name": "The Two Poles",
+          "content": [
+            {
+              "type": "activity",
+              "id": "4.2",
+              "title": "Finding the Poles",
+              "procedure": [
+                "Spread iron filings on a paper.",
+                "Place a bar magnet over them and tap the paper."
+              ],
+              "observation": "Most iron filings stick near the ends of the magnet.",
+              "conclusion": "A magnet has two poles: North and South. The attraction is strongest at these poles."
+            },
+            {
+              "type": "note",
+              "title": "Unbreakable Pairs",
+              "text": "Poles always exist in pairs. Even if a magnet is broken, each piece will have its own North and South poles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Finding Directions",
+      "topics": [
+        {
+          "topic_name": "Directive Property",
+          "content": [
+            {
+              "type": "activity",
+              "id": "4.3",
+              "title": "Suspended Magnet",
+              "procedure": [
+                "Suspend a bar magnet with a thread so it can rotate freely.",
+                "Wait for it to come to rest and mark the directions on the ground."
+              ],
+              "conclusion": "A freely suspended magnet always rests in the North-South direction. This is because Earth behaves like a giant magnet."
+            }
+          ]
+        },
+        {
+          "topic_name": "The Magnetic Compass",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A magnetic compass is a small box with a transparent cover and a magnetized needle balanced on a pin. The needle always indicates the North-South direction."
+            },
+            {
+              "type": "note",
+              "title": "Historical Context",
+              "text": "Ancient Indians used a device called a 'matsya-yantra' (machchhyantra)—a magnetized fish-shaped iron piece in a vessel of oil—to find directions at sea."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Making Your Own Magnet",
+      "topics": [
+        {
+          "topic_name": "Stroking Method",
+          "content": [
+            {
+              "type": "activity",
+              "id": "4.4",
+              "title": "Creating a Magnetized Needle",
+              "procedure": [
+                "Keep an iron needle on a table.",
+                "Stroke it with one pole of a bar magnet from one end to the other 30-40 times (always in the same direction).",
+                "Lift the magnet and return to the start for each stroke."
+              ],
+              "conclusion": "The needle becomes a magnet and can be used to make a homemade compass."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Magnet Interactions",
+      "topics": [
+        {
+          "topic_name": "Attraction and Repulsion",
+          "content": [
+            {
+              "type": "activity",
+              "id": "4.5 & 4.6",
+              "title": "Like and Unlike Poles",
+              "procedure": [
+                "Bring the North pole of one magnet near the North and South poles of another."
+              ],
+              "conclusion": "Like poles (N-N, S-S) repel each other. Unlike poles (N-S) attract each other. Repulsion is a sure test for identifying a magnet."
+            },
+            {
+              "type": "activity",
+              "id": "4.7",
+              "title": "Magnetism through Materials",
+              "procedure": [
+                "Place wood, cardboard, or glass between a magnet and a compass needle."
+              ],
+              "conclusion": "Magnetic effects act through non-magnetic materials like wood, glass, and plastic."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Care and Storage",
+      "topics": [
+        {
+          "topic_name": "Handling Magnets",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Magnets lose their properties if heated, hammered, or dropped from a height."
+            },
+            {
+              "type": "note",
+              "title": "Proper Storage",
+              "text": "Store in pairs with unlike poles together, separated by wood. Use soft iron 'keepers' across the ends. Keep away from mobile phones, remote controls, and electronics."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Lodestone", "definition": "A naturally occurring magnetic material found in ancient times." },
+    { "term": "Magnetic Materials", "definition": "Materials like iron, nickel, and cobalt that are attracted to a magnet." },
+    { "term": "Compass", "definition": "A device with a magnetic needle used to find directions." },
+    { "term": "Repulsion", "definition": "The pushing away of two identical poles of a magnet." },
+    { "term": "Attraction", "definition": "The pulling together of two unlike poles of a magnet." },
+    { "term": "Matsya-yantra", "definition": "An ancient Indian magnetized device used for navigation." }
+  ],
+  "summary_points": [
+    "A magnet has two poles, North and South, which always exist in pairs.",
+    "Freely suspended magnets align in the North-South direction because the Earth is a giant magnet.",
+    "Like poles repel and unlike poles attract each other.",
+    "Repulsion is the primary test to confirm if an object is a magnet.",
+    "Magnets require proper storage and careful handling to prevent loss of magnetism (demagnetization)."
+  ]
+}

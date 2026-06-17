@@ -1,0 +1,228 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Control and Coordination",
+    "chapter_number": 6
+  },
+  "notes": [
+    {
+      "section_title": "6.1 Introduction to Control and Coordination",
+      "topics": [
+        {
+          "topic_name": "Movement as a Response",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Living organisms exhibit movements as a response to environmental changes. Not all movements are growth-related; some are for protection, pleasure, or functional efficiency."
+            },
+            {
+              "type": "list",
+              "title": "Textbook Examples",
+              "items": [
+                "Growth-related: A seed germinating and its seedling pushing soil aside.",
+                "Non-growth-related: A cat running after a mouse, children on a swing, or buffaloes chewing cud.",
+                "Response to stimuli: Whispering in class to avoid loud noise, or blinking when bright light is flashed on the eyes."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.2 Animals - Nervous System",
+      "topics": [
+        {
+          "topic_name": "Neuron Structure and Impulse Transmission",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Nervous tissue is a network of specialized cells called neurons that conduct information via electrical impulses. Receptors in sense organs (like gustatory for taste, olfactory for smell) detect environmental changes."
+            },
+            {
+              "type": "list",
+              "title": "Parts of a Neuron",
+              "items": [
+                "Dendrite: Acquires information and sets off a chemical reaction to create an electrical impulse.",
+                "Axon: The long fibre along which the impulse travels.",
+                "Synapse: The gap between two neurons where electrical signals are converted to chemical signals (neurotransmitters) for onward transmission."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Reflex Actions and Reflex Arc",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A reflex action is a sudden, involuntary response to a stimulus. A reflex arc is a neural pathway that allows for a quick response by connecting sensory nerves directly to motor nerves in the spinal cord, bypassing the conscious part of the brain initially."
+            },
+            {
+              "type": "note",
+              "title": "Example: Hot Object",
+              "text": "Touching a hot object leads to sudden withdrawal of the hand. The heat is detected by receptors, the signal travels to the spinal cord, and an immediate motor signal causes muscle contraction before the brain processes the pain."
+            }
+          ]
+        },
+        {
+          "topic_name": "Human Brain",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The brain is the main coordinating centre, divided into three main regions: Fore-brain, Mid-brain, and Hind-brain."
+            },
+            {
+              "type": "list",
+              "title": "Functions of Brain Parts",
+              "items": [
+                "Fore-brain (Cerebrum): The thinking part. Specialized for hearing, sight, and smell. Controls voluntary actions and sensations like hunger.",
+                "Mid-brain and Hind-brain: Control involuntary actions like blood pressure, salivation, and vomiting (Medulla).",
+                "Cerebellum (Hind-brain): Responsible for precision of voluntary actions and maintaining posture and balance (e.g., riding a bicycle, walking in a straight line)."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.3 Coordination in Plants",
+      "topics": [
+        {
+          "topic_name": "Immediate Response to Stimulus",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Plants use electrical-chemical means to convey information without specialized nervous tissue. Cells change shape by altering their water content (swelling or shrinking)."
+            },
+            {
+              "type": "note",
+              "title": "Example: Sensitive Plant",
+              "text": "When the leaves of a 'touch-me-not' (Mimosa pudica) are touched, they fold up and droop quickly due to rapid changes in water content in certain cells."
+            }
+          ]
+        },
+        {
+          "topic_name": "Tropic Movements (Growth-Dependent)",
+          "content": [
+            {
+              "type": "list",
+              "title": "Types of Tropisms",
+              "items": [
+                "Phototropism: Growth towards light (Shoots bend towards light).",
+                "Geotropism: Growth in response to gravity (Roots grow downwards, shoots upwards).",
+                "Hydrotropism: Growth towards water.",
+                "Chemotropism: Response to chemicals (e.g., growth of pollen tubes towards ovules)."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Plant Hormones (Phytohormones)",
+          "content": [
+            {
+              "type": "list",
+              "title": "Key Phytohormones",
+              "items": [
+                "Auxins: Promotes cell elongation at the shoot tip; helps plants bend towards light.",
+                "Gibberellins: Help in the growth of the stem.",
+                "Cytokinins: Promote rapid cell division, found in fruits and seeds.",
+                "Abscisic Acid: Growth inhibitor; causes wilting of leaves."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.4 Hormones in Animals",
+      "topics": [
+        {
+          "topic_name": "Chemical Coordination via Endocrine System",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Hormones are chemical signals secreted by endocrine glands directly into the blood to coordinate complex body activities."
+            },
+            {
+              "type": "note",
+              "title": "Example: Fight or Flight",
+              "text": "In a scary situation (like a squirrel seeing a predator), Adrenaline is released. It increases heart rate, diverts blood to skeletal muscles, and increases breathing rate to prepare the body for action."
+            }
+          ]
+        },
+        {
+          "topic_name": "Key Animal Hormones",
+          "content": [
+            {
+              "type": "list",
+              "title": "Major Glands and Functions",
+              "items": [
+                "Thyroxin (Thyroid): Regulates metabolism for growth; requires iodine (deficiency causes goitre).",
+                "Growth Hormone (Pituitary): Regulates body development (deficiency causes dwarfism, excess causes giantism).",
+                "Insulin (Pancreas): Regulates blood sugar levels (deficiency causes diabetes).",
+                "Testosterone/Oestrogen: Regulate changes associated with puberty in males and females respectively."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Feedback Mechanism",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The timing and amount of hormone release are regulated by feedback loops to maintain precision."
+            },
+            {
+              "type": "note",
+              "title": "Sugar Level Loop",
+              "text": "If blood sugar rises, pancreas cells detect it and produce more insulin. As the sugar level falls, insulin secretion is reduced accordingly."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Receptors",
+      "definition": "Specialized tips of nerve cells that detect information from the environment (e.g., gustatory for taste)."
+    },
+    {
+      "term": "Synapse",
+      "definition": "The functional junction or gap between two neurons."
+    },
+    {
+      "term": "Reflex Arc",
+      "definition": "The shortest pathway through the spinal cord for a quick response to a stimulus."
+    },
+    {
+      "term": "Cerebellum",
+      "definition": "Part of the hind-brain responsible for voluntary muscle precision and body balance."
+    },
+    {
+      "term": "Tropism",
+      "definition": "Directional growth movement of a plant part in response to an external stimulus."
+    },
+    {
+      "term": "Auxin",
+      "definition": "A plant hormone synthesized at the shoot tip that promotes cell elongation."
+    },
+    {
+      "term": "Endocrine Glands",
+      "definition": "Ductless glands that secrete hormones directly into the bloodstream."
+    },
+    {
+      "term": "Feedback Mechanism",
+      "definition": "A regulatory system that controls the timing and amount of hormone secretion."
+    }
+  ],
+  "summary_points": [
+    "Control and coordination are achieved through the nervous system (electrical impulses) and endocrine system (chemical hormones).",
+    "Neurons are the structural units of the nervous system, transmitting signals across synapses.",
+    "Reflex actions allow for rapid survival responses through reflex arcs in the spinal cord.",
+    "The human brain is divided into fore-brain (thinking), mid-brain, and hind-brain (involuntary/precision).",
+    "Plants coordinate movement through immediate response (water change) and tropic growth movements (phototropism, etc.).",
+    "Plant hormones like auxins, gibberellins, and cytokinins promote growth, while abscisic acid inhibits it.",
+    "Animal hormones like adrenaline, thyroxin, and insulin regulate metabolism, growth, and emergency responses via feedback loops."
+  ]
+}

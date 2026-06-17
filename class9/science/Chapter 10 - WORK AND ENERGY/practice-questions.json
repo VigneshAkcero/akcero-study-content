@@ -1,0 +1,255 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Physics",
+    "chapter_name": "Work and Energy",
+    "chapter_number": 10
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Define work in the scientific sense. What are the two conditions necessary for work to be done?",
+      "answer": "Work is the product of force and displacement in the direction of force (W = F × s). Two conditions must be satisfied: (1) A force must act on the object, AND (2) The object must be displaced in the direction of the force. If either condition is missing, no work is done.",
+      "solution": "Scientific work differs from everyday work because it requires both force AND displacement. Pushing a stationary rock hard does no work scientifically (no displacement). Holding a load stationary does no work (no displacement despite force). Climbing stairs does work (both force and displacement present). Understanding these two conditions is fundamental to distinguishing scientific work from effort or exertion."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What is the SI unit of work? Define 1 joule.",
+      "answer": "The SI unit of work is newton-metre (N·m) or joule (J). 1 joule is the amount of work done when a force of 1 newton displaces an object by 1 metre in the direction of the force (1 J = 1 N × 1 m).",
+      "solution": "The joule is defined based on the work formula W = F × s. When force is 1 N and displacement is 1 m, work equals 1 J. This unit applies equally to energy because energy is measured as capacity to do work, making them dimensionally equivalent."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Calculate work done when a force of 10 N displaces an object by 5 m in the direction of the force.",
+      "answer": "Given: F = 10 N, s = 5 m. Using W = F × s: W = 10 N × 5 m = 50 N·m = 50 J. Work done is 50 joules.",
+      "solution": "This is a direct application of the work formula. When force and displacement are in the same direction, work calculation is straightforward: multiply force magnitude by displacement magnitude. The result is always positive in this case."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Can work be negative? Give an example and explain when work is negative.",
+      "answer": "Yes, work can be negative. Work is negative when force and displacement are in opposite directions. Example: Friction acts opposite to motion direction, doing negative work. When an object rises against gravity, gravity does negative work (force downward, displacement upward).",
+      "solution": "Negative work indicates energy removal from the system. Friction removes kinetic energy from moving objects. Gravity removes mechanical energy from rising objects. Understanding positive and negative work is crucial for energy analysis. Negative work equals -F × s when force opposes displacement."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Define energy. What is the SI unit of energy?",
+      "answer": "Energy is the capacity of an object to do work. An object with energy can exert forces and cause displacements. The SI unit of energy is joule (J), the same as work. Larger unit: kilojoule (kJ), where 1 kJ = 1000 J.",
+      "solution": "Energy and work have identical units because energy is fundamentally the ability to perform work. This connection is deep: when work is done on an object, energy is transferred to it. When an object does work, it transfers energy away."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What is kinetic energy? Write the formula and explain how kinetic energy depends on velocity.",
+      "answer": "Kinetic energy is the energy possessed by an object due to its motion. Formula: E_k = (1/2) × m × v², where m is mass and v is velocity. Kinetic energy is directly proportional to mass but proportional to the SQUARE of velocity. Doubling velocity quadruples kinetic energy.",
+      "solution": "The v² dependence is crucial. This means velocity has a larger effect on kinetic energy than mass. A light object moving fast can have more kinetic energy than a heavy object moving slowly. This explains why high-speed collisions cause more damage than low-speed ones."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Calculate the kinetic energy of a 2 kg object moving at 5 m/s.",
+      "answer": "Given: m = 2 kg, v = 5 m/s. Using E_k = (1/2) × m × v²: E_k = (1/2) × 2 × 5² = 1 × 25 = 25 J. Kinetic energy is 25 joules.",
+      "solution": "This direct calculation shows how to apply the kinetic energy formula. Notice the squared velocity term: if velocity doubled to 10 m/s, kinetic energy would be (1/2) × 2 × 10² = 100 J, exactly quadrupled. This quadratic relationship is why speed is so critical in determining impact force and collision damage."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What is potential energy? Write the formula for gravitational potential energy.",
+      "answer": "Potential energy is the energy possessed by an object due to its position or configuration. Gravitational potential energy is energy due to height above a reference level. Formula: E_p = m × g × h, where m is mass (kg), g is gravitational acceleration (≈10 m/s²), and h is height (m).",
+      "solution": "Potential energy is called 'potential' because it has the potential to do work but isn't currently doing so. A raised object can fall and do work. The formula shows potential energy is directly proportional to mass, gravity, and height—double any of these, and potential energy doubles."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Calculate the gravitational potential energy of a 5 kg object at a height of 10 m above ground. (g = 10 m/s²)",
+      "answer": "Given: m = 5 kg, h = 10 m, g = 10 m/s². Using E_p = m × g × h: E_p = 5 × 10 × 10 = 500 J. Potential energy is 500 joules.",
+      "solution": "This calculation demonstrates direct application of the potential energy formula. The object can do 500 J of work if it falls from this height (ignoring air resistance). If raised to 20 m, potential energy doubles to 1000 J, showing the linear relationship with height."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Define power. What is the SI unit of power? Define 1 watt.",
+      "answer": "Power is the rate of doing work or the rate of energy transfer. Formula: P = W/t, where W is work (J) and t is time (s). The SI unit of power is watt (W). 1 watt is the power when 1 joule of work is done in 1 second (1 W = 1 J/s).",
+      "solution": "Power connects work with time. Doing the same work faster requires higher power. Power is fundamental for rating machines and understanding efficiency. A 100 W device does 100 J of work per second; a 1000 W device does 1000 J per second—ten times faster energy transfer."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "Calculate the power required to do 500 J of work in 10 seconds.",
+      "answer": "Given: W = 500 J, t = 10 s. Using P = W/t: P = 500 J / 10 s = 50 W. Power is 50 watts.",
+      "solution": "This straightforward calculation shows that the same work requires different power depending on time taken. If work were done in 5 seconds instead, power would be 100 W (doubled). Power directly reflects the rate of energy transfer."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "When you push a box on a horizontal surface, you apply a horizontal force. However, gravity acts downward. Does gravity do any work on the box? Explain your answer.",
+      "answer": "No, gravity does not do work on the box. For work to be done, force and displacement must be in the same direction. Gravity acts downward; the box moves horizontally. The angle between gravity force and displacement is 90°, so work by gravity is zero. Only the horizontal component of applied force does work on the box.",
+      "solution": "This question addresses a common misconception about work. Just because a force acts on an object doesn't mean it does work—the displacement must have a component in the direction of the force. Gravity's effect is perpendicular to the box's displacement, contributing zero work. The normal force (equal and opposite to gravity) also does zero work for the same reason."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "A person holds a heavy box at chest height for 5 minutes and becomes tired. Has the person done any work on the box scientifically? Justify your answer.",
+      "answer": "No, no work has been done scientifically. Although the person expends energy (feeling tired) and exerts a force (upward, equal to weight), the box has no displacement. Since displacement is zero, work W = F × s = F × 0 = 0. The person's energy expenditure represents metabolic work converting chemical energy to heat, not mechanical work on the box.",
+      "solution": "This classic example distinguishes between scientific work and physical effort. The person's muscles do work internally, converting chemical energy from food into heat and mechanical effort. However, no work is transferred to the box because the box doesn't move. Holding something stationary requires force but does zero work—an important distinction."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Two identical balls are thrown upward with the same initial speed. After 2 seconds, which has greater kinetic energy? Why?",
+      "answer": "Both have the same kinetic energy. Both are thrown with the same initial speed, so initially they have identical kinetic energy E_k = (1/2)mv². After 2 seconds, due to gravity, both have decelerated equally (gravity affects them identically). At any given time, having the same mass and speed means identical kinetic energy, regardless of being thrown upward or downward.",
+      "solution": "This tests understanding that kinetic energy depends on instantaneous velocity, not trajectory or history. The v² term determines kinetic energy, and identical masses with identical velocities have identical kinetic energy. Direction of motion doesn't matter—only magnitude of velocity."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Explain why a fast-moving cricket ball causes more damage than a slow-moving one of the same mass, using the concept of kinetic energy.",
+      "answer": "A fast-moving ball has much greater kinetic energy due to the v² dependence in E_k = (1/2)mv². Even a small increase in velocity causes large increase in kinetic energy. When the ball strikes an object, this kinetic energy is transferred or dissipated, causing damage. Higher kinetic energy means more energy available for deformation and damage.",
+      "solution": "This real-world application shows why speed is critical in collisions. A ball at 40 m/s has 16 times more kinetic energy than a ball at 10 m/s (since 40²/10² = 16). This explains why safe speeds in residential areas are much lower than highway speeds—kinetic energy scales with velocity squared, making small speed increases dramatically increase collision damage."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "State the Law of Conservation of Energy. Does it mean energy never decreases?",
+      "answer": "Law of Conservation of Energy: Total energy in an isolated system remains constant. Energy can be transformed from one form to another (kinetic ↔ potential, chemical → electrical) but total amount never changes. Mechanical energy may appear to decrease due to friction converting it to heat, but including all forms (especially heat), total energy is conserved.",
+      "solution": "A common misconception is that energy conservation means mechanical energy (kinetic + potential) stays constant. In real systems with friction, mechanical energy decreases while heat energy increases. The law states that TOTAL energy (all forms) is conserved. Understanding this distinction is crucial for analyzing real-world energy problems."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "A freely falling object has zero velocity initially. At ground level, it has kinetic energy 500 J. If no energy is lost to air resistance, what was its initial potential energy? Explain using conservation of energy.",
+      "answer": "By conservation of energy, initial potential energy equals final kinetic energy (assuming zero potential energy at ground level). Initial PE = Final KE = 500 J. As the object falls, potential energy continuously converts to kinetic energy. At ground level, all potential energy has converted to kinetic energy. Without energy loss, final kinetic energy equals initial potential energy.",
+      "solution": "This problem demonstrates energy transformation: PE → KE. The object starts with all potential energy (500 J, v = 0). As it falls, PE decreases while KE increases proportionally. At ground level, PE = 0 and KE = 500 J. Total mechanical energy E_total = PE + KE = 500 J remains constant throughout the fall. This is the essence of conservation of energy in mechanical systems."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "An object of mass 2 kg is lifted from ground to height 5 m and then released. Compare its potential energy at height 5 m to its kinetic energy just before hitting the ground. (g = 10 m/s²)",
+      "answer": "PE at height 5 m: E_p = mgh = 2 × 10 × 5 = 100 J. KE just before impact: E_k = 100 J (from conservation of energy, PE converts to KE). Both are equal. The object's potential energy at height completely converts to kinetic energy at ground level.",
+      "solution": "This demonstrates perfect energy conversion in ideal conditions (no air resistance). The 100 J of gravitational potential energy at height transforms entirely into 100 J of kinetic energy at ground level. At intermediate heights, potential and kinetic energies share the 100 J total. For example, at height 2.5 m, PE = 50 J and KE = 50 J, totaling 100 J."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Two people climb the same stairs to the same height. One climbs quickly in 10 seconds; the other slowly in 30 seconds. Do they do the same work? Do they deliver the same power?",
+      "answer": "Work done is the same: W = mgh is identical for both (same mass, same height change). Work = Force × displacement is path-independent for conservative forces. However, power differs: P₁ = W/10 s and P₂ = W/30 s. The fast climber has 3 times higher power. Power depends on time taken; work does not.",
+      "solution": "This key distinction separates work and power. Work measures total energy transfer; power measures the rate of that transfer. Both people transfer the same energy to their bodies, but the fast climber does it much faster (higher power output). This is why athletic performance is often rated by power output, not just total work. A more powerful person does more work in the same time or same work in less time."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Explain how friction converts mechanical energy to heat. Does this violate conservation of energy?",
+      "answer": "Friction opposes motion, doing negative work on moving objects. This removes kinetic energy from mechanical systems. The energy doesn't disappear—friction converts it to heat energy. Mechanical energy (kinetic + potential) decreases, but total energy including heat remains constant. It doesn't violate conservation; it demonstrates energy transformation to less useful forms.",
+      "solution": "This addresses why real systems eventually stop without external energy input. A sliding block loses kinetic energy to friction. The block slows, kinetic energy decreases, but heat energy increases. Measuring temperature rise of the block and surface confirms energy is conserved—mechanical energy converts to thermal energy. The law of conservation applies to ALL forms of energy, not just mechanical energy."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "A ball is thrown upward with initial velocity v. At the highest point, kinetic energy is zero. Where did this kinetic energy go?",
+      "answer": "At the highest point, all kinetic energy converts to potential energy. E_k = 0, E_p = mgh (maximum). As the ball rises, velocity decreases, kinetic energy decreases, but potential energy increases proportionally. Total mechanical energy E_total = E_k + E_p remains constant. The kinetic energy didn't disappear; it transformed into potential energy.",
+      "solution": "This demonstrates energy transformation in vertical motion. From ground (max KE, min PE) to peak (min KE = 0, max PE), kinetic energy progressively transforms to potential energy. The transformation happens continuously—no energy is lost, only redistributed. On the way down, potential energy converts back to kinetic energy, returning to the original kinetic energy at ground level (if no air resistance)."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "A 3 kg object accelerates from rest to 6 m/s. Calculate the work done on the object.",
+      "answer": "Using the Work-Energy Theorem: W = ΔE_k = Final KE - Initial KE. Initial KE = 0 (at rest). Final KE = (1/2) × 3 × 6² = (1/2) × 3 × 36 = 54 J. Work done = 54 - 0 = 54 J.",
+      "solution": "The Work-Energy Theorem directly connects work to kinetic energy change. Any net force doing work on an object changes its kinetic energy by exactly the amount of work done. This theorem is powerful because it allows solving problems without knowing the force magnitude or distance—only initial and final velocities. If 54 J of work accelerates the object to 6 m/s, then 54 J is the definitive answer regardless of the path or forces involved."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "A 2 kg mass is lifted from the ground to a shelf 2 m high, then from the shelf to another 3 m higher. Which height change requires more work? (g = 10 m/s²)",
+      "answer": "First lift: W₁ = mgh = 2 × 10 × 2 = 40 J. Second lift: W₂ = mgh = 2 × 10 × 3 = 60 J. Second height change requires more work (60 J > 40 J) because the height difference is greater. Work is directly proportional to height change.",
+      "solution": "This shows work depends on displacement height, not on absolute position. Whether lifting from ground to 2 m or from 10 m to 12 m (same 2 m height change), work is identical. Only the vertical height change matters for gravitational work. This principle is independent of the reference level chosen for potential energy."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "An object falls from height h. Using conservation of energy, derive a formula for its velocity just before impact. Then calculate velocity for h = 20 m. (g = 10 m/s²)",
+      "answer": "By conservation: Initial PE = Final KE. mgh = (1/2)mv_f². Simplifying: gh = (1/2)v_f². Solving: v_f = √(2gh). For h = 20 m: v_f = √(2 × 10 × 20) = √400 = 20 m/s.",
+      "solution": "This derivation shows how conservation of energy yields kinematic results without using acceleration formulas. Starting from energy equivalence, we derive the standard kinematic formula v² = 2gh. This demonstrates the deep connection between energy conservation and kinematics. The result is independent of mass—all objects fall at the same terminal velocity ignoring air resistance, a consequence of energy conservation."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "A car of mass 1000 kg accelerates from 10 m/s to 20 m/s. Calculate work done by the engine (ignoring friction).",
+      "answer": "Using Work-Energy Theorem: W = ΔE_k = (1/2)m(v_f² - v_i²). W = (1/2) × 1000 × (20² - 10²) = 500 × (400 - 100) = 500 × 300 = 150,000 J = 150 kJ.",
+      "solution": "The engine does 150 kJ of work to achieve this acceleration. Notice that acceleration from 10 to 20 m/s requires more work than acceleration from 0 to 10 m/s (which would require only 50 kJ) even though both are 10 m/s increases. This is due to the v² dependence—higher speeds have much more kinetic energy. This explains why highway driving consumes more fuel than city driving."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "A 5 kg object is thrown upward with initial velocity 20 m/s. At what height will its kinetic energy equal its potential energy? (g = 10 m/s²)",
+      "answer": "Initial total energy: E_total = (1/2)mv₀² = (1/2) × 5 × 20² = 1000 J. At height h where E_k = E_p: E_k = (1/2)mv² and E_p = mgh. By conservation: E_k + E_p = 1000. If E_k = E_p, then 2E_p = 1000, so E_p = 500 J. Therefore mgh = 500, giving h = 500/(5 × 10) = 10 m.",
+      "solution": "This problem combines conservation of energy with the condition E_k = E_p. At 10 m height, exactly half the initial kinetic energy converted to potential energy, with the other half remaining as kinetic energy. The object continues upward beyond this point, converting more kinetic to potential energy until v = 0 at maximum height (20 m). This demonstrates how energy progressively transforms during motion."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Two objects of equal mass fall from the same height. Object A falls in 2 seconds; Object B takes 4 seconds. Which delivers more power? Calculate power ratio if displacement is 40 m.",
+      "answer": "Work done by gravity is identical: W = mgh = mg(40). Time for A = 2 s, time for B = 4 s. Power of A: P_A = W/2. Power of B: P_B = W/4. Ratio: P_A/P_B = (W/2)/(W/4) = 2. Object A delivers twice the power. Power ratio equals time ratio (P ∝ 1/t for constant work).",
+      "solution": "This shows that same work delivered in less time requires higher power. Object B falls slower—possibly due to air resistance or being dropped from a lower initial height. Regardless of mechanism, less time means higher power for the same work. This principle applies everywhere: same energy consumed faster means higher power rating."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "A pendulum bob is pulled to height h and released. Ignoring air resistance, at what height will it have velocity equal to 50% of its maximum velocity?",
+      "answer": "At release (height h): E_k = 0, E_p = mgh, v = 0. At lowest point (height 0): E_k = mgh, E_p = 0, v_max = √(2gh). When v = 0.5v_max: (1/2)mv² = (1/2)m(0.5v_max)² = (1/8)m(2gh) = (1/4)mgh. So E_k = (1/4)mgh. By conservation: E_p = mgh - (1/4)mgh = (3/4)mgh = mg h'. Therefore h' = 3h/4.",
+      "solution": "At 3h/4 height, the bob has velocity exactly 50% of maximum. This demonstrates non-linear relationship between velocity and height due to v² dependence of kinetic energy. Height 1/4 from ground gives velocity 50% of maximum, not height 1/2 from ground. The quadratic relationship in energy equations creates this non-intuitive result, important for understanding real pendulum dynamics."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Two people climb identical stairs. Person A weighs 50 kg and climbs in 10 seconds. Person B weighs 100 kg and climbs in 15 seconds. Who delivers more power? Calculate the power ratio.",
+      "answer": "Let stair height = h. Work by A: W_A = 50 × 10 × h = 500h. Work by B: W_B = 100 × 10 × h = 1000h. Power of A: P_A = 500h/10 = 50h. Power of B: P_B = 1000h/15 = 66.7h. Person B delivers more power (66.7h > 50h). Power ratio: P_B/P_A = 66.7h/50h = 1.33 or 4:3.",
+      "solution": "Despite Person B taking longer, B delivers more power due to much greater work (twice the weight, four times the force). Power depends on both work magnitude and time taken. Higher work can compensate for longer time. Person B's heavier body means more work against gravity, and despite slower climb, the work amount is sufficient to yield higher power output overall."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "A braking car experiences friction force 5000 N and comes to rest after traveling 20 m. Calculate the work done by friction and the initial kinetic energy of the car. What is the initial velocity if car mass is 1000 kg?",
+      "answer": "Work by friction: W = F × s = 5000 N × 20 m = 100,000 J. By Work-Energy Theorem: W_net = ΔE_k, so 100,000 J equals the kinetic energy lost. Initial KE = 100,000 J. Final KE = 0 (at rest). Using E_k = (1/2)mv₀²: 100,000 = (1/2) × 1000 × v₀². Solving: v₀² = 200, so v₀ = √200 = 14.14 m/s ≈ 14 m/s.",
+      "solution": "Friction does negative work, removing kinetic energy until the car stops. The work-energy theorem directly relates friction force, distance, and velocity change. This shows why stopping distance increases dramatically with speed (v² dependence)—to stop from double the speed requires 4 times the work and distance (if friction is constant). Understanding this principle is crucial for vehicle safety and braking systems design."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "A 2 kg ball is thrown upward with initial velocity 30 m/s. Calculate its kinetic energy and potential energy when it reaches 40 m height. (g = 10 m/s²)",
+      "answer": "Initial total energy: E_total = (1/2) × 2 × 30² = 900 J. At height 40 m: E_p = mgh = 2 × 10 × 40 = 800 J. By conservation: E_k = E_total - E_p = 900 - 800 = 100 J. Therefore, kinetic energy = 100 J and potential energy = 800 J at 40 m height.",
+      "solution": "The ball rises to 40 m while still having kinetic energy (100 J), meaning it's still moving upward. Using v = √(2E_k/m) = √(100/1) = 10 m/s, it's moving at 10 m/s at this height. It continues rising until all kinetic energy converts to potential energy (v = 0) at 45 m height (E_k = 0, E_p = 900 J). This demonstrates continuous energy transformation during motion."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "Explain why a waterfall can be used to generate electricity. Use energy transformation concepts.",
+      "answer": "Water at height h above the turbine possesses gravitational potential energy E_p = mgh. As water falls, potential energy converts to kinetic energy E_k = (1/2)mv². The falling water's kinetic energy drives turbine blades, causing rotation. Mechanical energy of rotating turbine converts to electrical energy via a generator. The water's gravitational potential energy ultimately becomes electrical energy.",
+      "solution": "Waterfalls exemplify energy transformation: PE (stored due to height) → KE (acquired during fall) → Mechanical energy (turbine rotation) → Electrical energy. The higher the waterfall and greater the water flow rate, the more potential energy available, enabling higher electrical power generation. This practical application demonstrates why conservation of energy and understanding energy transformation are crucial for technology and sustainability."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "A 1500 kg car traveling at 30 m/s applies brakes. If braking force is 6000 N, calculate: (a) work done by brakes, (b) distance traveled before stopping, (c) initial kinetic energy.",
+      "answer": "(a) Initial KE = (1/2) × 1500 × 30² = 675,000 J. Work by brakes = 675,000 J (all kinetic energy dissipated). (b) Using W = F × s: 675,000 = 6000 × s, so s = 112.5 m. (c) Initial kinetic energy = 675,000 J = 675 kJ.",
+      "solution": "The braking force does negative work equal to initial kinetic energy, bringing the car to rest. The large stopping distance (112.5 m) demonstrates the enormous kinetic energy at highway speeds. Doubling speed to 60 m/s would quadruple kinetic energy and require 450 m to stop—dramatically showing velocity's critical role in collision safety. This illustrates why speed limits in residential areas protect pedestrians."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "An elevator lifts 10 people (total mass 800 kg) from ground floor to 5th floor (height 20 m) in 30 seconds. Calculate: (a) work done by elevator, (b) power delivered by elevator motor.",
+      "answer": "(a) W = mgh = 800 × 10 × 20 = 160,000 J = 160 kJ. (b) P = W/t = 160,000 J / 30 s = 5,333 W ≈ 5.3 kW. The motor must deliver approximately 5.3 kilowatts to lift these people at this rate.",
+      "solution": "The elevator motor does work against gravity, lifting the combined mass through height 20 m. The power calculation shows the rate of energy transfer required. A faster elevator (15 seconds) would require double the power (10.6 kW), while a slower elevator (60 seconds) would require half the power (2.65 kW). Understanding power requirements helps in design and energy consumption planning for buildings and transportation systems."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "Using the Work-Energy Theorem, prove that work done equals change in kinetic energy. Start with Newton's Second Law (F = ma) and kinematic equation v² - u² = 2as.",
+      "answer": "From Newton's Second Law: F = ma. From kinematics: v² - u² = 2as, so a = (v² - u²)/(2s). Substituting into F = ma: F = m(v² - u²)/(2s). Multiplying both sides by s: F × s = m(v² - u²)/2 = (1/2)mv² - (1/2)mu² = Final KE - Initial KE. Therefore W = ΔE_k, proving the Work-Energy Theorem.",
+      "solution": "This derivation mathematically proves the work-energy theorem from fundamental physics principles. It shows how Newton's laws and kinematic equations connect work to energy change. The proof uses only basic algebra, combining F = ma with kinematics to obtain the energy relationship. This theorem is one of the most powerful tools in physics because it allows solving motion problems through energy instead of detailed force analysis."
+    }
+  ]
+}

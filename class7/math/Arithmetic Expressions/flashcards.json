@@ -1,0 +1,274 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Arithmetic Expressions",
+    "chapter_number": 2
+  },
+  "flashcards": [
+    {
+      "q": "What is an arithmetic expression?",
+      "a": "A mathematical phrase formed using numbers and operations (+, −, ×, ÷) without an equals sign."
+    },
+    {
+      "q": "What does 'value of an expression' mean?",
+      "a": "The number that an expression evaluates to when all operations are performed."
+    },
+    {
+      "q": "Can different expressions have the same value?",
+      "a": "Yes. For example, 10+2, 15−3, 3×4, and 24÷2 all equal 12."
+    },
+    {
+      "q": "What symbol shows that two expressions have equal values?",
+      "a": "The equals sign (=). Example: 10+2 = 3×4"
+    },
+    {
+      "q": "What is the purpose of brackets in an expression?",
+      "a": "To specify which operations should be performed first before other operations."
+    },
+    {
+      "q": "In the expression 30+(5×4), which operation is done first?",
+      "a": "The multiplication inside brackets: 5×4=20, then add 30."
+    },
+    {
+      "q": "Why is the expression 30+5×4 ambiguous without brackets?",
+      "a": "It could mean either (30+5)×4=140 or 30+(5×4)=50, depending on operation order."
+    },
+    {
+      "q": "What are 'terms' in an arithmetic expression?",
+      "a": "The parts of an expression separated by + or − signs when all subtractions are written as adding negatives."
+    },
+    {
+      "q": "How do you identify terms in 13−2+6?",
+      "a": "Rewrite as 13+(−2)+6. Terms are: 13, −2, and 6."
+    },
+    {
+      "q": "What are the terms in 30+5×4?",
+      "a": "30 and (5×4). The product 5×4 is a single term, not separated by + or −."
+    },
+    {
+      "q": "In the expression 5+6×3, is 6×3 one term or two terms?",
+      "a": "One term. Products and quotients are treated as single units within a term."
+    },
+    {
+      "q": "What is the commutative property of addition?",
+      "a": "Swapping the order of terms doesn't change the sum: a+b=b+a."
+    },
+    {
+      "q": "Give an example of the commutative property with negative numbers.",
+      "a": "6+(−4)=2 and (−4)+6=2. Both equal 2 despite the different order."
+    },
+    {
+      "q": "What is the associative property of addition?",
+      "a": "Grouping terms differently doesn't change the sum: (a+b)+c=a+(b+c)."
+    },
+    {
+      "q": "Why is the associative property useful?",
+      "a": "It allows us to group terms strategically to make calculations easier, like (25+75)+(37+63)=100+100=200."
+    },
+    {
+      "q": "Do the commutative and associative properties apply to subtraction?",
+      "a": "No. Subtraction is not commutative (5−3≠3−5) and not associative ((5−3)−2≠5−(3−2))."
+    },
+    {
+      "q": "What happens when brackets preceded by + are removed?",
+      "a": "The terms inside keep their signs: a+(b+c)=a+b+c."
+    },
+    {
+      "q": "What happens when brackets preceded by − are removed?",
+      "a": "All signs inside reverse: a−(b+c)=a−b−c."
+    },
+    {
+      "q": "Remove brackets from 100−(15+56).",
+      "a": "100−15−56=29. The +15 became −15 and +56 became −56."
+    },
+    {
+      "q": "Remove brackets from 500−(250−100).",
+      "a": "500−250+100=350. The −100 became +100 when the negative sign reversed it."
+    },
+    {
+      "q": "What is the distributive property?",
+      "a": "Multiplication distributes over addition: a×(b+c)=a×b+a×c."
+    },
+    {
+      "q": "Apply the distributive property: 3×(6+7).",
+      "a": "3×6+3×7=18+21=39."
+    },
+    {
+      "q": "What is the distributive property with subtraction?",
+      "a": "a×(b−c)=a×b−a×c."
+    },
+    {
+      "q": "Distribute: 5×(12−8).",
+      "a": "5×12−5×8=60−40=20."
+    },
+    {
+      "q": "What is factoring in expressions?",
+      "a": "Reversing the distributive property by extracting a common factor: a×b+a×c=a×(b+c)."
+    },
+    {
+      "q": "Factor: 14×10−6×10.",
+      "a": "(14−6)×10=8×10=80. The common factor is 10."
+    },
+    {
+      "q": "Factor: 98×10+98×3.",
+      "a": "98×(10+3)=98×13=1274. The common factor is 98."
+    },
+    {
+      "q": "How is the distributive property used in mental math?",
+      "a": "By breaking numbers into parts: 97×25=(100−3)×25=2500−75=2425."
+    },
+    {
+      "q": "In the expression 53+(−16)=37, if 53 increases to 54, what is the new sum?",
+      "a": "38. When a term increases by 1, the entire expression increases by 1."
+    },
+    {
+      "q": "In 53+(−16)=37, if −16 becomes −15, what is the new sum?",
+      "a": "38. When a negative term increases (becomes less negative), the sum increases."
+    },
+    {
+      "q": "What steps do you follow to evaluate a complex expression?",
+      "a": "1) Evaluate brackets first, 2) Evaluate multiplication/division within terms, 3) Add/subtract the terms."
+    },
+    {
+      "q": "Evaluate: 30+5×4.",
+      "a": "50. Terms are 30 and (5×4)=20. Then 30+20=50."
+    },
+    {
+      "q": "Evaluate: 5×(3+2)+7×8+3.",
+      "a": "84. Terms are (5×5), (7×8), and 3, which are 25, 56, and 3. Sum: 25+56+3=84."
+    },
+    {
+      "q": "Are 28+(35−10) and 28+35−10 equal?",
+      "a": "Yes, both equal 53. Brackets preceded by + don't change the calculation."
+    },
+    {
+      "q": "Are 100−(15+56) and 100−15+56 equal?",
+      "a": "No. 100−(15+56)=29, but 100−15+56=141. Brackets preceded by − affect the calculation."
+    },
+    {
+      "q": "Are 2×(43+24) and 2×43+2×24 equal?",
+      "a": "Yes, both equal 134. This is the distributive property."
+    },
+    {
+      "q": "Are 4×5+3×5 and (4+3)×5 equal?",
+      "a": "Yes, both equal 35. Factoring the common factor 5 shows they're equivalent."
+    },
+    {
+      "q": "State the rule for removing brackets preceded by subtraction.",
+      "a": "Flip all signs inside: + becomes − and − becomes +."
+    },
+    {
+      "q": "In the expression a−(b−c), what does b become?",
+      "a": "−b. The original +b becomes −b when the negative sign reverses it."
+    },
+    {
+      "q": "In the expression 14+(12+10), remove the brackets.",
+      "a": "14+12+10=36. No sign changes because + precedes the brackets."
+    },
+    {
+      "q": "In the expression 14−(12+10), remove the brackets.",
+      "a": "14−12−10=−8. Signs reverse because − precedes the brackets."
+    },
+    {
+      "q": "What is the key phrase for the distributive property?",
+      "a": "'The multiple of a sum (or difference) is the sum (or difference) of the multiples.'"
+    },
+    {
+      "q": "What is the first operation to evaluate in 30+5×4−8÷2?",
+      "a": "Multiplication and division within terms: 5×4=20 and 8÷2=4."
+    },
+    {
+      "q": "How many terms are in 30+5×4−8÷2?",
+      "a": "Three terms: 30, (5×4), and −(8÷2) or equivalently 30, (5×4), and −(8÷2)."
+    },
+    {
+      "q": "When adding multiple terms in any order, do you get the same result?",
+      "a": "Yes, if the expression contains only addition. This is due to commutative and associative properties."
+    },
+    {
+      "q": "Why can't we freely rearrange terms in expressions with subtraction?",
+      "a": "Subtraction is not commutative or associative, so order and grouping matter."
+    },
+    {
+      "q": "What is the inverse of addition?",
+      "a": "Subtraction. Similarly, division is the inverse of multiplication."
+    },
+    {
+      "q": "How can we convert subtraction to addition in an expression?",
+      "a": "By adding the negative: a−b=a+(−b)."
+    },
+    {
+      "q": "What is a 'negative term'?",
+      "a": "A term with a negative sign, representing subtraction in the overall expression."
+    },
+    {
+      "q": "In 83−14, what is the negative term?",
+      "a": "−14. When written as 83+(−14), the terms are 83 and −14."
+    },
+    {
+      "q": "How do brackets clarify meaning in mathematical expressions?",
+      "a": "Just as punctuation clarifies meaning in language, brackets clarify which operations to perform first in mathematics."
+    },
+    {
+      "q": "What is an example of ambiguity without brackets?",
+      "a": "30+5×4 could mean (30+5)×4=140 or 30+(5×4)=50 without specifying order."
+    },
+    {
+      "q": "Can the product of two numbers be written without knowing the order?",
+      "a": "Yes, due to the commutative property of multiplication: a×b=b×a."
+    },
+    {
+      "q": "What is the fundamental requirement for terms to be addable in any order?",
+      "a": "The expression must contain only addition operations (after converting all subtractions to adding negatives)."
+    },
+    {
+      "q": "How does the distributive property connect multiplication to addition?",
+      "a": "It shows that multiplying a sum equals multiplying each part separately and adding: a×(b+c)=a×b+a×c."
+    },
+    {
+      "q": "Evaluate: (6+10)−2 and 6+(10−2). Which is larger?",
+      "a": "Both equal 14, so they are equal. Here grouping doesn't change the result."
+    },
+    {
+      "q": "Evaluate: 16−(8−3) and (16−8)−3. Which is larger?",
+      "a": "16−(8−3)=11 and (16−8)−3=5 are not equal. Subtraction grouping matters."
+    },
+    {
+      "q": "How can you tell if two expressions are equal without calculating?",
+      "a": "Use understanding of terms, brackets, and properties (commutative, associative, distributive) to rewrite them."
+    },
+    {
+      "q": "What happens when you change one term and want to keep the expression value the same?",
+      "a": "Compensate by changing another term by the opposite amount."
+    },
+    {
+      "q": "If 53+x=37 and 53 becomes 54, what should x become to keep the sum at 37?",
+      "a": "x should become −17 (decreased by 1, since 54 increased by 1)."
+    },
+    {
+      "q": "Write as a sum of terms: 6×5+3.",
+      "a": "The terms are (6×5) and 3, which equals 30+3=33."
+    },
+    {
+      "q": "Identify the real-world context where brackets matter most.",
+      "a": "Situations where we need to compute totals with multiple operations, like shopping with multiple items and discounts."
+    },
+    {
+      "q": "What makes 2 and 5 special in the context of powers of 10?",
+      "a": "Because 10=2×5, these prime factors relate to how we distribute and factor with powers of 10."
+    },
+    {
+      "q": "In what way is the commutative property different from the associative property?",
+      "a": "Commutative swaps two adjacent terms (order), while associative regroups three or more terms (grouping)."
+    },
+    {
+      "q": "Can you always remove brackets without changing an expression's value?",
+      "a": "Yes, if you correctly apply the bracket-removal rules based on whether the bracket is preceded by + or −."
+    },
+    {
+      "q": "What is the advantage of understanding the distributive property?",
+      "a": "It allows efficient mental calculations and deeper understanding of algebraic manipulation."
+    }
+  ]
+}

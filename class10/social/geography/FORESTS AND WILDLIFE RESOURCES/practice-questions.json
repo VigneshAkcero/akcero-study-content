@@ -1,0 +1,185 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Geography",
+    "chapter_name": "Forests and Wildlife Resources",
+    "chapter_number": 2
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Define Biodiversity (or Biological Diversity).",
+      "answer": "Biodiversity is the immense richness of wildlife and cultivated species, diverse in form and function but closely integrated into an ecological system through multiple networks of interdependencies.",
+      "solution": "Biodiversity refers to the entire range of living organisms on Earth. It includes micro-organisms, plants, animals, and humans, all of which form a complex web. We are entirely dependent on this system for our existence, especially for air, water, and soil."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "When was the Indian Wildlife (Protection) Act implemented?",
+      "answer": "The Indian Wildlife (Protection) Act was implemented in 1972.",
+      "solution": "Implemented in 1972, this act provided various provisions for protecting habitats. It included an all-India list of protected species and focused on protecting endangered species by banning hunting and restricting trade in wildlife."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What is the primary objective of Project Tiger?",
+      "answer": "To preserve the tiger population and its biotypes while protecting an iconic species from extinction.",
+      "solution": "Project Tiger was launched in 1973. It aimed not just to save an endangered species (the tiger) but also to preserve biotypes of sizeable magnitude as tigers are crucial to the faunal web. Major reserves include Corbett, Sunderbans, and Bandhavgarh."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Which state has the largest area under permanent forests in India?",
+      "answer": "Madhya Pradesh has the largest area under permanent forests.",
+      "solution": "Madhya Pradesh has about 75 per cent of its total forest area classified as permanent forests (Reserved + Protected). It is followed by other states like Andhra Pradesh and Maharashtra in terms of reserved forest percentage."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Name the type of forests that are owned by both government and private individuals/communities.",
+      "answer": "Unclassed Forests.",
+      "solution": "Unclassed Forests consist of forests and wastelands that belong to both the government and private individuals or communities. They are especially common in the North-eastern states and parts of Gujarat."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What are 'Reserved Forests'?",
+      "answer": "Reserved Forests are forest lands regarded as most valuable for the conservation of forest and wildlife resources.",
+      "solution": "More than half of India's total forest land has been declared as reserved forests. They are strictly protected by the government for conservation purposes and timber production."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Which tribal communities in India worship the mahua and kadamba trees?",
+      "answer": "The Mundas and the Santhals of the Chota Nagpur region.",
+      "solution": "These tribal communities have a dedicated tradition of tree worship. They preserve and worship Mahua (Bassia latifolia) and Kadamba (Anthocaphalus cadamba) trees as part of their sacred beliefs."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "In which state was the first formal resolution for Joint Forest Management (JFM) passed?",
+      "answer": "Odisha.",
+      "solution": "The JFM programme involves local communities in restoring degraded forests. The first formal resolution for JFM was passed by the state of Odisha in 1988."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Explain why forests are called 'Primary Producers' in an ecological system.",
+      "answer": "Because they are the foundation of the ecosystem on which all other living beings (consumers) directly or indirectly depend for survival.",
+      "solution": "Forests play a key role as primary producers because they capture solar energy through photosynthesis to produce organic matter (food). All animals, micro-organisms, and humans rely on this production for their own nourishment and existence, making forests the base of the faunal web."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Distinguish between Reserved and Protected Forests.",
+      "answer": "Reserved forests are most valuable for conservation (more than 50% area), while Protected forests (1/3rd area) are specifically protected from any further depletion.",
+      "solution": "Reserved Forests are considered the 'most valuable' for conserving timber and wildlife. Protected Forests, as declared by the Forest Department, are primarily designated to prevent further degradation of forest land. Together, they are known as permanent forest estates."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "What were the major threats to the tiger population discovered in 1973?",
+      "answer": "Poaching for trade, shrinking habitat, depletion of prey species, and growing human population.",
+      "solution": "Authorities realized that the tiger population had dropped to 1,827 from an estimated 55,000. Threats included illegal trade of tiger skins and bones (used in traditional medicines), habitat loss, and the loss of animals that tigers hunt for food (prey base)."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Describe the core philosophy of 'Sacred Groves'.",
+      "answer": "Sacred Groves are virgin forest patches left untouched by local people due to the belief that these are forests of God and Goddesses.",
+      "solution": "Nature worship is an age-old tribal belief that all creations of nature must be protected. This belief has preserved several forests in their pristine form. In these groves, cutting trees or hunting wildlife is strictly banned by the community according to their traditional rules."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "How did the Chipko Movement contribute to environmental conservation in India?",
+      "answer": "It successfully resisted large-scale deforestation in the Himalayas and demonstrated the power of community-led indigenous afforestation.",
+      "solution": "The Chipko Movement was a grassroots effort in the Himalayas where villagers hugged trees to prevent them from being felled. It showed that local communities could successfully challenge commercial logging and proved that afforestation using local (indigenous) species is highly effective."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "What is the role of farmers' groups like 'Beej Bachao Andolan' in Tehri?",
+      "answer": "They promote diversified crop production and seed conservation without using synthetic chemicals, proving ecological farming is viable.",
+      "solution": "Beej Bachao Andolan (Save the Seeds) and Navdanya have shown that traditional, diverse crop production is possible and economically rewardind. They explicitly reject the use of industrial fertilizers and pesticides, advocating for sustainable, chemical-free agricultural practices."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Explain the concept of Joint Forest Management (JFM) and its benefits to local communities.",
+      "answer": "JFM involves local village institutions in protection activities; in return, they get a share in timber and non-timber forest produce.",
+      "solution": "JFM relies on the collaboration between the government (Forest Department) and village-level institutions. Communities take responsibility for protecting degraded forest land. Their reward is the right to collect 'intermediary benefits' like fruits, honey, and medicinal plants, plus a share of the timber after successful restoration."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Name four important Tiger Reserves in India and specify the states they are located in.",
+      "answer": "Corbett (Uttarakhand), Sariska (Rajasthan), Manas (Assam), and Periyar (Kerala).",
+      "solution": "Tiger Reserves are strategically located across India to capture diverse biotypes. (1) Corbett: Uttarakhand, (2) Sariska: Rajasthan, (3) Manas: Assam, (4) Periyar: Kerala. Other examples include Sunderbans (West Bengal) and Bandhavgarh (Madhya Pradesh)."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "In the Wildlife Act of 1980 and 1986, which group of organisms was specifically added to the protection list?",
+      "answer": "Several hundred butterflies, moths, beetles, and one dragonfly.",
+      "solution": "As conservation planning evolved, focus shifted from just large animals (like tigers) to the entire biodiversity. The updates in 1980 and 1986 recognized the importance of insects. By 1991, even plants were added to the list for the first time."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Why did India and Nepal become prime targets for poaching in the context of tiger conservation?",
+      "answer": "Because these two nations together provide habitat to about two-thirds of the world's surviving tiger population.",
+      "solution": "With the global tiger population dwindling, India and Nepal held the majority of the remaining tigers. This high concentration made them the focus of illegal traders who sought tiger skins and bones for traditional medicines, primarily in Asian markets."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "Analyze the relationship between biodiversity and human survival as described in the chapter.",
+      "answer": "Humans are a small part of a complex ecological web and depend on other organisms for essential life support systems like air, water, and soil.",
+      "solution": "The chapter emphasizes that biodiversity is not just 'variety' but an integrated system. Plants, animals, and micro-organisms re-create the air we breathe and the water we drink. Humans are non-independent consumers; without the primary production of forests and the nutrient cycling of smaller organisms, human life support systems would collapse."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Compare the 'Project Tiger' approach with modern conservation focuses on 'total biodiversity'.",
+      "answer": "Project Tiger focused on a single key species (faunal web icon), whereas modern projects focus on preserving entire ecosystems and even insects/plants.",
+      "solution": "Early conservation (like 1973) was often 'single species' oriented, using 'charismatic megafauna' like the tiger to save entire biotypes. Recently, there is a more 'intensive search' for wider measures. This is evident as insects (1980s) and plants (1991) were added to protected lists, reflecting a shift from saving icons to saving the entire web of life."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Evaluate the role of traditional beliefs in forest conservation using the examples of Bishnoi villages and Sacred Groves.",
+      "answer": "Traditional beliefs provide a non-legal, community-driven framework where nature is revered as sacred, leading to effective protection without government force.",
+      "solution": "In Bishnoi villages (Rajasthan), herds of blackbuck and peacocks are protected as integral community members. Similarly, Sacred Groves are pristine forests 'belonging to the gods'. These traditions show that when nature is integrated into cultural identity and religious sanctity, people protect it voluntarily, often more effectively than state-imposed laws."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "How did the inhabitants of Alwar district demonstrate that community involvement can substitute state regulation in wildlife protection?",
+      "answer": "By declaring their own 'Bhairodev Dakav Sonchuri' with self-imposed rules against hunting and encroachment, rejecting government involvement.",
+      "solution": "In five villages of Alwar, Rajasthan, people declared 1,200 hectares of forest as a sanctuary. They explicitly rejected government involvement and created their own rules. This case demonstrates that local communities can successfully manage resources when they have a direct stake in protecting their livelihood and environment."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Critically assess the statement: 'Local communities have to be involved in some kind of natural resource management.' Use the JFM example.",
+      "answer": "Local involvement ensures long-term sustainability by aligning conservation goals with community livelihood benefits.",
+      "solution": "JFM (Joint Forest Management) serves as a successful model. It proves that when communities are given the responsibility (protection) and reward (intermediary benefits), reconstruction of environment happens faster. Community involvement bridges the gap between state-level decision making and ground-level implementation, ensuring that conservation is not seen as an obstacle to livelihood."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Based on the chapter, explain how humans are both the 'destroyers' and potential 'reconstructors' of India's biodiversity.",
+      "answer": "Human insensitivity causes stress on flora/fauna, but community movements and government acts show that humans can also lead restoration efforts.",
+      "solution": "The chapter highlights destruction through poaching, mining (Sariska), and deforestation. However, it also provides examples of reconstruction: Chipko Movement villagers resisting logging and JFM restoring degraded lands. The 'reconstructor' role is highlighted when economic activities become people-centric and environment-friendly."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Analyze why Madhya Pradesh holds the record for the largest area under permanent forests in the context of India's forest classification system.",
+      "answer": "Because a vast majority (75%) of its forests are classified as 'Reserved' or 'Protected', focusing on timber production and protection of ecological estates.",
+      "solution": "Madhya Pradesh manages 75% of its forest as 'Permanent Forest Estates'. This classification system ensures that these lands are strictly regulated for producing timber and preserving the environment. It reflects a state-level policy priority where forests are managed as valuable institutional assets rather than unclassed or easily exploitable wastelands."
+    }
+  ]
+}

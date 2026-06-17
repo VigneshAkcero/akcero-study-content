@@ -1,0 +1,360 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "CONNECTING THE DOTS",
+    "chapter_number": 5
+  },
+  "flashcards": [
+    {
+      "id": "fc1",
+      "q": "What is a statistical statement?",
+      "a": "A claim about a group that involves numbers, probabilities, or counting. E.g., 'Most Grade 7 students like cricket.'"
+    },
+    {
+      "id": "fc2",
+      "q": "What is a statistical question?",
+      "a": "A question that requires collecting data where different individuals have different responses. E.g., 'What are the heights of Grade 7 students?'"
+    },
+    {
+      "id": "fc3",
+      "q": "Give an example of a NON-statistical question.",
+      "a": "'How many states are in India?' — has a single definite answer, no variability."
+    },
+    {
+      "id": "fc4",
+      "q": "What is the arithmetic mean (or average)?",
+      "a": "Sum of all values divided by the number of values. Formula: Mean = (Sum) ÷ (Count)."
+    },
+    {
+      "id": "fc5",
+      "q": "What does 'fair-share' mean in context of mean?",
+      "a": "If you distribute the total equally among all individuals, each gets the fair-share amount, which equals the mean."
+    },
+    {
+      "id": "fc6",
+      "q": "How do you calculate the mean of 12, 14, 16, 18?",
+      "a": "Sum = 12+14+16+18 = 60. Count = 4. Mean = 60÷4 = 15."
+    },
+    {
+      "id": "fc7",
+      "q": "What is the median?",
+      "a": "The middle value when data is sorted in ascending order."
+    },
+    {
+      "id": "fc8",
+      "q": "How do you find median with odd number of values?",
+      "a": "Sort data, take the middle value. E.g., in {3,5,7,9,11}, median is 7 (3rd of 5)."
+    },
+    {
+      "id": "fc9",
+      "q": "How do you find median with even number of values?",
+      "a": "Average the two middle values. E.g., in {2,4,6,8}, median = (4+6)÷2 = 5."
+    },
+    {
+      "id": "fc10",
+      "q": "What is an outlier?",
+      "a": "An extreme value that is much larger or much smaller than other values in the dataset."
+    },
+    {
+      "id": "fc11",
+      "q": "How does an outlier affect the mean?",
+      "a": "An outlier pulls the mean toward itself, making the mean unrepresentative of the typical value."
+    },
+    {
+      "id": "fc12",
+      "q": "How does an outlier affect the median?",
+      "a": "The median is NOT affected by outliers. It remains stable because only the middle position matters."
+    },
+    {
+      "id": "fc13",
+      "q": "When is the median more useful than the mean?",
+      "a": "When the data contains outliers or is skewed. The median better represents the 'typical' value."
+    },
+    {
+      "id": "fc14",
+      "q": "What is the minimum value?",
+      "a": "The smallest value in a dataset."
+    },
+    {
+      "id": "fc15",
+      "q": "What is the maximum value?",
+      "a": "The largest value in a dataset."
+    },
+    {
+      "id": "fc16",
+      "q": "What is range?",
+      "a": "Range = Maximum - Minimum. It shows the spread of data."
+    },
+    {
+      "id": "fc17",
+      "q": "Calculate range for data: 25, 30, 28, 22, 35.",
+      "a": "Max = 35, Min = 22. Range = 35 - 22 = 13."
+    },
+    {
+      "id": "fc18",
+      "q": "What are measures of central tendency?",
+      "a": "Numbers that represent the center/typical value of a dataset: mean, median, mode, etc."
+    },
+    {
+      "id": "fc19",
+      "q": "What is variability in data?",
+      "a": "How spread out the data values are. High variability = values far apart. Low variability = values close together."
+    },
+    {
+      "id": "fc20",
+      "q": "What is a dot plot?",
+      "a": "A visual display showing each data value as a dot on a number line. Shows actual values without losing data."
+    },
+    {
+      "id": "fc21",
+      "q": "What information does a dot plot show clearly?",
+      "a": "Clustering (where points gather), gaps (where no data exists), outliers (isolated dots), and exact data values."
+    },
+    {
+      "id": "fc22",
+      "q": "What is a clustered bar graph?",
+      "a": "A graph showing multiple datasets side-by-side with bars of different heights, enabling comparison."
+    },
+    {
+      "id": "fc23",
+      "q": "Why use colors or patterns in a clustered bar graph?",
+      "a": "To distinguish between different datasets or categories, making comparison easy and clear."
+    },
+    {
+      "id": "fc24",
+      "q": "What is scale in a graph?",
+      "a": "The ratio between graph measurement and actual values. E.g., '1 unit = 5 hours' means one unit length represents 5 actual hours."
+    },
+    {
+      "id": "fc25",
+      "q": "Why is scale important in data visualization?",
+      "a": "Incorrect scale distorts the visual comparison. Proper scale ensures accurate interpretation of data."
+    },
+    {
+      "id": "fc26",
+      "q": "What is data visualization?",
+      "a": "Representing data using visual displays (graphs, charts, plots) to see patterns easily."
+    },
+    {
+      "id": "fc27",
+      "q": "What does sorted data mean?",
+      "a": "Data arranged in order (ascending or descending). Required for finding median and identifying patterns."
+    },
+    {
+      "id": "fc28",
+      "q": "What is data analysis?",
+      "a": "Process of examining data to find patterns, trends, relationships, and meaningful information."
+    },
+    {
+      "id": "fc29",
+      "q": "Explain: 'Zero value vs. No value' in data.",
+      "a": "Zero value = actual measurement of 0 (e.g., 0 marks). No value = missing/not applicable data (different from 0)."
+    },
+    {
+      "id": "fc30",
+      "q": "What is statistical thinking?",
+      "a": "Recognizing variability in the world, asking questions about it, and using data to answer them."
+    },
+    {
+      "id": "fc31",
+      "q": "Compare mean and median: Which is affected by outliers?",
+      "a": "Mean is greatly affected. Median is NOT affected by outliers."
+    },
+    {
+      "id": "fc32",
+      "q": "When do mean and median have similar values?",
+      "a": "When data is balanced with no significant outliers (symmetric distribution)."
+    },
+    {
+      "id": "fc33",
+      "q": "What two steps are used to analyze a graph?",
+      "a": "Step 1: Identify organization, scale, and patterns. Step 2: Infer meanings and draw conclusions."
+    },
+    {
+      "id": "fc34",
+      "q": "What is a statistical claim?",
+      "a": "A statement about data that must be supported by evidence/numbers, not just opinion."
+    },
+    {
+      "id": "fc35",
+      "q": "How do you compare averages across different-sized groups?",
+      "a": "Calculate mean for each group separately. The mean allows fair comparison regardless of group size."
+    },
+    {
+      "id": "fc36",
+      "q": "What is frequency in data?",
+      "a": "How often a particular value appears in the dataset."
+    },
+    {
+      "id": "fc37",
+      "q": "If mean = 50 and you add a value of 50, what happens to the mean?",
+      "a": "The mean stays 50 (adding a value equal to the current mean doesn't change it)."
+    },
+    {
+      "id": "fc38",
+      "q": "If median = 40 and you have 5 values, which position is the median?",
+      "a": "3rd value (the middle position in a 5-value set when sorted)."
+    },
+    {
+      "id": "fc39",
+      "q": "What is a data point?",
+      "a": "A single measurement or observation in a dataset. E.g., one student's height is one data point."
+    },
+    {
+      "id": "fc40",
+      "q": "What sample size is needed for a statistical question?",
+      "a": "At least 2-3 data points to show variability. Larger samples give more reliable results."
+    },
+    {
+      "id": "fc41",
+      "q": "Define: Representative value.",
+      "a": "A single number that represents or summarizes the entire dataset. Mean, median, and mode are representative values."
+    },
+    {
+      "id": "fc42",
+      "q": "What does 'variability' tell us about data?",
+      "a": "It shows whether the data is consistent (low variability) or diverse (high variability)."
+    },
+    {
+      "id": "fc43",
+      "q": "Name three ways to measure the spread of data.",
+      "a": "Range, interquartile range (IQR), and variance/standard deviation."
+    },
+    {
+      "id": "fc44",
+      "q": "What is a distribution in statistics?",
+      "a": "The pattern of how data values are spread or arranged across the range."
+    },
+    {
+      "id": "fc45",
+      "q": "What is a skewed distribution?",
+      "a": "Data concentrated on one side with a tail on the other. Skew indicates outliers or imbalance."
+    },
+    {
+      "id": "fc46",
+      "q": "How do dot plots help identify outliers?",
+      "a": "Outliers appear as isolated dots separated from the main cluster, making them visually obvious."
+    },
+    {
+      "id": "fc47",
+      "q": "What is a trend in data?",
+      "a": "A pattern of increase, decrease, or consistency over time."
+    },
+    {
+      "id": "fc48",
+      "q": "What is variability over time?",
+      "a": "Changes in values as time progresses. E.g., seasonal variations in temperature."
+    },
+    {
+      "id": "fc49",
+      "q": "What should you consider before generalizing data?",
+      "a": "Ensure data is from a representative sample and similar conditions apply to the population being generalized to."
+    },
+    {
+      "id": "fc50",
+      "q": "What is context in data analysis?",
+      "a": "Background information about when, where, and how data was collected. Context helps interpret results correctly."
+    },
+    {
+      "id": "fc51",
+      "q": "Name mathematician who worked on mean in 628 CE.",
+      "a": "Brahmagupta, an Indian mathematician, used the concept of mean in his work."
+    },
+    {
+      "id": "fc52",
+      "q": "What is a categorical variable?",
+      "a": "A variable with non-numeric values like colors, names, or categories. E.g., favorite sport."
+    },
+    {
+      "id": "fc53",
+      "q": "What is a numerical variable?",
+      "a": "A variable with numeric values that can be measured. E.g., height, age, temperature."
+    },
+    {
+      "id": "fc54",
+      "q": "Can you calculate mean of categorical data?",
+      "a": "No, mean applies only to numerical data. For categories, use frequency/mode."
+    },
+    {
+      "id": "fc55",
+      "q": "What is a mode?",
+      "a": "The value that appears most frequently in a dataset."
+    },
+    {
+      "id": "fc56",
+      "q": "When is mode useful?",
+      "a": "When you want to know the most common value, especially for categorical data."
+    },
+    {
+      "id": "fc57",
+      "q": "Can a dataset have more than one mode?",
+      "a": "Yes, if two or more values appear with same highest frequency (multimodal distribution)."
+    },
+    {
+      "id": "fc58",
+      "q": "What does 'sum' mean in statistics?",
+      "a": "Total of all values added together. Essential for calculating mean."
+    },
+    {
+      "id": "fc59",
+      "q": "Why is collecting data important in statistics?",
+      "a": "Data is evidence. Statistical claims without data are just opinions."
+    },
+    {
+      "id": "fc60",
+      "q": "What is a sample in statistics?",
+      "a": "A smaller group selected from a larger population to represent it."
+    },
+    {
+      "id": "fc61",
+      "q": "What is bias in data collection?",
+      "a": "Systematic error that makes results not representative. E.g., surveying only morning shoppers misses evening shoppers."
+    },
+    {
+      "id": "fc62",
+      "q": "What are quantiles?",
+      "a": "Values that divide sorted data into equal groups. Median is the 2-quantile (divides into 2 equal halves)."
+    },
+    {
+      "id": "fc63",
+      "q": "What is an outlier test?",
+      "a": "A method to identify outliers. Simple rule: values beyond 1.5×IQR from quartiles are outliers."
+    },
+    {
+      "id": "fc64",
+      "q": "What is interquartile range (IQR)?",
+      "a": "The range of the middle 50% of data. IQR = Q3 - Q1. Useful for understanding spread."
+    },
+    {
+      "id": "fc65",
+      "q": "Why compare both mean and median?",
+      "a": "Together they reveal distribution shape. Similar values suggest symmetric data. Large difference suggests outliers/skew."
+    },
+    {
+      "id": "fc66",
+      "q": "What is data literacy?",
+      "a": "Ability to read, understand, create, and communicate data effectively."
+    },
+    {
+      "id": "fc67",
+      "q": "What is inferential statistics?",
+      "a": "Using sample data to make conclusions about the larger population."
+    },
+    {
+      "id": "fc68",
+      "q": "What is descriptive statistics?",
+      "a": "Summarizing and describing data using measures like mean, median, range, standard deviation."
+    },
+    {
+      "id": "fc69",
+      "q": "What questions does data visualization answer?",
+      "a": "'What is typical?' (center), 'How spread out?' (variability), 'Any patterns?' (trends/clusters), 'Are there oddities?' (outliers)."
+    },
+    {
+      "id": "fc70",
+      "q": "Why is statistical thinking important?",
+      "a": "It helps make informed decisions based on evidence, not assumptions. Prevents misinterpretation of data."
+    }
+  ]
+}

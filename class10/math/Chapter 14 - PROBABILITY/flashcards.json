@@ -1,0 +1,182 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Probability",
+    "chapter_number": 14
+  },
+  "flashcards": [
+    {
+      "q": "What is probability?",
+      "a": "A numerical measure of the likelihood of an event occurring, ranging from 0 to 1."
+    },
+    {
+      "q": "Define theoretical probability.",
+      "a": "Probability calculated using logic based on equally likely outcomes: P(E) = (Favorable outcomes) / (Total outcomes)."
+    },
+    {
+      "q": "Define empirical probability.",
+      "a": "Probability calculated from experimental data: P(E) = (Times event occurred) / (Total trials)."
+    },
+    {
+      "q": "What is an experiment in probability?",
+      "a": "An action or process that produces one or more outcomes, such as tossing a coin or rolling a die."
+    },
+    {
+      "q": "What is an outcome?",
+      "a": "A single result of an experiment; examples include heads on a coin or 5 on a die."
+    },
+    {
+      "q": "Define sample space.",
+      "a": "The set of all possible outcomes of an experiment, denoted by S. Example: For a die, S = {1, 2, 3, 4, 5, 6}."
+    },
+    {
+      "q": "What is an event?",
+      "a": "A subset of the sample space; a set of one or more outcomes that we are interested in."
+    },
+    {
+      "q": "Define elementary event.",
+      "a": "An event containing only one outcome; the simplest possible event."
+    },
+    {
+      "q": "Define compound event.",
+      "a": "An event containing two or more outcomes. Example: 'getting an even number on a die' = {2, 4, 6}."
+    },
+    {
+      "q": "What does 'equally likely outcomes' mean?",
+      "a": "Outcomes that have the same probability of occurring; each outcome has an equal chance in a fair experiment."
+    },
+    {
+      "q": "What is a fair experiment?",
+      "a": "An experiment where all outcomes are equally likely. Example: fair coin toss, fair die roll."
+    },
+    {
+      "q": "What is a biased experiment?",
+      "a": "An experiment where outcomes are not equally likely. Example: loaded die, biased coin."
+    },
+    {
+      "q": "State the theoretical probability formula.",
+      "a": "P(E) = (Number of favorable outcomes) / (Total number of equally likely outcomes)."
+    },
+    {
+      "q": "Who gave the definition of theoretical probability?",
+      "a": "Pierre Simon Laplace in 1795; also called classical probability or Laplace's definition."
+    },
+    {
+      "q": "What is the complement of event E?",
+      "a": "Denoted as Ē or 'not E'; the set of all outcomes in the sample space that are not in E."
+    },
+    {
+      "q": "State the complement rule.",
+      "a": "P(E) + P(Ē) = 1, which gives P(Ē) = 1 - P(E)."
+    },
+    {
+      "q": "What are complementary events?",
+      "a": "Events E and Ē are complementary if they are mutually exclusive and exhaustive (together cover all outcomes)."
+    },
+    {
+      "q": "What is the probability of an impossible event?",
+      "a": "Zero, P(Ē) = 0. Example: getting 7 on a standard die is impossible."
+    },
+    {
+      "q": "What is the probability of a certain event?",
+      "a": "One, P(E) = 1. Example: getting a number ≤ 6 on a die is certain."
+    },
+    {
+      "q": "What is the range of probability for any event?",
+      "a": "0 ≤ P(E) ≤ 1; probability cannot be negative or greater than 1."
+    },
+    {
+      "q": "What is the sum of probabilities of all elementary events?",
+      "a": "Always equals 1; Σ P(Ei) = 1 for all elementary events in an experiment."
+    },
+    {
+      "q": "What are mutually exclusive events?",
+      "a": "Events that cannot occur together; their intersection is empty. Example: heads and tails in a single coin toss."
+    },
+    {
+      "q": "What are exhaustive events?",
+      "a": "Events that together cover all possible outcomes of an experiment. Example: 'even' and 'odd' on a die."
+    },
+    {
+      "q": "How many outcomes are in the sample space for two coins tossed simultaneously?",
+      "a": "4 outcomes: {HH, HT, TH, TT}, where H = heads, T = tails."
+    },
+    {
+      "q": "How many outcomes are in the sample space for two dice rolled simultaneously?",
+      "a": "36 outcomes: 6 × 6 = 36, representing all combinations of the two dice."
+    },
+    {
+      "q": "For a standard deck of 52 cards, how many aces are there?",
+      "a": "4 aces: one in each suit (hearts, diamonds, clubs, spades)."
+    },
+    {
+      "q": "For a standard deck of 52 cards, how many face cards are there?",
+      "a": "12 face cards: 3 (Jack, Queen, King) × 4 suits."
+    },
+    {
+      "q": "For a standard deck of 52 cards, how many red cards are there?",
+      "a": "26 red cards: 13 hearts + 13 diamonds."
+    },
+    {
+      "q": "For a standard deck of 52 cards, how many spades are there?",
+      "a": "13 spades: one complete suit."
+    },
+    {
+      "q": "What is the key assumption required for using the theoretical probability formula?",
+      "a": "All outcomes in the sample space must be equally likely; the experiment must be fair."
+    },
+    {
+      "q": "When is the complement approach more useful than direct calculation?",
+      "a": "When calculating 'not happening' or 'at least one' is simpler than calculating the event directly."
+    },
+    {
+      "q": "For drawing from a bag with 3 red and 5 blue balls, are red and blue equally likely?",
+      "a": "No; P(red) = 3/8, P(blue) = 5/8. The individual balls are equally likely, but colors are not because counts differ."
+    },
+    {
+      "q": "What happens to probability when outcomes are not equally likely?",
+      "a": "The simple theoretical probability formula does not apply; empirical probability or adjusted calculations are needed."
+    },
+    {
+      "q": "State the relationship between theoretical and empirical probability.",
+      "a": "As the number of trials increases, empirical probability approaches theoretical probability."
+    },
+    {
+      "q": "What is the limitation of empirical probability?",
+      "a": "It requires repeating experiments many times, which may be impractical, expensive, or impossible for some scenarios."
+    },
+    {
+      "q": "What is the advantage of theoretical probability over empirical?",
+      "a": "It requires no experiments and provides exact values based on logical analysis of equally likely outcomes."
+    },
+    {
+      "q": "For a die, what is P(getting 1 or 2)?",
+      "a": "2/6 = 1/3; favorable outcomes are {1, 2}, total outcomes = 6."
+    },
+    {
+      "q": "For a die, what is P(not getting 1 or 2)?",
+      "a": "4/6 = 2/3; or equivalently, 1 - 1/3 = 2/3 (using complement)."
+    },
+    {
+      "q": "For two coins, what is P(at least one head)?",
+      "a": "3/4; favorable outcomes {HH, HT, TH}, or 1 - P(no head) = 1 - 1/4 = 3/4."
+    },
+    {
+      "q": "For a die, what is P(prime number)?",
+      "a": "1/2; prime numbers on a die are {2, 3, 5}, so 3 outcomes out of 6."
+    },
+    {
+      "q": "What must be verified before applying the theoretical probability formula?",
+      "a": "That all outcomes are equally likely; if not, the formula cannot be used directly."
+    },
+    {
+      "q": "How does sample space size affect probability calculations?",
+      "a": "Larger sample spaces with equal probability distribute probability more thinly; each outcome has lower individual probability."
+    },
+    {
+      "q": "For a compound event with multiple favorable outcomes, how is probability calculated?",
+      "a": "P(E) = (Number of favorable outcomes) / (Total outcomes), regardless of whether the event is simple or compound."
+    }
+  ]
+}

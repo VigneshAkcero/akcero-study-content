@@ -1,0 +1,206 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Materials Around Us",
+    "chapter_number": 6
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is the general name given to any substance used to create an object?",
+      "answer": "Material.",
+      "solution": "Materials (like wood, plastic, glass, and metal) are the basic substances used to manufacture objects."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Name two materials used to make a pen.",
+      "answer": "Plastic and metal.",
+      "solution": "A pen is often made of a combination of materials, such as a plastic body and a metal nib or clip."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What name is given to baked clay, as used in Harappan pottery?",
+      "answer": "Terracotta.",
+      "solution": "Baked clay, which was used for making various items during the Harappan Civilisation (2600-1900 BCE), is called terracotta."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Give one example each of a lustrous and a non-lustrous material.",
+      "answer": "Lustrous: Gold; Non-lustrous: Wood.",
+      "solution": "Gold has a shiny surface (lustre), while wood looks dull (non-lustrous)."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "How do you test if a material is hard or soft in the classroom?",
+      "answer": "By trying to scratch or compress it.",
+      "solution": "Materials that are difficult to scratch (like iron) are hard; those that are easily compressed (like a sponge) are soft."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "Why is we cannot use a tumbler made of cloth for storing water?",
+      "answer": "Because cloth cannot hold water; it is not water-tight.",
+      "solution": "The choice of material for a tumbler depends on its property—it must be capable of holding water without leaking."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "Explain why some metals might start to look dull even though they are lustrous by nature.",
+      "answer": "Due to the effect of air and moisture on their surface.",
+      "solution": "Metals like iron or zinc can react with air and moisture (corrosion), making them look dull; freshly cut surfaces will still show lustre."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "Distinguish between transparent and translucent materials with examples.",
+      "answer": "Transparent: Clear visibility (Glass); Translucent: Hazy visibility (Frosted glass).",
+      "solution": "Transparent materials allow objects to be seen clearly; translucent ones allow only partial/hazy visibility."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "What happens to salt and sugar when stirred in water? What property does this show?",
+      "answer": "They disappear completely, showing they are soluble in water.",
+      "solution": "Salt and sugar dissolve fully in water; such materials are said to be 'soluble'."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Why is dissolved oxygen in water important for the environment?",
+      "answer": "It is essential for the survival of aquatic animals and plants.",
+      "solution": "Just like land animals breathe atmospheric air, aquatic life depends on oxygen gas that is dissolved in water."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Identify the two fundamental properties that all matter possesses.",
+      "answer": "Mass and Volume.",
+      "solution": "Anything that has mass (quantity of matter) and occupies space (volume) is defined as matter."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Hard",
+      "question": "According to SI rules, how should you write '7 kilograms' using symbols?",
+      "answer": "7 kg.",
+      "solution": "Rules state: lowercase 'kg', no full stop (unless at sentence end), and a space between '7' and 'kg'."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "Where were the earliest pottery finds in the Indian subcontinent discovered, and how old are they?",
+      "answer": "Ganga plains (Lahuradewa) and Baluchistan (Mehrgarh); 7,000 to 8,000 years old.",
+      "solution": "Historical evidence shows sophisticated clay use in the Ganga plains and Baluchistan dating back 8 millennia."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "Explain the significance of 'slips' in Harappan pottery production.",
+      "answer": "They were decorative or protective coats of multiple colors applied to pottery.",
+      "solution": "Techniques from 4000 BCE onwards included applying slips (liquid clay coatings) to enhance durability and beauty."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "How does Ayurveda categorize physical matter? Mention the number of properties and their arrangement.",
+      "answer": "Using 20 properties (gunas) arranged in 10 pairs of opposites.",
+      "solution": "Ayurveda describes all matter, food, and environments using opposite attributes like guru (heavy) vs laghu (light)."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Assign the correct transparency label: (i) Cardboard (ii) Air (iii) Butter paper.",
+      "answer": "(i) Opaque (ii) Transparent (iii) Translucent.",
+      "solution": "Cardboard blocks all light (opaque), air allows clear visibility (transparent), and butter paper allows hazy visibility (translucent)."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "What is the abbreviated SI unit for volume, and what is the rule for the number '3' in it?",
+      "answer": "m³; 3 is written as a superscript to denote cubic metre.",
+      "solution": "The cubic metre is abbreviated as m³ using a superscript. There should be a space between the number and 'm³'."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "State whether sand and sawdust are soluble in water. Justify based on Activity 6.7.",
+      "answer": "They are insoluble because they do not disappear even after long stirring.",
+      "solution": "Activity 6.7 shows that sand and sawdust settle or float and remain visible, categorized as insoluble materials."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "A student poured 500 mL and 200 mL of water into two identical tumblers. Compare the volume and space occupied.",
+      "answer": "The 500 mL water has more volume and occupies more space than the 200 mL water.",
+      "solution": "Volume literally means the space occupied by matter; higher mL values indicate more occupied space in a given container capacity."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Easy",
+      "question": "Identify the 'companion' properties often found in medals and jewellery.",
+      "answer": "Lustre and Hardness.",
+      "solution": "Metals used for medals and jewellery are usually both shiny (lustrous) and durable (hard)."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "List three Ayurvedic properties (gunas) that could describe a stone versus a sponge.",
+      "answer": "Stone: Guru (heavy), Kathina (hard), Sthira (stable); Sponge: Laghu (light), Mridu (soft), Drava (liquid absorption).",
+      "solution": "The 20 gunas are pairs of opposites used to describe physical characteristics of all matter."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "Why do storekeepers usually keep biscuits and sweets in transparent containers?",
+      "answer": "To allow buyers to see and identify them easily without opening the container.",
+      "solution": "Transparency is a property utilized for convenience in shops and kitchens so contents are visible clearly."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Easy",
+      "question": "What is the standard abbreviation for litre and millilitre?",
+      "answer": "L and mL.",
+      "solution": "Rules specify capital 'L' for litre. No space exists between 'm' and 'L' in 'mL'."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "If you are provided with wheat flour and mustard oil, which one will mix completely in water?",
+      "answer": "Neither.",
+      "solution": "Wheat flour forms a slurry (insoluble) and mustard oil forms a separate layer (insoluble liquid)."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Explain how relative hardness works using rubber, sponge, and iron as examples from the text.",
+      "answer": "Rubber is harder than sponge but softer than iron.",
+      "solution": "Hardness is a relative property; a material's classification depends on what it is compared to."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Easy",
+      "question": "Fill in the blank: $1 \\mathrm { m } ^ { 3 } = $ _ L.",
+      "answer": "1000.",
+      "solution": "As per the 'Do you know?' section, one cubic metre is equal to one thousand litres."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Medium",
+      "question": "How can you prepare ORS at home if ready-made packets are not available?",
+      "answer": "Mix 6 teaspoons of sugar and half a teaspoon of salt in 1 litre of boiled and cooled water.",
+      "solution": "Home-made Oral Rehydration Solution involves specific ratios of sugar and salt dissolved in safe water."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "True or False: An apple is considered matter because it occupies mass but no space.",
+      "answer": "False.",
+      "solution": "An apple is matter because it occupies BOTH space (volume) and has mass; missing either would disqualify it."
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Triangles",
+    "chapter_number": 6
+  },
+  "notes": [
+    {
+      "section_title": "6.1 Introduction",
+      "topics": [
+        {
+          "topic_name": "Similar Figures and Applications",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Two figures having the same shape but not necessarily the same size are called similar figures. Similarity is fundamental in mathematics and practical applications. For example, photographs of different sizes of the same scene are similar; maps are similar to the actual regions they represent; and scale models are similar to the actual objects they represent."
+            },
+            {
+              "type": "note",
+              "title": "Why Study Similarity of Triangles?",
+              "text": "Triangle similarity has many real-world applications: finding heights of buildings using shadows, measuring distances to distant objects, enlarging or reducing designs, and understanding proportional relationships in engineering and architecture. Indirect measurement techniques rely on similar triangles."
+            },
+            {
+              "type": "example",
+              "title": "Mount Everest and Moon Distance",
+              "description": "Heights of mountains (like Mount Everest) and distances to distant objects (like the moon) have been measured using the principle of similarity of triangles. These measurements are based on indirect methods that compare similar triangles formed by the object, its shadow, and the line of sight."
+            },
+            {
+              "type": "paragraph",
+              "text": "All congruent figures are similar, but all similar figures are not necessarily congruent. Two figures are congruent if they have the same shape and the same size. Two figures are similar if they have the same shape but not necessarily the same size."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.2 Similar Figures",
+      "topics": [
+        {
+          "topic_name": "Defining Similar Figures and Similarity of Polygons",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Two polygons of the same number of sides are similar if: (i) their corresponding angles are equal, and (ii) their corresponding sides are in the same ratio (proportion). The constant ratio of corresponding sides is called the scale factor or the Representative Fraction."
+            },
+            {
+              "type": "note",
+              "title": "Key Definition: Similar Polygons",
+              "text": "Two polygons are similar if: 1) All corresponding angles are equal, and 2) All corresponding sides are proportional (in the same ratio). This means the polygons have the same shape but differ in size. The scale factor determines how much one figure is enlarged or reduced compared to the other."
+            },
+            {
+              "type": "example",
+              "title": "Photographs of Different Sizes",
+              "description": "When a photograph is enlarged or reduced, the new photograph is similar to the original. If the original is 3 × 5 inches and is enlarged to 6 × 10 inches, the scale factor is 2. Every linear dimension (length, width, height) of the enlarged photo is 2 times that of the original. Angles remain unchanged."
+            },
+            {
+              "type": "example",
+              "title": "Shadow Activity (Activity 1 from Chapter)",
+              "description": "When a lighted bulb casts a shadow of a cardboard polygon on a table below it, the shadow is an enlargement (magnification) of the original polygon. The quadrilateral shadow A'B'C'D' is similar to the original ABCD because: (i) Corresponding angles are equal (light propagates in straight lines), and (ii) Corresponding sides are in the same ratio. The ratio depends on the distance from the bulb to the polygon and the polygon to the table."
+            },
+            {
+              "type": "paragraph",
+              "text": "For two squares or two equilateral triangles, all squares are similar to each other and all equilateral triangles are similar to each other. However, a square and a rectangle with the same dimensions are not similar (unequal angles). A square and a rhombus with equal sides are not similar (unequal angles)."
+            },
+            {
+              "type": "note",
+              "title": "Important Observation",
+              "text": "Neither condition alone is sufficient for similarity: equal corresponding angles are not enough if sides are not proportional, and proportional sides are not enough if corresponding angles are not equal. Both conditions must be satisfied simultaneously."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.3 Similarity of Triangles",
+      "topics": [
+        {
+          "topic_name": "Conditions for Similarity of Triangles",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Since a triangle is a polygon with three sides, the same conditions apply for triangle similarity: two triangles are similar if their corresponding angles are equal and their corresponding sides are in the same ratio. However, for triangles, we can establish simpler criteria (AAA, AA, SSS, SAS) that are sufficient for similarity without checking all six conditions."
+            },
+            {
+              "type": "note",
+              "title": "Thales' Theorem (Basic Proportionality Theorem)",
+              "text": "If a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, then the other two sides are divided in the same ratio. Conversely, if a line divides two sides of a triangle in the same ratio, then the line is parallel to the third side. These theorems are fundamental to understanding triangle similarity."
+            }
+          ]
+        },
+        {
+          "topic_name": "Criteria for Similarity of Triangles",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "There are several criteria for triangle similarity that are easier to verify than the general polygon similarity definition. These criteria allow us to determine similarity by checking only a few conditions rather than all six (three angles and three side ratios)."
+            },
+            {
+              "type": "list",
+              "title": "Similarity Criteria for Triangles",
+              "items": [
+                "AAA (Angle-Angle-Angle) Criterion: If in two triangles, corresponding angles are equal, then the triangles are similar.",
+                "AA (Angle-Angle) Criterion: If two angles of one triangle are respectively equal to two angles of another triangle, then the triangles are similar. (The third angle is automatically equal by the angle sum property.)",
+                "SSS (Side-Side-Side) Criterion: If the sides of one triangle are proportional to the sides of another triangle, then the triangles are similar.",
+                "SAS (Side-Angle-Side) Criterion: If one angle of a triangle is equal to one angle of another triangle and the sides including these angles are proportional, then the triangles are similar."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example 1: AA Criterion - Parallel Lines and Similar Triangles",
+              "description": "Given PQ ∥ RS (parallel lines), show that ΔPOQ ~ ΔSOR. Since PQ ∥ RS, alternate angles are equal: ∠OPQ = ∠OSR and ∠OQP = ∠ORS. Also, ∠POQ = ∠SOR (vertically opposite angles). By AA criterion, ΔPOQ ~ ΔSOR."
+            },
+            {
+              "type": "example",
+              "title": "Example 2: SSS Criterion - Proportional Sides",
+              "description": "Given AB = 4 cm, BC = 5 cm, CA = 6 cm, and RQ = 6 cm, QP = 7.5 cm, PR = 9 cm. Check if ΔABC ~ ΔRQP. Ratios: AB/RQ = 4/6 = 2/3, BC/QP = 5/7.5 = 2/3, CA/PR = 6/9 = 2/3. Since all ratios are equal, the sides are proportional. By SSS criterion, ΔABC ~ ΔRQP."
+            },
+            {
+              "type": "example",
+              "title": "Example 3: Finding Unknown Sides Using Similarity",
+              "description": "If ΔABC ~ ΔDEF with ∠A = ∠D, ∠B = ∠E, ∠C = ∠F, and we know AB = 3 cm, AC = 4 cm, BC = 5 cm, DE = 6 cm, find EF and DF. The ratio of corresponding sides is DE/AB = 6/3 = 2. Therefore, EF = BC × 2 = 5 × 2 = 10 cm, and DF = AC × 2 = 4 × 2 = 8 cm."
+            }
+          ]
+        },
+        {
+          "topic_name": "Properties of Similar Triangles",
+          "content": [
+            {
+              "type": "list",
+              "title": "Important Properties",
+              "items": [
+                "If two triangles are similar, their corresponding sides are proportional.",
+                "If two triangles are similar, their corresponding angles are equal.",
+                "The ratio of corresponding sides (scale factor) determines all linear measurements: if the scale factor is k, then any linear dimension (side, altitude, median, radius of circumcircle) in the second triangle is k times that in the first.",
+                "The ratio of areas of similar triangles is the square of the scale factor. If the scale factor is k, the ratio of areas is k².",
+                "The ratio of perimeters of similar triangles is equal to the scale factor."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example 4: Ratio of Areas",
+              "description": "Two similar triangles have corresponding sides in the ratio 2:3. If the area of the first triangle is 4 cm², find the area of the second triangle. The ratio of areas = (ratio of sides)² = (2/3)² = 4/9. If area of first triangle is 4, then area of second triangle = 4 × (3/2)² = 4 × 9/4 = 9 cm²."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.4 Criteria for Similarity of Triangles (Detailed)",
+      "topics": [
+        {
+          "topic_name": "Proof and Application of Similarity Criteria",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Each similarity criterion can be proven rigorously using geometric properties. These proofs establish why each criterion is sufficient to guarantee similarity without checking all conditions."
+            },
+            {
+              "type": "example",
+              "title": "Theorem 6.3: AAA Similarity",
+              "description": "If in two triangles, corresponding angles are equal, then their corresponding sides are in the same ratio and hence the triangles are similar. Proof: Given ∠A = ∠D, ∠B = ∠E, ∠C = ∠F in triangles ABC and DEF. Construct point P on DE such that DP = AB. Construct point Q on DF such that DQ = AC. Then by SAS congruency, ΔDPQ ≅ ΔABC. Since ∠B = ∠P and PQ ∥ EF (corresponding angles equal), by the basic proportionality theorem, DP/PE = DQ/QF. This implies AB/DE = AC/DF, and similarly, we can show BC/EF = AB/DE. Therefore, corresponding sides are proportional."
+            },
+            {
+              "type": "example",
+              "title": "Theorem 6.4: SSS Similarity",
+              "description": "If sides of one triangle are proportional to sides of another, then the triangles are similar. This can be proven by constructing a triangle with the same angles as the second triangle and showing it is congruent to the first by SSS congruency, then using angle equality to prove similarity."
+            },
+            {
+              "type": "example",
+              "title": "Theorem 6.5: SAS Similarity",
+              "description": "If one angle of a triangle is equal to one angle of another triangle and the sides including these angles are proportional, then the triangles are similar. This is proven similarly by constructing an auxiliary triangle with the same proportional sides and the equal included angle, showing congruency, and then proving the original triangles are similar."
+            }
+          ]
+        },
+        {
+          "topic_name": "Problem-Solving Using Similarity",
+          "content": [
+            {
+              "type": "example",
+              "title": "Example 5: Indirect Measurement - Finding Height Using Shadows",
+              "description": "A girl of height 90 cm walks away from a lamp post of height 3.6 m at a speed of 1.2 m/s. Find the length of her shadow after 4 seconds. In 4 seconds, she walks 4 × 1.2 = 4.8 m. Using similar triangles: if her shadow is x m long, then by the similarity of the large triangle (from lamp top to far end of shadow) and the small triangle (from girl's head to far end of her shadow), we have: (4.8 + x)/x = 3.6/0.9 = 4. Solving: 4.8 + x = 4x, so 3x = 4.8, thus x = 1.6 m. Her shadow is 1.6 m long."
+            },
+            {
+              "type": "example",
+              "title": "Example 6: Property of Medians in Similar Triangles",
+              "description": "If ΔABC ~ ΔPQR with the ratio of similarity k, and CM and RN are medians of ΔABC and ΔPQR respectively, then CM/RN = k. This shows that all corresponding linear measurements scale by the same factor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.5 Areas of Similar Triangles",
+      "topics": [
+        {
+          "topic_name": "Relationship Between Similarity and Area",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When two triangles are similar with a scale factor k (ratio of corresponding sides), their areas are related by a factor of k². This is because area is a two-dimensional measurement, whereas side lengths are one-dimensional."
+            },
+            {
+              "type": "list",
+              "title": "Key Results",
+              "items": [
+                "If ΔABC ~ ΔDEF with scale factor k (i.e., AB/DE = BC/EF = CA/FD = k), then Area(ΔABC) / Area(ΔDEF) = k².",
+                "If the ratio of areas of two similar triangles is m²/n², then the ratio of their corresponding sides is m/n.",
+                "The ratio of perimeters of similar triangles equals the ratio of corresponding sides (the scale factor).",
+                "These relationships extend to other similar figures: the ratio of perimeters is the scale factor, and the ratio of areas is the square of the scale factor."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example 7: Comparing Areas",
+              "description": "Two similar triangles have corresponding sides in the ratio 3:5. If the area of the smaller triangle is 27 cm², find the area of the larger triangle. The ratio of areas = (3/5)² = 9/25. If Area(smaller)/Area(larger) = 9/25, then 27/Area(larger) = 9/25, so Area(larger) = 27 × 25/9 = 75 cm²."
+            },
+            {
+              "type": "example",
+              "title": "Example 8: Area and Median Relationship",
+              "description": "In two similar triangles ΔABC and ΔPQR with area ratio 16:25, the corresponding medians are CM and RN. The ratio CM:RN = √(16/25) = 4/5, which equals the scale factor. If CM = 8 cm, then RN = 8 × 5/4 = 10 cm. The sides are in ratio 4:5 and areas in ratio 16:25."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "6.6 Pythagoras Theorem",
+      "topics": [
+        {
+          "topic_name": "Statement and Proof Using Similarity",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Pythagoras theorem is one of the most important theorems in geometry. It states that in a right-angled triangle, the square of the hypotenuse (the side opposite the right angle) equals the sum of the squares of the other two sides."
+            },
+            {
+              "type": "note",
+              "title": "Pythagoras Theorem",
+              "text": "In a right-angled triangle with sides a, b and hypotenuse c, we have: c² = a² + b², or equivalently, (hypotenuse)² = (base)² + (height)²."
+            },
+            {
+              "type": "paragraph",
+              "text": "The theorem can be proven using similarity of triangles. When an altitude is drawn from the right angle to the hypotenuse, it divides the original triangle into two smaller triangles, both similar to the original and to each other. Using these similarities and the relationships between the segments, Pythagoras theorem can be derived."
+            },
+            {
+              "type": "example",
+              "title": "Example 9: Applying Pythagoras Theorem",
+              "description": "In a right-angled triangle, the two perpendicular sides (legs) are 3 cm and 4 cm. Find the length of the hypotenuse. Using c² = a² + b²: c² = 3² + 4² = 9 + 16 = 25, so c = 5 cm. This is the famous 3-4-5 right triangle."
+            },
+            {
+              "type": "example",
+              "title": "Example 10: Converse of Pythagoras Theorem",
+              "description": "If the sides of a triangle are 5 cm, 12 cm, and 13 cm, check if it is a right triangle. Check: 5² + 12² = 25 + 144 = 169 = 13². Since the sum of squares of two smaller sides equals the square of the largest side, by the converse of Pythagoras theorem, this is a right-angled triangle with the right angle opposite the side of length 13 cm."
+            },
+            {
+              "type": "note",
+              "title": "Converse of Pythagoras Theorem",
+              "text": "If the square of one side of a triangle equals the sum of the squares of the other two sides, then the triangle is right-angled, with the right angle being the angle opposite the side whose square equals the sum of the other two squares."
+            }
+          ]
+        },
+        {
+          "topic_name": "Applications of Pythagoras Theorem",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Pythagoras theorem has numerous practical applications in engineering, architecture, surveying, and physics. It can be used to find distances, determine whether structures are perpendicular, and solve problems involving right triangles."
+            },
+            {
+              "type": "example",
+              "title": "Example 11: Ladder Problem",
+              "description": "A ladder of length 13 m is placed against a wall. The base of the ladder is 5 m away from the wall. How high up the wall does the ladder reach? Using c² = a² + b² with c = 13 (ladder length), a = 5 (distance from wall), we find b: 13² = 5² + b², so 169 = 25 + b², thus b² = 144, and b = 12 m. The ladder reaches 12 m up the wall."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Similar Figures",
+      "definition": "Two figures having the same shape but not necessarily the same size. Corresponding angles are equal and corresponding sides are in the same ratio."
+    },
+    {
+      "term": "Congruent Figures",
+      "definition": "Two figures that have exactly the same shape and size. All corresponding angles and sides are equal. Congruent figures are special cases of similar figures with scale factor 1."
+    },
+    {
+      "term": "Scale Factor",
+      "definition": "The constant ratio of corresponding sides between two similar figures. Also called the Representative Fraction. If the scale factor is k, all linear dimensions of one figure are k times those of the other."
+    },
+    {
+      "term": "Correspondence",
+      "definition": "The pairing of vertices, angles, and sides between two similar figures. A correspondence is established when similar triangles are identified, e.g., ΔABC ~ ΔDEF means A corresponds to D, B to E, and C to F."
+    },
+    {
+      "term": "Similar Triangles",
+      "definition": "Two triangles are similar if their corresponding angles are equal and their corresponding sides are proportional. Denoted by the symbol ~."
+    },
+    {
+      "term": "Thales' Theorem (Basic Proportionality Theorem)",
+      "definition": "If a line is drawn parallel to one side of a triangle to intersect the other two sides, then it divides those sides in the same ratio. Conversely, if a line divides two sides in the same ratio, it is parallel to the third side."
+    },
+    {
+      "term": "AAA Criterion",
+      "definition": "Angle-Angle-Angle criterion for triangle similarity. If all three corresponding angles of two triangles are equal, the triangles are similar."
+    },
+    {
+      "term": "AA Criterion",
+      "definition": "Angle-Angle criterion for triangle similarity. If two corresponding angles of two triangles are equal, the triangles are similar (the third angle is automatically equal)."
+    },
+    {
+      "term": "SSS Criterion",
+      "definition": "Side-Side-Side criterion for triangle similarity. If the sides of one triangle are proportional to the sides of another, the triangles are similar."
+    },
+    {
+      "term": "SAS Criterion",
+      "definition": "Side-Angle-Side criterion for triangle similarity. If one angle of a triangle equals one angle of another and the sides including these angles are proportional, the triangles are similar."
+    },
+    {
+      "term": "Proportional Sides",
+      "definition": "Sides of two figures are proportional if the ratios of corresponding sides are equal. For similar triangles, all corresponding sides are proportional."
+    },
+    {
+      "term": "Pythagoras Theorem",
+      "definition": "In a right-angled triangle, the square of the hypotenuse equals the sum of the squares of the other two sides: c² = a² + b²."
+    },
+    {
+      "term": "Hypotenuse",
+      "definition": "The longest side of a right-angled triangle, opposite the right angle. In a right triangle with sides a and b and hypotenuse c, we have c² = a² + b²."
+    },
+    {
+      "term": "Right-Angled Triangle",
+      "definition": "A triangle with one angle equal to 90 degrees (a right angle). The side opposite the right angle is the hypotenuse."
+    },
+    {
+      "term": "Converse of Pythagoras Theorem",
+      "definition": "If the square of one side of a triangle equals the sum of the squares of the other two sides, the triangle is right-angled."
+    },
+    {
+      "term": "Altitude of a Triangle",
+      "definition": "A perpendicular line segment from a vertex of a triangle to the opposite side (or the line containing it). Every triangle has three altitudes."
+    },
+    {
+      "term": "Median of a Triangle",
+      "definition": "A line segment from a vertex of a triangle to the midpoint of the opposite side. Every triangle has three medians."
+    },
+    {
+      "term": "Corresponding Parts",
+      "definition": "In similar figures, the angles and sides that match according to the correspondence established between the figures. Corresponding angles are equal and corresponding sides are proportional."
+    },
+    {
+      "term": "Polygon",
+      "definition": "A closed figure formed by a finite number of line segments. A triangle is a polygon with 3 sides, a quadrilateral has 4 sides, and so on."
+    },
+    {
+      "term": "Equiangular Triangles",
+      "definition": "Two triangles with all corresponding angles equal. Equiangular triangles are always similar."
+    },
+    {
+      "term": "Linear Dimensions",
+      "definition": "One-dimensional measurements like lengths of sides, altitudes, medians, and radii. In similar figures, linear dimensions scale by the scale factor."
+    },
+    {
+      "term": "Area Ratio",
+      "definition": "For similar figures, the ratio of areas equals the square of the scale factor. If the scale factor is k, the area ratio is k²."
+    }
+  ],
+  "summary_points": [
+    "Two figures are similar if they have the same shape but not necessarily the same size. Corresponding angles must be equal and corresponding sides must be proportional.",
+    "For similar polygons: (i) Corresponding angles are equal, and (ii) Corresponding sides are in the same ratio (the scale factor).",
+    "Two triangles are similar if they satisfy at least one of the similarity criteria: AAA (all angles equal), AA (two angles equal), SSS (all sides proportional), or SAS (one angle equal and sides including it proportional).",
+    "Thales' Theorem states that a line parallel to one side of a triangle divides the other two sides proportionally. The converse is also true: if a line divides two sides proportionally, it is parallel to the third side.",
+    "If two triangles are similar with scale factor k, then the ratio of any linear dimension (side, altitude, median) is k, and the ratio of areas is k².",
+    "The ratio of perimeters of similar triangles equals the scale factor, while the ratio of areas equals the square of the scale factor.",
+    "Pythagoras Theorem: In a right-angled triangle, c² = a² + b², where c is the hypotenuse and a, b are the other two sides.",
+    "The Converse of Pythagoras Theorem: If c² = a² + b² in a triangle with sides a, b, c, then the triangle is right-angled with the right angle opposite side c.",
+    "All congruent figures are similar (with scale factor 1), but not all similar figures are congruent.",
+    "Similar triangles can be used for indirect measurements: finding heights, distances, and other dimensions that are difficult to measure directly."
+  ]
+}

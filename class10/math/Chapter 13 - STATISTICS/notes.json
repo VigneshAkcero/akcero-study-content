@@ -1,0 +1,369 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Statistics",
+    "chapter_number": 13
+  },
+  "notes": [
+    {
+      "section_title": "13.1 Introduction to Grouped Data Statistics",
+      "topics": [
+        {
+          "topic_name": "Why Grouped Data Analysis Matters",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In real-world situations, data sets are often so large that analyzing ungrouped data becomes impractical. For example, analyzing the heights of 1000 students individually would be cumbersome. Instead, data is organized into class intervals (groups), creating grouped data. This chapter extends the concepts of mean, median, and mode from ungrouped to grouped data."
+            },
+            {
+              "type": "paragraph",
+              "text": "Measures of central tendency (mean, median, and mode) help us understand the typical or central value in a dataset. For grouped data, we use specialized methods that account for the loss of information inherent in grouping while maintaining computational efficiency."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "13.2 Mean of Grouped Data",
+      "topics": [
+        {
+          "topic_name": "Concept of Class Mark",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When data is grouped into class intervals, we assume that all observations in a class are concentrated at the class mark (or class midpoint). The class mark is found by averaging the upper and lower limits of the class interval."
+            },
+            {
+              "type": "note",
+              "title": "Class Mark Formula",
+              "text": "Class mark (xi) = (Lower class limit + Upper class limit) / 2. For example, for the class interval 10-25, the class mark = (10 + 25) / 2 = 17.5."
+            }
+          ]
+        },
+        {
+          "topic_name": "Direct Method for Finding Mean",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The direct method calculates the mean by finding the sum of the products of class marks and their frequencies, then dividing by the total frequency. This method is straightforward but can involve large calculations."
+            },
+            {
+              "type": "note",
+              "title": "Direct Method Formula",
+              "text": "Mean (x̄) = Σ(fi × xi) / Σfi, where fi is the frequency of class i and xi is the class mark of class i."
+            },
+            {
+              "type": "example",
+              "id": "mean1",
+              "title": "Example 1: Direct Method",
+              "problem": "Find the mean of the frequency distribution: Class 10-20 (frequency 5), 20-30 (frequency 10), 30-40 (frequency 8), 40-50 (frequency 2).",
+              "solution": "Class marks: 15, 25, 35, 45. Σ(fi × xi) = 5(15) + 10(25) + 8(35) + 2(45) = 75 + 250 + 280 + 90 = 695. Σfi = 5 + 10 + 8 + 2 = 25. Mean = 695 / 25 = 27.8."
+            }
+          ]
+        },
+        {
+          "topic_name": "Assumed Mean Method",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When class marks are large numbers, the direct method involves tedious calculations. The assumed mean method simplifies this by choosing an arbitrary class mark as the assumed mean (a) and calculating deviations (di) from it."
+            },
+            {
+              "type": "note",
+              "title": "Assumed Mean Formula",
+              "text": "Mean (x̄) = a + Σ(fi × di) / Σfi, where a is the assumed mean and di = xi − a (deviation from assumed mean)."
+            },
+            {
+              "type": "paragraph",
+              "text": "The assumed mean is typically chosen as the class mark of a class near the middle of the distribution. This choice reduces the magnitude of deviations and simplifies calculations."
+            },
+            {
+              "type": "example",
+              "id": "mean2",
+              "title": "Example 2: Assumed Mean Method",
+              "problem": "Using the data from Example 1, find the mean using assumed mean method with a = 25.",
+              "solution": "Deviations: d1 = 15 - 25 = -10, d2 = 25 - 25 = 0, d3 = 35 - 25 = 10, d4 = 45 - 25 = 20. Σ(fi × di) = 5(-10) + 10(0) + 8(10) + 2(20) = -50 + 0 + 80 + 40 = 70. Mean = 25 + 70/25 = 25 + 2.8 = 27.8 (same as direct method)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Step Deviation Method",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The step deviation method further simplifies calculations when all classes have equal width. Instead of deviations, we use step deviations (ui), where ui = di / h, and h is the class width."
+            },
+            {
+              "type": "note",
+              "title": "Step Deviation Formula",
+              "text": "Mean (x̄) = a + [Σ(fi × ui) / Σfi] × h, where ui = (xi − a) / h and h is the class width."
+            },
+            {
+              "type": "paragraph",
+              "text": "This method is the most efficient for large datasets with uniform class widths, as it minimizes arithmetic operations and reduces computational errors."
+            },
+            {
+              "type": "example",
+              "id": "mean3",
+              "title": "Example 3: Step Deviation Method",
+              "problem": "Using Example 1 data with a = 25 and h = 10.",
+              "solution": "Step deviations: u1 = (15-25)/10 = -1, u2 = 0, u3 = 1, u4 = 2. Σ(fi × ui) = 5(-1) + 10(0) + 8(1) + 2(2) = -5 + 0 + 8 + 4 = 7. Mean = 25 + (7/25) × 10 = 25 + 2.8 = 27.8."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "13.3 Mode of Grouped Data",
+      "topics": [
+        {
+          "topic_name": "Understanding Modal Class",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The mode is the value that appears most frequently in a dataset. For grouped data, we first identify the modal class—the class interval with the highest frequency. The actual mode is then estimated using a formula that accounts for the frequencies of adjacent classes."
+            },
+            {
+              "type": "note",
+              "title": "Modal Class Definition",
+              "text": "The modal class is the class interval with the maximum frequency. In a frequency distribution, it represents where the data is concentrated."
+            }
+          ]
+        },
+        {
+          "topic_name": "Mode Formula for Grouped Data",
+          "content": [
+            {
+              "type": "note",
+              "title": "Mode Formula",
+              "text": "Mode = l + [(f1 − f0) / (2f1 − f0 − f2)] × h, where: l = lower limit of modal class, f1 = frequency of modal class, f0 = frequency of class preceding modal class, f2 = frequency of class succeeding modal class, h = class width."
+            },
+            {
+              "type": "paragraph",
+              "text": "This formula is based on the assumption that the mode lies within the modal class and accounts for the frequencies of adjacent classes to refine the estimate."
+            },
+            {
+              "type": "example",
+              "id": "mode1",
+              "title": "Example 4: Finding Mode",
+              "problem": "In a frequency distribution, the modal class is 20-30 with frequency 15. The preceding class has frequency 8, and the succeeding class has frequency 10. Find the mode.",
+              "solution": "l = 20, f1 = 15, f0 = 8, f2 = 10, h = 10. Mode = 20 + [(15 - 8) / (2(15) - 8 - 10)] × 10 = 20 + [7 / (30 - 18)] × 10 = 20 + (7/12) × 10 = 20 + 5.83 = 25.83."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "13.4 Median of Grouped Data",
+      "topics": [
+        {
+          "topic_name": "Cumulative Frequency Concept",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The cumulative frequency of a class is the sum of frequencies of all classes up to and including that class. Cumulative frequency helps locate the median and is essential for constructing ogives (cumulative frequency curves)."
+            },
+            {
+              "type": "note",
+              "title": "Cumulative Frequency",
+              "text": "CF(i) = f1 + f2 + ... + fi. It represents the running total of frequencies as we move through classes."
+            },
+            {
+              "type": "example",
+              "id": "cf1",
+              "title": "Example 5: Cumulative Frequency",
+              "problem": "Given frequencies: 5, 10, 8, 2. Find cumulative frequencies.",
+              "solution": "CF: 5, 5+10=15, 15+8=23, 23+2=25. Cumulative frequencies are 5, 15, 23, 25."
+            }
+          ]
+        },
+        {
+          "topic_name": "Finding the Median Class",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The median class is the class interval where the cumulative frequency first exceeds n/2 (where n is the total frequency). This class contains the median value."
+            },
+            {
+              "type": "note",
+              "title": "Median Class Identification",
+              "text": "The median class is where CF ≥ n/2 for the first time. The position of the median is n/2."
+            }
+          ]
+        },
+        {
+          "topic_name": "Median Formula for Grouped Data",
+          "content": [
+            {
+              "type": "note",
+              "title": "Median Formula",
+              "text": "Median = l + [(n/2 − CF) / f] × h, where: l = lower limit of median class, n = total frequency, CF = cumulative frequency of class before median class, f = frequency of median class, h = class width."
+            },
+            {
+              "type": "example",
+              "id": "median1",
+              "title": "Example 6: Finding Median",
+              "problem": "In a frequency distribution with total frequency 100, the median class is 30-40 with frequency 20. The cumulative frequency before this class is 40. Find the median.",
+              "solution": "n/2 = 50, l = 30, CF = 40, f = 20, h = 10. Median = 30 + [(50 - 40) / 20] × 10 = 30 + (10/20) × 10 = 30 + 5 = 35."
+            }
+          ]
+        },
+        {
+          "topic_name": "Relationship Between Mean, Median, and Mode",
+          "content": [
+            {
+              "type": "note",
+              "title": "Empirical Relationship",
+              "text": "There exists an empirical relationship between the three measures of central tendency: Mode = 3 × Median − 2 × Mean, or equivalently, Median = Mode + (1/3) × (Mean − Mode)."
+            },
+            {
+              "type": "paragraph",
+              "text": "This relationship holds approximately for most distributions and provides a useful check on calculations. The three measures are equal for a perfectly symmetrical distribution."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "13.5 Cumulative Frequency Curves (Ogives)",
+      "topics": [
+        {
+          "topic_name": "Understanding Ogives",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "An ogive is a smooth curve drawn by plotting cumulative frequencies against class boundaries. There are two types: less than ogive and greater than ogive. Ogives are useful for finding medians and percentiles graphically."
+            },
+            {
+              "type": "note",
+              "title": "Less Than Ogive",
+              "text": "Plot points (upper class limit, cumulative frequency). The curve rises from left to right and is used to find values below a certain point."
+            },
+            {
+              "type": "note",
+              "title": "Greater Than Ogive",
+              "text": "Plot points (lower class limit, cumulative frequency from the right). The curve falls from left to right and is used to find values above a certain point."
+            }
+          ]
+        },
+        {
+          "topic_name": "Reading the Median from Ogive",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The median can be found graphically from a less than ogive by locating n/2 on the cumulative frequency axis, drawing a horizontal line to meet the curve, then dropping a perpendicular to the x-axis. The value where the perpendicular meets the x-axis is the median."
+            },
+            {
+              "type": "example",
+              "id": "ogive1",
+              "title": "Example 7: Median from Ogive",
+              "problem": "An ogive shows that at the point (35, 50), we are at the median of a distribution with total frequency 100. Interpret this.",
+              "solution": "The cumulative frequency of 50 corresponds to 35 on the data axis. This means exactly half of the 100 observations have values ≤ 35. Therefore, the median is 35."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "13.6 Summary of Methods",
+      "topics": [
+        {
+          "topic_name": "Comparison of Mean Calculation Methods",
+          "content": [
+            {
+              "type": "table",
+              "headers": ["Method", "Formula", "When to Use", "Advantages"],
+              "rows": [
+                ["Direct Method", "x̄ = Σ(fi × xi) / Σfi", "Small class marks", "Simple and direct"],
+                ["Assumed Mean", "x̄ = a + Σ(fi × di) / Σfi", "Large class marks", "Reduces computation"],
+                ["Step Deviation", "x̄ = a + [Σ(fi × ui) / Σfi] × h", "Uniform class width", "Simplest calculations"]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Grouped Data",
+      "definition": "Data organized into class intervals with their corresponding frequencies."
+    },
+    {
+      "term": "Class Interval",
+      "definition": "A range of values used to group data; defined by lower and upper class limits."
+    },
+    {
+      "term": "Class Mark (Midpoint)",
+      "definition": "The average of the lower and upper class limits; represents all observations in the class."
+    },
+    {
+      "term": "Class Width (h)",
+      "definition": "The difference between the upper and lower limits of a class interval."
+    },
+    {
+      "term": "Frequency (f)",
+      "definition": "The number of observations falling in a particular class interval."
+    },
+    {
+      "term": "Cumulative Frequency (CF)",
+      "definition": "The sum of frequencies of a class and all classes preceding it."
+    },
+    {
+      "term": "Mean",
+      "definition": "The average value of all observations; calculated as Σ(fi × xi) / Σfi for grouped data."
+    },
+    {
+      "term": "Median",
+      "definition": "The middle value when data is arranged in order; for grouped data, found using the median formula."
+    },
+    {
+      "term": "Mode",
+      "definition": "The value that appears most frequently; for grouped data, the midpoint of the modal class is used as an approximation."
+    },
+    {
+      "term": "Modal Class",
+      "definition": "The class interval with the highest frequency."
+    },
+    {
+      "term": "Assumed Mean (a)",
+      "definition": "An arbitrary class mark chosen as a reference point to simplify calculations in the assumed mean method."
+    },
+    {
+      "term": "Deviation (di)",
+      "definition": "The difference between a class mark and the assumed mean: di = xi − a."
+    },
+    {
+      "term": "Step Deviation (ui)",
+      "definition": "The deviation divided by class width: ui = (xi − a) / h."
+    },
+    {
+      "term": "Ogive",
+      "definition": "A cumulative frequency curve used to visualize cumulative frequencies and find medians graphically."
+    },
+    {
+      "term": "Less Than Ogive",
+      "definition": "A curve where points (upper class limit, cumulative frequency) are plotted and connected."
+    },
+    {
+      "term": "Greater Than Ogive",
+      "definition": "A curve where points (lower class limit, cumulative frequency from right) are plotted and connected."
+    },
+    {
+      "term": "Median Class",
+      "definition": "The class interval where the cumulative frequency first exceeds or equals n/2."
+    },
+    {
+      "term": "Measures of Central Tendency",
+      "definition": "Values (mean, median, mode) that represent the typical or central value of a dataset."
+    }
+  ],
+  "summary_points": [
+    "Grouped data analysis extends the concepts of mean, median, and mode from ungrouped data. The mean for grouped data is calculated using three methods: (1) Direct Method: x̄ = Σ(fi × xi) / Σfi, (2) Assumed Mean Method: x̄ = a + Σ(fi × di) / Σfi, (3) Step Deviation Method: x̄ = a + [Σ(fi × ui) / Σfi] × h. The assumed mean method and step deviation method reduce computational complexity for large values.",
+    "The mode of grouped data is found using the formula: Mode = l + [(f1 − f0) / (2f1 − f0 − f2)] × h. The modal class is identified as the class with the highest frequency. The median for grouped data is calculated using: Median = l + [(n/2 − CF) / f] × h, where the median class is located by finding where cumulative frequency first exceeds n/2.",
+    "Cumulative frequency is the running total of frequencies up to each class. It is essential for finding medians and constructing ogives. An ogive is a cumulative frequency curve; the less than ogive plots (upper limit, CF) while the greater than ogive plots (lower limit, CF from right). Medians and other percentiles can be read graphically from ogives.",
+    "An empirical relationship exists among central tendencies: Mode = 3 × Median − 2 × Mean, or equivalently, Mode ≈ 3 Median − 2 Mean. This relationship holds approximately for most distributions and provides validation for calculations. For symmetrical distributions, all three measures are approximately equal.",
+    "When working with grouped data, ensure class intervals are continuous and of equal width (for step deviation method). The choice of assumed mean significantly affects ease of calculation but not the final result. Different methods are equivalent; choose based on the magnitude of class marks and uniformity of class widths for computational efficiency."
+  ]
+}

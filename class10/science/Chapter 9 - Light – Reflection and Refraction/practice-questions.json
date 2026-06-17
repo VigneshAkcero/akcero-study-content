@@ -1,0 +1,255 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Light – Reflection and Refraction",
+    "chapter_number": 9
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Do the laws of reflection apply specifically only to plane mirrors, or are they universal for all reflecting surfaces?",
+      "answer": "The laws of reflection are universal and applicable to all types of reflecting surfaces, including spherical (curved) surfaces.",
+      "solution": "Whether a reflecting surface is perfectly flat (plane mirror) or curved (spherical mirrors like concave and convex), the laws of reflection remain fundamentally the same. The angle of incidence always equals the angle of reflection, and the incident ray, reflected ray, and normal at the point of incidence always lie in the same plane."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Logically define the 'principal focus' of a concave mirror based on its interaction with parallel light rays.",
+      "answer": "The principal focus of a concave mirror is the specific point on the principal axis where all rays parallel to the axis actually meet after reflection.",
+      "solution": "When a beam of light consisting of rays parallel to the principal axis falls on a concave mirror, the curved surface reflects them inwards. These reflected rays are observed to intersect at a common, single point located precisely on the principal axis. This point of convergence is biologically and physically defined as the principal focus (F) of the concave mirror."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Medium",
+      "question": "Describe the mathematical relationship between the radius of curvature (R) and the focal length (f) for a small-aperture spherical mirror.",
+      "answer": "For spherical mirrors with small apertures, the radius of curvature is exactly twice the focal length (R = 2f).",
+      "solution": "In spherical mirrors, the principal focus (F) lies exactly midway between the pole (P) and the centre of curvature (C). Since the distance PC represents the radius of curvature (R) and the distance PF represents the focal length (f), it mathematically follows that the distance R is robustly equal to twice the distance f, expressed as R = 2f."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Medium",
+      "question": "Why does a small source of light cast a sharp shadow of an opaque object, and what does this observation imply about the propagation of light?",
+      "answer": "A tiny light source casts a sharp shadow because light travels in straight lines; this confirms the rectilinear propagation of light.",
+      "solution": "Shadows are formed because light cannot pass through opaque objects. If light traveled in curved paths, it would bend around the object and illuminate the area behind it. The fact that we observe a well-defined, sharp-edged shadow indicates that light rays travel from the source in straight lines, a phenomenon commonly called the straight-line or rectilinear propagation of light."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Medium",
+      "question": "Contrast the image formed by a plane mirror with that formed by a convex mirror for a distant object.",
+      "answer": "A plane mirror forms a same-sized virtual image, while a convex mirror forms a highly diminished, point-sized virtual image at its focus for distant objects.",
+      "solution": "A plane mirror always produces a virtual image exactly equal in size to the object. However, a convex mirror acts as a diverging mirror. When an object is at infinity (very distant), the rays parallel to the principal axis are reflected such that they appear to diverge from the focus. This results in a virtual, erect, but extremely tiny (point-sized) image at the focus behind the mirror."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Hard",
+      "question": "Under what specific condition does the straight-line treatment of light (ray optics) fail, and how is this phenomenon explained?",
+      "answer": "Ray optics fails when an opaque object in light's path becomes extremely small, causing light to bend around it (diffraction); this is explained by treating light as a wave.",
+      "solution": "Usually, light travels in straight lines. However, if the size of an obstacle or an aperture becomes comparable to the wavelength of light, light shows a tendency to bend around corners instead of traveling straight. This effect is known as diffraction. In such cases, the ray model of light (straight lines) is inadequate, and light must be modeled as a wave to explain the resulting patterns."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "You observe a virtual and erect image in a mirror. Can you immediately conclude it is a plane mirror? Why or why not?",
+      "answer": "No, because virtual and erect images can also be formed by concave mirrors (when the object is very close) and by convex mirrors (at all positions).",
+      "solution": "A virtual and erect image is not unique to plane mirrors. A concave mirror produces a virtual, erect, and enlarged image when the object is placed between the pole (P) and focus (F). A convex mirror always produces a virtual and erect image for any object position, though it is usually diminished. To identify the mirror, one must also observe the relative size of the image compared to the object."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Identify the mirror type that can provide an erect and enlarged image of an object.",
+      "answer": "A concave mirror can provide an erect and enlarged image when the object is placed very Close to it.",
+      "solution": "According to the rules of image formation, only a concave mirror has the capability to produce a virtual image that is larger than the object. This specific case occurs exclusively when the object is positioned between the principal focus (F) and the pole (P) of the mirror."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "A ray of light is incident through the centre of curvature (C) of a concave mirror. Trace its path after reflection and explain the reasoning.",
+      "answer": "The ray reflects back along the same path because it strikes the mirror surface normally (along the radius).",
+      "solution": "Any line passing through the centre of curvature (C) to the surface of a spherical mirror is a radius of the sphere. Mathematically, a radius is always perpendicular (normal) to the spherical surface at that point. Since the angle of incidence for a ray along the normal is 0 degrees, the laws of reflection dictate the angle of reflection must also be 0 degrees. Thus, the light ray retraces its original path."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Predict the nature and position of the image if an object is placed exactly at the centre of curvature (C) of a concave mirror.",
+      "answer": "The image will be formed at the centre of curvature (C); it will be real, inverted, and exactly the same size as the object.",
+      "solution": "When an object is placed at C, light rays parallel to the principal axis pass through F after reflection, and rays passing through F emerge parallel. These rays intersect at C. Consequently, a real and inverted image is formed exactly at the same location as the object, maintaining a 1:1 size ratio."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Why are concave mirrors used in the design of solar furnaces?",
+      "answer": "Concave mirrors are used to catch parallel sunlight and concentrate it at a single point (focus) to generate intense heat.",
+      "solution": "Solar furnaces require extremely high temperatures. A large concave mirror can capture a vast amount of sunlight (parallel rays) and converge them all towards its principal focus. This concentration of light energy at a single small area creates the intense thermal energy needed for high-temperature applications."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "A convex mirror reflects rays parallel to the principal axis. Describe how the 'principal focus' is identified for this mirror compared to a concave mirror.",
+      "answer": "For a convex mirror, the focus is the point behind the mirror from which parallel rays *appear* to diverge, whereas for concave mirrors, rays *actually* meet at the focus in front.",
+      "solution": "A concave mirror is a converging mirror; its focus is 'real' because light rays physically intersect there. A convex mirror is a diverging mirror; when parallel rays strike it, they spread outwards. If we trace these reflected rays backwards behind the mirror, they seem to originate from a single point on the principal axis. This 'virtual' point of divergence is the principal focus of the convex mirror."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "Analyze why convex mirrors are scientifically preferred as rear-view mirrors in vehicles over plane mirrors.",
+      "answer": "Convex mirrors are preferred because they always provide an erect image and offer a much wider field of view due to their outward curvature.",
+      "solution": "While a plane mirror gives an erect image, its field of view is limited by its flat surface. A convex mirror, being curved outwards, captures light from a much larger area behind the vehicle. Furthermore, it always produces an erect (though diminished) image for any distance of the traffic behind. This combination of an upright image and a 'wider view' allows the driver to see a much larger section of the road and traffic, facilitating safer driving."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "Using the rules of ray diagrams, explain why an image is not obtained on a screen when an object is placed at the principal focus (F) of a concave mirror.",
+      "answer": "The rays emerge parallel to each other after reflection from the focus and theoretically meet only at infinity, meaning no sharp image is formed on a finite screen.",
+      "solution": "According to the rules of reflection, a ray of light passing through the principal focus (F) of a concave mirror emerges parallel to the principal axis after reflection. Similarly, another ray passing through the pole (P) reflects obliquely. These two reflected rays become perfectly parallel to each other. Since parallel rays do not intersect at any finite distance, a real image cannot be caught on a screen placed at a standard distance; the image is said to be formed at infinity."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "According to the New Cartesian Sign Convention, identify the sign (+ or -) of the focal length for both a concave mirror and a convex mirror.",
+      "answer": "The focal length is negative (-) for a concave mirror and positive (+) for a convex mirror.",
+      "solution": "In the New Cartesian Sign Convention, the pole (P) is the origin. For a concave mirror, the focus (F) lies to the left of the pole (in front of the mirror), making the distance PF negative. For a convex mirror, the focus (F) lies to the right of the pole (behind the mirror), making the distance PF positive."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "If the magnification (m) of an image is reported as -2.5, deduce two important characteristics of the image.",
+      "answer": "The negative sign indicates the image is real and inverted; the value 2.5 means the image is enlarged (2.5 times the object size).",
+      "solution": "In magnification nomenclature, the sign represents the nature: a negative sign exclusively denotes a real and inverted image. The absolute numerical value represents the scale: since 2.5 is greater than 1, the image is larger than the object, specifically magnified by a factor of 2.5."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Identify the signs for object distance (u) and image distance (v) for a virtual image formed by a concave mirror.",
+      "answer": "Object distance (u) is negative; Image distance (v) is positive.",
+      "solution": "According to the sign convention, the object is always placed to the left of the mirror, so 'u' is always negative. A virtual image in a concave mirror is formed behind the mirror (to the right of the pole), so 'v' is measured in the positive X-direction and is therefore positive."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "A bus is located at 5.00 m from a convex mirror with a radius of curvature of 3.00 m. Calculate the position of the image.",
+      "answer": "The image is formed at +1.15 m from the pole (behind the mirror).",
+      "solution": "Given: u = -5.00 m, R = +3.00 m. Focal length f = R/2 = +1.50 m. Using Mirror Formula: 1/v + 1/u = 1/f => 1/v = 1/f - 1/u = 1/1.50 - 1/(-5.00) = 1/1.50 + 1/5.00 = (5.00 + 1.50) / 7.50 = 6.50 / 7.50. Thus, v = 7.50 / 6.50 ≈ +1.15 m. The positive sign confirms it is behind the mirror."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "An object 4 cm high is placed 25 cm in front of a concave mirror of focal length 15 cm. Determine the size of the image produced.",
+      "answer": "The image size is -6.0 cm (inverted and enlarged).",
+      "solution": "Given: h = 4 cm, u = -25 cm, f = -15 cm. From Mirror Formula: 1/v = 1/f - 1/u = 1/(-15) - 1/(-25) = -1/15 + 1/25 = (-5 + 3)/75 = -2/75. So, v = -37.5 cm. Now, Magnification m = h'/h = -v/u. Thus, h' = h * (-v/u) = 4 * [-(-37.5) / (-25)] = 4 * [37.5 / -25] = 4 * (-1.5) = -6.0 cm. The negative sign means it is inverted."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Easy",
+      "question": "Explain why a coin placed at the bottom of a bucket filled with water appears raised when viewed from above.",
+      "answer": "The coin appears raised due to the refraction of light as it travels from the denser water into the rarer air.",
+      "solution": "When light rays originating from the coin travel from water (optically denser) to air (optically rarer), they speed up and bend away from the normal at the surface. When these diverging rays reach our eyes, they appear to come from a point slightly above the actual position of the coin. This displacement is a direct manifestation of the refraction of light."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "A ray of light enters obliquely from air into water. Explain whether it will bend towards or away from the normal and why.",
+      "answer": "It will bend towards the normal because light slows down when entering an optically denser medium like water from a rarer medium like air.",
+      "solution": "Refraction is caused by the change in the speed of light. Water is optically denser than air (it has a higher refractive index). When light travels from a rarer medium (air) to a denser medium (water), its velocity decreases. This reduction in speed causes the light ray to deviate and bend 'towards' the normal at the interface."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "Describe why the emergent ray from a rectangular glass slab is parallel to the incident ray but slightly displaced.",
+      "answer": "The emergent ray is parallel because the bending at the first air-glass surface is exactly equal and opposite to the bending at the second glass-air surface.",
+      "solution": "When light enters a rectangular glass slab, it bends towards the normal. When it exits the opposite parallel face, it bends away from the normal by the same magnitude. Because the two refracting surfaces are parallel, the total net deviation is zero. However, because the light path was shifted during the transit through the glass, it emerges parallel to, but laterally shifted from, the original incident direction."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "State Snell's Law and explain the physical significance of the constant obtained from it.",
+      "answer": "Snell's Law states that sin(i)/sin(r) is constant for a given pair of media; this constant is the refractive index of the second medium relative to the first.",
+      "solution": "Snell's Law mathematically relates the angles of incidence (i) and refraction (r). The ratio sin(i) / sin(r) = constant. This constant represents the refractive index, which indicates by what factor the speed of light changes as it crosses the boundary. It characterizes the optical 'power' of the second medium to refract light relative to the first."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "The refractive index of Diamond is 2.42. What does this statement convey regarding the speed of light in diamond?",
+      "answer": "It conveys that the speed of light in diamond is 2.42 times slower than the speed of light in vacuum (or air).",
+      "solution": "Refractive index (n) is the ratio of the speed of light in vacuum (c) to its speed in the medium (v). For diamond, n = c/v = 2.42. This means that v = c / 2.42. Essentially, light travels at only about 1/2.42 times its vacuum speed inside a diamond, signifying it is a highly optically dense medium."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Carefully distinguish between 'mass density' and 'optical density' using the example of kerosene and water.",
+      "answer": "Optical density refers to the ability to refract light, whereas mass density is mass per unit volume; kerosene is optically denser than water despite having a lower mass density.",
+      "solution": "A medium with a higher refractive index is 'optically denser'. Kerosene has a higher refractive index (1.44) than water (1.33), so it bends light more significantly (optically denser). However, kerosene floats on water because its mass density is lower. This demonstrates that a medium's ability to refract light is unrelated to its physical weight or mass distribution."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Medium",
+      "question": "Why is a convex lens called a 'converging lens' while a concave lens is called a 'diverging lens'?",
+      "answer": "A convex lens bends parallel rays inward to meet at a point, while a concave lens bends parallel rays outward so they spread apart.",
+      "solution": "The shape of a convex lens (thicker in the middle) causes light rays parallel to the principal axis to refract towards the axis and meet at the principal focus. Conversely, the shape of a concave lens (thinner in the middle) causes parallel light rays to refract away from the principal axis. Thus, one 'converges' light and the other 'diverges' it."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Medium",
+      "question": "Trace the path of a ray of light passing exactly through the 'optical centre' (O) of a spherical lens.",
+      "answer": "The ray passes through the optical centre without suffering any deviation or bending.",
+      "solution": "The optical centre is the central point of a lens. A fundamental rule for ray diagrams in both convex and concave lenses is that any light ray passing directly through the optical centre (O) emerges from the lens along the same straight-line path, without any change in direction."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Medium",
+      "question": "Predict the nature and relative size of the image formed by a convex lens when the object is placed between the focus (F1) and the optical centre (O).",
+      "answer": "The image will be virtual, erect, and enlarged, formed on the same side of the lens as the object.",
+      "solution": "Usually, convex lenses form real and inverted images. However, when the object is very close to the lens (within its focal length), the refracted rays on the other side diverge. When traced backwards, they appear to meet behind the object on the same side. This creates a virtual, upright, and magnified image, which is the principle used in a simple magnifying glass."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Explain why a concave lens always produces a virtual, erect, and diminished image regardless of the object's position.",
+      "answer": "Because a concave lens is a diverging lens, parallel rays always spread out and can only appear to meet at a virtual focus between the lens and infinity.",
+      "solution": "In a concave lens, rays entering parallel to the principal axis are refracted outwards, appearing to come from the focus (F1). Rays through the optical centre pass straight. These two types of rays (divergent and straight) can only intersect on the same side of the lens when traced backwards. Since the intersection always happens between the focus and the optical centre, the resulting image is inevitably virtual, erect, and smaller than the object."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Analyze the impact of focal length on the 'Power' of a lens. Compare the converging ability of a convex lens of short focal length with one of long focal length.",
+      "answer": "Power is the reciprocal of focal length; a lens with a shorter focal length has a higher power and therefore bends light rays more sharply.",
+      "solution": "The power of a lens (P = 1/f) quantifies its ability to deviate light. A convex lens with a short focal length converges parallel rays very close to its optical centre, meaning it bends them through a large angle. A lens with a long focal length bends rays much more gradually. Therefore, a shorter focal length translates to a 'stronger' or more powerful lens."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Medium",
+      "question": "Define the SI unit 'Dioptre' and explain its relationship with the metre.",
+      "answer": "1 Dioptre (D) is the power of a lens whose focal length is exactly 1 metre (1 D = 1 m⁻¹).",
+      "solution": "The SI unit of power, the dioptre, is derived from the reciprocal of the focal length. For the power to be exactly 1 D, the focal length must be 1 metre. If a lens has a focal length of 0.5 metres, its power would be 1/0.5 = 2 Dioptres. It is essential that focal length is in metres to calculate power in Dioptres."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Medium",
+      "question": "If an optician prescribes a corrective lens of +2.0 D, identify the type of lens and its focal length.",
+      "answer": "The lens is convex (since power is positive); its focal length is +0.50 m.",
+      "solution": "A positive power (+) signifies a converging or convex lens. Given P = +2.0 D, and since P = 1/f, then f = 1/P = 1/2.0 = +0.50 m (or 50 cm). This illustrates how opticians use power values to conveniently describe lens requirements."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Medium",
+      "question": "How do you calculate the net power of a combination of several thin lenses placed in contact?",
+      "answer": "The net power (P) is the simple algebraic sum of the individual powers: P = P1 + P2 + P3 + ...",
+      "solution": "When multiple lenses are placed touching each other, their combined effect on light is additive. You simply add their powers, respecting the signs (+ for convex, - for concave). For instance, combining a +2.0 D lens with a +0.25 D lens results in a system with a net power of +2.25 D."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "A concave lens has a focal length of 15 cm. If an image is formed at 10 cm from the lens, calculate the distance at which the object must be placed.",
+      "answer": "The object is placed at -30 cm from the lens.",
+      "solution": "Given for concave lens: f = -15 cm, v = -10 cm (images in concave lenses are always on the same side). Using Lens Formula: 1/v - 1/u = 1/f => 1/u = 1/v - 1/f = 1/(-10) - 1/(-15) = -1/10 + 1/15 = (-3 + 2)/30 = -1/30. Thus, u = -30 cm. The negative sign confirms the object is placed in front of the lens."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "Calculate the power of a combination of a convex lens of focal length 50 cm and a concave lens of focal length 40 cm.",
+      "answer": "The net power is -0.5 D (effectively a concave lens).",
+      "solution": "First, convert focal lengths to metres: f1 = 0.5 m, f2 = -0.4 m. Calculate individual powers: P1 = 1/f1 = 1/0.5 = +2.0 D. P2 = 1/f2 = 1/(-0.4) = -2.5 D. Net Power P = P1 + P2 = +2.0 + (-2.5) = -0.5 D."
+    }
+  ]
+}

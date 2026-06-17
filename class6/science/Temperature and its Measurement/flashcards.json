@@ -1,0 +1,40 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Temperature and its Measurement",
+    "chapter_number": 7
+  },
+  "flashcards": [
+    { "q": "Temperature: Defined as a reliable measure of...?", "a": "Hotness or coldness of a body." },
+    { "q": "Thermometer: Name of the device for human body temp.", "a": "Clinical thermometer." },
+    { "q": "Scale: The SI unit of temperature.", "a": "Kelvin (K)." },
+    { "q": "Normal Body Temperature: Value in Celsius.", "a": "37.0 \u00b0C." },
+    { "q": "Normal Body Temperature: Value in Fahrenheit.", "a": "98.6 \u00b0F." },
+    { "q": "Clinical Thermometer: Measuring range (\u00b0C).", "a": "35 \u00b0C to 42 \u00b0C." },
+    { "q": "Laboratory Thermometer: Typical school range (\u00b0C).", "a": "-10 \u00b0C to 110 \u00b0C." },
+    { "q": "Digital Thermometeter: Replaces mercury because...?", "a": "Mercury is toxic and digital is easier to read." },
+    { "q": "Infrared Thermometer: Key benefit during pandemics.", "a": "Non-contact measurement from a distance." },
+    { "q": "Conversion: Celsius to Kelvin formula.", "a": "K = \u00b0C + 273.15." },
+    { "q": "Absolute Zero: Definition.", "a": "Lowest possible theoretical temperature (-273.15 \u00b0C)." },
+    { "q": "Boiling Water: Temperature on Celsius scale.", "a": "100 \u00b0C." },
+    { "q": "Ice: Temperature of melting ice (\u00b0C).", "a": "0 \u00b0C." },
+    { "q": "Anna Mani: Known as the...?", "a": "Weather Woman of India." },
+    { "q": "Laboratory Reading: Why read while immersed?", "a": "Because the level falls as soon as it's removed." },
+    { "q": "Body Temperature: Factors affecting 'normal' range.", "a": "Age, time of day, and activity level." },
+    { "q": "Armpit Measurement: How does it relate to oral temp?", "a": "About 0.5 \u00b0C to 1 \u00b0C lower." },
+    { "q": "Small Divisions: Formula for thermometer precision.", "a": "Difference between marks \u00f7 Number of divisions." },
+    { "q": "Pulse Rate: Why unreliable for detecting fever?", "a": "Can be affected by activity/stress too." },
+    { "q": "Digital DISPLAY: What helps digital thermometers sense heat?", "a": "Heat sensors." },
+    { "q": "Scale Naming: Why are scales capitalized (C, F, K)?", "a": "Named in honour of the scientists who developed them." },
+    { "q": "Degree Sign: Which unit does NOT use it?", "a": "Kelvin (K)." },
+    { "q": "Room Thermometer: Common location to find one.", "a": "Hospitals, laboratories, or on walls." },
+    { "q": "Sun's Core: Approximate temperature (\u00b0C).", "a": "15 million degrees Celsius." },
+    { "q": "Celsius to Fahrenheit: 37 \u00b0C equals...?", "a": "98.6 \u00b0F." },
+    { "q": "Mercury: Why difficult to dispose of?", "a": "Extremely toxic substance." },
+    { "q": "Lab Bulb: Why not touch beaker sides while measuring?", "a": "To ensure only water temperature is measured." },
+    { "q": "Pulse: Which ancient people used pulse to detect fever?", "a": "Ancient Indians." },
+    { "q": "SI: What does SI stand for in SI unit?", "a": "International System of Units." },
+    { "q": "Clinical Tip: How to clean before use?", "a": "Wash with soap and water (avoiding electronics)." }
+  ]
+}

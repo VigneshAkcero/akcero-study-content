@@ -1,0 +1,234 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Statistics",
+    "chapter_number": 12
+  },
+  "flashcards": [
+    {
+      "q": "What is graphical representation of data?",
+      "a": "The visual display of data using graphs, charts, and diagrams to make information easier to understand and interpret compared to tabular form."
+    },
+    {
+      "q": "Why is graphical representation of data preferred over tables?",
+      "a": "One picture is worth a thousand words. Graphs make patterns, trends, and comparisons immediately apparent, easier to interpret, and faster to understand than numerical tables."
+    },
+    {
+      "q": "What are the three main types of graphical representations studied in this chapter?",
+      "a": "Bar graphs, histograms (uniform and varying widths), and frequency polygons."
+    },
+    {
+      "q": "What is a bar graph?",
+      "a": "A pictorial representation of data using rectangular bars of uniform width with equal spacing, where the height of each bar represents the value or frequency of a category."
+    },
+    {
+      "q": "What type of data is a bar graph suitable for?",
+      "a": "Discrete (categorical) data. Bar graphs are not suitable for continuous data or frequency distributions."
+    },
+    {
+      "q": "How are bars arranged in a bar graph?",
+      "a": "Bars are drawn with uniform width, equal spacing between them, and heights proportional to the values they represent. Bars do not touch each other."
+    },
+    {
+      "q": "What are the main steps to construct a bar graph?",
+      "a": "(i) Choose appropriate scale on y-axis. (ii) Mark categories on x-axis with equal spacing. (iii) Draw bars with heights proportional to values. (iv) Label axes clearly and provide a title."
+    },
+    {
+      "q": "What is a histogram?",
+      "a": "A graphical representation of a grouped frequency distribution with continuous data organized into class intervals, where rectangles are drawn with no gaps between them."
+    },
+    {
+      "q": "What type of data is a histogram suitable for?",
+      "a": "Continuous data grouped into class intervals (e.g., heights, weights, test scores, temperatures)."
+    },
+    {
+      "q": "What is the key difference between a bar graph and a histogram?",
+      "a": "Bar graphs have gaps between bars (discrete categories), while histograms have no gaps (continuous data). In histograms, area (not just height) represents frequency."
+    },
+    {
+      "q": "What is a class interval?",
+      "a": "A range of values into which continuous data is grouped. For example, 30.5-35.5 or 140-150."
+    },
+    {
+      "q": "What is class width?",
+      "a": "The difference between the upper and lower limits of a class interval. For interval 30.5-35.5, class width = 35.5 - 30.5 = 5."
+    },
+    {
+      "q": "Define class-mark (class midpoint).",
+      "a": "The average of the upper and lower limits of a class interval: Class-mark = (Upper Limit + Lower Limit) / 2."
+    },
+    {
+      "q": "Calculate the class-mark for the interval 140-150.",
+      "a": "Class-mark = (140 + 150) / 2 = 145."
+    },
+    {
+      "q": "What is frequency in a histogram?",
+      "a": "The number of observations or data points that fall within a particular class interval."
+    },
+    {
+      "q": "What is the fundamental principle relating area, width, and frequency in a histogram?",
+      "a": "Area of rectangle = Class Width × Frequency Density = Frequency. The area (not just height) of each rectangle is proportional to frequency."
+    },
+    {
+      "q": "What is frequency density?",
+      "a": "For histograms with varying class widths, frequency density = Frequency / Class Width. It represents the frequency per unit width."
+    },
+    {
+      "q": "Why is frequency density necessary in histograms with varying class widths?",
+      "a": "When class widths vary, using raw frequency as height would be misleading. Frequency density ensures that rectangle areas (not just heights) remain proportional to frequencies."
+    },
+    {
+      "q": "How do you calculate the height of a bar in a histogram with uniform class widths?",
+      "a": "Height = Frequency (since width is constant, height is directly proportional to frequency)."
+    },
+    {
+      "q": "How do you calculate the height of a bar in a histogram with varying class widths?",
+      "a": "Height = Frequency Density = Frequency / Class Width."
+    },
+    {
+      "q": "What is a kink or break symbol on an axis?",
+      "a": "A visual indicator (usually a small zigzag ~) drawn on an axis to show that a portion of the axis has been omitted, typically when the first class interval does not start at zero."
+    },
+    {
+      "q": "Why is a kink symbol used in histograms?",
+      "a": "To indicate that values between zero and the first class interval are omitted, preventing readers from misinterpreting the graph or assuming data exists in the omitted range."
+    },
+    {
+      "q": "What is a frequency polygon?",
+      "a": "A line graph formed by joining the midpoints (class-marks) of the upper sides of histogram rectangles with straight line segments, or by directly plotting (class-mark, frequency) points and joining them."
+    },
+    {
+      "q": "When should a frequency polygon be used?",
+      "a": "For continuous, large datasets. Frequency polygons are particularly useful for comparing two or more distributions on the same graph."
+    },
+    {
+      "q": "What points must be included at the start and end of a frequency polygon?",
+      "a": "Hypothetical zero-frequency points: one class interval before the first class and one after the last class, to properly close the polygon."
+    },
+    {
+      "q": "What is the advantage of a frequency polygon over a histogram for comparison?",
+      "a": "Multiple frequency polygons can be easily overlaid on the same graph using different colors or styles, making comparison clear. Overlapping histograms are visually cluttered and hard to compare."
+    },
+    {
+      "q": "How is a frequency polygon drawn from a histogram?",
+      "a": "Mark the midpoints (class-marks) of the upper sides of each rectangle, then connect these points with straight line segments. Add zero-frequency points at start and end."
+    },
+    {
+      "q": "What is discrete data?",
+      "a": "Data consisting of separate, distinct, countable values that cannot be subdivided. Examples: number of students, number of cars, number of books."
+    },
+    {
+      "q": "What is continuous data?",
+      "a": "Data that can take any value within a range and can be subdivided into smaller units. Examples: height, weight, temperature, age, time."
+    },
+    {
+      "q": "Which graphical representation is used for discrete data?",
+      "a": "Bar graphs are used for discrete (categorical) data."
+    },
+    {
+      "q": "Which graphical representations are used for continuous data?",
+      "a": "Histograms and frequency polygons are used for continuous data organized into class intervals."
+    },
+    {
+      "q": "What is scale in graphical representation?",
+      "a": "The ratio used to represent data on a graph. For example, 1 cm = 10 units on y-axis or 1 cm = 5 kg on x-axis."
+    },
+    {
+      "q": "How do you choose an appropriate scale for a graph?",
+      "a": "Choose a scale that: (i) allows the graph to fit appropriately on the page; (ii) is simple and easy to read; (iii) uses available space efficiently; (iv) can be clearly marked on the axes."
+    },
+    {
+      "q": "If a bar has height 3.5 cm on a graph with scale 1 cm = ₹5,000, what is the actual value?",
+      "a": "Actual value = 3.5 × 5,000 = ₹17,500."
+    },
+    {
+      "q": "What must always be labeled on a graph?",
+      "a": "Both axes (with variable names and units), scale, and a descriptive title. Use legends if multiple datasets or colors are used."
+    },
+    {
+      "q": "In a histogram with class intervals 0-10, 10-20, 20-30 and frequencies 5, 15, 10, what is the total frequency?",
+      "a": "Total frequency = 5 + 15 + 10 = 30."
+    },
+    {
+      "q": "If a histogram has intervals 0-5, 5-15, 15-25 with frequencies 10, 20, 15, are the class widths uniform?",
+      "a": "No, the widths are 5, 10, and 10 respectively. The first interval has width 5 while others have width 10, so widths are varying."
+    },
+    {
+      "q": "For a histogram with uniform class width, which graphical element directly reflects frequency?",
+      "a": "The height of each bar directly reflects frequency (since width is constant)."
+    },
+    {
+      "q": "For a histogram with varying class width, which graphical element reflects frequency?",
+      "a": "The area of each rectangle reflects frequency, not the height. Height reflects frequency density."
+    },
+    {
+      "q": "What is the relationship between histogram area and frequency?",
+      "a": "In a histogram, Area of rectangle = Width × Height = Class Width × Frequency Density = Frequency."
+    },
+    {
+      "q": "If an interval has class width 20 and frequency 40, what is the frequency density?",
+      "a": "Frequency Density = 40 / 20 = 2."
+    },
+    {
+      "q": "Why is 'area' important in histograms but not in bar graphs?",
+      "a": "In histograms, area represents frequency (especially important with varying widths). In bar graphs, height alone represents value since all bars have the same width and the x-axis shows distinct categories, not a continuous range."
+    },
+    {
+      "q": "How many points does a frequency polygon require to be drawn?",
+      "a": "At least as many points as there are class intervals, plus two additional zero-frequency points (one before the first class, one after the last) to close the polygon."
+    },
+    {
+      "q": "What does the peak of a frequency polygon represent?",
+      "a": "The class interval with the maximum frequency. The tallest point on the polygon indicates where most data is concentrated."
+    },
+    {
+      "q": "Can a frequency polygon be drawn without constructing a histogram first?",
+      "a": "Yes, class-marks and frequencies can be plotted directly, and points can be joined without drawing the histogram base."
+    },
+    {
+      "q": "What does the area under a frequency polygon represent?",
+      "a": "The total frequency (sum of all frequencies). The area under a frequency polygon equals the area under the corresponding histogram."
+    },
+    {
+      "q": "Is the width of bars in a bar graph significant?",
+      "a": "No, the width of bars in a bar graph is arbitrary and used only for clarity. What matters is the height, which represents the value."
+    },
+    {
+      "q": "Is the width of rectangles in a histogram significant?",
+      "a": "Yes, the width of rectangles in a histogram represents the class width and is directly related to the class interval. Width is essential for calculating area."
+    },
+    {
+      "q": "What does it mean if two class intervals in a histogram have the same height but different widths?",
+      "a": "They have the same frequency density but different total frequencies. The interval with larger width has higher total frequency spread over a wider range."
+    },
+    {
+      "q": "Why is frequency polygon better than histogram for comparing multiple distributions?",
+      "a": "Multiple line graphs (polygons) can be easily overlaid with different colors/styles without visual clutter. Overlapping histograms are hard to distinguish and compare."
+    },
+    {
+      "q": "In a frequency polygon, what do the (x, y) coordinates of each point represent?",
+      "a": "x-coordinate = class-mark (class midpoint), y-coordinate = frequency of that class interval."
+    },
+    {
+      "q": "How do you interpret a frequency polygon that shows a sharp peak at one class?",
+      "a": "The peak indicates that class interval has the highest frequency. Most data is concentrated in that interval. The distribution is skewed or unimodal."
+    },
+    {
+      "q": "What scale considerations must be made when comparing two distributions using overlaid frequency polygons?",
+      "a": "Both distributions should use the same x-axis scale (same class intervals and width) and compatible y-axis scales to ensure valid visual comparison. If frequencies differ greatly, consider using relative frequencies (percentages)."
+    },
+    {
+      "q": "Can a histogram be constructed for categorical data like colors or preferences?",
+      "a": "No, histograms are for continuous data organized into class intervals. Categorical data like colors use bar graphs instead."
+    },
+    {
+      "q": "What is the purpose of including zero-frequency boundary points in a frequency polygon?",
+      "a": "To close the polygon properly and ensure the area under the polygon equals the area under the corresponding histogram, maintaining mathematical accuracy."
+    },
+    {
+      "q": "If the first class interval starts at 40 (not 0), should a kink symbol be used?",
+      "a": "Yes, a kink symbol should be drawn on both axes to indicate that values between 0 and 40 are omitted from the representation."
+    }
+  ]
+}

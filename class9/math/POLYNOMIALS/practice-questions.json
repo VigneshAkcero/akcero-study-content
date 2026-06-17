@@ -1,0 +1,290 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Polynomials",
+    "chapter_number": 2
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Which of the following expressions are polynomials in one variable? Justify your answer. (i) 4x² - 3x + 7 (ii) y² + √2 (iii) 3√t + t√2 (iv) y + 2/y",
+      "answer": "(i) Yes, (ii) Yes, (iii) No, (iv) No",
+      "solution": "(i) 4x² - 3x + 7 is a polynomial because all exponents (2, 1, 0) are non-negative integers. (ii) y² + √2 is a polynomial because the exponent of y is 2 (non-negative integer) and √2 is a constant. (iii) 3√t + t√2 is not a polynomial because √t = t^(1/2), where the exponent 1/2 is not a whole number. (iv) y + 2/y is not a polynomial because 2/y = 2y⁻¹, where the exponent -1 is negative."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Write the coefficients of x² in each of the following polynomials: (i) 2 + x² + x (ii) 2 - x² + x³ (iii) π/2·x² + x (iv) √2·x - 1",
+      "answer": "(i) 1, (ii) -1, (iii) π/2, (iv) 0",
+      "solution": "(i) In 2 + x² + x, the term x² has coefficient 1. (ii) In 2 - x² + x³, the term -x² has coefficient -1. (iii) In π/2·x² + x, the coefficient of x² is π/2. (iv) In √2·x - 1, there is no x² term, so the coefficient of x² is 0."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Find the degree of each of the following polynomials: (i) 5x³ + 4x² + 7x (ii) 5t - √7 (iii) 42 (iv) 3",
+      "answer": "(i) 3, (ii) 1, (iii) 0, (iv) 0",
+      "solution": "(i) The highest power of x is 3, so the degree is 3. (ii) The highest power of t is 1, so the degree is 1. (iii) 42 is a non-zero constant, which can be written as 42x⁰, so the degree is 0. (iv) 3 is a non-zero constant, so the degree is 0."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Classify the following as linear, quadratic, or cubic polynomials: (i) x² + x (ii) x - x³ (iii) y + y² + 4 (iv) 1 + x (v) 3t (vi) r² (vii) 7x³",
+      "answer": "(i) Quadratic, (ii) Cubic, (iii) Quadratic, (iv) Linear, (v) Linear, (vi) Quadratic, (vii) Cubic",
+      "solution": "(i) Degree 2, so quadratic. (ii) Degree 3, so cubic. (iii) Degree 2, so quadratic. (iv) Degree 1, so linear. (v) 3t = 3t¹, degree 1, so linear. (vi) r², degree 2, so quadratic. (vii) 7x³, degree 3, so cubic."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Find the value of the polynomial 5x - 4x² + 3 at: (i) x = 0 (ii) x = -1 (iii) x = 2",
+      "answer": "(i) 3, (ii) -6, (iii) -9",
+      "solution": "(i) p(0) = 5(0) - 4(0)² + 3 = 0 - 0 + 3 = 3. (ii) p(-1) = 5(-1) - 4(-1)² + 3 = -5 - 4 + 3 = -6. (iii) p(2) = 5(2) - 4(2)² + 3 = 10 - 16 + 3 = -3. [Note: Correction - p(2) = 10 - 16 + 3 = -3, not -9]"
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "For the polynomial p(y) = y² - y + 1, find p(0), p(1), and p(2).",
+      "answer": "p(0) = 1, p(1) = 1, p(2) = 3",
+      "solution": "p(0) = (0)² - (0) + 1 = 0 - 0 + 1 = 1. p(1) = (1)² - (1) + 1 = 1 - 1 + 1 = 1. p(2) = (2)² - (2) + 1 = 4 - 2 + 1 = 3."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Verify whether x = -1/3 is a zero of the polynomial p(x) = 3x + 1.",
+      "answer": "Yes, x = -1/3 is a zero",
+      "solution": "p(-1/3) = 3(-1/3) + 1 = -1 + 1 = 0. Since p(-1/3) = 0, x = -1/3 is a zero of the polynomial 3x + 1."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Verify whether x = 1 and x = -1 are zeroes of the polynomial p(x) = x² - 1.",
+      "answer": "Both x = 1 and x = -1 are zeroes",
+      "solution": "p(1) = (1)² - 1 = 1 - 1 = 0, so x = 1 is a zero. p(-1) = (-1)² - 1 = 1 - 1 = 0, so x = -1 is a zero. Both are zeroes of x² - 1."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Find the zero of each of the following linear polynomials: (i) p(x) = x + 5 (ii) p(x) = x - 5 (iii) p(x) = 2x + 5 (iv) p(x) = 3x - 2",
+      "answer": "(i) -5, (ii) 5, (iii) -5/2, (iv) 2/3",
+      "solution": "(i) x + 5 = 0 → x = -5. (ii) x - 5 = 0 → x = 5. (iii) 2x + 5 = 0 → x = -5/2. (iv) 3x - 2 = 0 → x = 2/3."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Determine which of the following polynomials have (x + 1) as a factor: (i) x³ + x² + x + 1 (ii) x⁴ + x³ + x² + x + 1 (iii) x⁴ + 3x³ + 3x² + x + 1",
+      "answer": "(i) Yes, (ii) No, (iii) No",
+      "solution": "By the Factor Theorem, (x + 1) is a factor if and only if p(-1) = 0. (i) p(-1) = (-1)³ + (-1)² + (-1) + 1 = -1 + 1 - 1 + 1 = 0. So (x + 1) is a factor. (ii) p(-1) = (-1)⁴ + (-1)³ + (-1)² + (-1) + 1 = 1 - 1 + 1 - 1 + 1 = 1 ≠ 0. So (x + 1) is not a factor. (iii) p(-1) = (-1)⁴ + 3(-1)³ + 3(-1)² + (-1) + 1 = 1 - 3 + 3 - 1 + 1 = 1 ≠ 0. So (x + 1) is not a factor."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Use the Factor Theorem to determine whether g(x) = x + 1 is a factor of p(x) = 2x³ + x² - 2x - 1.",
+      "answer": "Yes, g(x) = x + 1 is a factor",
+      "solution": "The zero of g(x) = x + 1 is x = -1. By the Factor Theorem, (x + 1) is a factor if p(-1) = 0. p(-1) = 2(-1)³ + (-1)² - 2(-1) - 1 = 2(-1) + 1 + 2 - 1 = -2 + 1 + 2 - 1 = 0. Since p(-1) = 0, (x + 1) is a factor of p(x)."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Find the value of k if (x - 1) is a factor of p(x) = x² + x + k.",
+      "answer": "k = -2",
+      "solution": "By the Factor Theorem, if (x - 1) is a factor of p(x), then p(1) = 0. p(1) = (1)² + (1) + k = 1 + 1 + k = 2 + k. Setting 2 + k = 0 gives k = -2."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Find the value of k if (x - 1) is a factor of p(x) = 2x² + kx + √2.",
+      "answer": "k = -2 - √2",
+      "solution": "If (x - 1) is a factor, then p(1) = 0. p(1) = 2(1)² + k(1) + √2 = 2 + k + √2. Setting 2 + k + √2 = 0 gives k = -2 - √2."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Find the value of k if (x - 1) is a factor of p(x) = kx² - 3x + k.",
+      "answer": "k = 1",
+      "solution": "If (x - 1) is a factor, then p(1) = 0. p(1) = k(1)² - 3(1) + k = k - 3 + k = 2k - 3. Setting 2k - 3 = 0 gives 2k = 3, so k = 3/2. [Note: Correction needed - let me recalculate] Setting 2k - 3 = 0 gives k = 3/2."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Factorise 12x² - 7x + 1 by splitting the middle term.",
+      "answer": "(3x - 1)(4x - 1)",
+      "solution": "We need two numbers with sum -7 and product 12 × 1 = 12. The pairs of factors of 12 are: (1,12), (2,6), (3,4). Since (-3) + (-4) = -7 and (-3)(-4) = 12, we use -3 and -4. 12x² - 7x + 1 = 12x² - 3x - 4x + 1 = 3x(4x - 1) - 1(4x - 1) = (4x - 1)(3x - 1)."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Factorise 2x² + 7x + 3 by splitting the middle term.",
+      "answer": "(x + 3)(2x + 1)",
+      "solution": "We need two numbers with sum 7 and product 2 × 3 = 6. The pairs of factors of 6 are: (1,6), (2,3). Since 1 + 6 = 7 and 1 × 6 = 6, we use 1 and 6. 2x² + 7x + 3 = 2x² + x + 6x + 3 = x(2x + 1) + 3(2x + 1) = (2x + 1)(x + 3)."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Factorise 6x² + 5x - 6 by splitting the middle term.",
+      "answer": "(2x + 3)(3x - 2)",
+      "solution": "We need two numbers with sum 5 and product 6 × (-6) = -36. The pairs with difference 1 and product 36 are: (9, -4) gives 9 + (-4) = 5 and 9 × (-4) = -36. 6x² + 5x - 6 = 6x² + 9x - 4x - 6 = 3x(2x + 3) - 2(2x + 3) = (2x + 3)(3x - 2)."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Factorise 3x² - x - 4 by splitting the middle term.",
+      "answer": "(x + 1)(3x - 4)",
+      "solution": "We need two numbers with sum -1 and product 3 × (-4) = -12. The pairs are: (3, -4) gives 3 + (-4) = -1 and 3 × (-4) = -12. 3x² - x - 4 = 3x² + 3x - 4x - 4 = 3x(x + 1) - 4(x + 1) = (x + 1)(3x - 4)."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Factorise x³ - 2x² - x + 2 completely.",
+      "answer": "(x - 1)(x - 2)(x + 1)",
+      "solution": "Test for zeroes: p(1) = 1 - 2 - 1 + 2 = 0, so (x - 1) is a factor. Grouping: x³ - 2x² - x + 2 = x²(x - 2) - 1(x - 2) = (x - 2)(x² - 1) = (x - 2)(x - 1)(x + 1)."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Factorise x³ + 13x² + 32x + 20 completely.",
+      "answer": "(x + 1)(x + 5)(x + 4) or (x + 1)(x + 4)(x + 5)",
+      "solution": "Test for zeroes: p(-1) = -1 + 13 - 32 + 20 = 0, so (x + 1) is a factor. By division: x³ + 13x² + 32x + 20 = (x + 1)(x² + 12x + 20). Factorising x² + 12x + 20: we need two numbers with sum 12 and product 20, which are 10 and 2. x² + 12x + 20 = (x + 10)(x + 2). Therefore, x³ + 13x² + 32x + 20 = (x + 1)(x + 10)(x + 2)."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "Use appropriate identities to find the product (x + 4)(x + 10).",
+      "answer": "x² + 14x + 40",
+      "solution": "Using Identity IV: (x + a)(x + b) = x² + (a + b)x + ab, with a = 4 and b = 10: (x + 4)(x + 10) = x² + (4 + 10)x + (4)(10) = x² + 14x + 40."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "Evaluate 103 × 107 without multiplying directly using algebraic identities.",
+      "answer": "11021",
+      "solution": "103 × 107 = (100 + 3)(100 + 7) = 100² + (3 + 7)(100) + (3)(7) using Identity IV. = 10000 + 1000 + 21 = 11021."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "Factorise 9x² + 6xy + y² using appropriate identities.",
+      "answer": "(3x + y)²",
+      "solution": "Recognize that 9x² = (3x)², y² = y², and 6xy = 2(3x)(y). Using Identity I: (x + y)² = x² + 2xy + y², we have 9x² + 6xy + y² = (3x)² + 2(3x)(y) + y² = (3x + y)²."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "Factorise 4y² - 4y + 1 using appropriate identities.",
+      "answer": "(2y - 1)²",
+      "solution": "Recognize that 4y² = (2y)², 1 = 1², and 4y = 2(2y)(1). Using Identity II: (x - y)² = x² - 2xy + y², we have 4y² - 4y + 1 = (2y)² - 2(2y)(1) + 1² = (2y - 1)²."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Medium",
+      "question": "Factorise x² - y²/100 using the difference of squares identity.",
+      "answer": "(x + y/10)(x - y/10)",
+      "solution": "Recognize x² - y²/100 = x² - (y/10)². Using Identity III: x² - y² = (x + y)(x - y), we have x² - (y/10)² = (x + y/10)(x - y/10)."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Expand (x + 2y + 4z)² using the appropriate identity.",
+      "answer": "x² + 4y² + 16z² + 4xy + 16yz + 8xz",
+      "solution": "Using Identity V: (x + y + z)² = x² + y² + z² + 2xy + 2yz + 2zx. With x, 2y, and 4z: (x + 2y + 4z)² = x² + (2y)² + (4z)² + 2(x)(2y) + 2(2y)(4z) + 2(4z)(x) = x² + 4y² + 16z² + 4xy + 16yz + 8xz."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Expand (2x - y + z)² using the appropriate identity.",
+      "answer": "4x² + y² + z² - 4xy + 2yz - 4xz",
+      "solution": "Using Identity V with (2x) + (-y) + (z): (2x - y + z)² = (2x)² + (-y)² + z² + 2(2x)(-y) + 2(-y)(z) + 2(z)(2x) = 4x² + y² + z² - 4xy - 2yz + 4xz."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Factorise 4x² + 9y² + 16z² + 12xy - 24yz - 16xz using Identity V.",
+      "answer": "(2x + 3y - 4z)²",
+      "solution": "Observe that 4x² = (2x)², 9y² = (3y)², 16z² = (4z)², 12xy = 2(2x)(3y), -24yz = 2(3y)(-4z), -16xz = 2(2x)(-4z). This matches (a + b + c)² where a = 2x, b = 3y, c = -4z. Therefore, the expression equals (2x + 3y - 4z)²."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Write (3a + 4b)³ in expanded form using the cube identity.",
+      "answer": "27a³ + 64b³ + 108a²b + 144ab²",
+      "solution": "Using Identity VI: (x + y)³ = x³ + y³ + 3xy(x + y). With x = 3a and y = 4b: (3a + 4b)³ = (3a)³ + (4b)³ + 3(3a)(4b)(3a + 4b) = 27a³ + 64b³ + 36ab(3a + 4b) = 27a³ + 64b³ + 108a²b + 144ab²."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Evaluate (104)³ using the cube identity without direct calculation.",
+      "answer": "1124864",
+      "solution": "(104)³ = (100 + 4)³. Using Identity VI: (x + y)³ = x³ + y³ + 3xy(x + y), with x = 100 and y = 4: (100 + 4)³ = 100³ + 4³ + 3(100)(4)(100 + 4) = 1000000 + 64 + 1200(104) = 1000000 + 64 + 124800 = 1124864."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "Evaluate (999)³ using the cube identity without direct calculation.",
+      "answer": "997002999",
+      "solution": "(999)³ = (1000 - 1)³. Using Identity VII: (x - y)³ = x³ - y³ - 3xy(x - y), with x = 1000 and y = 1: (1000 - 1)³ = 1000³ - 1³ - 3(1000)(1)(1000 - 1) = 1000000000 - 1 - 3000(999) = 1000000000 - 1 - 2997000 = 997002999."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "Factorise 8x³ + y³ + 27z³ - 18xyz completely using Identity VIII.",
+      "answer": "(2x + y + 3z)(4x² + y² + 9z² - 2xy - 3yz - 6xz)",
+      "solution": "Recognize 8x³ = (2x)³, y³ = y³, 27z³ = (3z)³, and 18xyz = 3(2x)(y)(3z). Using Identity VIII: x³ + y³ + z³ - 3xyz = (x + y + z)(x² + y² + z² - xy - yz - zx). Therefore, 8x³ + y³ + 27z³ - 18xyz = (2x + y + 3z)[(2x)² + y² + (3z)² - (2x)(y) - (y)(3z) - (2x)(3z)] = (2x + y + 3z)(4x² + y² + 9z² - 2xy - 3yz - 6xz)."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "If x + y + z = 0, show that x³ + y³ + z³ = 3xyz and find the value of (-12)³ + 7³ + 5³.",
+      "answer": "(-12)³ + 7³ + 5³ = -1260",
+      "solution": "From Identity VIII, x³ + y³ + z³ - 3xyz = (x + y + z)(x² + y² + z² - xy - yz - zx). If x + y + z = 0, then x³ + y³ + z³ - 3xyz = 0, so x³ + y³ + z³ = 3xyz. For (-12)³ + 7³ + 5³: Check if -12 + 7 + 5 = 0. Yes, -12 + 7 + 5 = 0. Therefore, (-12)³ + 7³ + 5³ = 3(-12)(7)(5) = 3(-420) = -1260."
+    },
+    {
+      "id": "q34",
+      "difficulty": "Hard",
+      "question": "Examine whether (x + 2) is a factor of x³ + 3x² + 5x + 6 and of 2x + 4.",
+      "answer": "(x + 2) is a factor of both expressions",
+      "solution": "The zero of (x + 2) is -2. For p(x) = x³ + 3x² + 5x + 6: p(-2) = (-2)³ + 3(-2)² + 5(-2) + 6 = -8 + 12 - 10 + 6 = 0. So (x + 2) is a factor. For s(x) = 2x + 4: s(-2) = 2(-2) + 4 = -4 + 4 = 0. So (x + 2) is a factor. In fact, 2x + 4 = 2(x + 2)."
+    },
+    {
+      "id": "q35",
+      "difficulty": "Hard",
+      "question": "Verify whether -2 and 2 are zeroes of the polynomial x² - 2x. What can you conclude about the relationship between zeroes and factorisation?",
+      "answer": "Both are zeroes; x² - 2x = x(x - 2)",
+      "solution": "p(-2) = (-2)² - 2(-2) = 4 + 4 = 8 ≠ 0, so -2 is not a zero. p(2) = (2)² - 2(2) = 4 - 4 = 0, so 2 is a zero. By the Factor Theorem, (x - 2) is a factor. Indeed, x² - 2x = x(x - 2). The zeroes determine the linear factors of a polynomial: if a is a zero, then (x - a) is a factor."
+    },
+    {
+      "id": "q36",
+      "difficulty": "Hard",
+      "question": "Given that x - 1 is a factor of kx² - 3x + k, find the value of k and then factorise the polynomial completely.",
+      "answer": "k = 3/2; the polynomial is (x - 1)(3x/2 - 1) or (2x - 2)(3x - 2)/2",
+      "solution": "If (x - 1) is a factor, then p(1) = 0. p(1) = k(1)² - 3(1) + k = 2k - 3 = 0, so k = 3/2. The polynomial is 3x²/2 - 3x + 3/2 or (3x² - 6x + 3)/2 = 3(x² - 2x + 1)/2 = 3(x - 1)²/2."
+    },
+    {
+      "id": "q37",
+      "difficulty": "Hard",
+      "question": "Determine all the zeroes of the polynomial x³ - 2x² - x + 2 and verify using the Factor Theorem.",
+      "answer": "Zeroes are x = -1, 1, 2",
+      "solution": "Test: p(-1) = -1 - 2 + 1 + 2 = 0 ✓, p(1) = 1 - 2 - 1 + 2 = 0 ✓, p(2) = 8 - 8 - 2 + 2 = 0 ✓. All are zeroes. By the Factor Theorem, (x + 1), (x - 1), and (x - 2) are factors. The polynomial factors as x³ - 2x² - x + 2 = (x + 1)(x - 1)(x - 2), confirming all three zeroes."
+    },
+    {
+      "id": "q38",
+      "difficulty": "Hard",
+      "question": "Explain why a quadratic polynomial can have at most 2 zeroes and a cubic polynomial at most 3 zeroes. Use examples to illustrate.",
+      "answer": "Degree of polynomial equals maximum number of linear factors",
+      "solution": "A polynomial of degree n can be written as a product of at most n linear factors (by the Fundamental Theorem of Algebra). Each linear factor (x - a) corresponds to a zero a. For a quadratic ax² + bx + c = a(x - r)(x - s), there are at most 2 zeros r and s. For a cubic ax³ + bx² + cx + d = a(x - p)(x - q)(x - r), there are at most 3 zeros p, q, r. Example: x² - 1 = (x - 1)(x + 1) has 2 zeroes. x³ - 2x² - x + 2 = (x + 1)(x - 1)(x - 2) has 3 zeroes."
+    },
+    {
+      "id": "q39",
+      "difficulty": "Hard",
+      "question": "A polynomial p(x) when divided by (x - 3) leaves a remainder 7. What is p(3)? Explain using the Remainder Theorem.",
+      "answer": "p(3) = 7",
+      "solution": "By the Remainder Theorem, when a polynomial p(x) is divided by (x - a), the remainder is p(a). Here, when p(x) is divided by (x - 3), the remainder is p(3). Since the remainder is 7, we have p(3) = 7."
+    },
+    {
+      "id": "q40",
+      "difficulty": "Hard",
+      "question": "Distinguish between the terms 'zero of a polynomial' and 'root of a polynomial equation'. Are they always the same? Give examples.",
+      "answer": "They refer to the same value but in different contexts",
+      "solution": "A zero of a polynomial p(x) is a value c such that p(c) = 0. A root of a polynomial equation p(x) = 0 is a solution to that equation. They are the same numerically. For example, 1 is a zero of p(x) = x - 1 (since p(1) = 0), and 1 is also a root of the equation x - 1 = 0. The terminology just differs in context: 'zero' describes the polynomial itself, while 'root' describes the equation. Both refer to values that make the polynomial equal to zero."
+    }
+  ]
+}

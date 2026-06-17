@@ -1,0 +1,234 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Circles",
+    "chapter_number": 9
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Define the angle subtended by a chord at a point on the circle.",
+      "answer": "The angle subtended by a chord at a point on the circle is the angle formed by joining that point to the two endpoints of the chord.",
+      "solution": "When a chord PQ exists in a circle and a point R lies on the circle (not on the chord), the angle ∠PRQ formed by line segments RP and RQ is the angle subtended by the chord PQ at point R."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "State Theorem 9.1.",
+      "answer": "Equal chords of a circle subtend equal angles at the centre.",
+      "solution": "Theorem 9.1 states: If two chords AB and CD of a circle are equal in length, then the angles they subtend at the centre O are equal, i.e., ∠AOB = ∠COD. This can be proven using SSS (Side-Side-Side) congruence of triangles AOB and COD."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What is the distance of a line from a point?",
+      "answer": "The distance of a line from a point is the length of the perpendicular drawn from the point to the line.",
+      "solution": "Among all possible line segments from a point P to different points on a line AB, the perpendicular segment PM has the minimum length. This minimum length PM is defined as the distance of the line AB from the point P."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "State the property of a perpendicular from the centre of a circle to a chord.",
+      "answer": "The perpendicular from the centre of a circle to a chord bisects the chord.",
+      "solution": "If a perpendicular is drawn from the centre O of a circle to a chord AB, meeting the chord at point M, then M is the midpoint of AB. That is, AM = MB. This is Theorem 9.3 and can be proven using RHS congruence of right triangles."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What is the relationship between a chord and its distance from the centre in a circle?",
+      "answer": "Equal chords are equidistant from the centre; chords equidistant from the centre are equal in length.",
+      "solution": "Theorem 9.5 states that equal chords of a circle are equidistant from the centre. Theorem 9.6 (the converse) states that chords equidistant from the centre of a circle are equal in length. Together, these theorems establish that chord length and distance from centre are directly related."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Define a cyclic quadrilateral.",
+      "answer": "A cyclic quadrilateral is a quadrilateral whose all four vertices lie on the same circle.",
+      "solution": "A quadrilateral ABCD is cyclic if all four points A, B, C, and D are concyclic (lie on the circumference of the same circle). In a cyclic quadrilateral, the sum of opposite angles is always 180°."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What is the angle subtended by a diameter at any point on the circle?",
+      "answer": "The angle subtended by a diameter at any point on the circle is 90° (a right angle).",
+      "solution": "This is a special case of Theorem 9.7. When a chord is a diameter (arc = 180°), the central angle is 180°. By Theorem 9.7, the angle at any point on the circle is (1/2) × 180° = 90°. This is called an angle in a semicircle."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What are angles in the same segment?",
+      "answer": "Angles in the same segment are angles subtended by the same chord at different points on the same arc. These angles are always equal.",
+      "solution": "Theorem 9.8 states that angles subtended by the same arc at any two different points on the remaining part of the circle are equal. These are called angles in the same segment. For example, if A and C are two points on the major arc of chord PQ, then ∠PAQ = ∠PCQ."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "State the main property of opposite angles in a cyclic quadrilateral.",
+      "answer": "The sum of opposite angles in a cyclic quadrilateral is 180°.",
+      "solution": "Theorem 9.10 states that in a cyclic quadrilateral ABCD, ∠A + ∠C = 180° and ∠B + ∠D = 180°. This is a defining characteristic of cyclic quadrilaterals and can be proven using the inscribed angle theorem."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "What is the relationship between an arc and the chord it corresponds to?",
+      "answer": "Equal chords subtend congruent arcs; conversely, congruent arcs correspond to equal chords.",
+      "solution": "When two chords of a circle are equal, the arcs they cut off (both minor or both major) are congruent. Conversely, if two arcs are congruent, the chords corresponding to those arcs are equal. This establishes a two-way relationship between chord length and arc congruence."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Two equal chords AB and CD of a circle with centre O subtend angles of 60° each at the centre. If the radius of the circle is 5 cm, find the length of each chord.",
+      "answer": "The length of each chord is 5 cm.",
+      "solution": "In triangle AOB, OA = OB = 5 cm (radii) and ∠AOB = 60°. This makes triangle AOB isosceles with the angle between equal sides being 60°. Therefore, triangle AOB is equilateral, and AB = OA = OB = 5 cm. Similarly, CD = 5 cm. Alternatively, using the formula: chord length = 2r sin(θ/2) = 2(5) sin(30°) = 10 × 0.5 = 5 cm."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "In a circle with centre O, a perpendicular from O to chord AB meets AB at point M. If AM = 3 cm and OA = 5 cm, find OM.",
+      "answer": "OM = 4 cm.",
+      "solution": "Since the perpendicular from the centre to a chord bisects the chord (Theorem 9.3), M is the midpoint of AB. Therefore, AB = 2AM = 6 cm. In right triangle OMA, we have OA = 5 cm (radius), AM = 3 cm, and ∠OMA = 90°. Using the Pythagorean theorem: OM² + AM² = OA², so OM² + 9 = 25, which gives OM² = 16, and OM = 4 cm."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Two chords PQ and RS of a circle are at distances 3 cm and 4 cm from the centre respectively. If PQ = 10 cm, find the length of RS.",
+      "answer": "The length of RS cannot be determined from the given information alone.",
+      "solution": "We know that equal chords are equidistant from the centre (Theorem 9.5), and conversely, chords equidistant from the centre are equal (Theorem 9.6). However, PQ and RS are at different distances from the centre (3 cm and 4 cm). To find RS, we need either the radius of the circle or additional information about the chord. Using the relationship: if distance from centre is d and radius is r, then chord length = 2√(r² - d²). Without knowing r, we cannot determine RS uniquely."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Prove that if two chords of a circle are equal, then they are equidistant from the centre.",
+      "answer": "If AB = CD (equal chords), then their perpendicular distances from centre O are equal.",
+      "solution": "Let M and N be the feet of perpendiculars from centre O to chords AB and CD respectively. By Theorem 9.3, M and N are midpoints of AB and CD respectively, so AM = MB = AB/2 and CN = ND = CD/2. Since AB = CD, we have AM = CN. In right triangles OAM and OCN: OA = OC (radii), AM = CN (proven above). By RHS congruence, △OAM ≅ △OCN, so OM = ON. Therefore, the chords are equidistant from the centre."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "In a circle, an arc PQ subtends an angle of 120° at the centre. What angle does it subtend at a point R on the major arc?",
+      "answer": "The angle at point R is 60°.",
+      "solution": "By Theorem 9.7, the angle subtended by an arc at the centre is double the angle subtended at any point on the remaining arc. If the central angle is ∠POQ = 120°, then the angle at any point R on the major arc is ∠PRQ = (1/2) × 120° = 60°."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Two points A and C lie on the major arc of a chord PQ in a circle. Find the relationship between angles ∠PAQ and ∠PCQ.",
+      "answer": "∠PAQ = ∠PCQ (the angles are equal).",
+      "solution": "By Theorem 9.8, angles in the same segment of a circle are equal. Since both A and C lie on the same arc (major arc of chord PQ), they subtend the chord at points on the same segment. Therefore, the angles ∠PAQ and ∠PCQ, both subtended by the same chord PQ at points A and C on the major arc, are equal."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "A chord AB of a circle is such that the perpendicular distance from the centre O to AB is 6 cm. If the radius of the circle is 10 cm, find the length of the chord AB.",
+      "answer": "The length of chord AB is 16 cm.",
+      "solution": "Let M be the foot of the perpendicular from O to AB. By Theorem 9.3, M bisects AB. In right triangle OMA, we have OA = 10 cm (radius), OM = 6 cm (distance), and ∠OMA = 90°. Using Pythagorean theorem: AM² + OM² = OA², so AM² + 36 = 100, which gives AM² = 64, and AM = 8 cm. Since M is the midpoint of AB, the chord length AB = 2 × AM = 2 × 8 = 16 cm."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "In circle with centre O, if ∠ACB = 40° where C is a point on the circle and AB is a chord, find the central angle ∠AOB.",
+      "answer": "The central angle ∠AOB = 80°.",
+      "solution": "By Theorem 9.7, the angle subtended by an arc at the centre is double the angle subtended at any point on the remaining arc. Here, ∠ACB is the angle subtended at point C, and ∠AOB is the central angle for the same arc. Therefore, ∠AOB = 2 × ∠ACB = 2 × 40° = 80°."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Determine if the points A, B, C, D are concyclic if ∠ACB = ∠ADB = 50° and both C and D are on the same side of line AB.",
+      "answer": "Yes, the points A, B, C, D are concyclic.",
+      "solution": "By Theorem 9.9, if a line segment joining two points (AB) subtends equal angles at two other points (C and D) lying on the same side of the line, then all four points lie on a circle. Since ∠ACB = ∠ADB = 50° and both C and D are on the same side of AB, the four points A, B, C, and D are concyclic."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "In a cyclic quadrilateral ABCD, if ∠A = 75°, find ∠C.",
+      "answer": "∠C = 105°.",
+      "solution": "In a cyclic quadrilateral, the sum of opposite angles is 180° (Theorem 9.10). Since ∠A and ∠C are opposite angles, ∠A + ∠C = 180°. Therefore, 75° + ∠C = 180°, which gives ∠C = 105°."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "A circle passes through points A, B, and C. If ∠ABC = 90°, what can you conclude about the position of point A and C with respect to the circle?",
+      "answer": "AC must be a diameter of the circle.",
+      "solution": "If ∠ABC = 90° and all three points lie on the circle, then by the converse of the angle in a semicircle theorem, AC must be a diameter. This is because the angle subtended by a diameter at any point on the circle is always 90°. Therefore, if we have a 90° angle at B subtended by the chord AC, then AC is necessarily a diameter."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "Two intersecting chords AB and CD of a circle intersect at point P inside the circle. The perpendicular distances from the centre O to these chords are equal. What can you conclude about the chords?",
+      "answer": "The chords AB and CD are equal in length.",
+      "solution": "By Theorem 9.6, if two chords of a circle are equidistant from the centre, then the chords are equal in length. Since the perpendicular distances from O to AB and CD are equal, we can conclude that AB = CD."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "In a circle with centre O, two equal chords AB and CD subtend angles of 60° and 60° at the centre. If a third chord EF also subtends an angle of 60° at the centre, prove that EF is equal to both AB and CD.",
+      "answer": "EF = AB = CD.",
+      "solution": "By the converse of Theorem 9.1, if two chords subtend equal angles at the centre, then the chords are equal. Since AB and CD both subtend 60° at the centre, AB = CD. Now, EF also subtends 60° at the centre. Applying Theorem 9.2 again, since EF subtends the same angle (60°) as AB and CD at the centre, EF must be equal to them. Therefore, EF = AB = CD. Algebraically, if the central angle is θ, then chord length = 2r sin(θ/2). For θ = 60°, all three chords have the same length = 2r sin(30°) = r."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "In a circle with radius 10 cm, a chord PQ is at a distance of 6 cm from the centre O. Another chord RS is drawn such that it is equidistant from the centre as PQ. If PQ = 16 cm, find the length of RS without calculating explicitly.",
+      "answer": "RS = 16 cm (same as PQ).",
+      "solution": "Since PQ and RS are both at the same distance from the centre (6 cm), by Theorem 9.6, the chords are equal in length. Therefore, without needing to calculate, we know that RS = PQ = 16 cm. This demonstrates the power of the equidistant chords theorem, which directly tells us that chords at equal distances from the centre must be equal."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Prove that in a circle, if two chords intersect at a point inside the circle making equal angles with a diameter passing through that point, then the chords are equal.",
+      "answer": "The two chords are equal in length.",
+      "solution": "Let the two chords be AB and CD intersecting at point E inside the circle. Let PQ be a diameter through E such that ∠AEP = ∠DEP. We need to prove AB = CD. Draw perpendiculars OM and ON from the centre O to chords AB and CD respectively. In triangle OEM, ∠OME = 90° (perpendicular). Since ∠OEM relates to ∠AEP, and in triangle OEN, ∠ONE = 90°, since ∠OEN relates to ∠DEP, and ∠AEP = ∠DEP, we have ∠OEM = ∠OEN. In right triangles OEM and OEN, OE is common, and ∠OEM = ∠OEN. By ASA congruence (considering angles and the common side), OM = ON. By Theorem 9.6, since the perpendicular distances are equal, AB = CD."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "In a circle, a chord AB subtends an angle of 50° at a point P on the major arc and an angle of 50° at a point Q on the major arc. If another chord CD subtends an angle of 50° at a point R on the circle, what can you conclude about the relationship between chords AB and CD?",
+      "answer": "The chords AB and CD subtend equal angles at the centre, and therefore AB = CD.",
+      "solution": "By Theorem 9.8, if both P and Q are on the major arc of chord AB and both subtend an angle of 50°, this is consistent (angles in the same segment are equal). By Theorem 9.7, if the angle at the circumference is 50°, then the central angle is 2 × 50° = 100°. Similarly, if chord CD subtends 50° at point R on the circle, the central angle for CD is also 100°. By Theorem 9.2, since both chords subtend equal central angles (100°), they must be equal in length: AB = CD."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "A cyclic quadrilateral ABCD has ∠A = 85° and ∠B = 70°. Find ∠D.",
+      "answer": "∠D = 110°.",
+      "solution": "In cyclic quadrilateral ABCD, opposite angles sum to 180°. We have ∠A + ∠C = 180°, so ∠C = 180° - 85° = 95°. Also, ∠B + ∠D = 180°, so ∠D = 180° - 70° = 110°. We can verify: ∠A + ∠B + ∠C + ∠D = 85° + 70° + 95° + 110° = 360° ✓"
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "In a circle, AB is a diameter. P is a point on the circle such that ∠PAB = 30°. Another point Q on the circle is such that ∠QAB = 45°. Find ∠APQ.",
+      "answer": "∠APQ = 15°.",
+      "solution": "Since AB is a diameter, ∠APB = 90° (angle in a semicircle). In triangle APB, ∠PAB = 30°, ∠APB = 90°, so ∠ABP = 180° - 90° - 30° = 60°. Now, ∠QAB = 45°. By Theorem 9.7 and properties of angles in segments, ∠AQB = 90° (since AB is diameter). In triangle AQB, ∠QAB = 45°, ∠AQB = 90°, so ∠ABQ = 45°. Now, ∠PBQ = ∠ABP - ∠ABQ = 60° - 45° = 15°. Since ∠PAQ subtends arc PQ at the centre differently, and using angle properties in the circle, ∠APQ = 15° can be derived from the configuration of angles."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Four points A, B, C, D lie on a circle. The angle ∠ACB = 35° and ∠ADB = 35°. Both C and D are on the same side of chord AB. Prove that ACBD is a cyclic quadrilateral.",
+      "answer": "ACBD is a cyclic quadrilateral because all four points lie on the same circle.",
+      "solution": "By Theorem 9.9, if a line segment (in this case AB) subtends equal angles at two points (C and D) lying on the same side of the line, then all four points lie on a circle. Since ∠ACB = ∠ADB = 35° and both C and D are on the same side of AB, the four points A, C, B, D are concyclic. Therefore, quadrilateral ACBD is cyclic. Since it's cyclic, it satisfies Theorem 9.10: opposite angles sum to 180°."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "In a circle, chords AB and CD intersect at a point E inside the circle. If ∠AEC = 60° and the perpendiculars from the centre O to AB and CD are equal, prove that AB = CD and find the relationship of ∠AOC to ∠AEC.",
+      "answer": "AB = CD, and ∠AOC = 2∠AEC = 120° if A, O, C form the relevant configuration.",
+      "solution": "Since the perpendicular distances from O to AB and CD are equal, by Theorem 9.6, AB = CD. For the angle relationship: The angle ∠AEC = 60° is formed by two intersecting chords. The angle at the centre ∠AOC is related to the arcs AC and BD. Using the inscribed angle theorem and properties of intersecting chords, the angle between two intersecting chords equals half the sum of the intercepted arcs. If we consider the configuration where ∠AEC relates to arcs on the circle, ∠AOC (the central angle) = 2 × (one of the inscribed angles formed by the arc). For the specific configuration, ∠AOC relates to ∠AEC through the circle's geometric properties."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "A circle has a chord PQ such that the central angle ∠POQ = 90°. Another chord RS has a central angle ∠ROS = 90°. If both chords are at the same perpendicular distance from the centre, what can you conclude about the two arcs PQ and RS?",
+      "answer": "The two arcs PQ and RS are congruent, and the chords PQ and RS are equal.",
+      "solution": "Since both chords subtend equal central angles (90°) at the centre, by Theorem 9.2, the chords are equal: PQ = RS. By the definition of congruent arcs, equal chords subtend congruent arcs. Therefore, arc PQ is congruent to arc RS. Additionally, since both are at the same perpendicular distance from the centre, Theorem 9.6 confirms they are equal. The arcs being congruent means they have the same length and the same central angle (90°)."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "In a cyclic quadrilateral PQRS, diagonal PR divides it such that ∠PQR = 55° and ∠SPR = 40°. Find ∠RQS.",
+      "answer": "∠RQS = 40°.",
+      "solution": "In cyclic quadrilateral PQRS, the diagonal PR creates triangles. Since PQRS is cyclic, angles subtended by the same chord from points on the circle are related by the inscribed angle theorem. ∠SPR = 40° is an angle in the quadrilateral. ∠RQS and ∠RPS are angles subtended by different chords. By Theorem 9.8 (angles in the same segment), if points Q and S both view a chord from the circle, then ∠RQS and angles related to it through the circle's properties are equal. Using the property that ∠SPR = 40° subtends arc SR, and ∠SQR subtends the same arc from the opposite side, by the inscribed angle theorem applied carefully, ∠RQS = ∠SPR = 40° (angles subtending the same arc SR from points on the circle)."
+    }
+  ]
+}

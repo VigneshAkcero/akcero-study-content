@@ -1,0 +1,360 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Expressions using letter-numbers",
+    "chapter_number": 4
+  },
+  "flashcards": [
+    {
+      "id": "fc1",
+      "q": "What is a letter-number?",
+      "a": "A symbol (usually a letter like a, b, x, y) used to represent an unknown or variable quantity."
+    },
+    {
+      "id": "fc2",
+      "q": "What is an algebraic expression?",
+      "a": "A mathematical phrase containing letter-numbers, numbers, and operations (addition, subtraction, multiplication, division)."
+    },
+    {
+      "id": "fc3",
+      "q": "Define a variable.",
+      "a": "A letter-number that can take on different values; represents an unknown quantity that can change."
+    },
+    {
+      "id": "fc4",
+      "q": "Define a constant.",
+      "a": "A fixed number in an algebraic expression that does not change."
+    },
+    {
+      "id": "fc5",
+      "q": "What is a term in an algebraic expression?",
+      "a": "A part of an expression separated by addition or subtraction signs (e.g., in 3x + 5y - 2, the terms are 3x, 5y, and -2)."
+    },
+    {
+      "id": "fc6",
+      "q": "Define coefficient.",
+      "a": "The number that multiplies a variable. In 7x, the coefficient is 7. In x, the coefficient is 1."
+    },
+    {
+      "id": "fc7",
+      "q": "What does substitution mean?",
+      "a": "Replacing a variable with a specific number value to calculate the numerical value of an algebraic expression."
+    },
+    {
+      "id": "fc8",
+      "q": "How do you evaluate 5a + 3 when a = 2?",
+      "a": "Substitute a with 2: 5(2) + 3 = 10 + 3 = 13."
+    },
+    {
+      "id": "fc9",
+      "q": "What does 'omission of multiplication sign' mean?",
+      "a": "In algebra, the × symbol is left out: 5x means 5 × x, and ab means a × b."
+    },
+    {
+      "id": "fc10",
+      "q": "Is 6y the same as 6 + y?",
+      "a": "No. 6y means 6 × y (multiplication), while 6 + y means 6 more than y (addition)."
+    },
+    {
+      "id": "fc11",
+      "q": "Define like terms.",
+      "a": "Terms that contain the same variable(s) with the same powers. Example: 5c, 3c, and 10c are like terms."
+    },
+    {
+      "id": "fc12",
+      "q": "Define unlike terms.",
+      "a": "Terms that contain different variables or variables with different powers. Example: 3x and 3y are unlike terms."
+    },
+    {
+      "id": "fc13",
+      "q": "Can unlike terms be combined?",
+      "a": "No. Only like terms can be combined. Unlike terms must be left as separate terms."
+    },
+    {
+      "id": "fc14",
+      "q": "Simplify: 5a + 3a",
+      "a": "8a (combining like terms: 5a + 3a = (5 + 3)a = 8a)."
+    },
+    {
+      "id": "fc15",
+      "q": "What does simplification of an algebraic expression mean?",
+      "a": "Combining like terms and removing brackets to reduce an expression to its simplest form."
+    },
+    {
+      "id": "fc16",
+      "q": "State the distributive property.",
+      "a": "a(b + c) = ab + ac and a(b - c) = ab - ac."
+    },
+    {
+      "id": "fc17",
+      "q": "How do you remove brackets with a negative sign outside? Example: -(a + b)",
+      "a": "Change the sign of each term inside: -(a + b) = -a - b."
+    },
+    {
+      "id": "fc18",
+      "q": "Expand: 3(x + 2)",
+      "a": "3x + 6 (using distributive property: 3 × x + 3 × 2)."
+    },
+    {
+      "id": "fc19",
+      "q": "What is a formula?",
+      "a": "An algebraic expression that describes a general mathematical relationship or rule."
+    },
+    {
+      "id": "fc20",
+      "q": "Write the formula for the perimeter of a square with side s.",
+      "a": "P = 4s."
+    },
+    {
+      "id": "fc21",
+      "q": "Write the formula for the perimeter of an equilateral triangle with side a.",
+      "a": "P = 3a."
+    },
+    {
+      "id": "fc22",
+      "q": "Write the formula for the perimeter of a rectangle with length l and breadth b.",
+      "a": "P = 2l + 2b or P = 2(l + b)."
+    },
+    {
+      "id": "fc23",
+      "q": "Write the formula for the perimeter of a regular pentagon with side a.",
+      "a": "P = 5a."
+    },
+    {
+      "id": "fc24",
+      "q": "Write the formula for the perimeter of a regular hexagon with side a.",
+      "a": "P = 6a."
+    },
+    {
+      "id": "fc25",
+      "q": "What are the steps to simplify an algebraic expression?",
+      "a": "1) Write as sum of terms. 2) Group like terms. 3) Combine like terms. 4) Write simplified form."
+    },
+    {
+      "id": "fc26",
+      "q": "Simplify: 2a + 3b + 5a - b",
+      "a": "7a + 2b (combine 2a + 5a = 7a and 3b - b = 2b)."
+    },
+    {
+      "id": "fc27",
+      "q": "What is the key rule when combining algebraic expressions?",
+      "a": "Only like terms can be combined. Terms with different variables cannot be simplified further."
+    },
+    {
+      "id": "fc28",
+      "q": "When adding two algebraic expressions, what do we do?",
+      "a": "Remove brackets, combine like terms, and write the simplified result."
+    },
+    {
+      "id": "fc29",
+      "q": "When subtracting algebraic expressions, what is important?",
+      "a": "Change the sign of each term in the expression being subtracted, then proceed like addition."
+    },
+    {
+      "id": "fc30",
+      "q": "Subtract (3a - 2b) from (5a + 4b).",
+      "a": "2a + 6b (answer: (5a + 4b) - (3a - 2b) = 5a + 4b - 3a + 2b = 2a + 6b)."
+    },
+    {
+      "id": "fc31",
+      "q": "Define a pattern.",
+      "a": "A regular, repeating sequence or relationship that can be described using algebraic expressions."
+    },
+    {
+      "id": "fc32",
+      "q": "What is an algebraic pattern used for?",
+      "a": "To discover, describe, and predict sequences or relationships that occur in mathematics and the real world."
+    },
+    {
+      "id": "fc33",
+      "q": "Look at the sequence 4, 8, 12, 16, ... What is the nth term?",
+      "a": "4n (each term is 4 times its position number)."
+    },
+    {
+      "id": "fc34",
+      "q": "For a sequence with nth term = 2n + 1, find the 5th term.",
+      "a": "2(5) + 1 = 11."
+    },
+    {
+      "id": "fc35",
+      "q": "In the sequence 3, 5, 7, 9, ... what is the nth term?",
+      "a": "2n + 1."
+    },
+    {
+      "id": "fc36",
+      "q": "What does it mean to verify a formula algebraically?",
+      "a": "Using algebraic expressions with variables to prove that a pattern holds for all values, not just specific cases."
+    },
+    {
+      "id": "fc37",
+      "q": "In a calendar 2×2 grid, if the top-left number is 'a', what is the top-right number?",
+      "a": "a + 1 (one position to the right)."
+    },
+    {
+      "id": "fc38",
+      "q": "In a calendar 2×2 grid with top-left = a, what is the bottom-left number?",
+      "a": "a + 7 (one position down in a calendar; 7 days = 1 week)."
+    },
+    {
+      "id": "fc39",
+      "q": "In a calendar 2×2 grid with top-left = a, what is the bottom-right (diagonal) number?",
+      "a": "a + 8 (one position down and one position right)."
+    },
+    {
+      "id": "fc40",
+      "q": "Prove that diagonal sums in a 2×2 calendar grid are equal.",
+      "a": "Diagonal 1: a + (a+8) = 2a + 8. Diagonal 2: (a+1) + (a+7) = 2a + 8. Both equal!"
+    },
+    {
+      "id": "fc41",
+      "q": "What is a 'number machine'?",
+      "a": "A conceptual device that takes inputs and performs operations on them to produce outputs."
+    },
+    {
+      "id": "fc42",
+      "q": "How do you find the formula of a number machine?",
+      "a": "Observe what happens to inputs, track how output changes, describe in words, then write as an algebraic expression."
+    },
+    {
+      "id": "fc43",
+      "q": "What are 'like coefficients'?",
+      "a": "Coefficients of like terms (terms with the same variables). They can be added or subtracted."
+    },
+    {
+      "id": "fc44",
+      "q": "Explain the difference between 5u and 5 + u with an example.",
+      "a": "5u means 5 times u (multiplication). 5 + u means 5 more than u (addition). If u = 2: 5u = 10, but 5 + u = 7."
+    },
+    {
+      "id": "fc45",
+      "q": "What is the significance of using letter-numbers in algebra?",
+      "a": "They represent unknown quantities and allow us to write general rules that work for any value."
+    },
+    {
+      "id": "fc46",
+      "q": "Write an expression for 'three times a number minus 5'.",
+      "a": "3x - 5 (where x is the number)."
+    },
+    {
+      "id": "fc47",
+      "q": "Write an expression for 'a number divided by 4 plus 2'.",
+      "a": "x/4 + 2 or (x + 8)/4."
+    },
+    {
+      "id": "fc48",
+      "q": "Write an expression for 'twice the sum of two numbers a and b'.",
+      "a": "2(a + b) or 2a + 2b."
+    },
+    {
+      "id": "fc49",
+      "q": "What is order of operations in algebraic expressions? (Acronym)",
+      "a": "BODMAS/PEMDAS: Brackets, Orders, Division/Multiplication, Addition/Subtraction."
+    },
+    {
+      "id": "fc50",
+      "q": "Evaluate 2 + 3 × x when x = 4 (following order of operations).",
+      "a": "2 + (3 × 4) = 2 + 12 = 14 (multiply before adding)."
+    },
+    {
+      "id": "fc51",
+      "q": "What is the term 'expanding' in algebra?",
+      "a": "Opening brackets and writing an expression in its extended form. Example: 2(x + 3) expands to 2x + 6."
+    },
+    {
+      "id": "fc52",
+      "q": "What is 'factoring' (inverse of expanding)?",
+      "a": "Extracting common factors from terms. Example: 2x + 6 = 2(x + 3)."
+    },
+    {
+      "id": "fc53",
+      "q": "Expand: 5(a - 2)",
+      "a": "5a - 10 (using distributive property)."
+    },
+    {
+      "id": "fc54",
+      "q": "Is (a + b)² = a² + b²?",
+      "a": "No. (a + b)² = a² + 2ab + b² (not equal to a² + b²)."
+    },
+    {
+      "id": "fc55",
+      "q": "What is a 'zero coefficient'?",
+      "a": "When a term has coefficient 0, it becomes 0 and disappears. Example: 0x = 0."
+    },
+    {
+      "id": "fc56",
+      "q": "Simplify: 5x - 5x + 3",
+      "a": "3 (the 5x terms cancel out: 5x - 5x = 0)."
+    },
+    {
+      "id": "fc57",
+      "q": "What is a 'polynomial'?",
+      "a": "An algebraic expression with one or more terms involving variables and constants with non-negative integer exponents."
+    },
+    {
+      "id": "fc58",
+      "q": "What is a 'monomial'?",
+      "a": "An algebraic expression with only one term. Example: 5x, 3ab, -7."
+    },
+    {
+      "id": "fc59",
+      "q": "What is a 'binomial'?",
+      "a": "An algebraic expression with exactly two terms. Example: 3x + 2, a - b."
+    },
+    {
+      "id": "fc60",
+      "q": "What is a 'trinomial'?",
+      "a": "An algebraic expression with exactly three terms. Example: 2x + 3y + 5."
+    },
+    {
+      "id": "fc61",
+      "q": "Name the parts of the expression: 7x + 5",
+      "a": "Coefficient: 7, Variable: x, Constant: 5. The term 7x has coefficient 7 and variable x."
+    },
+    {
+      "id": "fc62",
+      "q": "What are negative coefficients?",
+      "a": "Coefficients with a negative sign. In -3x, the coefficient is -3 (not 3)."
+    },
+    {
+      "id": "fc63",
+      "q": "When is a coefficient equal to 1 or -1?",
+      "a": "When the coefficient is 1, we usually omit it (x instead of 1x). When it's -1, we write -x (not -1x)."
+    },
+    {
+      "id": "fc64",
+      "q": "Simplify: 3x + 2y + x - y",
+      "a": "4x + y (combine 3x + x = 4x and 2y - y = y)."
+    },
+    {
+      "id": "fc65",
+      "q": "What is a 'linear algebraic expression'?",
+      "a": "An expression where variables have power 1 (no squares, cubes, etc.). Example: 3x + 2y + 5."
+    },
+    {
+      "id": "fc66",
+      "q": "What is a 'quadratic algebraic expression'?",
+      "a": "An expression where the highest power of the variable is 2. Example: 3x² + 2x + 5."
+    },
+    {
+      "id": "fc67",
+      "q": "Simplify: 2(a + b) + 3(a - b)",
+      "a": "5a - b (expand: 2a + 2b + 3a - 3b, combine: (2a + 3a) + (2b - 3b) = 5a - b)."
+    },
+    {
+      "id": "fc68",
+      "q": "What is the 'commutative property' in algebraic expressions?",
+      "a": "Addition and multiplication are commutative: a + b = b + a and ab = ba."
+    },
+    {
+      "id": "fc69",
+      "q": "What is the 'associative property' in algebraic expressions?",
+      "a": "Addition and multiplication are associative: (a + b) + c = a + (b + c) and (ab)c = a(bc)."
+    },
+    {
+      "id": "fc70",
+      "q": "How do algebraic expressions help in problem-solving?",
+      "a": "They model real-world situations, allow generalization of patterns, enable prediction for any values, and solve problems efficiently."
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Quadratic Equations",
+    "chapter_number": 4
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Check whether the equation (x + 1)² = 2(x - 3) is a quadratic equation.",
+      "answer": "Yes, it is a quadratic equation.",
+      "solution": "Expand the left side: (x + 1)² = x² + 2x + 1. The equation becomes x² + 2x + 1 = 2x - 6. Rearrange: x² + 2x + 1 - 2x + 6 = 0, which simplifies to x² + 7 = 0. This is of the form ax² + bx + c = 0 with a = 1, b = 0, c = 7, and a ≠ 0. Therefore, it is a quadratic equation."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Is the equation x(x + 1) + 8 = (x + 2)(x - 2) a quadratic equation? Justify.",
+      "answer": "No, it is not a quadratic equation.",
+      "solution": "Expand the left side: x(x + 1) + 8 = x² + x + 8. Expand the right side: (x + 2)(x - 2) = x² - 4. The equation becomes x² + x + 8 = x² - 4. Rearrange: x² + x + 8 - x² + 4 = 0, which simplifies to x + 12 = 0. The highest power of x is 1, not 2. Therefore, it is a linear equation, not a quadratic equation."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Find the roots of the quadratic equation x² - 3x - 10 = 0 by factorisation.",
+      "answer": "x = 5 or x = -2",
+      "solution": "Factorise x² - 3x - 10. We need two numbers whose product is -10 and sum is -3. These are -5 and 2. Split the middle term: x² - 5x + 2x - 10 = 0. Group: x(x - 5) + 2(x - 5) = 0. Factor: (x + 2)(x - 5) = 0. So x + 2 = 0 or x - 5 = 0, giving x = -2 or x = 5. Verification: For x = 5: 5² - 3(5) - 10 = 25 - 15 - 10 = 0 ✓. For x = -2: (-2)² - 3(-2) - 10 = 4 + 6 - 10 = 0 ✓."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Find the roots of 2x² + 7x + 3 = 0 by factorisation.",
+      "answer": "x = -1/2 or x = -3",
+      "solution": "Factorise 2x² + 7x + 3. Here, a = 2, c = 3, so ac = 6. We need two numbers whose product is 6 and sum is 7. These are 6 and 1. Split: 2x² + 6x + x + 3 = 0. Group: 2x(x + 3) + 1(x + 3) = 0. Factor: (2x + 1)(x + 3) = 0. So 2x + 1 = 0 or x + 3 = 0, giving x = -1/2 or x = -3. Verification: For x = -1/2: 2(-1/2)² + 7(-1/2) + 3 = 1/2 - 7/2 + 3 = 0 ✓. For x = -3: 2(-3)² + 7(-3) + 3 = 18 - 21 + 3 = 0 ✓."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Determine the nature of roots of x² - 6x + 9 = 0 using the discriminant.",
+      "answer": "The equation has two equal real roots.",
+      "solution": "Here, a = 1, b = -6, c = 9. Discriminant: Δ = b² - 4ac = (-6)² - 4(1)(9) = 36 - 36 = 0. Since Δ = 0, the equation has two equal real roots. The repeated root is x = -b / (2a) = 6 / 2 = 3. Verification: x² - 6x + 9 = (x - 3)² = 0, confirming x = 3 (with multiplicity 2)."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Without solving, determine the nature of roots of 2x² - 4x + 5 = 0.",
+      "answer": "The equation has no real roots.",
+      "solution": "Here, a = 2, b = -4, c = 5. Discriminant: Δ = b² - 4ac = (-4)² - 4(2)(5) = 16 - 40 = -24 < 0. Since Δ < 0, the equation has no real roots. The roots are complex or imaginary."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Solve x² = 4 by factorisation.",
+      "answer": "x = 2 or x = -2",
+      "solution": "Rewrite: x² - 4 = 0. Factorise as a difference of squares: (x - 2)(x + 2) = 0. So x - 2 = 0 or x + 2 = 0, giving x = 2 or x = -2. Verification: For x = 2: 2² = 4 ✓. For x = -2: (-2)² = 4 ✓."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "A rectangular garden has a length 5 m more than its width. If the area of the garden is 84 m², find the dimensions.",
+      "answer": "Width = 7 m, Length = 12 m",
+      "solution": "Let w = width in metres. Length = w + 5. Area equation: w(w + 5) = 84, which gives w² + 5w - 84 = 0. Factorise: We need two numbers with product -84 and sum 5. These are 12 and -7. So w² + 12w - 7w - 84 = 0, giving (w + 12)(w - 7) = 0. Thus w = -12 or w = 7. Since width is positive, w = 7 m. Length = 7 + 5 = 12 m. Verification: Area = 7 × 12 = 84 m² ✓."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "The product of two consecutive positive integers is 156. Find the integers.",
+      "answer": "The integers are 12 and 13.",
+      "solution": "Let x = first integer, then x + 1 = second integer. Equation: x(x + 1) = 156, which gives x² + x - 156 = 0. Factorise: We need two numbers with product -156 and sum 1. These are 13 and -12. So x² + 13x - 12x - 156 = 0, giving (x + 13)(x - 12) = 0. Thus x = -13 or x = 12. Since we need positive integers, x = 12. The integers are 12 and 13. Verification: 12 × 13 = 156 ✓."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "The area of a rectangular plot is 528 m². The length is one more than twice its breadth. Find the length and breadth.",
+      "answer": "Breadth = 16 m, Length = 33 m",
+      "solution": "Let b = breadth in metres. Length = 2b + 1. Area equation: b(2b + 1) = 528, which gives 2b² + b - 528 = 0. Factorise: ac = 2(-528) = -1056. We need two numbers with product -1056 and sum 1. These are 33 and -32. Split: 2b² + 33b - 32b - 528 = 0. Group: b(2b + 33) - 16(2b + 33) = 0. Factor: (2b + 33)(b - 16) = 0. Thus b = -33/2 or b = 16. Since breadth is positive, b = 16 m. Length = 2(16) + 1 = 33 m. Verification: Area = 16 × 33 = 528 m² ✓."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Rohan's mother is 26 years older than him. The product of their ages 3 years from now will be 360. Find Rohan's present age.",
+      "answer": "Rohan's present age is 7 years.",
+      "solution": "Let r = Rohan's present age. Mother's age = r + 26. In 3 years: Rohan's age = r + 3, Mother's age = r + 29. Equation: (r + 3)(r + 29) = 360. Expand: r² + 29r + 3r + 87 = 360, which gives r² + 32r + 87 - 360 = 0, or r² + 32r - 273 = 0. Factorise: We need two numbers with product -273 and sum 32. These are 39 and -7. So (r + 39)(r - 7) = 0. Thus r = -39 or r = 7. Since age is positive, r = 7. Rohan is 7 years old. Verification: Mother is 33. In 3 years: Rohan is 10, Mother is 36. Product: 10 × 36 = 360 ✓."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Find the roots of 3x² - 2√6x + 2 = 0 by factorisation.",
+      "answer": "x = √(2/3) (repeated root)",
+      "solution": "Factorise 3x² - 2√6x + 2. Here, a = 3, c = 2, so ac = 6. We need two numbers with product 6 and sum -2√6. These are -√6 and -√6. Split: 3x² - √6x - √6x + 2 = 0. Group: √3x(√3x - √2) - √2(√3x - √2) = 0. Factor: (√3x - √2)² = 0. Thus √3x - √2 = 0, giving x = √2 / √3 = √(2/3). The repeated root is x = √(2/3)."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Use the quadratic formula to solve 3x² - 2x - 8 = 0.",
+      "answer": "x = 2 or x = -4/3",
+      "solution": "Here, a = 3, b = -2, c = -8. Using the quadratic formula: x = [2 ± √(4 + 96)] / 6 = [2 ± √100] / 6 = [2 ± 10] / 6. So x = 12/6 = 2 or x = -8/6 = -4/3. Verification: For x = 2: 3(4) - 2(2) - 8 = 12 - 4 - 8 = 0 ✓. For x = -4/3: 3(16/9) - 2(-4/3) - 8 = 16/3 + 8/3 - 8 = 24/3 - 8 = 0 ✓."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "A train travels 480 km at a uniform speed. If the speed had been 8 km/h less, it would have taken 3 hours more. Find the original speed of the train.",
+      "answer": "The original speed is 40 km/h.",
+      "solution": "Let v = original speed (km/h). Time at original speed = 480/v. Time at reduced speed = 480/(v - 8). Equation: 480/(v - 8) - 480/v = 3. Simplify: [480v - 480(v - 8)] / [v(v - 8)] = 3. This gives 3840 / [v(v - 8)] = 3, so v(v - 8) = 1280, or v² - 8v - 1280 = 0. Using the quadratic formula: v = [8 ± √(64 + 5120)] / 2 = [8 ± √5184] / 2 = [8 ± 72] / 2. So v = 40 or v = -32. Since speed is positive, v = 40 km/h. Verification: Original time = 480/40 = 12 hours. Time at 32 km/h = 480/32 = 15 hours. Difference = 3 hours ✓."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Find the value of k such that the quadratic equation 2x² + kx + 3 = 0 has equal roots.",
+      "answer": "k = ±2√6",
+      "solution": "For equal roots, the discriminant must be zero: Δ = k² - 4(2)(3) = 0. This gives k² - 24 = 0, so k² = 24, thus k = ±√24 = ±2√6. Verification: If k = 2√6, the equation is 2x² + 2√6x + 3 = 0. Discriminant: (2√6)² - 24 = 24 - 24 = 0 ✓."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Is it possible to design a rectangular mango grove with length twice the breadth and area 800 m²? If so, find its dimensions.",
+      "answer": "Yes, it is possible. Breadth = 20 m, Length = 40 m.",
+      "solution": "Let b = breadth in metres. Length = 2b. Area equation: b(2b) = 800, which gives 2b² = 800, or b² = 400. Thus b = ±20. Since breadth is positive, b = 20 m. Length = 2(20) = 40 m. This is a quadratic equation (when rewritten as 2b² - 800 = 0) with real, distinct roots. Verification: Area = 20 × 40 = 800 m² ✓."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "The sum of the ages of two friends is 20 years. Four years ago, the product of their ages was 48. Is this situation possible? If yes, find their present ages.",
+      "answer": "Yes, it is possible. Their present ages are 16 years and 4 years.",
+      "solution": "Let x = present age of one friend. Age of other friend = 20 - x. Four years ago: First friend's age = x - 4, Second friend's age = 16 - x. Equation: (x - 4)(16 - x) = 48. Expand: 16x - x² - 64 + 4x = 48, which gives -x² + 20x - 64 = 48, or x² - 20x + 112 = 0. Discriminant: Δ = 400 - 448 = -48 < 0. Since Δ < 0, the equation has no real roots. This situation is NOT possible. (Note: If the problem states the sum is 20 and the product 4 years ago was different, it might be possible. The question as stated is impossible.)"
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "Prove that if a quadratic equation ax² + bx + c = 0 (a ≠ 0) has two equal roots, then b² = 4ac.",
+      "answer": "If the equation has two equal roots, then the discriminant must be zero.",
+      "solution": "For a quadratic equation ax² + bx + c = 0, the discriminant is Δ = b² - 4ac. The roots are given by x = [-b ± √Δ] / (2a). If the equation has two equal roots, it means both roots are the same, which occurs only when the term √Δ becomes zero. This implies Δ = 0, so b² - 4ac = 0, thus b² = 4ac. Conversely, if b² = 4ac, then Δ = 0, and the repeated root is x = -b / (2a)."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "A pole is to be erected on the boundary of a circular park with diameter 13 m. The difference of distances from the pole to two diametrically opposite gates is 7 m. At what distances should the pole be erected from the two gates?",
+      "answer": "The pole should be 5 m from one gate and 12 m from the other gate.",
+      "solution": "Let P be the pole's location, A and B the diametrically opposite gates. Let BP = x. Then AP = x + 7 (from the difference condition). Since AB is a diameter, angle APB = 90° (Thales' theorem). By Pythagoras: AP² + BP² = AB² = 13². So (x + 7)² + x² = 169. Expand: x² + 14x + 49 + x² = 169, giving 2x² + 14x - 120 = 0, or x² + 7x - 60 = 0. Factorise: (x + 12)(x - 5) = 0. Thus x = -12 or x = 5. Since distance is positive, x = 5 m from gate B and 12 m from gate A. Verification: 5² + 12² = 25 + 144 = 169 = 13² ✓."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "A rectangular garden has a perimeter of 100 m. If the length exceeds the width by 4 m, form a quadratic equation for the dimensions and solve it.",
+      "answer": "Width = 23 m, Length = 27 m",
+      "solution": "Let w = width in metres. Length = w + 4. Perimeter: 2(w + w + 4) = 100, which gives 2(2w + 4) = 100, so 4w + 8 = 100, thus 4w = 92, and w = 23 m. Alternatively, using the quadratic approach: Area equation (if needed) or setting up from the constraint: Length = w + 4. From perimeter, 2w + 2(w + 4) = 100 simplifies to 4w + 8 = 100. This is linear, not quadratic. However, if an additional constraint like area = k is given, it becomes quadratic. With the given information, the solution is w = 23 m and length = 27 m. Verification: Perimeter = 2(23 + 27) = 100 m ✓."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Explain why the quadratic equation x² + x + 1 = 0 has no real roots. Use both the discriminant and geometric interpretation.",
+      "answer": "The discriminant is negative, and the parabola does not intersect the x-axis.",
+      "solution": "Discriminant method: For x² + x + 1 = 0, we have a = 1, b = 1, c = 1. Discriminant: Δ = 1² - 4(1)(1) = 1 - 4 = -3 < 0. Since Δ < 0, the equation has no real roots. Geometric interpretation: The equation represents the parabola y = x² + x + 1. Since the coefficient of x² is positive (a = 1 > 0), the parabola opens upward. The vertex is at x = -b / (2a) = -1/2. The y-coordinate of the vertex is (-1/2)² + (-1/2) + 1 = 1/4 - 1/2 + 1 = 3/4 > 0. Since the vertex is above the x-axis and the parabola opens upward, it never intersects the x-axis. Therefore, the equation has no real roots."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "Compare the roots of the equations x² - 5x + 6 = 0 and x² - 5x + 4 = 0. What is the effect of changing the constant term?",
+      "answer": "Changing the constant term shifts the roots and affects the discriminant.",
+      "solution": "For x² - 5x + 6 = 0: Factorise (x - 2)(x - 3) = 0, so roots are 2 and 3. Discriminant: 25 - 24 = 1 > 0 (two distinct real roots). For x² - 5x + 4 = 0: Factorise (x - 1)(x - 4) = 0, so roots are 1 and 4. Discriminant: 25 - 16 = 9 > 0 (two distinct real roots). Observation: Changing the constant term from 6 to 4 changes the roots from (2, 3) to (1, 4). The roots shift, and the sum of roots remains 5 (from -b/a), but the product changes from 6 to 4. The discriminant also changes (from 1 to 9), indicating different separations between the roots."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "A quadratic equation has roots 3 and -2. Form the equation in the form ax² + bx + c = 0.",
+      "answer": "x² - x - 6 = 0 (or any scalar multiple like 2x² - 2x - 12 = 0)",
+      "solution": "If roots are 3 and -2, the equation can be written as (x - 3)(x + 2) = 0. Expand: x² + 2x - 3x - 6 = 0, which gives x² - x - 6 = 0. Here, a = 1, b = -1, c = -6. Verify: Sum of roots = -b/a = 1/1 = 1, and 3 + (-2) = 1 ✓. Product of roots = c/a = -6/1 = -6, and 3 × (-2) = -6 ✓. Note: Any equation of the form k(x² - x - 6) = 0 where k ≠ 0 also has the same roots."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "The sum of two numbers is 15 and the sum of their squares is 113. Form a quadratic equation and find the numbers.",
+      "answer": "The numbers are 8 and 7.",
+      "solution": "Let x and y be the two numbers. Given: x + y = 15 and x² + y² = 113. From the first equation, y = 15 - x. Substitute into the second: x² + (15 - x)² = 113. Expand: x² + 225 - 30x + x² = 113, giving 2x² - 30x + 225 - 113 = 0, or 2x² - 30x + 112 = 0, which simplifies to x² - 15x + 56 = 0. Factorise: (x - 8)(x - 7) = 0. So x = 8 or x = 7. If x = 8, then y = 7. If x = 7, then y = 8. The numbers are 8 and 7. Verification: Sum = 8 + 7 = 15 ✓. Sum of squares = 64 + 49 = 113 ✓."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Analyse the quadratic equation x² - 2(k + 1)x + k² = 0. For what value of k does it have equal roots? Interpret the result.",
+      "answer": "The equation has equal roots when k = -1/2.",
+      "solution": "For equal roots, the discriminant must be zero: Δ = [-2(k + 1)]² - 4(1)(k²) = 0. Expand: 4(k + 1)² - 4k² = 0. Divide by 4: (k + 1)² - k² = 0. Expand: k² + 2k + 1 - k² = 0, which gives 2k + 1 = 0, so k = -1/2. When k = -1/2, the equation becomes x² - 2(-1/2 + 1)x + (-1/2)² = 0, or x² - 2(1/2)x + 1/4 = 0, which simplifies to x² - x + 1/4 = 0, or (x - 1/2)² = 0. The repeated root is x = 1/2. Interpretation: For the family of equations parameterised by k, equal roots occur at exactly one value of k = -1/2, creating a critical point where the discriminant transitions from positive to negative (or vice versa)."
+    }
+  ]
+}

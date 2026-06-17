@@ -1,0 +1,185 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Beyond Earth",
+    "chapter_number": 12
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Name the brightest star in the night sky.",
+      "answer": "Sirius.",
+      "solution": "Sirius, found in the constellation Canis Major, is the brightest star when viewed from Earth."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Which planet is known as the 'Red Planet'?",
+      "answer": "Mars.",
+      "solution": "Mars is called the Red Planet because the soil on its surface is reddish in colour."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "How many constellations are officially listed by the International Astronomical Union (IAU)?",
+      "answer": "88.",
+      "solution": "The IAU officially lists 88 constellations, dividing the entire sky into 88 regions."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Which star appears stationary in the North direction in the Northern hemisphere?",
+      "answer": "The Pole Star (or Polaris).",
+      "solution": "The Pole Star (known as Dhruva Tara in India) appears stationary in the North direction because it lies directly above the Earth's axis of rotation."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What is our home galaxy called?",
+      "answer": "The Milky Way Galaxy (or Akasha Ganga).",
+      "solution": "Our Solar System is part of a large galaxy known as the Milky Way or Akasha Ganga."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What is the name of the constellation imagined as a hunter?",
+      "answer": "Orion.",
+      "solution": "Orion is a visible constellation often represented as a hunter, with three bright middle stars representing his belt."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "How can you distinguish between a planet and a star in the night sky?",
+      "answer": "Stars appear to twinkle, while planets do not twinkle as much and look like shining dots.",
+      "solution": "Unlike stars, planets are much closer and their relative brilliance is steady, so they appear like shining dots and do not twinkle like distant stars."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "What is 'Light Pollution' and how does it affect our view of the night sky?",
+      "answer": "It is the presence of excessive artificial light at night, which reduces our ability to see dim objects in the sky.",
+      "solution": "Light pollution refers to artificial light from cities and towns that brightens the night sky, making it hard to observe faint stars and distant galaxies."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Why is Venus hotter than Mercury even though it is farther from the Sun?",
+      "answer": "Because of its thick atmosphere that traps heat.",
+      "solution": "The existence of a thick atmosphere on Venus traps heat, making it significantly hotter than Mercury, despite Mercury being the closest planet to the Sun."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Describe the method to locate the Pole Star using the Big Dipper constellation.",
+      "answer": "Follow a straight line through the two pointer stars at the end of the Big Dipper's cup.",
+      "solution": "Look at the stars at the end of the Big Dipper's cup, and imagine a straight line passing through them. At about 5 times the distance between them, you will find the Pole Star."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "In Indian astronomy, what are 'Nakshatras'? Provide two examples mentioned in the chapter.",
+      "answer": "Nakshatras are certain stars or groups of stars; examples include Rohini and Krittika.",
+      "solution": "The term nakshatra denotes a star or group (e.g., Ardra for Betelgeuse and Krittika for the Pleiades cluster)."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Explain why Pluto is no longer classified as a planet according to the 2006 IAU definition.",
+      "answer": "Pluto is now called a dwarf planet because it did not meet all the new IAU requirements for being a planet.",
+      "solution": "After discovering other similar small objects, the IAU redefined 'planet' in 2006, and Pluto was reclassified as a dwarf planet due to its smaller size and shared path."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "What are craters and how do they form on the Moon's surface?",
+      "answer": "They are bowl-like structures formed by impacts from asteroids or space rocks.",
+      "solution": "Craters are circular depressions formed when asteroids or meteorites hit the Moon. Without an atmosphere to erode them, they stay on the surface for millions of years."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "What is the 'Asteroid Belt' and where is it located?",
+      "answer": "A region of rocky objects between Mars and Jupiter.",
+      "solution": "The asteroid belt is a region between the orbits of Mars and Jupiter where millions of small, rocky, irregular objects (asteroids) revolve around the Sun."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Explain how a comet develops its characteristic tail.",
+      "answer": "Frozen materials evaporate as it approaches the Sun.",
+      "solution": "When a comet gets close to the Sun, its frozen gases and dust start evaporating due to the sun's heat, forming a long tail that always points away from the Sun."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Hard",
+      "question": "Compare the inner and outer planets of the Solar System based on their size and composition.",
+      "answer": "Inner planets are small and rocky; outer planets are giant and gaseous.",
+      "solution": "The inner four planets (Mercury, Venus, Earth, Mars) are smaller with solid surfaces. The outer four (Jupiter, Saturn, Uranus, Neptune) are massive gas giants with ring-like structures."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Hard",
+      "question": "Explain the difference in distance between the Sun and our next nearest star, Proxima Centauri, using Astronomical Units.",
+      "answer": "The Sun is 1 au away, while Proxima Centauri is 269,000 au away.",
+      "solution": "One au is the distance between the Earth and the Sun. Proxima Centauri is approximately 269,000 times farther away from us than the Sun is."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "What is the significance of August 23 in India's space program and who declared it so?",
+      "answer": "It is National Space Day, declared by the Government of India to mark the success of Chandrayaan-3.",
+      "solution": "August 23 commemorates the successful soft-landing of Chandrayaan-3's Vikram lander near the Moon's south pole in 2023."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "Why are stars not visible to the naked eye during the daytime?",
+      "answer": "The extreme brightness of the Sun washes out the light of other stars.",
+      "solution": "Stars are present in the sky during the day, but their faint light is overwhelmed by the glare of the Sun in our atmosphere."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Discuss two weather conditions that make Hanle in Ladakh an ideal location for an astronomical observatory.",
+      "answer": "Cloudless weather and low levels of air/light pollution.",
+      "solution": "Hanle is cloudless most of the year and has minimal pollution, providing very clear views of the night sky from its high-altitude location."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Where is the Himalayan Chandra Telescope located and what is it named after?",
+      "answer": "It is located in the Hanle observatory on Mount Saraswati, named after scientist Subrahmanyan Chandrasekhar.",
+      "solution": "The telescope is situated at one of the world's highest locations in Ladakh and named after the Nobel Prize winning scientist Subrahmanyan Chandrasekhar."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "Explain why you should wait for nearly 30 minutes in a dark area before starting to watch the night sky.",
+      "answer": "For dark adaptation of the eyes.",
+      "solution": "Waiting for about 30 minutes allows the pupils to dilate and the eyes to adjust to darkness, making it much easier to see dim stars and distant objects."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "What is the 'Astronomical Unit' (au) approximately equivalent to in kilometres?",
+      "answer": "About 150 million km.",
+      "solution": "An astronomical unit is a standard unit of distance in astronomy representing the average distance from the Earth to the Sun, roughly 150,000,000 km."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Differentiate between a satellite and a planet using Earth and the Sun as examples.",
+      "answer": "A planet revolves around a star, a satellite revolves around a planet.",
+      "solution": "Earth is a planet because it revolves around the star (Sun). The Moon is a satellite because it revolves around our planet (Earth)."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Medium",
+      "question": "How often does Halley's Comet appear close to the Sun and when was its last appearance?",
+      "answer": "Every 76 years; last seen in 1986.",
+      "solution": "Halley's Comet periodically approaches the Sun every 76 years, and its most recent visit was in 1986."
+    }
+  ]
+}

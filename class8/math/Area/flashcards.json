@@ -1,0 +1,294 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Area",
+    "chapter_number": 7
+  },
+  "flashcards": [
+    {
+      "q": "Define area.",
+      "a": "Area is the measure of the amount of surface enclosed within a closed figure, typically measured in square units (cm², m², in², etc.)."
+    },
+    {
+      "q": "What is a unit square?",
+      "a": "A unit square is a square with side length 1 unit. It serves as a standard measure for area, with an area of 1 square unit."
+    },
+    {
+      "q": "Can two shapes have the same perimeter but different areas?",
+      "a": "Yes. Perimeter and area are independent properties. For example, a 10 × 1 rectangle has perimeter 22 cm and area 10 cm², while a 6 × 4 rectangle has perimeter 20 cm and area 24 cm²."
+    },
+    {
+      "q": "Why cannot perimeter be used as a measure of area?",
+      "a": "Perimeter measures the boundary length, while area measures the enclosed space. These are distinct properties. Two regions can have the same perimeter but different areas, and vice versa."
+    },
+    {
+      "q": "State the formula for the area of a rectangle.",
+      "a": "Area = length × width"
+    },
+    {
+      "q": "How is the area of a square different from a rectangle?",
+      "a": "A square is a special rectangle where all sides are equal. Area of square = side², while area of rectangle = length × width."
+    },
+    {
+      "q": "State the formula for the area of a triangle.",
+      "a": "Area = (1/2) × base × height, where height is the perpendicular distance from the base to the opposite vertex."
+    },
+    {
+      "q": "Does the triangle area formula work for obtuse triangles?",
+      "a": "Yes. The formula holds for all types of triangles (acute, right-angled, obtuse). For obtuse triangles, the height is measured as a perpendicular from the vertex to the line containing the opposite side."
+    },
+    {
+      "q": "What is the relationship between a rectangle's area and the triangles formed by its diagonal?",
+      "a": "A diagonal divides a rectangle into two congruent triangles. Each triangle has area = (1/2) × area of rectangle."
+    },
+    {
+      "q": "Define what a median of a triangle is.",
+      "a": "A median is a line segment from a vertex of a triangle to the midpoint of the opposite side."
+    },
+    {
+      "q": "What property does a median have regarding triangle areas?",
+      "a": "A median divides a triangle into two triangles of equal areas. Each smaller triangle has area = (1/2) × area of original triangle."
+    },
+    {
+      "q": "State the formula for the area of a parallelogram.",
+      "a": "Area = base × height, where height is the perpendicular distance between two parallel sides."
+    },
+    {
+      "q": "Can any side of a parallelogram be chosen as the base?",
+      "a": "Yes. Any side can be chosen as the base; the corresponding height is the perpendicular distance from that base to the opposite side."
+    },
+    {
+      "q": "What happens to the area of a parallelogram if the base is doubled while height remains constant?",
+      "a": "The area doubles. Since Area = base × height, doubling the base doubles the area."
+    },
+    {
+      "q": "Define a rhombus.",
+      "a": "A rhombus is a special parallelogram where all four sides are equal in length."
+    },
+    {
+      "q": "What is the key property of the diagonals of a rhombus?",
+      "a": "The diagonals of a rhombus are perpendicular bisectors of each other. They bisect each other at right angles (90°)."
+    },
+    {
+      "q": "State the formula for the area of a rhombus using diagonals.",
+      "a": "Area = (1/2) × d₁ × d₂, where d₁ and d₂ are the lengths of the two diagonals."
+    },
+    {
+      "q": "How can a rhombus be converted into a rectangle?",
+      "a": "A rhombus can be dissected (cut and rearranged) into a rectangle of equal area using its diagonals as guides."
+    },
+    {
+      "q": "Define a trapezium.",
+      "a": "A trapezium is a quadrilateral with exactly one pair of parallel sides. The parallel sides are called bases, and the perpendicular distance between them is called the height."
+    },
+    {
+      "q": "State the formula for the area of a trapezium.",
+      "a": "Area = (1/2) × height × (sum of parallel sides) = (1/2) × h × (a + b)"
+    },
+    {
+      "q": "Can the trapezium area formula be derived using parallelograms?",
+      "a": "Yes. Two identical trapeziums can be arranged (with one rotated 180°) to form a parallelogram. The trapezium area is half the parallelogram's area."
+    },
+    {
+      "q": "What is an isosceles trapezium?",
+      "a": "An isosceles trapezium is a trapezium where the non-parallel sides are equal in length. It has a vertical line of symmetry."
+    },
+    {
+      "q": "State the method to find the area of any polygon.",
+      "a": "Any polygon can be divided into triangles by drawing diagonals from one vertex. The total area is the sum of the areas of all triangles."
+    },
+    {
+      "q": "How many triangles are formed when you divide a quadrilateral by drawing one diagonal?",
+      "a": "Two triangles. The area of the quadrilateral is the sum of the areas of these two triangles."
+    },
+    {
+      "q": "State the formula for the area of a quadrilateral if one diagonal and perpendicular distances are known.",
+      "a": "Area = (1/2) × diagonal × (h₁ + h₂), where h₁ and h₂ are the perpendicular distances from the other two vertices to the diagonal."
+    },
+    {
+      "q": "What is dissection in the context of area?",
+      "a": "Dissection is the process of cutting a figure into pieces and rearranging them to form a different figure of the same area. It is used to derive and prove area formulas."
+    },
+    {
+      "q": "How can a parallelogram be converted into a rectangle using dissection?",
+      "a": "Draw a perpendicular from one vertex to the opposite side. Cut along this perpendicular to separate a triangle. Move this triangle to the opposite side to form a rectangle of equal area."
+    },
+    {
+      "q": "What is the RHS congruency criterion?",
+      "a": "RHS (Right-angle Hypotenuse-Side) states that two right triangles are congruent if their hypotenuses and one corresponding side are equal."
+    },
+    {
+      "q": "Explain why triangles with the same base and vertices on parallel lines have equal areas.",
+      "a": "All such triangles share the same base and the same perpendicular height (the distance between the parallel lines). Since Area = (1/2) × base × height, they have equal areas."
+    },
+    {
+      "q": "What is the conversion factor from cm² to m²?",
+      "a": "1 m² = 10,000 cm² (because 1 m = 100 cm, so 1 m² = 100 cm × 100 cm = 10,000 cm²)"
+    },
+    {
+      "q": "What is the conversion factor from in² to cm²?",
+      "a": "1 in² = 6.4516 cm² (because 1 in = 2.54 cm, so 1 in² = 2.54² = 6.4516 cm²)"
+    },
+    {
+      "q": "How many cm² are in 1 ft²?",
+      "a": "1 ft² = 929.03 cm² (because 1 ft = 12 in = 30.48 cm, so 1 ft² = 929.03 cm²). Alternatively, 1 ft² = 144 in² = 144 × 6.4516 cm²."
+    },
+    {
+      "q": "What is an acre?",
+      "a": "An acre is a unit of area used for measuring land, equal to 43,560 square feet."
+    },
+    {
+      "q": "What is the conversion between km² and m²?",
+      "a": "1 km² = 1,000,000 m² (because 1 km = 1000 m, so 1 km² = 1000 m × 1000 m = 1,000,000 m²)"
+    },
+    {
+      "q": "Name three local units of area measurement used in India.",
+      "a": "Bigha, gaj, katha, dhur, cent, and ankanam (various regions use different units)."
+    },
+    {
+      "q": "If a rectangle has area 120 cm² and length 15 cm, what is its width?",
+      "a": "Width = 8 cm (because Area = length × width, so 120 = 15 × width, width = 120 ÷ 15 = 8)"
+    },
+    {
+      "q": "If a triangle has area 50 cm² and base 10 cm, what is its height?",
+      "a": "Height = 10 cm (because Area = (1/2) × base × height, so 50 = (1/2) × 10 × height, height = 10)"
+    },
+    {
+      "q": "If a parallelogram has area 96 cm² and height 12 cm, what is its base?",
+      "a": "Base = 8 cm (because Area = base × height, so 96 = base × 12, base = 8)"
+    },
+    {
+      "q": "If a rhombus has area 150 cm² and one diagonal is 20 cm, what is the other diagonal?",
+      "a": "Other diagonal = 15 cm (because Area = (1/2) × d₁ × d₂, so 150 = (1/2) × 20 × d₂, d₂ = 15)"
+    },
+    {
+      "q": "If a trapezium has area 80 cm² and parallel sides 10 cm and 14 cm, what is its height?",
+      "a": "Height = 6.67 cm (approximately) (because Area = (1/2) × h × (a + b), so 80 = (1/2) × h × (10 + 14), h = 80 ÷ 12 ≈ 6.67)"
+    },
+    {
+      "q": "What happens to the area of a square if the side length is doubled?",
+      "a": "The area becomes four times larger. If original area = s², new area = (2s)² = 4s²."
+    },
+    {
+      "q": "What happens to the area of a triangle if both the base and height are doubled?",
+      "a": "The area becomes four times larger. Original area = (1/2) × b × h. New area = (1/2) × 2b × 2h = 4 × ((1/2) × b × h)."
+    },
+    {
+      "q": "What happens to the area of a parallelogram if the base is tripled and the height is halved?",
+      "a": "The area remains the same (becomes 1.5 times). New area = 3b × (h/2) = 1.5 × (b × h)."
+    },
+    {
+      "q": "Define the height of a triangle.",
+      "a": "The height of a triangle is the perpendicular distance from any vertex to the opposite side (called the base). The height is always perpendicular (at 90°) to the base."
+    },
+    {
+      "q": "Can the height of a triangle be located outside the triangle?",
+      "a": "Yes. For obtuse triangles, when the perpendicular is drawn from a vertex to the line containing the opposite side, the foot of the perpendicular may lie outside the triangle."
+    },
+    {
+      "q": "What is a diagonal in a polygon?",
+      "a": "A diagonal is a line segment connecting two non-adjacent vertices of a polygon."
+    },
+    {
+      "q": "How many diagonals does a rhombus have?",
+      "a": "A rhombus has 2 diagonals. These diagonals bisect each other at right angles and divide the rhombus into 4 congruent right triangles."
+    },
+    {
+      "q": "If two parallelograms have the same base and height, do they have the same area?",
+      "a": "Yes. The area formula Area = base × height depends only on the base and height, not on the slant or shape. So any two parallelograms with the same base and height have equal areas."
+    },
+    {
+      "q": "State the relationship between base and height if area of a parallelogram is constant.",
+      "a": "Base and height are inversely proportional. If area is constant and base increases, height must decrease such that their product remains constant."
+    },
+    {
+      "q": "What is the area of a triangle formed by the diagonal of a square with side 8 cm?",
+      "a": "Area = 32 cm². The diagonal divides the square (area 64 cm²) into two equal triangles, so each triangle has area 64 ÷ 2 = 32 cm²."
+    },
+    {
+      "q": "If a point divides a side of a triangle in the ratio 2:3, what is the relationship between the areas of the two triangles formed by drawing a line from this point to the opposite vertex?",
+      "a": "The two triangles have areas in the ratio 2:3, because they share the same height but have bases in the ratio 2:3."
+    },
+    {
+      "q": "What is the perimeter formula?",
+      "a": "Perimeter is the total length of the boundary of a closed figure. For a rectangle: Perimeter = 2(length + width). For a square: Perimeter = 4 × side. For a triangle: Perimeter = sum of all three sides."
+    },
+    {
+      "q": "Are area and perimeter directly related?",
+      "a": "No. Area and perimeter are independent properties. Two shapes can have the same perimeter but different areas, or the same area but different perimeters."
+    },
+    {
+      "q": "What does it mean for two figures to be congruent?",
+      "a": "Two figures are congruent if they have exactly the same shape and size. Congruent figures have equal areas and equal perimeters."
+    },
+    {
+      "q": "How many unit squares of side 1 cm fit in a rectangle with length 7 cm and width 4 cm?",
+      "a": "28 unit squares fit in the rectangle. The total area is 7 × 4 = 28 cm², so 28 unit squares of 1 cm² each fit perfectly."
+    },
+    {
+      "q": "If the length of a rectangle is 5 cm and its area is 25 cm², what is its width?",
+      "a": "Width = 5 cm. This is a square, since Area = length × width, so 25 = 5 × width, width = 5."
+    },
+    {
+      "q": "What is the area of a triangle with vertices at (0, 0), (6, 0), and (0, 8)?",
+      "a": "Area = 24 cm² (using the formula Area = (1/2) × base × height = (1/2) × 6 × 8 = 24). Alternatively, using the coordinate formula: Area = (1/2)|x₁(y₂ - y₃) + x₂(y₃ - y₁) + x₃(y₁ - y₂)| = (1/2)|0 + 6(8) + 0| = 24."
+    },
+    {
+      "q": "Define the base of a triangle.",
+      "a": "The base of a triangle is any side of the triangle, typically chosen as the reference side for calculating area. The height is measured perpendicular to this base."
+    },
+    {
+      "q": "Can different triangles have the same area?",
+      "a": "Yes. Any triangle with the same base and height will have the same area, even if their shapes are very different. For example, all triangles with base 10 cm and height 8 cm have area 40 cm²."
+    },
+    {
+      "q": "What is the area of a trapezium if the parallel sides are equal?",
+      "a": "If both parallel sides are equal (say, both are 'a'), it becomes a parallelogram. Area = (1/2) × h × (a + a) = (1/2) × h × 2a = h × a, which is the parallelogram formula."
+    },
+    {
+      "q": "State the formula for the area of a rectangle in terms of its diagonal and angles.",
+      "a": "Area = (1/2) × d₁ × d₂ × sin(θ), where d₁ and d₂ are diagonal lengths and θ is the angle between them. For a rectangle, diagonals are equal and bisect each other, but the formula simplifies to length × width."
+    },
+    {
+      "q": "What is the relationship between the area of two similar triangles?",
+      "a": "The ratio of areas of two similar triangles equals the square of the ratio of their corresponding sides. If sides are in ratio k:1, areas are in ratio k²:1."
+    },
+    {
+      "q": "How is the area of a composite figure calculated?",
+      "a": "A composite figure is divided into simple shapes (rectangles, triangles, etc.). The area of each simple shape is calculated separately, and then all areas are added together."
+    },
+    {
+      "q": "What is the approximate area of a circle with radius r (for reference)?",
+      "a": "Area = πr². (Note: This is not part of Chapter 7, but understanding it helps in comparing areas of different shapes.)"
+    },
+    {
+      "q": "If a rectangle is rotated 90°, does its area change?",
+      "a": "No. Rotation does not change the area of a shape. Area is a property that depends on the shape's dimensions, not its orientation."
+    },
+    {
+      "q": "If a parallelogram is transformed into another shape with the same area, what is the process called?",
+      "a": "This process is called dissection. It involves cutting a figure into pieces and rearranging them to form a different figure while preserving the total area."
+    },
+    {
+      "q": "What is the area of a square with diagonal d?",
+      "a": "Area = (1/2) × d². This is because a square can be divided into two congruent right triangles by its diagonal, and each triangle has legs of length d/√2."
+    },
+    {
+      "q": "If a quadrilateral has one diagonal of 12 cm with perpendicular distances 4 cm and 5 cm from the other two vertices, what is its area?",
+      "a": "Area = (1/2) × 12 × (4 + 5) = (1/2) × 12 × 9 = 54 cm²."
+    },
+    {
+      "q": "How does the area of a shape change if all its linear dimensions are scaled by a factor of k?",
+      "a": "The area is scaled by a factor of k². For example, if all lengths are doubled (k = 2), the area becomes 4 times larger (2² = 4)."
+    },
+    {
+      "q": "What is the area of a rhombus with side 10 cm and one diagonal 16 cm?",
+      "a": "Using the property that diagonals bisect each other at right angles, the other diagonal can be found using Pythagoras: (d₂/2)² + (16/2)² = 10², so (d₂/2)² = 100 - 64 = 36, d₂/2 = 6, d₂ = 12. Area = (1/2) × 16 × 12 = 96 cm²."
+    },
+    {
+      "q": "Explain the difference between area and volume.",
+      "a": "Area measures the space enclosed by a 2D (two-dimensional) shape, measured in square units (cm², m²). Volume measures the space enclosed by a 3D (three-dimensional) solid, measured in cubic units (cm³, m³). Chapter 7 focuses on area (2D shapes)."
+    }
+  ]
+}

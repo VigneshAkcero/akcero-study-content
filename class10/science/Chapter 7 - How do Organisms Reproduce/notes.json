@@ -1,0 +1,482 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "How do Organisms Reproduce?",
+    "chapter_number": 7
+  },
+  "notes": [
+    {
+      "section_title": "Introduction & 7.1 Do Organisms Create Exact Copies of Themselves?",
+      "topics": [
+        {
+          "topic_name": "Purpose of Reproduction",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Reproduction is not essential for the survival of an individual organism, unlike other life processes such as nutrition, respiration, or excretion. However, it requires a lot of energy. The main purpose of reproduction is the creation of new individuals to maintain the existence of a species and prevent it from going extinct."
+            },
+            {
+              "type": "note",
+              "title": "Key Function",
+              "text": "It is the large number of reproducing members belonging to a single species that brings them to our notice. Reproducing organisms create new individuals that look very much like themselves."
+            }
+          ]
+        },
+        {
+          "topic_name": "DNA Copying: The Basis of Reproduction",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Organisms look similar because their body designs are similar. At its most basic level, reproduction involves making copies of the blueprints of body design. Chromosomes in the nucleus of a cell contain genetic information inherited from parents in the form of DNA (Deoxyribo Nucleic Acid) molecules."
+            },
+            {
+              "type": "paragraph",
+              "text": "The DNA in the cell nucleus is the information source for making proteins. A change in this information leads to the creation of different proteins, which eventually leads to altered body designs. Therefore, a basic event in reproduction is the creation of a DNA copy."
+            },
+            {
+              "type": "note",
+              "title": "Cellular Apparatus",
+              "text": "DNA copying is accompanied by the creation of an additional cellular apparatus. The DNA copies separate, each with its own cellular apparatus, effectively dividing one cell into two."
+            }
+          ]
+        },
+        {
+          "topic_name": "Variations in DNA Copying",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "No bio-chemical reaction is absolutely reliable. Therefore, the process of copying DNA will always have some variations. As a result, the DNA copies generated are similar, but may not be completely identical to the original."
+            },
+            {
+              "type": "paragraph",
+              "text": "Some variations might be drastic, causing the newborn cell to die because the new DNA cannot work with the inherited cellular apparatus. However, many variations are subtle, leading to surviving cells that are similar but subtly different. This inbuilt tendency for variation is the basis for evolution."
+            }
+          ]
+        },
+        {
+          "topic_name": "7.1.1 The Importance of Variation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Populations of organisms fill well-defined places, or niches, in the ecosystem. The consistency of DNA copying during reproduction ensures the maintenance of body design features that allow the organism to effectively use that particular niche. Thus, reproduction is linked to the stability of populations of a species."
+            },
+            {
+              "type": "paragraph",
+              "text": "Niches can change due to reasons beyond an organism's control, such as changes in temperature, water levels, or meteorite hits. If a population is strongly suited to a specific niche and that niche alters drastically, the population could be wiped out."
+            },
+            {
+              "type": "note",
+              "title": "Survival Advantage of Variation",
+              "text": "If variations exist in a few individuals within a population, there is a chance they might survive environmental changes. For example, if a population of bacteria lives in temperate waters and the water temperature increases due to global warming, most bacteria would die. However, a few heat-resistant variants would survive and multiply. Thus, variation is useful for the long-term survival of species."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "7.2 Modes of Reproduction Used by Single Organisms",
+      "topics": [
+        {
+          "topic_name": "7.2.1 Fission",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "For unicellular organisms, cell division, or fission, leads to the creation of new individuals."
+            },
+            {
+              "type": "list",
+              "title": "Types of Fission",
+              "items": [
+                "Binary Fission: Organisms divide into two equal halves. In Amoeba, this splitting can take place in any plane. In organisms with more body organisation like Leishmania (which causes kala-azar and has a whip-like structure), binary fission occurs in a definite orientation.",
+                "Multiple Fission: Single-celled organisms, such as the malarial parasite Plasmodium, divide into many daughter cells simultaneously."
+              ]
+            },
+            {
+              "type": "activity",
+              "id": "7.3",
+              "title": "Observation of Amoeba Fission",
+              "procedure": [
+                "Observe a permanent slide of Amoeba under a microscope.",
+                "Observe another permanent slide showing Amoeba in binary fission.",
+                "Compare the two slides to understand the division mechanism."
+              ],
+              "conclusion": "Amoeba reproduces asexually by splitting into two, but the plane of division is irregular."
+            }
+          ]
+        },
+        {
+          "topic_name": "7.2.2 Fragmentation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In multi-cellular organisms with relatively simple body organisation, simple reproductive methods can work. For instance, Spirogyra simply breaks up into smaller pieces upon maturation. These pieces or fragments then grow into new individuals."
+            },
+            {
+              "type": "activity",
+              "id": "7.4",
+              "title": "Observation of Spirogyra filaments",
+              "procedure": [
+                "Collect dark green, filamentous water from a lake or pond.",
+                "Put filaments on a slide with a drop of glycerine and cover with a coverslip.",
+                "Observe under a microscope to identify different tissues."
+              ],
+              "conclusion": "Spirogyra has simple body organization allowing each fragment to grow independently into a complete organism."
+            },
+            {
+              "type": "note",
+              "title": "Why can't all multi-cellular organisms use fragmentation?",
+              "text": "Complex multi-cellular organisms have specialised cells organised into tissues and organs located at definite positions. Cell-by-cell division is impractical. Therefore, they require more complex reproduction methods, relying on a specific cell type capable of growing, proliferating, and making other cell types."
+            }
+          ]
+        },
+        {
+          "topic_name": "7.2.3 Regeneration",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Regeneration is the ability of a fully differentiated organism to give rise to a new individual from its cut or broken body parts. For example, simple animals like Hydra and Planaria can be cut into multiple pieces, and each piece grows into a complete organism."
+            },
+            {
+              "type": "note",
+              "title": "Mechanism of Regeneration",
+              "text": "Regeneration is carried out by specialised cells that proliferate to form a mass. From this mass, cells undergo organised changes (development) to become various cell types and tissues. However, regeneration is not the same as reproduction since organisms typically do not depend on being cut up to reproduce."
+            }
+          ]
+        },
+        {
+          "topic_name": "7.2.4 Budding",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Organisms such as Hydra use regenerative cells for reproduction in the process of budding. A bud develops as an outgrowth due to repeated cell division at one specific site. These buds develop into tiny individuals and detach from the parent body upon maturing to become independent."
+            },
+            {
+              "type": "activity",
+              "id": "7.1",
+              "title": "Yeast Culture and Budding",
+              "procedure": [
+                "Dissolve 10 gm of sugar in 100 mL of water.",
+                "Take 20 mL of this solution, add yeast granules, and plug with cotton.",
+                "Keep in a warm place for 1-2 hours.",
+                "Observe a drop under a microscope."
+              ],
+              "observation": "Yeast cells put out small buds that separate and grow further, displaying asexual reproduction through budding."
+            }
+          ]
+        },
+        {
+          "topic_name": "7.2.5 Vegetative Propagation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In plants, parts like the root, stem, and leaves can develop into new plants under appropriate conditions. This process is called vegetative propagation."
+            },
+            {
+              "type": "list",
+              "title": "Advantages of Vegetative Propagation",
+              "items": [
+                "It allows plants to bear flowers and fruits earlier than plants produced from seeds.",
+                "It enables the propagation of plants that have lost the capacity to produce seeds (e.g., banana, orange, rose, jasmine).",
+                "Plants produced are genetically very similar to the parent plant, retaining all its characteristics."
+              ]
+            },
+            {
+              "type": "activity",
+              "id": "7.5",
+              "title": "Vegetative Propagation in Potato",
+              "procedure": [
+                "Cut a potato into small pieces, some with notches (buds) and some without.",
+                "Place on moist cotton and observe over a few days."
+              ],
+              "conclusion": "Only the potato pieces containing notches/buds give rise to fresh green shoots and roots, confirming that buds aid in vegetative reproduction."
+            },
+            {
+              "type": "activity",
+              "id": "7.6",
+              "title": "Vegetative Propagation in Money-plant",
+              "procedure": [
+                "Cut a money-plant into pieces with at least one leaf, and pieces from between two leaves.",
+                "Dip one end in water and observe."
+              ],
+              "conclusion": "Pieces with leaves (and nodes) grow fresh leaves, demonstrating that nodes/buds are required for propagation."
+            },
+            {
+              "type": "note",
+              "title": "Bryophyllum and Tissue Culture",
+              "text": "In Bryophyllum, buds produced in the notches along the leaf margin fall on the soil and develop into new plants. In Tissue culture, cells from a plant's growing tip are placed in an artificial medium to form a callus. This callus is then transferred to a hormone medium for differentiation, allowing disease-free propagation of many ornamental plants from a single parent."
+            }
+          ]
+        },
+        {
+          "topic_name": "7.2.6 Spore Formation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Spore formation is another asexual reproduction method. In bread mould (Rhizopus), thread-like structures called hyphae develop, which are non-reproductive. However, tiny blob-on-a-stick structures called sporangia contain cells or spores."
+            },
+            {
+              "type": "activity",
+              "id": "7.2",
+              "title": "Bread Mould Observation",
+              "procedure": [
+                "Wet a slice of bread and keep it in a cool, moist, and dark place.",
+                "Observe the surface with a magnifying glass for a week."
+              ],
+              "conclusion": "Thread-like structures (hyphae) and sporangia with spores develop on the bread slice."
+            },
+            {
+              "type": "note",
+              "title": "Function of Spores",
+              "text": "Spores can develop into new Rhizopus individuals. They are covered by thick walls that protect them until they come into contact with a moist surface where they can begin to grow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "7.3 Sexual Reproduction",
+      "topics": [
+        {
+          "topic_name": "7.3.1 Why the Sexual Mode of Reproduction?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "While DNA-copying generates variations over time, it is a slow process since it must maintain precision for the cell to survive. Combining accumulated variations from two different individuals speeds up the generation of new variants. Each new combination is novel and useful for ensuring species survival."
+            },
+            {
+              "type": "paragraph",
+              "text": "However, combining DNA from two individuals poses a challenge: the final generation could end up with double the amount of DNA. Multi-cellular organisms solve this by using meiosis—a specialised cell division process that halves the number of chromosomes and DNA content in dedicated germ-cells."
+            },
+            {
+              "type": "note",
+              "title": "Gametes",
+              "text": "In complex organisms, germ-cells specialise. The male gamete is typically smaller and motile, while the female gamete is larger and contains food stores to sustain a developing zygote."
+            }
+          ]
+        },
+        {
+          "topic_name": "7.3.2 Sexual Reproduction in Flowering Plants",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The reproductive parts of angiosperms are located in the flower. The stamens and pistil serve as the male and female reproductive components."
+            },
+            {
+              "type": "list",
+              "title": "Parts of a Flower",
+              "items": [
+                "Unisexual Flowers: Contain either stamens (male) or pistil (female). Examples: Papaya, Watermelon.",
+                "Bisexual Flowers: Contain both stamens and pistil. Examples: Hibiscus, Mustard.",
+                "Stamen: The male reproductive part producing yellowish pollen grains.",
+                "Pistil: The female reproductive part consisting of a swollen ovary at the bottom, an elongated style, and a terminal sticky stigma. The ovary contains ovules, each harboring an egg cell."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Pollination and Fertilisation",
+              "text": "Pollination is the transfer of pollen from stamen to stigma. It can be self-pollination (same flower) or cross-pollination (different flower, aided by wind, water, or animals). Following this, a pollen tube grows through the style to reach the ovary, where fertilisation—the fusion of male and female germ-cells—occurs to form a zygote."
+            },
+            {
+              "type": "paragraph",
+              "text": "After fertilisation, the zygote divides to form an embryo within the ovule. The ovule develops a tough coat to become a seed, while the ovary ripens into a fruit. The seed contains the embryo, which develops into a seedling under appropriate conditions through a process known as germination."
+            },
+            {
+              "type": "activity",
+              "id": "7.7",
+              "title": "Observation of Germination",
+              "procedure": [
+                "Soak Bengal gram (chana) seeds overnight.",
+                "Cover with a wet cloth for a day without letting them dry.",
+                "Cut open carefully to observe the embryo parts."
+              ],
+              "observation": "The internal structure of the seed reveals the future plant components waiting to germinate."
+            }
+          ]
+        },
+        {
+          "topic_name": "7.3.3 Reproduction in Human Beings: Sexual Maturation and Puberty",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Humans reproduce sexually. During early teenage years, a phase of sexual maturation called puberty occurs alongside general body growth."
+            },
+            {
+              "type": "list",
+              "title": "Changes During Puberty",
+              "items": [
+                "Common to both: Growth of thick hair in armpits and genital areas, thinner hair on arms, legs, and face. Skin becomes oily, leading to possible pimples.",
+                "In Girls: Breast size increases, skin of nipples darkens, and the menstrual cycle begins.",
+                "In Boys: New thick facial hair grows, voice cracks, and occasional penis enlargement/erection occurs."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Significance of Maturation",
+              "text": "These changes serve as signals of sexual readiness. The body requires matured specialised organs for the actual transfer of germ-cells and, in females, to accommodate holding a baby for a prolonged period."
+            }
+          ]
+        },
+        {
+          "topic_name": "7.3.3 (a) Male Reproductive System",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The male reproductive system produces germ-cells and delivers them to the site of fertilisation."
+            },
+            {
+              "type": "list",
+              "title": "Components",
+              "items": [
+                "Testes: Located outside the abdominal cavity in the scrotum to maintain the lower temperature required for sperm formation. They also secrete the hormone testosterone.",
+                "Vas Deferens: A tube delivering sperms, joining the tube from the urinary bladder.",
+                "Urethra: A common passage for sperms and urine.",
+                "Glands (Prostate & Seminal Vesicles): Add secretions that make sperm transport easier and provide nutrition to the motile sperms."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "7.3.3 (b) Female Reproductive System",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The female reproductive system produces eggs (ova) and provides the site for fertilisation and embryonic development."
+            },
+            {
+              "type": "list",
+              "title": "Components",
+              "items": [
+                "Ovaries: Make female germ-cells and some hormones. They house thousands of immature eggs. From puberty, one egg is released every month.",
+                "Fallopian Tube (Oviduct): Carries the egg from the ovary to the womb.",
+                "Uterus (Womb): An elastic bag-like structure where the embryo implants and develops. It opens into the vagina through the cervix.",
+                "Placenta: A special disc-like tissue embedded in the uterine wall that transfers glucose and oxygen from the mother's blood to the embryo, and removes waste from the embryo."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "7.3.3 (c) Menstruation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Every month, the uterus prepares heavily to receive and nurture a fertilised egg by thickening its lining and enriching it with blood. If fertilisation does not occur, the egg lives for about a day, and the unneeded uterine lining gradually breaks down."
+            },
+            {
+              "type": "note",
+              "title": "The Menstrual Cycle",
+              "text": "The broken lining is expelled through the vagina as blood and mucous. This cycle repeats roughly every month, lasting about 2 to 8 days, and is known as menstruation."
+            }
+          ]
+        },
+        {
+          "topic_name": "7.3.3 (d) Reproductive Health",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Physical maturity during puberty does not automatically indicate psychological readiness for sexual acts or child-rearing. It is critical to navigate social and peer pressures carefully."
+            },
+            {
+              "type": "list",
+              "title": "Key Concerns",
+              "items": [
+                "Sexually Transmitted Diseases (STDs): Diseases like bacterial infections (gonorrhoea, syphilis) and viral infections (warts, HIV-AIDS) can spread through sexual acts. Condoms help prevent transmission to some extent.",
+                "Contraception: Methods to avoid pregnancy since it makes large demands on the female body and mind. Methods include mechanical barriers (condoms), hormonal pills (which can have side effects), intra-uterine devices (Copper-T, loops), and surgical blocks (blocking vas deferens or fallopian tubes).",
+                "Female Foeticide: Reckless and illegal sex-selective abortion of female foetuses disrupts the male-female sex ratio, highlighting the misuse of surgical interferences.",
+                "Population Control: Keeping population size manageable is crucial for improving living standards, although inequality fundamentally drives poor living conditions."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Reproduction",
+      "definition": "The biological process by which existing organisms create new individuals of the same species."
+    },
+    {
+      "term": "DNA",
+      "definition": "Deoxyribo Nucleic Acid, the molecule in chromosomes containing the genetic blueprint and information required for inheritance."
+    },
+    {
+      "term": "Variation",
+      "definition": "Differences born out of subtle inaccuracies in DNA copying during reproduction, essential for species adaptation and evolution."
+    },
+    {
+      "term": "Fission",
+      "definition": "A form of asexual reproduction in single-celled organisms where the parent cell splits into two (binary) or many (multiple) daughter cells."
+    },
+    {
+      "term": "Fragmentation",
+      "definition": "Asexual reproduction in simple multi-cellular organisms where the body breaks into pieces upon maturation, each growing into a new individual."
+    },
+    {
+      "term": "Regeneration",
+      "definition": "The ability of a fully differentiated organism to grow a complete new individual from its cut or broken body parts."
+    },
+    {
+      "term": "Budding",
+      "definition": "Asexual reproduction where a new individual develops as an outgrowth exactly at one site due to repeated cell division."
+    },
+    {
+      "term": "Vegetative Propagation",
+      "definition": "A method of plant reproduction where new plants develop from vegetative parts like root, stem, or leaves."
+    },
+    {
+      "term": "Tissue Culture",
+      "definition": "A technique of growing new plants from isolated cells or tissues placed in an artificial nutrient medium."
+    },
+    {
+      "term": "Spore Formation",
+      "definition": "Asexual reproduction involving tiny thick-walled reproductive cells (spores) that grow into new individuals under moist conditions."
+    },
+    {
+      "term": "Meiosis",
+      "definition": "A specialised cell division resulting in germ-cells that have half the number of chromosomes and DNA content of regular body cells."
+    },
+    {
+      "term": "Gamete",
+      "definition": "Specialised reproductive cells involved in sexual reproduction; includes motile male gametes and food-storing female gametes."
+    },
+    {
+      "term": "Pollination",
+      "definition": "The transfer of pollen grains from the male anther/stamen to the female stigma in flowering plants."
+    },
+    {
+      "term": "Fertilisation",
+      "definition": "The fusion of male and female germ-cells to form a zygote."
+    },
+    {
+      "term": "Germination",
+      "definition": "The process by which an embryo within a seed develops into a seedling under appropriate conditions."
+    },
+    {
+      "term": "Puberty",
+      "definition": "The specific period during adolescence when the rate of general body growth slows down, and reproductive tissues begin to mature."
+    },
+    {
+      "term": "Placenta",
+      "definition": "A special disc-like tissue embedded in the uterine wall providing nutrition and oxygen exchange between the mother and the developing embryo."
+    },
+    {
+      "term": "Menstruation",
+      "definition": "The monthly shedding and discharge of the thickened uterine lining as blood and mucous, occurring when the egg is not fertilised."
+    },
+    {
+      "term": "Contraception",
+      "definition": "Devices or methods used to prevent pregnancy during sexual intercourse."
+    }
+  ],
+  "summary_points": [
+    "Reproduction is not essential to maintain the life of an individual organism, but it relies on creation of a DNA copy and additional cellular apparatus to maintain the species.",
+    "Various organisms use different asexual reproduction modes depending on their body design: fission in bacteria and protozoa, fragmentation in Spirogyra, regeneration in Planaria, and budding in Hydra or Yeast.",
+    "Vegetative propagation allows plants to reproduce via roots, stems, and leaves.",
+    "Sexual reproduction relies on combining variations via DNA from two individuals, speeding up species variation and ensuring survival in shifting niches.",
+    "In flowering plants, pollination transfers pollen to the stigma, leading to fertilisation in the ovary and eventual seed germination.",
+    "In humans, puberty signs indicate the capacity for sexual reproduction; testes in males produce sperms, while ovaries in females release eggs.",
+    "Fertilisation occurs when sperm is introduced into the female's vagina and meets the egg in the fallopian tube. If unfertilised, menstruation occurs.",
+    "Contraception using condoms, oral pills, or Copper-T helps prevent unwanted pregnancy, while safe practices mitigate the spread of sexually transmitted diseases."
+  ]
+}

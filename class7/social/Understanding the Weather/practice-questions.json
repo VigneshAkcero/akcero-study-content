@@ -1,0 +1,220 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Social Science",
+    "chapter_name": "Understanding the Weather",
+    "chapter_number": 2
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is the primary difference between the 'atmosphere' and 'weather'?",
+      "answer": "Atmosphere is the layer of gases surrounding Earth, while weather is the state of that atmosphere at a specific time and place.",
+      "solution": "The atmosphere is the broad, layered envelope of air around the planet. Weather is the specific, temporary condition (hot, rainy, windy) of those gases in a particular location at a particular moment."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Name the layer of the atmosphere where almost all weather phenomena occur.",
+      "answer": "The Troposphere.",
+      "solution": "The troposphere is the lowest layer of the atmosphere (extending 6-18 km). It contains most of the air and water vapour, making it the primary site for clouds, rain, and other weather events."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Which instrument is used to measure the amount of rainfall, and in what unit?",
+      "answer": "Rain Gauge; measured in millimetres (mm).",
+      "solution": "A rain gauge collects rainwater in a cylinder. The depth of the collected water is then measured using a scale in millimetres to quantify the total precipitation."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What does a 'Barometer' measure?",
+      "answer": "Atmospheric pressure.",
+      "solution": "A barometer measures the weight (pressure) of the air above and around us, which is an essential indicator of changing weather patterns."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Define the term 'Precipitation' and give two examples.",
+      "answer": "Precipitation is any form of water falling from the sky; examples include rain and snow.",
+      "solution": "Precipitation occurs when water vapour condenses and falls back to Earth. Common forms include rain, snow, sleet (frozen rain), and hail (ice balls)."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Which instrument measures wind speed, and what is its typical unit of measurement?",
+      "answer": "Anemometer; measured in kilometres per hour (km/h).",
+      "solution": "An anemometer features rotating cups that spin faster as wind speed increases. The speed is recorded in km/h to help meteorologists track air movement."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What happens to atmospheric pressure as you climb a high mountain?",
+      "answer": "Atmospheric pressure gets lower.",
+      "solution": "As you move higher into the atmosphere, the air becomes thinner (less dense), meaning the weight of the air above you decreases, leading to lower atmospheric pressure."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What is 'Relative Humidity' usually measured with and in what format?",
+      "answer": "Hygrometer; measured as a percentage (%).",
+      "solution": "Relative humidity indicates how much water vapour is in the air compared to the maximum it can hold. It is measured by a hygrometer and expressed as a percentage."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "What does the abbreviation 'AWS' stand for in modern meteorology?",
+      "answer": "Automated Weather Station.",
+      "solution": "An AWS is a self-operating system that uses sensors to automatically measure and record weather data like temperature and pressure without human intervention."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Name the official government agency in India responsible for monitoring and reporting weather.",
+      "answer": "The India Meteorological Department (IMD).",
+      "solution": "Established in 1875, the IMD is the principal agency for weather forecasting, seismology, and meteorological observations in India."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "How do you calculate the 'Range of Temperature' for a 24-hour period?",
+      "answer": "Subtract the minimum temperature from the maximum temperature.",
+      "solution": "The range of temperature helps identify how much the temperature varied during the day. It is calculated by taking the highest (maximum) reading and subtracting the lowest (minimum) reading."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Explain why people sometimes feel breathless or dizzy at very high altitudes like Ladakh.",
+      "answer": "Because the air pressure is lower and there is less oxygen available for the lungs.",
+      "solution": "At high altitudes, the atmospheric pressure is significantly lower (e.g., ~650 mb compared to ~1013 mb at sea level). This means the air is thinner and contains less oxygen, forcing the body to work harder and causing symptoms like dizziness or fatigue until one 'acclimatises'."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Why is it said that 'evaporation causes a cooling effect'?",
+      "answer": "Because when water turns into vapour, it absorbs heat from its surroundings, making the surface cooler.",
+      "solution": "Evaporation is a cooling process. As liquid water (like sweat) absorbs thermal energy to turn into gas (water vapour), it takes that heat away from the body or surface, resulting in a drop in temperature."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Describe how a 'Wind Vane' determines the direction of the wind.",
+      "answer": "The wind pushes the tail of the vane, causing the pointer to turn into the direction from which the wind is blowing.",
+      "solution": "A wind vane has a rotating arm with a pointer and a tail. When wind blows, the larger surface area of the tail is pushed until the pointer aligns with the wind's source. If it points North, it means the wind is coming from the North."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "What is a 'depression' in meteorology, and what type of weather does it typically indicate?",
+      "answer": "A depression is a system of low atmospheric pressure (below 1000 mb), indicating a potential storm or cyclone.",
+      "solution": "When atmospheric pressure drops dramatically (below the normal 1013 mb), meteorologists call it a depression. This imbalance often results in strong winds and heavy rain, potentially developing into a cyclone."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Why do pine cones close their scales during humid weather?",
+      "answer": "To protect their seeds from moisture, ensuring they are only released in dry weather for better dispersal.",
+      "solution": "Pine cones respond to environmental humidity. They close in wet/humid conditions to keep the seeds safe inside. Once the air is dry, they open up, allowing seeds to be carried further by the wind in more favourable conditions."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "How does the thickness of the 'Troposphere' vary between the poles and the equator?",
+      "answer": "It is thinner at the poles and thicker in the tropical zone (equator).",
+      "solution": "Air contracts when it is cold (poles) and expands when it is warm (tropics). Therefore, the troposphere's height is lower (~6-8 km) at the poles and higher (~16-18 km) at the tropical equator."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Compare what happens when you sweat on a dry day versus a very humid day.",
+      "answer": "On a dry day, sweat evaporates quickly, cooling you down. On a humid day, sweat evaporates slowly, making you feel sticky and hot.",
+      "solution": "Humidity is the measure of moisture already in the air. If the air is dry, it can 'absorb' sweat rapidly (cooling you). If the air is already saturated (high humidity), evaporation is slow, preventing the body from cooling down effectively."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Why are accurate weather predictions particularly important for fishermen and coastal dwellers?",
+      "answer": "To warn them about storms or cyclones, allowing them to avoid the sea or evacuate dangerous areas.",
+      "solution": "Sudden changes in pressure and wind can lead to dangerous sea conditions. Forecasting alerts fishermen to stay onshore and allows local governments to mobilise resources for evacuations if a cyclone is expected, saving lives and property."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Given the formula, calculate the Mean Daily Temperature if the Maximum was 32°C and the Minimum was 18°C.",
+      "answer": "25°C.",
+      "solution": "Mean Daily Temperature = (Maximum + Minimum) / 2. In this case, (32 + 18) / 2 = 50 / 2 = 25°C."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "What information does the IMD's motto 'From the sun arises rain' convey about the water cycle?",
+      "answer": "It reflects the ancient understanding that solar heat is the primary driver of evaporation and eventual rainfall.",
+      "solution": "The motto (Ādityāt jāyate vriṣhti) correctly identifies the Sun's energy as the starting point of the weather cycle. Solar radiation causes water to evaporate, which eventually condenses and falls as rain."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "A weather report shows 'Relative Humidity: 90%'. Does this suggest a rainy or a dry day?",
+      "answer": "A rainy or very damp day.",
+      "solution": "90% relative humidity means the air is almost completely saturated with water vapour. This level of moisture is typical of rainy days or very foggy, damp conditions where evaporation is nearly impossible."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Analyze why a rain gauge must be placed away from buildings or tall trees in an open area.",
+      "answer": "To prevent 'obstruction' or 'overflow' from nearby objects, ensuring it only catches falling rainwater.",
+      "solution": "If a rain gauge is near a building, the structure might block rain from reaching the funnel, or water might drip from the roof into the gauge, giving an inaccurate, inflated reading. An open area ensures the measured depth represents the actual rainfall of that specific region."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "A city records a Max Temp of 40°C and a Min Temp of 20°C. Another city records a Max of 35°C and a Min of 30°C. Compare their 'Ranges of Temperature' and discuss what this says about their daily weather.",
+      "answer": "City 1 has a range of 20°C; City 2 has a range of 5°C. City 1 has high variation (e.g., a desert), while City 2 has very stable temperature (e.g., a coast).",
+      "solution": "City 1 (40-20=20°C) experiences significant changes between day and night. City 2 (35-30=5°C) has a much 'tighter' range, suggesting its temperature stays consistently warm, which is common in humid, coastal regions or during very cloudy weather."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Evaluate the role of Automated Weather Stations (AWS) in regions like mountainous Sikkim compared to city-based weather stations.",
+      "answer": "AWS are essential for remote, high-altitude regions where human intervention is difficult, providing critical early warnings for mountain-specific disasters.",
+      "solution": "In extreme altitudes (above 4800m), it is difficult for humans to live and record data daily. An AWS can operate independently in harsh weather, providing real-time data on glacial lake conditions. This is vital for early detection of floods or extreme mountain storms that would otherwise go unmonitored."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "If you are planning a trip to Mumbai in June where the forecast says '29°C and 84% humidity', what clothing advice would you give and why?",
+      "answer": "Advice: Wear light, loose cotton clothes. Reason: High humidity prevents sweat from evaporating, so cotton helps absorb moisture and promote whatever cooling is possible.",
+      "solution": "At 84% humidity, your body's natural cooling (evaporation) is severely slowed down. You will sweat a lot but not feel cool. Loose cotton clothes are 'breathable' and 'absorbent', helping to manage the moisture and providing more comfort than synthetic, non-breathable fabrics."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Discuss how traditional people predicted the monsoon by observing animal signatures like frogs and ants. Is this knowledge still relevant?",
+      "answer": "Traditional signs are based on animal sensitivity to changes in air pressure/humidity. While modern tech is more precise, this knowledge remains a valuable cultural and local indicator.",
+      "solution": "Animals like frogs and ants are highly sensitive to atmospheric changes. Ants move to higher ground to avoid flooding; frogs croak as air pressure drops. While meteorology uses barometers for precision, these 'Nature's clues' are still used by many farmers to supplement scientific data, representing a legacy of deep environmental observation."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Examine why 'Atmospheric Pressure' is the key link between high altitude regions and the risk of cyclones on the coast.",
+      "answer": "Extreme pressure differences drive weather. High altitude is low pressure by geography; a cyclone is a low pressure system by thermal imbalance.",
+      "solution": "While high altitude has low pressure because the air is thinner, a cyclone is a localized 'depression' where pressure drops suddenly due to heat. In both cases, the low pressure dictates the condition of the air—low oxygen in mountains and high wind energy in cyclones. Understanding these pressure systems helps meteorologists predict how air will move from 'High' to 'Low' areas."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Analyze the IMD weather map icons. Why would states like Odisha frequently have 'Alert' or 'Warning' icons during the monsoon or pre-monsoon season?",
+      "answer": "Because coastal states are more prone to depressions and cyclones originating in the Bay of Bengal.",
+      "solution": "The IMD uses colour-coded alerts (Yellow/Watch, Orange/Alert, Red/Warning). Coastal states like Odisha face significant risks from maritime weather systems. Low-pressure systems over the sea often move inland, bringing extremely heavy rain and wind, requiring the IMD to mobilize resources and alert the local governments constantly."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "How does 'Climate Change' make the work of a modern meteorologist more challenging and important?",
+      "answer": "Climate change increases the frequency and unpredictability of extreme weather events, making accurate short-term forecasts critical for disaster prevention.",
+      "solution": "With global warming, weather patterns are shifting, leading to more frequent heat waves, droughts, and severe storms. This makes it harder to use historical patterns to predict the future. Meteorologists must now use more advanced data (AWS, Satellites) to provide timely warnings and help societies adapt to these increasingly extreme and unpredictable conditions."
+    }
+  ]
+}

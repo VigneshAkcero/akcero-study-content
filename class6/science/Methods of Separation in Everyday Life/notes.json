@@ -1,0 +1,180 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Methods of Separation in Everyday Life",
+    "chapter_number": 9
+  },
+  "notes": [
+    {
+      "section_title": "Introduction to Separation",
+      "topics": [
+        {
+          "topic_name": "Why do we separate substances?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In our daily lives, we often need to separate substances from a mixture to: 1) Remove undesirable or harmful components (like stones from rice), 2) Separate two different but useful components (like butter from milk), and 3) Obtain a specific substance in pure form."
+            },
+            {
+              "type": "note",
+              "text": "A famous quote by Kabir likens separation to a sage who keeps the virtues and discards the vices, just as winnowing separates husk from grain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Separating Solids from Solids",
+      "topics": [
+        {
+          "topic_name": "Handpicking",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Handpicking is the method of removing slightly larger sized impurities like pieces of dirt, stones, and husk from wheat, rice, or pulses. It is convenient when the quantity of impurities is not very large."
+            },
+            {
+              "type": "paragraph",
+              "text": "Properties used: Differences in size, colour, and shape."
+            },
+            {
+              "type": "example",
+              "title": "Example 1",
+              "description": "If a 5 kg bag of pulses contains 50 grams of stones, calculate the percentage of impurity by mass.",
+              "solution": "Impurity % = (Weight of impurity / Total weight) × 100 = (50g / 5000g) × 100 = 1%."
+            }
+          ]
+        },
+        {
+          "topic_name": "Threshing",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Threshing is the process of separating grains from the stalks. It involves beating the harvested stalks against a hard surface (like a wooden log) or using machines called threshers."
+            }
+          ]
+        },
+        {
+          "topic_name": "Winnowing",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Winnowing is used to separate heavier and lighter components of a mixture by wind or by blowing air. Typically, husk (lighter) is blown away while grains (heavier) fall closer to the platform."
+            },
+            {
+              "type": "activity",
+              "title": "Activity 9.1: Peanut Skin Separation",
+              "procedure": ["Rub roasted peanuts between palms.", "Blow air over the mixture."],
+              "observation": "The lighter skin is blown away while the heavier peanuts remain.",
+              "conclusion": "Blowing air separates components based on weight differences."
+            }
+          ]
+        },
+        {
+          "topic_name": "Sieving",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sieving is used when the components of a solid mixture have different sizes. The smaller particles pass through the holes of the sieve, while larger ones (like bran or stones) are retained."
+            },
+            {
+              "type": "example",
+              "title": "Example 2",
+              "description": "A sieve has holes of size 2 mm. Which of these will pass through: Sand (1 mm particles) or Pebbles (5 mm particles)?",
+              "solution": "Only sand particles (1 mm) will pass because they are smaller than the 2 mm sieve holes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Separating Insoluble Solids from Liquids",
+      "topics": [
+        {
+          "topic_name": "Sedimentation and Decantation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sedimentation: The process where the heavier, insoluble component in a mixture settles down at the bottom of the liquid (e.g., mud in water)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Decantation: The process of removing the clear liquid by tilting the vessel without disturbing the sediment at the bottom."
+            },
+            {
+              "type": "example",
+              "title": "Example 3",
+              "description": "After 10 minutes of sedimentation, 80% of mud settles down. If the original container had 200g of mud, how much is still floating?",
+              "solution": "Floating mud = 20% of 200g = 0.20 × 200 = 40 grams."
+            }
+          ]
+        },
+        {
+          "topic_name": "Filtration",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Filtration uses a filter (cloth, filter paper, sand) to separate fine insoluble solids from a liquid. The liquid that passes through is called the 'filtrate', and the solid left behind is the 'residue'."
+            },
+            {
+              "type": "note",
+              "text": "Tea bags have evolved from silk cloth to paper-based filters, illustrating the choice of filter based on pore size and durability in hot water."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Separating Soluble Solids and Special Methods",
+      "topics": [
+        {
+          "topic_name": "Evaporation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Evaporation is the process of converting a liquid into its vapour state. It is used to separate a solid (like salt) dissolved in a liquid (water)."
+            },
+            {
+              "type": "note",
+              "title": "History & Heritage",
+              "text": "Salt is obtained from seawater by keeping it in shallow pits (evaporation). This connects to the Namak Satyagraha (Dandi March) led by Mahatma Gandhi. In Ayurveda, medicinal herbs are dried to evaporate excess water."
+            }
+          ]
+        },
+        {
+          "topic_name": "Churning",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Churning involves vigorous stirring of liquid mixtures (like curd) to separate components based on density. Butter, being lighter, floats at the top."
+            }
+          ]
+        },
+        {
+          "topic_name": "Magnetic Separation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "This method uses magnets to separate magnetic substances (like iron nails or scrap iron) from non-magnetic mixtures (like sawdust or general waste)."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Handpicking", "definition": "Directly removing larger sized impurities by hand based on physical appearance." },
+    { "term": "Sieve", "definition": "A tool with pores used to separate solids of different sizes." },
+    { "term": "Filtrate", "definition": "The clear liquid that passes through a filter during filtration." },
+    { "term": "Residue", "definition": "The solid particles remaining on a filter paper or cloth." },
+    { "term": "Magnetic Substance", "definition": "Materials like iron that are attracted to a magnet." }
+  ],
+  "summary_points": [
+    "Separation methods are chosen based on the physical properties of the components (size, mass, solubility, magnetism).",
+    "Solid-solid mixtures are separated by handpicking, threshing, winnowing, and sieving.",
+    "Insoluble solid-liquid mixtures use sedimentation, decantation, or filtration.",
+    "Soluble salts are recovered via evaporation.",
+    "Butter is extracted from curd through churning (centrifugation)."
+  ]
+}

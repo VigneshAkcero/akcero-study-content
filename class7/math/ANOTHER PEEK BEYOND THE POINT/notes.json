@@ -1,0 +1,145 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Another Peek Beyond the Point",
+    "chapter_number": 4
+  },
+  "sections": [
+    {
+      "section_number": "4.1",
+      "section_title": "A Quick Recap of Decimals",
+      "content": "Decimals are the natural extension of the Indian place value system. They represent fractions with denominators 10, 100, 1000, and so on. \n\nFor example, the number 27.53 represents:\n• 2 Tens\n• 7 Units (Ones)\n• 5 Tenths\n• 3 Hundredths\n\nThis can be written as: 27.53 = 20 + 7 + 0.5 + 0.03\n\nDecimals provide an alternative and convenient way to represent fractions. In this chapter, we extend our understanding by learning how to multiply and divide decimals. The procedures for these operations with decimals are natural extensions of the procedures we use for counting numbers.\n\nExamples of decimal conversions:\n- 50 g in kilograms = 0.05 kg (50/1000)\n- 100 g in kilograms = 0.1 kg (100/1000)\n- 25 g in kilograms = 0.025 kg (25/1000)\n\nNote: Always ensure you can see how the decimal point position relates to the denominator (powers of 10)."
+    },
+    {
+      "section_number": "4.2",
+      "section_title": "Decimal Multiplication",
+      "content": "To multiply two decimals, we use the same principles as multiplying fractions.\n\nMethod: Step 1: Remove the decimal points and multiply the numbers as if they were whole numbers.\nStep 2: In the product, place the decimal point based on the total number of decimal places in the original numbers. If the original numbers have a combined total of n decimal places, place the decimal point to give n decimal places in the product.\n\nExamples:\n\n1) 9.5 × 5 = ?\n   - Treating as fractions: (95/10) × 5 = (95 × 5)/10 = 475/10 = 47.5\n   - Or: 95 × 5 = 475, and since 9.5 has 1 decimal place, answer is 47.5\n\n2) 12.5 × 7.5 = ?\n   - Without decimals: 125 × 75 = 9375\n   - 12.5 has 1 decimal place, 7.5 has 1 decimal place, total = 2 decimal places\n   - Answer: 93.75\n\n3) 5.7 × 13.3 = ?\n   - Without decimals: 57 × 133 = 7581\n   - 5.7 has 1 decimal place, 13.3 has 1 decimal place, total = 2 decimal places\n   - Answer: 75.81\n\nKey Rule: Count the total number of digits after the decimal points in both numbers. This total tells you how many digits should be after the decimal point in the answer.\n\nImportant observation: Unlike multiplication of whole numbers, the product of two decimals is not always greater than both numbers:\n- If both numbers are greater than 1: Product > both numbers (e.g., 3.4 × 6.5 = 22.1)\n- If both numbers are between 0 and 1: Product < both numbers (e.g., 0.75 × 0.4 = 0.3)\n- If one is between 0 and 1 and one is greater than 1: Product is between them (e.g., 0.75 × 5 = 3.75)"
+    },
+    {
+      "section_number": "4.3",
+      "section_title": "Decimal Division Part 1: Dividing by Powers of 10",
+      "content": "When dividing a decimal by 1, 10, 100, 1000, etc., we can simply move the decimal point to the left.\n\nRule: Move the decimal point to the left by as many places as there are zeros in the divisor.\n\nExamples:\n\n1) 3.9 ÷ 10 = 0.39 (move decimal 1 place left)\n   Check: 3.9 = 39/10, so (39/10) ÷ 10 = 39/100 = 0.39\n\n2) 3.9 ÷ 100 = 0.039 (move decimal 2 places left)\n\n3) 18.7 ÷ 10 = 1.87\n   18.7 ÷ 100 = 0.187\n   18.7 ÷ 1000 = 0.0187\n   18.7 ÷ 10000 = 0.00187\n\nNote: If you run out of digits, add zeros to the left.\n\nThis rule makes division by powers of 10 quick and convenient, similar to how we position numbers in our place value system."
+    },
+    {
+      "section_number": "4.4",
+      "section_title": "Decimal Division Part 2: Converting Fractions to Decimals",
+      "content": "When dividing two numbers and wanting a decimal quotient, we can express the division as a fraction and find an equivalent fraction with denominator 10, 100, 1000, etc.\n\nExample 1: 29 ÷ 2\n- First: 29 ÷ 2 = 14 remainder 1 m\n- We have 1 m left, which is 1/2 m = 0.5 m\n- Total: 14.5 m\n\nExample 2: 29 ÷ 4\n- Express as fraction: 29/4\n- Find denominator that is a power of 10: 4 × 25 = 100\n- Multiply: (29 × 25)/(4 × 25) = 725/100 = 7.25\n\nKey insight: If the denominator has only 2 and 5 as factors (e.g., 2, 4, 5, 8, 10, 20, 25, etc.), we can always convert to a decimal with finite digits.\n\nWhy? Because 10 = 2 × 5, and 100 = 2² × 5², so any number whose prime factors are only 2 and 5 will divide evenly into a power of 10."
+    },
+    {
+      "section_number": "4.5",
+      "section_title": "Decimal Division Part 3: Long Division Method",
+      "content": "For dividing any numbers to get a decimal quotient, we use long division, extending the place value method.\n\nProcess:\n1. Divide the whole number part first\n2. When you have a remainder and need to continue, regroup the remainder as tenths\n3. Place a decimal point in the quotient when you move from ones to tenths\n4. Continue dividing tenths, then hundredths, then thousandths, etc.\n5. Add zeros to the dividend as needed\n\nExample: 1325 ÷ 4\nThousands: 0 (1325 is less than 10000)\nHundreds: 3 (1200 ÷ 4 = 3 hundreds)\nTens: 3 (120 ÷ 4 = 3 tens)\nOnes: 1 (4 ÷ 4 = 1, remainder 1)\n\nNow with remainder 1:\nRegroup as 10 tenths: 10 ÷ 4 = 2 tenths, remainder 2\nRegroup as 20 hundredths: 20 ÷ 4 = 5 hundredths\n\nAnswer: 331.25\n\nExample: 237 ÷ 8\n- 83 ÷ 8 = 2 remainder 7 (hundreds and tens)\n- Regroup to ones: 77 ÷ 8 = 9 remainder 5\n- Regroup to tenths: 50 ÷ 8 = 6 remainder 2\n- Regroup to hundredths: 20 ÷ 8 = 2 remainder 4\n- Regroup to thousandths: 40 ÷ 8 = 5\n\nAnswer: 29.625\n\nKey point: Place the decimal point in the quotient before you divide the tenths place."
+    },
+    {
+      "section_number": "4.6",
+      "section_title": "Decimal Division Part 4: Dividing Decimals by Decimals",
+      "content": "When the divisor is a decimal, we convert it to a whole number by multiplying both the dividend and divisor by an appropriate power of 10.\n\nRule: Find how many decimal places the divisor has. Multiply both dividend and divisor by 10, 100, 1000, etc. to make the divisor a whole number. Then proceed with normal division.\n\nExample 1: 126 ÷ 2.5\n- Divisor has 1 decimal place, so multiply both by 10\n- 126 × 10 = 1260\n- 2.5 × 10 = 25\n- Now divide: 1260 ÷ 25 = 50.4\n\nExample 2: 4.68 ÷ 1.3\n- Both have 1 decimal place, multiply by 10\n- 4.68 × 10 = 46.8\n- 1.3 × 10 = 13\n- Divide: 46.8 ÷ 13 = 3.6\n\nExample 3: 4.68 ÷ 0.13\n- Divisor has 2 decimal places, multiply by 100\n- 4.68 × 100 = 468\n- 0.13 × 100 = 13\n- Divide: 468 ÷ 13 = 36\n\nWhy does this work? Because we're multiplying both by the same number, the quotient stays the same: (a × k) ÷ (b × k) = a ÷ b\n\nImportant: When the divisor is a decimal less than 1, the quotient is greater than the dividend. For example, 128 ÷ 0.4 = 320, and 320 > 128."
+    },
+    {
+      "section_number": "4.7",
+      "section_title": "Repeating Decimals and Non-Terminating Division",
+      "content": "Some divisions never terminate and give repeating decimals.\n\nExample 1: 10 ÷ 3\nUsing long division:\n- 10 ÷ 3 = 3 remainder 1\n- 10 ÷ 3 = 3 remainder 1 (tenths)\n- 10 ÷ 3 = 3 remainder 1 (hundredths)\n- This pattern continues forever\n\nResult: 10 ÷ 3 = 3.333... (written as 3.3̄ with a bar over the 3)\n\nExample 2: 1 ÷ 7\nUsing long division:\n- The remainders cycle: 1 → 3 → 2 → 6 → 4 → 5 → 1 (repeats)\n- The quotient digits repeat: 0.142857142857...\n- This is written as 0.142857̄ (with a bar over the entire block)\n\nWhen does a fraction give a terminating decimal?\n- If the denominator (in lowest terms) has only 2 and 5 as prime factors, the decimal terminates\n- Examples: 1/2 = 0.5, 1/4 = 0.25, 1/5 = 0.2, 3/8 = 0.375\n\nWhen does a fraction give a repeating decimal?\n- If the denominator (in lowest terms) has prime factors other than 2 and 5, the decimal repeats\n- Examples: 1/3 = 0.333..., 1/6 = 0.1666..., 1/7 = 0.142857...\n\nImportant note: Not all divisions end, but all exact rational results can be represented either as terminating decimals or repeating decimals."
+    },
+    {
+      "section_number": "4.8",
+      "section_title": "The Magic Number 142857",
+      "content": "An interesting discovery arises from 1 ÷ 7 = 0.142857142857...\n\nThe repeating block is 142857, which has special properties called a cyclic number.\n\nMultiplication patterns:\n- 142857 × 1 = 142857\n- 142857 × 2 = 285714 (digits rotated right by 1)\n- 142857 × 3 = 428571 (digits rotated right by 2)\n- 142857 × 4 = 571428 (digits rotated right by 3)\n- 142857 × 5 = 714285 (digits rotated right by 4)\n- 142857 × 6 = 857142 (digits rotated right by 5)\n- 142857 × 7 = 999999\n\nKey observation: Multiplying 142857 by 1-6 gives the same digits in cyclic order, and multiplying by 7 gives all 9s!\n\nOther cyclic numbers:\n- 1 ÷ 17 produces a cyclic number\n- Similar patterns exist for other primes\n\nOpen mathematical question: Are there infinitely many cyclic numbers? This remains an unsolved conjecture (Emil Artin's conjecture from 1927) despite nearly a century of research!"
+    },
+    {
+      "section_number": "4.9",
+      "section_title": "Relationships Between Dividend, Divisor, and Quotient",
+      "content": "When dividing, the relationship between the dividend, divisor, and quotient varies based on the divisor value.\n\nSituation 1: When divisor is a whole number greater than 1\n- Quotient < Dividend\n- Example: 128 ÷ 4 = 32, and 32 < 128\n\nSituation 2: When divisor is exactly 1\n- Quotient = Dividend\n- Example: 128 ÷ 1 = 128\n\nSituation 3: When divisor is a decimal between 0 and 1\n- Quotient > Dividend\n- Example: 128 ÷ 0.4 = 320, and 320 > 128\n- The smaller the divisor, the larger the quotient\n\nWhy?\n- Dividing by a number less than 1 is like multiplying by a number greater than 1\n- For example, dividing by 0.5 is the same as multiplying by 2\n- Mathematically: a ÷ (b/10) = a × (10/b), which gives a larger result\n\nPractical examples:\n- 25 ÷ 10 = 2.5 (divisor > 1, so quotient < 25)\n- 25 ÷ 1 = 25 (divisor = 1, so quotient = 25)\n- 25 ÷ 0.1 = 250 (divisor < 1, so quotient > 25)\n\nThis relationship shows why understanding decimals is crucial—division by decimals can produce results larger than the original number!"
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Decimal",
+      "definition": "A number that contains a decimal point, representing fractions with denominators that are powers of 10 (10, 100, 1000, etc.)."
+    },
+    {
+      "term": "Decimal Point",
+      "definition": "The dot (.) used in decimal notation to separate the whole number part from the fractional part."
+    },
+    {
+      "term": "Tenths",
+      "definition": "The first place value to the right of the decimal point, representing 1/10 or 0.1."
+    },
+    {
+      "term": "Hundredths",
+      "definition": "The second place value to the right of the decimal point, representing 1/100 or 0.01."
+    },
+    {
+      "term": "Thousandths",
+      "definition": "The third place value to the right of the decimal point, representing 1/1000 or 0.001."
+    },
+    {
+      "term": "Decimal Multiplication",
+      "definition": "The process of multiplying two decimal numbers by removing decimal points, multiplying as whole numbers, and then placing the decimal point in the product based on the total decimal places."
+    },
+    {
+      "term": "Decimal Division",
+      "definition": "The process of dividing decimal numbers or dividing by decimals using long division or conversion methods."
+    },
+    {
+      "term": "Dividend",
+      "definition": "The number being divided in a division operation."
+    },
+    {
+      "term": "Divisor",
+      "definition": "The number by which the dividend is divided in a division operation."
+    },
+    {
+      "term": "Quotient",
+      "definition": "The result obtained from dividing the dividend by the divisor."
+    },
+    {
+      "term": "Long Division",
+      "definition": "A step-by-step procedure for dividing numbers, often extended to give decimal quotients by regrouping remainders as decimal fractions."
+    },
+    {
+      "term": "Terminating Decimal",
+      "definition": "A decimal that ends after a finite number of digits (e.g., 0.5, 0.25, 0.75)."
+    },
+    {
+      "term": "Repeating Decimal",
+      "definition": "A decimal in which one or more digits repeat infinitely (e.g., 0.333..., 0.142857142857...)."
+    },
+    {
+      "term": "Reciprocal",
+      "definition": "For a fraction a/b, the reciprocal is b/a. Used in division: dividing by a fraction means multiplying by its reciprocal."
+    },
+    {
+      "term": "Place Value",
+      "definition": "The value of a digit based on its position in a number (e.g., in 27.53, the 5 is in the tenths place, so it has value 5/10)."
+    },
+    {
+      "term": "Cyclic Number",
+      "definition": "A special number like 142857 that, when multiplied by certain factors, produces cyclic rotations of its digits."
+    },
+    {
+      "term": "Prime Factors",
+      "definition": "The prime numbers that multiply together to give a number. Used to determine if a fraction has a terminating decimal representation."
+    },
+    {
+      "term": "Product",
+      "definition": "The result obtained from multiplying two or more numbers."
+    },
+    {
+      "term": "Equivalent Fractions",
+      "definition": "Fractions that represent the same value but have different numerators and denominators (e.g., 1/2 = 50/100)."
+    }
+  ],
+  "summary_points": [
+    "Decimals extend the place value system to represent fractions with denominators 10, 100, 1000, etc., providing a convenient way to perform arithmetic operations.",
+    "To multiply decimals, remove the decimal points, multiply as whole numbers, then place the decimal point so the total decimal places in the product equals the sum of decimal places in the factors.",
+    "When multiplying decimals, the product is not always greater than both factors; it depends on whether the factors are greater than or less than 1.",
+    "Dividing a decimal by 10, 100, 1000, etc., is simple: just move the decimal point left by the number of zeros in the divisor.",
+    "For divisions involving decimals, long division can be extended to generate decimal quotients by regrouping remainders as tenths, hundredths, thousandths, etc.",
+    "When the divisor is a decimal, multiply both dividend and divisor by an appropriate power of 10 to make the divisor a whole number, then proceed with normal division.",
+    "Some divisions produce terminating decimals (exact after a finite number of places), while others produce repeating decimals (digits repeat infinitely) based on the prime factors of the denominator.",
+    "A fraction with denominator having only 2 and 5 as prime factors produces a terminating decimal; other prime factors lead to repeating decimals.",
+    "When the divisor is greater than 1, the quotient is less than the dividend; but when the divisor is between 0 and 1, the quotient is greater than the dividend.",
+    "Cyclic numbers like 142857 show fascinating mathematical properties, and their existence and frequency remain open questions in mathematics (Emil Artin's conjecture)."
+  ]
+}

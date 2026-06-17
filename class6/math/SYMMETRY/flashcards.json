@@ -1,0 +1,30 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "SYMMETRY",
+    "chapter_number": 9
+  },
+  "flashcards": [
+    { "q": "What is another name for an 'axis of symmetry'?", "a": "Line of symmetry." },
+    { "q": "Line symmetry is also referred to as?", "a": "Reflection symmetry." },
+    { "q": "How many lines of symmetry does a square have?", "a": "4" },
+    { "q": "How many lines of symmetry does a rectangle have?", "a": "2" },
+    { "q": "What is the order of rotational symmetry for a square?", "a": "4" },
+    { "q": "A circle has how many lines of symmetry?", "a": "Infinite" },
+    { "q": "What is the fixed point of rotation called?", "a": "Centre of rotation." },
+    { "q": "What is the smallest angle of rotation for a regular pentagon?", "a": "$72^\\circ$" },
+    { "q": "How many lines of symmetry does an equilateral triangle have?", "a": "3" },
+    { "q": "What is the order of rotational symmetry for a regular hexagon?", "a": "6" },
+    { "q": "Smallest angle of rotational symmetry for a circle?", "a": "Every angle (infinitely many)." },
+    { "q": "Amount of lines of symmetry in a regular polygon with 'n' sides?", "a": "n" },
+    { "q": "Smallest angle of rotational symmetry for a rectangle?", "a": "$180^\\circ$" },
+    { "q": "What are 'mirror halves'?", "a": "The two identical parts of a figure divided by its line of symmetry." },
+    { "q": "Does a scalene triangle have a line of symmetry?", "a": "No (0 lines)." },
+    { "q": "How many lines of symmetry does the Ashoka Chakra have?", "a": "24" },
+    { "q": "What is the smallest angle of symmetry for the Ashoka Chakra?", "a": "$15^\\circ$ ($360^\\circ \\div 24$)." },
+    { "q": "True or False: A figure always looks the same after a $360^\\circ$ rotation.", "a": "True" },
+    { "q": "What is the order of rotation for an equilateral triangle?", "a": "3" },
+    { "q": "Name a shape that has rotational symmetry but no line symmetry.", "a": "Parallelogram (not a rectangle/rhombus) or a Pinwheel." }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "The Human Eye and the Colorful World",
+    "chapter_number": 10
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Which specific part of the human eye acts as a dark muscular diaphragm to control the size of the pupil?",
+      "answer": "The iris.",
+      "solution": "The iris is a pigmented, muscular structure located behind the cornea. Its primary function is to expand or contract, thereby adjusting the diameter of the pupil to regulate the amount of light entering the eye."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Define the 'near point' and 'far point' of a human eye with normal vision.",
+      "answer": "The near point is 25 cm, and the far point is infinity.",
+      "solution": "For a young adult with normal vision, the 'near point' (least distance of distinct vision) is the minimum distance (~25 cm) at which objects can be seen clearly without strain. The 'far point' is the maximum distance up to which the eye can see objects distinctly, which is infinity for a normal eye."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Medium",
+      "question": "Explain the role of ciliary muscles when the eye focuses on a distant object versus a nearby object.",
+      "answer": "For distant objects, ciliary muscles relax (lens becomes thin); for nearby objects, they contract (lens becomes thick).",
+      "solution": "To see distant objects, the ciliary muscles relax, making the eye lens thin and increasing its focal length. To see nearby objects, the ciliary muscles contract, increasing the curvature and thickness of the lens, which decreases the focal length to focus the image correctly on the retina."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Medium",
+      "question": "Why is a normal eye unable to see objects placed closer than 25 cm clearly?",
+      "answer": "Because the ciliary muscles cannot contract enough to decrease the focal length of the eye lens below a certain minimum limit.",
+      "solution": "The eye lens has a physical limit to how thick it can become. When an object is closer than 25 cm, the ciliary muscles cannot sufficiently increase the lens curvature to focus the light rays onto the retina, resulting in a blurred image and eye strain."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Medium",
+      "question": "The human eye is often compared to a camera. Identify the 'screen' and the 'aperture' in the human eye based on this analogy.",
+      "answer": "The retina acts as the screen, and the pupil acts as the aperture.",
+      "solution": "In a camera, the light-sensitive film or sensor captures the image; in the eye, this is the retina. The aperture in a camera controls light entry, much like the pupil in the human eye, which changes size to regulate illumination."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Hard",
+      "question": "Analyze how the eye focuses images on the retina differently than a standard fixed-lens camera focuses images on a sensor.",
+      "answer": "The eye changes its lens's focal length (accommodation), whereas a camera typically changes the distance between the lens and the sensor.",
+      "solution": "A camera focuses by moving the lens forward or backward to change the image distance (v). In contrast, the human eye maintains a fixed distance between the lens and the retina (v is constant). It focuses by using ciliary muscles to change the shape and focal length (f) of the crystalline lens, a biological process known as accommodation."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Identify the condition where the crystalline lens becomes milky and cloudy in old age, leading to vision loss.",
+      "answer": "Cataract.",
+      "solution": "Cataract is a medical condition where the lens of the eye becomes opaque, interfering with the passage of light. It causes partial or total blindness but can be successfully treated through surgical removal and replacement of the lens."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What are the three most common refractive defects of the human eye?",
+      "answer": "Myopia, Hypermetropia, and Presbyopia.",
+      "solution": "These are the primary conditions caused by improper focusing of light: Myopia (near-sightedness), Hypermetropia (far-sightedness), and Presbyopia (aging-related loss of accommodation)."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "A person can see nearby objects clearly but cannot see distant objects distinctly. Identify the vision defect and its possible causes.",
+      "answer": "Myopia; caused by excessive curvature of the eye lens or elongation of the eyeball.",
+      "solution": "This defect is Myopia. It occurs when the refractive power of the eye is too high or the eyeball is too long, causing light from distant objects to converge into an image *in front* of the retina rather than *on* it."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Distinguish between Hypermetropia and Presbyopia, specifically regarding their causes.",
+      "answer": "Hypermetropia is due to a small eyeball or long focal length; Presbyopia is due to weakened ciliary muscles and loss of lens flexibility with age.",
+      "solution": "Although both result in difficulty seeing nearby objects, Hypermetropia is a refractive error related to the eye's physical dimensions. Presbyopia is a functional loss of the lens's 'zooming' ability (accommodation) specifically due to the aging process of the muscular and fibrous tissues of the eye."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "How does a concave lens correct the defect of myopia?",
+      "answer": "It diverges the incoming parallel rays from distant objects so they appear to come from the person's far point, allowing the eye to focus them on the retina.",
+      "solution": "In a myopic eye, rays converge too early. A concave lens of suitable power diverges the rays slightly before they enter the eye. This 'pre-divergence' ensures that the eye's overly converging lens system finally focuses the light exactly on the retina."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Specify the type of lens required to correct Hypermetropia and explain its function.",
+      "answer": "A convex lens; it provides additional focusing power to converge light rays correctly onto the retina.",
+      "solution": "Hypermetropic eyes have insufficient converging power, causing images of near objects to form behind the retina. A convex (converging) lens adds to the eye's total refractive power, bending the rays inward enough to ensure the final image lands precisely on the light-sensitive retina."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "A person with a myopic eye has a far point of 80 cm. What is the power of the lens required to see distant objects clearly?",
+      "answer": "Power = -1.25 D (Concave lens).",
+      "solution": "For a myopic person to see distant objects (u = infinity), the corrective lens must form a virtual image at their far point (v = -80 cm = -0.8 m). Using lens formula: 1/f = 1/v - 1/u = 1/(-0.8) - 1/(infinity) = -1.25. Therefore, Power P = 1/f = -1.25 D. The negative sign indicates a concave lens."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "The near point of a hypermetropic eye is 1 m. Calculate the power of the lens required to read at 25 cm.",
+      "answer": "Power = +3.0 D (Convex lens).",
+      "solution": "Given: u = -25 cm = -0.25 m (desired object position), v = -1 m (eye's near point). Using lens formula: 1/f = 1/v - 1/u = 1/(-1) - 1/(-0.25) = -1 + 4 = +3. Power P = 1/f = +3.0 D. The positive sign indicates a convex lens."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "In a bifocal lens, which type of lens is placed in the upper and lower portions, and why?",
+      "answer": "Upper: Concave (for distant vision); Lower: Convex (for reading/near vision).",
+      "solution": "Bifocal lenses are used for presbyopia (often combined with myopia). The upper part allows the wearer to look 'straight ahead' at distant objects using a concave lens. The lower part is used for downward tasks like reading, where a convex lens provides the necessary magnification for nearby objects."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Hard",
+      "question": "What happens to the image distance in the eye when the distance of an object from the eye is increased?",
+      "answer": "The image distance remains constant.",
+      "solution": "The distance between the eye lens and the retina (the image distance) is fixed by the anatomy of the eyeball. When object distance increases, the ciliary muscles relax to decrease lens curvature (increasing focal length) so that the image is still formed exactly on the retina at the same constant distance."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Define 'Angle of Prism' and 'Angle of Deviation' in the context of refraction through a triangular glass prism.",
+      "answer": "Angle of Prism is the angle between two lateral faces; Angle of Deviation is the angle between the incident ray and the emergent ray.",
+      "solution": "In a triangular prism, the non-parallel refracting surfaces are inclined at an angle called the Angle of Prism. Because these surfaces are not parallel (unlike a glass slab), the light ray undergoes cumulative bending. The net angular shift between the original path of light and its final emergent path is called the Angle of Deviation (D)."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Sequence the colors of the visible spectrum in increasing order of their bending angles when passed through a glass prism.",
+      "answer": "Red, Orange, Yellow, Green, Blue, Indigo, Violet (VIBGYOR).",
+      "solution": "When white light enters a prism, different colors travel at different speeds in glass. Red light travels the fastest and thus bends the least. Violet light travels the slowest and bends the most. The sequence from least to most deviation follows the acronym VIBGYOR."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Newton placed an identical second prism in an inverted position after a first prism. What was the net result, and what did it prove?",
+      "answer": "White light emerged from the second prism; it proved that white light is composed of seven colors.",
+      "solution": "The first prism dispersed white light into its seven colors. The second inverted prism converged these colors back together. Since white light was reconstituted, Newton concluded that sunlight is not intrinsically white but is a mixture of the seven component colors of the spectrum."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Explain the three-step optical process involving water droplets that leads to the formation of a rainbow.",
+      "answer": "Refraction, Dispersion, and Internal Reflection.",
+      "solution": "When sunlight enters a water droplet, it is first refracted and dispersed into colors. These colors then reflect internally off the back surface of the droplet. Finally, they are refracted again as they exit the droplet towards the observer's eye, creating the visible arc of colors."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Why is a rainbow always formed in the direction opposite to that of the Sun?",
+      "answer": "Because it requires sunlight to enter the droplets from behind the observer and reflect back towards the eyes.",
+      "solution": "The light must enter the droplet, reflect off its rear internal surface, and emerge back towards the side the light came from. Therefore, for an observer to see a rainbow, the Sun must be behind them, and the rain/mist must be in front of them, placing the rainbow in the opposite sky."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "What is 'Atmospheric Refraction', and why does it occur?",
+      "answer": "The bending of light as it passes through layers of air with different refractive indices; occurs due to temperature and density variations in the atmosphere.",
+      "solution": "The Earth's atmosphere is not uniform. Air density and temperature change with altitude, which in turn changes the refractive index. As light passes through these fluctuating layers, it bends continuously, a phenomenon known as atmospheric refraction."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "Why do stars twinkle while planets do not?",
+      "answer": "Stars are distant point sources whose light flickers due to atmospheric fluctuations; planets are extended sources that average out the flickering.",
+      "solution": "Stars are so far away they appear as single points of light; any slight atmospheric bending significantly shifts their apparent position or brightness. Planets are much closer and appear as 'extended' discs (collections of many points). The twinkling of individual points in a planet's disc cancel each other out, resulting in a steady glow."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "The Sun is visible to us 2 minutes before actual sunrise. Explain the reason for this 2-minute 'advance'.",
+      "answer": "Atmospheric refraction bends sunlight around the Earth's curvature, making it appear as if the Sun has already crossed the horizon.",
+      "solution": "Even when the Sun is slightly below the horizon, its rays enter the Earth's atmosphere and bend towards the normal because the air gets denser closer to the surface. This bending allows the rays to reach our eyes, creating an apparent image of the Sun above the horizon before it physically crosses it."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Easy",
+      "question": "What is the Tyndall Effect?",
+      "answer": "The scattering of light by colloidal particles that makes the path of the beam visible.",
+      "solution": "When a beam of light strikes fine particles (like smoke, dust, or water droplets), the light reflects diffusely off them. This Scattering makes the particles visible and outlines the path of the light beam, as seen when sunlight enters a dusty room."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Medium",
+      "question": "How does the size of scattering particles in the atmosphere relate to the color of the scattered light?",
+      "answer": "Fine particles scatter blue (short wavelength), while larger particles scatter red (long wavelength) or even appear white if very large.",
+      "solution": "Atmospheric molecules are smaller than the wavelength of visible light and are more effective at scattering shorter wavelengths (blue). Larger particles like dust scatter all wavelengths more equally or favor longer ones, which dictates the perceived color of the sky or haze."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Medium",
+      "question": "Why does the clear sky appear blue?",
+      "answer": "The fine air molecules scatter the shorter-wavelength blue light more strongly than red light.",
+      "solution": "Sunlight contains all colors. As it travels through the atmosphere, the small air molecules scatter the blue end of the spectrum (short wavelengths) in all directions. When we look at any part of the sky away from the Sun, we see this scattered blue light entering our eyes."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Medium",
+      "question": "Why do danger signal lights use the color red?",
+      "answer": "Red light has the longest wavelength and is scattered the least by fog, smoke, or dust.",
+      "solution": "Because red light is least affected by atmospheric scattering, it can travel through fog or smoke without losing its intensity or color. This ensures that the signal remains visible from a great distance, which is critical for safety."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Explain why the sky appears dark to an astronaut in outer space or to passengers flying at very high altitudes.",
+      "answer": "There is no atmosphere to scatter light at those heights.",
+      "solution": "In the vacuum of space or at extreme altitudes, there are no air molecules or particles to scatter sunlight. Without scattering, light only travels in straight rays from the Sun to the eye; the rest of the 'empty' sky does not produce any light and therefore appears black."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Why does the Sun appear reddish at sunrise and sunset?",
+      "answer": "Sunlight travels through a thicker layer of atmosphere, which scatters away most of the blue and shorter wavelengths, leaving only the red end of the spectrum to reach our eyes.",
+      "solution": "Near the horizon, sunlight must pass through a much greater distance of atmosphere. During this long transit, the shorter blue wavelengths are almost completely scattered out of the beam. The light that remains is dominated by the least-scattered longer wavelengths—red and orange—giving the Sun its characteristic reddish appearance."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Medium",
+      "question": "Describe the phenomenon of 'apparent flattening' of the Sun's disc at sunrise and sunset.",
+      "answer": "It is caused by the difference in atmospheric refraction between the top and bottom edges of the Sun.",
+      "solution": "At the horizon, light from the bottom edge of the Sun passes through slightly denser air than light from the top edge. The bottom edge is refracted (lifted) more than the top edge, causing the circular disc to appear vertically compressed or 'flattened'."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "Summarize the primary difference in how light interacts with a glass slab versus a glass prism.",
+      "answer": "In a glass slab, the emergent ray is parallel to the incident ray; in a prism, the emergent ray is deviated at an angle.",
+      "solution": "A rectangular glass slab has parallel refracting surfaces, so the bending at the first surface is exactly reversed at the second. A prism has non-parallel surfaces, so the light is bent in the same general direction both times (towards the base), resulting in a net angular deviation of the light path."
+    }
+  ]
+}

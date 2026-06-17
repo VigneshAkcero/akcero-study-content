@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Matter In Our Surroundings",
+    "chapter_number": 1
+  },
+  "summary": [
+    {
+      "category": "Physical Nature and Characteristics of Matter",
+      "points": [
+        "Matter is made up of tiny particles with spaces between them — confirmed by salt dissolving in water without raising the level, and by a few KMnO₄ crystals colouring ~1000 L of water through serial dilution.",
+        "Particles of matter are in continuous random motion (giving them kinetic energy that increases with temperature) and attract each other with forces whose strength varies between substances — maximum in solids, intermediate in liquids, minimum in gases.",
+        "Diffusion — the spontaneous intermixing of particles — occurs because of continuous particle motion and interparticle spaces; its rate increases with temperature and follows the order: gases > liquids > solids."
+      ]
+    },
+    {
+      "category": "States of Matter and Their Properties",
+      "points": [
+        "Solids have definite shape and volume, negligible compressibility, and rigid structure because particles are tightly packed with maximum intermolecular forces and only vibrate about fixed positions.",
+        "Liquids have a fixed volume but no fixed shape (they flow and are called fluids); their particles move freely and slide over each other; gases dissolve in liquids (e.g., oxygen in water essential for aquatic life).",
+        "Gases have no fixed shape or volume, are highly compressible (enabling LPG/CNG storage), exert pressure on container walls due to fast random particle movement, and diffuse very rapidly — all because of negligible intermolecular forces and maximum interparticle spaces."
+      ]
+    },
+    {
+      "category": "Change of State, Latent Heat, and Evaporation",
+      "points": [
+        "During a change of state (solid→liquid at melting point 273 K, liquid→gas at boiling point 373 K), temperature remains constant as heat is used to overcome forces of attraction — this hidden heat is called latent heat; steam at 373 K has more energy than water at 373 K due to the extra latent heat of vaporisation it has absorbed.",
+        "Sublimation is the direct solid→gas conversion (e.g., camphor, dry ice/solid CO₂); deposition is the reverse; the state of matter depends on both temperature AND pressure — gases can be liquefied by applying pressure and lowering temperature.",
+        "Evaporation is a surface phenomenon occurring below the boiling point; its rate increases with surface area, temperature, wind speed, and decreases with humidity; evaporation causes cooling because escaping particles absorb latent heat from the surroundings — hence cotton clothes cool the body in summer and desert coolers work best in dry weather."
+      ]
+    }
+  ]
+}

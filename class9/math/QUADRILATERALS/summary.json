@@ -1,0 +1,33 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Quadrilaterals",
+    "chapter_number": 8
+  },
+  "summary": [
+    {
+      "category": "Properties of a Parallelogram",
+      "points": [
+        "A diagonal of a parallelogram divides it into two congruent triangles.",
+        "In a parallelogram, opposite sides are equal, opposite angles are equal, and the diagonals bisect each other.",
+        "The conversely stated properties are also true: if a quadrilateral has any of these properties, it is a parallelogram."
+      ]
+    },
+    {
+      "category": "Special Parallelograms",
+      "points": [
+        "The diagonals of a rectangle are equal in length and bisect each other.",
+        "The diagonals of a rhombus bisect each other at right angles.",
+        "The diagonals of a square are equal and bisect each other at right angles."
+      ]
+    },
+    {
+      "category": "The Mid-point Theorem",
+      "points": [
+        "The Mid-point Theorem states that the line segment joining the mid-points of any two sides of a triangle is parallel to the third side and is half of its length.",
+        "Conversely, a line drawn through the mid-point of one side of a triangle, parallel to another side, perfectly bisects the third side."
+      ]
+    }
+  ]
+}

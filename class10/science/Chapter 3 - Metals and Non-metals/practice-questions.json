@@ -1,0 +1,87 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Metals and Non-metals",
+    "chapter_number": 3
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What distinct physical properties allow metals like gold to be beaten into incredibly thin sheets and drawn into long continuous wires without breaking?",
+      "answer": "The physical properties of malleability and ductility.",
+      "solution": "Malleability describes a material's capacity to deform under compressive stress into thin flat sheets. Ductility defines its capacity to endure tensile stress, stretching into thin unbroken wires."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Which specific metal exists natively as a liquid at standard room temperature, heavily contrasting the solid state of all other metals?",
+      "answer": "Mercury.",
+      "solution": "While metals possess strong intermolecular forces making them solid, mercury features unusually weak metallic bonding holding its atoms together, resulting in a liquid state at room temperature."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Why are highly reactive metals like sodium and potassium constantly stored completely immersed inside kerosene oil?",
+      "answer": "To aggressively block direct contact with atmospheric oxygen and moisture, preventing violent spontaneous combustion.",
+      "solution": "Both sodium and potassium feature an extreme chemical affinity for oxygen. If left exposed in open air, they rapidly undergo a violent exothermic oxidation reaction that instantly ignites."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What is structurally defined as an amphoteric oxide?",
+      "answer": "A specific metallic oxide that exhibits dual chemical behavior, reacting actively with both acids and bases to yield salt and water.",
+      "solution": "While most metal oxides are functionally basic, amphoteric oxides like aluminium oxide and zinc oxide uniquely possess the chemical flexibility to display both acidic and basic characteristics depending on the chosen reactant."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Medium",
+      "question": "Analyze structurally why strong solid ionic compounds exhibit significantly high melting and boiling points.",
+      "answer": "Because massive amounts of targeted thermal energy are fundamentally required to break their immensely strong inter-ionic electrostatic attractions.",
+      "solution": "Ionic compounds are rigid crystalline networks built entirely of tightly packed, oppositely charged ions. The dominant electrostatic forces binding these cations and anions together are extremely powerful, necessitating severe heat to shatter the bonds."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "If you drop metallic magnesium into cold water, nothing happens. However, dropping sodium triggers an immediate fire. Explain the chemical difference driving this specific reactivity.",
+      "answer": "Sodium is vastly more reactive and its interaction with cold water is violently exothermic, igniting the liberated hydrogen gas. Magnesium only possesses sufficient reactivity to successfully displace hydrogen from hot water.",
+      "solution": "The reactivity series ranks sodium near the very top, meaning it sheds its valence electron with aggressive ease, generating intense heat upon interacting with cold water. Magnesium resides lower on the series, requiring the added thermal energy of hot water to drive its hydrogen displacement reaction."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "When dilute nitric acid (HNO₃) reacts with a standard metal like zinc, hydrogen gas is notably absent. Identify the chemical reasoning behind this.",
+      "answer": "Nitric acid functions as a supremely strong oxidising agent, instantaneously oxidising the liberated hydrogen into water.",
+      "solution": "Instead of allowing free hydrogen gas bubbles to escape, the aggressive oxygen contained within the nitric acid instantly bonds with them to form H₂O. The nitric acid itself subsequently reduces down into varying nitrogen oxide gases."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "Why do crystalline ionic compounds securely conduct electricity when dissolved in liquid water, but thoroughly fail to conduct while remaining solid?",
+      "answer": "Electrical conduction requires freely moving charged particles. While solid structures strictly lock ions in place, dissolving them naturally liberates the ions to flow.",
+      "solution": "In a solid lattice, rigid electrostatic bonds immobilize the ions. Upon dissolution in water, the polar water molecules surround and successfully detach the individual ions from their rigid lattice, allowing them to freely migrate toward conductive electrodes."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Hard",
+      "question": "Differentiate analytically between the metallurgical processes of roasting and calcination. Focus on the core differences in chemical reactants and the required atmospheric conditions.",
+      "answer": "Roasting forcefully involves heating unstable metal sulphide ores in heavy excess air to forge an oxide. Calcination structurally involves heating rigid metal carbonate ores in strictly limited air to forge an oxide.",
+      "solution": "Sulphide ores uniquely possess sulphur requiring substantial external ambient oxygen to form evolving sulphur dioxide gas via roasting. Conversely, carbonate ores inherently already contain massive amounts of internal oxygen, meaning heating them in a starved air environment (calcination) successfully causes them to thermally decompose into a metal oxide and escaping carbon dioxide gas."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Hard",
+      "question": "Examine the heavy industrial Thermit reaction (Fe₂O₃ + 2Al → 2Fe + Al₂O₃). Identify the active reducing agent and explain analytically why the resulting iron product emerges selectively as a molten liquid.",
+      "answer": "Aluminium acts as the aggressive reducing agent. The reaction is violently exothermic, producing enough rapid thermal heat to instantly melt the newly formed iron.",
+      "solution": "Aluminium sits much higher than moderately reactive iron on the reactivity series, allowing it to efficiently forcefully strip bonded oxygen directly away from the rigid iron(III) oxide. This harsh displacement reaction unleashes monumental localized heat energy, driving local temperatures soaring far past iron's melting point, yielding molten liquid iron famously deployed to fuse cracked railway tracks."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Hard",
+      "question": "During the vital electrolytic refining process purifying blister copper, detail precisely the specific chemical occurrences executing at both the designated anode and the distinct cathode.",
+      "answer": "The crude impure copper functions as the dissolving anode, yielding its pure metal ions into the chosen electrolyte solution. The pure thin copper sheet functions as the accumulating cathode, drawing these migrating ions out of the solution to deposit solidly as totally pure copper.",
+      "solution": "When structural electric current flows, the thick impure copper anode undergoes active oxidation, stripping away electrons and shedding Cu²⁺ ions directly into the acidified copper sulphate electrolyte bath. Simultaneously, these free Cu²⁺ ions undergo reduction at the negatively charged cathode, absorbing electrons and crystallizing outward as pristine solid copper. Insoluble metallic impurities naturally detach and plunge to the floor as useless anode mud."
+    }
+  ]
+}

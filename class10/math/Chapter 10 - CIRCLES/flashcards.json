@@ -1,0 +1,182 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Circles",
+    "chapter_number": 10
+  },
+  "flashcards": [
+    {
+      "q": "What is a tangent to a circle?",
+      "a": "A tangent to a circle is a line that intersects the circle at exactly one point, called the point of contact."
+    },
+    {
+      "q": "What is a secant of a circle?",
+      "a": "A secant of a circle is a line that intersects the circle at two distinct points."
+    },
+    {
+      "q": "What is a non-intersecting line with respect to a circle?",
+      "a": "A non-intersecting line is a line that does not intersect the circle at any point."
+    },
+    {
+      "q": "What is the point of contact?",
+      "a": "The point of contact is the unique point where a tangent touches the circle."
+    },
+    {
+      "q": "How many tangents can a circle have?",
+      "a": "A circle has infinitely many tangents, one at each point on the circle."
+    },
+    {
+      "q": "State Theorem 10.1 about tangents and radii.",
+      "a": "The tangent at any point of a circle is perpendicular to the radius through the point of contact."
+    },
+    {
+      "q": "At any point on a circle, how many tangents exist?",
+      "a": "At any point on a circle, there is exactly one tangent."
+    },
+    {
+      "q": "Can two parallel lines both be tangent to the same circle?",
+      "a": "Yes, there can be at most two parallel tangents to a circle, on opposite sides."
+    },
+    {
+      "q": "If a line is perpendicular to the radius at a point on the circle, what can you conclude?",
+      "a": "The line is a tangent to the circle at that point."
+    },
+    {
+      "q": "How many tangents can be drawn from a point inside the circle?",
+      "a": "No tangent can be drawn from a point inside the circle."
+    },
+    {
+      "q": "How many tangents can be drawn from a point on the circle?",
+      "a": "Exactly one tangent can be drawn from a point on the circle."
+    },
+    {
+      "q": "How many tangents can be drawn from a point outside the circle?",
+      "a": "Exactly two tangents can be drawn from a point outside the circle."
+    },
+    {
+      "q": "What is the length of a tangent from an external point?",
+      "a": "The length of a tangent from an external point to a circle is the distance from that point to the point of contact."
+    },
+    {
+      "q": "State Theorem 10.2 about tangents from an external point.",
+      "a": "The lengths of tangents drawn from an external point to a circle are equal."
+    },
+    {
+      "q": "If two tangents are drawn from an external point P to a circle with center O, what relationship exists between OP and the angle between the tangents?",
+      "a": "OP bisects the angle between the two tangents; OP is the angle bisector."
+    },
+    {
+      "q": "In a circle with center O, if tangents at points A and B meet at point P, what is the relationship between PA and PB?",
+      "a": "PA = PB (the tangent lengths from P are equal)."
+    },
+    {
+      "q": "If a quadrilateral is circumscribed about a circle, what relationship holds between its sides?",
+      "a": "The sum of opposite sides are equal: AB + CD = BC + AD."
+    },
+    {
+      "q": "What is a tangent perpendicular to at the point of contact?",
+      "a": "A tangent is perpendicular to the radius at the point of contact."
+    },
+    {
+      "q": "In what way is a tangent a special case of a secant?",
+      "a": "A tangent is a secant where the two points of intersection coincide at a single point."
+    },
+    {
+      "q": "If O is the center and T is a point on the circle, and PT is a tangent at T, what angle is OTP?",
+      "a": "Angle OTP = 90°."
+    },
+    {
+      "q": "How do you prove that a line is tangent to a circle from the center?",
+      "a": "Show that the line is perpendicular to the radius at the point of intersection with the circle."
+    },
+    {
+      "q": "If two circles are tangent to each other, what relationship exists between their centers and radii?",
+      "a": "For external tangency: distance between centers = sum of radii. For internal tangency: distance between centers = difference of radii."
+    },
+    {
+      "q": "What is the common chord of two intersecting circles?",
+      "a": "The common chord is the line segment joining the two points of intersection of the circles."
+    },
+    {
+      "q": "If a tangent and a chord meet at a point on the circle, what can you say about the angle between them?",
+      "a": "The angle between the tangent and the chord equals the angle in the alternate segment."
+    },
+    {
+      "q": "How many tangents parallel to a given secant can a circle have?",
+      "a": "A circle can have at most two tangents parallel to a given secant, one on each side."
+    },
+    {
+      "q": "In the context of a pulley and rope, what is the relationship between the rope and the pulley?",
+      "a": "The rope is a tangent to the circular pulley at the points where it leaves the pulley."
+    },
+    {
+      "q": "If PT and PS are tangents from external point P to a circle with center O, what can you say about the quadrilateral PTOS?",
+      "a": "PTOS is a kite with PT = PS, and the diagonals are perpendicular."
+    },
+    {
+      "q": "In two concentric circles, if a chord of the larger circle is tangent to the smaller circle, how does it divide?",
+      "a": "It is bisected at the point of contact with the smaller circle."
+    },
+    {
+      "q": "What is the locus of points from which equal tangents can be drawn to a circle?",
+      "a": "Any point on the line passing through the center; the lengths of tangents from different external points vary."
+    },
+    {
+      "q": "If a polygon is circumscribed about a circle, what is the circle called?",
+      "a": "The circle is called the incircle or inscribed circle of the polygon."
+    },
+    {
+      "q": "What property do all vertices of a tangential polygon share?",
+      "a": "All vertices lie on a tangent or at the intersection of two tangent lines to the incircle."
+    },
+    {
+      "q": "Can a circle be drawn through the vertices of a tangential quadrilateral?",
+      "a": "Not necessarily; only special tangential quadrilaterals (like tangential trapezoids) may be cyclic."
+    },
+    {
+      "q": "If tangents at the ends of a diameter of a circle are drawn, what can you conclude?",
+      "a": "The two tangents are parallel to each other."
+    },
+    {
+      "q": "What is the angle of intersection between two tangents drawn from an external point?",
+      "a": "The angle between two tangents from external point P equals 180° minus the angle subtended by the chord joining the contact points at the center."
+    },
+    {
+      "q": "In a right triangle, if a circle is inscribed touching all three sides, what is the relationship called?",
+      "a": "The circle is the incircle, and its center is the incenter of the triangle."
+    },
+    {
+      "q": "If a tangent to a circle makes an angle of 30° with a chord drawn from the point of contact, what angle does the chord subtend in the alternate segment?",
+      "a": "The chord subtends an angle of 30° in the alternate segment (by the alternate segment theorem)."
+    },
+    {
+      "q": "How do you find the length of a tangent from an external point if you know the distance from the point to the center and the radius?",
+      "a": "Use the Pythagorean theorem: tangent length = √(distance² - radius²)."
+    },
+    {
+      "q": "What is the relationship between the angle subtended by a chord at the center and the angle made by a tangent with the chord?",
+      "a": "The angle made by the tangent with the chord equals half the angle subtended by the chord at the center."
+    },
+    {
+      "q": "If a line is perpendicular to a tangent at the point of contact, what can you conclude about the line?",
+      "a": "The line passes through the center of the circle; it is along the radius or its extension."
+    },
+    {
+      "q": "In a cyclic quadrilateral with an inscribed circle, what is true about the sum of opposite sides?",
+      "a": "The sum of opposite sides are equal (Pitot's theorem): AB + CD = BC + AD."
+    },
+    {
+      "q": "What is the significance of the normal to a circle at a point?",
+      "a": "The normal is the line along the radius at the point of contact; it is perpendicular to the tangent."
+    },
+    {
+      "q": "How many circles can pass through two given points?",
+      "a": "Infinitely many circles; their centers lie on the perpendicular bisector of the line segment joining the two points."
+    },
+    {
+      "q": "How many circles can be tangent to a given line at a given point?",
+      "a": "Infinitely many circles; their centers lie on the perpendicular to the line at the given point."
+    }
+  ]
+}

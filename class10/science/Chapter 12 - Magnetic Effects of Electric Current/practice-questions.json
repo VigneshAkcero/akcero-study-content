@@ -1,0 +1,220 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Magnetic Effects of Electric Current",
+    "chapter_number": 12
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is a magnetic field?",
+      "answer": "A magnetic field is the region surrounding a magnet where its magnetic force can be detected or experienced by other magnets or magnetic materials.",
+      "solution": "The space around a magnet in which the influence of the magnet (its force) can be felt is called its magnetic field. A compass needle or iron filings can be used to detect this field."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Name the two poles of a magnet and state their basic interaction rule.",
+      "answer": "The two poles are the North pole and the South pole. Like poles repel each other, while unlike poles attract each other.",
+      "solution": "Every magnet has two ends called poles: a north-seeking pole (North pole) and a south-seeking pole (South pole). The fundamental law of magnetism states that like poles (N-N or S-S) repel, and unlike poles (N-S) attract."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "In which direction do magnetic field lines emerge and merge outside a bar magnet?",
+      "answer": "Magnetic field lines emerge from the North pole and merge at the South pole.",
+      "solution": "By convention, outside a magnet, the direction of magnetic field lines is taken to be from the North pole to the South pole. Inside the magnet, the direction is from the South pole to the North pole."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Why are magnetic field lines described as continuous closed curves?",
+      "answer": "Because they travel from North to South outside the magnet and from South to North inside the magnet, forming a complete loop.",
+      "solution": "Magnetic field lines do not start or end at a point; they form continuous loops. Since they move from N to S outside and S to N inside, they are called closed curves."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What is the key rule regarding the intersection of magnetic field lines?",
+      "answer": "No two magnetic field lines ever cross or intersect each other.",
+      "solution": "Field lines never intersect. If they did, it would mean that at the point of intersection, a compass needle would point in two different directions at once, which is physically impossible."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "How does the deflection of a compass needle change when the current through a nearby wire is increased?",
+      "answer": "The deflection of the compass needle increases as the current increases.",
+      "solution": "The magnitude of the magnetic field produced by a current-carrying wire is directly proportional to the current. Increasing the current increases the field strength, resulting in a larger deflection of the needle."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What is a solenoid?",
+      "answer": "A solenoid is a coil of many circular turns of insulated copper wire wrapped closely in the shape of a cylinder.",
+      "solution": "When an insulated copper wire is wound into a cylindrical shape with multiple turns, it is called a solenoid. It produces a magnetic field similar to a bar magnet when current passes through it."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "State the Right-Hand Thumb Rule.",
+      "answer": "If you hold a current-carrying conductor in your right hand with the thumb pointing toward the current, your fingers wrap in the direction of the magnetic field lines.",
+      "solution": "The Right-Hand Thumb Rule is a convenient way to find the direction of the magnetic field around a straight wire. The thumb represents current direction, and the curled fingers represent the direction of the magnetic field lines (concentric circles)."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "What is an electromagnet?",
+      "answer": "An electromagnet is a magnet formed by placing a soft iron core inside a current-carrying solenoid.",
+      "solution": "A strong magnetic field produced inside a solenoid can magnetise a piece of magnetic material like soft iron. This arrangement is known as an electromagnet, and its magnetism lasts only as long as current flows."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "What are the common color codes for live, neutral, and earth wires in a domestic circuit?",
+      "answer": "Live wire: Red, Neutral wire: Black, Earth wire: Green.",
+      "solution": "In domestic wiring, the live wire (positive) usually has red insulation, the neutral wire (negative) has black insulation, and the earth wire (safety) has green insulation."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Compare the magnetic field produced by a current-carrying solenoid with that of a bar magnet.",
+      "answer": "They are very similar; both have North and South poles at their ends and form similar field line patterns.",
+      "solution": "The magnetic field pattern of a current-carrying solenoid is nearly identical to that of a bar magnet. One end of the solenoid behaves as a north pole and the other as a south pole. The main difference is that a solenoid's field can be turned on or off with the current."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Why is the magnetic field inside a long straight solenoid considered uniform?",
+      "answer": "Because the field lines inside the solenoid move in parallel straight lines, indicating the same field strength at all points.",
+      "solution": "Inside a current-carrying solenoid, the magnetic field lines are in the form of parallel straight lines. This pattern demonstrates that the magnetic field is the same at all points inside the solenoid, which characterizes a uniform magnetic field."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "If a circular coil has 'n' turns, why is its magnetic field 'n' times stronger than that of a single turn?",
+      "answer": "Because the current in each turn flows in the same direction, and the magnetic fields from all turns add up together.",
+      "solution": "The magnetic field produced by a current-carrying wire at a given point depends directly on the current. In a coil with 'n' turns, the current in each circular turn has the same direction, so the fields due to each turn simply add up, making the total field 'n' times stronger."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "A current flows from East to West in a horizontal wire. Determine the direction of the magnetic field at a point directly below the wire.",
+      "answer": "The magnetic field will be directed towards the South (if viewed from the East end, the field turns clockwise).",
+      "solution": "Using the Right-Hand Thumb Rule: point the thumb towards the West (direction of current). The fingers curl such that at a point below the wire, they move from North to South. Therefore, the magnetic field directly below the wire is towards the South."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "How does the magnetic field around a straight current-carrying conductor change as we move further away from it?",
+      "answer": "The magnetic field strength decreases as distance increases, and the field lines (concentric circles) become larger and further apart.",
+      "solution": "The magnitude of the magnetic field at a point is inversely proportional to its distance from the conductor. As we move away, the concentric circles representing the field lines become larger, and the degree of closeness decreases, signifying a weaker field."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "What is the potential difference between the live and neutral wires in a domestic supply in India, and what is its frequency?",
+      "answer": "Potential difference: 220 V. Frequency: 50 Hz.",
+      "solution": "In India, the mains electricity supply is provided at a potential difference of 220 V between the live (red) and neutral (black) wires. The alternating current (AC) has a frequency of 50 Hz."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "What is the function of the earth wire in domestic appliances with metallic bodies?",
+      "answer": "It provides a low-resistance path for leakage current to prevent electric shocks.",
+      "solution": "The earth wire is a safety measure. If insulation fails and current leaks to the metallic body of an appliance, the earth wire carries this current deep into the earth. This ensures the body stays at earth potential, protecting the user from a severe shock."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "List three factors that determine the magnitude of the force acting on a current-carrying conductor in a magnetic field.",
+      "answer": "Magnitude of current, strength of magnetic field, and length of the conductor.",
+      "solution": "Based on Activity 12.7, the force increases if: (i) the magnitude of the current is increased, (ii) a stronger magnetic field is applied, or (iii) the length of the conductor within the field is increased. The force is also affected by the angle between the current and the field."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Why is the magnetic field produced by a current-carrying circular loop maximum at its center?",
+      "answer": "Because at the center, the magnetic field contributions from all parts of the wire loop add up in the same direction.",
+      "solution": "At every point on a circular loop, the current produces magnetic field lines. At the center of the loop, the arcs of these field lines appear as straight lines. Every section of the wire contributes to the field in the same direction within the loop, leading to a concentrated field at the center."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "What is Magnetic Resonance Imaging (MRI) and what is its basis?",
+      "answer": "MRI is an imaging technique used in medical diagnosis; it is based on the magnetic fields produced by weak ion currents inside human organs like the heart and brain.",
+      "solution": "Weak ion currents traveling along nerve cells in the human body produce magnetic fields. Significant fields are produced in the heart and brain. These internal magnetic fields form the basis of MRI, which provides images of body parts for medical analysis."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "An electron enters a magnetic field moving vertically upwards. If the magnetic field is directed from North to South (horizontally), what is the direction of the force acting on the electron?",
+      "answer": "The force will be directed towards the West.",
+      "solution": "Using Fleming's Left-Hand Rule: Point the first finger (field) from N to S. Since the electron moves UP, the current direction (middle finger) is DOWN (opposite to electron motion). The thumb then points towards the West, which is the direction of the force."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "If a positively charged alpha-particle is projected towards the West and gets deflected towards the North by a magnetic field, what is the direction of the magnetic field?",
+      "answer": "The direction of the magnetic field is upward (out of the page/table).",
+      "solution": "Using Fleming's Left-Hand Rule: The thumb (motion/force) points North. The middle finger (current - same as positive charge motion) points West. Following this, the first finger (magnetic field) points upward, perpendicular to both."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "An electric oven rated at 2 kW is operated in a domestic circuit (220 V) that has a current rating of 5 A. What result do you expect? Explain.",
+      "answer": "The circuit fuse will melt and the power supply will be cut off.",
+      "solution": "Power $P = 2\\text{ kW} = 2000\\text{ W}$. Voltage $V = 220\\text{ V}$. Current required $I = P/V = 2000/220 \\approx 9.09\\text{ A}$. Since the circuit has a rating of only 5 A, the current exceeds the limit. This overloading will cause the fuse to melt to prevent damage."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Explain the difference between short-circuiting and overloading in electric circuits.",
+      "answer": "Short-circuiting occurs when live and neutral wires touch directly; overloading occurs when too many appliances are connected or current exceeds the circuit's capacity.",
+      "solution": "Short-circuiting happens when insulation is damaged or an appliance is faulty, allowing live and neutral wires to touch. This leads to a massive current surge. Overloading occurs when the total current drawn exceeds the circuit's safe rating, often by connecting too many appliances to one socket or using high-power devices on low-rated circuits."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "How does an electric fuse protect domestic circuits? Describe its principle of operation.",
+      "answer": "A fuse melts and breaks the circuit when current exceed a safe limit, preventing damage from overheating.",
+      "solution": "An electric fuse works on the principle of the Joule heating effect of electric current. It contains a wire with a specific melting point. If the current becomes too high due to overloading or short-circuiting, the heat produced melts the fuse wire, which disconnects the power supply and protects the appliances and wiring."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "State the rule used to determine the direction of: (i) magnetic field around a straight wire, (ii) force on a current-carrying conductor, and (iii) current induced by a moving magnet.",
+      "answer": "(i) Right-Hand Thumb Rule, (ii) Fleming's Left-Hand Rule, (iii) Fleming's Right-Hand Rule.",
+      "solution": "(i) Right-Hand Thumb Rule for circular field lines around a wire. (ii) Fleming's Left-Hand Rule for force direction where field, current, and motion are perpendicular. (iii) Fleming's Right-Hand Rule (as mentioned in NCERT for induced current, though the chapter primarily focuses on the first two)."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Under what condition is the force experienced by a current-carrying conductor in a magnetic field the highest?",
+      "answer": "When the direction of the electric current is at right angles (90 degrees) to the direction of the magnetic field.",
+      "solution": "Experiments show that the displacement of a conductor (and thus the magnetic force) is largest when the current is directed perpendicular to the magnetic field. If the current and field are parallel, the force is zero."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "A proton moves freely in a magnetic field. Which of its properties can change: mass, speed, velocity, or momentum?",
+      "answer": "Velocity and momentum.",
+      "solution": "As a proton moves in a magnetic field, it experiences a force that changes its direction of motion. Since direction changes, both velocity (a vector) and momentum ($p=mv$) change. Mass is constant, and since the force is perpendicular to motion, the speed remains constant."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "What precautions should be taken to avoid the overloading of domestic electric circuits?",
+      "answer": "Avoid plugging too many appliances into one socket, ensure wires are properly insulated, and use fuses with correct current ratings.",
+      "solution": "Precautions include: (1) Do not connect too many high-power appliances to a single socket. (2) Regularly check for damaged insulation on wires. (3) Ensure the circuit has a fuse or MCB of the appropriate current rating (e.g., 5 A for light loads, 15 A for heavy loads). (4) Avoid using faulty appliances."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Imagine sitting in a chamber with your back to one wall. An electron beam moves from the back wall to the front wall and is deflected to your right side. What is the direction of the magnetic field?",
+      "answer": "The magnetic field is directed vertically downwards.",
+      "solution": "Direction of electron beam (back to front) means current is FRONT TO BACK. Deflection is to the RIGHT (thumb). Using Fleming's Left-Hand Rule: Middle finger (current) points Back, Thumb (motion) points Right. The first finger (field) then points vertically downwards."
+    }
+  ]
+}

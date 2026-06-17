@@ -1,0 +1,432 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Atoms and Molecules",
+    "chapter_number": 3
+  },
+  "notes": [
+    {
+      "section_title": "Introduction — Early Theories of Matter",
+      "topics": [
+        {
+          "topic_name": "Ancient Ideas about Divisibility of Matter",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The idea that matter is made of tiny, indivisible particles is ancient. Around 500 BC, Indian philosopher Maharishi Kanad proposed that dividing matter repeatedly would eventually yield an indivisible particle he called 'Parmanu'. Pakudha Katyayama further elaborated that these particles normally exist in combined form to give us matter. Around the same time, Greek philosophers Democritus and Leucippus called these indivisible particles 'atoms' (Greek for 'indivisible'). These were philosophical ideas, not backed by experiment."
+            },
+            {
+              "type": "paragraph",
+              "text": "By the late 18th century, scientists distinguished between elements and compounds and began studying how elements combine. Antoine L. Lavoisier established two foundational laws of chemical combination, which were later explained by John Dalton's atomic theory."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.1 Laws of Chemical Combination",
+      "topics": [
+        {
+          "topic_name": "3.1.1 Law of Conservation of Mass",
+          "content": [
+            {
+              "type": "activity",
+              "id": "3.1",
+              "title": "Activity 3.1 — Verifying Conservation of Mass",
+              "procedure": [
+                "Prepare 5% solutions of two chemicals (e.g., barium chloride and sodium sulphate) in 10 mL water each.",
+                "Place solution of Y in a conical flask and solution of X in an ignition tube hanging inside the flask.",
+                "Cork the flask and weigh it (total mass = flask + both solutions).",
+                "Tilt and swirl the flask to mix the solutions — a reaction occurs.",
+                "Weigh the flask again after the reaction."
+              ],
+              "observation": "A reaction occurs (precipitate forms, colour change, etc.). The mass before and after the reaction is the same.",
+              "conclusion": "Mass is neither created nor destroyed in a chemical reaction. The cork is necessary to prevent any gas from escaping — if gas escapes, mass would appear to decrease."
+            },
+            {
+              "type": "note",
+              "title": "Law of Conservation of Mass",
+              "text": "Mass can neither be created nor destroyed in a chemical reaction. The total mass of reactants = total mass of products.\n\nVerification example: 5.3 g Na₂CO₃ + 6 g acetic acid → 2.2 g CO₂ + 0.9 g water + 8.2 g sodium acetate.\nReactants: 5.3 + 6 = 11.3 g.\nProducts: 2.2 + 0.9 + 8.2 = 11.3 g. ✓ Mass is conserved."
+            }
+          ]
+        },
+        {
+          "topic_name": "3.1.2 Law of Constant Proportions (Law of Definite Proportions)",
+          "content": [
+            {
+              "type": "note",
+              "title": "Law of Constant Proportions",
+              "text": "In a pure chemical compound, elements are always present in definite proportions by mass, irrespective of the source or method of preparation. Stated by Joseph L. Proust.\n\nExamples:\n• Water (H₂O): H : O = 1 : 8 by mass, always. If 9 g water is decomposed → 1 g H + 8 g O.\n• Ammonia (NH₃): N : H = 14 : 3 by mass, always.\n• 3 g H needed? Since H : O = 1 : 8 → oxygen required = 3 × 8 = 24 g."
+            }
+          ]
+        },
+        {
+          "topic_name": "Dalton's Atomic Theory",
+          "content": [
+            {
+              "type": "note",
+              "title": "Dalton's Atomic Theory (1808)",
+              "text": "British chemist John Dalton proposed his atomic theory in 1808 to explain the laws of chemical combination. The six postulates are:\n\n(i) All matter is made of very tiny particles called atoms, which participate in chemical reactions.\n(ii) Atoms are indivisible — they cannot be created or destroyed in a chemical reaction.\n(iii) Atoms of a given element are identical in mass and chemical properties.\n(iv) Atoms of different elements have different masses and chemical properties.\n(v) Atoms combine in the ratio of small whole numbers to form compounds.\n(vi) The relative number and kinds of atoms are constant in a given compound.\n\nNote: Postulate (ii) → explains Law of Conservation of Mass. Postulate (vi) → explains Law of Definite Proportions."
+            },
+            {
+              "type": "paragraph",
+              "text": "Note: Modern science has shown that atoms are not truly indivisible — they are made of subatomic particles (protons, neutrons, electrons). However, Dalton's theory successfully explained the two laws and provided the foundation for chemistry."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.2 What is an Atom?",
+      "topics": [
+        {
+          "topic_name": "Size of an Atom",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "An atom is the smallest particle of an element that retains all its chemical properties and (usually) cannot exist independently. Atoms are incredibly small — more than a million atoms stacked would barely equal the thickness of a sheet of paper."
+            },
+            {
+              "type": "note",
+              "title": "Atomic Radius",
+              "text": "Atomic radius is measured in nanometres (nm): 1 nm = 10⁻⁹ m.\n\nRelative sizes:\n• Hydrogen atom radius ≈ 10⁻¹⁰ m\n• Water molecule ≈ 10⁻⁹ m\n• Haemoglobin molecule ≈ 10⁻⁸ m\n• Grain of sand ≈ 10⁻⁴ m\n• Ant ≈ 10⁻³ m\n• Apple ≈ 10⁻¹ m"
+            }
+          ]
+        },
+        {
+          "topic_name": "3.2.1 Modern Symbols of Elements",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Berzilius suggested using one or two letters from the element's name as its symbol. IUPAC (International Union of Pure and Applied Chemistry) approves symbols, names, and units of elements today."
+            },
+            {
+              "type": "list",
+              "title": "Rules for Writing Symbols",
+              "items": [
+                "The first letter is always UPPERCASE; the second letter (if any) is always lowercase.",
+                "Example: Hydrogen → H; Aluminium → Al (not AL); Cobalt → Co (not CO).",
+                "Some symbols come from the first letter + a later letter of the English name: Chlorine → Cl; Zinc → Zn.",
+                "Some symbols come from Latin, German, or Greek names: Iron → Fe (Latin: ferrum); Sodium → Na (Latin: natrium); Potassium → K (Latin: kalium); Gold → Au (Latin: aurum); Silver → Ag (Latin: argentum); Lead → Pb (Latin: plumbum); Mercury → Hg (Latin: hydrargyrum); Copper → Cu (Latin: cuprum)."
+              ]
+            },
+            {
+              "type": "table",
+              "headers": ["Element", "Symbol", "Element", "Symbol", "Element", "Symbol"],
+              "rows": [
+                ["Hydrogen", "H", "Carbon", "C", "Nitrogen", "N"],
+                ["Oxygen", "O", "Sodium", "Na", "Magnesium", "Mg"],
+                ["Aluminium", "Al", "Silicon", "Si", "Sulphur", "S"],
+                ["Chlorine", "Cl", "Potassium", "K", "Calcium", "Ca"],
+                ["Iron", "Fe", "Copper", "Cu", "Zinc", "Zn"],
+                ["Bromine", "Br", "Silver", "Ag", "Iodine", "I"],
+                ["Gold", "Au", "Lead", "Pb", "Barium", "Ba"],
+                ["Argon", "Ar", "Cobalt", "Co", "Neon", "Ne"],
+                ["Fluorine", "F", "Uranium", "U", "Boron", "B"]
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "3.2.2 Atomic Mass",
+          "content": [
+            {
+              "type": "note",
+              "title": "Atomic Mass Unit (u)",
+              "text": "Since individual atoms are too small to weigh, atomic masses are expressed as relative atomic masses compared to a standard.\n\nStandard (since 1961): One atomic mass unit (u) = 1/12th the mass of one atom of Carbon-12.\n\nThe relative atomic mass of an element is the ratio of the average mass of its atom to 1/12th the mass of one Carbon-12 atom.\n\nEarlier standard: 1/16th the mass of naturally occurring oxygen — changed because carbon-12 gave more whole-number masses."
+            },
+            {
+              "type": "table",
+              "headers": ["Element", "Atomic Mass (u)", "Element", "Atomic Mass (u)"],
+              "rows": [
+                ["Hydrogen (H)", "1", "Sodium (Na)", "23"],
+                ["Carbon (C)", "12", "Magnesium (Mg)", "24"],
+                ["Nitrogen (N)", "14", "Sulphur (S)", "32"],
+                ["Oxygen (O)", "16", "Chlorine (Cl)", "35.5"],
+                ["Calcium (Ca)", "40", "Iron (Fe)", "56"],
+                ["Zinc (Zn)", "65", "Aluminium (Al)", "27"]
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "3.2.3 How Do Atoms Exist?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Atoms of most elements cannot exist independently in free state. They form molecules or ions. These molecules and ions aggregate in large numbers to form the matter we see, feel, and touch. For example, a single hydrogen atom cannot exist alone under normal conditions — it pairs up to form H₂ molecule."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.3 What is a Molecule?",
+      "topics": [
+        {
+          "topic_name": "Definition of a Molecule",
+          "content": [
+            {
+              "type": "note",
+              "title": "Molecule",
+              "text": "A molecule is a group of two or more atoms chemically bonded together. It is the smallest particle of an element or compound that is capable of independent existence and shows all the properties of that substance. Atoms of the same element (e.g., O₂) or different elements (e.g., H₂O) can form molecules."
+            }
+          ]
+        },
+        {
+          "topic_name": "3.3.1 Molecules of Elements — Atomicity",
+          "content": [
+            {
+              "type": "note",
+              "title": "Atomicity",
+              "text": "The number of atoms making up a molecule of an element is called its atomicity."
+            },
+            {
+              "type": "table",
+              "headers": ["Atomicity", "Name", "Examples"],
+              "rows": [
+                ["Monoatomic (1)", "Monatomic", "Argon (Ar), Helium (He), all noble gases"],
+                ["Diatomic (2)", "Diatomic", "Hydrogen (H₂), Oxygen (O₂), Nitrogen (N₂), Chlorine (Cl₂), Fluorine (F₂), Bromine (Br₂)"],
+                ["Triatomic (3)", "Triatomic", "Ozone (O₃)"],
+                ["Tetra-atomic (4)", "Tetraatomic", "Phosphorus (P₄)"],
+                ["Poly-atomic (8)", "Polyatomic", "Sulphur (S₈)"]
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Metals (like iron, copper) and some non-metals (like carbon) do not form simple discrete molecules — they exist as a very large and indefinite number of atoms bonded together in a giant structure."
+            }
+          ]
+        },
+        {
+          "topic_name": "3.3.2 Molecules of Compounds",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Atoms of different elements join in definite proportions to form molecules of compounds. The ratio of atoms is fixed and can be derived from the mass ratio and atomic masses."
+            },
+            {
+              "type": "table",
+              "headers": ["Compound", "Formula", "Combining Elements", "Ratio by Mass"],
+              "rows": [
+                ["Water", "H₂O", "Hydrogen, Oxygen", "1:8"],
+                ["Ammonia", "NH₃", "Nitrogen, Hydrogen", "14:3"],
+                ["Carbon dioxide", "CO₂", "Carbon, Oxygen", "3:8"]
+              ]
+            },
+            {
+              "type": "activity",
+              "id": "3.2",
+              "title": "Activity 3.2 — Ratio by Number of Atoms from Ratio by Mass",
+              "procedure": [
+                "For water (H:O = 1:8 by mass; atomic masses H=1, O=16).",
+                "Divide mass ratio by atomic mass: H → 1/1 = 1; O → 8/16 = 0.5.",
+                "Simplest whole number ratio: H:O = 1:0.5 = 2:1."
+              ],
+              "conclusion": "Ratio by number of atoms in water = H:O = 2:1, confirming the formula H₂O."
+            }
+          ]
+        },
+        {
+          "topic_name": "3.3.3 What is an Ion?",
+          "content": [
+            {
+              "type": "note",
+              "title": "Ions",
+              "text": "An ion is a charged species (atom or group of atoms). Compounds made of metals and non-metals contain ions:\n• Cation: positively charged ion (metal loses electrons). Example: Na⁺, Ca²⁺, Al³⁺, NH₄⁺.\n• Anion: negatively charged ion (non-metal gains electrons). Example: Cl⁻, O²⁻, SO₄²⁻.\n• Polyatomic ion: a group of atoms carrying a net charge. Examples: OH⁻ (hydroxide), NO₃⁻ (nitrate), SO₄²⁻ (sulphate), CO₃²⁻ (carbonate), NH₄⁺ (ammonium), PO₄³⁻ (phosphate), HCO₃⁻ (hydrogen carbonate)."
+            },
+            {
+              "type": "table",
+              "headers": ["Valency", "Cations (metals)", "Anions (non-metals)", "Polyatomic Ions"],
+              "rows": [
+                ["1 (monovalent)", "Na⁺, K⁺, Ag⁺, Cu⁺, H⁺", "H⁻, Cl⁻, Br⁻, I⁻", "NH₄⁺, OH⁻, NO₃⁻, HCO₃⁻"],
+                ["2 (divalent)", "Mg²⁺, Ca²⁺, Zn²⁺, Fe²⁺, Cu²⁺", "O²⁻, S²⁻", "CO₃²⁻, SO₄²⁻, SO₃²⁻"],
+                ["3 (trivalent)", "Al³⁺, Fe³⁺", "N³⁻", "PO₄³⁻"]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.4 Writing Chemical Formulae",
+      "topics": [
+        {
+          "topic_name": "Valency and the Criss-Cross Method",
+          "content": [
+            {
+              "type": "note",
+              "title": "Valency",
+              "text": "The combining power (capacity) of an element is called its valency. It represents the number of bonds an atom can form. Think of it as 'arms' of an atom — an atom with valency 2 has two arms to hold other atoms. Valency determines the ratio in which atoms combine."
+            },
+            {
+              "type": "note",
+              "title": "Rules for Writing Chemical Formulae",
+              "text": "1. Write the symbols: metal (or positive ion) first, non-metal (or negative ion) second.\n2. Write their valencies (charges) below each symbol.\n3. Criss-cross the valencies: the valency of one element becomes the subscript of the other.\n4. Simplify: if both subscripts have a common factor, divide by it (e.g., Ca₂O₂ → CaO).\n5. For polyatomic ions appearing more than once: enclose in brackets with subscript outside. Example: Ca(OH)₂ — not CaOH₂."
+            },
+            {
+              "type": "list",
+              "title": "Worked Examples — Writing Formulae",
+              "items": [
+                "1. Hydrogen chloride: H (valency 1), Cl (valency 1). Criss-cross → HCl. Formula: HCl.",
+                "2. Hydrogen sulphide: H (valency 1), S (valency 2). Criss-cross → H₂S₁ = H₂S. Formula: H₂S.",
+                "3. Carbon tetrachloride: C (valency 4), Cl (valency 1). Criss-cross → C₁Cl₄ = CCl₄. Formula: CCl₄.",
+                "4. Magnesium chloride: Mg²⁺ (valency 2), Cl⁻ (valency 1). Criss-cross → Mg₁Cl₂ = MgCl₂. Formula: MgCl₂.",
+                "5. Aluminium oxide: Al³⁺ (valency 3), O²⁻ (valency 2). Criss-cross → Al₂O₃. Formula: Al₂O₃.",
+                "6. Calcium oxide: Ca²⁺, O²⁻ (both valency 2). Criss-cross → Ca₂O₂. Simplify (divide by 2) → CaO. Formula: CaO.",
+                "7. Sodium nitrate: Na⁺ (1+), NO₃⁻ (1−). Criss-cross → Na₁(NO₃)₁ = NaNO₃. Formula: NaNO₃.",
+                "8. Calcium hydroxide: Ca²⁺ (2+), OH⁻ (1−). Criss-cross → Ca₁(OH)₂ = Ca(OH)₂. Formula: Ca(OH)₂.",
+                "9. Sodium carbonate: Na⁺ (1+), CO₃²⁻ (2−). Criss-cross → Na₂CO₃. Formula: Na₂CO₃.",
+                "10. Ammonium sulphate: NH₄⁺ (1+), SO₄²⁻ (2−). Criss-cross → (NH₄)₂SO₄. Formula: (NH₄)₂SO₄."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "3.4.1 Formulae of Simple (Binary) Compounds",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Binary compounds are the simplest compounds made of two different elements. The formula is written so that the total positive charge equals the total negative charge — the compound is electrically neutral overall. Charges on ions are NOT shown in the final formula."
+            },
+            {
+              "type": "note",
+              "title": "Variable Valency",
+              "text": "Some elements have more than one valency. Roman numerals in brackets indicate the valency used. Examples:\n• Iron (II) = Fe²⁺ (ferrous) and Iron (III) = Fe³⁺ (ferric).\n• Copper (I) = Cu⁺ and Copper (II) = Cu²⁺."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "3.5 Molecular Mass and Formula Unit Mass",
+      "topics": [
+        {
+          "topic_name": "Molecular Mass",
+          "content": [
+            {
+              "type": "note",
+              "title": "Molecular Mass",
+              "text": "The molecular mass of a substance is the sum of the atomic masses of all the atoms in one molecule of the substance. It is expressed in atomic mass units (u). Formula: Molecular Mass = Σ (number of atoms of each element × atomic mass of that element)."
+            },
+            {
+              "type": "list",
+              "title": "Worked Examples — Molecular Mass",
+              "items": [
+                "Water (H₂O): 2×H + 1×O = 2×1 + 1×16 = 2 + 16 = 18 u.",
+                "HNO₃: 1×H + 1×N + 3×O = 1 + 14 + 3×16 = 1 + 14 + 48 = 63 u.",
+                "H₂ (hydrogen): 2×1 = 2 u.",
+                "O₂: 2×16 = 32 u.",
+                "Cl₂: 2×35.5 = 71 u.",
+                "CO₂: 1×12 + 2×16 = 12 + 32 = 44 u.",
+                "CH₄: 1×12 + 4×1 = 16 u.",
+                "C₂H₆: 2×12 + 6×1 = 24 + 6 = 30 u.",
+                "NH₃: 1×14 + 3×1 = 14 + 3 = 17 u.",
+                "CH₃OH (methanol): 1×12 + 4×1 + 1×16 = 12 + 4 + 16 = 32 u."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "3.5.1 Formula Unit Mass",
+          "content": [
+            {
+              "type": "note",
+              "title": "Formula Unit Mass",
+              "text": "For ionic compounds (whose constituent particles are ions, not discrete molecules), we use the term 'formula unit mass' instead of molecular mass. It is calculated the same way — sum of atomic masses of all atoms in the formula unit.\n\nExamples:\n• NaCl: 1×Na + 1×Cl = 1×23 + 1×35.5 = 58.5 u.\n• CaCl₂: 1×Ca + 2×Cl = 1×40 + 2×35.5 = 40 + 71 = 111 u.\n• ZnO: 1×65 + 1×16 = 81 u.\n• Na₂O: 2×23 + 1×16 = 46 + 16 = 62 u.\n• K₂CO₃: 2×39 + 1×12 + 3×16 = 78 + 12 + 48 = 138 u."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Atom",
+      "definition": "The smallest particle of an element that cannot usually exist independently and retains all the chemical properties of the element. Made of protons, neutrons, and electrons."
+    },
+    {
+      "term": "Molecule",
+      "definition": "The smallest particle of an element or compound capable of independent existence that shows all the properties of the substance. Consists of two or more atoms chemically bonded together."
+    },
+    {
+      "term": "Law of Conservation of Mass",
+      "definition": "Mass can neither be created nor destroyed in a chemical reaction. Total mass of reactants = total mass of products."
+    },
+    {
+      "term": "Law of Constant Proportions (Law of Definite Proportions)",
+      "definition": "In a pure chemical compound, elements are always present in definite proportions by mass, regardless of source or method of preparation. Stated by Proust."
+    },
+    {
+      "term": "Dalton's Atomic Theory",
+      "definition": "Theory proposed in 1808 stating that all matter is made of tiny atoms that are indivisible, that atoms of an element are identical in mass and properties, and that atoms combine in fixed ratios to form compounds. Explains the two laws of chemical combination."
+    },
+    {
+      "term": "Atomic Mass Unit (u)",
+      "definition": "The unit used to express atomic mass. Defined as 1/12th the mass of one carbon-12 atom. Previously abbreviated 'amu', now written as 'u' (unified mass unit)."
+    },
+    {
+      "term": "Relative Atomic Mass",
+      "definition": "The average mass of an atom of an element compared to 1/12th the mass of a carbon-12 atom. Expressed in atomic mass units (u)."
+    },
+    {
+      "term": "Atomicity",
+      "definition": "The number of atoms constituting one molecule of an element. Examples: Monoatomic (Ar, He), Diatomic (H₂, O₂, N₂, Cl₂), Tetra-atomic (P₄), Poly-atomic (S₈)."
+    },
+    {
+      "term": "Ion",
+      "definition": "A charged species — an atom or group of atoms that has lost or gained electrons. Positively charged ions are called cations (e.g., Na⁺, Ca²⁺). Negatively charged ions are called anions (e.g., Cl⁻, O²⁻)."
+    },
+    {
+      "term": "Cation",
+      "definition": "A positively charged ion formed when an atom loses one or more electrons. Metals typically form cations. Examples: Na⁺, Mg²⁺, Al³⁺, NH₄⁺."
+    },
+    {
+      "term": "Anion",
+      "definition": "A negatively charged ion formed when an atom gains one or more electrons. Non-metals typically form anions. Examples: Cl⁻, O²⁻, N³⁻, SO₄²⁻."
+    },
+    {
+      "term": "Polyatomic Ion",
+      "definition": "A group of atoms that carry a net charge and act as a single ion. Examples: OH⁻ (hydroxide), NO₃⁻ (nitrate), SO₄²⁻ (sulphate), CO₃²⁻ (carbonate), NH₄⁺ (ammonium), PO₄³⁻ (phosphate)."
+    },
+    {
+      "term": "Valency",
+      "definition": "The combining power (capacity) of an element — the number of bonds it can form. Determines how atoms combine. Example: hydrogen has valency 1; oxygen has valency 2; nitrogen has valency 3; carbon has valency 4."
+    },
+    {
+      "term": "Chemical Formula",
+      "definition": "A symbolic representation of the composition of a compound, showing the symbols of constituent elements and the number of atoms of each. Written by criss-crossing valencies of combining ions."
+    },
+    {
+      "term": "Binary Compound",
+      "definition": "The simplest type of compound made up of two different elements. Examples: HCl, H₂O, NaCl, MgO, Al₂O₃."
+    },
+    {
+      "term": "Molecular Mass",
+      "definition": "The sum of the atomic masses of all atoms in one molecule of a substance, expressed in atomic mass units (u). Example: H₂O = 2×1 + 16 = 18 u."
+    },
+    {
+      "term": "Formula Unit Mass",
+      "definition": "The sum of the atomic masses of all atoms in one formula unit of an ionic compound. Used instead of 'molecular mass' for ionic compounds since they do not exist as discrete molecules. Example: NaCl = 23 + 35.5 = 58.5 u."
+    },
+    {
+      "term": "Criss-Cross Method",
+      "definition": "The method of writing chemical formulae where the valency (charge) of one ion becomes the subscript of the other ion. The result gives a neutral formula. Example: Mg²⁺ and Cl⁻ → Mg₁Cl₂ = MgCl₂."
+    }
+  ],
+  "summary_points": [
+    "The Law of Conservation of Mass (Lavoisier) states that mass is neither created nor destroyed in a chemical reaction — total mass of reactants = total mass of products. Activity 3.1 verifies this: mixing BaCl₂ + Na₂SO₄ in a sealed flask shows no change in mass before and after reaction.",
+    "The Law of Constant Proportions (Proust) states that elements in a pure compound are always in a fixed mass ratio regardless of source: water always has H:O = 1:8; ammonia always has N:H = 14:3.",
+    "Dalton's Atomic Theory (1808) explains both laws: atoms are indivisible (→ mass conservation), and atoms of an element are identical (→ definite proportions). Key postulates: all matter = atoms; atoms combine in small whole-number ratios; number and kind of atoms in a compound is constant.",
+    "Atomic mass is measured relative to 1/12th the mass of carbon-12 (since 1961), giving the atomic mass unit 'u'. Key atomic masses: H=1, C=12, N=14, O=16, Na=23, Mg=24, S=32, Cl=35.5, Ca=40, Fe=56, Zn=65.",
+    "Atoms of most elements cannot exist freely — they form molecules or ions. Exceptions: noble gases (He, Ne, Ar) are monoatomic. Most non-metals are diatomic (H₂, O₂, N₂, Cl₂, F₂, Br₂). P₄ is tetraatomic; S₈ is polyatomic.",
+    "A molecule is the smallest particle of an element or compound that can exist independently with all properties of the substance. Atomicity = number of atoms per molecule.",
+    "Ions are charged species: cations (+) are formed by metals losing electrons; anions (−) are formed by non-metals gaining electrons. Polyatomic ions are groups of atoms with a net charge (e.g., SO₄²⁻, OH⁻, NO₃⁻, NH₄⁺, CO₃²⁻).",
+    "Chemical formulae are written by the criss-cross method: write metal/positive ion first, non-metal/negative ion second, write their valencies, criss-cross to get subscripts, simplify. If polyatomic ions appear more than once, enclose in brackets. Example: Ca²⁺ + OH⁻ = Ca(OH)₂.",
+    "Worked formula examples: MgCl₂ (Mg²⁺, Cl⁻ → criss-cross), Al₂O₃ (Al³⁺, O²⁻ → criss-cross), CaO (Ca²⁺, O²⁻ → Ca₂O₂ simplified to CaO), Na₂CO₃, (NH₄)₂SO₄.",
+    "Molecular mass = sum of atomic masses of all atoms in one molecule. H₂O = 18 u; HNO₃ = 63 u. Formula unit mass = same calculation but for ionic compounds (which don't exist as discrete molecules): NaCl = 58.5 u; CaCl₂ = 111 u.",
+    "Symbols of elements: first letter uppercase, second lowercase. Some symbols are from Latin names: Fe (ferrum/iron), Na (natrium/sodium), K (kalium/potassium), Au (aurum/gold), Ag (argentum/silver), Pb (plumbum/lead), Cu (cuprum/copper), Hg (hydrargyrum/mercury).",
+    "Dalton's postulate connecting to laws: Postulate (ii) — atoms cannot be created or destroyed → explains Law of Conservation of Mass. Postulate (vi) — relative number and kinds of atoms are constant in a compound → explains Law of Definite Proportions."
+  ]
+}

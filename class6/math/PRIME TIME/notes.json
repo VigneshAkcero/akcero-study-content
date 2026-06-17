@@ -1,0 +1,187 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "PRIME TIME",
+    "chapter_number": 5
+  },
+  "notes": [
+    {
+      "section_title": "Multiples and Factors",
+      "topics": [
+        {
+          "topic_name": "Multiples and Common Multiples",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Multiples are numbers obtained by multiplying a given number by 1, 2, 3, and so on. Common multiples are numbers that appear in the multiple lists of two or more numbers."
+            },
+            {
+              "type": "activity",
+              "title": "Idli-Vada Game",
+              "procedure": [
+                "Players say numbers in sequence.",
+                "Replace multiples of 3 with 'idli'.",
+                "Replace multiples of 5 with 'vada'.",
+                "Replace common multiples (3 and 5) with 'idli-vada'."
+              ],
+              "conclusion": "The first 'idli-vada' number is 15, which is the smallest common multiple of 3 and 5."
+            },
+            {
+              "type": "example",
+              "title": "Example-1",
+              "question": "If the idli-vada game is played till 90, how many times will 'idli-vada' (common multiples of 3 and 5) be said?",
+              "solution": "1. Common multiples of 3 and 5 are 15, 30, 45, 60, 75, 90.\n2. Counting them, we get 6 times."
+            }
+          ]
+        },
+        {
+          "topic_name": "Factors and Perfect Numbers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Factors (or divisors) are numbers that divide a given number exactly, leaving no remainder. A number can have multiple factors."
+            },
+            {
+              "type": "note",
+              "title": "Perfect Number",
+              "text": "A number for which the sum of all its factors is equal to twice the number is called a perfect number."
+            },
+            {
+              "type": "example",
+              "title": "Example-2",
+              "question": "Find the factors of 20 and 28 and identify their common factors.",
+              "solution": "1. Factors of 20: 1, 2, 4, 5, 10, 20.\n2. Factors of 28: 1, 2, 4, 7, 14, 28.\n3. Common factors: 1, 2, 4."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Classifying Numbers",
+      "topics": [
+        {
+          "topic_name": "Prime and Composite Numbers",
+          "content": [
+            {
+              "type": "list",
+              "title": "Definitions",
+              "items": [
+                "**Prime Numbers**: Numbers with exactly two factors (1 and the number itself). Examples: 2, 3, 5, 7.",
+                "**Composite Numbers**: Numbers with more than two factors. Examples: 4, 6, 8, 9.",
+                "**Note**: 1 is neither prime nor composite. 2 is the only even prime number."
+              ]
+            },
+            {
+              "type": "activity",
+              "title": "Sieve of Eratosthenes",
+              "procedure": [
+                "List numbers from 1 to 100.",
+                "Cross out 1.",
+                "Circle 2 and cross out all its multiples.",
+                "Continue for the next uncrossed number until all are processed."
+              ],
+              "conclusion": "The circled numbers are all prime numbers up to 100."
+            },
+            {
+              "type": "example",
+              "title": "Example-3",
+              "question": "Are 23 and 51 prime or composite?",
+              "solution": "1. 23 has factors 1 and 23 only. It is **prime**.\n2. 51 has factors 1, 3, 17, 51 ($3 \\times 17 = 51$). It has more than two factors, so it is **composite**."
+            }
+          ]
+        },
+        {
+          "topic_name": "Co-prime Numbers",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Two numbers are said to be co-prime to each other if they have no common factor other than 1."
+            },
+            {
+              "type": "example",
+              "title": "Example-4",
+              "question": "Are 18 and 35 co-prime?",
+              "solution": "1. Factors of 18: 1, 2, 3, 6, 9, 18.\n2. Factors of 35: 1, 5, 7, 35.\n3. Common factor is only 1. Therefore, they are **co-prime**."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Prime Factorisation",
+      "topics": [
+        {
+          "topic_name": "Fundamental Principle",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Every number greater than 1 can be expressed as a product of prime numbers. This unique expression (ignoring the order) is called prime factorisation."
+            },
+            {
+              "type": "example",
+              "title": "Example-5",
+              "question": "Find the prime factorisation of 36.",
+              "solution": "36 can be broken down as:\n$36 = 2 \\times 18$\n$= 2 \\times 2 \\times 9$\n$= 2 \\times 2 \\times 3 \\times 3$\nPrime factorisation: $2 \\times 2 \\times 3 \\times 3$."
+            },
+            {
+              "type": "example",
+              "title": "Example-6",
+              "question": "Is 168 divisible by 12 using prime factorisation?",
+              "solution": "1. Prime factorisation of 168: $2 \\times 2 \\times 2 \\times 3 \\times 7$\n2. Prime factorisation of 12: $2 \\times 2 \\times 3$\n3. Since $2, 2, 3$ are all present in 168's factors, 168 is divisible by 12."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Divisibility Tests",
+      "topics": [
+        {
+          "topic_name": "Quick Rules",
+          "content": [
+            {
+              "type": "list",
+              "title": "Test Rules",
+              "items": [
+                "**By 10**: Last digit must be 0.",
+                "**By 5**: Last digit must be 0 or 5.",
+                "**By 2**: Last digit must be 0, 2, 4, 6, or 8.",
+                "**By 4**: Number formed by the last two digits must be divisible by 4.",
+                "**By 8**: Number formed by the last three digits must be divisible by 8."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example-7",
+              "question": "Is 8536 divisible by 4?",
+              "solution": "1. Last two digits are 36.\n2. Since 36 is divisible by 4 ($4 \\times 9 = 36$), the entire number 8536 is divisible by 4."
+            },
+            {
+              "type": "example",
+              "title": "Example-8",
+              "question": "Identify which of these are leap years: 2024, 2100, 2400.",
+              "solution": "1. 2024 is a multiple of 4, so it is a **leap year**.\n2. 2100 is divisible by 100 but not 400, so it is **not a leap year**.\n3. 2400 is divisible by both 100 and 400, so it is a **leap year**."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Multiple", "definition": "The product of a given number and any whole number." },
+    { "term": "Factor", "definition": "A number that divides another number exactly without leaving a remainder." },
+    { "term": "Prime Number", "definition": "A number that has exactly two factors: 1 and itself." },
+    { "term": "Composite Number", "definition": "A number that has more than two factors." },
+    { "term": "Co-prime", "definition": "Two numbers whose only common factor is 1." },
+    { "term": "Perfect Number", "definition": "A number where the sum of its factors (excluding the number itself) equals the number, or sum of all factors equals twice the number." }
+  ],
+  "summary_points": [
+    "Factors are divisors, while multiples are products of numbers.",
+    "Prime numbers have only two factors, whereas composite numbers have more.",
+    "The Sieve of Eratosthenes is a classic systematic method for finding all prime numbers in a range.",
+    "Co-prime numbers share no common factor except 1, which affects their least common multiples.",
+    "Prime factorisation is the unique way of breaking down composite numbers into prime building blocks.",
+    "Divisibility tests for 2, 4, 5, 8, and 10 rely on observing patterns in the last few digits of a number."
+  ]
+}

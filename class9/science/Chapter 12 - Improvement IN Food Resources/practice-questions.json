@@ -1,0 +1,220 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Improvement in Food Resources",
+    "chapter_number": 12
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Define food security. What are the two components necessary for food security?",
+      "answer": "Food security is the condition where all people have access to sufficient, safe, and nutritious food for an active and healthy life. Two components are: (1) Availability of food in sufficient quantity, (2) Economic access to food—people must have money to purchase available food.",
+      "solution": "Food security is not just about producing enough food; it also requires that people can afford to buy it. A country may produce abundant grain but if people lack purchasing power, they remain malnourished. This distinguishes food security from merely increasing production. Both components are essential."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Why is it necessary to improve crop and livestock production when land area cannot be expanded?",
+      "answer": "Since cultivable land area is limited and already intensively cultivated, the only way to meet growing food demand is increasing production efficiency—producing more food from existing land. This requires improved crop varieties, better management practices, and efficient resource use rather than land expansion.",
+      "solution": "Growing population needs more food, but available land is fixed. The solution lies in improving productivity per unit area through technology, better varieties, and management. This is why developing high-yield varieties, efficient irrigation, and crop protection is essential to meet food demand sustainably."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What are cereals, pulses, and oilseeds? What nutrients do they provide?",
+      "answer": "Cereals (wheat, rice, maize, millets, sorghum): Provide carbohydrates for energy. Pulses (gram, pea, lentil, pigeon pea, green gram, black gram): Provide proteins for body building and repair. Oilseeds (soyabean, groundnut, sesame, mustard, linseed, sunflower): Provide fats and oils for energy and cellular functions.",
+      "solution": "These three crop categories are essential for balanced nutrition, providing macronutrients. Cereals supply quick energy (carbohydrates), pulses supply structural and functional proteins, and oilseeds supply essential fatty acids. Together they form the basis of human nutrition. Other foods like vegetables, fruits, and animal products supplement with vitamins, minerals, and additional protein."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Distinguish between Kharif and Rabi crops with examples.",
+      "answer": "Kharif crops (monsoon/rainy season, June-October): Paddy, soyabean, pigeon pea, maize, cotton, green gram, black gram. Rabi crops (winter season, November-April): Wheat, gram, peas, mustard, linseed. Different crops suit different seasons based on water availability, temperature, and photoperiod requirements.",
+      "solution": "Crop selection depends on seasonal climatic conditions. Kharif crops require monsoon rainfall and warm temperatures. Rabi crops grow in cooler winters with irrigation water from harvested monsoon. Understanding crop seasons is fundamental for crop planning and maximizing annual productivity through sequential planting."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Define hybridisation. Name the three types of hybridisation.",
+      "answer": "Hybridisation is crossing between genetically dissimilar plants to combine desirable traits. Three types: (1) Intervarietal—between different varieties of same species, (2) Interspecific—between two different species of same genus, (3) Intergeneric—between different genera. Produces offspring with combined traits from both parents.",
+      "solution": "Hybridisation is a breeding technique creating genetic variation and combining traits not found in single varieties. Intervarietal crosses are most common and effective for crop improvement. Crosses between different species or genera are rarer due to reproductive barriers but sometimes produce valuable traits."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What is genetic modification of crops? How does it differ from hybridisation?",
+      "answer": "Genetic modification: Directly introducing specific genes providing desired characteristics (herbicide resistance, pest resistance, improved nutrition) into crops. Differs from hybridisation: Hybridisation crosses whole plants allowing many genes to be inherited; genetic modification introduces one or few specific genes directly. GMO can combine traits that would not naturally cross.",
+      "solution": "Hybridisation relies on natural reproductive mechanisms between genetically similar organisms, inheriting many genes. Genetic modification uses molecular techniques to insert specific genes from any organism, more precise and faster than traditional breeding. GMO allows introducing traits from distantly related or unrelated organisms impossible through hybridisation."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Explain the concept of macro-nutrients and micro-nutrients in plants. Give examples of each.",
+      "answer": "Macro-nutrients: Required in large quantities for plant growth. Examples: nitrogen, phosphorus, potassium, calcium, magnesium, sulphur. Micro-nutrients: Required in small quantities but essential for plant health. Examples: iron, manganese, boron, zinc, copper, molybdenum, chlorine. Deficiency of either type reduces crop productivity.",
+      "solution": "Plants need both macro and micro-nutrients for optimal growth. Macro-nutrients form structural components and enzymes; micro-nutrients function as enzyme cofactors in metabolic pathways. Soil often lacks sufficient quantities, necessitating supplementation through manure and fertilizers for high productivity."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What is the difference between manure and fertilizers? Which provides long-term soil benefits?",
+      "answer": "Manure: Organic material from decomposed animal excreta and plant waste. Improves soil structure, water-holding capacity, microbial activity. Provides nutrients slowly. Long-term soil health benefits. Fertilizers: Commercially produced concentrated nutrients. Provides quick nutrient availability. Short-term productivity benefits. Manure provides superior long-term soil benefits through organic matter and microbial support.",
+      "solution": "Optimal strategy combines both. Manure maintains soil health, structure, and fertility long-term through organic matter. Fertilizers supplement with immediate nutrients for current crop needs. Excessive fertilizers without manure degrade soil structure and can pollute water. Sustainable agriculture uses manure as foundation with fertilizers as supplements."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Define organic farming. What practices characterize organic farming systems?",
+      "answer": "Organic farming: Agricultural system with minimal or no use of chemical fertilizers, herbicides, pesticides. Uses organic manures, recycled farm waste, bio-agents, and healthy cropping systems. Characteristic practices: mixed cropping, intercropping, crop rotation, use of compost and vermicompost, biological pest control, neem-based pesticides.",
+      "solution": "Organic farming reduces chemical dependency while maintaining productivity through ecological principles. It's more sustainable than chemical-intensive farming, maintaining soil health, reducing pollution, and producing chemical-free food. Though yields may be slightly lower initially, long-term soil fertility improvement compensates through sustained productivity."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Explain what irrigation is. Why is irrigation important in agriculture?",
+      "answer": "Irrigation: Supplying water to crops through artificial systems (wells, canals, tanks) at critical growth stages. Important because most Indian agriculture is rain-fed; poor monsoons cause crop failure. Irrigation ensures water availability regardless of rainfall patterns, increasing expected yields and reducing weather dependency and risk.",
+      "solution": "Rain-dependent farming faces uncertainty; droughts and floods threaten productivity. Irrigation systems provide reliable water supply, enabling farmers to choose planting time, control water amount, and grow crops reliably. This significantly increases productivity and allows growing multiple crops per year in some regions."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Compare mixed cropping, intercropping, and crop rotation. How do each contribute to sustainable agriculture?",
+      "answer": "Mixed cropping: Two or more crops on same land simultaneously, reduces failure risk. Intercropping: Two or more crops in definite row patterns with different nutrient needs, maximizes nutrient use and prevents pest spread. Crop rotation: Different crops in sequence on same land, breaks pest cycles and maintains soil fertility. Each reduces chemical dependency and improves sustainability.",
+      "solution": "All three practices enhance sustainable agriculture through ecological principles. Mixed cropping provides income diversity. Intercropping optimizes spatial and nutritional resources. Crop rotation maintains soil health through nitrogen-fixing legumes and breaks pest/disease cycles. Combined, they reduce external inputs while maintaining productivity—fundamental to sustainable farming."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Why are weeds problematic in agriculture? How can weeds be controlled without excessive chemical use?",
+      "answer": "Weeds compete with crops for food, water, space, and light, reducing crop growth and yields. Chemical herbicides cause environmental pollution. Alternative control methods: (1) Mechanical removal during early crop growth, (2) Proper seed bed preparation reduces weed seeds, (3) Timely sowing matches crop growth with natural cycles, (4) Intercropping prevents weed establishment, (5) Crop rotation breaks weed cycles, (6) Summer ploughing destroys weed seeds.",
+      "solution": "Integrated weed management combines multiple approaches. Early removal is critical—once established, weeds compete strongly. Preventive methods reduce reliance on chemicals. This sustainable approach maintains productivity while reducing chemical pollution and farmer exposure to harmful pesticides."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Explain biotic and abiotic stresses affecting crop production. Give examples of each and explain how variety improvement addresses them.",
+      "answer": "Biotic stresses: Caused by living organisms—diseases (bacteria, fungi, viruses), insects, nematodes. Reduce crop health and yield. Abiotic stresses: Environmental factors—drought, high soil salinity, waterlogging, extreme heat, cold, frost. Reduce productivity under stress conditions. Variety improvement develops resistant varieties tolerating these stresses, maintaining productivity despite unfavorable conditions.",
+      "solution": "Crops face multiple stresses reducing yields. Disease-resistant varieties prevent losses from pathogens without fungicides. Drought-tolerant varieties grow in water-scarce regions. Salt-tolerant varieties work in degraded soils. Stress-resistant varieties reduce chemical inputs while maintaining productivity, essential for sustainable agriculture in diverse climatic regions."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "How does shorter maturity duration benefit farmers? Discuss economic and practical advantages.",
+      "answer": "Shorter crop duration (seed to harvest) benefits farmers by: (1) Enabling multiple crop rounds per year, increasing total annual productivity, (2) Reducing production costs through shorter input period, (3) Uniform maturity simplifies harvesting and reduces losses, (4) Allows sequential planting, optimizing land use throughout seasons. Economically and practically advantageous.",
+      "solution": "Crop cycle duration is critical for farm economics. Shorter cycles mean more crops annually—a 100-day crop can yield three harvests in 300 days compared to one 120-day crop. This dramatically increases annual productivity and farmer income from same land. Uniform maturity also reduces post-harvest losses and labor complexity."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "Explain how composite fish culture increases productivity compared to monoculture. What principle underlies this system?",
+      "answer": "Composite fish culture: Combines five or six fish species with different feeding habits in single pond. Catlas (surface), Rohu (middle-zone), Mrigals/Carps (bottom), Grass Carp (weed feeders). Different species utilize different ecological niches without competing, ensuring all pond food is used efficiently. Total yield far exceeds monoculture. Principle: Resource utilization through ecological stratification.",
+      "solution": "This innovative system maximizes resource use through species diversity. Instead of one species competing for limited resources, multiple species co-exist using different food sources and water layers. Every part of pond contributes to production. Yield increases 2-3 fold compared to single species, demonstrating power of ecological principles in aquaculture."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Why is seed quality important for crop production? What factors determine good seed quality?",
+      "answer": "Seed quality is critical because: (1) High-quality seeds ensure uniform germination and crop growth, (2) Poor seed quality negates benefits of improved varieties. Good seed quality requires: (1) All seeds of same variety (genetic purity), (2) Uniform germination under same conditions (physiological quality), (3) Disease-free seeds (health status), (4) High germination percentage (viability).",
+      "solution": "An improved variety is only effective if seeds are of good quality. Farmers receiving mixed seed varieties or low-viability seeds cannot achieve expected yields regardless of variety potential. Seed certification and quality control are essential components of any variety improvement program, ensuring farmers get what they plant."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Discuss the problem of grain storage losses. What prevention measures reduce post-harvest losses?",
+      "answer": "Grain storage losses result from: Biotic factors—insects, rodents, fungi, mites, bacteria degrading quality. Abiotic factors—inappropriate moisture and temperature. Prevention measures: (1) Strict cleaning removing damaged grain, (2) Proper drying (sun then shade) reducing moisture, (3) Fumigation killing pests before storage, (4) Systematic warehouse management controlling temperature and humidity, preventing pest entry.",
+      "solution": "Post-harvest losses represent wasted resources and food security threat. Proper storage preserves grain quality, maintains food availability, and stabilizes prices. Integrated storage management combining multiple approaches—cleaning, drying, fumigation, facility design—effectively minimizes losses, ensuring harvested grain reaches consumers safely."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Why is cross-breeding between exotic and indigenous animal breeds preferred over using pure exotic breeds?",
+      "answer": "Cross-breeding combines advantages of both: Exotic breeds (high productivity, long lactation in cattle, good egg/meat production in poultry) with indigenous breeds (disease resistance, adaptation to local climate, hardiness). Pure exotic breeds, though highly productive, suffer health problems in unfamiliar climates and require expensive exotic feed/management. Cross-breeds are optimized for local conditions.",
+      "solution": "This is a practical compromise. Pure exotic breeds imported from temperate regions struggle with diseases, heat stress, and expensive management in tropical Indian climate. Indigenous breeds are hardy but less productive. Cross-breeding harnesses high productivity from exotic breeds while maintaining disease resistance and adaptability from indigenous breeds—superior to either pure breed."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Explain the nutritional requirements of dairy cattle. Why are different food portions needed?",
+      "answer": "Dairy cattle need two types of food: (1) Maintenance requirement—food to support basic health and life functions, (2) Milk-producing requirement—additional food during lactation for milk synthesis. Feed types: (1) Roughage (fiber-rich), (2) Concentrates (high protein, low fiber). Balanced ration combines both. Additional feed additives supply micronutrients boosting milk production.",
+      "solution": "Dairy cow nutrition differs from beef cattle. Non-lactating cattle need only maintenance feed. During lactation, additional nutrients are diverted to milk synthesis—requiring increased food intake. Improper nutrition reduces milk yield and animal health. Understanding nutritional needs ensures productive, healthy dairy animals yielding more milk."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "What is the difference between broilers and layers in poultry farming? How do management practices differ?",
+      "answer": "Broilers: Chickens raised for meat, fast-growing, heavy breeds. Layers: Chickens raised for egg production, lighter breeds. Management differences: Broilers need protein-rich diet with high vitamins A and K for rapid growth and meat quality. Layers need balanced diet for sustained egg production. Different housing requirements, stocking density, and environmental controls optimize specific production goals.",
+      "solution": "Poultry farming produces two different products requiring different breed selection and management. Broilers are managed for 6-8 week rapid growth to market weight. Layers are managed for 18-month egg production. Housing, feed, lighting, and environmental controls are tailored to each system's specific requirements, maximizing productivity for intended output."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "Explain the concept of pasturage in bee-keeping. How does pasturage affect honey quality and production?",
+      "answer": "Pasturage: Flowering plants available to bees for nectar and pollen collection. Quality and quantity of pasturage directly determine honey value and taste. Adequate flower quantity ensures high nectar collection and honey production. Flower species composition determines honey characteristics—different flowers produce different honey flavors and medicinal properties.",
+      "solution": "Apiary location selection based on surrounding vegetation is critical for success. Beehives placed near diverse flowering plants produce more honey and higher quality. Floral composition determines honey character—wildflower honey differs from monofloral (single-source) honey. This explains why honey from different regions has distinct properties, making pasturage management essential for commercial bee-keeping."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "Why is hormonal stimulation breeding important for fish farming? What problem does it solve?",
+      "answer": "Many farmed fish species breed only during monsoon season naturally. Wild-collected fish seed may be mixed with other species. These problems limit fish farming—inconsistent seed availability restricts production. Hormonal stimulation enables artificial breeding in ponds year-round, producing pure species seed in desired quantities and timing, overcoming natural breeding limitations.",
+      "solution": "This technology revolutionized fish farming. Instead of depending on seasonal wild breeding or uncertain seed quality, farmers can produce their own quality seed on-demand. This ensures consistent fingerling availability for stocking ponds, enabling year-round aquaculture operations and scaling up production reliably."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Discuss how sustainable food production requires combining crop variety improvement, production management, and crop protection. Can any single approach achieve food security alone?",
+      "answer": "No single approach suffices. Variety improvement alone (without proper management and protection) yields little—good seeds fail without water, nutrients, and pest protection. Production management without resistant varieties requires excessive chemical inputs. Crop protection without good varieties/management wastes resources. Integrated approach: improved varieties × proper management × effective protection = high sustainable yields. Synergistic effects multiply productivity.",
+      "solution": "Food security requires integrated agricultural systems. Improved varieties provide genetic potential; production management (water, nutrients) enables growth; crop protection prevents losses. Each amplifies others' effectiveness. A drought-tolerant, disease-resistant variety yields poorly without water/nutrients and fails if pests go uncontrolled. Conversely, even excellent management cannot extract full potential from poor varieties. True food security emerges from optimizing all three components together."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Explain the concept of sustainable agriculture. How do mixed farming, organic farming, and integrated farming practices contribute to sustainability?",
+      "answer": "Sustainable agriculture: Increasing food production while maintaining environmental quality and resource balance for long-term viability. Mixed farming: Combining crop and livestock production on same farm, using agricultural waste as animal feed and manure as fertilizer—closing nutrient cycles. Organic farming: Minimal chemicals, using natural processes and bio-agents, maintaining soil health. Integrated farming: Combining multiple activities (crops, livestock, fisheries, bee-keeping), diversifying income and utilizing resources efficiently. All reduce external chemical inputs, maintain soil fertility, and preserve ecosystems.",
+      "solution": "Sustainable approaches contrast with chemical-intensive agriculture depleting soils and polluting water. Mixed farming exemplifies efficiency—crop residues feed animals; animal manure fertilizes crops. Organic farming harnesses natural pest control and soil building. Integrated farming diversifies risk and income. These systems are economically viable long-term, environmentally sound, and produce nutritious food without degrading resources. They represent the future of agriculture in resource-limited countries like India."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "How does understanding desirable agronomic characteristics inform crop variety selection? Provide specific examples for different crop categories.",
+      "answer": "Agronomic characteristics are physical traits affecting productivity and ease of farming. Cereals: Dwarfness is desirable (shorter plants consume fewer nutrients, easier harvesting, less lodging). Pulses and oilseeds: Compact growth, uniform maturity, strong stems prevent shattering. Fodder crops: Tallness and profuse branching increase biomass. Root crops: Deep roots access deeper water/nutrients. Variety selection matching agronomic traits to production goals maximizes efficiency.",
+      "solution": "Agronomic traits aren't aesthetic; they directly impact productivity and farm economics. Dwarf rice produces similar grain but uses less fertilizer and doesn't lodge in heavy wind/rain. Profuse-branching fodder crops provide more feed per plant. Selecting for appropriate agronomic traits ensures improved varieties suit farming conditions. Modern breeding integrates agronomic improvements with yield and quality enhancements."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Analyze why food security in a populous country requires both production increase AND income increase for agricultural workers. How are these interconnected?",
+      "answer": "Food production alone is insufficient; people must afford food. Agricultural population depends on farming for livelihood. Low farm incomes create poverty despite available food. Improving crop/livestock yields increases production but benefits only capital-owning farmers if wages remain low. Poor agricultural workers remain malnourished despite abundant food. Solution: Improve yields (increase production) AND improve farming practices (increase farmer income through higher prices, reduced costs, value addition). Both components attack hunger from different angles—supply and demand.",
+      "solution": "This addresses the paradox of hungry farmers. Increasing grain production without benefiting farmers perpetuates food insecurity through poverty. Sustainable food security requires agriculture providing dignified livelihoods. Improved varieties with better prices, integrated farming diversifying income, value-added products, and market access all increase farmer income. Production and income improvement together ensure food security through both availability and purchasing power."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Explain how intercropping prevents pest and disease spread compared to monoculture. What ecological principle underlies this?",
+      "answer": "Monoculture: Single crop covering entire field is ideal for specialized pests/diseases. Once established, pest/disease spreads to entire crop with no barriers. Intercropping: Multiple crops interspersed break pest habitat continuity. Pests specialized for one crop cannot spread easily through different crop plants. Diversity increases natural predators of pests. Underlying principle: Ecological diversity increases resistance—diverse systems are more stable than monocultures.",
+      "solution": "Pest/disease management through diversity exemplifies ecological principles. Uniform monocultures are vulnerable—pests encountering ideal conditions everywhere spread exponentially. Mixed crops create physical barriers, alternative hosts for predators, and reduce pest pressure through ecological imbalance preventing pest dominance. This sustainable pest control reduces chemical dependency while improving resilience."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Discuss how improved crop varieties for wider adaptability benefit agriculture. What advantages emerge from varieties grown across diverse geographical regions?",
+      "answer": "Varieties adapted to wide climatic ranges stabilize national food production. Different regions have different climate, soil, water availability. Varieties stable across diverse conditions: (1) Ensure consistent production despite regional variation, (2) Reduce reliance on region-specific varieties, (3) Enable varieties to be transferred between regions, (4) Reduce farmer risk through variety reliability, (5) Simplify agricultural extension and seed distribution. Wide adaptability creates food security buffer.",
+      "solution": "Agricultural risk stems from local climate variation and uncertainty. Wide-adaptability varieties overcome this vulnerability. A variety producing well across temperature ranges, rainfall variations, and soil types reduces regional food production gaps. When drought hits one region, wide-adaptable varieties maintain production better than sensitive ones. This geographic stability is fundamental to national food security—one variety suits many regions rather than unique regional varieties."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Explain how marine capture fishing differs from aquaculture/mariculture in terms of sustainability and productivity. Why is mariculture expansion important?",
+      "answer": "Capture fishing: Harvesting wild fish from natural waters. Limited by natural fish stocks, declining due to overfishing and ecosystem damage. Unsustainable long-term—removes predators, disrupts ecosystems, depletes wild populations. Aquaculture/mariculture: Farming fish in controlled environments. Sustainable—replenishes stock, doesn't deplete wild populations, controlled density prevents overfishing. Higher productivity per unit area. As wild stocks decline, mariculture becomes essential for meeting fish demand sustainably.",
+      "solution": "Global overfishing has depleted wild fish stocks, threatening food security for billions. Capture fishing cannot meet growing demand without ecosystem collapse. Mariculture expansion enables sustainable fish production matching demand while protecting wild populations. This shift from extraction to production is fundamental to sustainable aquatic resource use, paralleling agricultural transition from hunting to farming millennia ago."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "How does understanding crop variety improvement factors (yield, quality, resistance, maturity, adaptability, agronomy) enable farmers to select appropriate varieties for their specific conditions?",
+      "answer": "Different farms face unique conditions and market requirements. A farmer with water shortage should select drought-tolerant varieties, not high-yield varieties needing abundant water. A farmer in disease-prone region prioritizes disease-resistant varieties. Market demand for baking quality wheat differs from animal feed quality. Short-growing-season areas need early-maturing varieties. Understanding each factor enables rational variety selection matching local conditions, market demands, and farmer resources.",
+      "solution": "Variety selection is not one-size-fits-all. Extension agents and farmers using decision-making frameworks based on these factors choose appropriate varieties. Someone in drought-prone region selecting high-yield but drought-sensitive variety wastes money and effort. Understanding trade-offs enables optimization—selecting variety maximizing relevant factors while compromising less critical ones. This rational approach maximizes farm profitability and food security within local constraints."
+    }
+  ]
+}

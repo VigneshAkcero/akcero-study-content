@@ -1,0 +1,52 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Mathematics",
+    "chapter_name": "Proportional Reasoning - 1",
+    "chapter_number": 7
+  },
+  "summary": [
+    {
+      "category": "Core Concept: Ratios and Proportions",
+      "points": [
+        "A ratio (a : b) represents the relationship between two quantities, showing that for every 'a' units of the first quantity, there are 'b' units of the second. Ratios in their simplest form (reduced by dividing both terms by their HCF) allow us to compare quantities and determine if they are proportional. Two ratios are proportional when they have the same simplest form, denoted as a : b :: c : d.",
+        "Proportional relationships occur when both quantities change by the same factor. For example, if recipe ingredients are in ratio 2 : 1 and you want to make 3 times the recipe, all ingredients must be multiplied by 3. This maintains the proportional relationship and ensures consistent results (like identical taste in idlis)."
+      ]
+    },
+    {
+      "category": "Applications: The Rule of Three and Real-World Problems",
+      "points": [
+        "The Rule of Three (or cross-multiplication) is used when three quantities are known and the fourth is unknown in a proportion: a : b :: c : d, therefore ad = bc. This ancient method works for problems like finding cooking quantities, comparing prices, and scaling recipes proportionally. For example, if 6 glasses of lemonade need 10 spoons of sugar, then 18 glasses need 30 spoons (because 6 : 10 :: 18 : 30).",
+        "Dividing a whole into a ratio (a : b) is done by: (1) adding the ratio terms, (2) dividing the whole by this sum, (3) multiplying each ratio term by this quotient. For example, dividing ₹100 in ratio 3 : 2 gives ₹60 and ₹40. Unit conversions (1 in = 2.54 cm, 1 in² = 6.4516 cm²) and comparing ratios across different measures ensure accurate real-world applications."
+      ]
+    },
+    {
+      "category": "Identifying Proportions and Non-Proportions",
+      "points": [
+        "To check if two ratios are proportional: reduce both to simplest form and compare, or use cross-multiplication (ad = bc). Images with the same width-to-height ratio look similar (proportional), while distorted images break this proportion. Example: images with ratio 3 : 2 look similar; ratio 2 : 1 looks different because the proportions are different.",
+        "Not all changes maintain proportions. Adding or subtracting the same value from ratio terms (e.g., Neelima's age and mother's age) does NOT preserve proportions, unlike multiplying by the same factor. This distinction is crucial for understanding which scenarios involve proportional relationships and which do not."
+      ]
+    },
+    {
+      "category": "Core Concept: Ratios with Multiple Terms and Dividing Quantities",
+      "points": [
+        "Ratios can have more than two terms (a : b : c : d), and when multiple terms are proportional, all quantities must change by the same factor. For example, a spice mix with ratio 8 : 4 : 2 : 1 (coriander : chillies : toor dal : fenugreek) maintains the same taste when all ingredients are multiplied by the same factor. To divide a quantity into a ratio a : b : c, use: first part = x × (a/(a+b+c)), second part = x × (b/(a+b+c)), and so on.",
+        "Representative Fractions (RF) on maps (e.g., 1 : 60,00,000) show the ratio between map distance and actual geographical distance. Pie charts divide 360° proportionally based on data ratios, where each slice's angle = (value/total sum) × 360°. Both applications demonstrate how ratios scale real-world information to manageable representations."
+      ]
+    },
+    {
+      "category": "Direct Proportions vs. Inverse Proportions",
+      "points": [
+        "Direct Proportions: Two quantities change by the same factor and in the same direction. If x doubles, y doubles. The ratio x/y remains constant, and we write x : y₁ :: x₂ : y₂, so x₁y₂ = x₂y₁. Example: more students require more rice; more speed covers more distance in the same time. Inverse Proportions: Two quantities change by opposite factors. If x doubles, y halves. The product xy remains constant: x₁y₁ = x₂y₂. Example: more workers complete work in fewer days; higher speed means less travel time.",
+        "Inverse proportions are identified by examining whether quantities change in the same direction (direct) or opposite directions (inverse). A trip taking 3 hours at 30 km/h takes 1.5 hours at 60 km/h because time and speed are inversely proportional (xy = distance = constant). Recognizing the relationship type is crucial for solving real-world problems correctly."
+      ]
+    },
+    {
+      "category": "Visual Representation and Applications",
+      "points": [
+        "Pie charts transform ratio data into visual slices using angles. With a 3:2:1 ratio and 360° total, slices are 180°, 120°, and 60° respectively. This visual tool makes data interpretation intuitive and is essential for comparing proportions across categories. Maps use ratios as Representative Fractions to scale geographical distances to paper size, allowing measurement of actual distances using a ruler and the RF ratio.",
+        "Inverse proportions appear in practical scenarios: pumps filling tanks (more pumps → less time), students sharing food (more students → fewer days of supplies), and machines producing items (more machines → fewer days needed). The key test: if one quantity increases while the other decreases with a constant product (xy = k), it is an inverse proportion. Recognizing these patterns enables solving complex real-world optimization problems."
+      ]
+    }
+  ]
+}

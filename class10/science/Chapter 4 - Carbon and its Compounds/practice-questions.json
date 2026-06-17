@@ -1,0 +1,108 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Carbon and its Compounds",
+    "chapter_number": 4
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "Carbon has four electrons in its outermost shell. Why does it not form ionic bonds by losing or gaining four electrons?",
+      "answer": "Gaining four electrons to form C⁴⁻ is difficult for the 6-proton nucleus to hold, while losing four to form C⁴⁺ requires a massive amount of energy.",
+      "solution": "Ionic bonds involve complete electron transfer. For carbon, gaining 4 electrons would mean 10 electrons total, which its 6 protons cannot effectively hold. Conversely, stripping away 4 electrons requires overcoming very strong nuclear attraction, making it energetically unfavourable. Thus, carbon shares electrons instead."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What is catenation, and why does silicon not show this property to the same extent as carbon?",
+      "answer": "Catenation is the ability of an element to form stable bonds with itself. Silicon-silicon bonds are much weaker and highly reactive compared to the strong, stable carbon-carbon bonds.",
+      "solution": "Carbon's small size allows its nucleus to hold shared pairs of electrons strongly, making C-C bonds exceptionally stable. Silicon atoms are larger, resulting in weaker bonds that break easily, limiting silicon chains to only 7-8 atoms."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Define a homologous series and state the constant difference in molecular formula between its successive members.",
+      "answer": "A homologous series is a group of compounds where the same functional group replaces hydrogen in a carbon chain. Successive members differ by a -CH₂- unit.",
+      "solution": "Members of a homologous series (like alkanes: methane, ethane, propane) have similar chemical properties but show a gradation in physical properties such as increasing boiling points as the carbon chain length (molecular mass) increases."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "When burning a candle, a sooty yellow flame is observed. What does this indicate about the combustion process?",
+      "answer": "It indicates incomplete combustion of the fuel.",
+      "solution": "A yellow, sooty flame occurs when there is a limited supply of oxygen, preventing the fuel (carbon compounds) from burning completely. This results in the formation of unburnt carbon particles (soot), which glow yellow."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Medium",
+      "question": "Draw the electron dot structure for Carbon Dioxide (CO₂). How many double bonds are present in one molecule?",
+      "answer": "The structure shows carbon sharing two pairs of electrons with each oxygen atom. There are two double bonds.",
+      "solution": "Carbon (4 valence electrons) shares 2 electrons with the first Oxygen (6 valence electrons) and 2 with the second Oxygen. This completes the octet for all three atoms, resulting in O=C=O."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "Explain structural isomerism using butane as an example. How many isomers does it have?",
+      "answer": "Structural isomers have the same molecular formula but different arrangements of atoms. Butane (C₄H₁₀) has two: n-butane (straight chain) and isobutane (branched chain).",
+      "solution": "In n-butane, the four carbons form a continuous line. In isobutane (2-methylpropane), three carbons form a chain with the fourth attached as a branch to the middle carbon. Both satisfy the valency of carbon differently while keeping the same count of C and H."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "A student adds a drop of alkaline potassium permanganate to warm ethanol. Initially, the purple colour disappears, but after adding excess, the colour persists. Explain the chemical reaction taking place.",
+      "answer": "The ethanol is being oxidised to ethanoic acid. The colour persists when all ethanol has reacted and excess oxidising agent remains.",
+      "solution": "Alkaline KMnO₄ is a strong oxidising agent. It adds oxygen to ethanol (CH₃CH₂OH) to form ethanoic acid (CH₃COOH). The purple colour of KMnO₄ disappears as it is consumed in the reaction. Once the ethanol is exhausted, the purple colour of any additional KMnO₄ remains visible."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "Why are unsaturated hydrocarbons considered more reactive than saturated ones? Give an example of a reaction that proves this.",
+      "answer": "They contain double or triple bonds that can easily open up to bond with other atoms. Addition reactions (like hydrogenation) occur only in unsaturated hydrocarbons.",
+      "solution": "Saturated hydrocarbons (alkanes) have only single bonds and are quite inert. Unsaturated ones (alkenes/alkynes) have multiple bonds that can break to allow additional atoms (like Hydrogen in the presence of a Nickel catalyst) to join the chain, converting them into saturated compounds."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Why does soap form scum with hard water, and how do detergents solve this problem?",
+      "answer": "Soap reacts with calcium and magnesium ions in hard water to form insoluble precipitates (scum). Detergents do not form these precipitates.",
+      "solution": "The ionic end of soap molecules bonds with Ca²⁺ and Mg²⁺ ions found in hard water, creating an insoluble solid that sticks to surfaces. Detergents are sodium salts of sulphonic acids whose charged ends do not form insoluble solids with these ions, keeping them effective for cleaning."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Hard",
+      "question": "Write the chemical equations for the following: (i) Esterification of Ethanoic acid with Ethanol (ii) Saponification of the resulting ester.",
+      "answer": "(i) CH₃COOH + C₂H₅OH (acid catalyst) → CH₃COOC₂H₅ + H₂O; (ii) CH₃COOC₂H₅ + NaOH → CH₃COONa + C₂H₅OH",
+      "solution": "Esterification produces a sweet-smelling ester (ethyl ethanoate) from an acid and alcohol. Saponification uses an alkali (NaOH) to break the ester back into alcohol and the sodium salt of the acid (which is soap)."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Hard",
+      "question": "Explain the mechanism of the cleaning action of soap. What are micelles?",
+      "answer": "Soap molecules form micelles that entrap oily dirt. The hydrophobic tails stick to the oil, while the hydrophilic heads face outward towards water, allowing the dirt to be rinsed away as an emulsion.",
+      "solution": "Soap has dual solubility: the hydrocarbon 'tail' is hydrophobic (repels water, attracts oil) and the ionic 'head' is hydrophilic (attracts water). In water, soap molecules cluster into spheres called micelles with tails in the center and heads on the surface. Oily dirt is trapped in the center of the micelle and carried away when water is drained."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Hard",
+      "question": "A neutral organic compound 'X' (C₂H₆O) on oxidation with acidified K₂Cr₂O₇ gives an acidic compound 'Y'. 'X' also reacts with 'Y' in the presence of concentrated H₂SO₄ to give a sweet-smelling compound 'Z'. Identify X, Y, and Z.",
+      "answer": "X is Ethanol (C₂H₅OH), Y is Ethanoic Acid (CH₃COOH), and Z is Ethyl Ethanoate (an ester).",
+      "solution": "Ethanol (X) is oxidised to Ethanoic acid (Y). The reaction between the alcohol (X) and acid (Y) with a sulphuric acid catalyst is an esterification reaction, producing the ester Ethyl Ethanoate (Z), which has a characteristic sweet smell."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "Why is the use of animal fats for cooking considered less healthy compared to vegetable oils? Relate your answer to the saturation level of carbon chains.",
+      "answer": "Animal fats contain saturated fatty acids which are harmful, while vegetable oils contain unsaturated fatty acids which are healthier.",
+      "solution": "Saturated fatty acids found in animal fats have no double bonds and aggregate more easily in the body. Unsaturated fatty acids in vegetable oils contain double bonds that keep the chains more fluid. Hydrogenation of vegetable oils (making them saturated/solid) creates fats similar to animal fats, which is why liquid oils are preferred for cardiovascular health."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "What happens when Ethanoic acid reacts with Sodium Carbonate? How can you confirm the gas evolved?",
+      "answer": "It produces sodium ethanoate, water, and carbon dioxide. CO₂ can be confirmed by passing it through lime water, which turns milky.",
+      "solution": "The reaction is: 2CH₃COOH + Na₂CO₃ → 2CH₃COONa + H₂O + CO₂. The effervescence seen is due to CO₂. When this gas reacts with lime water [Ca(OH)₂], it forms insoluble calcium carbonate (CaCO₃), causing the liquid to appear white and cloudy."
+    }
+  ]
+}

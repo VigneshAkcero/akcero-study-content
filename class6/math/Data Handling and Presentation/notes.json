@@ -1,0 +1,177 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Data Handling and Presentation",
+    "chapter_number": 4
+  },
+  "notes": [
+    {
+      "section_title": "Collecting and Organising Data",
+      "topics": [
+        {
+          "topic_name": "What is Data?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Any collection of facts, numbers, measures, observations or other descriptions of things that convey information about those things is called data. For example, a list of your classmates' favourite colours or weights is data."
+            },
+            {
+              "type": "activity",
+              "title": "Finding the Most Popular Game",
+              "procedure": [
+                "Ask each student in the class about their favourite game.",
+                "Prepare a list of all responses."
+              ],
+              "observation": "A raw list makes it difficult to see which game is most popular at a glance.",
+              "conclusion": "Data needs to be organised to interpret and make inferences correctly."
+            }
+          ]
+        },
+        {
+          "topic_name": "Organising Data using Tally Marks",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To organise data efficiently, we can use a frequency table with tally marks. A tally mark '|' is put for each observation. When the count reaches 5, a diagonal line is drawn through the previous four marks (||||) to make a group of five."
+            },
+            {
+              "type": "note",
+              "title": "Frequency",
+              "text": "The number of times a particular observation occurs is called its frequency."
+            },
+            {
+              "type": "example",
+              "title": "Example-1",
+              "question": "Shri Nilesh asked students for their sweet preferences. The choices were Jalebi, Gulab Jamun, Gujiya, Barfi, and Rasgulla. Based on the tally marks, find how many students chose each sweet:\n- Jalebi: HH I\n- Gulab Jamun: HH IIII\n- Gujiya: HH HH III\n- Barfi: III\n- Rasgulla: HH II",
+              "solution": "By counting the tally marks, we get:\n1. Jalebi = 5 + 1 = 6 students\n2. Gulab Jamun = 5 + 4 = 9 students\n3. Gujiya = 5 + 5 + 3 = 13 students\n4. Barfi = 3 students\n5. Rasgulla = 5 + 2 = 7 students"
+            },
+            {
+              "type": "example",
+              "title": "Example-2",
+              "question": "Sushri Sandhya recorded the shoe sizes of her students: 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 7. Find the largest and smallest shoe sizes.",
+              "solution": "By arranging the data in ascending order (as given):\n1. The smallest shoe size is 3.\n2. The largest shoe size is 7.\n3. Counting the 5s, we find 10 students wear size 5.\n4. Counting sizes larger than 4 (5s, 6s, and 7), we get 10 + 4 + 1 = 15 students."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Pictographs",
+      "topics": [
+        {
+          "topic_name": "What is a Pictograph?",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A pictograph represents data through pictures of objects. It helps answer questions about data with just a quick glance. Frequencies are understood by counting the symbols."
+            },
+            {
+              "type": "note",
+              "title": "The Scale (Key)",
+              "text": "In a pictograph, a symbol can represent one unit or multiple units. This is called the scale or key. For example, one star symbol could represent 10 students."
+            },
+            {
+              "type": "example",
+              "title": "Example-3",
+              "question": "Nand Kishor prepared a pictograph where one symbol represents 10 children. \n- 'Always' sleep 9 hours: 5 symbols\n- 'Sometimes' sleep 9 hours: 2 and a half symbols\n- 'Never' sleep 9 hours: 4 symbols\nHow many children fall into each category?",
+              "solution": "1. Always: $5 \\times 10 = 50$ children.\n2. Sometimes: 2 full symbols ($2 \\times 10 = 20$) and half a symbol (5). Total = $20 + 5 = 25$ children.\n3. Never: $4 \\times 10 = 40$ children."
+            },
+            {
+              "type": "example",
+              "title": "Example-4",
+              "question": "Magan Bhai sold kites to shopkeepers. Rani purchased 300 kites and Jasmeet purchased 450. If one symbol $\\bigoplus$ represents 100 kites, how many symbols represent their purchases?",
+              "solution": "1. Rani: $300 \\div 100 = 3$ symbols.\n2. Jasmeet: $450 \\div 100 = 4.5$ symbols (4 full symbols and one half symbol)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Bar Graphs",
+      "topics": [
+        {
+          "topic_name": "Understanding Bar Graphs",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A bar graph is a visual representation of data using bars of uniform width. These bars can be drawn horizontally or vertically with equal spacing between them. The length or height of each bar represents the frequency of the category."
+            },
+            {
+              "type": "list",
+              "title": "Why use Bar Graphs?",
+              "items": [
+                "Easier to draw than pictographs when data is large.",
+                "Comparison between different categories is quick and easy.",
+                "Frequencies can be read directly from the scale on the axis."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example-5",
+              "question": "A bar graph shows vehicular traffic at a crossing. One unit length = 100 vehicles.\n- 7-8 a.m. bar height: 12 units\n- 8-9 a.m. bar height: 10 units\nFind the number of vehicles in these intervals.",
+              "solution": "1. Between 7-8 a.m.: $12 \\times 100 = 1200$ vehicles.\n2. Between 8-9 a.m.: $10 \\times 100 = 1000$ vehicles."
+            }
+          ]
+        },
+        {
+          "topic_name": "Steps to Draw a Bar Graph",
+          "content": [
+            {
+              "type": "list",
+              "items": [
+                "Draw two perpendicular lines (horizontal and vertical axis).",
+                "Label the categories on one axis and the frequencies on the other.",
+                "Choose a suitable scale (e.g., 1 unit = 10 units of data).",
+                "Draw bars of equal width with uniform gaps between them.",
+                "The height/length of each bar should match the frequency based on the scale."
+              ]
+            },
+            {
+              "type": "example",
+              "title": "Example-6",
+              "question": "Imran's family expenditure: House rent ($3000$), Food ($3400$), Education ($800$). If we use a scale where 1 unit = $200$, what will be the heights of the bars?",
+              "solution": "To find the height in units, divide the expenditure by the scale ($200$):\n1. House rent: $3000 \\div 200 = 15$ units.\n2. Food: $3400 \\div 200 = 17$ units.\n3. Education: $800 \\div 200 = 4$ units."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Artistic and Aesthetic Considerations",
+      "topics": [
+        {
+          "topic_name": "Visual Appeal and Infographics",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Data presentations should be visually appealing and fit the intended space. For example, heights (like mountains) are better represented with vertical columns (upward growth), while lengths (like rivers) are better represented with horizontal bars."
+            },
+            {
+              "type": "note",
+              "title": "Infographics",
+              "text": "When data visualisations are beautified with artistic imagery (like using triangles instead of rectangles for mountains), they are called infographics. They attract attention but can sometimes be misleading if the proportions (like width) are not maintained."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Data", "definition": "A collection of facts, numbers, measures, or observations that convey information." },
+    { "term": "Tally Marks", "definition": "A quick way of counting and recording data in groups of five." },
+    { "term": "Frequency", "definition": "The number of times a particular value or observation occurs." },
+    { "term": "Pictograph", "definition": "Representation of data using pictures or symbols." },
+    { "term": "Bar Graph", "definition": "A chart that uses rectangular bars to represent data frequencies." },
+    { "term": "Scale", "definition": "The ratio between the units on a graph and the actual data quantities." },
+    { "term": "Infographics", "definition": "Visually appealing data representations enhanced with artistic imagery." }
+  ],
+  "summary_points": [
+    "Data is a collection of information used for analysis and decision-making.",
+    "Raw data is organised using frequency distribution tables with tally marks.",
+    "Pictographs use symbols and a scale to represent data visually.",
+    "Bar graphs use bars of uniform width and equal spacing to compare data values.",
+    "Choosing an appropriate scale is crucial for accurately representing large data.",
+    "Visual presentations should be both aesthetically pleasing and factually accurate to avoid misleading the audience."
+  ]
+}

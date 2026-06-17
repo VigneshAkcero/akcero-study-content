@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Math",
+    "chapter_name": "Parallel and Intersecting Lines",
+    "chapter_number": 5
+  },
+  "summary": [
+    {
+      "category": "Intersecting, Perpendicular, and Parallel Lines",
+      "points": [
+        "Two lines intersect at exactly one point, forming 4 angles; adjacent angles (a linear pair) always sum to 180°, and opposite angles (vertically opposite) are always equal — proved by reasoning, not measurement.",
+        "Perpendicular lines are two lines that intersect at exactly 90°; all four angles formed are right angles, marked with a small square symbol. Parallel lines are two lines on the same plane that never meet, maintaining a constant perpendicular distance, marked with arrow symbols.",
+        "Parallel lines must lie on the same plane — two lines in different planes that never meet are NOT parallel; daily examples of parallel lines include opposite edges of a ruled notebook and railway tracks."
+      ]
+    },
+    {
+      "category": "Transversals and Corresponding Angles",
+      "points": [
+        "A transversal is a line crossing two other lines, forming 8 angles (4 at each intersection); due to vertically opposite pairs being equal, there are at most 4 distinct angle measures among the 8.",
+        "Corresponding angles occupy the same position (corner) at each intersection of a transversal; the corresponding angles test is both necessary and sufficient for parallelism: corresponding angles are equal if and only if the lines are parallel.",
+        "To draw a line parallel to a given line through a point, slide a set square along a ruler ensuring equal corresponding angles (90°), or fold two successive perpendiculars through the same point — both guarantee equal corresponding angles, confirming parallelism."
+      ]
+    },
+    {
+      "category": "Alternate Angles and Interior Angles",
+      "points": [
+        "Alternate angles lie on opposite sides of the transversal, one at each intersection and between the two lines; they are always equal when the lines are parallel — proved using corresponding angles and vertically opposite angles together.",
+        "Co-interior (interior) angles lie on the same side of the transversal, between two parallel lines; they always add up to 180° — proved by combining linear pairs with corresponding angle equality.",
+        "All three angle relationships (corresponding = equal, alternate = equal, co-interior = 180°) are equivalent tests for parallel lines and can be used to find unknown angles in figures with parallel lines cut by a transversal."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Sound",
+    "chapter_number": 11
+  },
+  "notes": [
+    {
+      "section_title": "Introduction",
+      "topics": [
+        {
+          "topic_name": "Sound as a Form of Energy",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sound is a form of energy that produces the sensation of hearing in our ears. We hear sounds from many sources — humans, birds, bells, machines, vehicles, televisions, radios, etc. Like all forms of energy, sound cannot be created or destroyed; it can only be converted from one form to another. For example, when you clap, you convert mechanical energy into sound energy."
+            },
+            {
+              "type": "note",
+              "title": "Key Idea",
+              "text": "Sound is produced whenever an object vibrates. Vibration is a rapid to-and-fro motion of an object. Without vibration, there is no sound."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "11.1 Production of Sound",
+      "topics": [
+        {
+          "topic_name": "How Sound is Produced",
+          "content": [
+            {
+              "type": "activity",
+              "id": "11.1",
+              "title": "Tuning Fork and Vibration",
+              "procedure": [
+                "Strike a tuning fork on a rubber pad to set it vibrating.",
+                "Bring it near your ear and listen.",
+                "Touch one prong of the vibrating tuning fork with your finger and note the sensation.",
+                "Now touch the vibrating prong gently to a suspended table tennis ball and observe."
+              ],
+              "observation": "You hear a sound when the vibrating tuning fork is brought near the ear. Touching the prong causes a tingling sensation (it is vibrating). The table tennis ball gets pushed away when touched by the vibrating fork.",
+              "conclusion": "Sound is produced by the vibration of the tuning fork. The vibrating prong disturbs the ball, confirming that it is in rapid to-and-fro motion."
+            },
+            {
+              "type": "activity",
+              "id": "11.2",
+              "title": "Tuning Fork and Water",
+              "procedure": [
+                "Fill a beaker with water to the brim.",
+                "Gently touch the water surface with one prong of a vibrating tuning fork.",
+                "Then dip both prongs of the vibrating tuning fork into the water."
+              ],
+              "observation": "When one prong touches the water surface, water splashes at that point. When both prongs are dipped in the water, the water splashes vigorously.",
+              "conclusion": "The vibrating tuning fork disturbs the water, confirming that it is vibrating — confirming that sound is produced by a vibrating object."
+            },
+            {
+              "type": "activity",
+              "id": "11.3",
+              "title": "Musical Instruments and Vibrating Parts",
+              "procedure": [
+                "Make a list of different types of musical instruments.",
+                "For each instrument, identify which part vibrates to produce sound."
+              ],
+              "observation": "In a guitar or sitar, the strings vibrate. In a drum or tabla, the stretched membrane vibrates. In a flute, the air column inside vibrates.",
+              "conclusion": "All musical instruments produce sound through the vibration of some part — strings, membranes, or air columns."
+            },
+            {
+              "type": "paragraph",
+              "text": "Sound can be produced by plucking (guitar), scratching, rubbing, blowing (flute), or shaking different objects. In all cases, vibration is the common cause. The sound of the human voice is produced by vibrations in the vocal cords. A buzzing bee produces sound because its wings vibrate rapidly."
+            },
+            {
+              "type": "note",
+              "title": "Vibration Defined",
+              "text": "Vibration is a rapid to-and-fro (back-and-forth) motion of an object about its mean position. Every sound-producing object is vibrating."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "11.2 Propagation of Sound",
+      "topics": [
+        {
+          "topic_name": "How Sound Travels Through a Medium",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sound is produced by vibrating objects and needs a material medium (solid, liquid, or gas) to travel. It cannot travel through vacuum. When an object vibrates, it sets the particles of the surrounding medium vibrating. Each particle disturbs the next, passing the disturbance along — but the particles themselves do not travel from the source to the listener. It is the energy (disturbance) that travels, not the particles of the medium."
+            },
+            {
+              "type": "note",
+              "title": "Medium Required for Sound",
+              "text": "Sound requires a material medium to propagate. It cannot travel through vacuum. This is why two people on the moon (which has no atmosphere) cannot hear each other speak directly — even if they shout."
+            },
+            {
+              "type": "note",
+              "title": "Sound as a Wave",
+              "text": "A wave is a disturbance that moves through a medium by setting neighbouring particles into motion. In sound propagation, the particles oscillate about their mean positions but do not move forward themselves. The disturbance (energy) is carried forward. Hence, sound can be visualised as a wave. Sound waves are mechanical waves because they require a material medium."
+            }
+          ]
+        },
+        {
+          "topic_name": "Compressions and Rarefactions",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When a vibrating object moves forward, it pushes and compresses the air in front of it, creating a region of high pressure called a compression (C). When it moves backward, it creates a region of low pressure called a rarefaction (R). As the object vibrates back and forth rapidly, a series of compressions and rarefactions is created in the medium — this is the sound wave."
+            },
+            {
+              "type": "list",
+              "title": "Compression vs Rarefaction",
+              "items": [
+                "Compression (C): Region of high pressure and high density — particles are crowded together.",
+                "Rarefaction (R): Region of low pressure and low density — particles are spread apart.",
+                "A sound wave consists of alternate compressions and rarefactions propagating through the medium.",
+                "The propagation of sound can be visualised as propagation of pressure variations or density variations in the medium."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "11.2.1 Sound Waves are Longitudinal Waves",
+          "content": [
+            {
+              "type": "activity",
+              "id": "11.4",
+              "title": "Slinky — Longitudinal Wave Demonstration",
+              "procedure": [
+                "Take a slinky. Hold one end; ask a friend to hold the other end.",
+                "Stretch the slinky horizontally.",
+                "Give a sharp push towards your friend and observe.",
+                "Then push and pull alternately (repeatedly) and observe.",
+                "Mark a dot on the slinky and observe its direction of motion."
+              ],
+              "observation": "When pushed, a compression travels along the slinky. With repeated pushing and pulling, compressions and rarefactions alternate. The marked dot moves back and forth parallel to the direction of the wave travel.",
+              "conclusion": "The particles of the medium (slinky coils) move parallel to the direction of propagation of the wave. This is a longitudinal wave — the same way sound propagates in air."
+            },
+            {
+              "type": "note",
+              "title": "Longitudinal Wave",
+              "text": "In a longitudinal wave, the individual particles of the medium oscillate back and forth in a direction parallel to the direction of propagation of the wave. Sound waves are longitudinal waves. The particles do not move from one place to another — they oscillate about their mean position."
+            },
+            {
+              "type": "note",
+              "title": "Transverse Wave (for comparison)",
+              "text": "In a transverse wave, particles oscillate perpendicular to the direction of wave propagation (up and down). Example: ripples on a water surface when a pebble is dropped. Light is a transverse wave. Sound is NOT a transverse wave."
+            }
+          ]
+        },
+        {
+          "topic_name": "11.2.2 Characteristics of a Sound Wave",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A sound wave is described by three main characteristics: frequency (or time period), amplitude, and speed. These characteristics determine how we perceive sound — as pitch, loudness, and quality."
+            },
+            {
+              "type": "note",
+              "title": "Wavelength (λ)",
+              "text": "The distance between two consecutive compressions (or two consecutive rarefactions) is called the wavelength of the sound wave. It is represented by the Greek letter λ (lambda). SI unit: metre (m). A compression peak is called a crest and a rarefaction valley is called a trough on the graphical representation."
+            },
+            {
+              "type": "note",
+              "title": "Frequency (ν)",
+              "text": "The number of complete oscillations (compressions + rarefactions) per unit time is called the frequency of the sound wave. It is represented by the Greek letter ν (nu). SI unit: hertz (Hz). 1 Hz = 1 oscillation per second. Higher frequency → higher pitch; lower frequency → lower pitch."
+            },
+            {
+              "type": "note",
+              "title": "Time Period (T)",
+              "text": "The time taken for one complete oscillation (or for two consecutive compressions to cross a fixed point) is called the time period of the wave. It is represented by T. SI unit: second (s). Relationship: ν = 1/T."
+            },
+            {
+              "type": "formula",
+              "expression": "ν = 1 / T",
+              "variables": {
+                "ν": "Frequency of the sound wave (Hz)",
+                "T": "Time period of the wave (s)"
+              },
+              "derivation": "Frequency and time period are reciprocals. If one complete oscillation takes T seconds, then in 1 second, the number of oscillations = 1/T = ν."
+            },
+            {
+              "type": "note",
+              "title": "Amplitude (A)",
+              "text": "The magnitude of the maximum disturbance in the medium from the mean value is called the amplitude of the wave. Represented by A. For sound, it is expressed in units of density or pressure. Larger amplitude → louder sound; smaller amplitude → softer sound. Amplitude depends on the force with which the object is made to vibrate."
+            },
+            {
+              "type": "note",
+              "title": "Pitch",
+              "text": "Pitch is how the brain interprets the frequency of a sound. A higher frequency produces a higher pitch (shriller sound). A lower frequency produces a lower pitch (deeper sound). Example: A flute produces a higher pitch than a drum."
+            },
+            {
+              "type": "note",
+              "title": "Loudness and Intensity",
+              "text": "Loudness is a physiological response of the ear to the intensity of sound — it is subjective. Intensity is objective: it is the amount of sound energy passing each second through a unit area. A louder sound is associated with higher energy and larger amplitude. As sound travels away from the source, its amplitude decreases and so does its loudness."
+            },
+            {
+              "type": "note",
+              "title": "Quality (Timbre)",
+              "text": "Quality (or timbre) is the characteristic of sound that enables us to distinguish between two sounds of the same pitch and loudness. A sound of a single frequency is called a tone. A sound of mixed frequencies is called a note, which is more pleasant. Music is pleasant; noise is unpleasant."
+            },
+            {
+              "type": "table",
+              "headers": ["Wave Property", "Sound Property it Determines"],
+              "rows": [
+                ["Frequency (ν)", "Pitch — higher frequency → higher pitch"],
+                ["Amplitude (A)", "Loudness — larger amplitude → louder sound"],
+                ["Waveform / Mixture of frequencies", "Quality (Timbre)"]
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Speed of Sound — Wave Equation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The speed of sound is the distance travelled by a point on the wave (e.g., a compression) per unit time. In one time period T, the wave travels one wavelength λ."
+            },
+            {
+              "type": "formula",
+              "expression": "v = λ × ν\n  or\nv = λ / T",
+              "variables": {
+                "v": "Speed of sound in the medium (m s⁻¹)",
+                "λ": "Wavelength of the sound wave (m)",
+                "ν": "Frequency of the sound wave (Hz)",
+                "T": "Time period (s)"
+              },
+              "derivation": "Speed = Distance / Time. In time T (one time period), the wave covers a distance λ (one wavelength). So v = λ/T. Since ν = 1/T, we get v = λν. This is the wave equation: Speed = Wavelength × Frequency."
+            },
+            {
+              "type": "note",
+              "title": "Speed is the Same for All Frequencies in a Medium",
+              "text": "The speed of sound remains almost the same for all frequencies in a given medium under the same physical conditions. This means all sound waves travel at the same speed in a given medium, regardless of their frequency or amplitude."
+            },
+            {
+              "type": "example",
+              "id": "11.1",
+              "problem": "A sound wave has a frequency of 2 kHz and wavelength 35 cm. How long will it take to travel 1.5 km?",
+              "solution": "Given: ν = 2 kHz = 2000 Hz, λ = 35 cm = 0.35 m, distance d = 1.5 km = 1500 m\n\nStep 1: Speed of sound:\n  v = λ × ν = 0.35 m × 2000 Hz = 700 m/s\n\nStep 2: Time to travel 1500 m:\n  t = d / v = 1500 / 700 = 15/7 ≈ 2.1 s\n\nThe sound will take approximately 2.1 s to travel 1.5 km."
+            }
+          ]
+        },
+        {
+          "topic_name": "11.2.3 Speed of Sound in Different Media",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sound propagates at a finite speed that depends on the nature and temperature of the medium. The speed of sound is greatest in solids and least in gases (at the same temperature). As temperature increases, speed of sound increases. The speed of light is much greater than that of sound — which is why we see lightning before hearing the thunder."
+            },
+            {
+              "type": "list",
+              "title": "Key Facts About Speed of Sound",
+              "items": [
+                "Speed is greatest in solids, less in liquids, and least in gases.",
+                "Speed increases with an increase in temperature of the medium.",
+                "Speed of sound in air at 0°C ≈ 331 m s⁻¹; at 22°C ≈ 344 m s⁻¹.",
+                "Speed of sound in water ≈ 1498 m s⁻¹ (at 25°C).",
+                "Speed of sound in steel ≈ 5960 m s⁻¹ (at 25°C).",
+                "Speed of sound does NOT depend on the frequency or amplitude of the wave in a given medium."
+              ]
+            },
+            {
+              "type": "table",
+              "headers": ["State", "Substance", "Speed (m/s) at 25°C"],
+              "rows": [
+                ["Solid", "Aluminium", "6420"],
+                ["Solid", "Steel", "5960"],
+                ["Solid", "Iron", "5950"],
+                ["Solid", "Glass (Flint)", "3980"],
+                ["Liquid", "Water (Sea)", "1531"],
+                ["Liquid", "Water (Distilled)", "1498"],
+                ["Gas", "Hydrogen", "1284"],
+                ["Gas", "Helium", "965"],
+                ["Gas", "Air", "346"],
+                ["Gas", "Oxygen", "316"],
+                ["Gas", "Sulphur dioxide", "213"]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "11.3 Reflection of Sound",
+      "topics": [
+        {
+          "topic_name": "Laws of Reflection of Sound",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Just as light reflects off surfaces, sound also bounces off solid or liquid surfaces. Sound follows the same laws of reflection as light."
+            },
+            {
+              "type": "note",
+              "title": "Laws of Reflection of Sound",
+              "text": "1. The angle of incidence (angle between the incident sound and the normal to the surface) equals the angle of reflection (angle between the reflected sound and the normal).\n2. The incident sound, the reflected sound, and the normal to the reflecting surface at the point of incidence all lie in the same plane."
+            },
+            {
+              "type": "activity",
+              "id": "11.5",
+              "title": "Verifying Reflection of Sound",
+              "procedure": [
+                "Take two identical long pipes made of chart paper.",
+                "Place them on a table near a wall at angles to each other.",
+                "Place a ticking clock (or a phone on vibration mode) near the open end of one pipe.",
+                "Try to hear the sound through the other pipe.",
+                "Adjust the angles until the sound is clearest.",
+                "Measure the angles of incidence and reflection."
+              ],
+              "observation": "The sound is heard most clearly when the angles of incidence and reflection are equal.",
+              "conclusion": "Sound follows the same laws of reflection as light — the angle of incidence equals the angle of reflection."
+            },
+            {
+              "type": "note",
+              "title": "Condition for Reflection",
+              "text": "An obstacle of large size — which may be polished or rough — is needed for noticeable reflection of sound waves."
+            }
+          ]
+        },
+        {
+          "topic_name": "11.3.1 Echo",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When sound is reflected from a distant object (such as a tall building or a mountain), the reflected sound heard after the original is called an echo."
+            },
+            {
+              "type": "note",
+              "title": "Conditions for a Distinct Echo",
+              "text": "The human brain retains the sensation of sound for about 0.1 s. For a distinct echo to be heard, the reflected sound must reach the listener at least 0.1 s after the original sound.\n\nMinimum distance = (Speed of sound × Minimum time) / 2\n= (344 m/s × 0.1 s) / 2 = 17.2 m\n\nSo, the reflecting surface must be at least 17.2 m away (at 22°C) for a distinct echo to be heard."
+            },
+            {
+              "type": "list",
+              "title": "Key Points About Echoes",
+              "items": [
+                "The brain retains the sensation of sound for 0.1 s — so the echo must arrive at least 0.1 s after the original sound.",
+                "Minimum distance of the reflecting surface: 17.2 m (at 22°C).",
+                "This minimum distance changes with temperature (as speed of sound changes with temperature).",
+                "Multiple echoes occur due to successive reflections from multiple surfaces.",
+                "Rolling thunder is caused by successive reflections from clouds and the ground."
+              ]
+            },
+            {
+              "type": "formula",
+              "expression": "Distance to reflecting surface = (v × t) / 2",
+              "variables": {
+                "v": "Speed of sound (m s⁻¹)",
+                "t": "Time taken for the echo to be heard after original sound (s)"
+              },
+              "derivation": "The sound travels from source to the reflecting surface and back. Total distance = v × t. The one-way distance to the surface = (v × t) / 2."
+            },
+            {
+              "type": "example",
+              "id": "11.2",
+              "problem": "A person clapped his hands near a cliff and heard the echo after 2 s. What is the distance of the cliff? (Speed of sound = 346 m s⁻¹)",
+              "solution": "Given: v = 346 m s⁻¹, t = 2 s\n\nTotal distance = v × t = 346 × 2 = 692 m\nDistance to the cliff = 692 / 2 = 346 m\n\nThe cliff is 346 m away from the person."
+            }
+          ]
+        },
+        {
+          "topic_name": "11.3.2 Reverberation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "In a large enclosed space (like a hall or auditorium), a sound created persists by repeated reflections from the walls, ceiling, and floor until the sound energy is reduced to an inaudible level. This persistence of sound due to repeated reflection is called reverberation."
+            },
+            {
+              "type": "note",
+              "title": "Reverberation",
+              "text": "Reverberation is the persistence of sound in an enclosed space caused by multiple successive reflections. Excessive reverberation in an auditorium makes sounds overlap and become unclear — it is undesirable for speech and music."
+            },
+            {
+              "type": "list",
+              "title": "Methods to Reduce Reverberation",
+              "items": [
+                "Covering the roof and walls with sound-absorbent materials such as compressed fibreboard, rough plaster, or draperies.",
+                "Using seats made of sound-absorbing materials.",
+                "Installing carpets and curtains that absorb sound.",
+                "Using acoustic tiles on walls and ceilings."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "11.3.3 Uses of Multiple Reflection of Sound",
+          "content": [
+            {
+              "type": "list",
+              "title": "Applications of Multiple Reflection of Sound",
+              "items": [
+                "Megaphones, loudhailers, horns, trumpets, and shehnais: These instruments use a tube followed by a conical opening. Sound is reflected successively by the walls of the tube/cone to guide most of the sound energy in the forward direction towards the audience, preventing it from spreading in all directions.",
+                "Stethoscope: A medical instrument for listening to internal body sounds (heartbeat, breathing). Sound from the patient's body reaches the doctor's ear via multiple reflections through the curved tubes of the stethoscope.",
+                "Curved ceilings of concert halls and conference halls: A curved ceiling (concave shape) reflects sound so that it spreads evenly to all corners of the hall, ensuring all audience members hear clearly.",
+                "Soundboard: A curved soundboard placed behind the stage reflects sound evenly across the width of the hall."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "11.4 Range of Hearing",
+      "topics": [
+        {
+          "topic_name": "Audible Range, Infrasound, and Ultrasound",
+          "content": [
+            {
+              "type": "note",
+              "title": "Audible Range for Humans",
+              "text": "The audible range of sound for human beings extends from about 20 Hz to 20,000 Hz (20 kHz). Sounds within this range can be heard by the average human ear."
+            },
+            {
+              "type": "note",
+              "title": "Infrasonic Sound (Infrasound)",
+              "text": "Sounds with frequencies below 20 Hz are called infrasonic sound or infrasound. Humans cannot hear infrasound. Examples of infrasound producers: whales, elephants, and rhinoceroses (rhinos communicate using infrasound of frequency as low as 5 Hz). Earthquakes produce low-frequency infrasound before the main shock waves — this may explain why some animals behave unusually before earthquakes."
+            },
+            {
+              "type": "note",
+              "title": "Ultrasonic Sound (Ultrasound)",
+              "text": "Sounds with frequencies above 20,000 Hz (20 kHz) are called ultrasonic sound or ultrasound. Humans cannot hear ultrasound. Animals that produce or use ultrasound: bats, dolphins, porpoises, and rats. Certain moths can hear the ultrasonic squeaks of bats, allowing them to escape.\n\nNote: Children under 5 years and some animals (e.g., dogs) can hear up to 25 kHz. As people grow older, their ears become less sensitive to high frequencies."
+            },
+            {
+              "type": "table",
+              "headers": ["Category", "Frequency Range", "Examples"],
+              "rows": [
+                ["Infrasound", "Below 20 Hz", "Whale, elephant, rhino calls; earthquake waves"],
+                ["Audible sound", "20 Hz to 20,000 Hz", "Human speech, music"],
+                ["Ultrasound", "Above 20,000 Hz (20 kHz)", "Bat sonar, dolphin, medical ultrasound"]
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Hearing Aid",
+              "text": "A hearing aid is an electronic battery-operated device for people with hearing loss. It works as follows:\n1. A microphone receives sound and converts it to electrical signals.\n2. An amplifier amplifies the electrical signals.\n3. A speaker converts the amplified electrical signals back into sound waves.\n4. The amplified sound enters the ear for clear hearing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "11.5 Applications of Ultrasound",
+      "topics": [
+        {
+          "topic_name": "Industrial and Medical Applications of Ultrasound",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Ultrasound waves have high frequency and can travel along well-defined paths even in the presence of obstacles. This makes them extremely useful in industry and medicine."
+            },
+            {
+              "type": "list",
+              "title": "Applications of Ultrasound",
+              "items": [
+                "Cleaning: Objects in hard-to-reach places (spiral tubes, electronic components, odd-shaped parts) are placed in a cleaning solution. Ultrasonic waves are sent through the solution. The high-frequency vibrations detach dust, grease, and dirt particles, which fall out of the solution — thoroughly cleaning the object.",
+                "Detecting flaws in metal blocks: Ultrasonic waves are passed through a metal block. Detectors pick up transmitted waves on the other side. If there is a crack or flaw inside, the ultrasound reflects back from that location (instead of passing through) — indicating the defect. Ordinary sound with longer wavelengths cannot be used because it bends around small defects and enters the detector without indicating the flaw.",
+                "Echocardiography: Ultrasonic waves are reflected from various parts of the heart to form an image of the heart. Used to diagnose heart conditions.",
+                "Ultrasonography: An ultrasound scanner uses ultrasonic waves to generate images of internal organs (liver, gall bladder, uterus, kidneys, etc.). The waves travel through body tissues and reflect from regions of different tissue density. The reflected waves are converted to electrical signals and displayed as images on a monitor. Used to detect abnormalities such as kidney stones, tumours, and congenital defects in the foetus during pregnancy.",
+                "Breaking kidney stones: Ultrasound is used to break small stones in the kidneys into fine grains, which are then flushed out naturally with urine — avoiding surgery."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Why Ultrasound is Preferred for Flaw Detection",
+              "text": "Ultrasound has a very short wavelength. Short wavelengths do NOT bend around small obstacles — they reflect straight back. This makes ultrasound ideal for detecting tiny cracks or defects inside metal blocks. Ordinary audible sound has a longer wavelength and bends (diffracts) around small defects, missing them entirely."
+            }
+          ]
+        },
+        {
+          "topic_name": "SONAR",
+          "content": [
+            {
+              "type": "note",
+              "title": "SONAR (Sound Navigation And Ranging)",
+              "text": "SONAR is a device that uses ultrasonic waves to measure distances, directions, and speeds of underwater objects. It is used by ships and submarines to detect objects underwater.\n\nWorking principle:\n1. An ultrasonic transmitter sends a pulse of ultrasound into the water.\n2. The pulse travels to the object (e.g., the sea bed or a submarine), reflects off it, and returns to the SONAR device.\n3. The time taken (t) for the echo to return is measured.\n4. Distance = (v × t) / 2, where v is the speed of sound in water.\n\nThis technique is also called echo ranging."
+            },
+            {
+              "type": "formula",
+              "expression": "Distance = (v × t) / 2",
+              "variables": {
+                "v": "Speed of ultrasound in water (m s⁻¹)",
+                "t": "Time taken for the echo to return (s)"
+              },
+              "derivation": "The sound pulse travels to the object and back — a total distance of 2 × d. So d = v × t / 2."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Sound",
+      "definition": "A form of energy that produces the sensation of hearing. It is produced by vibrating objects and requires a material medium to travel."
+    },
+    {
+      "term": "Vibration",
+      "definition": "A rapid to-and-fro (back-and-forth) motion of an object about its mean position. All sound-producing objects are vibrating."
+    },
+    {
+      "term": "Medium",
+      "definition": "The matter or substance through which sound travels. It can be solid, liquid, or gas. Sound cannot travel through vacuum."
+    },
+    {
+      "term": "Mechanical Wave",
+      "definition": "A wave that requires a material medium to propagate. Sound waves are mechanical waves."
+    },
+    {
+      "term": "Longitudinal Wave",
+      "definition": "A wave in which the particles of the medium oscillate back and forth parallel to the direction of propagation of the wave. Sound is a longitudinal wave."
+    },
+    {
+      "term": "Transverse Wave",
+      "definition": "A wave in which the particles of the medium oscillate perpendicular to the direction of propagation. Light waves and ripples on a water surface are examples."
+    },
+    {
+      "term": "Compression (C)",
+      "definition": "A region in the medium where particles are crowded together, creating a zone of high pressure and high density during sound propagation."
+    },
+    {
+      "term": "Rarefaction (R)",
+      "definition": "A region in the medium where particles are spread apart, creating a zone of low pressure and low density during sound propagation."
+    },
+    {
+      "term": "Wavelength (λ)",
+      "definition": "The distance between two consecutive compressions or two consecutive rarefactions in a sound wave. SI unit: metre (m)."
+    },
+    {
+      "term": "Frequency (ν)",
+      "definition": "The number of complete oscillations (compressions + rarefaction cycles) per unit time. SI unit: hertz (Hz). Related to pitch."
+    },
+    {
+      "term": "Time Period (T)",
+      "definition": "The time taken for one complete oscillation of the sound wave. SI unit: second (s). T = 1/ν."
+    },
+    {
+      "term": "Amplitude (A)",
+      "definition": "The magnitude of the maximum displacement of the medium from the mean position during a sound wave. Related to the loudness of sound."
+    },
+    {
+      "term": "Pitch",
+      "definition": "The perception of the frequency of a sound by the brain. Higher frequency → higher pitch (shriller sound). Lower frequency → lower pitch (deeper sound)."
+    },
+    {
+      "term": "Loudness",
+      "definition": "A physiological measure of the response of the ear to the intensity of sound. Determined by the amplitude of the wave. Louder sound has a larger amplitude."
+    },
+    {
+      "term": "Intensity",
+      "definition": "The amount of sound energy passing each second through a unit area. An objective, physical quantity (unlike loudness, which is subjective)."
+    },
+    {
+      "term": "Quality (Timbre)",
+      "definition": "The characteristic of sound that allows us to distinguish between two sounds of the same pitch and loudness. Determined by the waveform (mixture of frequencies)."
+    },
+    {
+      "term": "Tone",
+      "definition": "A sound of a single frequency."
+    },
+    {
+      "term": "Note",
+      "definition": "A sound produced by a mixture of several frequencies. Notes are more pleasant to hear than pure tones."
+    },
+    {
+      "term": "Echo",
+      "definition": "The reflected sound heard after the original sound. For a distinct echo, the reflecting surface must be at least 17.2 m away (at 22°C) so that the reflected sound reaches the listener at least 0.1 s after the original."
+    },
+    {
+      "term": "Reverberation",
+      "definition": "The persistence of sound in an enclosed space due to repeated reflections from walls, ceiling, and floor. Excessive reverberation is undesirable in auditoriums."
+    },
+    {
+      "term": "Infrasound",
+      "definition": "Sound waves with frequencies below 20 Hz. Inaudible to humans. Produced by whales, elephants, and rhinos. Earthquakes generate infrasound."
+    },
+    {
+      "term": "Ultrasound",
+      "definition": "Sound waves with frequencies above 20,000 Hz (20 kHz). Inaudible to humans. Used in cleaning, flaw detection, echocardiography, ultrasonography, and SONAR."
+    },
+    {
+      "term": "SONAR",
+      "definition": "Sound Navigation And Ranging. A device that uses ultrasonic waves to measure the distance, direction, and speed of underwater objects by measuring the time for an echo to return."
+    },
+    {
+      "term": "Echocardiography",
+      "definition": "A medical technique in which ultrasonic waves are reflected from various parts of the heart to form an image of the heart for diagnostic purposes."
+    },
+    {
+      "term": "Ultrasonography",
+      "definition": "A medical imaging technique that uses ultrasonic waves reflected from internal body tissues (of different densities) to generate images of internal organs."
+    }
+  ],
+  "summary_points": [
+    "Sound is a form of energy produced by vibrating objects. Vibration is a rapid to-and-fro motion — all sound production requires vibration.",
+    "Sound requires a material medium (solid, liquid, or gas) to travel. It cannot propagate through vacuum. It is a mechanical, longitudinal wave.",
+    "Sound propagates as alternating compressions (high pressure/density) and rarefactions (low pressure/density). It is the energy/disturbance that travels, not the medium particles.",
+    "In a longitudinal wave, particles oscillate parallel to the direction of wave propagation. In a transverse wave, particles oscillate perpendicular to it.",
+    "Key wave characteristics: Wavelength (λ) — distance between two consecutive compressions/rarefactions; Frequency (ν) — oscillations per second (Hz); Time Period (T = 1/ν); Amplitude (A) — maximum displacement.",
+    "Wave equation: v = λν (Speed = Wavelength × Frequency). Speed of sound remains the same for all frequencies in a given medium.",
+    "Speed of sound depends on the medium and its temperature: greatest in solids, less in liquids, least in gases. Increases with temperature. At 22°C in air: ~344 m s⁻¹.",
+    "Sound properties and their wave equivalents: Pitch ← Frequency; Loudness ← Amplitude (Intensity); Quality/Timbre ← Waveform.",
+    "Sound follows the same laws of reflection as light: angle of incidence = angle of reflection, all in the same plane.",
+    "Echo: Reflected sound heard at least 0.1 s after the original. Minimum distance of reflecting surface = 17.2 m (at 22°C). Distance = (v × t) / 2.",
+    "Reverberation: Persistence of sound due to repeated reflections in an enclosed space. Reduced by sound-absorbent materials (compressed fibreboard, rough plaster, draperies).",
+    "Applications of multiple reflection: Megaphones, stethoscopes, curved ceilings of auditoriums, soundboards — all direct or distribute sound effectively.",
+    "Audible range for humans: 20 Hz to 20,000 Hz. Infrasound: below 20 Hz. Ultrasound: above 20,000 Hz.",
+    "Applications of ultrasound: industrial cleaning, flaw detection in metals, echocardiography, ultrasonography (imaging organs, foetus monitoring), breaking kidney stones, SONAR.",
+    "SONAR uses ultrasonic pulses to find underwater objects. Distance = (v × t) / 2, where t is the time for the echo to return."
+  ]
+}

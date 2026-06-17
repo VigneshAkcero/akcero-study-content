@@ -1,0 +1,206 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Science",
+    "chapter_name": "Electricity: Circuits and their Components",
+    "chapter_number": 3
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is an electric cell? Name its two terminals.",
+      "answer": "An electric cell is a portable source of electrical energy. Its two terminals are the positive terminal (+ve) and the negative terminal (−ve).",
+      "solution": "An electric cell stores chemical energy and converts it into electrical energy. It has two terminals: (1) Positive terminal (+ve) — the small protruding metal cap on one end of the cell. (2) Negative terminal (−ve) — the flat metal disc on the other end. The cell is marked with '+' and '−' signs to identify the terminals."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "What is a battery? How are cells connected in a battery?",
+      "answer": "A battery is a combination of two or more electric cells. In a battery, the positive terminal of one cell is connected to the negative terminal of the next cell (series connection).",
+      "solution": "When a single cell does not provide sufficient energy for a device, two or more cells are combined to form a battery. In this arrangement, cells are connected in series — the positive terminal (+ve) of one cell is connected to the negative terminal (−ve) of the next cell. This is confirmed in Activity 3.3: the lamp in a torch glows only when cells are arranged in this specific order. A battery provides more energy and/or powers the circuit for a longer time."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What is the filament of an incandescent lamp?",
+      "answer": "The filament is the thin wire inside the glass bulb of an incandescent lamp that heats up and glows to produce light when electric current passes through it.",
+      "solution": "Inside an incandescent lamp is a very thin wire called the filament. It is attached to two thicker support wires — one connects to the metal case at the lamp's base and the other connects to the metal tip at the centre of the base (the two terminals). When electric current flows through the filament, it offers resistance, heats up to a very high temperature, and glows bright — producing light. The two terminals of the lamp are designed so they do not touch each other."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What is an electrical circuit?",
+      "answer": "An electrical circuit is a complete, closed path through which electric current can flow from the positive terminal to the negative terminal of the electric cell.",
+      "solution": "An electrical circuit consists of a cell (or battery), connecting wires, and electrical components such as a lamp and a switch. Current flows through the circuit only when there is a complete, unbroken path connecting both terminals of the cell. If the path is broken anywhere, no current flows — this is called an open circuit. The direction of current is conventionally taken as from the positive (+ve) terminal to the negative (−ve) terminal of the cell through the external circuit."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What is a switch? What are its two positions?",
+      "answer": "A switch is a device that either completes or breaks an electrical circuit. Its two positions are ON (closed circuit — current flows) and OFF (open circuit — no current flows).",
+      "solution": "A switch is a simple device inserted in an electrical circuit to control current flow. (1) ON position (closed circuit): The switch closes the gap in the circuit, completing the path so current can flow from the cell through the circuit — the lamp glows. (2) OFF position (open circuit): The switch creates a gap, breaking the circuit path — current cannot flow and the lamp does not glow. A switch can be placed anywhere in the circuit and still controls the entire circuit."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "What is a circuit diagram?",
+      "answer": "A circuit diagram is a representation of an electrical circuit using standard symbols for its components.",
+      "solution": "Drawing realistic pictures of electrical components is complex and time-consuming. Instead, each component is represented by a simple standard symbol. A circuit diagram uses these symbols connected by lines (representing wires) to show how components are connected. Standard circuit symbols are defined by international organisations such as IEC, ANSI, and IEEE so that people from different countries can understand the same circuit diagrams."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What are electrical conductors? Give three examples.",
+      "answer": "Electrical conductors are materials through which electric current can flow easily. Examples: copper, silver, gold (metals).",
+      "solution": "Materials that allow electric current to pass through them easily are called conductors of electricity or good conductors. Most metals are conductors. Three examples from the chapter: (1) Copper — most commonly used for electrical wires due to low cost and availability. (2) Silver — the best electrical conductor, but expensive. (3) Gold — an excellent conductor, also used in electronics. Other examples: aluminium, iron, steel, and graphite (pencil lead)."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "What are electrical insulators? Give three examples.",
+      "answer": "Electrical insulators are materials through which electric current cannot pass. Examples: plastic, rubber, glass.",
+      "solution": "Materials that do not allow electric current to flow through them are called insulators or poor conductors of electricity. Three examples: (1) Plastic — used to cover electrical wires and plug bodies. (2) Rubber — used to cover wires and in gloves for electrical work. (3) Glass — used in insulators on electric poles. Other examples: wood, ceramics (porcelain), wax, paper, cork, and cardboard."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "What is the difference between Direct Current (DC) and Alternating Current (AC)?",
+      "answer": "DC flows in only one direction (from cells/batteries — used in small devices). AC periodically reverses direction (from power plants via wall sockets — used for larger appliances).",
+      "solution": "Direct Current (DC): Produced by cells and batteries. The current always flows in the same direction — from positive to negative terminal. Used to power small, portable devices like torchlights, clocks, remotes, and mobile phones. Alternating Current (AC): Produced by power plants and supplied through wall sockets. The current periodically reverses direction. Used to power larger appliances like fans, refrigerators, and washing machines. The voltage of AC from wall sockets is much higher than DC from batteries, making it more dangerous."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "In the symbol for an electric cell used in circuit diagrams, which line represents the positive terminal and which represents the negative terminal?",
+      "answer": "The long thin line represents the positive (+ve) terminal and the short thick line represents the negative (−ve) terminal.",
+      "solution": "In circuit diagrams, standard symbols are used for all components. The symbol for an electric cell consists of two parallel lines of unequal length: (1) Long thin line → Positive terminal (+ve). (2) Short thick line → Negative terminal (−ve). For a battery (multiple cells), multiple pairs of these lines are drawn alternating. This convention is standardised internationally so circuit diagrams can be understood worldwide."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "Name the three international organisations that define standard symbols for electrical and electronic components.",
+      "answer": "IEC (International Electrotechnical Commission), ANSI (American National Standards Institute), and IEEE (Institute of Electrical and Electronics Engineers).",
+      "solution": "Standard electrical symbols must be consistent across countries and industries so that engineers and technicians worldwide can understand each other's circuit diagrams. Three key organisations: (1) IEC (International Electrotechnical Commission) — sets international standards for electrical and electronic technologies. (2) ANSI (American National Standards Institute) — sets American standards. (3) IEEE (Institute of Electrical and Electronics Engineers) — sets standards for electrical engineering and electronics. Using the same symbols across the world prevents misunderstandings in electrical and electronic work."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "Name four categories of uses of electricity and give one example of each.",
+      "answer": "Cooking (electric kettle), Lighting (street lights), Heating and Cooling (fan), Transportation (train).",
+      "solution": "Electricity has a vast range of uses: (1) Cooking: Electric kettle, mixer grinder, toaster, oven, microwave. (2) Lighting: Homes, offices, streets, markets, factories. (3) Heating and Cooling: Fan, room heater, immersion rod, geyser, refrigerator, air conditioner. (4) Transportation: Train, bus, electric car, lift, escalator. (5) Entertainment: Television, radio. (6) Communication: Mobile phone, internet. (7) Others: Water pump, crane, computer."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "How does an LED differ from an incandescent lamp in terms of (i) filament, (ii) polarity, and (iii) direction of current?",
+      "answer": "(i) LED has no filament; incandescent has a filament. (ii) LED has strict polarity (longer wire = +ve); incandescent has no polarity requirement. (iii) Current flows through LED in one direction only; through incandescent lamp in either direction.",
+      "solution": "(i) Filament: An incandescent lamp contains a thin wire called the filament inside the glass bulb. This filament heats up and glows when current passes. An LED does not have a filament — it produces light electronically through a semiconductor. (ii) Polarity: An incandescent lamp works regardless of which terminal connects to which — it has no polarity. An LED is polarity-sensitive — it glows only when its positive terminal (longer wire) is connected to the positive terminal of the battery and its negative terminal (shorter wire) to the negative terminal. Reversing the connections prevents it from glowing. (iii) Current direction: Current can flow through an incandescent lamp in either direction and it will still glow. Current can flow through an LED in only one direction — from positive to negative terminal. If connected in reverse, no current flows and the LED does not glow."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "In Activity 3.3, why does a torch lamp only glow when the cells are placed in a specific order?",
+      "answer": "Because cells must be connected in series (positive terminal of one cell to negative terminal of the next) to form a proper battery. Any other arrangement fails to provide a continuous path for current.",
+      "solution": "A battery works by providing a continuous flow of electric current. For this to happen, cells must be connected in series — the positive (+ve) terminal of one cell must connect to the negative (−ve) terminal of the next. This arrangement allows energy from both cells to combine and push current through the circuit. If cells are placed in the wrong order (e.g., both positive terminals facing the same direction, or one cell reversed), the electrical potentials work against each other, and either very little or no current flows — the lamp does not glow. The battery compartment of a torch typically has '+' and '−' markings and a metal strip connecting terminals to ensure cells are always placed correctly."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "A student forgot to remove the insulating plastic cover from the ends of connecting wires before making a circuit. If the cell and lamp are working properly, will the lamp glow? Explain.",
+      "answer": "No. The plastic covering is an insulator — it will prevent current from flowing through the wire ends, breaking the circuit even if all other connections are correct.",
+      "solution": "For a circuit to work, current must flow continuously through all components. The metal part of the wire (copper core) is the conductor, but the plastic covering on the wire is an insulator. When a wire is used in a circuit, about 1 cm of the plastic insulation must be stripped from each end to expose the bare metal. If the insulation is not removed, the connection points are plastic-to-metal contacts — and since plastic is an insulator, no current can cross the junction. The circuit remains open at those connection points even if all other components are working correctly, so the lamp will not glow."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Why is copper (and not silver or gold) most commonly used for making electrical wires, even though silver and gold are better conductors?",
+      "answer": "Copper is used because it has a comparatively lower cost and is more abundantly available than silver and gold, making it economically practical for large-scale use.",
+      "solution": "Silver is the best electrical conductor, followed by gold and then copper. However, the choice of material for electrical wiring is not determined by conductivity alone — cost and availability are critical factors. Silver and gold are precious metals that are extremely expensive and available in limited quantities. Using them for the kilometres of wiring needed in homes, factories, and cities would be prohibitively costly. Copper, on the other hand, is: (1) A very good conductor (close in performance to silver). (2) Much cheaper than silver and gold. (3) Abundantly available worldwide. (4) Easy to draw into thin wires (ductile). For these reasons, copper is the standard material for electrical wiring worldwide."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "Design an activity using a cell, a lamp, and wires to test whether a given material is a conductor or an insulator.",
+      "answer": "Build a conduction tester: connect a cell and lamp in series with two free wire ends. Touch the free ends to both sides of the test material — if the lamp glows, the material is a conductor; if not, it is an insulator.",
+      "solution": "Step-by-step activity (Conduction Tester — as in Activity 3.11): Materials needed: One electric cell, one lamp, three lengths of wire. Procedure: (1) Connect one wire from the positive terminal of the cell to one terminal of the lamp. (2) Connect a second wire from the other terminal of the lamp, leaving the free end exposed. (3) Connect a third wire from the negative terminal of the cell, leaving the free end exposed. (4) First, touch the two free ends of wire together — the lamp should glow, confirming the tester works. (5) Now touch both free ends to the two ends of the test material. Observation and conclusion: If the lamp glows → current has passed through the material → it is a conductor. If the lamp does not glow → current has not passed → it is an insulator. Repeat for each material, ensuring the free wire ends do not accidentally touch each other."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Why are electrical wires made of copper covered with plastic or rubber? What role does each material play?",
+      "answer": "Copper (conductor) carries the electric current; plastic/rubber (insulator) covering prevents electric shocks and short circuits.",
+      "solution": "Electrical wires have a two-part construction: (1) Copper core (conductor): Copper allows electric current to flow easily with low resistance, efficiently carrying electricity from one point to another. (2) Plastic or rubber covering (insulator): These materials do not allow electric current to pass through them. The insulating cover serves three purposes: (a) Protection from electric shock — prevents people from getting shocked when they touch the wire. (b) Prevention of short circuits — if two bare wires accidentally touch, current takes an unintended path (short circuit); insulation prevents this. (c) Mechanical protection — protects the delicate copper wire from physical damage, moisture, and corrosion. Both conductor and insulator are essential — removing either compromises safety or function."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Explain what happens inside a simple homemade switch (as made in Activity 3.8) when it is turned ON and OFF.",
+      "answer": "When ON, the safety pin touches both drawing pins, completing the circuit — current flows and the lamp glows. When OFF, the safety pin doesn't touch the second pin — the circuit is open and the lamp does not glow.",
+      "solution": "In the homemade switch from Activity 3.8: Construction: A safety pin is pivoted on one drawing pin, with a second drawing pin placed where the free end of the safety pin can touch it. Wires connect to both drawing pins. OFF position: The free end of the safety pin is lifted away from the second drawing pin. There is an air gap between the safety pin and the second drawing pin. The circuit is broken (open circuit) — no complete path exists for current to flow. The lamp does not glow. ON position: The free end of the safety pin is rotated down to touch the second drawing pin. The safety pin now bridges the gap between the two drawing pins, completing the electrical path through the metal safety pin. Current flows from the cell through the circuit and the lamp glows. This demonstrates the fundamental principle behind all switches — they physically make or break the conducting path in a circuit."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Suppose the '+' and '−' symbols cannot be read on a battery. How can you identify its positive and negative terminals?",
+      "answer": "Use a conduction tester (cell + lamp + wires). Connect one terminal of the unknown battery to the tester — if the lamp glows brighter than with just the tester's cell, that terminal is positive; reverse connections to confirm.",
+      "solution": "Method using an LED (most reliable for this chapter): (1) Take an LED whose positive (longer wire) and negative (shorter wire) are known. (2) Connect the longer wire of the LED to one terminal of the unknown battery and the shorter wire to the other terminal. (3) If the LED glows, the terminal connected to the longer wire is positive (+ve) and the one connected to the shorter wire is negative (−ve). (4) If the LED does not glow, reverse the connections — then the terminal connected to the longer wire of the LED is positive. Alternative method: Look inside the battery compartment — manufacturers typically print '+' and '−' symbols inside, and a metal strip or spring connects the terminals of adjacent cells. The terminal connected to the positive of the last cell is the positive terminal of the battery."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "In Fig. 3.17, if the filament of one of two incandescent lamps connected in series is broken, will the other lamp glow? Justify your answer.",
+      "answer": "No. When lamps are in series, a broken filament in one lamp creates an open circuit — current cannot flow through either lamp, so neither glows.",
+      "solution": "When two lamps are connected in series (one after the other in a single loop), the current must flow through both lamps to complete the circuit. If the filament of one lamp breaks: (1) The filament breakage creates a gap (open circuit) in the series path. (2) Current cannot cross this gap. (3) Since the circuit is now open, no current flows through any part of the circuit — including the second lamp. (4) Therefore, neither lamp glows. This is the major disadvantage of a series circuit: if one component fails, the entire circuit stops working. This is why household lights are not connected in series — if they were, all lights would go out when one bulb fused."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "Vidyut made a circuit with a cell and lamp, but the lamp does not glow even after closing the switch. List at least five possible reasons for this failure.",
+      "answer": "Possible reasons: fused lamp, dead/exhausted cell, loose wire connections, insulation not stripped from wire ends, LED connected with wrong polarity, broken wire.",
+      "solution": "When a lamp does not glow in a closed circuit, the problem could be in any component or connection: (1) Fused lamp: The filament inside the lamp is broken — current cannot flow through the lamp. (2) Exhausted/dead cell: The cell has run out of chemical energy and can no longer produce sufficient current. (3) Loose wire connections: Wires not properly touching the terminals of the cell or lamp — incomplete contact means incomplete circuit. (4) Insulation not stripped: The plastic covering on wire ends was not removed — the insulator prevents current from crossing the connection point. (5) Broken wire: A wire may be internally broken even if it looks intact from outside. (6) LED polarity reversed (if using LED): LED connected with wrong polarity allows no current through it. (7) Switch malfunction: The switch may appear ON but not actually be making contact internally. Troubleshooting approach: Replace components one at a time (cell, lamp, wires, switch) to isolate the faulty component."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "An LED requires two cells in series to glow. Tanya connected two cells and an LED, but the LED did not glow. What are the possible reasons, and how should the circuit be corrected?",
+      "answer": "Possible reasons: LED connected with reversed polarity, cells not connected in series, insulation not stripped, loose connections. Correction: connect longer wire of LED to positive of battery and shorter wire to negative, with cells in proper series.",
+      "solution": "For an LED to glow, two conditions must be met simultaneously: (1) The battery must have sufficient voltage — achieved by connecting two cells in series (positive of one to negative of the next). (2) The LED must be connected with correct polarity — longer wire (+ve) to positive terminal of battery; shorter wire (−ve) to negative terminal. Possible reasons for failure: (a) Reversed LED: If the shorter wire of the LED is connected to the positive terminal of the battery, current cannot flow through the LED in that direction — it does not glow. (b) Cells not in series: If both positive terminals face the same direction, the battery is incorrectly assembled and provides insufficient or zero net current. (c) Insulation not stripped: Plastic covers on wire ends block current flow at connection points. (d) Loose connections: Poor contact at any terminal means the circuit is not truly closed. Correct connection procedure: Step 1 — Insert two cells in series in the holder (negative of each cell towards the spring). Step 2 — Identify the positive terminal of the battery (connected to the positive terminal of the last cell). Step 3 — Connect the positive terminal wire of the battery to the longer wire (+ve) of the LED. Step 4 — Connect the negative terminal wire of the battery to the shorter wire (−ve) of the LED. The LED should now glow."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "In a circuit, switch S₁ controls lamp L₁ only, and switch S₂ controls both lamps L₁ and L₂. Determine which lamps glow in each case: (i) S₁ ON, S₂ OFF, (ii) S₁ OFF, S₂ ON, (iii) both ON, (iv) both OFF.",
+      "answer": "(i) No lamp glows. (ii) L₂ glows only. (iii) Both L₁ and L₂ glow. (iv) No lamp glows.",
+      "solution": "Analysis based on the switch control description — S₂ controls the main circuit; S₁ controls only L₁'s branch: (i) S₁ ON, S₂ OFF: S₂ is in the main circuit path and is OFF (open) — no current reaches any lamp. Neither L₁ nor L₂ glows. (ii) S₁ OFF, S₂ ON: S₂ allows current into the circuit. But S₁ (which controls L₁) is OFF, so the path to L₁ is broken and L₁ does not glow. L₂'s path does not go through S₁, so current reaches L₂ and it glows. Only L₂ glows. (iii) Both S₁ and S₂ ON: S₂ allows current into the circuit. S₁ allows current through L₁'s path. Both lamps have complete paths — both L₁ and L₂ glow. (iv) Both OFF: S₂ is OFF — no current enters the circuit at all. Neither lamp glows. Key principle: A switch in series with a lamp controls that lamp; a switch in the main line controls all components downstream."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "You are given six cells labelled A, B, C, D, E, F — some working and some not. Design a complete activity to identify which cells are working. Include: (i) materials required, (ii) procedure, (iii) how to interpret results.",
+      "answer": "Use a known working cell, a lamp, and wires to build a tester. Test each unknown cell one at a time — a glowing lamp indicates a working cell.",
+      "solution": "(i) Materials required: One confirmed working electric cell (to build a reference tester), one incandescent torch lamp and lamp holder, one cell holder, four lengths of wire with insulation stripped from ends, six cells to be tested (A–F). (ii) Procedure: Step 1 — Build a conduction tester: Connect the known working cell in the holder. Connect one wire from its positive terminal to one terminal of the lamp, and another wire from the lamp's other terminal back to the cell's negative terminal. Confirm the lamp glows — the tester works. Step 2 — Modify the tester to test unknown cells: Remove the known working cell. Leave two free wire ends — one from the positive side of the holder and one from the negative side. Step 3 — Insert cell A into the holder (negative end towards the spring). Close the circuit — observe if the lamp glows. Record the result. Step 4 — Repeat Step 3 for cells B, C, D, E, and F individually. (iii) Interpreting results: Lamp glows brightly → Cell is working (has sufficient charge). Lamp glows dimly → Cell is partially discharged (low charge remaining). Lamp does not glow at all → Cell is dead/exhausted (not working). Verification: Cross-check any borderline results by connecting two suspected working cells in series — if the lamp glows significantly brighter, those cells still have charge."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Why is the human body considered dangerous in the context of electricity? Explain with reference to conductors and insulators, and list four electrical safety rules.",
+      "answer": "The human body is a conductor of electricity. If current passes through it, it can cause severe injury or death. Safety rules include: no wet hands on switches, no damaged equipment, no mains experiments, use insulated tools.",
+      "solution": "The human body contains water and dissolved salts (electrolytes), which make it a reasonably good conductor of electricity. This means that if a person accidentally touches a live electrical wire or component, current can flow through their body as part of the circuit — just as it flows through a copper wire. Effects of electric current on the human body: (1) Mild shock — tingling, muscle contraction. (2) Severe shock — burns, heart arrhythmia, respiratory failure. (3) High current — cardiac arrest, severe burns, death. Why wet hands are especially dangerous: Water on hands dramatically lowers the electrical resistance of the skin (the main barrier). Wet skin allows much more current to flow into the body for the same voltage — greatly increasing the danger. Four electrical safety rules from the chapter: (1) Never touch switches or plugs with wet hands. (2) Never use electrical devices in wet areas. (3) Never handle equipment with damaged insulation or broken plugs — exposed conductors can allow current to flow through the body. (4) For experiments, use only cells or batteries — never experiment with mains electricity or portable generators, as their voltage is high enough to be lethal."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "A circuit has a cell, a switch, and two lamps. When the switch is closed, both lamps glow but one glows dimly. Explain what could cause this, and how the circuit arrangement affects lamp brightness.",
+      "answer": "The dimly glowing lamp may have a faulty connection, a damaged filament, or both lamps may be in series — series circuits divide voltage, causing dimmer light than a single lamp.",
+      "solution": "Several factors can cause one lamp to glow dimly while the other glows brightly: Cause 1 — Series connection of lamps: If both lamps are connected in series (one after the other in the same loop), the total voltage from the cell is shared between the two lamps. Each lamp receives less voltage than if it were alone in the circuit, so both glow less brightly than a single lamp would. If one lamp has slightly higher resistance than the other, it will receive more voltage and glow brighter, while the other gets less voltage and glows dimmer. Cause 2 — Poor/loose connection at one lamp: A loose wire connection at one lamp's terminal increases resistance at that point. This reduces current through that lamp, making it glow dimly. The other lamp, with a good connection, receives more effective current and glows normally. Cause 3 — Partially fused filament: If the filament of one lamp is partially broken (thin spot), its resistance increases, reducing current through it — it glows dimly. The other lamp is unaffected. Cause 4 — Partially discharged cell: If the cell is running low, it may not supply enough current for both lamps to glow at full brightness. The lamp with slightly lower resistance will glow brighter. Diagnostic approach: (1) Replace the dim lamp — if it then glows brightly, the first lamp was faulty. (2) Check and tighten all connections. (3) Test the cell separately. (4) Reconfigure lamps in parallel if possible."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Prepare a list of objects in a home and classify them as: (i) electrical insulators only, (ii) electrical conductors only, (iii) objects made of both conductors and insulators.",
+      "answer": "(i) Insulators only: rubber eraser, glass bangle, plastic scale. (ii) Conductors only: copper coin, iron nail, aluminium foil. (iii) Both: electric plug, switch, electric wire, electric kettle.",
+      "solution": "This question requires applying the concept of conductors and insulators to everyday objects: (i) Electrical insulators only (entire object is insulating): Rubber eraser — made entirely of rubber (insulator). Glass bangle — made entirely of glass (insulator). Plastic scale/ruler — made entirely of plastic (insulator). Wooden stick — made entirely of wood (insulator). Candle — made of wax (insulator). Ceramic cup — made of ceramic/porcelain (insulator). (ii) Electrical conductors only (entire object is conducting): Copper coin — made entirely of copper (conductor). Iron nail — made entirely of iron (conductor). Aluminium foil — made entirely of aluminium (conductor). Stainless steel spoon — made entirely of metal (conductor). (iii) Objects made of BOTH conductors and insulators: Electric plug — copper pins (conductor) inside a plastic body (insulator). Electric switch — metal contacts (conductor) inside a plastic or ceramic casing (insulator). Electric wire — copper core (conductor) covered in plastic or rubber (insulator). Electric kettle — metal heating element (conductor) with a plastic handle and body (insulator). Scissors — metal blades (conductor) with plastic/rubber handles (insulator). This classification shows that most electrical devices deliberately combine conductors (to carry current where needed) and insulators (to prevent current from going where it shouldn't)."
+    }
+  ]
+}

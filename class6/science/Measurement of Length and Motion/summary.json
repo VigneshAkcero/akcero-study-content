@@ -1,0 +1,36 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Measurement of Length and Motion",
+    "chapter_number": 5
+  },
+  "summary": [
+    {
+      "category": "Measurement and Standards",
+      "points": [
+        "Standardized SI units like the metre (m) replace irregular non-standard units (balisht, angula) to ensure uniform measurements globally.",
+        "Crucial conversions: 1 km = 1000 m, 1 m = 100 cm, 1 cm = 10 mm. Non-SI conversions like 1 inch = 2.54 cm are also used.",
+        "SI symbols (km, m, cm, mm) are always written in lowercase, followed by a space after the numeric value (e.g., 5 kg)."
+      ]
+    },
+    {
+      "category": "Techniques for Accuracy",
+      "points": [
+        "For accurate measurement, the scale must be in parallel contact with the object, and your eye must be positioned directly above the marking (position B) to avoid parallax error.",
+        "Measurements with broken scales involve starting from a full mark and subtracting it from the final reading (Final mark - Initial mark).",
+        "Irregular boundaries are measured using thread-alignment techniques or counting wheel rotations (Activity 5.8 Jones Counter principle)."
+      ]
+    },
+    {
+      "category": "Position and Types of Motion",
+      "points": [
+        "Position is described relative to a fixed reference point; motion is the change in that position over time.",
+        "Linear (Rectilinear) Motion: Movement along a straight line path.",
+        "Circular Motion: Movement along a circular path about a center.",
+        "Oscillatory Motion: To-and-fro movement about a fixed position.",
+        "Periodic Motion: Any motion that repeats itself at regular intervals; most circular and oscillatory movements are periodic."
+      ]
+    }
+  ]
+}

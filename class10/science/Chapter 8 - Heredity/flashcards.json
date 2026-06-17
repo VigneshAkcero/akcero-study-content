@@ -1,0 +1,33 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Heredity",
+    "chapter_number": 8
+  },
+  "flashcards": [
+    { "q": "What is heredity?", "a": "The biological process by which traits and characteristics are reliably inherited from parents to offspring." },
+    { "q": "What is a gene?", "a": "A specific section of DNA that provides the structural molecular instructions for manufacturing one specific protein." },
+    { "q": "What are chromosomes?", "a": "Separate, independent structured pieces of densely packed DNA present in pairs inside cellular nuclei." },
+    { "q": "Name the scientist who worked out the foundational mathematical rules of inheritance.", "a": "Gregor Johann Mendel." },
+    { "q": "Which organism did Mendel use extensively for his inheritance experiments?", "a": "Garden peas." },
+    { "q": "What is a dominant trait?", "a": "An inherited trait that fully expresses itself physically even if only a single genetic copy is present (e.g., 'T' for tallness)." },
+    { "q": "What is a recessive trait?", "a": "An inherited characteristic that unvaryingly remains physically hidden unless both inherited genetic copies are entirely identical (e.g., 'tt' for shortness)." },
+    { "q": "What does F1 progeny denote?", "a": "The first-generation offspring directly produced by crossing two distinct parental lines." },
+    { "q": "What does F2 progeny denote?", "a": "The second-generation offspring produced primarily by successfully self-pollinating the F1 generation." },
+    { "q": "What was the consistent physical ratio of tall to short plants in the F2 generation of Mendel's monohybrid cross?", "a": "3:1 (Three tall plants for every one short plant)." },
+    { "q": "What did the spontaneous appearance of entirely new trait combinations in the F2 dihybrid cross mathematically prove?", "a": "That different traits (like plant height and seed shape) are inherited completely independently of each other." },
+    { "q": "How do inherited genes essentially control physical characteristics?", "a": "By dictating the structural efficiency of protein production, which in turn precisely regulates specific cellular hormones." },
+    { "q": "How many identical copies of each chromosome does a normal human body cell natively possess?", "a": "Two copies (one firmly maternal, one firmly paternal)." },
+    { "q": "How many copies of chromosomes do specialized germ-cells (gametes) possess?", "a": "Only a single, un-paired set (exactly one copy of each chromosome)." },
+    { "q": "How is the biological sex strictly determined in a few specific reptiles?", "a": "It is completely determined by the explicit environmental incubation temperature to which the fertilised eggs are subjected." },
+    { "q": "How is biological sex determined in human beings?", "a": "It is strictly and exclusively genetically determined by the specific sex chromosomes physically inherited from parents." },
+    { "q": "What is the structural pairing of sex chromosomes found in a human female?", "a": "XX (a perfect, matching pair of X chromosomes)." },
+    { "q": "What is the structural pairing of sex chromosomes found in a human male?", "a": "XY (a notably mismatched pair holding one X and a shorter Y chromosome)." },
+    { "q": "From which specific parent do all human children inevitably and unconditionally inherit an X chromosome?", "a": "The mother." },
+    { "q": "Which parent's chromosomal contribution definitively decides the biological sex of a newly formed human child?", "a": "The father (depending statistically on whether his fertilising sperm carries an X or a Y chromosome)." },
+    { "q": "Mathematically, what is the statistical probability of a human couple naturally having a boy versus a girl?", "a": "Exactly 50% (a 1:1 inherent statistical ratio)." },
+    { "q": "What is inherited biological variation?", "a": "The visible and subtle functional differences perpetually existing among the individual offspring of a continuously reproducing species." },
+    { "q": "Which fundamental type of reproduction intrinsically generates the maximum quantity of successfully distinct variations?", "a": "Sexual reproduction." }
+  ]
+}

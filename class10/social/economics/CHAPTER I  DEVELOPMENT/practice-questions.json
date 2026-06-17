@@ -1,0 +1,150 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Social Science (Economics)",
+    "chapter_name": "Development",
+    "chapter_number": 1
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is development?",
+      "answer": "Development is a multidimensional process that involves achieving aspirations, improving living conditions, and meeting needs across economic, social, health, education, and environmental dimensions.",
+      "solution": "Development cannot be defined by income alone. It encompasses various aspects of human well-being including security, respect, freedom, equality, health, education, and dignity. Different people and societies have different notions of what development means based on their specific contexts and priorities."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Define per capita income and explain why it is used to classify countries.",
+      "answer": "Per capita income is the average income of a country, calculated by dividing total national income by total population. It is used because it provides a comparable measure across countries and reflects the average purchasing power and resource availability per person.",
+      "solution": "Per capita income = Total income of country / Total population. This measure allows meaningful comparison between countries with different sizes. According to World Bank reports, countries with per capita income of US$ 63,400 or above are classified as high-income countries, while those with US$ 2,400 or less are low-income countries. India falls into the low-middle income category at approximately US$ 10,030 per annum."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Name two health/education indicators used to measure development.",
+      "answer": "Infant Mortality Rate (IMR) and Literacy Rate are two key health and education indicators used to measure development.",
+      "solution": "Infant Mortality Rate measures the number of children (per 1,000 live births) who die before reaching one year of age. Lower IMR indicates better healthcare and living conditions. Literacy Rate measures the percentage of population aged 7 and above who can read and write, reflecting educational development and social progress. Other indicators include life expectancy, net attendance ratio, and mean years of schooling."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What is the Human Development Index (HDI) and why is it important?",
+      "answer": "HDI is a composite measure that ranks countries based on three dimensions: life expectancy (health), mean years of schooling (education), and per capita income. It is important because it emphasizes that development is fundamentally about human well-being, not just economic growth.",
+      "solution": "The United Nations Development Programme publishes the HDI in its Human Development Reports. By combining health, education, and income, HDI provides a more comprehensive view of development than income alone. For example, Sri Lanka ranks higher in HDI than India despite lower income in some metrics, demonstrating that development involves multiple factors. The prefix 'Human' in HDI emphasizes that development ultimately serves people, not abstract economic indicators."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Distinguish between renewable and non-renewable resources.",
+      "answer": "Renewable resources are replenished by nature (crops, water, forests), while non-renewable resources have a fixed stock and cannot be replenished once exhausted (crude oil, coal, minerals).",
+      "solution": "Renewable resources can be used sustainably if extraction does not exceed replenishment rates. However, overuse can lead to depletion—for example, groundwater depletion in India occurs when extraction exceeds rainfall replenishment. Non-renewable resources have definite depletion timelines; global crude oil reserves are estimated to last only 47 years at current extraction rates. Understanding this distinction is crucial for sustainable development planning."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "Compare the developmental aspirations of a landless rural labourer and a prosperous farmer. Why might their goals conflict?",
+      "answer": "A landless labourer seeks more days of work, better wages, quality education, and freedom from discrimination. A prosperous farmer wants higher support prices, settled children abroad, and economic stability. Their goals conflict because increased labour regulations might increase farmer costs, reducing profits, while cheaper labour benefits farmers but keeps labourers poor.",
+      "solution": "Both groups seek development but through different means. A landless labourer's development requires employment security and wage protection, while a farmer's development requires profitable agricultural output and market access. These interests can conflict: minimum wage laws protect labourers but increase farm costs for farmers. Similarly, agricultural subsidies benefit farmers but may not directly help landless labourers. This demonstrates that national development must balance diverse, sometimes conflicting interests through democratic processes."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "Why might a girl from a wealthy urban family and a girl from a rural area have different developmental goals? Explain with examples.",
+      "answer": "A wealthy urban girl might focus on educational excellence and career opportunities, having basic needs already met. A rural girl might prioritize freedom to study at all, as rural areas often lack school facilities, particularly secondary schools. Access to resources shapes aspirations.",
+      "solution": "A girl from a wealthy urban family might seek admission to prestigious universities or professional courses, assuming education access and family support for education. A rural girl's immediate goal might be to attend secondary school, as enrollment ratios for girls aged 15-17 in rural areas like Bihar are low (62%). Her developmental goal includes overcoming obstacles like distance to schools, lack of facilities, and social barriers. Similarly, an urban girl might prioritize career choice and workplace equality, while a rural girl might prioritize basic education access and freedom from early marriage. These differences reflect unequal access to resources and opportunities across regions."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "Explain with an example why per capita income alone is not a sufficient indicator of development.",
+      "answer": "Two hypothetical countries with identical average income (Rs 6,000) can have very different living standards. Country A with equal income distribution has most people neither very rich nor extremely poor. Country B with unequal distribution has most people poor despite same average income, indicating per capita income hides inequality.",
+      "solution": "Consider two countries, each with five citizens and identical per capita income of Rs 6,000. In Country A, incomes are 5,700, 5,900, 6,000, 6,100, 6,300 rupees—relatively equal. In Country B, incomes are 500, 500, 500, 500, and 29,500 rupees—highly unequal. In Country A, most people have decent living standards. In Country B, 80% are impoverished despite higher average. This shows per capita income can rise due to wealth concentration without benefiting most people. Measures like literacy, health, and income distribution are more meaningful for assessing actual development outcomes."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "Compare the development status of Kerala and Haryana using multiple indicators. What does this comparison reveal about development measurement?",
+      "answer": "Haryana has higher per capita income (Rs 2,64,729) than Kerala (Rs 2,34,405), ranking it as 'more developed' by income. However, Kerala has lower infant mortality (6 vs. 28 per 1,000 births) and higher literacy (94% vs. 82%). This reveals that income alone is insufficient; health and education indicators are equally important.",
+      "solution": "By income criterion, Haryana appears more developed. However, Kerala's superior health outcomes—reflected in lower infant mortality—indicate better healthcare systems and living conditions. Higher literacy rates in Kerala suggest better educational infrastructure and social awareness. These differences exist despite income disparities because Kerala invested heavily in public health and education systems, while Haryana's income concentration limits public service reach. This comparison demonstrates that development requires multi-indicator assessment. A parent losing a child before age one (Haryana's 28 per 1,000 mortality) faces greater hardship than income differences suggest. Development, therefore, must be measured through health, education, and income together."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Medium",
+      "question": "Why is collective provision of public services more effective than individual purchase for development?",
+      "answer": "Collective provision ensures equitable access regardless of income, reduces per-person costs through economies of scale, and addresses community-wide needs (disease prevention, security) that individual purchase cannot. For example, government schools make education universally accessible, not just for wealthy families.",
+      "solution": "Consider healthcare during disease outbreaks: individual families cannot purchase protection against infectious diseases; community-wide vaccination and sanitation measures are necessary. Similarly, one household cannot purchase a pollution-free environment; collective environmental protection is required. Education through government schools is cheaper per child than private education, yet reaches all children, increasing overall literacy. Public water systems serve entire communities efficiently, while individual wells are expensive and limited. The Public Distribution System in Kerala reaches 90% of rural people, improving nutrition widely; in West Bengal with only 35% coverage, nutrition outcomes lag. Collective provision aligns with democratic values of equality and ensures development reaches all citizens, not just the wealthy."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Explain why India's HDI rank (134) is lower than its per capita income would suggest. What does this indicate?",
+      "answer": "India has lower HDI rank than expected because while per capita income is US$ 6,951, life expectancy is 67.7 years and mean schooling is only 6.5 years. Sri Lanka with lower income has better outcomes, indicating India lags in converting income to health and education.",
+      "solution": "HDI combines income with health (life expectancy) and education (schooling years). India's per capita income is higher than Nepal and Bangladesh, yet their life expectancies are comparable or higher, and Bangladesh's schooling (7.4 years) exceeds India's (6.5 years). This gap indicates that India's income is not effectively translating into better health and education outcomes. Possible reasons include: unequal income distribution limiting public healthcare access, inadequate public education funding, and poor implementation of health and education programs. This comparison reveals that earning more income is insufficient for development; effective public systems and equitable distribution are equally important. India needs to improve public health and education services to better convert economic resources into human development."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "What is the difference between a developmental goal and a conflicting developmental goal? Give an example from the chapter.",
+      "answer": "A developmental goal is what a group aspires to achieve for improvement. A conflicting developmental goal occurs when two groups seek different outcomes that cannot be achieved simultaneously. Building dams for electricity benefits industrialists but displaces tribals, creating conflict between industrial development and tribal livelihoods.",
+      "solution": "From the chapter, the Narmada dam project illustrates this conflict. Industrialists seek higher dams for greater electricity generation to support industrial development. Tribals in the valley depend on their land for survival and livelihoods; dam construction displaces and disrupts their lives. Both groups desire development, but their paths conflict. Similarly, girls seeking freedom and equal household work participation may conflict with traditional family structures. A girl's development goal of educational freedom may conflict with family expectations of early marriage. Another example: building industries for job creation and economic growth may conflict with environmental sustainability if industries pollute. National development requires democratic processes to negotiate such conflicts and determine whose development gets priority."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "Analyse the groundwater depletion case in India using concepts of sustainability and resource management. What are the long-term consequences if current trends continue?",
+      "answer": "India's groundwater is a renewable resource, but extraction (particularly in Punjab, Haryana, Western UP) exceeds rainfall replenishment. About 300 districts show 4-meter declines in 20 years. At current rates, 60% of India could face water scarcity within 25 years. Long-term consequences include agricultural collapse, drinking water crisis, and regional conflicts.",
+      "solution": "Groundwater depletion illustrates the sustainability challenge. It is renewable—rainfall replenishes it—but renewable resources can be exhausted through overuse. In prosperous agricultural regions, cheap electricity subsidies incentivize tube well extraction, making short-term profit attractive despite long-term depletion. Farmers extract more than rainfall replenishes, creating a deficit. Consequences are severe: agriculture depends on groundwater irrigation; without it, crop production collapses, threatening food security and farmer livelihoods. Drinking water becomes scarce, affecting public health. Regions compete for remaining water, risking conflict. This case shows that development (agricultural prosperity through irrigation) created unsustainability. Long-term solutions require transitioning to sustainable irrigation (check dams, micro-irrigation, water-harvesting) and reforming electricity subsidies to reduce incentives for overextraction. This exemplifies how present development patterns threaten future generations, making sustainable development essential."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "Compare India's crude oil situation with that of the USA and the Middle East. What challenges does India's crude oil dependence present for development?",
+      "answer": "Middle East has 70 years of crude oil reserves; USA has 10.5 years. India has minimal reserves and imports most crude oil. As global reserves deplete and prices rise, India faces increased energy costs, economic burden, and geopolitical vulnerability, threatening developmental stability.",
+      "solution": "Global crude oil reserves last approximately 47 years at current extraction rates. However, distribution is unequal: Middle East controls 836 thousand million barrels (abundant supply); USA has only 69 thousand million barrels (minimal reserves). India has negligible domestic reserves, relying entirely on imports. As oil depletes globally, prices will rise, increasing India's import costs and straining national finances. This creates multiple challenges: energy security becomes geopolitical vulnerability (oil-producing nations hold economic power over importers); rising energy costs increase inflation, affecting all sectors; industrial competitiveness declines as energy becomes expensive. Further, oil-dependent economies face transition risks when reserves eventually exhaust. For sustainable development, India must: reduce oil dependency through renewable energy transition (solar, wind, hydro); improve energy efficiency; invest in public transportation to reduce fuel consumption. The crude oil case demonstrates that development dependent on depleting resources is unsustainable. National development strategy must shift toward renewable energy and resource-efficient systems."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "Using the example of health and education in Kerala versus Haryana, explain how development is about more than just earning money. What role do government policies play?",
+      "answer": "Despite lower per capita income, Kerala has better health (IMR: 6 vs. 28) and education (literacy: 94% vs. 82%). This shows development depends on public services, not just individual income. Kerala's effective healthcare and education policies have created better human development despite less income per person.",
+      "solution": "The Kerala-Haryana comparison reveals development's true nature. Haryana's higher average income suggests greater purchasing power per person, yet parents there face three times higher infant mortality risk than in Kerala. This paradox occurs because development is not purchasable only through income; it requires functional public systems. Kerala invested historically in public healthcare infrastructure, immunization programs, maternal care, and literacy campaigns. These public investments created positive health and education outcomes. A poor family in Kerala benefits from government schools and health services equally as wealthy families; education and healthcare access do not depend on family income. Haryana's public systems, though present, are less comprehensive, forcing wealthier families to afford private services while poor families access inferior public services. Government policies—prioritizing healthcare funding, teacher recruitment, school infrastructure—determine development outcomes. Investment in public services is more cost-effective and equitable than relying on individual income. This shows development is fundamentally about collective decisions and public investment, not just individual earnings."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Hard",
+      "question": "Discuss why environmental degradation and resource depletion are global issues, not just national concerns. How does this affect India's development strategy?",
+      "answer": "Environmental degradation (pollution, climate change, water depletion) crosses borders. One nation's overuse of resources affects neighboring regions and global systems. India's groundwater depletion affects downstream states; air pollution affects entire South Asia; climate change impacts all nations. Development must consider these cross-border effects.",
+      "solution": "Groundwater depletion in Punjab affects water availability in downstream regions and neighboring countries, creating resource scarcity beyond state boundaries. Air pollution in industrial regions affects neighboring states' air quality and public health across regions. Climate change from emissions anywhere affects monsoon patterns and agricultural productivity across South Asia. This interdependence means development pursued through unsustainable resource use creates global problems. For example, crude oil dependence drives global competition for dwindling reserves, increasing geopolitical tensions and conflicts. India's development cannot ignore these global realities. A sustainable development strategy requires: transitioning to renewable energy (reducing oil dependence and emissions); adopting water-conservation technologies (addressing groundwater depletion); building regional cooperation for shared resources like rivers; meeting international climate commitments; investing in cleaner technologies. India must balance development needs with environmental sustainability because degradation anywhere affects development everywhere. This requires coordination among scientists, economists, and policymakers—a multidisciplinary approach to ensuring development serves both present and future generations across all nations."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Hard",
+      "question": "Critically examine the statement: 'Development means different things to different people.' Is it possible to achieve a common definition of development for national planning?",
+      "answer": "Development varies across individuals based on aspirations and life situations. However, at national level, democratic processes must identify common priorities. Democratic debate, consultation, and compromise create a working definition balancing diverse interests, though some conflicts remain unresolvable.",
+      "solution": "The chapter establishes that development is subjective: a landless labourer seeks wage security; a farmer seeks profitable markets; a girl seeks educational freedom; a tribal seeks land rights. Each group's development goals reflect their context. However, nations cannot pursue all goals simultaneously; resources are limited. Democratic societies resolve this through: public consultation and debate; transparent decision-making processes; constitutional protections for vulnerable groups; electoral representation ensuring diverse interests are heard. For example, building dams involves consulting affected tribals, farmers, industrialists, and environmentalists before decisions. India's constitutional goals (free education, healthcare, dignity) represent democratic consensus on development priorities. Yet conflicts persist: agricultural development may conflict with tribal rights; industrial growth may conflict with environmental sustainability. Democratic processes don't eliminate conflicts but ensure fair negotiation and minority protection. Therefore, a common national definition emerges through democratic debate, not absolute agreement. Development planning must: clearly identify whose development is prioritized; ensure vulnerable groups have voice; balance competing interests equitably; review decisions as conditions change. A truly developed nation is one where diverse groups can participate in defining development itself."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Hard",
+      "question": "Using data from the chapter, explain why Sri Lanka has a higher HDI rank than India despite lower per capita income. What does this suggest about development strategies?",
+      "answer": "Sri Lanka (GNI $11,899, HDI rank 78) has higher rank than India (GNI $6,951, HDI rank 134) due to superior life expectancy (76.6 vs. 67.7 years) and schooling (11.2 vs. 6.5 years). This suggests effective public health and education investment matters more for development than absolute income level.",
+      "solution": "Comparing Sri Lanka and India reveals development's priorities. Sri Lanka's per capita income is nearly double India's, yet this alone doesn't explain the HDI gap. The critical difference is investment in human capabilities: Sri Lanka achieved 76.6 years life expectancy through effective healthcare systems; India's 67.7 years reflects healthcare gaps. Sri Lanka's 11.2 mean schooling years shows sustained educational investment; India's 6.5 years indicates incomplete schooling coverage, especially among girls and rural populations. Sri Lanka demonstrates that development strategy focusing on education and health—even with lower income—produces better human development outcomes than income-focused strategies. This suggests: (1) Public investment in healthcare and education generates better returns than income concentration; (2) Equitable public service distribution is more effective than relying on individual income; (3) Long-term human development requires educational and health priorities. For India, this means: expanding public education to reduce school dropout; improving rural healthcare access; funding teacher and healthcare worker recruitment; reducing regional disparities. Sri Lanka's experience shows development isn't determined by income level but by strategic priorities and public service quality. Poor nations can achieve high development if they prioritize education and health effectively."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Hard",
+      "question": "Evaluate the concept of sustainable development in the context of India's groundwater and crude oil situations. What policy changes are necessary for sustainable development?",
+      "answer": "Current development patterns in India are unsustainable: groundwater extraction exceeds replenishment; crude oil imports depend on depleting global reserves. Sustainable development requires: transitioning to renewable energy; water-conservation technologies; agricultural reforms; regional cooperation; long-term planning balancing present needs with future viability.",
+      "solution": "Sustainable development—meeting present needs without compromising future generations—is incompatible with current resource extraction patterns. Groundwater depletion: Farmers extract more than rainfall replenishes, creating deficit. Solutions include: micro-irrigation reducing water waste; shifting to drought-resistant crops; reforming electricity subsidies to reduce extraction incentives; rainwater harvesting and check dams; inter-state water-sharing agreements respecting downstream needs. Crude oil dependence: India relies on imports of depleting global reserves. Solutions include: renewable energy investment (solar farms, wind turbines); public transportation reducing fuel consumption; electric vehicle promotion; industrial energy efficiency; research into alternative fuels. Both issues require: long-term policy frameworks beyond election cycles; investment in green technologies; public awareness of sustainability; international cooperation on climate and resources; scientific research guiding decisions; democratic consultation ensuring just transition. Policy changes must protect vulnerable groups: farmers depending on irrigation need alternative livelihoods during transition; workers in oil industries need reskilling. Sustainable development is achievable but requires political will to prioritize future well-being alongside present growth, and investments in technologies and systems enabling this transition."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "Analyse conflicting developmental goals in the context of building dams for hydroelectric power. How should democracies resolve such conflicts fairly?",
+      "answer": "Dam construction creates conflicts: industrialists seek electricity for development; tribals depend on submerged land for livelihoods. Democratic resolution requires: transparent consultation; environmental impact assessment; alternative livelihood provisions for displaced people; constitutional protections for minority rights; review mechanisms for decision outcomes.",
+      "solution": "Dam projects like Sardar Sarovar illustrate development conflicts. Industrialists' goal (more electricity for industrial growth and jobs) conflicts with tribals' goal (livelihood security and cultural preservation). Both goals represent legitimate development aspirations within their contexts. Democratic resolution requires: (1) Transparent Consultation: Affected groups must participate in decision-making, not be informed after decisions. Environmental impact assessments should be public, allowing informed debate. (2) Equitable Compensation: If tribals are displaced, they deserve compensation and resettlement ensuring living standards don't decline. Rehabilitation should be meaningful, not merely financial. (3) Alternative Solutions: Smaller dams, check dams, or other renewable energy sources should be explored before choosing displacement. (4) Constitutional Protections: Minorities' rights must be protected; decisions shouldn't prioritize majority's development over minorities' survival. (5) Review Mechanisms: Post-implementation assessment should verify whether promised benefits materialized and whether displaced people's welfare improved. (6) Time-bound Resolution: Decisions shouldn't be delayed indefinitely, but rushed decisions without adequate consultation are unjust. Democratic societies must balance development goals while protecting vulnerable groups. Sometimes no solution satisfies all; democracy's value is ensuring fair negotiation and minority voice in decisions affecting them."
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "The Human Eye and the Colorful World",
+    "chapter_number": 10
+  },
+  "notes": [
+    {
+      "section_title": "10.1 The Human Eye",
+      "topics": [
+        {
+          "topic_name": "Structure and Function",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The human eye is essentially a camera-like biological system that captures images on a light-sensitive screen called the retina. Light enters through the cornea, a thin transparent membrane on the front surface of the approximately spherical eyeball (2.3 cm diameter)."
+            },
+            {
+              "type": "list",
+              "title": "Key Parts of the Eye",
+              "items": [
+                "Cornea: The outer surface where most refraction occurs.",
+                "Iris: A dark muscular diaphragm behind the cornea that controls the pupil size.",
+                "Pupil: Regulates the amount of light entering the eye.",
+                "Eye Lens: A crystalline lens made of fibrous, jelly-like material that provides fine focal length adjustments.",
+                "Retina: A delicate membrane with light-sensitive cells that generate electrical signals.",
+                "Optic Nerves: Transmit signals from the retina to the brain for processing into perceptions."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Power of Accommodation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Accommodation is the ability of the eye lens to adjust its focal length using ciliary muscles. When muscles relax, the lens becomes thin (high focal length) for distant vision; when they contract, the lens becomes thick (low focal length) for nearby vision."
+            },
+            {
+              "type": "note",
+              "title": "Near and Far Points",
+              "text": "The 'near point' (least distance of distinct vision) is about 25 cm for a normal adult eye. The 'far point' is infinity. A normal eye can see clearly from 25 cm to infinity."
+            },
+            {
+              "type": "note",
+              "title": "Cataract",
+              "text": "In old age, the eye lens may become milky or cloudy, leading to partial or complete vision loss. This condition is cataract and is curable through surgery."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "10.2 Defects of Vision and Their Correction",
+      "topics": [
+        {
+          "topic_name": "Myopia (Near-sightedness)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A myopic person sees nearby objects clearly but cannot see distant objects distinctly because the image forms 'in front' of the retina. This arises from excessive lens curvature or eyeball elongation."
+            },
+            {
+              "type": "note",
+              "title": "Correction",
+              "text": "Myopia is corrected using a concave lens (diverging) of suitable power to shift the image back onto the retina."
+            }
+          ]
+        },
+        {
+          "topic_name": "Hypermetropia (Far-sightedness)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A hypermetropic person sees distant objects clearly but cannot see nearby objects distinctly (the near point recedes beyond 25 cm). The image forms 'behind' the retina due to a long focal length or a small eyeball."
+            },
+            {
+              "type": "note",
+              "title": "Correction",
+              "text": "Hypermetropia is corrected using a convex lens (converging) of suitable power to provide additional focusing power."
+            }
+          ]
+        },
+        {
+          "topic_name": "Presbyopia",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Presbyopia is the loss of accommodation power due to aging, caused by weakened ciliary muscles and reduced lens flexibility. It often requires bifocal lenses (concave top for distance, convex bottom for near vision)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Eye Donation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Eyes can be donated after death to cure corneal blindness. Donors can be of any age, sex, or medical history (even if they wore spectacles or had cataract surgery). Eyes must be removed within 4-6 hours of death."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "10.3 - 10.4 Prism and Dispersion",
+      "topics": [
+        {
+          "topic_name": "Refraction through a Prism",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A triangular prism has two triangular bases and three rectangular lateral surfaces. When light passes through, it bends at the two non-parallel surfaces, resulting in an emergent ray that is not parallel to the incident ray."
+            },
+            {
+              "type": "note",
+              "title": "Angle of Deviation (D)",
+              "text": "The unique angle between the direction of the incident ray and the emergent ray is called the angle of deviation."
+            },
+            {
+              "type": "activity",
+              "id": "10.1",
+              "title": "Tracing light through a Prism",
+              "procedure": [
+                "Fix paper, trace prism outline, and draw incident ray PE.",
+                "Fix pins P and Q on PE, view their images through the other face, and fix R and S.",
+                "Note the bending towards and away from the normals at the two interfaces."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Dispersion of White Light",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Dispersion is the splitting of white light into its component colors (VIBGYOR) because different colors bend through different angles relative to the incident ray. Red bends the least, while violet bends the most."
+            },
+            {
+              "type": "activity",
+              "id": "10.2",
+              "title": "Splitting Light into a Spectrum",
+              "procedure": [
+                "Allow a narrow beam of sunlight to fall on a glass prism.",
+                "Observe the beautiful band of colors (spectrum) on a screen."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Newton's Experiment",
+              "text": "Isaac Newton used two identical prisms—one inverted—to recombine the spectrum back into white light, proving that sunlight is made of seven colors."
+            },
+            {
+              "type": "note",
+              "title": "Rainbow Formation",
+              "text": "A natural spectrum caused by atmospheric water droplets acting as prisms. It involves the refraction, dispersion, and internal reflection of sunlight opposite to the Sun's position."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "10.5 Atmospheric Refraction",
+      "topics": [
+        {
+          "topic_name": "Twinkling of Stars",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Starlight undergoes continuous refraction through air layers of varying density and refractive index. Since stars are distant point sources, their apparent position and brightness fluctuate (twinkling)."
+            },
+            {
+              "type": "note",
+              "title": "Why don't Planets twinkle?",
+              "text": "Planets are closer and seen as 'extended sources' (collections of point sources). The net variation in total light averages out to zero, nullifying the twinkling effect."
+            }
+          ]
+        },
+        {
+          "topic_name": "Advance Sunrise and Delayed Sunset",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Due to atmospheric refraction, the Sun is visible about 2 minutes before the actual sunrise and 2 minutes after the actual sunset. This bending makes the Sun's disc appear flattened at the horizon."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "10.6 Scattering of Light",
+      "topics": [
+        {
+          "topic_name": "Tyndall Effect",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The scattering of light by colloidal particles in a multi-component mixture (like air with smoke or dust). This makes the path of a light beam visible, such as sunlight through a forest canopy."
+            }
+          ]
+        },
+        {
+          "topic_name": "Blue Sky and Red Danger Signals",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Fine particles in the atmosphere scatter shorter wavelengths (blue) more strongly than longer ones (red). This scattered blue light makes the clear sky look blue."
+            },
+            {
+              "type": "note",
+              "title": "Danger Signals",
+              "text": "Red is least scattered by fog or smoke, allowing it to remain visible over long distances."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Retina", "definition": "A light-sensitive screen where the eye lens forms a real and inverted image." },
+    { "term": "Power of Accommodation", "definition": "The ability of the eye lens to adjust its focal length using ciliary muscles." },
+    { "term": "Myopia", "definition": "Near-sightedness; a defect where the image of distant objects is focused in front of the retina." },
+    { "term": "Hypermetropia", "definition": "Far-sightedness; a defect where the image of nearby objects is focused beyond the retina." },
+    { "term": "Dispersion", "definition": "The splitting of white light into its core component colors (VIBGYOR)." },
+    { "term": "Atmospheric Refraction", "definition": "The bending of light caused by layers of air with differing densities in the Earth's atmosphere." },
+    { "term": "Spectrum", "definition": "The band of colored components obtained when a light beam is dispersed." },
+    { "term": "Tyndall Effect", "definition": "The phenomenon of scattering of light by particles in a colloid or a very fine suspension." },
+    { "term": "Cataract", "definition": "A condition where the crystalline lens becomes milky and cloudy, leading to vision loss." }
+  ],
+  "summary_points": [
+    "The human eye focuses images using ciliary muscles in a process called accommodation; the near point is typically 25 cm.",
+    "Common refractive defects (Myopia, Hypermetropia, Presbyopia) are corrected using suitable concave, convex, or bifocal lenses.",
+    "A prism splits white light into a rainbow-like spectrum (dispersion), with violet bending the most and red the least.",
+    "Atmospheric refraction causes stars to twinkle and the Sun to be visible before it actually rises.",
+    "Scattering of light (Tyndall effect) explains why the clear sky appears blue and why red is used for danger signals."
+  ]
+}

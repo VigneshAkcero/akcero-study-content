@@ -1,0 +1,35 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Social Science",
+    "chapter_name": "Locating Places on the Earth",
+    "chapter_number": 1
+  },
+  "flashcards": [
+    { "q": "What is a 'Scale' in a map?", "a": "The ratio between the distance on a map and the actual distance on the ground." },
+    { "q": "What are the four 'Cardinal Directions'?", "a": "North, South, East, and West." },
+    { "q": "Name the four 'Intermediate Directions'.", "a": "Northeast (NE), Southeast (SE), Southwest (SW), and Northwest (NW)." },
+    { "q": "What is a 'Globe'?", "a": "A spherical model that accurately represents the Earth's true shape (geoid)." },
+    { "q": "What are 'Latitudes' (Parallels)?", "a": "Imaginary circles running east-west, parallel to the Equator." },
+    { "q": "What is the latitude of the Equator?", "a": "0°." },
+    { "q": "Name the latitude at 23.5° N.", "a": "The Tropic of Cancer." },
+    { "q": "Name the latitude at 23.5° S.", "a": "The Tropic of Capricorn." },
+    { "q": "What are 'Longitudes' (Meridians)?", "a": "Semi-circles running north-south, connecting the North and South Poles." },
+    { "q": "What is the 'Prime Meridian'?", "a": "The 0° longitude that passes through Greenwich, England." },
+    { "q": "What is the 'Grid' on a map/globe?", "a": "The network of intersecting latitudes and longitudes used to locate places." },
+    { "q": "Which heat zone is the hottest and located near the Equator?", "a": "The Torrid Zone." },
+    { "q": "Which zones lie between the Tropics and the Arctic/Antarctic Circles?", "a": "The Temperate Zones (moderate climate)." },
+    { "q": "Which zones are very cold and located near the Poles?", "a": "The Frigid Zones." },
+    { "q": "How many degrees does the Earth rotate per hour?", "a": "15° (360° / 24 hours)." },
+    { "q": "How many minutes does it take the Earth to rotate 1°?", "a": "4 minutes." },
+    { "q": "What is 'Indian Standard Time' (IST) based on?", "a": "The longitude 82.5° E (or 82° 30' E)." },
+    { "q": "How many hours is IST ahead of GMT?", "a": "5 hours and 30 minutes." },
+    { "q": "What is the 'International Date Line' (IDL)?", "a": "A line at approximately 180° longitude where the date changes when crossed." },
+    { "q": "What was the ancient Indian Prime Meridian called?", "a": "Madhya Rekhā ('middle line'), which passed through Ujjayini (Ujjain)." },
+    { "q": "Who was Aryabhata?", "a": "A famous Indian astronomer (c. 500 CE) who described the Earth as spherical." },
+    { "q": "What do 'Survey of India' symbols help with?", "a": "They provide a standardized way to represent features like roads, rivers, and boundaries on maps." },
+    { "q": "Which hemisphere has more land: Northern or Southern?", "a": "The Northern Hemisphere." },
+    { "q": "What happens to the local time as you move East of Greenwich?", "a": "The time increases (it gets later)." },
+    { "q": "What is the latitude of the Arctic Circle?", "a": "66.5° N." }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Beyond Earth",
+    "chapter_number": 12
+  },
+  "notes": [
+    {
+      "section_title": "Introduction to the Night Sky",
+      "topics": [
+        {
+          "topic_name": "The Beauty of Night Sky",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The night sky is best seen from dark locations like Ladakh (e.g., Nubra), where there is almost no cloud or pollution. Historically, star patterns helped travellers and caravans find directions."
+            },
+            {
+              "type": "activity",
+              "id": "12.1",
+              "title": "Star Patterns and Imagery",
+              "procedure": [
+                "Observe bright stars in a section of the sky.",
+                "Imagine a pattern and connect the dots with lines.",
+                "Compare with others to see how different cultures and individuals perceive patterns."
+              ],
+              "conclusion": "Imaginary shapes (like animals or objects) are helpful for recognizing and identifying stars."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Stars and Constellations",
+      "topics": [
+        {
+          "topic_name": "Understanding Star Patterns",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Stars shine with their own light. A group of stars appearing to form a pattern is called a constellation. These patterns were ancient navigation skills for sailors and travellers."
+            },
+            {
+              "type": "note",
+              "title": "IAU and Nakshatras",
+              "text": "The International Astronomical Union (IAU) officially recognized 88 constellations. In Indian astronomy, 'nakshatras' like Ardra (Betelgeuse), Krittika (Pleiades), and Rohini (Aldebaran) are used."
+            },
+            {
+              "type": "list",
+              "title": "Key Constellations",
+              "items": [
+                "Orion (the Hunter): Middle three stars represent the belt. Followed by Sirius in Canis Major.",
+                "Ursa Major (Big Dipper/Saptarishi): Known for the ladle shape. Its stars help find the Pole Star.",
+                "Ursa Minor (Little Dipper): Contains Polaris (the Pole Star) at the end of the handle."
+              ]
+            },
+            {
+              "type": "activity",
+              "id": "12.2",
+              "title": "Locating the Pole Star",
+              "procedure": [
+                "Look for the Big Dipper around 9 p.m. in the summer.",
+                "Imagine a straight line through the two pointer stars at the end of the cup.",
+                "At about five times the distance between these stars, find Polaris (the Pole Star)."
+              ],
+              "observation": "Polaris appears stationary in the North and is not visible from the southern hemisphere."
+            },
+            {
+              "type": "activity",
+              "id": "12.3",
+              "title": "Identifying Orion and Sirius",
+              "procedure": [
+                "During December to April, locate the three middle stars of Orion (the belt).",
+                "Imagine a line through them towards the east to find Sirius, the brightest star."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Our Solar System",
+      "topics": [
+        {
+          "topic_name": "The Sun and Distances",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Sun is 100 times larger than Earth in diameter and is our closest star (150 million km away). Sunlight is essential for the water cycle, climate, and photosynthesis."
+            },
+            {
+              "type": "note",
+              "title": "Astronomical Unit (au)",
+              "text": "1 au is the distance from Sun to Earth. Proxima Centauri is 269,000 au away."
+            }
+          ]
+        },
+        {
+          "topic_name": "Planets and Satellites",
+          "content": [
+            {
+              "type": "table",
+              "headers": ["Category", "Planets", "Common Indian Names"],
+              "rows": [
+                ["Inner (Rocky)", "Mercury, Venus, Earth, Mars", "Budha, Shukra, Prithvi, Mangala"],
+                ["Outer (Gas Giants)", "Jupiter, Saturn, Uranus, Neptune", "Guru, Shani, -, -"]
+              ]
+            },
+            {
+              "type": "activity",
+              "id": "12.4",
+              "title": "Identifying Venus",
+              "procedure": [
+                "At dawn, look for Venus in the east before sunrise.",
+                "At dusk, look for Venus in the west after sunset."
+              ],
+              "observation": "Venus does not twinkle; it is the brightest object after Sun and Moon."
+            },
+            {
+              "type": "list",
+              "title": "Natural Satellites (Moons)",
+              "items": [
+                "Earth: 1 moon (quarter the size of Earth).",
+                "Mars: 2 moons.",
+                "Jupiter, Saturn, Uranus, Neptune: Large numbers of moons."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Asteroids, Comets, and Space Missions",
+      "topics": [
+        {
+          "topic_name": "Rocky and Icy Visitors",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Solar System also includes smaller objects like asteroids and comets."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Asteroid Belt: Located between Mars and Jupiter.",
+                "Comets (Dhumaketu): Tails form as they approach the Sun (e.g., Halley's Comet every 76 years)."
+              ]
+            },
+            {
+              "type": "note",
+              "title": "Chandrayaan Missions",
+              "text": "Chandrayaan missions explore the Moon. Chandrayaan-3 successfully soft-landed at the south pole on 23 August 2023, now celebrated as National Space Day."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Milky Way Galaxy and Galaxies Beyond",
+      "topics": [
+        {
+          "topic_name": "Home Galaxy and Universe",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Our Solar System resides in the Milky Way Galaxy (Akasha Ganga). The Universe consists of trillions of stars, planets, and galaxies. Astronomers search for life on exoplanets."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Special Topic: Hanle Observatory",
+      "topics": [
+        {
+          "topic_name": "Astronomy in India",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Ladakh's Hanle is home to the Indian Astronomical Observatory. This location on Mount Saraswati is ideal for research due to clear nights and low pollution."
+            },
+            {
+              "type": "note",
+              "title": "Hanle Dark Sky Reserve",
+              "text": "Established in December 2022, it promotes astro-tourism and protects dark skies. It houses the Himalayan Chandra Telescope."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Constellation", "definition": "Region containing a specific star pattern (88 total)." },
+    { "term": "Nakshatra", "definition": "Indian terms for specific stars or groups of stars." },
+    { "term": "Light Pollution", "definition": "High artificial light at night hiding stars." },
+    { "term": "Proxima Centauri", "definition": "The nearest star after the Sun." },
+    { "term": "Astronomical Unit (au)", "definition": "Distance from Earth to the Sun." },
+    { "term": "Asteroid Belt", "definition": "A region between Mars and Jupiter filled with rocky bodies." },
+    { "term": "Exoplanet", "definition": "A planet revolving around a star other than our Sun." }
+  ],
+  "summary_points": [
+    "The night sky is best seen from dark locations to avoid light pollution.",
+    "Patterns of stars in constellations have historical roots and scientific boundaries (IAU).",
+    "Activities help locate the Pole Star, Orion, Sirius, and Venus.",
+    "The Solar System is composed of the Sun, eight planets, and small bodies like asteroids and comets.",
+    "Space exploration (like Chandrayaan) and observatories (like Hanle) expand our knowledge.",
+    "The Universe is a vast collection of galaxies, including our home, the Milky Way."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "Another Peek Beyond the Point",
+    "chapter_number": 4
+  },
+  "summary": {
+    "decimal_multiplication": {
+      "category_name": "Decimal Multiplication",
+      "points": [
+        "To multiply two decimals, remove the decimal points and multiply the numbers as if they were whole numbers. Then place the decimal point in the product based on the total number of decimal places in both factors—if the factors have n combined decimal places, the product will have n decimal places. For example, 5.7 × 13.3: multiply 57 × 133 = 7581, then place the decimal to get 75.81 (since 5.7 has 1 and 13.3 has 1 decimal place, total is 2).",
+        "Unlike multiplication of whole numbers, the product of two decimals is not always greater than both original numbers. When both factors are greater than 1 (e.g., 3.4 × 6.5 = 22.1), the product is greater than both. When both are between 0 and 1 (e.g., 0.75 × 0.4 = 0.3), the product is less than both. When one is between 0 and 1 and one is greater than 1 (e.g., 0.75 × 5 = 3.75), the product falls between them.",
+        "Decimal multiplication can be understood through fractions: since decimals represent fractions with denominators 10, 100, 1000, etc., multiplying decimals follows the same rules as multiplying fractions. This fractional approach helps verify products and provides deeper understanding of why the decimal place rule works."
+      ]
+    },
+    "decimal_division": {
+      "category_name": "Decimal Division",
+      "points": [
+        "Dividing a decimal by powers of 10 (10, 100, 1000, etc.) is straightforward: simply move the decimal point to the left by the number of zeros in the divisor. For example, 3.9 ÷ 10 = 0.39, and 3.9 ÷ 100 = 0.039. This rule provides a quick method and connects directly to place value concepts, showing how quantities scale down by factors of 10.",
+        "For general divisions producing decimal quotients, the long division method can be extended using place value regrouping. When there is a remainder at the ones place, regroup it as tenths (placing a decimal point in the quotient), then continue dividing tenths, hundredths, thousandths, and so on. For example, 1325 ÷ 4 involves dividing into hundreds, tens, ones, tenths, and finally hundredths to get 331.25.",
+        "When the divisor is a decimal, both the dividend and divisor should be multiplied by the same power of 10 to convert the divisor to a whole number. For instance, to calculate 4.68 ÷ 0.13, multiply both by 100 to get 468 ÷ 13 = 36. This preserves the quotient while making the division process manageable using standard long division techniques."
+      ]
+    },
+    "special_topics_and_relationships": {
+      "category_name": "Special Topics and Quotient Relationships",
+      "points": [
+        "Some divisions produce non-terminating repeating decimals—results that never end but have repeating patterns of digits. For example, 10 ÷ 3 = 3.333..., and 1 ÷ 7 = 0.142857142857.... A fraction (in lowest terms) gives a terminating decimal only if its denominator has 2 and 5 as the only prime factors; otherwise, it produces a repeating decimal. This distinction is fundamental to understanding decimal representations.",
+        "The number 142857 (from 1 ÷ 7) is a cyclic number with remarkable properties: multiplying it by 1 through 6 produces cyclic rotations of its digits, and multiplying by 7 gives 999999. This phenomenon demonstrates hidden mathematical structures and remains connected to unsolved problems in mathematics, such as Emil Artin's conjecture about the infinitude of cyclic numbers.",
+        "The relationship between dividend, divisor, and quotient changes based on the divisor's value: when the divisor is greater than 1, the quotient is less than the dividend (e.g., 128 ÷ 4 = 32); when the divisor equals 1, the quotient equals the dividend; when the divisor is between 0 and 1, the quotient is greater than the dividend (e.g., 128 ÷ 0.4 = 320). This shows that division by decimals can produce results larger than the original number, making decimal understanding essential for solving real-world problems."
+      ]
+    }
+  }
+}

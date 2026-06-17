@@ -1,0 +1,165 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Nature's Treasures",
+    "chapter_number": 11
+  },
+  "notes": [
+    {
+      "section_title": "Air: The Breath of Life",
+      "topics": [
+        {
+          "topic_name": "Composition and Importance",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Air is a mixture of gases essential for survival. Oxygen is crucial for bodily functions; we cannot survive without it for even a few minutes."
+            },
+            {
+              "type": "example",
+              "title": "Example 1",
+              "description": "In a 100-square model of air composition, how many squares represent Nitrogen, and how many represent Oxygen?",
+              "solution": "Based on the percentage composition: 78 squares are for Nitrogen (78%) and 21 squares are for Oxygen (21%). The remaining 1 square represents Argon, Carbon Dioxide, and other gases."
+            },
+            {
+              "type": "activity",
+              "title": "Activity 11.2: Wind and Firkis",
+              "content": "Moving air is called wind. A firki (paper pinwheel) rotates when it catches the wind, similar to how windmills operate to generate electricity or pump water."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Water: A Precious Resource",
+      "topics": [
+        {
+          "topic_name": "Distribution and Scarcity",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Water covers about two-thirds of the Earth's surface. Most (saline) is in oceans. Accessible freshwater is found in rivers, lakes, and underground, but is extremely limited."
+            },
+            {
+              "type": "note",
+              "title": "Conservation Methods",
+              "text": "1) Rainwater Harvesting: Collecting and storing rainwater (e.g., Bawadi in Rajasthan, Vav in Gujarat). 2) Judgmental Use: Turning off taps and fixing leaks. World Water Day is observed on 22nd March."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Energy from the Sun",
+      "topics": [
+        {
+          "topic_name": "Primary Source of Energy",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The Sun is the main source of energy on Earth. Plants use sunlight to prepare food, which then sustains animals and humans. Solar energy is used for heat, light, and producing electricity through solar panels."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Forests and Soil",
+      "topics": [
+        {
+          "topic_name": "Forest Conservation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Forests provide shelter, food, and environmental balance. Traditions like 'not plucking fruits used by birds' and movements like 'Chipko' (Uttarakhand, 1970s) highlight conservation efforts. Van Mahotsav is celebrated in July."
+            }
+          ]
+        },
+        {
+          "topic_name": "Soil Formation and Quality",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Soil is formed over thousands of years by the breaking apart of rocks. Earthworms help loosen soil, providing air space for roots. Forests help recycle nutrients as leaves decay into the soil."
+            },
+            {
+              "type": "activity",
+              "title": "Activity 11.4: Soil Investigation",
+              "content": "Soil samples from different locations vary in colour, texture, and composition (sand, worms, decomposed matter) based on their environment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Rocks, Minerals, and Fossil Fuels",
+      "topics": [
+        {
+          "topic_name": "Earth's Treasures",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Rocks (granite, marble, laterite) and Minerals (gold, iron, copper) are used in construction, tools, and electronics. For example, a basic mobile phone contains about 12 different minerals."
+            },
+            {
+              "type": "example",
+              "title": "Example 2",
+              "description": "How long does it take for rocks and minerals to form, and why does this make them non-renewable?",
+              "solution": "It takes thousands to millions of years to form rocks. Since they cannot be replenished within a human lifetime after being consumed, they are classified as non-renewable resources."
+            }
+          ]
+        },
+        {
+          "topic_name": "Fossil Fuels and Pollution",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Coal, Petroleum (Petrol, Diesel, Kerosene), and Natural Gas are fossil fuels formed over millions of years from buried remains. Burning them produces CO2 and smoke, causing air pollution."
+            },
+            {
+              "type": "example",
+              "title": "Example 3",
+              "description": "Why is CNG considered a better alternative to Petrol or Diesel for city vehicles?",
+              "solution": "Compressed Natural Gas (CNG) is a cleaner fuel because it produces significantly less smoke and pollution compared to traditional fossil fuels."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Renewable vs Non-renewable Resources",
+      "topics": [
+        {
+          "topic_name": "Classifying Resources",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Renewable: Replenished by nature within reasonable time (Air, Water, Sun, Forests). Non-renewable: Limited quantities, take millions of years to form (Soil, Rocks, Minerals, Fossil Fuels)."
+            },
+            {
+              "type": "note",
+              "title": "The Gandhian Philosophy",
+              "text": "'Earth provides enough to satisfy every man's need but not for every man's greed.' — M. K. Gandhi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    { "term": "Wind", "definition": "Moving air that can rotate firkis or windmills." },
+    { "term": "Saline", "definition": "Salty water found in oceans, not fit for domestic use." },
+    { "term": "Rainwater Harvesting", "definition": "Collecting and storing rainwater for later use." },
+    { "term": "Van Mahotsav", "definition": "Forest festival celebrated in July to plant trees." },
+    { "term": "Fossil Fuels", "definition": "Energy sources like coal and petroleum formed over millions of years." },
+    { "term": "Non-renewable", "definition": "Resources that do not get replenished within a reasonable period." }
+  ],
+  "summary_points": [
+    "Air is a mixture (78% Nitrogen, 21% Oxygen) essential for all living beings.",
+    "Freshwater is a precious, limited treasure (saline oceans cover 2/3 of Earth).",
+    "The Sun is the main source of energy on Earth.",
+    "Renewable resources (Air, Sun) replenish quickly; Non-renewable (Minerals, Coal) take millions of years.",
+    "Conservation through practices like rainwater harvesting and reduced fossil fuel use is vital for the future."
+  ]
+}

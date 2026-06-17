@@ -1,0 +1,35 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Social Science",
+    "chapter_name": "Understanding the Weather",
+    "chapter_number": 2
+  },
+  "flashcards": [
+    { "q": "What is the difference between atmosphere and weather?", "a": "Atmosphere is the layer of gases surrounding Earth; weather is the state of that atmosphere at a particular time and place." },
+    { "q": "In which layer of the atmosphere does all weather take place?", "a": "The Troposphere (6–18 km from the ground)." },
+    { "q": "What are the common scales used to measure temperature?", "a": "Celsius (°C) and Fahrenheit (°F)." },
+    { "q": "How do you calculate the 'Range of Temperature'?", "a": "Maximum temperature minus the minimum temperature in a set period (usually 24 hours)." },
+    { "q": "How is the 'Mean daily temperature' calculated?", "a": "Maximum temperature plus the minimum temperature of the day divided by two." },
+    { "q": "What instrument is used to measure precipitation?", "a": "A Rain Gauge (measures in millimetres - mm)." },
+    { "q": "Define 'Sleet' and 'Hail'.", "a": "Sleet: Frozen or partly frozen rain; Hail: Small, hard balls of ice falling from the sky." },
+    { "q": "What is 'Atmospheric Pressure'?", "a": "The weight exerted by the air above and around us." },
+    { "q": "Which instrument measures atmospheric pressure?", "a": "A Barometer (measured in millibars - mb)." },
+    { "q": "What is the normal atmospheric pressure at the sea coast?", "a": "Around 1013 millibars (mb)." },
+    { "q": "What does a pressure drop below 1000 mb indicate?", "a": "A 'depression', which can develop into a storm or a cyclone." },
+    { "q": "Define 'Acclimatise'.", "a": "To adjust to a new climate or new condition, like low oxygen at high altitudes." },
+    { "q": "In which direction does wind always move?", "a": "From areas of high pressure to areas of low pressure." },
+    { "q": "What instrument measures wind speed?", "a": "An Anemometer (recorded in kilometres per hour - km/h)." },
+    { "q": "What instruments are used to find wind direction?", "a": "A Wind Vane or a Wind Sock." },
+    { "q": "What is 'Humidity'?", "a": "The amount of water vapour (water in gaseous form) present in the air." },
+    { "q": "Which instrument measures 'Relative Humidity'?", "a": "A Hygrometer (measured as a percentage - %)." },
+    { "q": "How does high humidity affect sweat evaporation?", "a": "It slows down evaporation, preventing the body from cooling effectively." },
+    { "q": "What is 'Meteorology'?", "a": "The systematic study of weather and its evolution." },
+    { "q": "Name three natural indicators used traditionaly to forecast rain.", "a": "Ants shifting eggs, frogs croaking loudly, and pine cones closing." },
+    { "q": "What is a 'Weather Station'?", "a": "A site that brings together various instruments to measure and track the weather." },
+    { "q": "What does 'AWS' stand for?", "a": "Automated Weather Station (self-operating system using sensors)." },
+    { "q": "When was the India Meteorological Department (IMD) set up?", "a": "In 1875." },
+    { "q": "What is the motto of the IMD?", "a": "Ādityāt jāyate vriṣhti (From the sun arises rain)." },
+    { "q": "Why is accurate weather forecasting important?", "a": "It helps prepare for disasters like cyclones, floods, and droughts, saving lives and resources." }
+  ]
+}

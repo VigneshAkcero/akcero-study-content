@@ -1,0 +1,31 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Number Systems",
+    "chapter_number": 1
+  },
+  "flashcards": [
+    { "q": "What symbol denotes the collection of natural numbers?", "a": "N" },
+    { "q": "What symbol denotes the collection of whole numbers?", "a": "W" },
+    { "q": "What symbol denotes the collection of integers?", "a": "Z" },
+    { "q": "What symbol denotes the collection of rational numbers?", "a": "Q" },
+    { "q": "What symbol denotes the collection of all real numbers?", "a": "R" },
+    { "q": "Define a rational number.", "a": "A number that can be written in the form p/q, where p and q are integers and q ≠ 0." },
+    { "q": "Define an irrational number.", "a": "A number that cannot be written in the form p/q, where p and q are integers and q ≠ 0." },
+    { "q": "Are there finitely or infinitely many rational numbers between any two given rational numbers?", "a": "Infinitely many." },
+    { "q": "True or False: Every point on the number line represents a unique real number.", "a": "True." },
+    { "q": "What do we call a decimal expansion that ends after a finite number of steps?", "a": "A terminating decimal." },
+    { "q": "What type of decimal expansion does an irrational number have?", "a": "Non-terminating non-recurring." },
+    { "q": "State the law of exponents for multiplying powers with the same base (a^p * a^q).", "a": "a^(p+q)" },
+    { "q": "State the law of exponents for dividing powers with the same base (a^p / a^q).", "a": "a^(p-q)" },
+    { "q": "State the law of exponents for a power raised to another power ( (a^p)^q ).", "a": "a^(pq)" },
+    { "q": "State the law of exponents for multiplying different bases with the same power (a^p * b^p).", "a": "(ab)^p" },
+    { "q": "What does √(ab) equal according to square root identities?", "a": "√a * √b" },
+    { "q": "What does √(a/b) equal according to square root identities?", "a": "√a / √b" },
+    { "q": "What is the expansion of (√a + √b)(√a - √b)?", "a": "a - b" },
+    { "q": "Is the sum of a rational number and an irrational number rational or irrational?", "a": "Irrational." },
+    { "q": "Is the product of a non-zero rational number and an irrational number rational or irrational?", "a": "Irrational." },
+    { "q": "How is a fractional exponent a^(m/n) defined for a > 0?", "a": "It is the nth root of a, raised to the power m: (n√a)^m or n√(a^m)." }
+  ]
+}

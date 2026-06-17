@@ -1,0 +1,40 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Exploring Magnets",
+    "chapter_number": 4
+  },
+  "flashcards": [
+    { "q": "What name is given to naturally occurring magnets discovered in ancient times?", "a": "Lodestones." },
+    { "q": "Name three common metals used to make artificial magnets.", "a": "Iron, Nickel, and Cobalt." },
+    { "q": "Common magnet shapes: bar, horseshoe, cylindrical, and ____.", "a": "Ball-ended." },
+    { "q": "Terms: Materials attracted toward a magnet.", "a": "Magnetic materials." },
+    { "q": "Terms: Materials like plastic, wood, and glass that are not attracted by magnets.", "a": "Non-magnetic materials." },
+    { "q": "What are the two ends of a magnet called?", "a": "Magnetic poles (North and South)." },
+    { "q": "In a bar magnet, relative magnetic strength is maximum where?", "a": "At its poles (the two ends)." },
+    { "q": "True or False: A magnet can be broken into pieces to isolate a single pole.", "a": "False; poles always exist in pairs." },
+    { "q": "What is the constant resting direction of a freely suspended magnet?", "a": "North-South direction." },
+    { "q": "Property: Why does a freely suspended magnet align itself North-South?", "a": "Earth behaves like a giant magnet." },
+    { "q": "Terminology: The end of the magnet pointing toward the geographic North.", "a": "North-seeking pole (North pole)." },
+    { "q": "Device: Uses a small magnetic needle to find directions.", "a": "Magnetic compass." },
+    { "q": "Historical tool: The ancient Indian magnetized fish device for sea navigation.", "a": "Matsya-yantra (or machchhyantra)." },
+    { "q": "Which pole of a compass needle is typically painted red?", "a": "The North pole." },
+    { "q": "How can you make a temporary magnet out of an iron needle?", "a": "By using the stroking method with a permanent magnet." },
+    { "q": "Rule: Like poles (N-N, S-S) of two magnets ____ each other.", "a": "Repel." },
+    { "q": "Rule: Unlike poles (N-S) of two magnets ____ each other.", "a": "Attract." },
+    { "q": "What is the sure test to confirm if a piece of metal is a magnet?", "a": "Magnetic repulsion." },
+    { "q": "Can magnetic effects act through non-magnetic materials like wood and glass?", "a": "Yes." },
+    { "q": "Three actions that cause demagnetization: heating, hammering, and ____.", "a": "Dropping from a height." },
+    { "q": "Tool name: Pieces of soft iron used across the ends of stored magnets.", "a": "Keepers." },
+    { "q": "Storage: Bar magnets should be kept in pairs with ____ poles on the same side.", "a": "Unlike poles." },
+    { "q": "Precaution: Keep magnets away from which common electronic device?", "a": "Mobile phones (or remote controls/TVs)." },
+    { "q": "What is the small circular box with a magnetic needle inside called?", "a": "A compass." },
+    { "q": "Observation: Which part of a bar magnet picks up the fewest iron filings?", "a": "The middle part." },
+    { "q": "Discovery: Where was the lodestone first found according to tradition?", "a": "Ancient Greece (Magnesia)." },
+    { "q": "Terms: Materials that are not attracted to a magnet.", "a": "Non-magnetic materials." },
+    { "q": "What happens when you bring the North pole of a magnet near the South pole of a compass?", "a": "They attract (needle moves closer)." },
+    { "q": "What happens when you bring the South pole of a magnet near the South pole of a compass?", "a": "They repel (needle moves away)." },
+    { "q": "What was the purpose of the dial in an ancient magnetic compass?", "a": "To indicate all major directions (N, S, E, W)." }
+  ]
+}

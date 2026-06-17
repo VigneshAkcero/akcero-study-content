@@ -1,0 +1,40 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Science",
+    "chapter_name": "Measurement of Length and Motion",
+    "chapter_number": 5
+  },
+  "flashcards": [
+    { "q": "Term: A known fixed quantity used for comparison.", "a": "Unit." },
+    { "q": "Term: Distance between the tip of the thumb and the little finger.", "a": "Handspan (balisht)." },
+    { "q": "Term: The universally accepted system of measurement units.", "a": "SI units (International System of Units)." },
+    { "q": "Unit: The SI unit of length.", "a": "Metre (m)." },
+    { "q": "Conversion: How many metres are in 1 kilometre (km)?", "a": "1000 m." },
+    { "q": "Conversion: How many centimetres (cm) are in 1 metre?", "a": "100 cm." },
+    { "q": "Conversion: How many millimetres (mm) are in 1 centimetre?", "a": "10 mm." },
+    { "q": "Conversion: How many centimetres are in 1 inch?", "a": "2.54 cm." },
+    { "q": "History: Name three ancient Indian units of length.", "a": "Angula, Dhanusa, and Yojana." },
+    { "q": "Error: What is the reading error caused by viewing a scale from a side angle?", "a": "Parallax error." },
+    { "q": "Correct Method: Where should your eye be while reading a scale marking?", "a": "Directly above the mark (Position B)." },
+    { "q": "Correct Method: How to measure an object with a broken zero mark on a scale?", "a": "Start from another full mark and subtract its value from the final reading." },
+    { "q": "Tool: What device is used to measure the girth of a tree or chest size?", "a": "A flexible measuring tape (tailor's tape)." },
+    { "q": "Visually Challenged: How do visually impaired students read scales?", "a": "Using scales with raised markings that can be felt by touch." },
+    { "q": "Advanced Tool: Device used for professional road race measurement.", "a": "Jones Counter." },
+    { "q": "Curved Boundaries: How can you measure the length of a curved line exactly?", "a": "Using a thread to trace the curve, then measuring the thread on a scale." },
+    { "q": "Position: A fixed object or point used to describe location.", "a": "Reference point." },
+    { "q": "Definition: An object is in this state if its position changes with time.", "a": "Motion." },
+    { "q": "Definition: An object is in this state if its position stays fixed with time.", "a": "Rest." },
+    { "q": "Term: Point or object relative to which motion is decided.", "a": "Reference point." },
+    { "q": "Motion: Movement along a straight line.", "a": "Linear motion (Rectilinear motion)." },
+    { "q": "Motion: Movement along a circular path.", "a": "Circular motion." },
+    { "q": "Motion: To-and-fro movement about a fixed position.", "a": "Oscillatory motion." },
+    { "q": "Motion: Movement that repeats itself at regular time intervals.", "a": "Periodic motion." },
+    { "q": "Example: What type of motion does a falling orange exhibit?", "a": "Linear motion." },
+    { "q": "Example: What kind of motion does a swing in a park show?", "a": "Oscillatory motion." },
+    { "q": "Logic: Are circular and oscillatory motions periodic in nature?", "a": "Yes (they repeat their paths regularly)." },
+    { "q": "Rule: Should unit symbols like km or m be written in capital letters?", "a": "No, they should be in lowercase (except when starting a sentence)." },
+    { "q": "Rule: Should a full stop be written after a unit symbol (e.g., cm.)?", "a": "No (unless it is the end of a sentence)." },
+    { "q": "Numerical: If a wheel circumfrence is 1m, how far is 10 turns?", "a": "10 metres." }
+  ]
+}

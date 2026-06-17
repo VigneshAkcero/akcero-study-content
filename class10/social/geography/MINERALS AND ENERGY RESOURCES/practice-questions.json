@@ -1,0 +1,220 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Geography",
+    "chapter_name": "Minerals and Energy Resources",
+    "chapter_number": 5
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "How do geologists define a mineral?",
+      "answer": "A homogenous, naturally occurring substance with a definable internal structure.",
+      "solution": "Geologists focus on the chemical and physical properties as well as the internal atomic structure of the substance."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Which mineral provides the 'sparkle' in some toothpastes?",
+      "answer": "Mica.",
+      "solution": "Various minerals serve different functions in toothpaste: silica/limestone as abrasives, fluoride for cavities, and titanium oxide for whiteness."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What percentage of our total intake of nutrients do minerals represent?",
+      "answer": "About 0.3 per cent.",
+      "solution": "Despite the small quantity, minerals are so potent that without them, we could not utilize the other 99.7 per cent of foodstuffs."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "What is the difference between 'veins' and 'lodes' in mineral occurrence?",
+      "answer": "Veins are smaller occurrences in cracks/crevices, while lodes are the larger ones.",
+      "solution": "These formations occur in igneous and metamorphic rocks when minerals in liquid/molten/gaseous forms cool and solidify as they rise towards the surface."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "Name two minerals derived from ocean waters.",
+      "answer": "Common salt, magnesium, or bromine.",
+      "solution": "While ocean waters contain vast quantities of minerals, most are too diffused for economic significance, but salt and magnesium are largely derived from them."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Which iron ore is known as the 'finest' iron ore with 70% iron content?",
+      "answer": "Magnetite.",
+      "solution": "Magnetite has excellent magnetic qualities, making it particularly valuable in the electrical industry. Hematite is the most important industrial ore but has 50-60% iron."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "Nearly how many kg of manganese is required to manufacture one tonne of steel?",
+      "answer": "10 kg.",
+      "solution": "Manganese is essential as a hardening agent in steel production and for manufacturing ferro-manganese alloys."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Where are the Khetri mines located and what do they produce?",
+      "answer": "Rajasthan; they produce Copper.",
+      "solution": "Khetri is a leading producer of copper in India, along with the Balaghat mines in Madhya Pradesh and Singhbhum in Jharkhand."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "Which state is the largest producer of Bauxite in India?",
+      "answer": "Odisha (accounting for 65% of production in 2018-19).",
+      "solution": "The Panchpatmali deposits in Koraput district are the most important bauxite deposits in the state."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "What is the basic raw material for the cement industry?",
+      "answer": "Limestone.",
+      "solution": "Limestone is found in association with rocks composed of calcium carbonates and is also essential for smelting iron ore in blast furnaces."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "Explain 'Placer Deposits' with examples of minerals found in them.",
+      "answer": "Alluvial deposits found in valley floors and the base of hills, containing minerals not corroded by water.",
+      "solution": "Key minerals found in placer deposits include Gold, Silver, Tin, and Platinum. They are deposited by the action of water over time."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Why is mining often referred to as a 'killer industry'?",
+      "answer": "Due to hazards like pulmonary diseases from dust/fumes and the constant threat of mine roof collapse or fires.",
+      "solution": "The occupational health of miners and the environmental impact on water and soil nearby make strict safety and environmental regulations essential."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "Distinguish between 'Gondwana' and 'Tertiary' coal based on their age and locations.",
+      "answer": "Gondwana (200m years old) in Damodar Valley; Tertiary (55m years old) in North-Eastern states.",
+      "solution": "Gondwana coal comprises metallurgical coal (Jharia, Raniganj), while Tertiary coal is found in Meghalaya, Assam, and Nagaland."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "Why are heavy industries and thermal power stations often located near coalfields?",
+      "answer": "Because coal is a bulky material that loses weight on use as it is reduced to ash.",
+      "solution": "Locating plants near the source reduces transportation costs and logistical complexities associated with moving large volumes of coal."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "What are 'Anticlines' and 'Fault traps' in the context of petroleum occurrence?",
+      "answer": "Geological formations where oil is trapped between porous and non-porous rock layers.",
+      "solution": "In an anticline, oil is trapped in the crest of the upfold in porous limestone/sandstone, prevented from sinking or rising by intervening non-porous layers."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "State the significance of the HVJ cross-country gas pipeline.",
+      "answer": "It linked Mumbai High/Bassein fields with fertilizer/power complexes in Western and Northern India.",
+      "solution": "Stretching for 1,700 km, this pipeline by GAIL provided the initial impetus to the Indian gas market's development and infrastructure."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "How is 'Hydroelectricity' different from 'Thermal electricity' in terms of resources used?",
+      "answer": "Hydro uses renewable fast-flowing water; Thermal uses non-renewable fossil fuels like coal/oil.",
+      "solution": "While both generate identical electricity, hydro involves multi-purpose projects like Bhakra Nangal, whereas thermal stations depend on burning fossil fuels."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Which minerals are used to generate atomic or nuclear power in India?",
+      "answer": "Uranium and Thorium.",
+      "solution": "Uranium is found in Jharkhand and the Aravallis, while Thorium is largely derived from the Monazite sands of Kerala."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "Why is solar energy fast becoming popular in rural and remote areas of India?",
+      "answer": "Due to photovoltaic technology converting sunlight directly into electricity, reducing dependence on firewood and dung cakes.",
+      "solution": "This contributes to environmental conservation and ensures that dung can be used effectively as manure in agriculture rather than fuel."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "Where is the largest cluster of wind farms located in India?",
+      "answer": "Tamil Nadu, from Nagercoil to Madurai.",
+      "solution": "India has great potential for wind power, with other significant clusters in Andhra Pradesh, Karnataka, Gujarat, and Maharashtra."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Analyze the 'Rat-Hole' mining practice in North-East India and the legal stance on it.",
+      "answer": "Mining done by family members in long narrow tunnels; declared illegal by the National Green Tribunal.",
+      "solution": "In tribal areas of Meghalaya, minerals are community-owned. However, the lack of safety standards and environmental degradation led the NGT to ban the practice forthwith."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "Examine the factors that determine the commercial viability of a mineral reserve.",
+      "answer": "Concentration of mineral, ease of extraction, and closeness to the market.",
+      "solution": "A choice must be made between options to ensure that the cost of mining does not exceed the value of the mineral obtained, turning a 'deposit' into a functioning 'mine'."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Evaluate the geological importance of 'Kudremukh' and its iron ore export infrastructure.",
+      "answer": "One of the largest deposits in the world; transported as slurry through a pipeline to Mangaluru port.",
+      "solution": "Kudremukh (meaning Horse-face) is a 100% export unit. The slurry pipeline system overcomes the steep terrain of the Western Ghats for efficient bulk transport."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "Why is the per capita consumption of electricity considered an 'index of development'?",
+      "answer": "Because electricity is used in every sector of the modern world for economic activity and personal quality of life.",
+      "solution": "Increased consumption reflects industrial growth, improved household standards, and a robust service sector, all of which are markers of a developed economy."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Explain the role of 'Petroleum Refineries' as a 'nodal industry'.",
+      "answer": "They provide raw materials for synthetic textiles, fertilizers, and numerous chemical industries.",
+      "solution": "A nodal industry is a hub that supports several other manufacturing sectors by providing essential by-products and intermediate materials."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "How are minerals formed in sedimentary rocks differently from those in igneous rocks?",
+      "answer": "Sedimentary occurs in layers/beds via deposition; Igneous occurs in cracks via cooling of upward molten material.",
+      "solution": "Sedimentary minerals like coal are concentrated over long periods under heat/pressure, while igneous minerals like copper are formed from cooling gases or liquids in fissures."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "Analyze the distribution pattern of minerals in India based on geological structures.",
+      "answer": "Peninsular rocks hold metallic/coal; Sedimentary flanks (Assam/Gujarat) hold petroleum; Northern plains are devoid of minerals.",
+      "solution": "The variations exist due to differences in geological processes and time. The stable Peninsular block is rich in old formations, while the alluvial plains are recent and lacking in deep mineral deposits."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Discuss the 'concerted efforts' needed for the conservation of mineral resources.",
+      "answer": "Planned use, improved technology for low-grade ores, and recycling/using scrap metals.",
+      "solution": "Since minerals are finite and non-renewable (taking millions of years to form), we must evolve technologies to lower extraction costs and increase the efficiency of use."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "Critically examine the environmental repercussions of the growing use of fossil fuels.",
+      "answer": "Air pollution, toxic emissions, and global warming; making renewable sources a 'pressing need'.",
+      "solution": "Fossil fuels are non-renewable and their combustion releases harmful gases. Transitioning to non-conventional sources is vital for both energy security and environmental conservation."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Explain the mantra: 'Energy saved is energy produced' in the context of sustainable development.",
+      "answer": "Reducing energy waste effectively increases the available supply without needing new extraction or pollution.",
+      "solution": "Sustainable development requires using power-saving devices and switching to renewable sources to ensure that future generations' energy needs are not compromised by current consumption patterns."
+    }
+  ]
+}

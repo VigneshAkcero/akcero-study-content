@@ -1,0 +1,279 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Carbon and its Compounds",
+    "chapter_number": 4
+  },
+  "notes": [
+    {
+      "section_title": "4.1 Bonding in Carbon - The Covalent Bond",
+      "topics": [
+        {
+          "topic_name": "Properties of Carbon Compounds",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Most carbon compounds are poor conductors of electricity and have low melting and boiling points compared to ionic compounds. This indicates that the intermolecular forces are weak and the bonding does not give rise to ions."
+            }
+          ]
+        },
+        {
+          "topic_name": "Covalent Bonding and shared Electrons",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Carbon has an atomic number of 6, with four electrons in its outermost shell. To achieve a stable noble gas configuration, carbon shares these four valence electrons with other atoms. This type of bonding, where electron pairs are shared between atoms, is known as a covalent bond."
+            },
+            {
+              "type": "list",
+              "title": "Why Carbon Shares Electrons",
+              "items": [
+                "Gaining four electrons to form C⁴⁻ is difficult as the nucleus with six protons cannot easily hold ten electrons.",
+                "Losing four electrons to form C⁴⁺ requires a massive amount of energy to overcome the attraction of the nucleus."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Simple Molecules with Covalent Bonds",
+          "content": [
+            {
+              "type": "list",
+              "title": "Bonding Examples",
+              "items": [
+                "Hydrogen (H₂): Single covalent bond formed by sharing one pair of electrons.",
+                "Oxygen (O₂): Double covalent bond formed by sharing two pairs of electrons.",
+                "Nitrogen (N₂): Triple covalent bond formed by sharing three pairs of electrons.",
+                "Water (H₂O): Single bonds between one oxygen atom and two hydrogen atoms.",
+                "Ammonia (NH₃): Three single bonds between one nitrogen atom and three hydrogen atoms."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Allotropes of Carbon",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Carbon exists in nature in different forms with varying physical properties but identical chemical properties."
+            },
+            {
+              "type": "list",
+              "title": "Key Allotropes",
+              "items": [
+                "Diamond: Each carbon atom is bonded to four others in a rigid 3D structure. It is the hardest known natural substance.",
+                "Graphite: Each carbon atom is bonded to three others in a hexagonal planar array. It is smooth, slippery, and conducts electricity.",
+                "Fullerenes: Carbon atoms arranged in geodesic domes, such as C-60 (Buckminsterfullerene) which resembles a football."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "4.2 Versatile Nature of Carbon",
+      "topics": [
+        {
+          "topic_name": "Unique Properties of Carbon",
+          "content": [
+            {
+              "type": "list",
+              "title": "Reasons for Large Number of Compounds",
+              "items": [
+                "Catenation: The ability of carbon to form strong, stable bonds with other carbon atoms, leading to long chains, branched chains, or rings.",
+                "Tetravalency: Carbon's valency of four allows it to bond with four other atoms, including oxygen, hydrogen, nitrogen, and halogens."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Saturated and Unsaturated Carbon Compounds",
+          "content": [
+            {
+              "type": "list",
+              "title": "Classification",
+              "items": [
+                "Saturated Compounds: Carbon atoms linked by only single bonds (e.g., Alkanes like methane, ethane). These are generally less reactive.",
+                "Unsaturated Compounds: Carbon atoms linked by double or triple bonds (e.g., Alkenes and Alkynes). These are more reactive."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Structural Isomerism",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Compounds with the same molecular formula but different structural arrangements are called structural isomers. For example, butane (C₄H₁₀) can exist as a straight chain or a branched chain."
+            }
+          ]
+        },
+        {
+          "topic_name": "Homologous Series",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A series of compounds in which the same functional group substitutes for hydrogen in a carbon chain. Successive members differ by a -CH₂- unit and 14u mass."
+            },
+            {
+              "type": "note",
+              "title": "Physical Property Gradation",
+              "text": "Melting and boiling points increase with molecular mass in a homologous series, while chemical properties remain similar due to the same functional group."
+            }
+          ]
+        },
+        {
+          "topic_name": "Functional Groups and Nomenclature",
+          "content": [
+            {
+              "type": "list",
+              "title": "Common Functional Groups",
+              "items": [
+                "Halogens: Chloro/Bromo (-Cl, -Br)",
+                "Alcohol: -OH",
+                "Aldehyde: -CHO",
+                "Ketone: >C=O",
+                "Carboxylic Acid: -COOH"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Nomenclature involves identifying the carbon chain length (Meth-, Eth-, Prop-, etc.) and adding prefixes or suffixes for functional groups following IUPAC rules."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "4.3 Chemical Properties of Carbon Compounds",
+      "topics": [
+        {
+          "topic_name": "Combustion",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Carbon and its compounds burn in oxygen to release CO₂, heat, and light. Saturated hydrocarbons give a clean blue flame, while unsaturated ones produce a yellow sooty flame due to incomplete combustion."
+            }
+          ]
+        },
+        {
+          "topic_name": "Oxidation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Alcohols can be converted into carboxylic acids using oxidising agents like alkaline potassium permanganate or acidified potassium dichromate."
+            }
+          ]
+        },
+        {
+          "topic_name": "Addition and Substitution Reactions",
+          "content": [
+            {
+              "type": "list",
+              "title": "Reaction Types",
+              "items": [
+                "Addition Reaction: Unsaturated hydrocarbons add hydrogen in the presence of catalysts (palladium or nickel) to become saturated. This is used in the hydrogenation of vegetable oils.",
+                "Substitution Reaction: In the presence of sunlight, chlorine replaces hydrogen atoms in saturated hydrocarbons one by one."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "4.4 Important Carbon Compounds: Ethanol and Ethanoic Acid",
+      "topics": [
+        {
+          "topic_name": "Ethanol (CH₃CH₂OH)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Ethanol is a liquid solvent used in medicines and fuels. It reacts with sodium to produce sodium ethoxide and hydrogen gas. Heating with concentrated sulphuric acid dehydrates it to ethene."
+            }
+          ]
+        },
+        {
+          "topic_name": "Ethanoic Acid (CH₃COOH)",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Commonly known as acetic acid, its 5-8% solution is vinegar. It is a weak acid that reacts with alcohols to form sweet-smelling esters (Esterification)."
+            },
+            {
+              "type": "note",
+              "title": "Saponification",
+              "text": "Treating an ester with sodium hydroxide converts it back to alcohol and the sodium salt of the carboxylic acid (soap)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "4.5 Soaps and Detergents",
+      "topics": [
+        {
+          "topic_name": "Cleaning action of Soap",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Soap molecules have a hydrophilic head (water-interacting) and a hydrophobic tail (oil-interacting). In water, they form clusters called micelles, where tails entrap oily dirt in the center."
+            }
+          ]
+        },
+        {
+          "topic_name": "Detergents and Hard Water",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Soaps form an insoluble precipitate (scum) with calcium and magnesium ions in hard water. Detergents, being salts of sulphonic acids, do not form scum and remain effective cleaners in hard water."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Catenation",
+      "definition": "The unique ability of carbon atoms to form long stable chains or rings by bonding with each other."
+    },
+    {
+      "term": "Tetravalency",
+      "definition": "Having four valence electrons, allowing carbon to bond with four other atoms."
+    },
+    {
+      "term": "Hydrocarbons",
+      "definition": "Compounds made entirely of carbon and hydrogen atoms."
+    },
+    {
+      "term": "Homologous Series",
+      "definition": "A series of organic compounds with the same functional group and similar chemical properties, where successive members differ by a -CH₂- group."
+    },
+    {
+      "term": "Isomers",
+      "definition": "Compounds possessing the same molecular formula but different structural arrangements."
+    },
+    {
+      "term": "Micelle",
+      "definition": "A spherical cluster of soap molecules in water where hydrophobic tails face the interior and hydrophilic heads face outward."
+    },
+    {
+      "term": "Esterification",
+      "definition": "The reaction between a carboxylic acid and an alcohol in the presence of an acid catalyst to produce an ester."
+    },
+    {
+      "term": "Saponification",
+      "definition": "The hydrolysis of an ester by an alkali to produce alcohol and the salt of a carboxylic acid (soap)."
+    }
+  ],
+  "summary_points": [
+    "Carbon is a versatile element form the basis of all life and numerous materials due to catenation and tetravalency.",
+    "Carbon atoms achieve stability through covalent bonding, sharing electron pairs with other atoms.",
+    "The physical properties of carbon compounds differ based on their structures, as seen in allotropes like diamond and graphite.",
+    "Saturated hydrocarbons (alkanes) contain only single bonds, while unsaturated ones (alkenes, alkynes) contain double or triple bonds.",
+    "Functional groups like alcohols and acids determine the chemical behavior of organic molecules in a homologous series.",
+    "Ethanol and ethanoic acid are commercially significant compounds used in medicine, fuel, and industry.",
+    "The cleaning action of soaps involves the formation of micelles that emulsify oily dirt in water."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Science",
+    "chapter_name": "Electricity: Circuits and their Components",
+    "chapter_number": 3
+  },
+  "summary": [
+    {
+      "category": "Electric Cell, Battery, and Lamps",
+      "points": [
+        "An electric cell is a portable source of electrical energy with two terminals — positive (+ve, protruding metal cap) and negative (−ve, flat metal disc); a battery is a combination of two or more cells connected in series (positive terminal of one cell to negative of the next).",
+        "An incandescent lamp has a thin filament that heats up and glows when current passes through it; it has no polarity — works either way in a circuit; a fused lamp has a broken filament that stops current flow.",
+        "An LED (Light Emitting Diode) has no filament; its longer wire is positive and shorter wire is negative; current flows through it in only one direction — it glows only when connected with the correct polarity (positive of LED to positive of battery)."
+      ]
+    },
+    {
+      "category": "Electrical Circuits, Switches, and Circuit Diagrams",
+      "points": [
+        "An electrical circuit is a complete closed path for electric current; current flows from the positive to the negative terminal of the cell; a break anywhere creates an open circuit and stops current flow, making the lamp go out.",
+        "A switch is a device that completes (ON — closed circuit, lamp glows) or breaks (OFF — open circuit, lamp does not glow) a circuit; it can be placed anywhere in the circuit.",
+        "A circuit diagram represents an electrical circuit using standard symbols (defined by IEC, ANSI, IEEE); in the cell symbol, the long line is the positive terminal and the short line is the negative terminal."
+      ]
+    },
+    {
+      "category": "Conductors, Insulators, and Electrical Safety",
+      "points": [
+        "Conductors are materials through which electric current flows easily — most metals are conductors; silver, copper, and gold are the best conductors, with copper most used for wires due to its lower cost and availability.",
+        "Insulators (plastic, rubber, ceramics, glass, wood) do not allow current to flow; wires are made of copper (conductor) covered with plastic or rubber (insulator) to prevent electric shocks and short circuits.",
+        "Electricity from cells/batteries is Direct Current (DC); electricity from power plants via wall sockets is Alternating Current (AC); the human body is a conductor — never touch switches with wet hands, use damaged equipment, or experiment with mains electricity."
+      ]
+    }
+  ]
+}

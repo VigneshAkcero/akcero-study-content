@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Motion",
+    "chapter_number": 7
+  },
+  "summary": [
+    {
+      "category": "Distance, Displacement, and Types of Motion",
+      "points": [
+        "Distance (scalar) is the total path length covered; displacement (vector) is the shortest straight-line distance from initial to final position. Distance equals displacement only when motion is in one straight-line direction without reversal. A round trip gives zero displacement but non-zero distance. Odometer measures distance, not displacement.",
+        "Uniform motion: equal distances in equal intervals of time (constant speed). Non-uniform motion: unequal distances in equal time intervals (varying speed). Motion is relative — an object can be at rest for one observer and in motion for another; a reference point is always needed to describe position.",
+        "Speed (scalar) = distance/time; SI unit m s⁻¹. Average speed = total distance / total time. Velocity (vector) = displacement/time; has both magnitude and direction. Average velocity = (u+v)/2 for uniform acceleration. When a swimmer returns to the starting point (e.g., Usha: 180 m in 60 s), average speed = 3 m s⁻¹ but average velocity = 0 m s⁻¹ since displacement = 0."
+      ]
+    },
+    {
+      "category": "Acceleration and Graphical Representation",
+      "points": [
+        "Acceleration = rate of change of velocity = (v−u)/t; SI unit m s⁻². Positive acceleration: velocity increases (in direction of motion). Negative acceleration (retardation/deceleration): velocity decreases (opposite to motion). Uniform acceleration: velocity changes by equal amounts in equal time (e.g., freely falling body). Non-uniform acceleration: unequal changes in equal time.",
+        "Distance-time graph: slope = speed. Straight inclined line → uniform speed. Curved line → non-uniform speed. Horizontal line → object at rest. Velocity-time graph: slope = acceleration. Horizontal line → uniform velocity. Straight inclined line → uniform acceleration. Area under the velocity-time graph = distance (magnitude of displacement) covered.",
+        "From the v-t graph for uniformly accelerating motion: distance = area of rectangle (ut) + area of triangle (½at²) = ut + ½at² — directly connecting the graphical method to the second equation of motion."
+      ]
+    },
+    {
+      "category": "Equations of Motion and Uniform Circular Motion",
+      "points": [
+        "Three equations of motion for uniform acceleration along a straight line: (1) v = u + at [velocity-time]; (2) s = ut + ½at² [position-time]; (3) v² = u² + 2as [velocity-position]. Unit conversion: km h⁻¹ × (5/18) = m s⁻¹. If starting from rest: u = 0; if stopping: v = 0; deceleration: a is negative.",
+        "Applied examples: Train from rest to 20 m s⁻¹ in 300 s → a = 1/15 m s⁻², distance = 3 km. Car brakes with a = −6 m s⁻², stops in 2 s → initial speed = 12 m s⁻¹, stopping distance = 12 m. Car 5 to 10 m s⁻¹ in 5 s → a = 1 m s⁻², distance = 37.5 m.",
+        "Uniform circular motion: object moves in a circle at constant speed but continuously changing direction (tangent to circle at every point) → it is accelerated motion. Speed = 2πr/t. When released, the object moves tangentially in a straight line (Activity 7.11 — stone on thread). Examples: Moon orbiting Earth, satellites, cyclist on circular track."
+      ]
+    }
+  ]
+}

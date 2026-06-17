@@ -1,0 +1,50 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "PRIME TIME",
+    "chapter_number": 5
+  },
+  "summary": [
+    {
+      "category": "Multiples and Factors",
+      "points": [
+        "Multiples are products of a number (e.g., 15 is a common multiple of 3 and 5), while factors are numbers that divide it exactly.",
+        "Common factors of two numbers are the divisors shared by both, used to simplify fractions and find jump sizes in the treasure game.",
+        "A perfect number is one where the sum of its divisors equals twice the number itself (e.g., 6 and 28)."
+      ]
+    },
+    {
+      "category": "Prime and Composite Numbers",
+      "points": [
+        "Prime numbers have exactly two factors (1 and themselves), whereas composite numbers have more than two factors.",
+        "The number 1 is unique as it is neither prime nor composite. 2 is the only even prime number in existence.",
+        "Twin primes are pairs of prime numbers with a difference of exactly 2, such as (3, 5) or (17, 19)."
+      ]
+    },
+    {
+      "category": "Co-prime Numbers",
+      "points": [
+        "Two numbers are co-prime if their only common factor is 1, regardless of whether the numbers themselves are prime or composite.",
+        "The first common multiple (LCM) of two co-prime numbers is always equal to their product ($l \\times b$).",
+        "Co-prime relationships are vital for security (safekeeping treasures) and artistic patterns like thread art."
+      ]
+    },
+    {
+      "category": "Prime Factorisation",
+      "points": [
+        "Prime factorisation is the unique way of writing any number greater than 1 as a product of prime numbers.",
+        "The order of factors doesn't change the result, but listing them in increasing order is a standard convention.",
+        "It is used to verify co-primality (no shared prime factors) and divisibility (one factorisation contained in another)."
+      ]
+    },
+    {
+      "category": "Divisibility Rules",
+      "points": [
+        "Divisibility by 10, 5, and 2 can be checked by looking at the last digit (0, 0/5, or even digits respectively).",
+        "For 4 and 8, one must check the number formed by the last two or last three digits of the original number.",
+        "These rules allow for checking factors of large numbers without performing tedious long division."
+      ]
+    }
+  ]
+}

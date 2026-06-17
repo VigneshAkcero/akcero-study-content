@@ -1,0 +1,25 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Playing with Constructions",
+    "chapter_number": 8
+  },
+  "flashcards": [
+    { "q": "What is the primary tool for drawing arcs and circles?", "a": "A compass." },
+    { "q": "What is the distance from a circle's centre to any point on its curve?", "a": "Radius." },
+    { "q": "Which property defines a rectangle's sides?", "a": "Opposite sides are equal in length." },
+    { "q": "What is the common measure of all angles in a square?", "a": "$90^\\circ$." },
+    { "q": "True or False: A rotated rectangle is still a rectangle.", "a": "True." },
+    { "q": "How must the corners of a quadrilateral be named?", "a": "In order around the perimeter (clockwise or anti-clockwise)." },
+    { "q": "What do we call a line segment connecting opposite corners of a square?", "a": "A diagonal." },
+    { "q": "What is the angle between a diagonal and a side in a square?", "a": "$45^\\circ$." },
+    { "q": "What is the ratio of length to breadth in a rectangle made of 2 identical squares?", "a": "2:1" },
+    { "q": "Where is the centre of a square located?", "a": "At the point where the two diagonals intersect." },
+    { "q": "What is the intersection of two arcs of the same radius used to find?", "a": "A point equidistant from the two arc centres." },
+    { "q": "True or False: The diagonals of a rectangle are always equal in length.", "a": "True." },
+    { "q": "What is an arc?", "a": "A part of a circle." },
+    { "q": "What is the purpose of a rough diagram in construction?", "a": "To plan the order of steps and visualize the final shape." },
+    { "q": "How many degrees are in the sum of two adjacent angles in a rectangle?", "a": "$180^\\circ$ (as each is $90^\\circ$)." }
+  ]
+}

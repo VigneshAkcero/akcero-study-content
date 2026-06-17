@@ -1,0 +1,42 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Arithmetic Progressions",
+    "chapter_number": 5
+  },
+  "summary": [
+    {
+      "category": "Definition and Basic Concepts",
+      "points": [
+        "An arithmetic progression (AP) is a sequence where the difference between consecutive terms is constant, called the common difference (d).",
+        "The general form of an AP is a, a + d, a + 2d, a + 3d, ..., where a is the first term. Every AP is uniquely determined by its first term and common difference.",
+        "To verify if a sequence is an AP, calculate the differences between consecutive terms; if all differences are equal, it is an AP."
+      ]
+    },
+    {
+      "category": "nth Term and Sum Formulas",
+      "points": [
+        "The nth term of an AP is given by aₙ = a + (n - 1)d. This formula enables finding any term directly without computing all previous terms.",
+        "The sum of the first n terms is Sₙ = n/2 [2a + (n - 1)d] or Sₙ = n/2 (a + l), where l = a + (n - 1)d is the last term.",
+        "The nth term can also be expressed as aₙ = Sₙ - Sₙ₋₁ (for n ≥ 2), relating the term to cumulative sums."
+      ]
+    },
+    {
+      "category": "Types and Special Cases",
+      "points": [
+        "A finite AP has a fixed number of terms with both first and last terms. An infinite AP continues indefinitely with no last term.",
+        "If three numbers a, b, c are in AP, then b is the arithmetic mean of a and c: b = (a + c) / 2. Multiple arithmetic means can be inserted between two numbers.",
+        "When d = 0, the AP is constant (all terms equal). APs with specific patterns (like consecutive integers) are common in applications."
+      ]
+    },
+    {
+      "category": "Applications and Problem-Solving",
+      "points": [
+        "APs model many real-world situations: salary increments, ladder rungs, savings patterns, and geometric measurements. Identify a and d from the problem context, then apply the nth term or sum formula.",
+        "Problems may involve finding specific terms, determining the number of terms, calculating sums, or inserting means between numbers. Use the formulas and set up equations to solve for unknowns.",
+        "Verification is crucial: ensure that the identified sequence has a constant common difference and that solutions satisfy the original problem conditions."
+      ]
+    }
+  ]
+}

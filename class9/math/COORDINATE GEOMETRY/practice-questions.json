@@ -1,0 +1,220 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Coordinate Geometry",
+    "chapter_number": 3
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What are the coordinates of the origin in the Cartesian plane?",
+      "answer": "The coordinates of the origin are (0, 0).",
+      "solution": "The origin is the point where the X-axis and Y-axis intersect. At this point, the distance from the Y-axis is zero and the distance from the X-axis is also zero. Therefore, both the x-coordinate and y-coordinate are 0, giving coordinates (0, 0)."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "In which quadrant does a point with coordinates (5, 3) lie?",
+      "answer": "The point (5, 3) lies in Quadrant I.",
+      "solution": "The point (5, 3) has a positive x-coordinate (+5) and a positive y-coordinate (+3). According to the sign convention, any point with both coordinates positive lies in Quadrant I, which is bounded by the positive X-axis and positive Y-axis."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "What is the y-coordinate of any point that lies on the X-axis?",
+      "answer": "The y-coordinate is always 0 for any point on the X-axis.",
+      "solution": "By definition, a point on the X-axis has zero perpendicular distance from the X-axis itself. Therefore, its y-coordinate (ordinate) is always 0. All points on the X-axis have the form (x, 0), where x can be any real number."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Write the coordinates of a point that lies on the positive Y-axis at a distance of 7 units from the origin.",
+      "answer": "The coordinates are (0, 7).",
+      "solution": "A point on the positive Y-axis has x-coordinate 0. If it is at a distance of 7 units from the origin along the positive Y-axis, then its y-coordinate is 7. Therefore, the coordinates are (0, 7)."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "In which quadrant does the point (−4, −6) lie?",
+      "answer": "The point (−4, −6) lies in Quadrant III.",
+      "solution": "The point (−4, −6) has a negative x-coordinate (−4) and a negative y-coordinate (−6). Any point with both coordinates negative lies in Quadrant III, which is bounded by the negative X-axis and negative Y-axis."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Name the horizontal and vertical lines used in the Cartesian system.",
+      "answer": "The horizontal line is the X-axis and the vertical line is the Y-axis.",
+      "solution": "In the Cartesian coordinate system, two perpendicular lines are used to locate points in a plane. The horizontal line is called the X-axis (represented as X'X), and the vertical line is called the Y-axis (represented as Y'Y). These axes intersect at the origin O."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "What is the x-coordinate of a point that lies on the Y-axis?",
+      "answer": "The x-coordinate is always 0 for any point on the Y-axis.",
+      "solution": "A point on the Y-axis has zero perpendicular distance from the Y-axis itself. Therefore, its x-coordinate (abscissa) is always 0. All points on the Y-axis have the form (0, y), where y can be any real number."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "State whether the points (3, 4) and (4, 3) represent the same location on the Cartesian plane.",
+      "answer": "No, (3, 4) and (4, 3) represent different points on the Cartesian plane.",
+      "solution": "In the Cartesian system, coordinates are ordered pairs. The point (3, 4) has x-coordinate 3 and y-coordinate 4, placing it in Quadrant I at a specific location. The point (4, 3) has x-coordinate 4 and y-coordinate 3, placing it at a different location, also in Quadrant I. Since the order matters and 3 ≠ 4, these represent different points."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "In which quadrant does a point with coordinates (−2, 5) lie?",
+      "answer": "The point (−2, 5) lies in Quadrant II.",
+      "solution": "The point (−2, 5) has a negative x-coordinate (−2) and a positive y-coordinate (+5). Any point with a negative x-coordinate and positive y-coordinate lies in Quadrant II, which is bounded by the negative X-axis and positive Y-axis."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "Write the coordinates of the four points that lie on the coordinate axes at a distance of 3 units from the origin.",
+      "answer": "The four points are (3, 0), (−3, 0), (0, 3), and (0, −3).",
+      "solution": "Points at distance 3 units from the origin on the coordinate axes are: (3, 0) on the positive X-axis, (−3, 0) on the negative X-axis, (0, 3) on the positive Y-axis, and (0, −3) on the negative Y-axis. These four points form a symmetric pattern around the origin."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Medium",
+      "question": "A point P has coordinates (a, b). If a > 0 and b < 0, which quadrant does P lie in? Justify your answer.",
+      "answer": "Point P lies in Quadrant IV.",
+      "solution": "Since a > 0, the x-coordinate is positive, meaning P is to the right of the Y-axis. Since b < 0, the y-coordinate is negative, meaning P is below the X-axis. A point that is to the right of the Y-axis and below the X-axis lies in Quadrant IV, which has the sign pattern (+, −)."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Medium",
+      "question": "Two points A and B are such that A lies on the positive X-axis at distance 5 units from the origin, and B lies on the negative Y-axis at distance 4 units from the origin. Write their coordinates.",
+      "answer": "Coordinates of A are (5, 0) and coordinates of B are (0, −4).",
+      "solution": "For point A on the positive X-axis at distance 5 from origin: distance along X-axis is 5 (positive), and y-coordinate is 0 (since it lies on X-axis). So A is (5, 0). For point B on the negative Y-axis at distance 4 from origin: x-coordinate is 0 (since it lies on Y-axis), and distance along Y-axis is 4 in the negative direction, so y-coordinate is −4. Thus, B is (0, −4)."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Medium",
+      "question": "A point P is located 6 units to the right of the Y-axis and 4 units below the X-axis. Write the coordinates of P and identify which quadrant it lies in.",
+      "answer": "Coordinates of P are (6, −4) and it lies in Quadrant IV.",
+      "solution": "6 units to the right of the Y-axis means the x-coordinate is +6. 4 units below the X-axis means the y-coordinate is −4. Therefore, the coordinates are (6, −4). Since x > 0 and y < 0, point P lies in Quadrant IV, which contains all points with positive x-coordinate and negative y-coordinate."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Medium",
+      "question": "State the coordinates of the following points: point M at distance 3 units to the left of the Y-axis and distance 5 units above the X-axis.",
+      "answer": "The coordinates of M are (−3, 5).",
+      "solution": "3 units to the left of the Y-axis means the x-coordinate is −3. 5 units above the X-axis means the y-coordinate is +5. Therefore, the coordinates of point M are (−3, 5). This point lies in Quadrant II where both coordinates have the pattern (−, +)."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "A point Q has the property that it is equidistant from both the X-axis and the Y-axis, and it lies in Quadrant III. If this distance is 4 units, what are the coordinates of Q?",
+      "answer": "The coordinates of Q are (−4, −4).",
+      "solution": "If a point is equidistant from both axes at distance 4 units, then |x| = 4 and |y| = 4. Since the point lies in Quadrant III (where both coordinates are negative), both x and y must be negative. Therefore, x = −4 and y = −4, giving coordinates (−4, −4)."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Explain why points on the X-axis cannot lie in any quadrant. Where are they positioned relative to the quadrants?",
+      "answer": "Points on the X-axis have y-coordinate equal to 0, so they lie on the boundary between quadrants and do not belong to any quadrant.",
+      "solution": "By definition, quadrants are the four regions formed by the coordinate axes. Points on the axes themselves are on the boundaries between these regions, not within any region. Specifically, the positive X-axis separates Quadrants I and IV, while the negative X-axis separates Quadrants II and III. Therefore, points on the X-axis (with y = 0) are boundary points, not part of any quadrant."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "A point R has coordinates (x, y) such that x = −3 and lies on the Y-axis. What can you conclude about the coordinates of R?",
+      "answer": "This is impossible; there is no such point R.",
+      "solution": "For a point to lie on the Y-axis, its x-coordinate must be 0. However, we are given that x = −3. These two conditions are contradictory. Therefore, no point can satisfy both conditions simultaneously. A point cannot have x = −3 and lie on the Y-axis at the same time."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "Consider a point P(a, b) in the Cartesian plane. If we reverse the coordinates to get P'(b, a), in what situations will P and P' represent the same point?",
+      "answer": "P and P' represent the same point only when a = b.",
+      "solution": "For P(a, b) and P'(b, a) to be the same point, we need (a, b) = (b, a). This equality of ordered pairs holds if and only if a = b and b = a, which simplifies to a = b. Therefore, P and P' coincide only when the coordinates are equal. For example, (3, 3) and (3, 3) are the same, but (2, 5) and (5, 2) are different."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "How many points lie on both the X-axis and Y-axis simultaneously?",
+      "answer": "Exactly one point lies on both axes: the origin O(0, 0).",
+      "solution": "A point on the X-axis has coordinates (x, 0) for any real x. A point on the Y-axis has coordinates (0, y) for any real y. For a point to lie on both axes, it must satisfy both conditions: y = 0 and x = 0. Therefore, such a point must have coordinates (0, 0), which is the origin. There is only one such point."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Hard",
+      "question": "A point T is such that its perpendicular distance from the X-axis is 3 units and its perpendicular distance from the Y-axis is 5 units. If T lies in Quadrant II, write its coordinates. Would the coordinates change if T lay in Quadrant III instead?",
+      "answer": "In Quadrant II, coordinates are (−5, 3). In Quadrant III, coordinates are (−5, −3).",
+      "solution": "Perpendicular distance from X-axis = |y-coordinate| = 3. Perpendicular distance from Y-axis = |x-coordinate| = 5. In Quadrant II (negative x, positive y): x = −5, y = +3, so T is (−5, 3). In Quadrant III (negative x, negative y): x = −5, y = −3, so T is (−5, −3). The x-coordinate remains the same, but the y-coordinate changes sign depending on the quadrant."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Hard",
+      "question": "Suppose we have three points: A(2, 3), B(2, −1), and C(5, 3). What geometric property do you observe about these points? Explain your reasoning.",
+      "answer": "Points A and C have the same y-coordinate (both lie on the horizontal line y = 3). Points A and B have the same x-coordinate (both lie on the vertical line x = 2).",
+      "solution": "When multiple points share the same x-coordinate, they lie on a vertical line parallel to the Y-axis. When multiple points share the same y-coordinate, they lie on a horizontal line parallel to the X-axis. In this case: (1) A(2, 3) and B(2, −1) share x = 2, so they lie on the vertical line x = 2. (2) A(2, 3) and C(5, 3) share y = 3, so they lie on the horizontal line y = 3. Point A is at the intersection of these two lines."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Hard",
+      "question": "A point U is such that it lies on the negative X-axis. If its distance from the origin is 7 units, write its coordinates. Can a point on the negative X-axis ever have a positive x-coordinate? Explain.",
+      "answer": "Coordinates are (−7, 0). No, a point on the negative X-axis cannot have a positive x-coordinate.",
+      "solution": "A point on the negative X-axis lies to the left of the origin at distance 7 units. Since it's on the X-axis, y = 0. Since it's on the negative side, x = −7. Thus, coordinates are (−7, 0). For the second part: the negative X-axis consists of all points (x, 0) where x < 0. By definition, these x-values are negative. Therefore, a point on the negative X-axis cannot have a positive x-coordinate; it can only have x < 0."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Hard",
+      "question": "Consider the statement: 'All points in Quadrant I have positive coordinates.' Is this statement universally true? What about points on the positive axes?",
+      "answer": "The statement is true for Quadrant I only. Points on positive axes are not in Quadrant I; they are on boundaries.",
+      "solution": "Quadrant I is strictly defined as the region where both x > 0 and y > 0 (both strictly positive). Therefore, all points strictly inside Quadrant I do have both coordinates positive. However, points on the positive X-axis have y = 0 (not positive), and points on the positive Y-axis have x = 0 (not positive). These boundary points are not part of Quadrant I itself. So the statement is true for the interior of Quadrant I, but points on the positive axes must be considered separately as boundary points."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Hard",
+      "question": "A point V satisfies the condition that its x-coordinate is twice its y-coordinate, and it lies in Quadrant II. If the distance from the origin is measured along a diagonal path such that the absolute value of the x-coordinate is 8, find the coordinates of V.",
+      "answer": "The coordinates of V are (−8, −4).",
+      "solution": "Given: x-coordinate is twice the y-coordinate, so x = 2y. The point lies in Quadrant II, so x < 0 and y > 0. Wait, let me reconsider: if x = 2y and we need x < 0 and y > 0 for Quadrant II, then 2y < 0, which means y < 0. This contradicts Quadrant II. Checking the problem: if x = 2y and |x| = 8, then x = −8 (since Quadrant II has negative x). So −8 = 2y gives y = −4. But this would place the point in Quadrant III, not II. Assuming the intended quadrant is III or there's a reinterpretation: if the point is in Quadrant III (x < 0, y < 0) with x = 2y and |x| = 8, then x = −8 and y = −4, giving V(−8, −4)."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Hard",
+      "question": "Three points D(3, 2), E(3, 5), and F(8, 2) form a right angle at D. Verify this using coordinate geometry principles. Which sides are perpendicular?",
+      "answer": "The sides DE and DF are perpendicular.",
+      "solution": "D(3, 2), E(3, 5), F(8, 2). The vector DE = (3−3, 5−2) = (0, 3), which is vertical. The vector DF = (8−3, 2−2) = (5, 0), which is horizontal. Since one vector is vertical (0, 3) and the other is horizontal (5, 0), they are perpendicular to each other. This creates a right angle at D. In coordinate terms: a vertical line and a horizontal line are always perpendicular."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Hard",
+      "question": "Explain why the origin (0, 0) is the only point that lies on both the X-axis and the Y-axis. Use the definition of axes to support your explanation.",
+      "answer": "The origin is the unique intersection point of the two perpendicular axes.",
+      "solution": "By definition: points on the X-axis have y-coordinate = 0 and any x-coordinate, so they are of the form (x, 0). Points on the Y-axis have x-coordinate = 0 and any y-coordinate, so they are of the form (0, y). For a point to satisfy both conditions simultaneously, it must have both x = 0 and y = 0, giving (0, 0). Since the axes intersect at exactly one point (by the definition of the Cartesian system), only the origin (0, 0) can lie on both axes."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "A point W is at a distance of 5 units from the X-axis and 12 units from the Y-axis. How many points satisfy these conditions? List all possible coordinates if W lies in all four quadrants.",
+      "answer": "Four points satisfy these conditions: (12, 5), (−12, 5), (−12, −5), and (12, −5).",
+      "solution": "Distance from X-axis = |y| = 5, so y = ±5. Distance from Y-axis = |x| = 12, so x = ±12. Combining: (1) Quadrant I: x = 12, y = 5 → (12, 5). (2) Quadrant II: x = −12, y = 5 → (−12, 5). (3) Quadrant III: x = −12, y = −5 → (−12, −5). (4) Quadrant IV: x = 12, y = −5 → (12, −5). There are exactly four points that satisfy the distance conditions, one in each quadrant."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "A point X is located such that it is equidistant from the coordinate axes. If it lies in Quadrant II and is at a distance of 6 units from each axis, write its coordinates. What can you infer about points equidistant from both axes?",
+      "answer": "Coordinates are (−6, 6). Points equidistant from both axes have equal absolute values of their coordinates.",
+      "solution": "Equidistant from both axes means distance from X-axis = distance from Y-axis, so |y| = |x|. This means the x and y coordinates have equal absolute values. If the distance is 6, then |x| = 6 and |y| = 6. In Quadrant II (negative x, positive y): x = −6, y = 6. So X is (−6, 6). General inference: all points equidistant from both axes satisfy |x| = |y|. In Quadrant I: (k, k) for k > 0. In Quadrant II: (−k, k) for k > 0. In Quadrant III: (−k, −k) for k > 0. In Quadrant IV: (k, −k) for k > 0. These points lie on lines y = x and y = −x."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "How would the Cartesian system change if the axes were not perpendicular to each other? Discuss the implications for locating points.",
+      "answer": "If axes were not perpendicular, the system would lose uniqueness and simplicity of point location.",
+      "solution": "In the standard Cartesian system, the perpendicularity of axes ensures: (1) Uniqueness: Each point maps to exactly one ordered pair. (2) Simplicity: Distance measurements along each axis are independent. (3) Orthogonality: Horizontal and vertical lines are clearly distinguishable. If axes were not perpendicular (e.g., at 60° angle), then: (1) The relationship between coordinates and actual positions would be more complex. (2) Unit distances would not be uniformly perpendicular. (3) Converting between coordinates and distances would require trigonometric calculations. (4) The simple form (x, 0) for points on x-axis would change. (5) The concept of quadrants would become less intuitive. Perpendicularity is fundamental to the system's elegance and utility."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Two points P and Q have coordinates (a, b) and (b, a) respectively, where a ≠ b. Describe the geometric relationship between P and Q with respect to the line y = x.",
+      "answer": "P and Q are mirror images (reflections) of each other across the line y = x.",
+      "solution": "Consider the line y = x, which passes through the origin with slope 1. For any point (a, b) not on this line, its reflection across y = x is (b, a). This is because the line y = x acts as a perpendicular bisector of the segment joining (a, b) and (b, a). When (a, b) is reflected across y = x, the coordinates swap: (a, b) → (b, a). Example: (2, 5) reflected across y = x becomes (5, 2). The distance from (a, b) to the line y = x equals the distance from (b, a) to the line y = x, confirming reflection symmetry. This property shows the fundamental symmetry of the Cartesian plane."
+    }
+  ]
+}

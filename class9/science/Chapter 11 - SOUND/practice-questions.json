@@ -1,0 +1,241 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Science",
+    "chapter_name": "Sound",
+    "chapter_number": 11
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is sound? How is it produced?",
+      "answer": "Sound is a form of energy that produces the sensation of hearing. It is produced by the vibration of objects.",
+      "solution": "Sound is a form of energy that travels through a medium and is detected by our ears. It is produced when an object vibrates — that is, moves rapidly to and fro about its mean position. For example, when a tuning fork is struck on a rubber pad, its prongs vibrate and produce sound. When a stretched rubber band is plucked, it vibrates and produces sound. The human voice is produced by vibrations of the vocal cords. In all cases, vibration is the essential cause of sound production."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Can sound travel through vacuum? Justify your answer.",
+      "answer": "No. Sound requires a material medium (solid, liquid, or gas) to travel. It cannot travel through vacuum.",
+      "solution": "Sound is a mechanical wave — it propagates by causing particles of the medium to vibrate about their mean positions and pass the disturbance to neighbouring particles. In a vacuum, there are no particles. With no particles to transmit the disturbance, sound cannot propagate. This is why two people on the moon (which has virtually no atmosphere) cannot hear each other speak directly, even when shouting — there is no medium for sound to travel through."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Why are sound waves called mechanical waves?",
+      "answer": "Sound waves are called mechanical waves because they require a material medium (solid, liquid, or gas) to propagate. They cannot travel through vacuum.",
+      "solution": "Mechanical waves are those that need a material medium for their propagation — they work by transferring energy from one particle to the adjacent particle. Sound waves travel through a medium by causing each particle to oscillate about its mean position and disturb the next particle. Since no particles exist in a vacuum, sound cannot travel through it. This is the defining characteristic of mechanical waves. (In contrast, electromagnetic waves like light can travel through vacuum.)"
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Define: (i) compression (ii) rarefaction.",
+      "answer": "(i) Compression: A region of high pressure and high density in the medium where particles are crowded together, formed when the vibrating source moves forward. (ii) Rarefaction: A region of low pressure and low density where particles are spread apart, formed when the source moves backward.",
+      "solution": "When a vibrating object (e.g., a tuning fork) moves forward, it pushes the air particles ahead of it, creating a crowded region of higher pressure and density — called a compression (C). When the vibrating object moves backward, it leaves behind a region of lower pressure and density where particles are spread apart — called a rarefaction (R). A sound wave consists of a series of alternating compressions and rarefactions propagating through the medium. The propagation of sound can be thought of as propagation of pressure and density variations in the medium."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Easy",
+      "question": "What is a longitudinal wave? Why is sound classified as a longitudinal wave?",
+      "answer": "In a longitudinal wave, particles of the medium oscillate parallel to the direction of propagation of the wave. Sound is longitudinal because the air particles vibrate back and forth in the same direction as the sound wave travels.",
+      "solution": "In a longitudinal wave, the individual particles of the medium oscillate back and forth along the direction of wave propagation. The particles do not travel forward themselves — they simply oscillate about their mean position.\nSound is a longitudinal wave because: when a vibrating object pushes forward, it compresses the nearby air layer; that layer then pushes the next, and so on. Each air particle moves forward and backward (parallel to the direction of sound travel) while passing the disturbance along. This is confirmed by the slinky experiment: when you push and pull one end of a slinky, compressions and rarefactions travel along its length — and a marked dot on the slinky moves parallel to the direction of wave travel."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Easy",
+      "question": "Define wavelength, frequency, time period, and amplitude of a sound wave. Give the SI unit of each.",
+      "answer": "Wavelength (λ): Distance between two consecutive compressions or rarefactions — SI unit: metre (m). Frequency (ν): Number of complete oscillations per second — SI unit: hertz (Hz). Time Period (T): Time for one complete oscillation — SI unit: second (s). Amplitude (A): Maximum displacement of a particle from its mean position — unit: pressure/density unit.",
+      "solution": "Wavelength (λ): The distance between two consecutive compressions or two consecutive rarefactions. SI unit: metre (m).\n\nFrequency (ν): The number of complete oscillations (or compressions/rarefactions passing a fixed point) per unit time. SI unit: hertz (Hz). 1 Hz = 1 oscillation per second.\n\nTime Period (T): The time taken by the wave for one complete oscillation. SI unit: second (s). Relationship: T = 1/ν.\n\nAmplitude (A): The magnitude of the maximum disturbance in the medium from the mean value. For sound, it is expressed in units of pressure or density. A larger amplitude corresponds to a louder sound."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Easy",
+      "question": "State the relationship between frequency and time period of a sound wave.",
+      "answer": "Frequency (ν) and time period (T) are reciprocals: ν = 1/T.",
+      "solution": "If T is the time for one complete oscillation, then in 1 second, the number of oscillations completed = 1/T. This is the frequency:\n  ν = 1/T  or equivalently  T = 1/ν\n\nExample: If T = 0.002 s, then ν = 1/0.002 = 500 Hz.\nIf ν = 220 Hz, then T = 1/220 ≈ 0.0045 s."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Easy",
+      "question": "Which wave property determines (a) loudness and (b) pitch of sound?",
+      "answer": "(a) Loudness is determined by the amplitude of the sound wave. (b) Pitch is determined by the frequency of the sound wave.",
+      "solution": "(a) Loudness: The amplitude of a sound wave determines how loud the sound is. A larger amplitude means more energy is carried — the sound is louder. Striking a table hard produces a large amplitude wave → louder sound. Striking it lightly produces a small amplitude wave → softer sound.\n\n(b) Pitch: Pitch is how the brain interprets frequency. A higher frequency means more compressions/rarefactions pass a fixed point per second — the sound is shriller (higher pitch). A lower frequency → deeper (lower pitch) sound. For example, a whistle has a higher pitch (high frequency) than a drum (low frequency)."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Easy",
+      "question": "What is echo? State the conditions required to hear a distinct echo.",
+      "answer": "Echo is the reflected sound heard after the original sound. For a distinct echo, the reflected sound must reach the listener at least 0.1 s after the original, requiring the reflecting surface to be at least 17.2 m away (at 22°C).",
+      "solution": "When sound strikes a hard, large reflecting surface (e.g., a cliff or a tall building) and bounces back to the listener, the reflected sound is called an echo.\n\nConditions for a distinct echo:\n1. The brain retains the sensation of sound for 0.1 s. For the echo to be heard as a separate sound, it must arrive at least 0.1 s after the original.\n2. In this time, sound (at 344 m/s at 22°C) travels: 344 × 0.1 = 34.4 m total (to obstacle and back).\n3. Minimum distance of reflecting surface from source = 34.4 / 2 = 17.2 m.\n4. This minimum distance changes with temperature as the speed of sound changes."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Easy",
+      "question": "What is reverberation? How can it be reduced in an auditorium?",
+      "answer": "Reverberation is the persistence of sound in an enclosed space due to repeated reflections from walls, ceiling, and floor. It is reduced by using sound-absorbent materials on walls and ceilings.",
+      "solution": "When sound is produced in a large enclosed space, it gets reflected repeatedly from the walls, ceiling, and floor. Each reflection reduces the intensity slightly, but the sound persists until it becomes inaudible. This persistence of sound is called reverberation.\n\nExcessive reverberation in auditoriums causes sounds to overlap, making speech or music unclear.\n\nMethods to reduce reverberation:\n1. Cover the roof and walls with sound-absorbent materials such as compressed fibreboard, rough plaster, or heavy draperies.\n2. Use seats made of sound-absorbing material.\n3. Install carpets and curtains.\n4. Use acoustic tiles on ceilings and walls."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Easy",
+      "question": "What is the audible range of the average human ear?",
+      "answer": "The audible range of the average human ear is from 20 Hz to 20,000 Hz (20 kHz).",
+      "solution": "Human ears can detect sounds in the frequency range of 20 Hz to 20,000 Hz. Sounds below 20 Hz are called infrasound and are inaudible to humans. Sounds above 20,000 Hz are called ultrasound and are also inaudible to humans.\n\nNote: Children under 5 years of age and some animals (e.g., dogs) can hear up to 25 kHz. As people age, their ears become less sensitive to higher frequencies."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Easy",
+      "question": "Distinguish between infrasound and ultrasound.",
+      "answer": "Infrasound: frequency below 20 Hz, inaudible to humans. Ultrasound: frequency above 20,000 Hz (20 kHz), also inaudible to humans.",
+      "solution": "Infrasound:\n- Frequency: below 20 Hz\n- Inaudible to the average human ear\n- Produced by: whales, elephants, rhinoceroses\n- Also generated by: earthquakes (before the main shock waves)\n\nUltrasound:\n- Frequency: above 20,000 Hz (20 kHz)\n- Inaudible to the average human ear\n- Produced by: bats, dolphins, porpoises, rats\n- Applications: cleaning, flaw detection in metals, medical imaging (ultrasonography, echocardiography), breaking kidney stones, SONAR"
+    },
+    {
+      "id": "q13",
+      "difficulty": "Easy",
+      "question": "Name any three applications of ultrasound.",
+      "answer": "1. Detecting cracks and flaws in metal blocks. 2. Ultrasonography — imaging internal organs of the body. 3. SONAR — measuring distances and detecting underwater objects.",
+      "solution": "1. Detecting flaws in metal: Ultrasonic waves are passed through a metal block. If there is a crack, the waves reflect back from the crack instead of passing through — indicating the flaw. Ordinary sound cannot be used because it diffracts around small defects.\n\n2. Ultrasonography: Ultrasonic waves are reflected from body tissues of different densities. These reflections are converted to electrical signals and displayed as images, allowing doctors to diagnose conditions in organs like the liver, kidney, uterus, gall bladder, and monitor foetal development.\n\n3. SONAR: Uses ultrasonic pulses to detect the position and distance of underwater objects (submarines, the sea bed, schools of fish). Distance = (v × t) / 2."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Easy",
+      "question": "What is quality (timbre) of sound? How does it help us in daily life?",
+      "answer": "Quality (timbre) is the characteristic of sound that allows us to distinguish between two sounds of the same pitch and loudness. It helps us identify different musical instruments and recognise people by their voices.",
+      "solution": "Even when two sounds have the same pitch (frequency) and loudness (amplitude), we can tell them apart — for example, a violin and a flute playing the same note at the same volume sound different. This distinguishing characteristic is called quality or timbre.\n\nQuality is determined by the waveform of the sound — the mixture of frequencies (harmonics) present in addition to the fundamental frequency. A pure tone has only one frequency; a note is a mixture of many frequencies.\n\nIn daily life: We can recognise a friend's voice in a dark room, identify which musical instrument is playing in an orchestra, and distinguish music (pleasant, rich quality) from noise (unpleasant, irregular waveform)."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Medium",
+      "question": "A sound wave has a frequency of 2 kHz and wavelength 35 cm. (i) Calculate the speed of sound. (ii) How long will it take to travel 1.5 km?",
+      "answer": "(i) Speed = 700 m/s. (ii) Time = 2.14 s.",
+      "solution": "Given: ν = 2 kHz = 2000 Hz, λ = 35 cm = 0.35 m, d = 1.5 km = 1500 m\n\n(i) Speed:\n  v = λ × ν = 0.35 × 2000 = 700 m/s\n\n(ii) Time to travel 1500 m:\n  t = d / v = 1500 / 700 = 15/7 ≈ 2.14 s\n\nThe sound takes approximately 2.14 s to travel 1.5 km."
+    },
+    {
+      "id": "q16",
+      "difficulty": "Medium",
+      "question": "Calculate the wavelength of a sound wave whose frequency is 220 Hz and speed is 440 m/s.",
+      "answer": "Wavelength = 2 m.",
+      "solution": "Given: ν = 220 Hz, v = 440 m/s\n\nUsing v = λ × ν:\n  λ = v / ν = 440 / 220 = 2 m\n\nThe wavelength of the sound wave is 2 m."
+    },
+    {
+      "id": "q17",
+      "difficulty": "Medium",
+      "question": "A person clapped his hands near a cliff and heard the echo after 3 s. What is the distance of the reflecting surface from the source? (Speed of sound = 342 m s⁻¹)",
+      "answer": "Distance = 513 m.",
+      "solution": "Given: v = 342 m s⁻¹, t = 3 s\n\nTotal distance covered by sound = v × t = 342 × 3 = 1026 m\n\nThe sound travels to the cliff and back, so:\n  Distance to cliff = 1026 / 2 = 513 m\n\nThe reflecting surface is 513 m from the source."
+    },
+    {
+      "id": "q18",
+      "difficulty": "Medium",
+      "question": "A sound wave travels at a speed of 339 m s⁻¹. If its wavelength is 1.5 cm, what is the frequency of the wave? Will it be audible to humans?",
+      "answer": "Frequency = 22,600 Hz. It will NOT be audible — it is ultrasound (above 20,000 Hz).",
+      "solution": "Given: v = 339 m s⁻¹, λ = 1.5 cm = 0.015 m\n\nUsing v = λ × ν:\n  ν = v / λ = 339 / 0.015 = 22,600 Hz\n\nThe audible range for humans is 20 Hz to 20,000 Hz. Since 22,600 Hz > 20,000 Hz, the sound falls in the ultrasound range and is NOT audible to the average human ear."
+    },
+    {
+      "id": "q19",
+      "difficulty": "Medium",
+      "question": "A person is sitting 450 m from a source producing a tone of 500 Hz. What is the time interval between successive compressions reaching the listener?",
+      "answer": "The time interval between successive compressions = Time Period = 1/500 = 0.002 s.",
+      "solution": "The time interval between successive compressions reaching a listener is the time period T of the wave. This is independent of the distance between the source and the listener (as long as the speed remains constant).\n\n  T = 1/ν = 1/500 = 0.002 s\n\nThe time interval between successive compressions from the source is 0.002 s (2 milliseconds).\n\nNote: The 450 m distance is irrelevant here — T depends only on the frequency of the source, not the position of the listener."
+    },
+    {
+      "id": "q20",
+      "difficulty": "Medium",
+      "question": "The frequency of a source of sound is 100 Hz. How many times does it vibrate in one minute?",
+      "answer": "6000 times in one minute.",
+      "solution": "Frequency = 100 Hz means the source completes 100 oscillations per second.\n\nIn 1 minute = 60 seconds:\n  Number of oscillations = 100 × 60 = 6000\n\nThe source vibrates 6000 times in one minute."
+    },
+    {
+      "id": "q21",
+      "difficulty": "Medium",
+      "question": "A person has a hearing range of 20 Hz to 20 kHz. What are the typical wavelengths corresponding to these two extremes? (Speed of sound in air = 344 m s⁻¹)",
+      "answer": "At 20 Hz: λ = 17.2 m. At 20,000 Hz: λ = 0.0172 m (1.72 cm).",
+      "solution": "Using λ = v / ν:\n\nAt the lower limit (ν = 20 Hz):\n  λ = 344 / 20 = 17.2 m\n\nAt the upper limit (ν = 20,000 Hz):\n  λ = 344 / 20,000 = 0.0172 m = 1.72 cm\n\nThe audible wavelengths span from about 1.72 cm (high-pitched sounds) to 17.2 m (low-pitched sounds). This large range explains why sound bends around obstacles of varying sizes."
+    },
+    {
+      "id": "q22",
+      "difficulty": "Medium",
+      "question": "Does sound follow the same laws of reflection as light? Explain with reference to the angle of incidence and angle of reflection.",
+      "answer": "Yes. The angle of incidence equals the angle of reflection, and the incident sound, reflected sound, and normal to the surface all lie in the same plane.",
+      "solution": "Sound follows the same two laws of reflection as light:\n1. The angle of incidence (between the incident sound ray and the normal to the reflecting surface at the point of incidence) equals the angle of reflection (between the reflected sound ray and the normal).\n2. The incident sound, the reflected sound, and the normal to the reflecting surface at the point of incidence all lie in the same plane.\n\nThis can be verified using two long tubes aimed at a wall: when the angle of one tube (source) is adjusted to equal the angle of the other (listener) relative to the normal of the wall, the sound is heard most clearly — confirming that reflection of sound obeys the same laws as reflection of light.\n\nA large obstacle is required for noticeable reflection of sound."
+    },
+    {
+      "id": "q23",
+      "difficulty": "Medium",
+      "question": "Why are the ceilings of concert halls and conference halls curved?",
+      "answer": "Curved (concave) ceilings reflect sound so that it spreads uniformly to all corners of the hall, ensuring every audience member hears clearly without any region being too loud or too soft.",
+      "solution": "In a large hall with a flat ceiling, reflected sound reaches some parts of the audience more strongly than others, creating uneven sound distribution. Sound also scatters in many directions.\n\nA curved (concave) ceiling acts like a concave reflector — it reflects sound from the stage towards the audience in a controlled, spread-out manner so that:\n1. Sound reaches all corners of the hall.\n2. Every audience member receives adequate sound intensity.\n3. Dead zones (areas with very little sound) are minimised.\n\nSimilarly, a curved soundboard placed behind the stage reflects sound evenly across the width of the hall. Megaphones and horns use the same principle to direct sound in one forward direction."
+    },
+    {
+      "id": "q24",
+      "difficulty": "Medium",
+      "question": "On a hotter day, would you hear an echo at the same distance as on a cooler day? Explain.",
+      "answer": "No. On a hotter day, the speed of sound is higher, so the minimum distance required for a distinct echo increases. An echo heard at a certain distance on a cool day may not be distinct on a hotter day.",
+      "solution": "The minimum distance for a distinct echo = (v × 0.1) / 2 = v / 20.\n\nOn a hotter day:\n- Speed of sound (v) increases (since speed of sound increases with temperature).\n- Minimum distance = v / 20 → increases.\n\nSo if you are standing at a fixed distance from a reflecting surface:\n- On a cooler day (lower v): minimum distance might be met → distinct echo heard.\n- On a hotter day (higher v): the reflecting surface might now be too close for the higher speed — the echo arrives in less than 0.1 s and merges with the original sound → echo may not be distinct.\n\nExample: At 22°C (v ≈ 344 m/s), minimum distance = 17.2 m. At a higher temperature, v > 344, so minimum distance > 17.2 m."
+    },
+    {
+      "id": "q25",
+      "difficulty": "Medium",
+      "question": "How does ultrasound clean objects located in hard-to-reach places?",
+      "answer": "Objects are placed in a cleaning solution and ultrasonic waves are passed through it. The high-frequency vibrations dislodge dirt, grease, and dust particles from the surfaces, which then drop out into the solution.",
+      "solution": "Ultrasound cleaning works as follows:\n1. The object to be cleaned (e.g., a spiral tube, electronic component, or odd-shaped part) is placed in a cleaning solution.\n2. Ultrasonic waves of high frequency are sent into the solution.\n3. The high-frequency vibrations create rapid oscillations in the solution.\n4. These oscillations transfer energy to the surface of the object and dislodge particles of dust, grease, and dirt — even from crevices and hard-to-reach areas that brushes cannot access.\n5. The detached particles drop off into the solution, leaving the object thoroughly cleaned.\n\nThis method is more effective than manual cleaning because ultrasound reaches every surface uniformly, regardless of how complex the shape is."
+    },
+    {
+      "id": "q26",
+      "difficulty": "Medium",
+      "question": "Explain how defects in a metal block can be detected using ultrasound. Why can't ordinary audible sound be used for this purpose?",
+      "answer": "Ultrasonic waves are passed through the metal block. Detectors on the other side receive transmitted waves. If there is a crack or flaw, the ultrasound reflects back from it — indicating the defect. Ordinary sound cannot be used because its longer wavelength diffracts around small defects.",
+      "solution": "Flaw detection using ultrasound:\n1. Ultrasonic waves are directed into the metal block from one side.\n2. Detectors on the other side measure the transmitted waves.\n3. If the block has no defect, the waves pass through uniformly and reach the detectors uniformly.\n4. If there is a crack, hole, or flaw inside, the ultrasound reflects back from the boundary of the defect instead of passing through — the detector receives less signal, or the reflected wave is detected, indicating the location and size of the defect.\n\nWhy not ordinary sound?\nOrdinary audible sound has longer wavelengths (e.g., at 344 m/s and 1000 Hz, λ = 0.344 m = 34.4 cm). Such long waves diffract (bend) around small defects and still reach the detector — the defect goes undetected. Ultrasound has much shorter wavelengths and does NOT diffract around small defects — it reflects straight back, making even tiny flaws detectable."
+    },
+    {
+      "id": "q27",
+      "difficulty": "Hard",
+      "question": "A stone is dropped from the top of a tower 500 m high into a pond at the base. When is the splash heard at the top? (g = 10 m s⁻², speed of sound = 340 m s⁻¹)",
+      "answer": "Total time ≈ 11.47 s (10 s for stone to fall + 1.47 s for sound to travel up).",
+      "solution": "Step 1 — Time for the stone to fall 500 m:\n  Using s = ½gt²:\n  500 = ½ × 10 × t²\n  t² = 100 → t₁ = 10 s\n\nStep 2 — Time for sound to travel 500 m upward to the top:\n  t₂ = distance / speed = 500 / 340 ≈ 1.47 s\n\nStep 3 — Total time from dropping the stone to hearing the splash:\n  t = t₁ + t₂ = 10 + 1.47 = 11.47 s\n\nThe splash is heard at the top of the tower approximately 11.47 s after the stone is dropped."
+    },
+    {
+      "id": "q28",
+      "difficulty": "Hard",
+      "question": "Two children are at opposite ends of an aluminium rod. One strikes the end of the rod with a stone. Find the ratio of times taken by the sound wave in air and in aluminium to reach the second child. (Speed of sound in air = 346 m s⁻¹; in aluminium = 6420 m s⁻¹)",
+      "answer": "Ratio of times (air : aluminium) ≈ 18.55 : 1.",
+      "solution": "Let the length of the rod = d (same distance for both paths).\n\nTime taken by sound through air:\n  t_air = d / v_air = d / 346\n\nTime taken by sound through aluminium:\n  t_al = d / v_al = d / 6420\n\nRatio = t_air / t_al = (d/346) / (d/6420) = 6420 / 346 ≈ 18.55\n\nSo, sound through air takes approximately 18.55 times longer than through aluminium to travel the same distance. The child hears two sounds — first through the rod (faster), then through air (slower), demonstrating that sound travels much faster in solids than in gases."
+    },
+    {
+      "id": "q29",
+      "difficulty": "Hard",
+      "question": "A SONAR device on a submarine sends out an ultrasonic pulse and detects the echo 3.6 s later. If the speed of sound in water is 1500 m s⁻¹, how far away is the underwater object?",
+      "answer": "Distance = 2700 m.",
+      "solution": "Given: v = 1500 m s⁻¹, t = 3.6 s (total time for pulse to go and reflected echo to return)\n\nUsing the SONAR formula:\n  Distance = (v × t) / 2 = (1500 × 3.6) / 2 = 5400 / 2 = 2700 m\n\nThe underwater object is 2700 m away from the submarine.\n\nKey principle: The pulse travels to the object and back, so the total distance covered is 2 × d. Hence d = (v × t) / 2."
+    },
+    {
+      "id": "q30",
+      "difficulty": "Hard",
+      "question": "Flash and thunder are produced simultaneously during a storm. Explain why thunder is heard several seconds after the flash is seen. If a person observes a 5-second gap between seeing the flash and hearing the thunder, how far is the lightning from the person? (Speed of sound = 340 m s⁻¹; speed of light ≈ 3 × 10⁸ m s⁻¹)",
+      "answer": "Because light travels much faster than sound. The distance = 1700 m (1.7 km).",
+      "solution": "Explanation:\nBoth the flash (light) and thunder (sound) are produced at the same instant when lightning strikes. Light travels at ≈ 3 × 10⁸ m s⁻¹, while sound travels at ≈ 340 m s⁻¹. Light is approximately 10⁶ times faster than sound, so it reaches the observer almost instantaneously. Sound takes several seconds to travel the same distance, so the thunder is heard after the flash.\n\nCalculation:\nTime gap = 5 s, speed of sound = 340 m s⁻¹\n(The time for light to travel the same distance is negligible.)\n\nDistance = speed of sound × time = 340 × 5 = 1700 m = 1.7 km\n\nThe lightning struck approximately 1.7 km away."
+    },
+    {
+      "id": "q31",
+      "difficulty": "Hard",
+      "question": "A bat emits ultrasound and detects the echo from an insect after 0.004 s. If the speed of sound in air is 340 m s⁻¹, how far is the insect from the bat? Why does a bat use ultrasound rather than audible sound for echolocation?",
+      "answer": "Distance = 0.68 m. Bats use ultrasound because its very short wavelength reflects off small objects like insects without diffracting around them.",
+      "solution": "Step 1 — Distance to insect:\n  Distance = (v × t) / 2 = (340 × 0.004) / 2 = 1.36 / 2 = 0.68 m\n\nThe insect is 0.68 m away from the bat.\n\nStep 2 — Why ultrasound?\nAudible sound (20 Hz–20 kHz) has relatively long wavelengths (1.7 cm to 17.2 m at 344 m/s). Long wavelengths diffract around small objects like insects instead of reflecting off them — the bat would receive no echo from a small insect.\n\nUltrasound (> 20 kHz) has very short wavelengths. Short wavelengths do NOT diffract around small obstacles — they reflect off them clearly. This allows bats to detect tiny insects through echolocation with great precision. The bat emits a pulse of ultrasound, waits for the echo, and from the time delay determines both the direction and distance of the insect."
+    },
+    {
+      "id": "q32",
+      "difficulty": "Hard",
+      "question": "Distinguish between loudness and intensity of sound. Why may two sounds of equal intensity be perceived as having different loudness?",
+      "answer": "Intensity is an objective physical quantity (energy per second per unit area). Loudness is a subjective physiological response of the ear. Different frequencies of the same intensity may be heard as louder or softer because the ear is more sensitive to some frequencies than others.",
+      "solution": "Intensity of sound:\n- Definition: The amount of sound energy passing each second through unit area (perpendicular to the direction of propagation).\n- It is an objective, measurable physical quantity.\n- Depends on the amplitude of the wave: greater amplitude → greater intensity.\n\nLoudness:\n- Definition: A measure of the response of the ear (and brain) to sound — a subjective, physiological perception.\n- Two people may perceive the same sound as having different loudness.\n\nWhy equal intensity may produce different perceived loudness:\nThe human ear is not equally sensitive to all frequencies. It is most sensitive to sounds in the range of 1,000–4,000 Hz. For sounds at very low or very high frequencies (near the limits of audibility), even if the intensity is the same as a mid-range sound, they may be perceived as softer. Therefore, the same physical intensity can produce different levels of perceived loudness depending on the frequency — this is why loudness and intensity are not the same thing."
+    },
+    {
+      "id": "q33",
+      "difficulty": "Hard",
+      "question": "Explain the working of a stethoscope using the concept of multiple reflection of sound.",
+      "answer": "In a stethoscope, sound from the patient's body is channelled through the earpieces via multiple reflections inside the curved rubber tubes, amplifying and directing the sound to the doctor's ears.",
+      "solution": "A stethoscope uses the principle of multiple reflection of sound.\n\nWorking:\n1. The chest piece (a disc with a diaphragm) is placed on the patient's body (chest, back, etc.).\n2. The sound of the heartbeat or breathing causes the diaphragm to vibrate, producing sound waves inside the stethoscope tubes.\n3. The sound travels through the curved (usually Y-shaped) rubber tubes and undergoes multiple reflections from the inner walls of the tube.\n4. With each reflection, the sound is guided along the tube towards the earpieces — it is not lost in all directions.\n5. The multiple reflections keep the sound energy concentrated within the tube, ensuring the doctor hears even faint internal body sounds clearly.\n\nThis is the same principle used in megaphones and horns — the tube walls reflect sound successively in the desired direction, preventing energy loss."
+    }
+  ]
+}

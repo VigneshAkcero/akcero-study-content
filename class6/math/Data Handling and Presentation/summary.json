@@ -1,0 +1,40 @@
+{
+  "chapter_info": {
+    "class": 6,
+    "subject": "Math",
+    "chapter_name": "Data Handling and Presentation",
+    "chapter_number": 4
+  },
+  "summary": [
+    {
+      "category": "Data Collection and Organisation",
+      "points": [
+        "Data is any collection of facts, numbers, or observations used to convey information.",
+        "Organising raw data into a frequency distribution table using tally marks makes it readable and useful for analysis.",
+        "Frequency is the count of how many times each item appears in the data set."
+      ]
+    },
+    {
+      "category": "Pictographs",
+      "points": [
+        "A pictograph uses pictures or symbols to represent data frequencies, making it easy to interpret at a glance.",
+        "The scale or key must be specified to show how many units each symbol represents (e.g., 1 symbol = 5 objects)."
+      ]
+    },
+    {
+      "category": "Bar Graphs",
+      "points": [
+        "Bar graphs use rectangular bars of uniform width and equal spacing to represent and compare data frequencies.",
+        "Choosing a suitable scale for the axis is important to ensure the graph accurately represents the data efficiently.",
+        "Horizontal bars are often used for lengths, while vertical bars (columns) are commonly used for heights."
+      ]
+    },
+    {
+      "category": "Visual Aesthetics and Infographics",
+      "points": [
+        "Infographics are artistic data visualisations that use engaging imagery to communicate information quickly.",
+        "While aesthetics enhance appeal, care must be taken to ensure visuals do not mislead by distorting proportions or scales."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Triangles",
+    "chapter_number": 6
+  },
+  "summary": [
+    {
+      "category": "Similarity of Figures and Triangles",
+      "points": [
+        "Two figures are similar if they have the same shape but not necessarily the same size. For similar polygons: (i) corresponding angles are equal, and (ii) corresponding sides are in the same ratio (scale factor).",
+        "Two triangles are similar if they satisfy one of the criteria: AAA (all angles equal), AA (two angles equal), SSS (all sides proportional), or SAS (one angle equal and including sides proportional).",
+        "The Thales' Theorem (Basic Proportionality Theorem) states: if a line parallel to one side of a triangle intersects the other two sides, it divides them in the same ratio. The converse is also true."
+      ]
+    },
+    {
+      "category": "Properties of Similar Triangles and Scale Factor",
+      "points": [
+        "If two triangles are similar with scale factor k, then: (i) the ratio of corresponding sides is k, (ii) the ratio of perimeters is k, and (iii) the ratio of areas is k².",
+        "Linear dimensions (sides, altitudes, medians, radii) of similar figures scale by the scale factor k, while areas scale by k².",
+        "Similar triangles allow indirect measurements: finding heights of tall objects, distances to far objects, and solving practical geometry problems without direct measurement."
+      ]
+    },
+    {
+      "category": "Pythagoras Theorem",
+      "points": [
+        "Pythagoras Theorem: In a right-angled triangle, the square of the hypotenuse equals the sum of squares of the other two sides: c² = a² + b².",
+        "Converse of Pythagoras Theorem: If c² = a² + b² in a triangle with sides a, b, c, then the triangle is right-angled with the right angle opposite side c.",
+        "Pythagoras theorem can be proved using the similarity of triangles formed when an altitude is drawn from the right angle to the hypotenuse."
+      ]
+    },
+    {
+      "category": "Key Relationships and Applications",
+      "points": [
+        "All congruent figures are similar with scale factor 1. Not all similar figures are congruent; congruence requires equal size in addition to equal shape.",
+        "For problem-solving: identify similar triangles using the criteria, establish correspondence, use proportionality of sides to find unknown lengths, and apply area relationships.",
+        "Practical applications include measuring heights using shadows and similar triangles, determining distances indirectly, and verifying right angles using Pythagoras theorem or its converse."
+      ]
+    }
+  ]
+}

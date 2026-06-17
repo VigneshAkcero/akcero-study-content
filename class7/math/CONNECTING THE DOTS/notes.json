@@ -1,0 +1,544 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "CONNECTING THE DOTS",
+    "chapter_number": 5
+  },
+  "notes": [
+    {
+      "section_title": "Statistical Statements and Questions",
+      "topics": [
+        {
+          "topic_name": "Understanding Statistical Thinking",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Statistical thinking involves making educated guesses or conclusions about groups of data based on observed patterns and numerical values. A statistical statement is a claim or summary about some phenomenon expressed in terms of numerical values, proportions, probabilities, or predictions. These statements are based on data analysis rather than individual observations."
+            },
+            {
+              "type": "definition",
+              "term": "Statistical Question",
+              "definition": "A question that can be answered by collecting data. Statistical questions expect variability in the answers because different people or things may have different characteristics. Examples: 'How tall are Grade 7 students in our school?' (heights vary) or 'Typically, are onions costlier in Yahapur or Wahapur?' (prices change over time)."
+            },
+            {
+              "type": "definition",
+              "term": "Non-Statistical Question",
+              "definition": "A question that has a single definite answer, not involving variability or the need for data collection. Examples: 'What is the price of one specific tennis ball right now?' or 'Do you like reading?' which expects a yes/no answer specific to one person."
+            },
+            {
+              "type": "note",
+              "title": "Key Distinction",
+              "text": "Statistical questions involve collecting and analyzing data from groups where variability is expected and natural. They require investigating patterns across multiple data points, not just recording one value."
+            },
+            {
+              "type": "list",
+              "title": "Examples of Statistical Questions",
+              "items": [
+                "How old are the dogs that live on this street? (ages vary)",
+                "What fraction of students in your class like walking up a hill? (preferences vary)",
+                "Approximately how many bricks are in this wall? (need to estimate from data, not exact)",
+                "What was the rainfall pattern in Barmer last year? (varies daily/monthly)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Representative Values and the Arithmetic Mean",
+      "topics": [
+        {
+          "topic_name": "Mean (Average) as a Representative Measure",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When comparing groups of data with different sizes or variability, a single representative number is often useful. The arithmetic mean (or average) is the most common representative value. It acts as a balancing point, representing what each unit would have if the total were distributed equally. This concept has deep roots in ancient Indian mathematics, where it was called 'samamiti' (literally 'mean measure'), emphasizing the idea of equality and fairness."
+            },
+            {
+              "type": "definition",
+              "term": "Arithmetic Mean (Average)",
+              "definition": "The sum of all values in a dataset divided by the number of values: Mean = (Sum of all values) ÷ (Number of values). It represents the value that each unit would have if the total were distributed equally among all units."
+            },
+            {
+              "type": "activity",
+              "id": "5.1",
+              "title": "Comparing Cricket Batting Averages",
+              "procedure": [
+                "For Series 1: Shubman scored 0, 17, 21, 90 in 4 matches. Mean = (0+17+21+90) ÷ 4 = 128 ÷ 4 = 32 runs per match.",
+                "Yashasvi scored 67, 55, 18, 35 in 4 matches. Mean = (67+55+18+35) ÷ 4 = 175 ÷ 4 = 43.75 runs per match.",
+                "For Series 2: Shubman scored 23, 7, 10, 52, 18 in 5 matches. Mean = (23+7+10+52+18) ÷ 5 = 110 ÷ 5 = 22 runs per match.",
+                "Yashasvi scored 26, 53, 2, (no match), 15 in 4 matches played. Mean = (26+53+2+15) ÷ 4 = 96 ÷ 4 = 24 runs per match."
+              ],
+              "observation": "Using mean allows fair comparison between players who played different numbers of matches and have different performance patterns.",
+              "conclusion": "Mean enables comparison of groups with different sizes, making it a powerful tool for statistical analysis."
+            },
+            {
+              "type": "note",
+              "title": "Average as Fair-Share",
+              "text": "The average can be understood as equal distribution. If a group collects items and shares them equally, each person gets the average amount. For example, if Shreyas's group collects 30 guavas and has 5 people, each gets 30 ÷ 5 = 6 guavas."
+            },
+            {
+              "type": "activity",
+              "id": "5.2",
+              "title": "Guava Collection and Fair-Share",
+              "procedure": [
+                "Shreyas's group: 3, 8, 10, 5, 4 guavas collected. Total = 30, Number of people = 5.",
+                "Each person's share = 30 ÷ 5 = 6 guavas.",
+                "Parag's group: 5, 4, 6, 3, 4, 8 guavas collected. Total = 30, Number of people = 6.",
+                "Each person's share = 30 ÷ 6 = 5 guavas."
+              ],
+              "observation": "Both groups collected 30 guavas total, but Shreyas's group has fewer members, so each person gets more.",
+              "conclusion": "Fair-share interpretation makes the mean concept intuitive: it shows what everyone gets when resources are distributed equally."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Outliers and the Median",
+      "topics": [
+        {
+          "topic_name": "When Average Doesn't Represent Data Well",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Not all datasets can be fairly represented by the mean alone. When a dataset contains outliers—extreme values significantly different from the rest—the mean can be skewed. In such cases, the median becomes a better representative value. Understanding when and why to use median instead of mean is critical for proper data analysis."
+            },
+            {
+              "type": "definition",
+              "term": "Outlier",
+              "definition": "A value in a dataset that is significantly different from most other values, either much higher or much lower. Outliers can greatly affect the mean but have less impact on the median."
+            },
+            {
+              "type": "definition",
+              "term": "Median",
+              "definition": "The middle value when data is sorted in order. For odd number of values, it is the single middle value. For even number of values, it is the average of the two middle values. Median = the value that has equal count of values above and below it."
+            },
+            {
+              "type": "activity",
+              "id": "5.3",
+              "title": "Heights of Two Families",
+              "procedure": [
+                "Yaangba's family heights: 169, 173, 155, 165, 160, 164 cm (6 people).",
+                "Mean = (169+173+155+165+160+164) ÷ 6 = 986 ÷ 6 = 164.3 cm.",
+                "Sorted: 155, 160, 164, 165, 169, 173. Median = (164+165) ÷ 2 = 164.5 cm (average of two middle values).",
+                "Poovizhi's family heights: 170, 173, 165, 118, 175 cm (5 people).",
+                "Mean = (170+173+165+118+175) ÷ 5 = 801 ÷ 5 = 160.2 cm.",
+                "Sorted: 118, 165, 170, 173, 175. Median = 170 cm (middle value).",
+                "Note: 118 cm is an outlier (youngest child) much lower than others."
+              ],
+              "observation": "In Poovizhi's family, the mean (160.2 cm) is less than 4 out of 5 family members' heights due to the outlier. The median (170 cm) better represents the data.",
+              "conclusion": "Outliers can pull the mean away from the typical value. When outliers are present, median often better represents the central tendency."
+            },
+            {
+              "type": "note",
+              "title": "Effect of Outliers on Mean vs. Median",
+              "text": "Lower outlier: Mean < Median (mean is pulled downward). Upper outlier: Mean > Median (mean is pulled upward). No outliers: Mean ≈ Median (they appear close to each other)."
+            },
+            {
+              "type": "list",
+              "title": "Steps to Find Median",
+              "items": [
+                "1. Sort all values in order from smallest to largest.",
+                "2. If odd number of values: median is the middle value (position = (n+1)/2).",
+                "3. If even number of values: median is average of two middle values (positions = n/2 and n/2+1).",
+                "4. The median divides data into two equal groups: 50% above and 50% below."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Measures of Central Tendency and Data Description",
+      "topics": [
+        {
+          "topic_name": "Ways to Describe and Compare Data",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Data can be described comprehensively using multiple statistics: minimum value, maximum value, range (difference between max and min), sum total, mean, and median. These measures together provide a fuller picture of the data's distribution and central tendency than any single measure alone."
+            },
+            {
+              "type": "definition",
+              "term": "Measures of Central Tendency",
+              "definition": "Numbers that represent the center or typical value of a dataset. The main measures are mean and median. They indicate the tendency of data values to cluster around a particular value, representing the 'center' of the data."
+            },
+            {
+              "type": "note",
+              "title": "Onion Price Analysis Example",
+              "text": "For Yahapur: Min=24, Max=59, Range=35, Sum=458, Mean=458÷12≈38.2, Median (middle values when sorted). For Wahapur: Min=17, Max=60, Range=43, Sum=450, Mean=450÷12=37.5, Median (middle values when sorted). Multiple approaches (highest value, total sum, range, frequency in ranges, month-by-month comparison, mean and median) each reveal different aspects of which location has costlier onions."
+            },
+            {
+              "type": "list",
+              "title": "Multiple Ways to Compare Data",
+              "items": [
+                "Minimum and Maximum: Identify the extremes.",
+                "Range: Shows the spread (Max - Min).",
+                "Sum Total: Useful for comparing totals when same sample size.",
+                "Mean: Useful for comparing when sample sizes differ.",
+                "Median: Better when outliers are present.",
+                "Frequency: How many values fall in certain ranges.",
+                "Month-by-month or Item-by-item: Compare corresponding pairs.",
+                "Variability: How spread out or clustered the data is."
+              ]
+            },
+            {
+              "type": "activity",
+              "id": "5.4",
+              "title": "Classroom Height Analysis",
+              "procedure": [
+                "For Grade 5 class: Range boys 128-158 cm, range girls 136-156 cm.",
+                "Calculate mean height for boys and girls.",
+                "Calculate median height for boys and girls.",
+                "Note: boys have wider spread, both min and max are boys.",
+                "Observe: boys' mean (142.94) < girls' mean (146.9), suggesting girls are taller on average.",
+                "Notice: boys' mean < median (142.94 < 144), girls' mean < median (146.9 < 148) indicating lower outliers."
+              ],
+              "observation": "Despite having both tallest and shortest students (boys), girls' average height is higher. Mean and median being close suggests small influence of lower-end outliers.",
+              "conclusion": "Comprehensive analysis uses multiple statistics to understand data patterns fully."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Data Visualization: Dot Plots",
+      "topics": [
+        {
+          "topic_name": "Using Dot Plots to Visualize Data",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Dot plots are simple graphical representations where each data point is shown as a dot on a number line. This visualization helps us see the variability in data—where values cluster, how spread out they are, and where the extremes are. Unlike tables, dot plots immediately reveal patterns and allow for quick visual comparison of datasets."
+            },
+            {
+              "type": "definition",
+              "term": "Dot Plot",
+              "definition": "A graphical representation where data values are shown as dots arranged above a horizontal number line. Multiple dots at the same value are stacked vertically. Dot plots clearly show distribution, clustering, gaps, and outliers."
+            },
+            {
+              "type": "note",
+              "title": "Advantages of Dot Plots",
+              "text": "Dot plots preserve the actual data values (unlike histograms which group data), allow easy visual comparison of datasets, make outliers obvious, show clustering and gaps, require no special graphing skills, and provide a quick summary of variability."
+            },
+            {
+              "type": "activity",
+              "id": "5.5",
+              "title": "Onion Prices Dot Plot",
+              "procedure": [
+                "For Yahapur monthly prices: 25, 24, 26, 28, 30, 35, 39, 43, 49, 56, 59, 44.",
+                "For Wahapur monthly prices: 19, 17, 23, 30, 38, 35, 42, 39, 53, 60, 52, 42.",
+                "Draw horizontal line from 10 to 60 (no values below 10 or above 60).",
+                "Mark Yahapur prices as green dots, Wahapur prices as purple dots.",
+                "Stack dots vertically if same value appears in multiple months."
+              ],
+              "observation": "Visual comparison is immediate: Wahapur prices are more spread out, Yahapur has tighter clustering, both have values in 40-60 range.",
+              "conclusion": "Dot plots order data but lose month-wise sequence, making them useful for examining distribution and comparison."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Data Visualization: Clustered Bar Graphs",
+      "topics": [
+        {
+          "topic_name": "Comparing Data Across Categories Using Bar Graphs",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Clustered (or double/triple) bar graphs display multiple datasets side by side for easy comparison. Bars for the same category are grouped together, allowing viewers to compare values across different groups while also seeing changes within each group. The scale is critical for accurate interpretation."
+            },
+            {
+              "type": "definition",
+              "term": "Clustered Bar Graph (Double/Triple Bar Graph)",
+              "definition": "A graph where bars for different datasets are drawn side by side for each category. Uses different colors or patterns to distinguish datasets. Allows comparison both within a category (across datasets) and across categories (within a dataset)."
+            },
+            {
+              "type": "note",
+              "title": "Reading Clustered Bar Graphs",
+              "text": "Key steps: (1) Identify what is displayed (categories, datasets, scale). (2) Note the scale and units. (3) Compare bar heights within each cluster. (4) Observe patterns across clusters. (5) Note any missing data or special categories like 'Others'."
+            },
+            {
+              "type": "activity",
+              "id": "5.6",
+              "title": "Rocket Launches by Organizations",
+              "procedure": [
+                "Data shows launches by USA (SpaceX, ULA, etc.), China (CASC), Russia, France (Arianespace), India (ISRO), and others for 2021-2023.",
+                "For each organization, three bars represent years 2021, 2022, 2023.",
+                "Scale: 1 unit = 20 rockets.",
+                "Observe: SpaceX increased from ~30 in 2021 to ~65 in 2023. Arianespace decreased every year. Others category shows ~25 launches."
+              ],
+              "observation": "SpaceX is dominant (≈65 launches in 2023). USA-based organizations dominate. Arianespace (France) is declining. China (CASC) shows 40 launches in 2023.",
+              "conclusion": "Clustered bar graphs enable quick visual analysis of trends over time and comparisons across multiple entities."
+            },
+            {
+              "type": "list",
+              "title": "Two-Step Process for Analyzing Graphs",
+              "items": [
+                "Step 1 (Identify): Note organization, scale, patterns. What categories are shown? How is data grouped?",
+                "Step 2 (Infer): What do the data relationships tell us? Which values are higher/lower? What trends appear? What statements can be justified?"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Understanding Variability and Change Over Time",
+      "topics": [
+        {
+          "topic_name": "Analyzing Patterns, Trends, and Variations in Data",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Data often shows patterns that reveal underlying phenomena. Temperature patterns in different hemispheres, growth patterns in children's heights over years, and trends in performance metrics all tell stories about the world. Understanding how data varies helps us grasp real-world processes. Statistical thinking involves asking 'why' after observing patterns."
+            },
+            {
+              "type": "activity",
+              "id": "5.7",
+              "title": "Daylight Hours in Different Hemispheres",
+              "procedure": [
+                "City 1 (Helsinki, Finland—Northern Hemisphere): Daylight increases from 210 hours in January to 564 hours (max) in June, then decreases back.",
+                "City 2 (Wellington, New Zealand—Southern Hemisphere): Daylight decreases from 459 hours in January to 276 hours (min) in June, then increases back.",
+                "Convert to average hours per day: City 1 ranges 6-18 hours/day, City 2 ranges 9-15 hours/day."
+              ],
+              "observation": "Opposite seasonal patterns: June has max daylight in Northern Hemisphere (summer) and min in Southern Hemisphere (winter). Cities away from equator show extreme variation.",
+              "conclusion": "Data patterns reflect Earth's tilt and seasons. Understanding context (geography, hemisphere, season) is key to interpreting data."
+            },
+            {
+              "type": "note",
+              "title": "Variability in Height Data Over Decades",
+              "text": "Data from 1989-2019 shows that both boys and girls have grown taller on average. At age 15, boys grew from 155.4 cm (1989) to 159 cm (2019). Girls grew from 148.5 cm (1989) to 152.4 cm (2019). Boys' growth rate surpasses girls during ages 14-16 (the adolescent growth spurt). This reflects improved nutrition and health conditions over 30 years."
+            },
+            {
+              "type": "list",
+              "title": "Questions Data Raises",
+              "items": [
+                "Why do patterns exist? (Causation, external factors)",
+                "Are patterns consistent across different groups? (Generalization)",
+                "How does context affect patterns? (Geography, time, demographics)",
+                "What predictions can we make? (Trends, forecasts)",
+                "Are there exceptions or outliers? (Special cases, anomalies)",
+                "What new curiosities emerge? (Follow-up investigation)"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Comparing Data Using Multiple Representations",
+      "topics": [
+        {
+          "topic_name": "Choosing Appropriate Methods and Making Fair Comparisons",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Different data comparison questions require different approaches. Sometimes mean is appropriate, sometimes median. Sometimes a graph shows patterns that numbers alone cannot. Understanding which tool to use for which question is a key statistical skill. Fair comparison requires considering sample size, presence of outliers, and relevance to the question being asked."
+            },
+            {
+              "type": "activity",
+              "id": "5.8",
+              "title": "Comparing Sumo Wrestlers and Ballet Dancers",
+              "procedure": [
+                "Sumo wrestlers: 295.2, 250.7, 234.1, 221.0, 200.9 kg. Mean = (295.2+250.7+234.1+221.0+200.9) ÷ 5 = 240.38 kg.",
+                "Ballet dancers: 40.3, 37.6, 38.8, 45.5, 44.1, 48.2 kg. Mean = (40.3+37.6+38.8+45.5+44.1+48.2) ÷ 6 = 42.42 kg.",
+                "Ratio: 240.38 ÷ 42.42 ≈ 5.66 times heavier."
+              ],
+              "observation": "Sumo wrestlers are roughly 5-6 times heavier than ballet dancers on average.",
+              "conclusion": "Different professions have very different body compositions reflective of their training and roles."
+            },
+            {
+              "type": "note",
+              "title": "Important Distinctions in Data",
+              "text": "Zero value vs. No value: A player scoring 0 runs is different from a player not playing (no value). Estimate vs. Measurement: Estimated values are approximations while measured values are direct. Missing data: Represented as '—' in tables; affects calculation of mean (divide by actual count, not total possible)."
+            },
+            {
+              "type": "list",
+              "title": "Common Pitfalls in Data Analysis",
+              "items": [
+                "Not accounting for different sample sizes when comparing totals.",
+                "Misrepresenting the meaning of 0 (absence of value vs. zero amount).",
+                "Using mean without checking for outliers first.",
+                "Comparing different groups without considering context.",
+                "Drawing conclusions beyond what the data supports.",
+                "Ignoring the difference between correlation and causation."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Data Detective: Stories and Patterns in Data",
+      "topics": [
+        {
+          "topic_name": "Using Data Analysis to Answer Real Questions and Raise New Ones",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Raw data becomes meaningful when we organize it, visualize it, and ask questions about it. Data tells stories about growth, change, consistency, or variation. Good data analysis leads to conclusions and often raises new questions that spark further investigation. The process of looking at data should cultivate curiosity about the world."
+            },
+            {
+              "type": "activity",
+              "id": "5.9",
+              "title": "Height Differences Across Schools",
+              "procedure": [
+                "Compare heights of Grades 6-8 students in two different schools.",
+                "School A Grade 6 boys mean = 134.8 cm, girls mean = 137.78 cm (girls taller).",
+                "School B Grade 6 boys mean = 149.84 cm, girls mean = 150.2 cm (similar heights).",
+                "Notice: Same grade, different schools, significant height differences."
+              ],
+              "observation": "Heights vary considerably between schools for the same grade. This could reflect different nutritional levels, genetic populations, or measurement differences.",
+              "conclusion": "Data from two schools cannot be generalized to all schools. Geographic location, nutrition, and other factors matter."
+            },
+            {
+              "type": "note",
+              "title": "Height Trends in India (1989-2019)",
+              "text": "Over 30 years, both boys and girls have become taller on average at every age. This likely reflects improved: nutrition, healthcare access, living conditions. Boys and girls show different growth patterns: boys maintain similar height advantage until age 13, then diverge more (boys become significantly taller). This reflects the adolescent growth spurt differences between genders."
+            },
+            {
+              "type": "list",
+              "title": "Questions That Lead to Data Detective Work",
+              "items": [
+                "Why is one group's pattern different from another's?",
+                "What external factors might explain the patterns?",
+                "Are the patterns consistent over time or geographically?",
+                "Can we predict future values based on trends?",
+                "What don't we know that would help explain the patterns?",
+                "How does this data connect to other data I've seen?",
+                "What solutions or actions might this data suggest?"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "Historical Context: The Arithmetic Mean Through Ages",
+      "topics": [
+        {
+          "topic_name": "Evolution of Mean Concept and Its Ancient Applications",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The concept of the mean is ancient. In India alone, different scholars contributed various terms emphasizing the idea of equality and fairness: Brahmagupta (628 CE) called it 'samarajju' (mean measure of a line segment), Mahavira (850 CE) used 'samikarana' (levelling, equalizing). The terminology consistently highlights that the mean represents the 'common' or 'equalising' value that fairly represents a collection."
+            },
+            {
+              "type": "note",
+              "title": "Ancient Indian Terms for Mean",
+              "text": "'Samamiti' (mean measure): 'sama' means equal. 'Samarajju': mean measure of line segment. 'Samikarana': levelling, equalising. 'Samya': equality, impartiality. These terms show ancient scholars viewed the mean as an equality principle—the value that represents fair distribution."
+            },
+            {
+              "type": "activity",
+              "id": "5.10",
+              "title": "Historical Example: Determining the Length of a Foot",
+              "procedure": [
+                "In early 1500s Europe, the basic land measurement unit was a 'rod' defined as 16 feet.",
+                "Problem: Foot sizes vary, so whose foot standard to use?",
+                "Solution: 16 adult males stood in a line, toe to heel. Total line length considered one 16-foot rod.",
+                "Then the rod was divided into 16 equal sections, each representing one foot.",
+                "This was essentially calculating the arithmetic mean of 16 individual feet to create a standard measurement."
+              ],
+              "observation": "This is a practical application of the averaging principle: combining many measurements to get a representative standard.",
+              "conclusion": "The arithmetic mean principle has been used for centuries to solve practical measurement and fairness problems, even before the formal mathematical concept was explicitly named."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Statistical Statement",
+      "definition": "A claim or summary about a phenomenon expressed in terms of numerical values, proportions, probabilities, or predictions based on data analysis."
+    },
+    {
+      "term": "Statistical Question",
+      "definition": "A question that can be answered by collecting and analyzing data. Expects variability in answers because different individuals or things have different characteristics."
+    },
+    {
+      "term": "Arithmetic Mean (Average)",
+      "definition": "Sum of all values divided by the number of values. Represents what each unit would have if the total were distributed equally. Formula: Mean = (Sum of all values) ÷ (Number of values)."
+    },
+    {
+      "term": "Fair-Share",
+      "definition": "An interpretation of the average: if items are distributed equally among people, each person gets the average number of items."
+    },
+    {
+      "term": "Median",
+      "definition": "The middle value in a sorted dataset. For odd count: single middle value. For even count: average of two middle values. Divides data into two equal groups."
+    },
+    {
+      "term": "Outlier",
+      "definition": "A value significantly different from most other values in a dataset, either much higher or much lower. Outliers can greatly affect the mean but have less impact on the median."
+    },
+    {
+      "term": "Measures of Central Tendency",
+      "definition": "Numbers representing the center or typical value of a dataset (mean and median). They indicate where data values tend to cluster."
+    },
+    {
+      "term": "Minimum Value",
+      "definition": "The smallest value in a dataset."
+    },
+    {
+      "term": "Maximum Value",
+      "definition": "The largest value in a dataset."
+    },
+    {
+      "term": "Range",
+      "definition": "The difference between the maximum and minimum values in a dataset. Range = Max - Min. Shows how spread out the data is."
+    },
+    {
+      "term": "Variability",
+      "definition": "The extent to which values in a dataset differ from each other. High variability means values are spread out; low variability means values are clustered."
+    },
+    {
+      "term": "Dot Plot",
+      "definition": "A graphical representation where data values are shown as dots on a horizontal number line. Multiple dots at same value are stacked vertically."
+    },
+    {
+      "term": "Clustered Bar Graph (Double/Triple Bar Graph)",
+      "definition": "A graph where bars for different datasets are drawn side by side for each category, using different colors or patterns to distinguish datasets."
+    },
+    {
+      "term": "Data Visualization",
+      "definition": "Representing data in pictorial form (graphs, charts, plots) to make patterns and relationships easier to understand than raw numbers."
+    },
+    {
+      "term": "Scale",
+      "definition": "The unit or ratio used on graph axes. For example, '1 unit = 20 rockets' means each unit length represents 20 actual rockets."
+    },
+    {
+      "term": "Sorted Data",
+      "definition": "Data arranged in order from smallest to largest (ascending) or largest to smallest (descending)."
+    },
+    {
+      "term": "Data Analysis",
+      "definition": "The process of collecting, organizing, visualizing, and interpreting data to identify patterns, relationships, and draw conclusions."
+    },
+    {
+      "term": "Zero Value vs. No Value",
+      "definition": "Zero value: an actual measurement of 0 (e.g., runs scored = 0). No value: data point doesn't exist (e.g., player didn't play, represented as '—')."
+    },
+    {
+      "term": "Statistical Thinking",
+      "definition": "Making educated conclusions about groups or populations based on observed data patterns and analysis, recognizing variability and natural differences."
+    }
+  ],
+  "summary_points": [
+    "Statistical questions expect variability and require data collection and analysis to answer, while non-statistical questions have single definite answers without variability.",
+    "The arithmetic mean (average) is calculated as (Sum of all values) ÷ (Number of values) and represents what each unit would have if the total were distributed equally (fair-share interpretation).",
+    "The median is the middle value in sorted data and is more resistant to outliers than the mean, making it a better representative measure when extreme values are present.",
+    "Outliers (extreme values) significantly affect the mean, pulling it toward the outlier's direction, while the median remains relatively stable, which is why data should be examined for outliers before choosing a representative measure.",
+    "Data can be described comprehensively using multiple statistics: minimum, maximum, range, sum, mean, median, and counts in frequency ranges, each revealing different aspects of the data.",
+    "Dot plots visualize data distribution by showing each data point as a dot on a number line, making clustering, gaps, extremes, and variability immediately visible without losing individual data values.",
+    "Clustered bar graphs allow comparison of multiple datasets across categories by placing bars side by side, using different colors/patterns and enabling analysis of both within-category (across datasets) and across-category (within dataset) patterns.",
+    "Data analysis involves a two-step process: (1) Identify what is shown (organization, scale, patterns), and (2) Infer meaning (compare values, identify trends, draw conclusions supported by the data).",
+    "Understanding context (geographic location, time period, hemisphere, profession, etc.) is essential for interpreting data patterns and explaining why variations occur, avoiding hasty generalizations.",
+    "Good data analysis raises curiosity: observing patterns should prompt questions about 'why' patterns exist and 'what else' we want to know, leading to further investigation and discovery."
+  ]
+}

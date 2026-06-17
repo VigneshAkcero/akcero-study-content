@@ -1,0 +1,35 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Circles",
+    "chapter_number": 9
+  },
+  "summary": [
+    {
+      "category": "Chords and Central Angles",
+      "points": [
+        "Equal chords of a circle subtend equal angles at the centre. Conversely, equal central angles correspond to equal chords.",
+        "The perpendicular from the centre to a chord bisects the chord. Conversely, the line from the centre bisecting a chord is perpendicular to it.",
+        "Equal chords are equidistant from the centre. Conversely, chords equidistant from the centre are equal in length."
+      ]
+    },
+    {
+      "category": "Arcs and Angles at the Circumference",
+      "points": [
+        "Equal chords subtend congruent arcs; congruent arcs correspond to equal chords.",
+        "The angle subtended by an arc at the centre is double the angle subtended by it at any point on the remaining arc (∠POQ = 2∠PAQ).",
+        "Angles in the same segment of a circle are equal — any two points on the same arc subtending the same chord form equal angles.",
+        "The angle subtended by a diameter at any point on the circle is always 90° (angle in a semicircle)."
+      ]
+    },
+    {
+      "category": "Cyclic Quadrilaterals and Concyclic Points",
+      "points": [
+        "A cyclic quadrilateral is a quadrilateral whose all four vertices lie on the same circle. The sum of opposite angles in a cyclic quadrilateral is 180°.",
+        "If the sum of opposite angles in a quadrilateral is 180°, then the quadrilateral is cyclic.",
+        "If a line segment joining two points subtends equal angles at two other points on the same side of the line, then all four points lie on a circle (are concyclic)."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Mathematics",
+    "chapter_name": "Coordinate Geometry",
+    "chapter_number": 7
+  },
+  "notes": [
+    {
+      "section_title": "7.1 Introduction",
+      "topics": [
+        {
+          "topic_name": "Coordinate System and Point Location",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "To locate the position of a point on a plane, we use a pair of perpendicular axes: the x-axis (horizontal) and the y-axis (vertical). These axes form a coordinate system that helps us represent points uniquely using ordered pairs of numbers."
+            },
+            {
+              "type": "paragraph",
+              "text": "Every point in the plane can be represented as an ordered pair (x, y), where x is the x-coordinate (abscissa) and y is the y-coordinate (ordinate). The x-coordinate represents the perpendicular distance of the point from the y-axis, while the y-coordinate represents the perpendicular distance of the point from the x-axis."
+            },
+            {
+              "type": "note",
+              "title": "Key Terminology",
+              "text": "Abscissa: The x-coordinate of a point; it measures horizontal distance from the y-axis. Ordinate: The y-coordinate of a point; it measures vertical distance from the x-axis. The point where the axes intersect is called the origin, denoted by O(0, 0)."
+            },
+            {
+              "type": "list",
+              "title": "Points on Axes",
+              "items": [
+                "Points on the x-axis have the form (x, 0) — their y-coordinate is always zero.",
+                "Points on the y-axis have the form (0, y) — their x-coordinate is always zero.",
+                "The origin is the only point that lies on both axes, with coordinates (0, 0)."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The coordinate plane is divided into four regions called quadrants. The first quadrant (Quadrant I) contains points where both x and y are positive. Quadrant II has negative x and positive y. Quadrant III has both negative. Quadrant IV has positive x and negative y."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "7.2 Distance Formula",
+      "topics": [
+        {
+          "topic_name": "Understanding the Distance Concept",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The distance between two points is the length of the line segment joining them. To find this distance without actually measuring it, we use the Pythagorean theorem and coordinate geometry. This is particularly useful when points are located in different quadrants or at various positions on the plane."
+            },
+            {
+              "type": "paragraph",
+              "text": "When two points lie on the same axis, finding the distance is straightforward. For example, if points A(4, 0) and B(6, 0) both lie on the x-axis, the distance AB = |6 - 4| = 2 units. Similarly, for points C(0, 3) and D(0, 8) on the y-axis, the distance CD = |8 - 3| = 5 units."
+            }
+          ]
+        },
+        {
+          "topic_name": "Derivation of the Distance Formula",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Consider two points P(x₁, y₁) and Q(x₂, y₂) in the coordinate plane. To find the distance PQ, we draw perpendiculars from both points to the x-axis, meeting at points R and S respectively. We then draw a perpendicular from P to the line QS, meeting it at point T."
+            },
+            {
+              "type": "paragraph",
+              "text": "From the geometry of this construction, we observe that PT is horizontal (parallel to the x-axis) and QT is vertical (parallel to the y-axis). The right triangle PTQ has: PT = |x₂ - x₁| (horizontal distance) and QT = |y₂ - y₁| (vertical distance). By the Pythagorean theorem, PQ² = PT² + QT²."
+            },
+            {
+              "type": "note",
+              "title": "Distance Formula (General Form)",
+              "text": "For any two points P(x₁, y₁) and Q(x₂, y₂), the distance between them is: PQ = √[(x₂ - x₁)² + (y₂ - y₁)²]. This formula is valid for points in any quadrant or on any axis because we square the differences, making the sign irrelevant."
+            }
+          ]
+        },
+        {
+          "topic_name": "Special Case: Distance from Origin",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A frequently used special case of the distance formula is when one point is the origin O(0, 0). The distance of any point P(x, y) from the origin is given by: OP = √(x² + y²). This is derived by substituting (0, 0) into the general distance formula."
+            }
+          ]
+        },
+        {
+          "topic_name": "Applications of Distance Formula",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The distance formula has several important applications in coordinate geometry. It can be used to determine whether three given points are collinear (lie on the same line), to identify the type of triangle formed by three points, to classify quadrilaterals, and to find points equidistant from two given points."
+            },
+            {
+              "type": "list",
+              "title": "Key Applications",
+              "items": [
+                "Collinearity Check: Three points A, B, C are collinear if AB + BC = AC (or any permutation).",
+                "Triangle Classification: Calculate all three sides and check for equilateral, isosceles, right-angled, or scalene triangles.",
+                "Quadrilateral Classification: Compare sides and diagonals to identify rectangles, squares, rhombuses, or parallelograms.",
+                "Equidistant Points: Find points equidistant from two given points; these lie on the perpendicular bisector."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Example Problems",
+          "content": [
+            {
+              "type": "example",
+              "id": "dist1",
+              "title": "Example 1: Finding Distance Between Two Points",
+              "problem": "Find the distance between points A(3, 4) and B(6, 8).",
+              "solution": "Using the distance formula: PQ = √[(x₂ - x₁)² + (y₂ - y₁)²], we have: AB = √[(6 - 3)² + (8 - 4)²] = √[3² + 4²] = √[9 + 16] = √25 = 5 units."
+            },
+            {
+              "type": "example",
+              "id": "dist2",
+              "title": "Example 2: Checking if Points Form a Right Triangle",
+              "problem": "Do the points P(3, 2), Q(-2, -3), and R(2, 3) form a right triangle?",
+              "solution": "Calculate all three distances: PQ = √[(3 - (-2))² + (2 - (-3))²] = √[25 + 25] = √50 = 5√2; QR = √[(-2 - 2)² + (-3 - 3)²] = √[16 + 36] = √52 = 2√13; PR = √[(3 - 2)² + (2 - 3)²] = √[1 + 1] = √2. Check if PQ² + PR² = QR²: (5√2)² + (√2)² = 50 + 2 = 52 = (2√13)². Yes, they form a right triangle with right angle at P."
+            },
+            {
+              "type": "example",
+              "id": "dist3",
+              "title": "Example 3: Collinearity of Three Points",
+              "problem": "Determine if points A(3, 1), B(6, 4), and C(8, 6) are collinear.",
+              "solution": "Calculate distances: AB = √[(6-3)² + (4-1)²] = √[9 + 9] = 3√2; BC = √[(8-6)² + (6-4)²] = √[4 + 4] = 2√2; AC = √[(8-3)² + (6-1)²] = √[25 + 25] = 5√2. Check if AB + BC = AC: 3√2 + 2√2 = 5√2. Yes, the points are collinear."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "7.3 Section Formula",
+      "topics": [
+        {
+          "topic_name": "Concept of Internal Division",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When a point P divides a line segment AB internally in a given ratio, P lies between A and B on the line segment. If P divides AB in the ratio m₁:m₂, it means that the distance AP is to the distance PB as m₁ is to m₂, or AP/PB = m₁/m₂."
+            },
+            {
+              "type": "paragraph",
+              "text": "The section formula provides a method to find the coordinates of a point that divides a line segment in a given ratio. This is useful in many practical situations, such as finding intermediate positions, dividing territories, or locating points at specific proportional distances."
+            }
+          ]
+        },
+        {
+          "topic_name": "Derivation of Section Formula",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Consider two points A(x₁, y₁) and B(x₂, y₂), and let P(x, y) divide AB internally in the ratio m₁:m₂. Draw perpendiculars from A, P, and B to the x-axis, meeting it at points R, S, and T respectively. Draw a line through P parallel to the x-axis, meeting the perpendicular from B at point C."
+            },
+            {
+              "type": "paragraph",
+              "text": "By similar triangles (triangles PAQ and BPC are similar by AA similarity), we have: PA/PB = AQ/PC = PQ/BC. Substituting the coordinates: PA/PB = (x - x₁)/(x₂ - x) = (y - y₁)/(y₂ - y) = m₁/m₂."
+            },
+            {
+              "type": "note",
+              "title": "Section Formula (Internal Division)",
+              "text": "If a point P(x, y) divides the line segment joining A(x₁, y₁) and B(x₂, y₂) internally in the ratio m₁:m₂, then: x = (m₁x₂ + m₂x₁)/(m₁ + m₂) and y = (m₁y₂ + m₂y₁)/(m₁ + m₂). These formulas give the exact coordinates of the dividing point."
+            }
+          ]
+        },
+        {
+          "topic_name": "Special Case: Midpoint Formula",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "When a point divides a line segment into two equal parts, it is called the midpoint. The midpoint divides the line segment in the ratio 1:1. Substituting m₁ = 1 and m₂ = 1 into the section formula gives us the midpoint formula."
+            },
+            {
+              "type": "note",
+              "title": "Midpoint Formula",
+              "text": "The midpoint M of the line segment joining points A(x₁, y₁) and B(x₂, y₂) is: M = ((x₁ + x₂)/2, (y₁ + y₂)/2). This formula simply averages the x-coordinates and y-coordinates separately."
+            }
+          ]
+        },
+        {
+          "topic_name": "Ratio from Coordinates",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Sometimes we are given a point and two endpoints of a line segment, and we need to find the ratio in which the point divides the segment. We can work backwards using the section formula. If P(x, y) divides AB in ratio m₁:m₂, then: m₁/m₂ = (x - x₁)/(x₂ - x) or (y - y₁)/(y₂ - y)."
+            }
+          ]
+        },
+        {
+          "topic_name": "Example Problems",
+          "content": [
+            {
+              "type": "example",
+              "id": "sec1",
+              "title": "Example 4: Finding Coordinates Using Section Formula",
+              "problem": "Find the coordinates of the point that divides the line segment joining (4, -3) and (8, 5) in the ratio 3:1 internally.",
+              "solution": "Using the section formula with A(4, -3), B(8, 5), m₁ = 3, m₂ = 1: x = (3·8 + 1·4)/(3 + 1) = (24 + 4)/4 = 28/4 = 7; y = (3·5 + 1·(-3))/(3 + 1) = (15 - 3)/4 = 12/4 = 3. Therefore, the required point is (7, 3)."
+            },
+            {
+              "type": "example",
+              "id": "sec2",
+              "title": "Example 5: Finding Ratio of Division",
+              "problem": "In what ratio does the point (-4, 6) divide the line segment joining A(-6, 10) and B(3, -8)?",
+              "solution": "Let the ratio be k:1. Using the section formula: -4 = (k·3 + 1·(-6))/(k + 1) and 6 = (k·(-8) + 1·10)/(k + 1). From the first equation: -4(k + 1) = 3k - 6 ⟹ -4k - 4 = 3k - 6 ⟹ 7k = 2 ⟹ k = 2/7. Therefore, the ratio is 2:7."
+            },
+            {
+              "type": "example",
+              "id": "sec3",
+              "title": "Example 6: Finding Trisection Points",
+              "problem": "Find the coordinates of the points of trisection of the line segment joining A(2, -2) and B(-7, 4).",
+              "solution": "Trisection points divide the segment into three equal parts. If P and Q are the trisection points, then P divides AB in ratio 1:2 and Q divides AB in ratio 2:1. For P: coordinates = ((1·(-7) + 2·2)/(1 + 2), (1·4 + 2·(-2))/(1 + 2)) = ((-7 + 4)/3, (4 - 4)/3) = (-1, 0). For Q: coordinates = ((2·(-7) + 1·2)/(2 + 1), (2·4 + 1·(-2))/(2 + 1)) = ((-14 + 2)/3, (8 - 2)/3) = (-4, 2). The trisection points are (-1, 0) and (-4, 2)."
+            },
+            {
+              "type": "example",
+              "id": "sec4",
+              "title": "Example 7: Using Section Formula to Find Unknown Coordinates",
+              "problem": "If A(6, 1), B(8, 2), C(9, 4), and D(p, 3) are vertices of a parallelogram ABCD taken in order, find the value of p.",
+              "solution": "In a parallelogram, the diagonals bisect each other. The midpoint of diagonal AC equals the midpoint of diagonal BD. Midpoint of AC = ((6 + 9)/2, (1 + 4)/2) = (15/2, 5/2). Midpoint of BD = ((8 + p)/2, (2 + 3)/2) = ((8 + p)/2, 5/2). Equating: (8 + p)/2 = 15/2 ⟹ 8 + p = 15 ⟹ p = 7."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "7.4 Applications and Summary",
+      "topics": [
+        {
+          "topic_name": "Real-World Applications",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Coordinate geometry is widely applied in various fields such as physics (describing motion and forces), engineering (designing structures and circuits), navigation (GPS coordinates), seismology (locating earthquake epicenters), and art (digital design and computer graphics)."
+            },
+            {
+              "type": "list",
+              "title": "Practical Uses",
+              "items": [
+                "Navigation: GPS systems use coordinate geometry to determine locations on Earth.",
+                "Engineering: Blueprints and architectural designs use coordinate systems to specify exact positions and measurements.",
+                "Physics: Motion is described using coordinates to track position changes over time.",
+                "Computer Graphics: Pixels on screens are positioned using coordinate systems.",
+                "Urban Planning: City planning uses coordinates to map streets, utilities, and infrastructure."
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "Key Formulas Summary",
+          "content": [
+            {
+              "type": "list",
+              "title": "Important Formulas",
+              "items": [
+                "Distance Formula: PQ = √[(x₂ - x₁)² + (y₂ - y₁)²]",
+                "Distance from Origin: OP = √(x² + y²)",
+                "Section Formula: P(x, y) = ((m₁x₂ + m₂x₁)/(m₁ + m₂), (m₁y₂ + m₂y₁)/(m₁ + m₂))",
+                "Midpoint Formula: M = ((x₁ + x₂)/2, (y₁ + y₂)/2)",
+                "Collinearity: Points A, B, C are collinear if AB + BC = AC"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Abscissa",
+      "definition": "The x-coordinate of a point; it represents the perpendicular distance of the point from the y-axis."
+    },
+    {
+      "term": "Ordinate",
+      "definition": "The y-coordinate of a point; it represents the perpendicular distance of the point from the x-axis."
+    },
+    {
+      "term": "Origin",
+      "definition": "The point where the x-axis and y-axis intersect, denoted as O(0, 0)."
+    },
+    {
+      "term": "Quadrant",
+      "definition": "One of the four regions of the coordinate plane divided by the x-axis and y-axis."
+    },
+    {
+      "term": "Coordinate System",
+      "definition": "A system using perpendicular number lines (axes) to locate points on a plane using ordered pairs."
+    },
+    {
+      "term": "Distance Formula",
+      "definition": "The formula PQ = √[(x₂ - x₁)² + (y₂ - y₁)²] used to find the distance between two points P(x₁, y₁) and Q(x₂, y₂)."
+    },
+    {
+      "term": "Section Formula",
+      "definition": "The formula used to find the coordinates of a point that divides a line segment internally in a given ratio."
+    },
+    {
+      "term": "Internal Division",
+      "definition": "When a point P lies between two points A and B on a line segment and divides it in a given ratio."
+    },
+    {
+      "term": "Midpoint",
+      "definition": "The point that divides a line segment into two equal parts, located at the average of the coordinates of the endpoints."
+    },
+    {
+      "term": "Collinear",
+      "definition": "Three or more points that lie on the same straight line."
+    },
+    {
+      "term": "Perpendicular Bisector",
+      "definition": "A line that is perpendicular to a line segment and passes through its midpoint; all points on it are equidistant from the endpoints."
+    },
+    {
+      "term": "Ratio",
+      "definition": "A comparison of two quantities, written as m₁:m₂, indicating the relative sizes of two segments."
+    }
+  ],
+  "summary_points": [
+    "The coordinate plane is formed by two perpendicular axes (x-axis and y-axis) intersecting at the origin. Every point on the plane is uniquely identified by an ordered pair (x, y), where x is the abscissa (distance from y-axis) and y is the ordinate (distance from x-axis).",
+    "The distance formula, PQ = √[(x₂ - x₁)² + (y₂ - y₁)²], is derived from the Pythagorean theorem and allows us to find the distance between any two points without measuring. Special case: distance from origin is OP = √(x² + y²).",
+    "The section formula enables us to find the coordinates of a point P(x, y) that divides a line segment joining A(x₁, y₁) and B(x₂, y₂) internally in ratio m₁:m₂ using: x = (m₁x₂ + m₂x₁)/(m₁ + m₂) and y = (m₁y₂ + m₂y₁)/(m₁ + m₂). The midpoint is the special case where m₁ = m₂ = 1.",
+    "Coordinate geometry has extensive applications including verifying collinearity of points (AB + BC = AC), classifying triangles and quadrilaterals using distance comparisons, finding equidistant points on perpendicular bisectors, and practical real-world uses in navigation, engineering, physics, and computer graphics.",
+    "Key properties: (1) Points on x-axis have form (x, 0); (2) Points on y-axis have form (0, y); (3) Diagonals of a parallelogram bisect each other; (4) All sides equal indicates special quadrilaterals; (5) Pythagorean relation (a² + b² = c²) identifies right triangles."
+  ]
+}

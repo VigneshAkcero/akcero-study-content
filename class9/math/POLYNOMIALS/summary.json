@@ -1,0 +1,31 @@
+{
+  "chapter_info": {
+    "class": 9,
+    "subject": "Mathematics",
+    "chapter_name": "Polynomials",
+    "chapter_number": 2
+  },
+  "summary": [
+    {
+      "category": "Definition and Classification",
+      "points": [
+        "A polynomial in one variable x is an algebraic expression aₙxⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₁x + a₀ where all exponents are non-negative integers and aₙ ≠ 0. Polynomials are classified by degree: linear (degree 1, form ax + b), quadratic (degree 2, form ax² + bx + c), and cubic (degree 3, form ax³ + bx² + cx + d). They are also classified by number of terms: monomials (one term), binomials (two terms), and trinomials (three terms).",
+        "The degree of a polynomial is the highest power of the variable; the zero polynomial has undefined degree, and a non-zero constant polynomial has degree 0."
+      ]
+    },
+    {
+      "category": "Zeroes and Factorisation",
+      "points": [
+        "A zero of polynomial p(x) is a number c where p(c) = 0. The Factor Theorem states that (x - a) is a factor of p(x) if and only if p(a) = 0. The Remainder Theorem states that when p(x) is divided by (x - a), the remainder is p(a).",
+        "Every linear polynomial has exactly one zero (x = -b/a). Quadratic polynomials are factorised by splitting the middle term; find two numbers with sum b and product ac, then rewrite and factor by grouping. Cubic polynomials are factorised by finding one zero using the Factor Theorem, then dividing by the corresponding linear factor to obtain a quadratic."
+      ]
+    },
+    {
+      "category": "Algebraic Identities",
+      "points": [
+        "Fundamental identities: (x + y)² = x² + 2xy + y², (x - y)² = x² - 2xy + y², x² - y² = (x + y)(x - y), (x + a)(x + b) = x² + (a + b)x + ab. Extended identities: (x + y + z)² = x² + y² + z² + 2xy + 2yz + 2zx, (x + y)³ = x³ + 3x²y + 3xy² + y³, (x - y)³ = x³ - 3x²y + 3xy² - y³, and x³ + y³ + z³ - 3xyz = (x + y + z)(x² + y² + z² - xy - yz - zx).",
+        "When x + y + z = 0, the identity x³ + y³ + z³ = 3xyz holds. These identities are essential tools for expanding expressions, factorising polynomials, and performing rapid computations."
+      ]
+    }
+  ]
+}

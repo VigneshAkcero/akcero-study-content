@@ -1,0 +1,34 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Mathematics",
+    "chapter_name": "CONNECTING AND TILINGS",
+    "chapter_number": 6
+  },
+  "summary": [
+    {
+      "category": "Geometric Constructions Fundamentals",
+      "points": [
+        "Geometric figures can be drawn precisely using only an unmarked ruler and compass, based on the principle that any point equidistant from two given points lies on the perpendicular bisector of the line segment joining them.",
+        "The perpendicular bisector of a line segment is constructed by drawing two pairs of intersecting arcs (above and below) from the endpoints, and this method can be adapted to construct a 90° angle at any point on a line.",
+        "Any angle can be bisected into two equal parts and copied to a different location using the congruence properties of triangles, particularly SSS congruence, allowing construction of angles like 45°, 30°, 15°, and 120°."
+      ]
+    },
+    {
+      "category": "Advanced Constructions and Regular Polygons",
+      "points": [
+        "Parallel lines can be constructed using the principle of corresponding angles: if a transversal creates equal corresponding angles at two locations, the resulting lines are guaranteed to be parallel.",
+        "A 60° angle is constructed using an equilateral triangle, making it possible to construct regular hexagons as combinations of six equilateral triangles, each with interior angles of 120°.",
+        "Geometric constructions are applied to create beautiful architectural designs, including trefoil arches and pointed arches, which use symmetry, equal angles, and equal segments as supporting lines."
+      ]
+    },
+    {
+      "category": "Tiling: Theory and Applications",
+      "points": [
+        "Tiling (tessellation) is covering a region with shapes without gaps or overlaps. For an m×n grid to be tileable with 2×1 tiles, the total number of unit squares must be even; hence a 5×7 grid (35 squares) cannot be tiled, but a 4×6 grid (24 squares) can.",
+        "The checkerboard coloring strategy is a powerful tool that proves tileability: since each 2×1 tile must cover exactly one black and one white square, unequal numbers of black and white squares indicate a region is not tileable.",
+        "Only three regular polygons can tile the entire plane individually—equilateral triangles (60° angles), squares (90° angles), and regular hexagons (120° angles)—because their interior angles divide 360° evenly, allowing them to fit perfectly around a point without gaps."
+      ]
+    }
+  ]
+}

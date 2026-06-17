@@ -1,0 +1,38 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Control and Coordination",
+    "chapter_number": 6
+  },
+  "summary": [
+    {
+      "category": "Animal Nervous System",
+      "points": [
+        "Specialized nerve cells (neurons) transmit information via electrical impulses and chemical synapses.",
+        "Reflex actions are rapid, involuntary responses controlled by reflex arcs in the spinal cord to ensure survival.",
+        "The human brain integrates sensory inputs and coordinates voluntary, involuntary, and balance-related actions."
+      ]
+    },
+    {
+      "category": "Coordination in Plants",
+      "points": [
+        "Plants respond to stimuli through immediate water-driven cell changes or slow, directional, growth-dependent tropisms.",
+        "Phytohormones like auxins, gibberellins, and cytokinins promote development, while abscisic acid acts as a growth inhibitor."
+      ]
+    },
+    {
+      "category": "Animal Hormonal System",
+      "points": [
+        "Endocrine glands secrete hormones directly into the blood to regulate metabolism, growth, and emergency responses.",
+        "Critical hormones like adrenaline prepare the body for 'fight or flight', while insulin and thyroxin maintain internal balance."
+      ]
+    },
+    {
+      "category": "Regulatory Mechanisms",
+      "points": [
+        "Feedback loops ensure that hormones are released in precise quantities and at the correct timing to maintain homeostasis."
+      ]
+    }
+  ]
+}

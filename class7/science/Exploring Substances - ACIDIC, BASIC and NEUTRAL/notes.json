@@ -1,0 +1,317 @@
+{
+  "chapter_info": {
+    "class": 7,
+    "subject": "Science",
+    "chapter_name": "Exploring Substances: Acidic, Basic, and Neutral",
+    "chapter_number": 2
+  },
+  "notes": [
+    {
+      "section_title": "Introduction: The Wonder of Substances",
+      "topics": [
+        {
+          "topic_name": "The Science Fair Magic",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "During a National Science Day celebration, students observed a 'magic' trick: a colourless liquid sprayed on blank white paper revealed a hidden message ('Welcome to the Wonderful World of Science'). This sparked curiosity about how mixing certain substances causes colour changes, leading into an exploration of acidic, basic, and neutral substances."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.1 Nature — Our Science Laboratory",
+      "topics": [
+        {
+          "topic_name": "2.1.1 Litmus as an indicator",
+          "content": [
+            {
+              "type": "activity",
+              "id": "2.1",
+              "title": "Let Us Explore — Testing the Nature of Samples",
+              "procedure": [
+                "Collect samples: lemon juice, soap solution, amla juice, tamarind water, vinegar, baking soda solution, lime water, tap water, washing powder solution, sugar solution, and salt solution.",
+                "Take strips of blue litmus paper and red litmus paper, and cut them into small pieces on a white tile.",
+                "Using a dropper, put one drop of a sample on pieces of both blue and red litmus papers.",
+                "Observe and record the colour changes for each sample."
+              ],
+              "observation": "Some samples (lemon juice, amla juice, tamarind water, vinegar) turn blue litmus to red. Some (soap solution, baking soda, lime water, washing powder) turn red litmus to blue. Others (tap water, sugar solution, salt solution) do not change the colour of either litmus paper.",
+              "conclusion": "Substances can be grouped into acidic (blue to red), basic (red to blue), and neutral (no effect on litmus)."
+            },
+            {
+              "type": "note",
+              "title": "Lime Water Preparation",
+              "text": "Lime water is a solution of calcium hydroxide. Do not confuse it with lime, the fruit. It is prepared by mixing lime (chuna, i.e., calcium oxide) in water, leaving it undisturbed for an hour, and then filtering the liquid."
+            },
+            {
+              "type": "note",
+              "title": "Litmus — An Acid-Base Indicator",
+              "text": "Litmus is a natural indicator obtained from lichens. It is available as a solution and as paper strips (blue and red). Substances that turn blue litmus red are acidic. Substances that turn red litmus blue are basic. Because litmus shows different colours in these solutions, it is called an acid-base indicator."
+            },
+            {
+              "type": "note",
+              "title": "Holistic Lens — Lichens",
+              "text": "Lichens are formed by the symbiotic association of two living organisms: a fungus and an alga. They typically grow on rocks and trees in regions with clean air and abundant rainfall."
+            },
+            {
+              "type": "activity",
+              "id": "2.2",
+              "title": "Let Us Relate and Explore — Taste and Touch",
+              "procedure": [
+                "Recall the taste of the edible acidic substances (lemon juice, tamarind water, vinegar).",
+                "Rub baking soda solution (a basic substance) between your fingers and note how it feels.",
+                "Note: Caution — Do not taste any unknown substance."
+              ],
+              "observation": "Edible acidic substances generally taste sour. Basic solutions like baking soda feel soapy and slippery to the touch. Basic substances generally taste bitter, though not all bitter things (like bitter gourd) are bases.",
+              "conclusion": "Acids are generally sour-tasting, while bases are bitter-tasting and soapy/slippery to the touch."
+            },
+            {
+              "type": "table",
+              "headers": [
+                "Characteristic",
+                "Acidic Substances",
+                "Basic Substances",
+                "Neutral Substances"
+              ],
+              "rows": [
+                [
+                  "Effect on Blue Litmus",
+                  "Turns red",
+                  "No change",
+                  "No change"
+                ],
+                [
+                  "Effect on Red Litmus",
+                  "No change",
+                  "Turns blue",
+                  "No change"
+                ],
+                [
+                  "General Taste",
+                  "Sour",
+                  "Bitter",
+                  "N/A"
+                ],
+                [
+                  "General Feel",
+                  "Non-soapy",
+                  "Soapy/Slippery",
+                  "N/A"
+                ],
+                [
+                  "Examples",
+                  "Lemon juice, tamarind, vinegar",
+                  "Soap solution, baking soda, lime water",
+                  "Tap water, salt solution, sugar solution"
+                ]
+              ]
+            },
+            {
+              "type": "list",
+              "title": "Acids in Common Edible Substances",
+              "items": [
+                "Lemon: Citric acid",
+                "Amla: Ascorbic acid (Vitamin C) and Citric acid",
+                "Tamarind: Tartaric acid",
+                "Tomato (implied from structure): Citric acid and Oxalic acid"
+              ]
+            }
+          ]
+        },
+        {
+          "topic_name": "2.1.2 Red rose as an indicator",
+          "content": [
+            {
+              "type": "activity",
+              "id": "2.3",
+              "title": "Let Us Prepare — Red Rose Extract",
+              "procedure": [
+                "Wash fallen red rose petals and crush them using a mortar and pestle.",
+                "Place the crushed petals in a glass tumbler and pour enough hot water to immerse them completely (perform under adult supervision).",
+                "Cover with a lid and wait for 5-10 minutes until the water is coloured.",
+                "Filter the liquid to obtain the red rose extract."
+              ],
+              "observation": "A deeply coloured liquid extract is obtained.",
+              "conclusion": "The extract acts as a natural acid-base indicator."
+            },
+            {
+              "type": "activity",
+              "id": "2.4",
+              "title": "Let Us Find Out — Testing with Red Rose Extract",
+              "procedure": [
+                "Add 20-30 drops of lemon juice to test tube A and soap solution to test tube B containing red rose extract.",
+                "Record the colour changes."
+              ],
+              "observation": "The red rose extract turns to a shade of red when mixed with the acidic lemon juice, and it changes to a shade of green when mixed with the basic soap solution.",
+              "conclusion": "Red rose can be reliably used as a natural acid-base indicator to distinguish between acidic (red) and basic (green) solutions."
+            },
+            {
+              "type": "note",
+              "title": "Other Natural Indicators",
+              "text": "Besides litmus and rose, other natural materials like beetroot, purple cabbage, turmeric, Indian blackberry (jamun), and red hibiscus (gudhal) flower can act as acid-base indicators."
+            },
+            {
+              "type": "note",
+              "title": "Fascinating Facts — Hydrangea Flowers",
+              "text": "Hydrangea plants, growing in cooler climates (Himalayan/North-eastern region), produce flowers of different colours depending on the soil's nature. Acidic soil yields blue flowers, whereas basic soil yields pink or red flowers."
+            }
+          ]
+        },
+        {
+          "topic_name": "2.1.3 Turmeric as an indicator",
+          "content": [
+            {
+              "type": "activity",
+              "id": "2.5",
+              "title": "Let Us Prepare — Turmeric Paper",
+              "procedure": [
+                "Add a little water to a spoonful of turmeric to make a paste.",
+                "Carefully dip a piece of filter paper into the paste until it turns yellow, then dry it.",
+                "Cut the paper into thin strips.",
+                "Put drops of acidic, basic, and neutral samples on separate pieces and observe."
+              ],
+              "observation": "Turmeric paper changes from yellow to red/brown when a basic substance (like soap) is added. It remains yellow when acidic or neutral substances are added.",
+              "conclusion": "Turmeric is a helpful indicator for identifying basic substances, but it cannot differentiate between acidic and neutral substances since it remains yellow in both."
+            },
+            {
+              "type": "note",
+              "title": "Real-World Observation",
+              "text": "This explains why a turmeric (curry) stain on a white shirt suddenly turns red/brown when washed with soap, which is basic in nature."
+            },
+            {
+              "type": "note",
+              "title": "Fascinating Facts — Turmeric",
+              "text": "Known as the 'Golden' spice, turmeric belongs to the ginger family. It is extensively used in Ayurveda for traditional home remedies and numerous health benefits. It can also be creatively used as invisible ink, revealing a secret message written in basic solution on a yellow turmeric-stained paper."
+            }
+          ]
+        },
+        {
+          "topic_name": "2.1.4 Olfactory Indicators",
+          "content": [
+            {
+              "type": "note",
+              "title": "Definition — Olfactory Indicators",
+              "text": "There are certain substances whose distinct odours undergo a change when placed in an acidic or basic medium. These are known as olfactory indicators."
+            },
+            {
+              "type": "activity",
+              "id": "2.6",
+              "title": "Let Us Investigate — Onion as an Olfactory Indicator",
+              "procedure": [
+                "Keep finely chopped onions and clean cotton cloth strips in a tightly closed container overnight.",
+                "Take two strips, check their odour, and put a few drops of an acidic substance (tamarind water) on one and a basic substance (baking soda solution) on the other.",
+                "Check their odours again."
+              ],
+              "observation": "The cloth strip with the acidic drop retains the characteristic smell of the onion. The cloth strip with the basic drop loses or changes its onion smell.",
+              "conclusion": "Onion acts as an olfactory indicator; its odour is suppressed in a basic medium but unaltered in an acidic medium."
+            },
+            {
+              "type": "note",
+              "title": "Know A Scientist — Acharya Prafulla Chandra Ray",
+              "text": "Acharya P.C. Ray is known as the 'Father of Modern Indian Chemistry'. He held a doctorate from the UK, established India's first pharmaceutical company in 1901, and documented the glorious history of ancient Indian chemistry. A social reformer, he advocated using the mother tongue as a medium of instruction."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.2 What Happens When Acidic Substances Mix with Basic Substances?",
+      "topics": [
+        {
+          "topic_name": "Neutralisation Reactions",
+          "content": [
+            {
+              "type": "activity",
+              "id": "2.7",
+              "title": "Let Us Experiment — Neutralising an Acid with a Base",
+              "procedure": [
+                "Take a drop of lemon juice and 20 drops of water in a test tube. Add a drop of blue litmus solution; the colour turns red.",
+                "Slowly add drops of lime water with a dropper, swirling the test tube constantly.",
+                "Observe the colour change until the solution's colour explicitly shifts."
+              ],
+              "observation": "As lime water is added, a stage arrives where the red colour of the solution gradually turns back to blue, indicating the solution is no longer acidic.",
+              "conclusion": "Lime water (a base) cancelled out the effect of lemon juice (an acid). The basic solution neutralised the acid."
+            },
+            {
+              "type": "note",
+              "title": "Process of Neutralisation",
+              "text": "When the solution of an acid is mixed with the solution of a base in adequate quantities, they cancel each other's effects. The resulting solution is neither acidic nor basic. Such a reaction is called a neutralisation reaction. In this process, salt and water are formed, and heat is evolved (released)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_title": "2.3 Neutralisation in Daily Life",
+      "topics": [
+        {
+          "topic_name": "Everyday Applications of Neutralisation",
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "The chemical process of neutralisation is not just confined to laboratories—it plays a vital role in solving day-to-day problems involving insect stings, agriculture, and industrial waste."
+            },
+            {
+              "type": "list",
+              "title": "Common Applications",
+              "items": [
+                "Ant Bite Treatment: An ant bite injects formic acid into the skin, causing a red stinging pain. This acidic effect can be neutralised by carefully rubbing the affected area with moist baking soda (a base).",
+                "Treating Soil Imbalances: Excessive use of chemical fertilisers often makes soil highly acidic, hindering plant growth. Farmers remedy this by treating the acidic soil with a base, such as lime. On the other hand, if the soil is too basic, organic matter (manure/compost) is added. Organic matter decomposes and releases acids that neutralise the basic nature of the soil.",
+                "Industrial Factory Waste: Factory waste often contains strong harmful acids. If discharged directly into water sources like lakes, it can kill fish and other aquatic life. To prevent this, such waste is preemptively neutralised by adding basic substances before being released."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Acidic Substance",
+      "definition": "A substance that generally tastes sour and turns blue litmus paper to red."
+    },
+    {
+      "term": "Basic Substance",
+      "definition": "A substance that feels soapy or slippery to the touch, generally tastes bitter, and turns red litmus paper to blue."
+    },
+    {
+      "term": "Neutral Substance",
+      "definition": "A substance that is neither acidic nor basic, and does not alter the colour of red or blue litmus paper."
+    },
+    {
+      "term": "Indicator",
+      "definition": "A substance used to test the nature of other substances by showing a noticeable change, such as a different colour in acidic and basic solutions."
+    },
+    {
+      "term": "Litmus",
+      "definition": "A natural acid-base indicator extracted from lichens, frequently used as an aqueous solution or as red and blue paper strips."
+    },
+    {
+      "term": "Olfactory Indicator",
+      "definition": "A substance whose characteristic odour changes depending on whether it is placed in an acidic or a basic medium (e.g., onion)."
+    },
+    {
+      "term": "Lime Water",
+      "definition": "A basic solution of calcium hydroxide prepared by mixing calcium oxide (lime/chuna) in water."
+    },
+    {
+      "term": "Neutralisation Reaction",
+      "definition": "A chemical reaction where an acid and a base mix in sufficient quantities to cancel each other's effects, forming salt and water, and releasing heat."
+    },
+    {
+      "term": "Secondary Term - Lichen",
+      "definition": "A composite organism arising from algae or cyanobacteria living among filaments of multiple fungi in a symbiotic relationship."
+    }
+  ],
+  "summary_points": [
+    "Substances are widely classified as acidic, basic, or neutral based on their chemical properties.",
+    "Acid-base indicators are special substances (like litmus, red rose, red hibiscus, purple cabbage, and turmeric) that exhibit different colours in acidic versus basic solutions.",
+    "Acids turn blue litmus to red, while bases turn red litmus to blue.",
+    "The extract of a red rose turns distinctly red in acidic solutions, but it turns green in basic solutions.",
+    "Turmeric changes its normally yellow colour to red when it contacts basic solutions, but remains completely unchanged in acidic and neutral solutions.",
+    "Olfactory indicators like onions change their characteristic smell in a basic medium but retain it in an acidic medium.",
+    "The process where an acid and a base cancel each other's effects to yield a salt, water, and heat is called a neutralisation reaction.",
+    "Real-world problems such as painful formic acid ant bites, poorly growing plants due to acidic or basic soil, and highly acidic, toxic industrial waste are managed using neutralisation."
+  ]
+}

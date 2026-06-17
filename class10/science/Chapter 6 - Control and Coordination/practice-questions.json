@@ -1,0 +1,115 @@
+{
+  "chapter_info": {
+    "class": 10,
+    "subject": "Science",
+    "chapter_name": "Control and Coordination",
+    "chapter_number": 6
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "difficulty": "Easy",
+      "question": "What is a synapse, and what happens when a nerve impulse reaches it?",
+      "answer": "A synapse is the gap between two neurons where electrical signals are converted into chemical signals for transmission.",
+      "solution": "When an electrical impulse reaches the end of an axon, it triggers the release of chemicals (neurotransmitters). These chemicals cross the synapse and start a similar electrical impulse in the dendrite of the next neuron."
+    },
+    {
+      "id": "q2",
+      "difficulty": "Easy",
+      "question": "Which part of the human brain is responsible for maintaining the posture and balance of the body?",
+      "answer": "The cerebellum, which is a part of the hind-brain.",
+      "solution": "The cerebellum coordinates voluntary movements such as walking in a straight line or riding a bicycle, ensuring precision and maintaining the body's equilibrium."
+    },
+    {
+      "id": "q3",
+      "difficulty": "Easy",
+      "question": "Identify the plant hormone that inhibits growth and causes wilting of leaves.",
+      "answer": "Abscisic acid.",
+      "solution": "Unlike auxins or gibberellins which promote growth, abscisic acid acts as a growth inhibitor, helping the plant respond to stress and signaling processes like leaf fall."
+    },
+    {
+      "id": "q4",
+      "difficulty": "Easy",
+      "question": "Why is the use of iodised salt advisable for humans?",
+      "answer": "Iodine is essential for the thyroid gland to produce thyroxin hormone, which regulates metabolism.",
+      "solution": "Thyroxin controls carbohydrate, protein, and fat metabolism for growth balance. Deficiency of iodine can lead to goitre, characterized by a swollen neck."
+    },
+    {
+      "id": "q5",
+      "difficulty": "Medium",
+      "question": "How does the design of a reflex arc enable a quicker response than conscious thinking?",
+      "answer": "It creates a direct connection between sensory and motor nerves in the spinal cord, bypassing the longer processing route to the brain.",
+      "solution": "Thinking involves complex interactions of many neurons in the brain, which takes time. A reflex arc connects the input nerve directly to the output nerve at the spinal cord level, allowing an immediate muscular response to urgent stimuli like heat."
+    },
+    {
+      "id": "q6",
+      "difficulty": "Medium",
+      "question": "Differentiate between the 'immediate response' and 'movement due to growth' in plants with examples.",
+      "answer": "Immediate response (e.g., Sensitive plant) involves water-driven cell changes, while growth movement (e.g., Phototropism) involves directional growth.",
+      "solution": "The folding of Mimosa pudica leaves is an immediate, non-growth movement caused by changing water levels in cells. In contrast, a seedling bending towards light is a slow, directional growth movement called tropism."
+    },
+    {
+      "id": "q7",
+      "difficulty": "Medium",
+      "question": "How do animal muscles change their shape to cause movement in response to a nerve impulse?",
+      "answer": "Muscle cells contain special proteins that rearrange themselves and change shape in response to electrical signals.",
+      "solution": "When a nerve impulse reaches a muscle, chemical changes trigger specialized proteins to shorten and rearrange, which in turn causes the muscle cell to shorten and produce movement."
+    },
+    {
+      "id": "q8",
+      "difficulty": "Medium",
+      "question": "Explain how auxin promotes phototropism in a plant shoot.",
+      "answer": "Auxin diffuses to the shady side of the shoot, causing cells there to grow longer and bend the plant towards light.",
+      "solution": "Auxin is synthesized at the shoot tip. When light comes from one side, auxin concentrates on the side away from light (shady side), stimulating faster cell elongation there, which pushes the shoot to bend towards the light source."
+    },
+    {
+      "id": "q9",
+      "difficulty": "Medium",
+      "question": "What is the function of the feedback mechanism in the hormonal system? Provide an example.",
+      "answer": "It regulates the timing and amount of hormone release to maintain internal balance.",
+      "solution": "If blood sugar levels rise, pancreas cells detect the change and secrete more insulin. As the sugar level falls, a feedback signal ensures that insulin secretion is reduced, preventing an over-correction."
+    },
+    {
+      "id": "q10",
+      "difficulty": "Hard",
+      "question": "Compare and contrast nervous and hormonal mechanisms for control and coordination in animals.",
+      "answer": "Nervous coordination is fast and targeted via impulses, while hormonal coordination is slower and reaches all cells via the blood.",
+      "solution": "Nervous signals (electrical) are rapid but limited to cells connected by nerves and have short-lived effects. Hormonal signals (chemical) travel through the bloodstream, can reach every cell in the body, and provide persistent, wide-ranging changes (e.g., growth or emergency responses)."
+    },
+    {
+      "id": "q11",
+      "difficulty": "Hard",
+      "question": "A person has difficulty in walking in a straight line and picking up objects with precision. Which part of the brain is likely affected, and what are its primary functions?",
+      "answer": "The cerebellum in the hind-brain is affected. Its functions include maintaining posture, balance, and precision of voluntary actions.",
+      "solution": "The cerebellum is the part of the brain that ensures voluntary actions are precise and the body remains balanced. Damage to this area disrupts coordination despite the individual being able to initiate the movement via the cerebrum."
+    },
+    {
+      "id": "q12",
+      "difficulty": "Hard",
+      "question": "Describe the 'fight or flight' response triggered by adrenaline. How does the body prepare for such an emergency?",
+      "answer": "Adrenaline increases heart rate, breathing, and diverts blood to skeletal muscles to prepare the body for intense physical action.",
+      "solution": "Secreted from adrenal glands, adrenaline acts on the heart to pump more oxygen-rich blood. It restricts blood flow to the digestive system and skin (diverting it to muscles) and increases the breathing rate by acting on diaphragm and rib muscles, enabling a rapid response to danger."
+    },
+    {
+      "id": "q13",
+      "difficulty": "Hard",
+      "question": "What are 'tropic' movements in plants? Explain geotropism and chemotropism with relevant examples.",
+      "answer": "Tropic movements are directional growth responses to stimuli. Geotropism is response to gravity; chemotropism is response to chemicals.",
+      "solution": "Geotropism is seen in roots growing downward (positive) and shoots growing upward (negative). Chemotropism is illustrated by the growth of a pollen tube towards the ovule in a flower in response to chemical signals."
+    },
+    {
+      "id": "q14",
+      "difficulty": "Hard",
+      "question": "Why is it necessary for the brain to be protected by both a bony box and a fluid-filled balloon?",
+      "answer": "To provide rigid structural protection and liquid shock absorption for the delicate nervous tissue.",
+      "solution": "The 'bony box' (cranium) protects against external impacts. The 'fluid-filled balloon' (containing cerebrospinal fluid) sits inside the box, acting as a shock absorber to protect the brain from internal jolts or sudden movements of the head."
+    },
+    {
+      "id": "q15",
+      "difficulty": "Hard",
+      "question": "In the case of a spinal cord injury, which types of signals are likely to be disrupted? Justify your answer.",
+      "answer": "Both sensory signals going to the brain and motor/reflex signals going to muscles will be disrupted.",
+      "solution": "The spinal cord is the main conduit for signals between the brain and the rest of the body. An injury disrupts the bundle of nerves, preventing sensory information from reaching the brain and stopping voluntary/involuntary motor commands from reaching the muscles below the site of injury."
+    }
+  ]
+}
